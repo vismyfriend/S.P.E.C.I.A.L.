@@ -201,6 +201,8 @@ function chooseSet(text, set) {
 }
 function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
+    // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
+    // usedCheatsText.classList.add("visible")
     usedCheatsText.classList.remove("visible")
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")

@@ -38,6 +38,2659 @@ const allCardsGameFindAPair = {
             eng: " id 7 eng "
         },
     ],
+    ac: [
+        {
+            id: 1,
+            eng: "	возникнуть	",
+            ru: "	arise	"
+        },
+        {
+            id: 2,
+            eng: "	пробудиться	",
+            ru: "	awake	"
+        },
+        {
+            id: 3,
+            eng: "	соблюдать	",
+            ru: "	abide	"
+        },
+        {
+            id: 4,
+            eng: "	ломать	",
+            ru: "	break	"
+        },
+        {
+            id: 5,
+            eng: "	бить, побить в соревновании	",
+            ru: "	beat	"
+        },
+        {
+            id: 6,
+            eng: "	становиться	",
+            ru: "	become	"
+        },
+        {
+            id: 7,
+            eng: "	начинать	",
+            ru: "	begin	"
+        },
+        {
+            id: 8,
+            eng: "	дуть	",
+            ru: "	blow	"
+        },
+        {
+            id: 9,
+            eng: "	строить	",
+            ru: "	build	"
+        },
+        {
+            id: 10,
+            eng: "	сжигать, гореть	",
+            ru: "	burn	"
+        },
+        {
+            id: 11,
+            eng: "	покупать	",
+            ru: "	buy	"
+        },
+        {
+            id: 12,
+            eng: "	приносить	",
+            ru: "	bring	"
+        },
+        {
+            id: 13,
+            eng: "	быть	",
+            ru: "	be	"
+        },
+        {
+            id: 14,
+            eng: "	кусать	",
+            ru: "	bite	"
+        },
+        {
+            id: 15,
+            eng: "	приходить	",
+            ru: "	come	"
+        },
+        {
+            id: 16,
+            eng: "	выбирать	",
+            ru: "	choose	"
+        },
+        {
+            id: 17,
+            eng: "	ловить	",
+            ru: "	catch	"
+        },
+        {
+            id: 18,
+            eng: "	ползать	",
+            ru: "	creep	"
+        },
+        {
+            id: 19,
+            eng: "	стоить	",
+            ru: "	cost	"
+        },
+        {
+            id: 20,
+            eng: "	резать	",
+            ru: "	cut	"
+        },
+    ],
+    ae: [
+        {
+            id: 1,
+            eng: "	arise	",
+            ru: "	arose , arisen , возникнуть	"
+        },
+        {
+            id: 2,
+            eng: "	awake	",
+            ru: "	awoke , awoken , пробудиться	"
+        },
+        {
+            id: 3,
+            eng: "	abide	",
+            ru: "	abode , abidden , соблюдать	"
+        },
+        {
+            id: 4,
+            eng: "	break	",
+            ru: "	broke , broken , ломать	"
+        },
+        {
+            id: 5,
+            eng: "	beat	",
+            ru: "	beat , beaten , бить, побить в соревновании	"
+        },
+        {
+            id: 6,
+            eng: "	become	",
+            ru: "	became , become , становиться	"
+        },
+        {
+            id: 7,
+            eng: "	begin	",
+            ru: "	began , begun , начинать	"
+        },
+        {
+            id: 8,
+            eng: "	blow	",
+            ru: "	blew , blown , дуть	"
+        },
+        {
+            id: 9,
+            eng: "	build	",
+            ru: "	built , built , строить	"
+        },
+        {
+            id: 10,
+            eng: "	burn	",
+            ru: "	burnt , burnt , сжигать, гореть	"
+        },
+        {
+            id: 11,
+            eng: "	buy	",
+            ru: "	bought , bought , покупать	"
+        },
+        {
+            id: 12,
+            eng: "	bring	",
+            ru: "	brought , brought , приносить	"
+        },
+        {
+            id: 13,
+            eng: "	be	",
+            ru: "	was/were , been , быть	"
+        },
+        {
+            id: 14,
+            eng: "	bite	",
+            ru: "	bit , bit , кусать	"
+        },
+        {
+            id: 15,
+            eng: "	come	",
+            ru: "	came , come , приходить	"
+        },
+        {
+            id: 16,
+            eng: "	choose	",
+            ru: "	chose , chosen , выбирать	"
+        },
+        {
+            id: 17,
+            eng: "	catch	",
+            ru: "	caught , caught , ловить	"
+        },
+        {
+            id: 18,
+            eng: "	creep	",
+            ru: "	crept , crept , ползать	"
+        },
+        {
+            id: 19,
+            eng: "	cost	",
+            ru: "	cost , cost , стоить	"
+        },
+        {
+            id: 20,
+            eng: "	cut	",
+            ru: "	cut , cut , резать	"
+        },
+        {
+            id: 21,
+            eng: "	deal	",
+            ru: "	dealt , dealt , иметь дела	"
+        },
+        {
+            id: 22,
+            eng: "	dig	",
+            ru: "	dug , dug , копать	"
+        },
+        {
+            id: 23,
+            eng: "	do	",
+            ru: "	did , done , выполнять, делать, заниматься	"
+        },
+        {
+            id: 24,
+            eng: "	drive	",
+            ru: "	drove , driven , водить	"
+        },
+        {
+            id: 25,
+            eng: "	draw	",
+            ru: "	drew , drawn , рисовать	"
+        },
+        {
+            id: 26,
+            eng: "	drink	",
+            ru: "	drank , drunk , пить	"
+        },
+        {
+            id: 27,
+            eng: "	eat	",
+            ru: "	ate , eaten , кушать	"
+        },
+    ],
+    cf: [
+
+        {
+            id: 15,
+            eng: "	come	",
+            ru: "	came , come , приходить	"
+        },
+        {
+            id: 16,
+            eng: "	choose	",
+            ru: "	chose , chosen , выбирать	"
+        },
+        {
+            id: 17,
+            eng: "	catch	",
+            ru: "	caught , caught , ловить	"
+        },
+        {
+            id: 18,
+            eng: "	creep	",
+            ru: "	crept , crept , ползать	"
+        },
+        {
+            id: 19,
+            eng: "	cost	",
+            ru: "	cost , cost , стоить	"
+        },
+        {
+            id: 20,
+            eng: "	cut	",
+            ru: "	cut , cut , резать	"
+        },
+        {
+            id: 21,
+            eng: "	deal	",
+            ru: "	dealt , dealt , иметь дела	"
+        },
+        {
+            id: 22,
+            eng: "	dig	",
+            ru: "	dug , dug , копать	"
+        },
+        {
+            id: 23,
+            eng: "	do	",
+            ru: "	did , done , выполнять, делать, заниматься	"
+        },
+        {
+            id: 24,
+            eng: "	drive	",
+            ru: "	drove , driven , водить	"
+        },
+        {
+            id: 25,
+            eng: "	draw	",
+            ru: "	drew , drawn , рисовать	"
+        },
+        {
+            id: 26,
+            eng: "	drink	",
+            ru: "	drank , drunk , пить	"
+        },
+        {
+            id: 27,
+            eng: "	eat	",
+            ru: "	ate , eaten , кушать	"
+        },
+        {
+            id: 28,
+            eng: "	fall	",
+            ru: "	fell , fallen , падать	"
+        },
+        {
+            id: 29,
+            eng: "	feed	",
+            ru: "	fed , fed , кормить	"
+        },
+        {
+            id: 30,
+            eng: "	feel	",
+            ru: "	felt , felt , чувствовать	"
+        },
+        {
+            id: 31,
+            eng: "	fight	",
+            ru: "	fought , fought , сражаться	"
+        },
+        {
+            id: 32,
+            eng: "	find	",
+            ru: "	found , found , находить	"
+        },
+        {
+            id: 33,
+            eng: "	fly	",
+            ru: "	flew , flown , летать	"
+        },
+        {
+            id: 34,
+            eng: "	forbid	",
+            ru: "	forbade , forbidden , запрещать	"
+        },
+        {
+            id: 35,
+            eng: "	forget	",
+            ru: "	forgot , forgotten , забывать	"
+        },
+        {
+            id: 36,
+            eng: "	forgive	",
+            ru: "	forgave , forgiven , прощать	"
+        },
+        {
+            id: 37,
+            eng: "	freeze	",
+            ru: "	froze , frozen , замерзать	"
+        },
+
+    ],
+    cg: [
+
+        {
+            id: 15,
+            eng: "	come	",
+            ru: "	came , come , приходить	"
+        },
+        {
+            id: 16,
+            eng: "	choose	",
+            ru: "	chose , chosen , выбирать	"
+        },
+        {
+            id: 17,
+            eng: "	catch	",
+            ru: "	caught , caught , ловить	"
+        },
+        {
+            id: 18,
+            eng: "	creep	",
+            ru: "	crept , crept , ползать	"
+        },
+        {
+            id: 19,
+            eng: "	cost	",
+            ru: "	cost , cost , стоить	"
+        },
+        {
+            id: 20,
+            eng: "	cut	",
+            ru: "	cut , cut , резать	"
+        },
+        {
+            id: 21,
+            eng: "	deal	",
+            ru: "	dealt , dealt , иметь дела	"
+        },
+        {
+            id: 22,
+            eng: "	dig	",
+            ru: "	dug , dug , копать	"
+        },
+        {
+            id: 23,
+            eng: "	do	",
+            ru: "	did , done , выполнять, делать, заниматься	"
+        },
+        {
+            id: 24,
+            eng: "	drive	",
+            ru: "	drove , driven , водить	"
+        },
+        {
+            id: 25,
+            eng: "	draw	",
+            ru: "	drew , drawn , рисовать	"
+        },
+        {
+            id: 26,
+            eng: "	drink	",
+            ru: "	drank , drunk , пить	"
+        },
+        {
+            id: 27,
+            eng: "	eat	",
+            ru: "	ate , eaten , кушать	"
+        },
+        {
+            id: 28,
+            eng: "	fall	",
+            ru: "	fell , fallen , падать	"
+        },
+        {
+            id: 29,
+            eng: "	feed	",
+            ru: "	fed , fed , кормить	"
+        },
+        {
+            id: 30,
+            eng: "	feel	",
+            ru: "	felt , felt , чувствовать	"
+        },
+        {
+            id: 31,
+            eng: "	fight	",
+            ru: "	fought , fought , сражаться	"
+        },
+        {
+            id: 32,
+            eng: "	find	",
+            ru: "	found , found , находить	"
+        },
+        {
+            id: 33,
+            eng: "	fly	",
+            ru: "	flew , flown , летать	"
+        },
+        {
+            id: 34,
+            eng: "	forbid	",
+            ru: "	forbade , forbidden , запрещать	"
+        },
+        {
+            id: 35,
+            eng: "	forget	",
+            ru: "	forgot , forgotten , забывать	"
+        },
+        {
+            id: 36,
+            eng: "	forgive	",
+            ru: "	forgave , forgiven , прощать	"
+        },
+        {
+            id: 37,
+            eng: "	freeze	",
+            ru: "	froze , frozen , замерзать	"
+        },
+        {
+            id: 38,
+            eng: "	grow	",
+            ru: "	grew , grown , расти	"
+        },
+        {
+            id: 39,
+            eng: "	get	",
+            ru: "	got , got , получать	"
+        },
+        {
+            id: 40,
+            eng: "	give	",
+            ru: "	gave , given , давать	"
+        },
+        {
+            id: 41,
+            eng: "	go	",
+            ru: "	went , gone , ходить	"
+        },
+
+    ],
+    eg: [
+
+        {
+            id: 27,
+            eng: "	eat	",
+            ru: "	ate , eaten , кушать	"
+        },
+        {
+            id: 28,
+            eng: "	fall	",
+            ru: "	fell , fallen , падать	"
+        },
+        {
+            id: 29,
+            eng: "	feed	",
+            ru: "	fed , fed , кормить	"
+        },
+        {
+            id: 30,
+            eng: "	feel	",
+            ru: "	felt , felt , чувствовать	"
+        },
+        {
+            id: 31,
+            eng: "	fight	",
+            ru: "	fought , fought , сражаться	"
+        },
+        {
+            id: 32,
+            eng: "	find	",
+            ru: "	found , found , находить	"
+        },
+        {
+            id: 33,
+            eng: "	fly	",
+            ru: "	flew , flown , летать	"
+        },
+        {
+            id: 34,
+            eng: "	forbid	",
+            ru: "	forbade , forbidden , запрещать	"
+        },
+        {
+            id: 35,
+            eng: "	forget	",
+            ru: "	forgot , forgotten , забывать	"
+        },
+        {
+            id: 36,
+            eng: "	forgive	",
+            ru: "	forgave , forgiven , прощать	"
+        },
+        {
+            id: 37,
+            eng: "	freeze	",
+            ru: "	froze , frozen , замерзать	"
+        },
+        {
+            id: 38,
+            eng: "	grow	",
+            ru: "	grew , grown , расти	"
+        },
+        {
+            id: 39,
+            eng: "	get	",
+            ru: "	got , got , получать	"
+        },
+        {
+            id: 40,
+            eng: "	give	",
+            ru: "	gave , given , давать	"
+        },
+        {
+            id: 41,
+            eng: "	go	",
+            ru: "	went , gone , ходить	"
+        },
+
+    ],
+    eh: [
+
+        {
+            id: 27,
+            eng: "	eat	",
+            ru: "	ate , eaten , кушать	"
+        },
+        {
+            id: 28,
+            eng: "	fall	",
+            ru: "	fell , fallen , падать	"
+        },
+        {
+            id: 29,
+            eng: "	feed	",
+            ru: "	fed , fed , кормить	"
+        },
+        {
+            id: 30,
+            eng: "	feel	",
+            ru: "	felt , felt , чувствовать	"
+        },
+        {
+            id: 31,
+            eng: "	fight	",
+            ru: "	fought , fought , сражаться	"
+        },
+        {
+            id: 32,
+            eng: "	find	",
+            ru: "	found , found , находить	"
+        },
+        {
+            id: 33,
+            eng: "	fly	",
+            ru: "	flew , flown , летать	"
+        },
+        {
+            id: 34,
+            eng: "	forbid	",
+            ru: "	forbade , forbidden , запрещать	"
+        },
+        {
+            id: 35,
+            eng: "	forget	",
+            ru: "	forgot , forgotten , забывать	"
+        },
+        {
+            id: 36,
+            eng: "	forgive	",
+            ru: "	forgave , forgiven , прощать	"
+        },
+        {
+            id: 37,
+            eng: "	freeze	",
+            ru: "	froze , frozen , замерзать	"
+        },
+        {
+            id: 38,
+            eng: "	grow	",
+            ru: "	grew , grown , расти	"
+        },
+        {
+            id: 39,
+            eng: "	get	",
+            ru: "	got , got , получать	"
+        },
+        {
+            id: 40,
+            eng: "	give	",
+            ru: "	gave , given , давать	"
+        },
+        {
+            id: 41,
+            eng: "	go	",
+            ru: "	went , gone , ходить	"
+        },
+        {
+            id: 42,
+            eng: "	have	",
+            ru: "	had , had , иметь	"
+        },
+        {
+            id: 43,
+            eng: "	hear	",
+            ru: "	heard , heard , слышать	"
+        },
+        {
+            id: 44,
+            eng: "	hide	",
+            ru: "	hid , hidden , прятать	"
+        },
+        {
+            id: 45,
+            eng: "	hit	",
+            ru: "	hit , hit , ударять	"
+        },
+        {
+            id: 46,
+            eng: "	hurt	",
+            ru: "	hurt , hurt , причинять боль	"
+        },
+        {
+            id: 47,
+            eng: "	hold	",
+            ru: "	held , held , держать	"
+        },
+
+    ],
+    hm: [
+
+        {
+            id: 42,
+            eng: "	have	",
+            ru: "	had , had , иметь	"
+        },
+        {
+            id: 43,
+            eng: "	hear	",
+            ru: "	heard , heard , слышать	"
+        },
+        {
+            id: 44,
+            eng: "	hide	",
+            ru: "	hid , hidden , прятать	"
+        },
+        {
+            id: 45,
+            eng: "	hit	",
+            ru: "	hit , hit , ударять	"
+        },
+        {
+            id: 46,
+            eng: "	hurt	",
+            ru: "	hurt , hurt , причинять боль	"
+        },
+        {
+            id: 47,
+            eng: "	hold	",
+            ru: "	held , held , держать	"
+        },
+        {
+            id: 48,
+            eng: "	keep	",
+            ru: "	kept , kept , хранить	"
+        },
+        {
+            id: 49,
+            eng: "	know	",
+            ru: "	knew , known , знать	"
+        },
+        {
+            id: 50,
+            eng: "	learn	",
+            ru: "	learnt , learnt , изучать	"
+        },
+        {
+            id: 51,
+            eng: "	leave	",
+            ru: "	left , left , покидать	"
+        },
+        {
+            id: 52,
+            eng: "	lend	",
+            ru: "	lent , lent , давать в долг	"
+        },
+        {
+            id: 53,
+            eng: "	let	",
+            ru: "	let , let , позволять	"
+        },
+        {
+            id: 54,
+            eng: "	lose	",
+            ru: "	lost , lost , терять	"
+        },
+        {
+            id: 55,
+            eng: "	tell a lie	",
+            ru: "	lied , lied , говорить неправду	"
+        },
+        {
+            id: 56,
+            eng: "	lie	",
+            ru: "	lay , lain , лежать	"
+        },
+        {
+            id: 57,
+            eng: "	make	",
+            ru: "	made , made , создавать, делать	"
+        },
+        {
+            id: 58,
+            eng: "	mean	",
+            ru: "	meant , meant , иметь ввиду	"
+        },
+        {
+            id: 59,
+            eng: "	meet	",
+            ru: "	met , met , встречать(ся)	"
+        },
+
+    ],
+    hr: [
+
+        {
+            id: 42,
+            eng: "	have	",
+            ru: "	had , had , иметь	"
+        },
+        {
+            id: 43,
+            eng: "	hear	",
+            ru: "	heard , heard , слышать	"
+        },
+        {
+            id: 44,
+            eng: "	hide	",
+            ru: "	hid , hidden , прятать	"
+        },
+        {
+            id: 45,
+            eng: "	hit	",
+            ru: "	hit , hit , ударять	"
+        },
+        {
+            id: 46,
+            eng: "	hurt	",
+            ru: "	hurt , hurt , причинять боль	"
+        },
+        {
+            id: 47,
+            eng: "	hold	",
+            ru: "	held , held , держать	"
+        },
+        {
+            id: 48,
+            eng: "	keep	",
+            ru: "	kept , kept , хранить	"
+        },
+        {
+            id: 49,
+            eng: "	know	",
+            ru: "	knew , known , знать	"
+        },
+        {
+            id: 50,
+            eng: "	learn	",
+            ru: "	learnt , learnt , изучать	"
+        },
+        {
+            id: 51,
+            eng: "	leave	",
+            ru: "	left , left , покидать	"
+        },
+        {
+            id: 52,
+            eng: "	lend	",
+            ru: "	lent , lent , давать в долг	"
+        },
+        {
+            id: 53,
+            eng: "	let	",
+            ru: "	let , let , позволять	"
+        },
+        {
+            id: 54,
+            eng: "	lose	",
+            ru: "	lost , lost , терять	"
+        },
+        {
+            id: 55,
+            eng: "	tell a lie	",
+            ru: "	lied , lied , говорить неправду	"
+        },
+        {
+            id: 56,
+            eng: "	lie	",
+            ru: "	lay , lain , лежать	"
+        },
+        {
+            id: 57,
+            eng: "	make	",
+            ru: "	made , made , создавать, делать	"
+        },
+        {
+            id: 58,
+            eng: "	mean	",
+            ru: "	meant , meant , иметь ввиду	"
+        },
+        {
+            id: 59,
+            eng: "	meet	",
+            ru: "	met , met , встречать(ся)	"
+        },
+        {
+            id: 60,
+            eng: "	pay	",
+            ru: "	paid , paid , платить	"
+        },
+        {
+            id: 61,
+            eng: "	put	",
+            ru: "	put , put , класть	"
+        },
+        {
+            id: 62,
+            eng: "	read	",
+            ru: "	read , read , читать	"
+        },
+        {
+            id: 63,
+            eng: "	ride	",
+            ru: "	rode , ridden , ездить верхом	"
+        },
+        {
+            id: 64,
+            eng: "	ring	",
+            ru: "	rang , rung , звенеть, звонить	"
+        },
+        {
+            id: 65,
+            eng: "	run	",
+            ru: "	ran , run , бегать	"
+        },
+        {
+            id: 66,
+            eng: "	rise	",
+            ru: "	rose , risen , подниматься	"
+        },
+
+    ],
+    lr: [
+
+        {
+            id: 50,
+            eng: "	learn	",
+            ru: "	learnt , learnt , изучать	"
+        },
+        {
+            id: 51,
+            eng: "	leave	",
+            ru: "	left , left , покидать	"
+        },
+        {
+            id: 52,
+            eng: "	lend	",
+            ru: "	lent , lent , давать в долг	"
+        },
+        {
+            id: 53,
+            eng: "	let	",
+            ru: "	let , let , позволять	"
+        },
+        {
+            id: 54,
+            eng: "	lose	",
+            ru: "	lost , lost , терять	"
+        },
+        {
+            id: 55,
+            eng: "	tell a lie	",
+            ru: "	lied , lied , говорить неправду	"
+        },
+        {
+            id: 56,
+            eng: "	lie	",
+            ru: "	lay , lain , лежать	"
+        },
+        {
+            id: 57,
+            eng: "	make	",
+            ru: "	made , made , создавать, делать	"
+        },
+        {
+            id: 58,
+            eng: "	mean	",
+            ru: "	meant , meant , иметь ввиду	"
+        },
+        {
+            id: 59,
+            eng: "	meet	",
+            ru: "	met , met , встречать(ся)	"
+        },
+        {
+            id: 60,
+            eng: "	pay	",
+            ru: "	paid , paid , платить	"
+        },
+        {
+            id: 61,
+            eng: "	put	",
+            ru: "	put , put , класть	"
+        },
+        {
+            id: 62,
+            eng: "	read	",
+            ru: "	read , read , читать	"
+        },
+        {
+            id: 63,
+            eng: "	ride	",
+            ru: "	rode , ridden , ездить верхом	"
+        },
+        {
+            id: 64,
+            eng: "	ring	",
+            ru: "	rang , rung , звенеть, звонить	"
+        },
+        {
+            id: 65,
+            eng: "	run	",
+            ru: "	ran , run , бегать	"
+        },
+        {
+            id: 66,
+            eng: "	rise	",
+            ru: "	rose , risen , подниматься	"
+        },
+
+    ],
+    ls: [
+
+        {
+            id: 50,
+            eng: "	learn	",
+            ru: "	learnt , learnt , изучать	"
+        },
+        {
+            id: 51,
+            eng: "	leave	",
+            ru: "	left , left , покидать	"
+        },
+        {
+            id: 52,
+            eng: "	lend	",
+            ru: "	lent , lent , давать в долг	"
+        },
+        {
+            id: 53,
+            eng: "	let	",
+            ru: "	let , let , позволять	"
+        },
+        {
+            id: 54,
+            eng: "	lose	",
+            ru: "	lost , lost , терять	"
+        },
+        {
+            id: 55,
+            eng: "	tell a lie	",
+            ru: "	lied , lied , говорить неправду	"
+        },
+        {
+            id: 56,
+            eng: "	lie	",
+            ru: "	lay , lain , лежать	"
+        },
+        {
+            id: 57,
+            eng: "	make	",
+            ru: "	made , made , создавать, делать	"
+        },
+        {
+            id: 58,
+            eng: "	mean	",
+            ru: "	meant , meant , иметь ввиду	"
+        },
+        {
+            id: 59,
+            eng: "	meet	",
+            ru: "	met , met , встречать(ся)	"
+        },
+        {
+            id: 60,
+            eng: "	pay	",
+            ru: "	paid , paid , платить	"
+        },
+        {
+            id: 61,
+            eng: "	put	",
+            ru: "	put , put , класть	"
+        },
+        {
+            id: 62,
+            eng: "	read	",
+            ru: "	read , read , читать	"
+        },
+        {
+            id: 63,
+            eng: "	ride	",
+            ru: "	rode , ridden , ездить верхом	"
+        },
+        {
+            id: 64,
+            eng: "	ring	",
+            ru: "	rang , rung , звенеть, звонить	"
+        },
+        {
+            id: 65,
+            eng: "	run	",
+            ru: "	ran , run , бегать	"
+        },
+        {
+            id: 66,
+            eng: "	rise	",
+            ru: "	rose , risen , подниматься	"
+        },
+        {
+            id: 67,
+            eng: "	say	",
+            ru: "	said , said , сказать, произнести	"
+        },
+        {
+            id: 68,
+            eng: "	see	",
+            ru: "	saw , seen , (у)видеть	"
+        },
+        {
+            id: 69,
+            eng: "	sell	",
+            ru: "	sold , sold , продавать	"
+        },
+        {
+            id: 70,
+            eng: "	send	",
+            ru: "	sent , sent , отправлять	"
+        },
+        {
+            id: 71,
+            eng: "	shake	",
+            ru: "	shook , shaken , трясти	"
+        },
+        {
+            id: 72,
+            eng: "	shoot	",
+            ru: "	shot , shot , стрелять	"
+        },
+        {
+            id: 73,
+            eng: "	shut	",
+            ru: "	shut , shut , захлопнуть	"
+        },
+        {
+            id: 74,
+            eng: "	sing	",
+            ru: "	sang , sung , петь	"
+        },
+        {
+            id: 75,
+            eng: "	sink	",
+            ru: "	sank , sunk , затонуть	"
+        },
+        {
+            id: 76,
+            eng: "	sit	",
+            ru: "	sat , sat , сидеть	"
+        },
+        {
+            id: 77,
+            eng: "	sleep	",
+            ru: "	slept , slept , спать	"
+        },
+        {
+            id: 78,
+            eng: "	slide	",
+            ru: "	slid , slid , скользить	"
+        },
+        {
+            id: 79,
+            eng: "	speak	",
+            ru: "	spoke , spoken , разговаривать	"
+        },
+        {
+            id: 80,
+            eng: "	spend	",
+            ru: "	spent , spent , тратить	"
+        },
+        {
+            id: 81,
+            eng: "	spit	",
+            ru: "	spat , spat , плеваться	"
+        },
+        {
+            id: 82,
+            eng: "	stand	",
+            ru: "	stood , stood , встать, стоять	"
+        },
+        {
+            id: 83,
+            eng: "	steal	",
+            ru: "	stole , stolen , воровать	"
+        },
+        {
+            id: 84,
+            eng: "	stick	",
+            ru: "	stuck , stuck , приклеить, застрять 	"
+        },
+        {
+            id: 85,
+            eng: "	stink	",
+            ru: "	stank , stunk , вонять	"
+        },
+        {
+            id: 86,
+            eng: "	strike	",
+            ru: "	struck , struck , ударять	"
+        },
+        {
+            id: 87,
+            eng: "	swear	",
+            ru: "	swore , sworn , клясться/материться 	"
+        },
+        {
+            id: 88,
+            eng: "	sweep	",
+            ru: "	swept , swept , подметать	"
+        },
+        {
+            id: 89,
+            eng: "	swim	",
+            ru: "	swam , swum , плавать	"
+        },
+        {
+            id: 90,
+            eng: "	swing	",
+            ru: "	swung , swung , качаться	"
+        },
+    ],
+    rs: [
+
+        {
+            id: 62,
+            eng: "	read	",
+            ru: "	read , read , читать	"
+        },
+        {
+            id: 63,
+            eng: "	ride	",
+            ru: "	rode , ridden , ездить верхом	"
+        },
+        {
+            id: 64,
+            eng: "	ring	",
+            ru: "	rang , rung , звенеть, звонить	"
+        },
+        {
+            id: 65,
+            eng: "	run	",
+            ru: "	ran , run , бегать	"
+        },
+        {
+            id: 66,
+            eng: "	rise	",
+            ru: "	rose , risen , подниматься	"
+        },
+        {
+            id: 67,
+            eng: "	say	",
+            ru: "	said , said , сказать, произнести	"
+        },
+        {
+            id: 68,
+            eng: "	see	",
+            ru: "	saw , seen , (у)видеть	"
+        },
+        {
+            id: 69,
+            eng: "	sell	",
+            ru: "	sold , sold , продавать	"
+        },
+        {
+            id: 70,
+            eng: "	send	",
+            ru: "	sent , sent , отправлять	"
+        },
+        {
+            id: 71,
+            eng: "	shake	",
+            ru: "	shook , shaken , трясти	"
+        },
+        {
+            id: 72,
+            eng: "	shoot	",
+            ru: "	shot , shot , стрелять	"
+        },
+        {
+            id: 73,
+            eng: "	shut	",
+            ru: "	shut , shut , захлопнуть	"
+        },
+        {
+            id: 74,
+            eng: "	sing	",
+            ru: "	sang , sung , петь	"
+        },
+        {
+            id: 75,
+            eng: "	sink	",
+            ru: "	sank , sunk , затонуть	"
+        },
+        {
+            id: 76,
+            eng: "	sit	",
+            ru: "	sat , sat , сидеть	"
+        },
+        {
+            id: 77,
+            eng: "	sleep	",
+            ru: "	slept , slept , спать	"
+        },
+        {
+            id: 78,
+            eng: "	slide	",
+            ru: "	slid , slid , скользить	"
+        },
+        {
+            id: 79,
+            eng: "	speak	",
+            ru: "	spoke , spoken , разговаривать	"
+        },
+        {
+            id: 80,
+            eng: "	spend	",
+            ru: "	spent , spent , тратить	"
+        },
+        {
+            id: 81,
+            eng: "	spit	",
+            ru: "	spat , spat , плеваться	"
+        },
+        {
+            id: 82,
+            eng: "	stand	",
+            ru: "	stood , stood , встать, стоять	"
+        },
+        {
+            id: 83,
+            eng: "	steal	",
+            ru: "	stole , stolen , воровать	"
+        },
+        {
+            id: 84,
+            eng: "	stick	",
+            ru: "	stuck , stuck , приклеить, застрять 	"
+        },
+        {
+            id: 85,
+            eng: "	stink	",
+            ru: "	stank , stunk , вонять	"
+        },
+        {
+            id: 86,
+            eng: "	strike	",
+            ru: "	struck , struck , ударять	"
+        },
+        {
+            id: 87,
+            eng: "	swear	",
+            ru: "	swore , sworn , клясться/материться 	"
+        },
+        {
+            id: 88,
+            eng: "	sweep	",
+            ru: "	swept , swept , подметать	"
+        },
+        {
+            id: 89,
+            eng: "	swim	",
+            ru: "	swam , swum , плавать	"
+        },
+        {
+            id: 90,
+            eng: "	swing	",
+            ru: "	swung , swung , качаться	"
+        },
+
+    ],
+    rt: [
+
+        {
+            id: 62,
+            eng: "	read	",
+            ru: "	read , read , читать	"
+        },
+        {
+            id: 63,
+            eng: "	ride	",
+            ru: "	rode , ridden , ездить верхом	"
+        },
+        {
+            id: 64,
+            eng: "	ring	",
+            ru: "	rang , rung , звенеть, звонить	"
+        },
+        {
+            id: 65,
+            eng: "	run	",
+            ru: "	ran , run , бегать	"
+        },
+        {
+            id: 66,
+            eng: "	rise	",
+            ru: "	rose , risen , подниматься	"
+        },
+        {
+            id: 67,
+            eng: "	say	",
+            ru: "	said , said , сказать, произнести	"
+        },
+        {
+            id: 68,
+            eng: "	see	",
+            ru: "	saw , seen , (у)видеть	"
+        },
+        {
+            id: 69,
+            eng: "	sell	",
+            ru: "	sold , sold , продавать	"
+        },
+        {
+            id: 70,
+            eng: "	send	",
+            ru: "	sent , sent , отправлять	"
+        },
+        {
+            id: 71,
+            eng: "	shake	",
+            ru: "	shook , shaken , трясти	"
+        },
+        {
+            id: 72,
+            eng: "	shoot	",
+            ru: "	shot , shot , стрелять	"
+        },
+        {
+            id: 73,
+            eng: "	shut	",
+            ru: "	shut , shut , захлопнуть	"
+        },
+        {
+            id: 74,
+            eng: "	sing	",
+            ru: "	sang , sung , петь	"
+        },
+        {
+            id: 75,
+            eng: "	sink	",
+            ru: "	sank , sunk , затонуть	"
+        },
+        {
+            id: 76,
+            eng: "	sit	",
+            ru: "	sat , sat , сидеть	"
+        },
+        {
+            id: 77,
+            eng: "	sleep	",
+            ru: "	slept , slept , спать	"
+        },
+        {
+            id: 78,
+            eng: "	slide	",
+            ru: "	slid , slid , скользить	"
+        },
+        {
+            id: 79,
+            eng: "	speak	",
+            ru: "	spoke , spoken , разговаривать	"
+        },
+        {
+            id: 80,
+            eng: "	spend	",
+            ru: "	spent , spent , тратить	"
+        },
+        {
+            id: 81,
+            eng: "	spit	",
+            ru: "	spat , spat , плеваться	"
+        },
+        {
+            id: 82,
+            eng: "	stand	",
+            ru: "	stood , stood , встать, стоять	"
+        },
+        {
+            id: 83,
+            eng: "	steal	",
+            ru: "	stole , stolen , воровать	"
+        },
+        {
+            id: 84,
+            eng: "	stick	",
+            ru: "	stuck , stuck , приклеить, застрять 	"
+        },
+        {
+            id: 85,
+            eng: "	stink	",
+            ru: "	stank , stunk , вонять	"
+        },
+        {
+            id: 86,
+            eng: "	strike	",
+            ru: "	struck , struck , ударять	"
+        },
+        {
+            id: 87,
+            eng: "	swear	",
+            ru: "	swore , sworn , клясться/материться 	"
+        },
+        {
+            id: 88,
+            eng: "	sweep	",
+            ru: "	swept , swept , подметать	"
+        },
+        {
+            id: 89,
+            eng: "	swim	",
+            ru: "	swam , swum , плавать	"
+        },
+        {
+            id: 90,
+            eng: "	swing	",
+            ru: "	swung , swung , качаться	"
+        },
+        {
+            id: 91,
+            eng: "	take	",
+            ru: "	took , taken , брать	"
+        },
+        {
+            id: 92,
+            eng: "	teach	",
+            ru: "	taught , taught , обучать	"
+        },
+        {
+            id: 93,
+            eng: "	tear	",
+            ru: "	tore , torn , рвать, вырывать	"
+        },
+        {
+            id: 94,
+            eng: "	tell	",
+            ru: "	told , told , рассказывать	"
+        },
+        {
+            id: 95,
+            eng: "	think	",
+            ru: "	thought , thought , думать	"
+        },
+        {
+            id: 96,
+            eng: "	throw	",
+            ru: "	threw , thrown , бросать	"
+        },
+
+    ],
+    st: [
+
+        {
+            id: 67,
+            eng: "	say	",
+            ru: "	said , said , сказать, произнести	"
+        },
+        {
+            id: 68,
+            eng: "	see	",
+            ru: "	saw , seen , (у)видеть	"
+        },
+        {
+            id: 69,
+            eng: "	sell	",
+            ru: "	sold , sold , продавать	"
+        },
+        {
+            id: 70,
+            eng: "	send	",
+            ru: "	sent , sent , отправлять	"
+        },
+        {
+            id: 71,
+            eng: "	shake	",
+            ru: "	shook , shaken , трясти	"
+        },
+        {
+            id: 72,
+            eng: "	shoot	",
+            ru: "	shot , shot , стрелять	"
+        },
+        {
+            id: 73,
+            eng: "	shut	",
+            ru: "	shut , shut , захлопнуть	"
+        },
+        {
+            id: 74,
+            eng: "	sing	",
+            ru: "	sang , sung , петь	"
+        },
+        {
+            id: 75,
+            eng: "	sink	",
+            ru: "	sank , sunk , затонуть	"
+        },
+        {
+            id: 76,
+            eng: "	sit	",
+            ru: "	sat , sat , сидеть	"
+        },
+        {
+            id: 77,
+            eng: "	sleep	",
+            ru: "	slept , slept , спать	"
+        },
+        {
+            id: 78,
+            eng: "	slide	",
+            ru: "	slid , slid , скользить	"
+        },
+        {
+            id: 79,
+            eng: "	speak	",
+            ru: "	spoke , spoken , разговаривать	"
+        },
+        {
+            id: 80,
+            eng: "	spend	",
+            ru: "	spent , spent , тратить	"
+        },
+        {
+            id: 81,
+            eng: "	spit	",
+            ru: "	spat , spat , плеваться	"
+        },
+        {
+            id: 82,
+            eng: "	stand	",
+            ru: "	stood , stood , встать, стоять	"
+        },
+        {
+            id: 83,
+            eng: "	steal	",
+            ru: "	stole , stolen , воровать	"
+        },
+        {
+            id: 84,
+            eng: "	stick	",
+            ru: "	stuck , stuck , приклеить, застрять 	"
+        },
+        {
+            id: 85,
+            eng: "	stink	",
+            ru: "	stank , stunk , вонять	"
+        },
+        {
+            id: 86,
+            eng: "	strike	",
+            ru: "	struck , struck , ударять	"
+        },
+        {
+            id: 87,
+            eng: "	swear	",
+            ru: "	swore , sworn , клясться/материться 	"
+        },
+        {
+            id: 88,
+            eng: "	sweep	",
+            ru: "	swept , swept , подметать	"
+        },
+        {
+            id: 89,
+            eng: "	swim	",
+            ru: "	swam , swum , плавать	"
+        },
+        {
+            id: 90,
+            eng: "	swing	",
+            ru: "	swung , swung , качаться	"
+        },
+        {
+            id: 91,
+            eng: "	take	",
+            ru: "	took , taken , брать	"
+        },
+        {
+            id: 92,
+            eng: "	teach	",
+            ru: "	taught , taught , обучать	"
+        },
+        {
+            id: 93,
+            eng: "	tear	",
+            ru: "	tore , torn , рвать, вырывать	"
+        },
+        {
+            id: 94,
+            eng: "	tell	",
+            ru: "	told , told , рассказывать	"
+        },
+        {
+            id: 95,
+            eng: "	think	",
+            ru: "	thought , thought , думать	"
+        },
+        {
+            id: 96,
+            eng: "	throw	",
+            ru: "	threw , thrown , бросать	"
+        },
+
+    ],
+    sw: [
+
+        {
+            id: 67,
+            eng: "	say	",
+            ru: "	said , said , сказать, произнести	"
+        },
+        {
+            id: 68,
+            eng: "	see	",
+            ru: "	saw , seen , (у)видеть	"
+        },
+        {
+            id: 69,
+            eng: "	sell	",
+            ru: "	sold , sold , продавать	"
+        },
+        {
+            id: 70,
+            eng: "	send	",
+            ru: "	sent , sent , отправлять	"
+        },
+        {
+            id: 71,
+            eng: "	shake	",
+            ru: "	shook , shaken , трясти	"
+        },
+        {
+            id: 72,
+            eng: "	shoot	",
+            ru: "	shot , shot , стрелять	"
+        },
+        {
+            id: 73,
+            eng: "	shut	",
+            ru: "	shut , shut , захлопнуть	"
+        },
+        {
+            id: 74,
+            eng: "	sing	",
+            ru: "	sang , sung , петь	"
+        },
+        {
+            id: 75,
+            eng: "	sink	",
+            ru: "	sank , sunk , затонуть	"
+        },
+        {
+            id: 76,
+            eng: "	sit	",
+            ru: "	sat , sat , сидеть	"
+        },
+        {
+            id: 77,
+            eng: "	sleep	",
+            ru: "	slept , slept , спать	"
+        },
+        {
+            id: 78,
+            eng: "	slide	",
+            ru: "	slid , slid , скользить	"
+        },
+        {
+            id: 79,
+            eng: "	speak	",
+            ru: "	spoke , spoken , разговаривать	"
+        },
+        {
+            id: 80,
+            eng: "	spend	",
+            ru: "	spent , spent , тратить	"
+        },
+        {
+            id: 81,
+            eng: "	spit	",
+            ru: "	spat , spat , плеваться	"
+        },
+        {
+            id: 82,
+            eng: "	stand	",
+            ru: "	stood , stood , встать, стоять	"
+        },
+        {
+            id: 83,
+            eng: "	steal	",
+            ru: "	stole , stolen , воровать	"
+        },
+        {
+            id: 84,
+            eng: "	stick	",
+            ru: "	stuck , stuck , приклеить, застрять 	"
+        },
+        {
+            id: 85,
+            eng: "	stink	",
+            ru: "	stank , stunk , вонять	"
+        },
+        {
+            id: 86,
+            eng: "	strike	",
+            ru: "	struck , struck , ударять	"
+        },
+        {
+            id: 87,
+            eng: "	swear	",
+            ru: "	swore , sworn , клясться/материться 	"
+        },
+        {
+            id: 88,
+            eng: "	sweep	",
+            ru: "	swept , swept , подметать	"
+        },
+        {
+            id: 89,
+            eng: "	swim	",
+            ru: "	swam , swum , плавать	"
+        },
+        {
+            id: 90,
+            eng: "	swing	",
+            ru: "	swung , swung , качаться	"
+        },
+        {
+            id: 91,
+            eng: "	take	",
+            ru: "	took , taken , брать	"
+        },
+        {
+            id: 92,
+            eng: "	teach	",
+            ru: "	taught , taught , обучать	"
+        },
+        {
+            id: 93,
+            eng: "	tear	",
+            ru: "	tore , torn , рвать, вырывать	"
+        },
+        {
+            id: 94,
+            eng: "	tell	",
+            ru: "	told , told , рассказывать	"
+        },
+        {
+            id: 95,
+            eng: "	think	",
+            ru: "	thought , thought , думать	"
+        },
+        {
+            id: 96,
+            eng: "	throw	",
+            ru: "	threw , thrown , бросать	"
+        },
+        {
+            id: 97,
+            eng: "	understand	",
+            ru: "	understood , understood , понимать	"
+        },
+        {
+            id: 98,
+            eng: "	wake up	",
+            ru: "	woke up , woken up , будить, просыпаться	"
+        },
+        {
+            id: 99,
+            eng: "	wear	",
+            ru: "	wore , worn , носить одежду	"
+        },
+        {
+            id: 100,
+            eng: "	write	",
+            ru: "	wrote , written , писать	"
+        },
+        {
+            id: 101,
+            eng: "	weep	",
+            ru: "	wept , wept , хныкать	"
+        },
+        {
+            id: 102,
+            eng: "	win	",
+            ru: "	won , won , выигрывать	"
+        },
+
+    ],
+    tstar: [
+
+        {
+            id: 91,
+            eng: "	take	",
+            ru: "	took , taken , брать	"
+        },
+        {
+            id: 92,
+            eng: "	teach	",
+            ru: "	taught , taught , обучать	"
+        },
+        {
+            id: 93,
+            eng: "	tear	",
+            ru: "	tore , torn , рвать, вырывать	"
+        },
+        {
+            id: 94,
+            eng: "	tell	",
+            ru: "	told , told , рассказывать	"
+        },
+        {
+            id: 95,
+            eng: "	think	",
+            ru: "	thought , thought , думать	"
+        },
+        {
+            id: 96,
+            eng: "	throw	",
+            ru: "	threw , thrown , бросать	"
+        },
+        {
+            id: 97,
+            eng: "	understand	",
+            ru: "	understood , understood , понимать	"
+        },
+        {
+            id: 98,
+            eng: "	wake up	",
+            ru: "	woke up , woken up , будить, просыпаться	"
+        },
+        {
+            id: 99,
+            eng: "	wear	",
+            ru: "	wore , worn , носить одежду	"
+        },
+        {
+            id: 100,
+            eng: "	write	",
+            ru: "	wrote , written , писать	"
+        },
+        {
+            id: 101,
+            eng: "	weep	",
+            ru: "	wept , wept , хныкать	"
+        },
+        {
+            id: 102,
+            eng: "	win	",
+            ru: "	won , won , выигрывать	"
+        },
+        {
+            id: 103,
+            eng: "	misunderstand	",
+            ru: "	misunderstood , misunderstood , неправильно понять	"
+        },
+        {
+            id: 104,
+            eng: "	misspell	",
+            ru: "	misspelt , misspelt , неправильно написать	"
+        },
+        {
+            id: 105,
+            eng: "	mistake	",
+            ru: "	mistook , mistaken , ошибаться	"
+        },
+        {
+            id: 106,
+            eng: "	mishear	",
+            ru: "	misheard , misheard , неправильно услышать	"
+        },
+        {
+            id: 107,
+            eng: "	oversleep	",
+            ru: "	overslept , overslept , переспать (проспать)	"
+        },
+        {
+            id: 108,
+            eng: "	overeat	",
+            ru: "	overate , overeaten , переесть 	"
+        },
+        {
+            id: 109,
+            eng: "	overpay	",
+            ru: "	overpaid , overpaid , переплатить	"
+        },
+        {
+            id: 110,
+            eng: "	can	",
+            ru: "	could-мог, умел, могу 	"
+        },
+        {
+            id: 111,
+            eng: "	shall	",
+            ru: "	shall - следует. Should - следовало	"
+        },
+        {
+            id: 112,
+            eng: "	may	",
+            ru: "	might - можно, возможно	"
+        },
+    ],
+    astar: [
+        {
+            id: 1,
+            eng: "	arise	",
+            ru: "	arose , arisen , возникнуть	"
+        },
+        {
+            id: 2,
+            eng: "	awake	",
+            ru: "	awoke , awoken , пробудиться	"
+        },
+        {
+            id: 3,
+            eng: "	abide	",
+            ru: "	abode , abidden , соблюдать	"
+        },
+        {
+            id: 4,
+            eng: "	break	",
+            ru: "	broke , broken , ломать	"
+        },
+        {
+            id: 5,
+            eng: "	beat	",
+            ru: "	beat , beaten , бить, побить в соревновании	"
+        },
+        {
+            id: 6,
+            eng: "	become	",
+            ru: "	became , become , становиться	"
+        },
+        {
+            id: 7,
+            eng: "	begin	",
+            ru: "	began , begun , начинать	"
+        },
+        {
+            id: 8,
+            eng: "	blow	",
+            ru: "	blew , blown , дуть	"
+        },
+        {
+            id: 9,
+            eng: "	build	",
+            ru: "	built , built , строить	"
+        },
+        {
+            id: 10,
+            eng: "	burn	",
+            ru: "	burnt , burnt , сжигать, гореть	"
+        },
+        {
+            id: 11,
+            eng: "	buy	",
+            ru: "	bought , bought , покупать	"
+        },
+        {
+            id: 12,
+            eng: "	bring	",
+            ru: "	brought , brought , приносить	"
+        },
+        {
+            id: 13,
+            eng: "	be	",
+            ru: "	was/were , been , быть	"
+        },
+        {
+            id: 14,
+            eng: "	bite	",
+            ru: "	bit , bit , кусать	"
+        },
+        {
+            id: 15,
+            eng: "	come	",
+            ru: "	came , come , приходить	"
+        },
+        {
+            id: 16,
+            eng: "	choose	",
+            ru: "	chose , chosen , выбирать	"
+        },
+        {
+            id: 17,
+            eng: "	catch	",
+            ru: "	caught , caught , ловить	"
+        },
+        {
+            id: 18,
+            eng: "	creep	",
+            ru: "	crept , crept , ползать	"
+        },
+        {
+            id: 19,
+            eng: "	cost	",
+            ru: "	cost , cost , стоить	"
+        },
+        {
+            id: 20,
+            eng: "	cut	",
+            ru: "	cut , cut , резать	"
+        },
+        {
+            id: 21,
+            eng: "	deal	",
+            ru: "	dealt , dealt , иметь дела	"
+        },
+        {
+            id: 22,
+            eng: "	dig	",
+            ru: "	dug , dug , копать	"
+        },
+        {
+            id: 23,
+            eng: "	do	",
+            ru: "	did , done , выполнять, делать, заниматься	"
+        },
+        {
+            id: 24,
+            eng: "	drive	",
+            ru: "	drove , driven , водить	"
+        },
+        {
+            id: 25,
+            eng: "	draw	",
+            ru: "	drew , drawn , рисовать	"
+        },
+        {
+            id: 26,
+            eng: "	drink	",
+            ru: "	drank , drunk , пить	"
+        },
+        {
+            id: 27,
+            eng: "	eat	",
+            ru: "	ate , eaten , кушать	"
+        },
+        {
+            id: 28,
+            eng: "	fall	",
+            ru: "	fell , fallen , падать	"
+        },
+        {
+            id: 29,
+            eng: "	feed	",
+            ru: "	fed , fed , кормить	"
+        },
+        {
+            id: 30,
+            eng: "	feel	",
+            ru: "	felt , felt , чувствовать	"
+        },
+        {
+            id: 31,
+            eng: "	fight	",
+            ru: "	fought , fought , сражаться	"
+        },
+        {
+            id: 32,
+            eng: "	find	",
+            ru: "	found , found , находить	"
+        },
+        {
+            id: 33,
+            eng: "	fly	",
+            ru: "	flew , flown , летать	"
+        },
+        {
+            id: 34,
+            eng: "	forbid	",
+            ru: "	forbade , forbidden , запрещать	"
+        },
+        {
+            id: 35,
+            eng: "	forget	",
+            ru: "	forgot , forgotten , забывать	"
+        },
+        {
+            id: 36,
+            eng: "	forgive	",
+            ru: "	forgave , forgiven , прощать	"
+        },
+        {
+            id: 37,
+            eng: "	freeze	",
+            ru: "	froze , frozen , замерзать	"
+        },
+        {
+            id: 38,
+            eng: "	grow	",
+            ru: "	grew , grown , расти	"
+        },
+        {
+            id: 39,
+            eng: "	get	",
+            ru: "	got , got , получать	"
+        },
+        {
+            id: 40,
+            eng: "	give	",
+            ru: "	gave , given , давать	"
+        },
+        {
+            id: 41,
+            eng: "	go	",
+            ru: "	went , gone , ходить	"
+        },
+        {
+            id: 42,
+            eng: "	have	",
+            ru: "	had , had , иметь	"
+        },
+        {
+            id: 43,
+            eng: "	hear	",
+            ru: "	heard , heard , слышать	"
+        },
+        {
+            id: 44,
+            eng: "	hide	",
+            ru: "	hid , hidden , прятать	"
+        },
+        {
+            id: 45,
+            eng: "	hit	",
+            ru: "	hit , hit , ударять	"
+        },
+        {
+            id: 46,
+            eng: "	hurt	",
+            ru: "	hurt , hurt , причинять боль	"
+        },
+        {
+            id: 47,
+            eng: "	hold	",
+            ru: "	held , held , держать	"
+        },
+        {
+            id: 48,
+            eng: "	keep	",
+            ru: "	kept , kept , хранить	"
+        },
+        {
+            id: 49,
+            eng: "	know	",
+            ru: "	knew , known , знать	"
+        },
+        {
+            id: 50,
+            eng: "	learn	",
+            ru: "	learnt , learnt , изучать	"
+        },
+        {
+            id: 51,
+            eng: "	leave	",
+            ru: "	left , left , покидать	"
+        },
+        {
+            id: 52,
+            eng: "	lend	",
+            ru: "	lent , lent , давать в долг	"
+        },
+        {
+            id: 53,
+            eng: "	let	",
+            ru: "	let , let , позволять	"
+        },
+        {
+            id: 54,
+            eng: "	lose	",
+            ru: "	lost , lost , терять	"
+        },
+        {
+            id: 55,
+            eng: "	tell a lie	",
+            ru: "	lied , lied , говорить неправду	"
+        },
+        {
+            id: 56,
+            eng: "	lie	",
+            ru: "	lay , lain , лежать	"
+        },
+        {
+            id: 57,
+            eng: "	make	",
+            ru: "	made , made , создавать, делать	"
+        },
+        {
+            id: 58,
+            eng: "	mean	",
+            ru: "	meant , meant , иметь ввиду	"
+        },
+        {
+            id: 59,
+            eng: "	meet	",
+            ru: "	met , met , встречать(ся)	"
+        },
+        {
+            id: 60,
+            eng: "	pay	",
+            ru: "	paid , paid , платить	"
+        },
+        {
+            id: 61,
+            eng: "	put	",
+            ru: "	put , put , класть	"
+        },
+        {
+            id: 62,
+            eng: "	read	",
+            ru: "	read , read , читать	"
+        },
+        {
+            id: 63,
+            eng: "	ride	",
+            ru: "	rode , ridden , ездить верхом	"
+        },
+        {
+            id: 64,
+            eng: "	ring	",
+            ru: "	rang , rung , звенеть, звонить	"
+        },
+        {
+            id: 65,
+            eng: "	run	",
+            ru: "	ran , run , бегать	"
+        },
+        {
+            id: 66,
+            eng: "	rise	",
+            ru: "	rose , risen , подниматься	"
+        },
+        {
+            id: 67,
+            eng: "	say	",
+            ru: "	said , said , сказать, произнести	"
+        },
+        {
+            id: 68,
+            eng: "	see	",
+            ru: "	saw , seen , (у)видеть	"
+        },
+        {
+            id: 69,
+            eng: "	sell	",
+            ru: "	sold , sold , продавать	"
+        },
+        {
+            id: 70,
+            eng: "	send	",
+            ru: "	sent , sent , отправлять	"
+        },
+        {
+            id: 71,
+            eng: "	shake	",
+            ru: "	shook , shaken , трясти	"
+        },
+        {
+            id: 72,
+            eng: "	shoot	",
+            ru: "	shot , shot , стрелять	"
+        },
+        {
+            id: 73,
+            eng: "	shut	",
+            ru: "	shut , shut , захлопнуть	"
+        },
+        {
+            id: 74,
+            eng: "	sing	",
+            ru: "	sang , sung , петь	"
+        },
+        {
+            id: 75,
+            eng: "	sink	",
+            ru: "	sank , sunk , затонуть	"
+        },
+        {
+            id: 76,
+            eng: "	sit	",
+            ru: "	sat , sat , сидеть	"
+        },
+        {
+            id: 77,
+            eng: "	sleep	",
+            ru: "	slept , slept , спать	"
+        },
+        {
+            id: 78,
+            eng: "	slide	",
+            ru: "	slid , slid , скользить	"
+        },
+        {
+            id: 79,
+            eng: "	speak	",
+            ru: "	spoke , spoken , разговаривать	"
+        },
+        {
+            id: 80,
+            eng: "	spend	",
+            ru: "	spent , spent , тратить	"
+        },
+        {
+            id: 81,
+            eng: "	spit	",
+            ru: "	spat , spat , плеваться	"
+        },
+        {
+            id: 82,
+            eng: "	stand	",
+            ru: "	stood , stood , встать, стоять	"
+        },
+        {
+            id: 83,
+            eng: "	steal	",
+            ru: "	stole , stolen , воровать	"
+        },
+        {
+            id: 84,
+            eng: "	stick	",
+            ru: "	stuck , stuck , приклеить, застрять 	"
+        },
+        {
+            id: 85,
+            eng: "	stink	",
+            ru: "	stank , stunk , вонять	"
+        },
+        {
+            id: 86,
+            eng: "	strike	",
+            ru: "	struck , struck , ударять	"
+        },
+        {
+            id: 87,
+            eng: "	swear	",
+            ru: "	swore , sworn , клясться/материться 	"
+        },
+        {
+            id: 88,
+            eng: "	sweep	",
+            ru: "	swept , swept , подметать	"
+        },
+        {
+            id: 89,
+            eng: "	swim	",
+            ru: "	swam , swum , плавать	"
+        },
+        {
+            id: 90,
+            eng: "	swing	",
+            ru: "	swung , swung , качаться	"
+        },
+        {
+            id: 91,
+            eng: "	take	",
+            ru: "	took , taken , брать	"
+        },
+        {
+            id: 92,
+            eng: "	teach	",
+            ru: "	taught , taught , обучать	"
+        },
+        {
+            id: 93,
+            eng: "	tear	",
+            ru: "	tore , torn , рвать, вырывать	"
+        },
+        {
+            id: 94,
+            eng: "	tell	",
+            ru: "	told , told , рассказывать	"
+        },
+        {
+            id: 95,
+            eng: "	think	",
+            ru: "	thought , thought , думать	"
+        },
+        {
+            id: 96,
+            eng: "	throw	",
+            ru: "	threw , thrown , бросать	"
+        },
+        {
+            id: 97,
+            eng: "	understand	",
+            ru: "	understood , understood , понимать	"
+        },
+        {
+            id: 98,
+            eng: "	wake up	",
+            ru: "	woke up , woken up , будить, просыпаться	"
+        },
+        {
+            id: 99,
+            eng: "	wear	",
+            ru: "	wore , worn , носить одежду	"
+        },
+        {
+            id: 100,
+            eng: "	write	",
+            ru: "	wrote , written , писать	"
+        },
+        {
+            id: 101,
+            eng: "	weep	",
+            ru: "	wept , wept , хныкать	"
+        },
+        {
+            id: 102,
+            eng: "	win	",
+            ru: "	won , won , выигрывать	"
+        },
+        {
+            id: 103,
+            eng: "	misunderstand	",
+            ru: "	misunderstood , misunderstood , неправильно понять	"
+        },
+        {
+            id: 104,
+            eng: "	misspell	",
+            ru: "	misspelt , misspelt , неправильно написать	"
+        },
+        {
+            id: 105,
+            eng: "	mistake	",
+            ru: "	mistook , mistaken , ошибаться	"
+        },
+        {
+            id: 106,
+            eng: "	mishear	",
+            ru: "	misheard , misheard , неправильно услышать	"
+        },
+        {
+            id: 107,
+            eng: "	oversleep	",
+            ru: "	overslept , overslept , переспать (проспать)	"
+        },
+        {
+            id: 108,
+            eng: "	overeat	",
+            ru: "	overate , overeaten , переесть 	"
+        },
+        {
+            id: 109,
+            eng: "	overpay	",
+            ru: "	overpaid , overpaid , переплатить	"
+        },
+        {
+            id: 110,
+            eng: "	can	",
+            ru: "	could-мог, умел, могу 	"
+        },
+        {
+            id: 111,
+            eng: "	shall	",
+            ru: "	shall - следует. Should - следовало	"
+        },
+        {
+            id: 112,
+            eng: "	may	",
+            ru: "	might - можно, возможно	"
+        },
+    ],
+    bodyParts1: [
+        {
+            id: 1,
+            eng: "	A head	",
+            ru: "	Голова	"
+        },
+        {
+            id: 2,
+            eng: "	An ear	",
+            ru: "	Ухо	"
+        },
+        {
+            id: 3,
+            eng: "	Ears	",
+            ru: "	Уши	"
+        },
+        {
+            id: 4,
+            eng: "	An eye	",
+            ru: "	Глаз	"
+        },
+        {
+            id: 5,
+            eng: "	Eyes	",
+            ru: "	Глаза	"
+        },
+        {
+            id: 6,
+            eng: "	A nose	",
+            ru: "	Нос	"
+        },
+        {
+            id: 7,
+            eng: "	A neck	",
+            ru: "	Шея	"
+        },
+        {
+            id: 8,
+            eng: "	A mouth	",
+            ru: "	Рот	"
+        },
+        {
+            id: 9,
+            eng: "	Lips	",
+            ru: "	Губы	"
+        },
+        {
+            id: 10,
+            eng: "	Hair	",
+            ru: "	Волосы	"
+        },
+        {
+            id: 11,
+            eng: "	Hairs	",
+            ru: "	Волоски	"
+        },
+        {
+            id: 12,
+            eng: "	Teeth	",
+            ru: "	Зубы	"
+        },
+        {
+            id: 13,
+            eng: "	A tooth	",
+            ru: "	Зуб	"
+        },
+        {
+            id: 14,
+            eng: "	Arms	",
+            ru: "	Руки	"
+        },
+        {
+            id: 15,
+            eng: "	Legs	",
+            ru: "	Ноги	"
+        },
+        {
+            id: 16,
+            eng: "	An arm	",
+            ru: "	Рука	"
+        },
+        {
+            id: 17,
+            eng: "	a breast	",
+            ru: "	Грудь	"
+        },
+        {
+            id: 18,
+            eng: "	chest	",
+            ru: "	Грудная клетка	"
+        },
+        {
+            id: 19,
+            eng: "	A body	",
+            ru: "	Тело	"
+        },
+        {
+            id: 20,
+            eng: "	Parts of the body	",
+            ru: "	Части тела	"
+        },
+        {
+            id: 21,
+            eng: "	Behind blue eyes	",
+            ru: "	За синими глазами	"
+        },
+    ],
     mission0: [
         {
             id: 1,
@@ -377,201 +3030,201 @@ const allCardsGameFindAPair = {
 
     ],
     areamisTest: [
-        {					
-            id	:	1	,		
-            ru	:	"	My name is BOND, JAMES, B-O-N-D	"	,
-            eng	:	"	What’s your name? Spell /произнеси по буквам/"	
-            }	,				
-            {					
-            id	:	2	,		
-            ru	:	"	My phone number is  007 	"	,
-            eng	:	"	What’s your phone number?	"	
-            }	,				
-            {					
-            id	:	3	,		
-            ru	:	"	My car number is  C 007 AR	"	,
-            eng	:	"	What’s your car number?	"	
-            }	,				
-            {					
-            id	:	4	,		
-            ru	:	"	My house N. is 107	"	,
-            eng	:	"	What’s your house number?	"	
-            }	,				
-            {					
-            id	:	5	,		
-            ru	:	"	My flat N. is 36	"	,
-            eng	:	"	What’s your flat number? /флэт/	"	
-            }	,				
-            {					
-            id	:	6	,		
-            ru	:	"	My apt. N. is 36	"	,
-            eng	:	"	What’s your apartment number? /апАртмэнт/	"	
-            }	,				
-            {					
-            id	:	7	,		
-            ru	:	"	My shoe size is 46	"	,
-            eng	:	"	What’s your shoe size? /шу сайз/	"	
-            }	,				
-            {					
-            id	:	8	,		
-            ru	:	"	The color of my car is black	"	,
-            eng	:	"	What’s the color /кАла/ of your car?	"	
-            }	,				
-            {					
-            id	:	9	,		
-            ru	:	"	The color of my eyes is blue. Или myeyes Are blue.	"	,
-            eng	:	"	What’s the color /кАла/  of your eyes/айз/ ?	"	
-            }	,				
-            {					
-            id	:	10	,		
-            ru	:	"	My favorite colors are black &yellow	"	,
-            eng	:	"	What are your favorite/фЭйворит/ colors?	"	
-            }	,				
-            {					
-            id	:	11	,		
-            ru	:	"	My favorite book is 12 stuljev 	"	,
-            eng	:	"	What is your favorite book?	"	
-            }	,				
-            {					
-            id	:	12	,		
-            ru	:	"	My fav. movies are detectives & comedies /кАмедис/	"	,
-            eng	:	"	What are your favorite movies? /мУви/	"	
-            }	,				
-            {					
-            id	:	13	,		
-            ru	:	"	My fav. games are Poker & Pryatki & Sims 3	"	,
-            eng	:	"	What are your favorite games?	"	
-            }	,				
-            {					
-            id	:	14	,		
-            ru	:	"	My fav. song is “Show must go on” by Queen	"	,
-            eng	:	"	What’s your favorite song?	"	
-            }	,				
-            {					
-            id	:	15	,		
-            ru	:	"	My fav .band is Queen.	"	,
-            eng	:	"	What’s your favorite musical band?	"	
-            }	,				
-            {					
-            id	:	16	,		
-            ru	:	"	My fav. drink is martini	"	,
-            eng	:	"	What’s your favorite drink?	"	
-            }	,				
-            {					
-            id	:	17	,		
-            ru	:	"	My fav. adj. is “sexy”	"	,
-            eng	:	"	What’s your favorite English adj? /Эджэктив/ ударение на Э"	
-            }	,				
-            {					
-            id	:	18	,		
-            ru	:	"	My fav. Verb  is ”to kiss”	"	,
-            eng	:	"	What’s your favorite English verb? /вЁрб/	"	
-            }	,				
-            {					
-            id	:	19	,		
-            ru	:	"	I’m great/super/fine/ok/so-so/bad. And you?	"	,
-            eng	:	"	How are you today? How r u doing?	"	
-            }	,				
-            {					
-            id	:	20	,		
-            ru	:	"	My life is good, everything is nice.	"	,
-            eng	:	"	How is your life? What’s up?	"	
-            }	,				
-            {					
-            id	:	21	,		
-            ru	:	"	My family is alright, everybody is ok. 	"	,
-            eng	:	"	How is your family?	"	
-            }	,				
-            {					
-            id	:	22	,		
-            ru	:	"	I’m at work, at 69 Oxford street	"	,
-            eng	:	"	Where are you now? What street?	"	
-            }	,				
-            {					
-            id	:	23	,		
-            ru	:	"	I’m from Oek it’s a small village in RF	"	,
-            eng	:	"	Where are you from?	"	
-            }	,				
-            {					
-            id	:	24	,		
-            ru	:	"	I’m in Paris/пЭрис/ now. It is in France.	"	,
-            eng	:	"	Where are you now? What city? 	"	
-            }	,				
-            {					
-            id	:	25	,		
-            ru	:	"	My father is from Ukraine and my mom is from Russia.	"	,
-            eng	:	"	Where are your parents from?	"	
-            }	,				
-            {					
-            id	:	26	,		
-            ru	:	"	My mom is in Heaven… My dad is in Ukraine.	"	,
-            eng	:	"	Where are your parents now?	"	
-            }	,				
-            {					
-            id	:	27	,		
-            ru	:	"	He is from a secret bunker in Siberia	"	,
-            eng	:	"	Where is special agent Vincent from?	"	
-            }	,				
-            {					
-            id	:	28	,		
-            ru	:	"	Because I study English with Vincent.	"	,
-            eng	:	"	Why are you a special agent?	"	
-            }	,				
-            {					
-            id	:	29	,		
-            ru	:	"	He’s an agent! A foreign/форин/ agent. (иностранный агент)	"	,
-            eng	:	"	Who is your teacher?	"	
-            }	,				
-            {					
-            id	:	30	,		
-            ru	:	"	I can’t tell you. It is not safe/сэйф/  	"	,
-            eng	:	"	Who are you? What is your job?	"	
-            }	,				
-            {					
-            id	:	31	,		
-            ru	:	"	They are people who study with me.	"	,
-            eng	:	"	Who are secret agents?	"	
-            }	,				
-            {					
-            id	:	32	,		
-            ru	:	"	Vincent & Polinochka are my best friends	"	,
-            eng	:	"	Who are your best friends?	"	
-            }	,				
-            {					
-            id	:	33	,		
-            ru	:	"	You are here because you are special 	"	,
-            eng	:	"	Why am I here?	"	
-            }	,				
-            {					
-            id	:	34	,		
-            ru	:	"	I can eat many pelmenis! Maybe 33.	"	,
-            eng	:	"	How many pelmenis can you eat?	"	
-            }	,				
-            {					
-            id	:	35	,		
-            ru	:	"	I live in Vilnius	"	,
-            eng	:	"	Where do you live?	"	
-            }	,				
-            {					
-            id	:	36	,		
-            ru	:	"	I work in a “ S.P.E.C.I.A.L.” agency. 	"	,
-            eng	:	"	Where do you work?	"	
-            }	,				
-            {					
-            id	:	37	,		
-            ru	:	"	I study English 2 times a week. 2 раза в неделю	"	,
-            eng	:	"	How often do you study English?	"	
-            }	,				
-            {					
-            id	:	38	,		
-            ru	:	"	I practice English 10 minutes a day. 10м в день. Every day.	"	,
-            eng	:	"	How often do you practice English ?	"	
-            }	,
-            {					
-                id	:	39	,		
-                ru	:	"	Love is everywhere /ЭвриУээ/ in every sight/сайт/ в каждом взгляде"	,
-                eng	:	"	Where is love?	"	
-                }	,						
+        {
+            id: 1,
+            ru: "	My name is BOND, JAMES, B-O-N-D	",
+            eng: "	What’s your name? Spell /произнеси по буквам/"
+        },
+        {
+            id: 2,
+            ru: "	My phone number is  007 	",
+            eng: "	What’s your phone number?	"
+        },
+        {
+            id: 3,
+            ru: "	My car number is  C 007 AR	",
+            eng: "	What’s your car number?	"
+        },
+        {
+            id: 4,
+            ru: "	My house N. is 107	",
+            eng: "	What’s your house number?	"
+        },
+        {
+            id: 5,
+            ru: "	My flat N. is 36	",
+            eng: "	What’s your flat number? /флэт/	"
+        },
+        {
+            id: 6,
+            ru: "	My apt. N. is 36	",
+            eng: "	What’s your apartment number? /апАртмэнт/	"
+        },
+        {
+            id: 7,
+            ru: "	My shoe size is 46	",
+            eng: "	What’s your shoe size? /шу сайз/	"
+        },
+        {
+            id: 8,
+            ru: "	The color of my car is black	",
+            eng: "	What’s the color /кАла/ of your car?	"
+        },
+        {
+            id: 9,
+            ru: "	The color of my eyes is blue. Или myeyes Are blue.	",
+            eng: "	What’s the color /кАла/  of your eyes/айз/ ?	"
+        },
+        {
+            id: 10,
+            ru: "	My favorite colors are black &yellow	",
+            eng: "	What are your favorite/фЭйворит/ colors?	"
+        },
+        {
+            id: 11,
+            ru: "	My favorite book is 12 stuljev 	",
+            eng: "	What is your favorite book?	"
+        },
+        {
+            id: 12,
+            ru: "	My fav. movies are detectives & comedies /кАмедис/	",
+            eng: "	What are your favorite movies? /мУви/	"
+        },
+        {
+            id: 13,
+            ru: "	My fav. games are Poker & Pryatki & Sims 3	",
+            eng: "	What are your favorite games?	"
+        },
+        {
+            id: 14,
+            ru: "	My fav. song is “Show must go on” by Queen	",
+            eng: "	What’s your favorite song?	"
+        },
+        {
+            id: 15,
+            ru: "	My fav .band is Queen.	",
+            eng: "	What’s your favorite musical band?	"
+        },
+        {
+            id: 16,
+            ru: "	My fav. drink is martini	",
+            eng: "	What’s your favorite drink?	"
+        },
+        {
+            id: 17,
+            ru: "	My fav. adj. is “sexy”	",
+            eng: "	What’s your favorite English adj? /Эджэктив/ ударение на Э"
+        },
+        {
+            id: 18,
+            ru: "	My fav. Verb  is ”to kiss”	",
+            eng: "	What’s your favorite English verb? /вЁрб/	"
+        },
+        {
+            id: 19,
+            ru: "	I’m great/super/fine/ok/so-so/bad. And you?	",
+            eng: "	How are you today? How r u doing?	"
+        },
+        {
+            id: 20,
+            ru: "	My life is good, everything is nice.	",
+            eng: "	How is your life? What’s up?	"
+        },
+        {
+            id: 21,
+            ru: "	My family is alright, everybody is ok. 	",
+            eng: "	How is your family?	"
+        },
+        {
+            id: 22,
+            ru: "	I’m at work, at 69 Oxford street	",
+            eng: "	Where are you now? What street?	"
+        },
+        {
+            id: 23,
+            ru: "	I’m from Oek it’s a small village in RF	",
+            eng: "	Where are you from?	"
+        },
+        {
+            id: 24,
+            ru: "	I’m in Paris/пЭрис/ now. It is in France.	",
+            eng: "	Where are you now? What city? 	"
+        },
+        {
+            id: 25,
+            ru: "	My father is from Ukraine and my mom is from Russia.	",
+            eng: "	Where are your parents from?	"
+        },
+        {
+            id: 26,
+            ru: "	My mom is in Heaven… My dad is in Ukraine.	",
+            eng: "	Where are your parents now?	"
+        },
+        {
+            id: 27,
+            ru: "	He is from a secret bunker in Siberia	",
+            eng: "	Where is special agent Vincent from?	"
+        },
+        {
+            id: 28,
+            ru: "	Because I study English with Vincent.	",
+            eng: "	Why are you a special agent?	"
+        },
+        {
+            id: 29,
+            ru: "	He’s an agent! A foreign/форин/ agent. (иностранный агент)	",
+            eng: "	Who is your teacher?	"
+        },
+        {
+            id: 30,
+            ru: "	I can’t tell you. It is not safe/сэйф/  	",
+            eng: "	Who are you? What is your job?	"
+        },
+        {
+            id: 31,
+            ru: "	They are people who study with me.	",
+            eng: "	Who are secret agents?	"
+        },
+        {
+            id: 32,
+            ru: "	Vincent & Polinochka are my best friends	",
+            eng: "	Who are your best friends?	"
+        },
+        {
+            id: 33,
+            ru: "	You are here because you are special 	",
+            eng: "	Why am I here?	"
+        },
+        {
+            id: 34,
+            ru: "	I can eat many pelmenis! Maybe 33.	",
+            eng: "	How many pelmenis can you eat?	"
+        },
+        {
+            id: 35,
+            ru: "	I live in Vilnius	",
+            eng: "	Where do you live?	"
+        },
+        {
+            id: 36,
+            ru: "	I work in a “ S.P.E.C.I.A.L.” agency. 	",
+            eng: "	Where do you work?	"
+        },
+        {
+            id: 37,
+            ru: "	I study English 2 times a week. 2 раза в неделю	",
+            eng: "	How often do you study English?	"
+        },
+        {
+            id: 38,
+            ru: "	I practice English 10 minutes a day. 10м в день. Every day.	",
+            eng: "	How often do you practice English ?	"
+        },
+        {
+            id: 39,
+            ru: "	Love is everywhere /ЭвриУээ/ in every sight/сайт/ в каждом взгляде",
+            eng: "	Where is love?	"
+        },
     ],
     seasons: [
         {
@@ -5065,279 +7718,279 @@ const allCardsGameFindAPair = {
 
     ],
     travel: [
-        {					
-            id	:	1	,		
-            ru	:	"	Какую страну ты хочешь посетить и почему?	"	,
-            eng	:	"	What country do you want to Visit and why?	"	
-            }	,				
-            {					
-            id	:	2	,		
-            ru	:	"	Какую страну ты НЕ хочешь посещать и почему?	"	,
-            eng	:	"	What country do you not want to Visit? Why?	"	
-            }	,				
-            {					
-            id	:	3	,		
-            ru	:	"	Антананариво - столица какой страны?	"	,
-            eng	:	"	Antananarivo is a capital of what country?	"	
-            }	,				
-            {					
-            id	:	4	,		
-            ru	:	"	Африка - это страна?	"	,
-            eng	:	"	Is Africa a country? 	"	
-            }	,				
-            {					
-            id	:	5	,		
-            ru	:	"	Сколько стран в Африке ты знаешь?	"	,
-            eng	:	"	How many countries in Africa do you know?	"	
-            }	,				
-            {					
-            id	:	6	,		
-            ru	:	"	Какая страна известна своими Кенгуру?	"	,
-            eng	:	"	What country is famous for its kangaroo?	"	
-            }	,				
-            {					
-            id	:	7	,		
-            ru	:	"	Какая страна известна своими винами?	"	,
-            eng	:	"	What country is famous for its wine?	"	
-            }	,				
-            {					
-            id	:	8	,		
-            ru	:	"	Какая страна известна своей популяцией (густонаселенностью)?	"	,
-            eng	:	"	What country is famous for its population?	"	
-            }	,				
-            {					
-            id	:	9	,		
-            ru	:	"	Какая страна находится близко к твоей стране?	"	,
-            eng	:	"	What country is very close to your country?	"	
-            }	,				
-            {					
-            id	:	10	,		
-            ru	:	"	Какие страны посетила твоя семья?	"	,
-            eng	:	"	What countries did your family visit?	"	
-            }	,				
-            {					
-            id	:	11	,		
-            ru	:	"	Какой лучший способ путешествовать?	"	,
-            eng	:	"	What is the best way to travel?	"	
-            }	,				
-            {					
-            id	:	12	,		
-            ru	:	"	Сможешь назвать 2 страны начинающихся с буквы Z?	"	,
-            eng	:	"	Can you name 2 countries beginning with Z ?	"	
-            }	,				
-            {					
-            id	:	13	,		
-            ru	:	"	Сможешь назвать 3 страны начинающихся с буквы R?	"	,
-            eng	:	"	Can you name 3 countries beginning with R ?	"	
-            }	,				
-            {					
-            id	:	14	,		
-            ru	:	"	Знаешь что-нибудь про Северную Корею?	"	,
-            eng	:	"	Do you know anything about North Korea?	"	
-            }	,				
-            {					
-            id	:	15	,		
-            ru	:	"	Какая самая большая о площади страна?	"	,
-            eng	:	"	What is the biggest country in the world?	"	
-            }	,				
-            {					
-            id	:	16	,		
-            ru	:	"	Сколько текущих президентов ты сможешь назвать?	"	,
-            eng	:	"	How many current presidents can you name?	"	
-            }	,				
-            {					
-            id	:	17	,		
-            ru	:	"	Вы бы согласились выйти замуж за иностранца?	"	,
-            eng	:	"	Would you agree to marry a foreigner?	"	
-            }	,				
-            {					
-            id	:	18	,		
-            ru	:	"	Вы бы согласились съесть легушачьи лапки?	"	,
-            eng	:	"	Would you agree to eat frog legs in France?	"	
-            }	,				
-            {					
-            id	:	19	,		
-            ru	:	"	Вы бы согласились попробовать наркотики в Амстердаме?	"	,
-            eng	:	"	Would you agree to try drugs in Amsterdam?	"	
-            }	,				
-            {					
-            id	:	20	,		
-            ru	:	"	Вы бы согласились поехать вокруг света на машине?	"	,
-            eng	:	"	Would you agree to travel around the world by car?	"	
-            }	,				
-            {					
-            id	:	21	,		
-            ru	:	"	Вы знаете какие-нибудь интересные факты о странах?	"	,
-            eng	:	"	Do u know any interesting facts about any country? 	"	
-            }	,				
-    
+        {
+            id: 1,
+            ru: "	Какую страну ты хочешь посетить и почему?	",
+            eng: "	What country do you want to Visit and why?	"
+        },
+        {
+            id: 2,
+            ru: "	Какую страну ты НЕ хочешь посещать и почему?	",
+            eng: "	What country do you not want to Visit? Why?	"
+        },
+        {
+            id: 3,
+            ru: "	Антананариво - столица какой страны?	",
+            eng: "	Antananarivo is a capital of what country?	"
+        },
+        {
+            id: 4,
+            ru: "	Африка - это страна?	",
+            eng: "	Is Africa a country? 	"
+        },
+        {
+            id: 5,
+            ru: "	Сколько стран в Африке ты знаешь?	",
+            eng: "	How many countries in Africa do you know?	"
+        },
+        {
+            id: 6,
+            ru: "	Какая страна известна своими Кенгуру?	",
+            eng: "	What country is famous for its kangaroo?	"
+        },
+        {
+            id: 7,
+            ru: "	Какая страна известна своими винами?	",
+            eng: "	What country is famous for its wine?	"
+        },
+        {
+            id: 8,
+            ru: "	Какая страна известна своей популяцией (густонаселенностью)?	",
+            eng: "	What country is famous for its population?	"
+        },
+        {
+            id: 9,
+            ru: "	Какая страна находится близко к твоей стране?	",
+            eng: "	What country is very close to your country?	"
+        },
+        {
+            id: 10,
+            ru: "	Какие страны посетила твоя семья?	",
+            eng: "	What countries did your family visit?	"
+        },
+        {
+            id: 11,
+            ru: "	Какой лучший способ путешествовать?	",
+            eng: "	What is the best way to travel?	"
+        },
+        {
+            id: 12,
+            ru: "	Сможешь назвать 2 страны начинающихся с буквы Z?	",
+            eng: "	Can you name 2 countries beginning with Z ?	"
+        },
+        {
+            id: 13,
+            ru: "	Сможешь назвать 3 страны начинающихся с буквы R?	",
+            eng: "	Can you name 3 countries beginning with R ?	"
+        },
+        {
+            id: 14,
+            ru: "	Знаешь что-нибудь про Северную Корею?	",
+            eng: "	Do you know anything about North Korea?	"
+        },
+        {
+            id: 15,
+            ru: "	Какая самая большая о площади страна?	",
+            eng: "	What is the biggest country in the world?	"
+        },
+        {
+            id: 16,
+            ru: "	Сколько текущих президентов ты сможешь назвать?	",
+            eng: "	How many current presidents can you name?	"
+        },
+        {
+            id: 17,
+            ru: "	Вы бы согласились выйти замуж за иностранца?	",
+            eng: "	Would you agree to marry a foreigner?	"
+        },
+        {
+            id: 18,
+            ru: "	Вы бы согласились съесть легушачьи лапки?	",
+            eng: "	Would you agree to eat frog legs in France?	"
+        },
+        {
+            id: 19,
+            ru: "	Вы бы согласились попробовать наркотики в Амстердаме?	",
+            eng: "	Would you agree to try drugs in Amsterdam?	"
+        },
+        {
+            id: 20,
+            ru: "	Вы бы согласились поехать вокруг света на машине?	",
+            eng: "	Would you agree to travel around the world by car?	"
+        },
+        {
+            id: 21,
+            ru: "	Вы знаете какие-нибудь интересные факты о странах?	",
+            eng: "	Do u know any interesting facts about any country? 	"
+        },
+
     ],
     time: [
-        {					
-            id	:	1	,		
-            ru	:	"	В полночь я сплю!	"	,
-            eng	:	"	I sleep at midnight!	"	
-            }	,				
-            {					
-            id	:	2	,		
-            ru	:	"	Это обалденное утро!	"	,
-            eng	:	"	It is an awesome morning!	"	
-            }	,				
-            {					
-            id	:	3	,		
-            ru	:	"	Добрый день.	"	,
-            eng	:	"	Good afternoon.	"	
-            }	,				
-            {					
-            id	:	4	,		
-            ru	:	"	Хорошего вам вечера	"	,
-            eng	:	"	Have a nice evening	"	
-            }	,				
-            {					
-            id	:	5	,		
-            ru	:	"	ноль часов, ноль минут	"	,
-            eng	:	"	midnight 00:00 AM	"	
-            }	,				
-            {					
-            id	:	6	,		
-            ru	:	"	двенадцать часов дня	"	,
-            eng	:	"	twelve pm	"	
-            }	,				
-            {					
-            id	:	7	,		
-            ru	:	"	двенадцать часов ночи	"	,
-            eng	:	"	12 am	"	
-            }	,				
-            {					
-            id	:	8	,		
-            ru	:	"	в полночь	"	,
-            eng	:	"	at midnight	"	
-            }	,				
-            {					
-            id	:	9	,		
-            ru	:	"	днем	"	,
-            eng	:	"	in the afternoon	"	
-            }	,				
-            {					
-            id	:	10	,		
-            ru	:	"	утром	"	,
-            eng	:	"	in the morning	"	
-            }	,				
-            {					
-            id	:	11	,		
-            ru	:	"	вечером	"	,
-            eng	:	"	in the evening	"	
-            }	,				
-            {					
-            id	:	12	,		
-            ru	:	"	ночью	"	,
-            eng	:	"	at night	"	
-            }	,				
-            {					
-            id	:	13	,		
-            ru	:	"	в полдень	"	,
-            eng	:	"	at noon	"	
-            }	,				
-            {					
-            id	:	14	,		
-            ru	:	"	пол второго	"	,
-            eng	:	"	half past one	"	
-            }	,				
-            {					
-            id	:	15	,		
-            ru	:	"	пол девятого	"	,
-            eng	:	"	half past eight	"	
-            }	,				
-            {					
-            id	:	16	,		
-            ru	:	"	пол деcятого	"	,
-            eng	:	"	half past nine	"	
-            }	,				
-            {					
-            id	:	17	,		
-            ru	:	"	eleven thirty	"	,
-            eng	:	"	half past eleven	"	
-            }	,				
-            {					
-            id	:	18	,		
-            ru	:	"	без 20 девять	"	,
-            eng	:	"	twenty to nine	"	
-            }	,				
-            {					
-            id	:	19	,		
-            ru	:	"	без пятнадцати четыре	"	,
-            eng	:	"	a quarter to four	"	
-            }	,				
-            {					
-            id	:	20	,		
-            ru	:	"	без двух минут час	"	,
-            eng	:	"	two minutes to two	"	
-            }	,				
-            {					
-            id	:	21	,		
-            ru	:	"	пятнадцать минут пятого	"	,
-            eng	:	"	a quarter past four	"	
-            }	,				
-            {					
-            id	:	22	,		
-            ru	:	"	пятнадцать пятнадцать	"	,
-            eng	:	"	it is three fifteen	"	
-            }	,				
-            {					
-            id	:	23	,		
-            ru	:	"	Двадцать ноль ноль	"	,
-            eng	:	"	it is 8 PM	"	
-            }	,				
-            {					
-            id	:	24	,		
-            ru	:	"	Десять ноль одна	"	,
-            eng	:	"	ten o one (Или one past ten)	"	
-            }	,				
-            {					
-            id	:	25	,		
-            ru	:	"	Восемь часов, тринадцать минут	"	,
-            eng	:	"	thirteen past eight	"	
-            }	,				
-            {					
-            id	:	26	,		
-            ru	:	"	Приходите в 2 часа	"	,
-            eng	:	"	Come at 2 o'clock	"	
-            }	,				
-            {					
-            id	:	27	,		
-            ru	:	"	После обеда перезвоните	"	,
-            eng	:	"	call back after lunch	"	
-            }	,				
-            {					
-            id	:	28	,		
-            ru	:	"	До обеда пожалуйста сделайте это	"	,
-            eng	:	"	do it before lunch, please	"	
-            }	,				
-            {					
-            id	:	29	,		
-            ru	:	"	Через 10 минут	"	,
-            eng	:	"	in 10 minutes	"	
-            }	,				
-            {					
-            id	:	30	,		
-            ru	:	"	в 10 часов и 10 минут	"	,
-            eng	:	"	at Ten Ten (Или at ten past ten)	"	
-            }	,				
-            {					
-            id	:	31	,		
-            ru	:	"	в 10 часов	"	,
-            eng	:	"	at ten o'clock	"	
-            }	,				
-            {					
-            id	:	32	,		
-            ru	:	"	через 2 часа	"	,
-            eng	:	"	in two hours	"	
-            }	,				
-            {					
-            id	:	33	,		
-            ru	:	"	60 минут это один час	"	,
-            eng	:	"	60 minutes…. it is an hour	"	
-            }	,				
+        {
+            id: 1,
+            ru: "	В полночь я сплю!	",
+            eng: "	I sleep at midnight!	"
+        },
+        {
+            id: 2,
+            ru: "	Это обалденное утро!	",
+            eng: "	It is an awesome morning!	"
+        },
+        {
+            id: 3,
+            ru: "	Добрый день.	",
+            eng: "	Good afternoon.	"
+        },
+        {
+            id: 4,
+            ru: "	Хорошего вам вечера	",
+            eng: "	Have a nice evening	"
+        },
+        {
+            id: 5,
+            ru: "	ноль часов, ноль минут	",
+            eng: "	midnight 00:00 AM	"
+        },
+        {
+            id: 6,
+            ru: "	двенадцать часов дня	",
+            eng: "	twelve pm	"
+        },
+        {
+            id: 7,
+            ru: "	двенадцать часов ночи	",
+            eng: "	12 am	"
+        },
+        {
+            id: 8,
+            ru: "	в полночь	",
+            eng: "	at midnight	"
+        },
+        {
+            id: 9,
+            ru: "	днем	",
+            eng: "	in the afternoon	"
+        },
+        {
+            id: 10,
+            ru: "	утром	",
+            eng: "	in the morning	"
+        },
+        {
+            id: 11,
+            ru: "	вечером	",
+            eng: "	in the evening	"
+        },
+        {
+            id: 12,
+            ru: "	ночью	",
+            eng: "	at night	"
+        },
+        {
+            id: 13,
+            ru: "	в полдень	",
+            eng: "	at noon	"
+        },
+        {
+            id: 14,
+            ru: "	пол второго	",
+            eng: "	half past one	"
+        },
+        {
+            id: 15,
+            ru: "	пол девятого	",
+            eng: "	half past eight	"
+        },
+        {
+            id: 16,
+            ru: "	пол деcятого	",
+            eng: "	half past nine	"
+        },
+        {
+            id: 17,
+            ru: "	eleven thirty	",
+            eng: "	half past eleven	"
+        },
+        {
+            id: 18,
+            ru: "	без 20 девять	",
+            eng: "	twenty to nine	"
+        },
+        {
+            id: 19,
+            ru: "	без пятнадцати четыре	",
+            eng: "	a quarter to four	"
+        },
+        {
+            id: 20,
+            ru: "	без двух минут час	",
+            eng: "	two minutes to two	"
+        },
+        {
+            id: 21,
+            ru: "	пятнадцать минут пятого	",
+            eng: "	a quarter past four	"
+        },
+        {
+            id: 22,
+            ru: "	пятнадцать пятнадцать	",
+            eng: "	it is three fifteen	"
+        },
+        {
+            id: 23,
+            ru: "	Двадцать ноль ноль	",
+            eng: "	it is 8 PM	"
+        },
+        {
+            id: 24,
+            ru: "	Десять ноль одна	",
+            eng: "	ten o one (Или one past ten)	"
+        },
+        {
+            id: 25,
+            ru: "	Восемь часов, тринадцать минут	",
+            eng: "	thirteen past eight	"
+        },
+        {
+            id: 26,
+            ru: "	Приходите в 2 часа	",
+            eng: "	Come at 2 o'clock	"
+        },
+        {
+            id: 27,
+            ru: "	После обеда перезвоните	",
+            eng: "	call back after lunch	"
+        },
+        {
+            id: 28,
+            ru: "	До обеда пожалуйста сделайте это	",
+            eng: "	do it before lunch, please	"
+        },
+        {
+            id: 29,
+            ru: "	Через 10 минут	",
+            eng: "	in 10 minutes	"
+        },
+        {
+            id: 30,
+            ru: "	в 10 часов и 10 минут	",
+            eng: "	at Ten Ten (Или at ten past ten)	"
+        },
+        {
+            id: 31,
+            ru: "	в 10 часов	",
+            eng: "	at ten o'clock	"
+        },
+        {
+            id: 32,
+            ru: "	через 2 часа	",
+            eng: "	in two hours	"
+        },
+        {
+            id: 33,
+            ru: "	60 минут это один час	",
+            eng: "	60 minutes…. it is an hour	"
+        },
 
     ],
 }
