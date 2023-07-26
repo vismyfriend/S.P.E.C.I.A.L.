@@ -8337,6 +8337,129 @@ const allQuestionsOneDeck = {
         },
 
     ],
+    when: [
+        {					
+            id	:	1	,		
+            eng	:	"	at six in the morning	"	,
+            ru	:	"	в 06:00 утра (at 6 o'clock AM)	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	at seven-thirty in the morning	"	,
+            ru	:	"	в 07:30 утра (at half past seven am)	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	at eight-thirty in the morning	"	,
+            ru	:	"	в 08:30 утра (at half past eight am)	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	at nine in the morning	"	,
+            ru	:	"	в 09:00 утра (at nine o'clock AM)	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	at eleven o'clock in the morning	"	,
+            ru	:	"	в 11 дня (at eleven AM)	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	in the afternoon at 12pm	"	,
+            ru	:	"	В полдень в 12 часов	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	at midnight at 12am	"	,
+            ru	:	"	в полночь в 00:00	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	at 1 pm	"	,
+            ru	:	"	в час дня (13:00)	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	at half past 3 pm	"	,
+            ru	:	"	в пол четвертого дня (15:30)	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	at half past 8 in the evening	"	,
+            ru	:	"	в пол девятого вечера (20:30)	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	at five fifty pm	"	,
+            ru	:	"	в пять пятьдесят вечера (17:50)	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	at 11:11 in the evening	"	,
+            ru	:	"	at eleven eleven (at 11 past 11 PM) 23:11	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	at 9 in the evening	"	,
+            ru	:	"	в 9 вечера (21:00) at nine o'clock PM	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	at 6 in the evening	"	,
+            ru	:	"	в 6 вечера (18:00) at six o'clock PM	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	at seven-thirty in the evening	"	,
+            ru	:	"	в 7:30 вечера (19:30) at half past seven AM	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	at five twenty-five in the evening	"	,
+            ru	:	"	в 5:25 вечера (17:25) at twenty-five past five PM	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	at a quarter to two pm	"	,
+            ru	:	"	13:45 (без пятнадцати два)	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	after I speak with Vincent	"	,
+            ru	:	"	после того как я поговорю с Винсентом	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	after I do my English homework	"	,
+            ru	:	"	после того как я сделаю свою домашнюю работу по английскому	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	after I watch the news	"	,
+            ru	:	"	после того как я посмотрю новости	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	I really don't know when	"	,
+            ru	:	"	Я действительно не знаю когда	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	when I am hungry	"	,
+            ru	:	"	когда я голоден	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	when I feel sad	"	,
+            ru	:	"	когда мне грустно	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	at a quarter past 10 in the morning	"	,
+            ru	:	"	в 10:15 утра (at ten fifteen AM)	"	
+            }	,				
+
+    ],
 }
 export default allQuestionsOneDeck
 

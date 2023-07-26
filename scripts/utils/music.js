@@ -22,6 +22,7 @@ const playList = {
     a_cook_cooks: "../audio/Mission a cook cooks.mp3",
     travel: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     time: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    when: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     bodyParts1: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     ac: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     ae: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",

@@ -8277,6 +8277,94 @@ const allCardsGameFindAPair = {
         },
 
     ],
+    when: [
+        {					
+            id	:	1	,		
+            eng	:	"	at 14:30	"	,
+            ru	:	"	at half past two PM	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	at 13:15	"	,
+            ru	:	"	at a quarter past one PM	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	at 13:00	"	,
+            ru	:	"	at one PM	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	at 00:00	"	,
+            ru	:	"	at twelve AM at midnight	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	at 12:00	"	,
+            ru	:	"	at twelve PM at noon	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	at 13:58	"	,
+            ru	:	"	at two to two PM	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	at 21:00	"	,
+            ru	:	"	at nine PM	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	at 23:30	"	,
+            ru	:	"	at half past eleven PM	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	at 23:45	"	,
+            ru	:	"	at a quarter to midnight	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	at 23:15	"	,
+            ru	:	"	at a quarter past eleven PM	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	at 13:13	"	,
+            ru	:	"	at thirteen past one PM	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	at 13:30	"	,
+            ru	:	"	at half past one PM	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	at 01:30	"	,
+            ru	:	"	at half past one AM	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	at 02:30	"	,
+            ru	:	"	at half past two AM	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	at 01:15	"	,
+            ru	:	"	at a quarter past one AM	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	at 01:00	"	,
+            ru	:	"	at one AM	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	at 19:00	"	,
+            ru	:	"	at seven PM	"	
+            }	,							
+
+    ],
     time: [
         {
             id: 1,
