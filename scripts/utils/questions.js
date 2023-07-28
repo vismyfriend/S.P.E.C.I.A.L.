@@ -3030,7 +3030,7 @@ const allQuestionsOneDeck = {
             ru	:	"	главный повар	"	
             }	,				
     ],
-    bodyParts1: [
+    bodyParts0: [
         {
             id: 1,
             eng: "	Do you like long or short hair?	",

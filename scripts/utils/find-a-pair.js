@@ -3031,117 +3031,308 @@ const allCardsGameFindAPair = {
             ru	:	"	главный повар	"	
             }	,				
     ],
-    bodyParts1: [
-        {
-            id: 1,
-            eng: "	A head	",
-            ru: "	Голова	"
-        },
-        {
-            id: 2,
-            eng: "	An ear	",
-            ru: "	Ухо	"
-        },
-        {
-            id: 3,
-            eng: "	Ears	",
-            ru: "	Уши	"
-        },
-        {
-            id: 4,
-            eng: "	An eye	",
-            ru: "	Глаз	"
-        },
-        {
-            id: 5,
-            eng: "	Eyes	",
-            ru: "	Глаза	"
-        },
-        {
-            id: 6,
-            eng: "	A nose	",
-            ru: "	Нос	"
-        },
-        {
-            id: 7,
-            eng: "	A neck	",
-            ru: "	Шея	"
-        },
-        {
-            id: 8,
-            eng: "	A mouth	",
-            ru: "	Рот	"
-        },
-        {
-            id: 9,
-            eng: "	Lips	",
-            ru: "	Губы	"
-        },
-        {
-            id: 10,
-            eng: "	Hair	",
-            ru: "	Волосы	"
-        },
-        {
-            id: 11,
-            eng: "	Hairs	",
-            ru: "	Волоски	"
-        },
-        {
-            id: 12,
-            eng: "	Teeth	",
-            ru: "	Зубы	"
-        },
-        {
-            id: 13,
-            eng: "	A tooth	",
-            ru: "	Зуб	"
-        },
-        {
-            id: 14,
-            eng: "	Arms	",
-            ru: "	Руки	"
-        },
-        {
-            id: 15,
-            eng: "	Legs	",
-            ru: "	Ноги	"
-        },
-        {
-            id: 16,
-            eng: "	An arm	",
-            ru: "	Рука	"
-        },
-        {
-            id: 17,
-            eng: "	a breast	",
-            ru: "	Грудь	"
-        },
-        {
-            id: 18,
-            eng: "	chest	",
-            ru: "	Грудная клетка	"
-        },
-        {
-            id: 19,
-            eng: "	body	",
-            ru: "	Тело /бОди/	"
-        },
-        {
-            id: 20,
-            eng: "	Parts of the body	",
-            ru: "	Части тела	"
-        },
-        {
-            id: 21,
-            eng: "	Behind blue eyes	",
-            ru: "	/бихАйнд/ За синими глазами	"
-        },
-        {
-            id: 22,
-            eng: "	buddy	",
-            ru: "	/бАдди/ приятель, дружище	"
-        },
+    bodyParts0: [
+        {					
+            id	:	1	,		
+            eng	:	"	A head / э хЭд/	"	,
+            ru	:	"	голова	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	An ear / эн Иэ/	"	,
+            ru	:	"	ухо	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	Ears / Иаз/	"	,
+            ru	:	"	уши	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	An eye / эн Ай/	"	,
+            ru	:	"	Глаза	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	Eyes / айз/	"	,
+            ru	:	"	глаза	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	A nose / э ноУз/	"	,
+            ru	:	"	нос	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	A neck / э нЭк/	"	,
+            ru	:	"	шея	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	A mouth / мауTH/	"	,
+            ru	:	"	рот	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	Lips / липс/	"	,
+            ru	:	"	губы	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	Hair / хЭа/	"	,
+            ru	:	"	волосы	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	Hairs	"	,
+            ru	:	"	волоски	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	Teeth / тиTH/	"	,
+            ru	:	"	зубы	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	A tooth / э туТH/	"	,
+            ru	:	"	зуб	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	Arms / амз/	"	,
+            ru	:	"	руки	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	Legs / лэгз/	"	,
+            ru	:	"	ноги	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	An arm / эн арм/	"	,
+            ru	:	"	рука	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	a breast / э брЭст/	"	,
+            ru	:	"	грудь	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	a chest / чест/	"	,
+            ru	:	"	грудная клетка	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	A body / бОди/	"	,
+            ru	:	"	тело	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	wide / уайд/	"	,
+            ru	:	"	широкий	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	fat / фЭт/	"	,
+            ru	:	"	жирный	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	eye-brows / ай брАуз/	"	,
+            ru	:	"	брови	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	shoulders / шОулдэз/	"	,
+            ru	:	"	плечи	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	short / шорт/	"	,
+            ru	:	"	короткий	"	
+            }	,				
+            {					
+            id	:	25	,		
+            eng	:	"	hairy / хЭйри/	"	,
+            ru	:	"	волосатый	"	
+            }	,				
+            {					
+            id	:	26	,		
+            eng	:	"	hands / хэндз/	"	,
+            ru	:	"	кисти рук	"	
+            }	,				
+            {					
+            id	:	27	,		
+            eng	:	"	muscular / мАскьюла/	"	,
+            ru	:	"	мускулистый	"	
+            }	,				
+            {					
+            id	:	28	,		
+            eng	:	"	large / ладж/	"	,
+            ru	:	"	крупный	"	
+            }	,				
+            {					
+            id	:	29	,		
+            eng	:	"	long / лон/	"	,
+            ru	:	"	длинный	"	
+            }	,				
+            {					
+            id	:	30	,		
+            eng	:	"	pierced / пирст/	"	,
+            ru	:	"	проколотоый	"	
+            }	,				
+            {					
+            id	:	31	,		
+            eng	:	"	belly button / бЭли бАтн/"	,
+            ru	:	"	 пупок (дословно: кнопка на пузе)	"	
+            }	,				
+            {					
+            id	:	32	,		
+            eng	:	"	belly	"	,
+            ru	:	"	пузико	"	
+            }	,				
+            {					
+            id	:	33	,		
+            eng	:	"	tummy / тамми/	"	,
+            ru	:	"	животик	"	
+            }	,				
+            {					
+            id	:	34	,		
+            eng	:	"	firm / фёрм/	"	,
+            ru	:	"	упругая	"	
+            }	,				
+            {					
+            id	:	35	,		
+            eng	:	"	bottom / ботм/	"	,
+            ru	:	"	попа	"	
+            }	,				
+            {					
+            id	:	36	,		
+            eng	:	"	beer belly / бИр бЭли/	"	,
+            ru	:	"	пивное пузо	"	
+            }	,				
+            {					
+            id	:	37	,		
+            eng	:	"	knee /ни/	"	,
+            ru	:	"	колено	"	
+            }	,				
+            {					
+            id	:	38	,		
+            eng	:	"	knees / низ/	"	,
+            ru	:	"	колени	"	
+            }	,				
+            {					
+            id	:	39	,		
+            eng	:	"	a scar / э скА/	"	,
+            ru	:	"	шрам	"	
+            }	,				
+            {					
+            id	:	40	,		
+            eng	:	"	a foot / фут/	"	,
+            ru	:	"	ступня	"	
+            }	,				
+            {					
+            id	:	41	,		
+            eng	:	"	toes / тоУз/ 	"	,
+            ru	:	"	пальцы на ногах	"	
+            }	,				
+            {					
+            id	:	42	,		
+            eng	:	"	fingers / фИнГерз/	"	,
+            ru	:	"	пальцы на руках	"	
+            }	,				
+            {					
+            id	:	43	,		
+            eng	:	"	crooked / крукИд/	"	,
+            ru	:	"	кривые	"	
+            }	,				
+            {					
+            id	:	44	,		
+            eng	:	"	round / рАунд/	"	,
+            ru	:	"	круглый	"	
+            }	,				
+            {					
+            id	:	45	,		
+            eng	:	"	square / скуЭэ/	"	,
+            ru	:	"	квадратный	"	
+            }	,				
+            {					
+            id	:	46	,		
+            eng	:	"	long hair	"	,
+            ru	:	"	длинные волосы	"	
+            }	,				
+            {					
+            id	:	47	,		
+            eng	:	"	short hair	"	,
+            ru	:	"	короткие волосы	"	
+            }	,				
+            {					
+            id	:	48	,		
+            eng	:	"	skinny / скИни/	"	,
+            ru	:	"	тощий	"	
+            }	,				
+            {					
+            id	:	49	,		
+            eng	:	"	straight hair / стрЭйт хЭа/	"	,
+            ru	:	"	прямые волосы	"	
+            }	,				
+            {					
+            id	:	50	,		
+            eng	:	"	wavy hair / уЭви хЭа/	"	,
+            ru	:	"	волнистые волосы	"	
+            }	,				
+            {					
+            id	:	51	,		
+            eng	:	"	curly hair / кЁли хэа/	"	,
+            ru	:	"	кудрявые волосы	"	
+            }	,				
+            {					
+            id	:	52	,		
+            eng	:	"	bald / бОлд/	"	,
+            ru	:	"	лысый	"	
+            }	,				
+            {					
+            id	:	53	,		
+            eng	:	"	a birthmark / бЁthмак/	"	,
+            ru	:	"	родимое пятно	"	
+            }	,				
+            {					
+            id	:	54	,		
+            eng	:	"	a mole / э мОул/	"	,
+            ru	:	"	родинка	"	
+            }	,				
+            {					
+            id	:	55	,		
+            eng	:	"	a beard / э бИЕд/	"	,
+            ru	:	"	борода	"	
+            }	,				
+            {					
+            id	:	56	,		
+            eng	:	"	a moustache / э мАсташ/	"	,
+            ru	:	"	усы	"	
+            }	,				
+            {					
+            id	:	57	,		
+            eng	:	"	freckles / фрЭклз/	"	,
+            ru	:	"	веснушки	"	
+            }	,				
+            {					
+            id	:	58	,		
+            eng	:	"	wrinkles / ринклз/	"	,
+            ru	:	"	морщинки, складки	"	
+            }	,				
+            {					
+            id	:	59	,		
+            eng	:	"	cheeks / чикс/	"	,
+            ru	:	"	щёки	"	
+            }	,				
+            {					
+            id	:	60	,		
+            eng	:	"	tattoos / татУз/	"	,
+            ru	:	"	татуировки	"	
+            }	,				
+        
     ],
     mission0: [
         {
@@ -3184,7 +3375,7 @@ const allCardsGameFindAPair = {
         {
             id: 2,
             ru: "номер два",
-            eng: "number two /нАмбэ ту/"
+            eng: "number two / нАмбэ ту/"
         },
         {
             id: 3,
@@ -3219,65 +3410,80 @@ const allCardsGameFindAPair = {
         {
             id: 9,
             ru: "9",
-            eng: "nine /нАйн/"
+            eng: "nine / нАйн/"
         },
         {
             id: 10,
             ru: "10",
-            eng: "ten /тЭн/"
+            eng: "ten / тЭн/"
         },
         {
             id: 11,
             ru: "11",
-            eng: "eleven /илЭвн/"
+            eng: "eleven / илЭвн/"
         },
         {
             id: 12,
             ru: "12",
-            eng: "twelve /твЭлВ/"
+            eng: "twelve / твЭлВ/"
         },
 
         {
             id: 13,
-            ru: "не сЁртин и не Фёртин",
+            ru: "не сЁртин и не Фёртин. Язык между зубов!",
             eng: "thirteen /TH/"
         },
 
         {
             id: 14,
-            ru: "14 тянем крайнюю И",
-            eng: "foureen /фотИИИИн/"
+            ru: "14 тянем И teeeeeen",
+            eng: "foureen / фотИИИИн/"
         },
 
         {
             id: 15,
             ru: "15 долго тянем И",
-            eng: "fifteen /фифтИИИн/"
+            eng: "fifteen / фифтИИИн/"
         },
         {
             id: 16,
             ru: "16 ударение на И",
-            eng: "sixteen /сыкстИн/"
+            eng: "sixteen / сыкстИн/"
         },
         {
             id: 17,
             ru: "20 уверенно!",
-            eng: "twenty /твЭнти/"
+            eng: "twenty / твЭнти/"
         },
         {
             id: 17,
-            ru: "/пЭа/ ПАРА = 2",
+            ru: "/пЭа/ ПАРА = 2",
             eng: "a pair"
         },
         {
             id: 18,
-            ru: "числа, номера ",
+            ru: "номера, числа",
             eng: "numbers /нАмбэz/"
         },
         {
             id: 19,
-            ru: "цифры 0-9",
+            ru: "цифры",
             eng: "digits /дИджитс/"
+        },
+        {
+            id: 20,
+            ru: "второй",
+            eng: "the second 2nd"
+        },
+        {
+            id: 21,
+            ru: "самый первый",
+            eng: "the first / 1st фёст/"
+        },
+        {
+            id: 22,
+            ru: "/ фром зироу ту найн/",
+            eng: "0 - 9 от ноля до девяти"
         },
 
 
@@ -3539,7 +3745,7 @@ const allCardsGameFindAPair = {
         },
         {
             id: 12,
-            ru: "	My fav. movies are detectives & comedies /кАмедис/	",
+            ru: "	My fav. movies are comedies /кАмедис/	",
             eng: "	What are your favorite movies? /мУви/	"
         },
         {
@@ -3564,8 +3770,8 @@ const allCardsGameFindAPair = {
         },
         {
             id: 17,
-            ru: "	My fav. adj. is “sexy”	",
-            eng: "	What’s your favorite English adj? /Эджэктив/ ударение на Э"
+            ru: "	/Эджэктив/ ударение на Э. My fav. adj. is “sexy”	",
+            eng: "	What’s your favorite English adjective?"
         },
         {
             id: 18,
@@ -3624,7 +3830,7 @@ const allCardsGameFindAPair = {
         },
         {
             id: 29,
-            ru: "	He’s an agent! A foreign/форин/ agent. (иностранный агент)	",
+            ru: "	He’s an agent! / эн Эйджэнт/	",
             eng: "	Who is your teacher?	"
         },
         {
@@ -3674,8 +3880,8 @@ const allCardsGameFindAPair = {
         },
         {
             id: 39,
-            ru: "	Love is everywhere /ЭвриУээ/ in every sight/сайт/ в каждом взгляде",
-            eng: "	Where is love?	"
+            ru: "	Love is everywhere / ЭвриУээ / везде",
+            eng: "	Where is love? Где любовь?"
         },
     ],
     seasons: [
@@ -8498,7 +8704,7 @@ const allCardsGameFindAPair = {
         },
         {
             id: 27,
-            ru: "	После обеда перезвоните	",
+            ru: "	Перезвоните после обеда",
             eng: "	call back after lunch	"
         },
         {
