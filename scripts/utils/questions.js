@@ -3031,116 +3031,286 @@ const allQuestionsOneDeck = {
             }	,				
     ],
     bodyParts0: [
-        {
-            id: 1,
-            eng: "	Do you like long or short hair?	",
-            ru: "	Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair.	"
-        },
-        {
-            id: 2,
-            eng: "	What is the English for 'Ухо'?	",
-            ru: "	Как будет 'Ухо' на инглише? An ear /эн Иэ/	"
-        },
-        {
-            id: 3,
-            eng: "	What is the English for 'Уши'?	",
-            ru: "	Как сказать 'Уши' на-английском? Ears /иаз/	"
-        },
-        {
-            id: 4,
-            eng: "	What is the English for 'Один глаз'?	",
-            ru: "	Как по-английски 'Один глаз' сказать? An eye /эн Ай/	"
-        },
-        {
-            id: 5,
-            eng: "	Is your teacher fat or skinny?	",
-            ru: "	Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!	"
-        },
-        {
-            id: 6,
-            eng: "	Do you have hair on your back?	",
-            ru: "	У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!	"
-        },
-        {
-            id: 7,
-            eng: "	Can you move your nose without hands? Show me, please	",
-            ru: "	Вы можете/умеете шевелить носом без помощи рук?	"
-        },
-        {
-            id: 8,
-            eng: "	What color is your hair?	",
-            ru: "	Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…	"
-        },
-        {
-            id: 9,
-            eng: "	What color are Vincent's eyes?	",
-            ru: "	Какого цвета глаза Ви? Vincent's eyes are blue.	"
-        },
-        {
-            id: 10,
-            eng: "	Do you have tattoos? If yes - where do you have them?	",
-            ru: "	У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest	"
-        },
-        {
-            id: 11,
-            eng: "	Why are you so sexy?	",
-            ru: "	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"
-        },
-        {
-            id: 12,
-            eng: "	Am I cute and attractive?	",
-            ru: "	Я милая/милый и привлекательная/ый? Of course you are! Very much!	"
-        },
-        {
-            id: 13,
-            eng: "	Does Vincent have hair on his head?	",
-            ru: "	У Ви есть волосы на голове? Hmmmm… It is a secret…	"
-        },
-        {
-            id: 14,
-            eng: "	Does your favorite actor have a muscular body?	",
-            ru: "	У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has.	"
-        },
-        {
-            id: 15,
-            eng: "	What color are your eyes?	",
-            ru: "	Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…	"
-        },
-        {
-            id: 16,
-            eng: "	What color are my eyes?	",
-            ru: "	Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes	"
-        },
-        {
-            id: 17,
-            eng: "	What color are your father'seyes?	",
-            ru: "	Какого цвета глаза твоего отца? My father's eyes are brown	"
-        },
-        {
-            id: 18,
-            eng: "	Do you have scars?	",
-            ru: "	У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…	"
-        },
-        {
-            id: 19,
-            eng: "	Does your best friend have scars?	",
-            ru: "	У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…	"
-        },
-        {
-            id: 20,
-            eng: "	What part of your body do you like very much?	",
-            ru: "	Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!	"
-        },
-        {
-            id: 21,
-            eng: "	Can you move your ears?	",
-            ru: "	Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!	"
-        },
-        {
-            id: 22,
-            eng: "	How many teeth do you have?	",
-            ru: "	Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…	"
-        },
+        {					
+            id	:	1	,		
+            eng	:	"	Do you like long or short hair?	"	,
+            ru	:	"	Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair.	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	What is the English for 'Ухо'?	"	,
+            ru	:	"	Как будет 'Ухо' на инглише? An ear /эн Иэ/	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	What is the English for 'Уши'?	"	,
+            ru	:	"	Как сказать 'Уши' на-английском? Ears /иаз/	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	What is the English for 'Один глаз'?	"	,
+            ru	:	"	Как по-английски 'Один глаз' сказать? An eye /эн Ай/	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	Is your teacher fat or skinny?	"	,
+            ru	:	"	Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	Do you have hair on your back?	"	,
+            ru	:	"	У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	Can you move your nose without hands? Show me, please	"	,
+            ru	:	"	Вы можете/умеете шевелить носом без помощи рук?	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	What color is your hair?	"	,
+            ru	:	"	Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	What color are Vincent's eyes?	"	,
+            ru	:	"	Какого цвета глаза Ви? Vincent's eyes are blue.	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	Do you have tattoos? If yes - where do you have them?	"	,
+            ru	:	"	У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	Why are you so sexy?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	Am I cute and attractive?	"	,
+            ru	:	"	Я милая/милый и привлекательная/ый? Of course you are! Very much!	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	Does Vincent have hair on his head?	"	,
+            ru	:	"	У Ви есть волосы на голове? Hmmmm… It is a secret…	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	Does your favorite actor have a muscular body?	"	,
+            ru	:	"	У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has.	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	What color are your eyes?	"	,
+            ru	:	"	Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	What color are my eyes?	"	,
+            ru	:	"	Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	What color are your father'seyes?	"	,
+            ru	:	"	Какого цвета глаза твоего отца? My father's eyes are brown	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	Do you have scars?	"	,
+            ru	:	"	У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	Does your best friend have scars?	"	,
+            ru	:	"	У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	What part of your body do you like very much?	"	,
+            ru	:	"	Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	Can you move your ears?	"	,
+            ru	:	"	Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	How many teeth do you have?	"	,
+            ru	:	"	Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	Are your ears pierced? (Do you have pierced ears?)	"	,
+            ru	:	"	Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced.	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	Does any of your friends have tattoos? What tattoos and where do they have it?	"	,
+            ru	:	"	У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?	"	
+            }	,				
+            {					
+            id	:	25	,		
+            eng	:	"	What color is your parents' hair?	"	,
+            ru	:	"	Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes.	"	
+            }	,				
+            {					
+            id	:	26	,		
+            eng	:	"	What color is your best friend's hair?	"	,
+            ru	:	"	Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,	"	
+            }	,				
+            {					
+            id	:	27	,		
+            eng	:	"	Is your hair wavy or straight? Or do you have curly hair?	"	,
+            ru	:	"	Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair.	"	
+            }	,				
+            {					
+            id	:	28	,		
+            eng	:	"	What color lipstick is very attractive?	"	,
+            ru	:	"	Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much.	"	
+            }	,				
+            {					
+            id	:	29	,		
+            eng	:	"	Do you like to have a beautiful necklace on your neck?	"	,
+            ru	:	"	Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)	"	
+            }	,				
+            {					
+            id	:	30	,		
+            eng	:	"	How many teeth does your teacher have?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	31	,		
+            eng	:	"	Are your arms strong and muscular?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	32	,		
+            eng	:	"	Do you know anybody who has a very muscular body?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	33	,		
+            eng	:	"	Does a big bottom look attractive?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	34	,		
+            eng	:	"	What is the English for 'пальцы на ногах' ?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	35	,		
+            eng	:	"	Do you like men with a hairy chest?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	36	,		
+            eng	:	"	Is it attractive and sexy when a man has wide shoulders?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	37	,		
+            eng	:	"	Does your teacher have a mono eye-brow?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	38	,		
+            eng	:	"	How often do you wash your hands?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	39	,		
+            eng	:	"	Does everybody have a belly button or maybe somebody doesn't have it?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	40	,		
+            eng	:	"	Is it true that one breast is always bigger than another?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	41	,		
+            eng	:	"	What shampoo do you use when you wash your hair and shoulders?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	42	,		
+            eng	:	"	Is your head round or square?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	43	,		
+            eng	:	"	Are you a tall or short person?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	44	,		
+            eng	:	"	Does your teacher have a beer belly or a firm tummy?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	45	,		
+            eng	:	"	Do you have scars on your knees?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	46	,		
+            eng	:	"	What do you have in the middle of your leg?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	47	,		
+            eng	:	"	Are your legs straight or crooked?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	48	,		
+            eng	:	"	What is the difference between toys and toes?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	49	,		
+            eng	:	"	How many fingers do you have on your hands?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	50	,		
+            eng	:	"	How many toes do you have?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	51	,		
+            eng	:	"	Does your grandmother have wrinkles?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	52	,		
+            eng	:	"	Do you have wrinkles when you smile?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	53	,		
+            eng	:	"	Do you have dimples on your cheeks when you smile?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	54	,		
+            eng	:	"	Do you have birthmarks and moles?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	55	,		
+            eng	:	"	Is it sexy to have a moustache?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,				
+            {					
+            id	:	56	,		
+            eng	:	"	What is your favorite part of a man's or a woman's body?	"	,
+            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            }	,							
     ],
     mission0: [
         {
