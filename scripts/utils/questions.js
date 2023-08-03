@@ -3084,7 +3084,7 @@ const allQuestionsOneDeck = {
             {					
             id	:	11	,		
             eng	:	"	Why are you so sexy?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	ЗПочему вы такие сексуальные? Because I go to the GYM and I eat good food.	"	
             }	,				
             {					
             id	:	12	,		
@@ -3179,138 +3179,143 @@ const allQuestionsOneDeck = {
             {					
             id	:	30	,		
             eng	:	"	How many teeth does your teacher have?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Сколько зубов у твоего учителя? My teacher has twenty eight teeth	"	
             }	,				
             {					
             id	:	31	,		
             eng	:	"	Are your arms strong and muscular?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Твои руки сильные и мускулистые? Of course they are! They are super strong!	"	
             }	,				
             {					
             id	:	32	,		
             eng	:	"	Do you know anybody who has a very muscular body?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…	"	
             }	,				
             {					
             id	:	33	,		
             eng	:	"	Does a big bottom look attractive?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive.	"	
             }	,				
             {					
             id	:	34	,		
             eng	:	"	What is the English for 'пальцы на ногах' ?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/	"	
             }	,				
             {					
             id	:	35	,		
             eng	:	"	Do you like men with a hairy chest?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest.	"	
             }	,				
             {					
             id	:	36	,		
             eng	:	"	Is it attractive and sexy when a man has wide shoulders?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Это привлекательно, когда у мужчины широкие плечи?	"	
             }	,				
             {					
             id	:	37	,		
             eng	:	"	Does your teacher have a mono eye-brow?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!	"	
             }	,				
             {					
             id	:	38	,		
             eng	:	"	How often do you wash your hands?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Как часто ты моешь руки? I wash my hands every day	"	
             }	,				
             {					
             id	:	39	,		
             eng	:	"	Does everybody have a belly button or maybe somebody doesn't have it?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!	"	
             }	,				
             {					
             id	:	40	,		
             eng	:	"	Is it true that one breast is always bigger than another?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true.	"	
             }	,				
             {					
             id	:	41	,		
             eng	:	"	What shampoo do you use when you wash your hair and shoulders?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo	"	
             }	,				
             {					
             id	:	42	,		
             eng	:	"	Is your head round or square?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!	"	
             }	,				
             {					
             id	:	43	,		
             eng	:	"	Are you a tall or short person?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Ты высокий или низкий человек? I am not very tall and not very short	"	
             }	,				
             {					
             id	:	44	,		
             eng	:	"	Does your teacher have a beer belly or a firm tummy?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin.	"	
             }	,				
             {					
             id	:	45	,		
             eng	:	"	Do you have scars on your knees?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&	"	
             }	,				
             {					
             id	:	46	,		
             eng	:	"	What do you have in the middle of your leg?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)	"	
             }	,				
             {					
             id	:	47	,		
             eng	:	"	Are your legs straight or crooked?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)	"	
             }	,				
             {					
             id	:	48	,		
             eng	:	"	What is the difference between toys and toes?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз	"	
             }	,				
             {					
             id	:	49	,		
             eng	:	"	How many fingers do you have on your hands?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes	"	
             }	,				
             {					
             id	:	50	,		
             eng	:	"	How many toes do you have?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers	"	
             }	,				
             {					
             id	:	51	,		
             eng	:	"	Does your grandmother have wrinkles?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive	"	
             }	,				
             {					
             id	:	52	,		
             eng	:	"	Do you have wrinkles when you smile?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile	"	
             }	,				
             {					
             id	:	53	,		
             eng	:	"	Do you have dimples on your cheeks when you smile?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile	"	
             }	,				
             {					
             id	:	54	,		
             eng	:	"	Do you have birthmarks and moles?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark	"	
             }	,				
             {					
             id	:	55	,		
             eng	:	"	Is it sexy to have a moustache?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+            ru	:	"	Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!	"	
             }	,				
             {					
             id	:	56	,		
             eng	:	"	What is your favorite part of a man's or a woman's body?	"	,
-            ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
-            }	,							
+            ru	:	"	Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs	"	
+            }	,				
+            {					
+            id	:	57	,		
+            eng	:	"	Can you touch your nose with your tongue /тан/ and without hands?	"	,
+            ru	:	"	Ты можешь коснуться носа с помощью языка и без рук?	"	
+            }	,										
     ],
     mission0: [
         {
