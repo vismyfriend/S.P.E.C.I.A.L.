@@ -3324,14 +3324,44 @@ const allCardsGameFindAPair = {
             }	,				
             {					
             id	:	59	,		
-            eng	:	"	cheeks / чикс/	"	,
+            eng	:	"	cheeks / чикс /	"	,
             ru	:	"	щёки	"	
             }	,				
             {					
             id	:	60	,		
-            eng	:	"	tattoos / татУз/	"	,
+            eng	:	"	tattoos / татУз /	"	,
             ru	:	"	татуировки	"	
-            }	,				
+            }	,	
+            {					
+                id	:	61	,		
+                eng	:	"	thick	"	,
+                ru	:	"	толстый	"	
+                }	,				
+                {					
+                id	:	62	,		
+                eng	:	"	thin	"	,
+                ru	:	"	худой, тонкий	"	
+                }	,				
+                {					
+                id	:	63	,		
+                eng	:	"	forehead / фОхэд /	"	,
+                ru	:	"	лоб	"	
+                }	,				
+                {					
+                id	:	64	,		
+                eng	:	"	tongue / тан /	"	,
+                ru	:	"	язык	"	
+                }	,				
+                {					
+                id	:	65	,		
+                eng	:	"	back / бЭк /	"	,
+                ru	:	"	спина	"	
+                }	,				
+                {					
+                id	:	66	,		
+                eng	:	"	chin	"	,
+                ru	:	"	подбородок	"	
+                }	,							
         
     ],
     mission0: [
