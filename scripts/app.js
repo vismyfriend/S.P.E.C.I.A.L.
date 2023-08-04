@@ -74,6 +74,44 @@ let value = null
 let questionNumber = 0
 
 
+//ниже функция для высвечивания результата и количество звезд
+
+const starsEmoji = document.querySelector(".starsEmoji")
+
+let howManyStarsEmoji = 5
+let timeToGet5StarResult = 100
+let timeToGet4StarResult = 120
+let timeToGet3StarResult = 140
+let timeToGet2StarResult = 160
+// let timeToGet5StarResult = 120
+// let timeToGet4StarResult = 140
+// let timeToGet3StarResult = 170
+// let timeToGet2StarResult = 210
+function starResult() {
+    if (seconds < timeToGet5StarResult) {
+        howManyStarsEmoji = 5
+        starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
+        
+    } else if (seconds > timeToGet5StarResult && seconds < timeToGet4StarResult) {
+        howManyStarsEmoji = 4
+        starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
+        
+    } else if (seconds > timeToGet4StarResult && seconds < timeToGet3StarResult) {
+        howManyStarsEmoji = 3
+        starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
+        
+    } else if (seconds > timeToGet3StarResult && seconds < timeToGet2StarResult) {
+        howManyStarsEmoji = 2
+        starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
+        
+    } else if (seconds > timeToGet2StarResult) {
+        howManyStarsEmoji = 1
+        starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
+        
+    }
+}
+//выше  функция для высвечивания результата и количество звезд
+
 
 function pageReloadRefresh() {
 
@@ -302,13 +340,15 @@ function match(evt) {
 
 function finishGame() {
     clearInterval(interval)
+    starResult()
+    starsEmoji.classList.add("visible")
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
     usedCheatsText.classList.add("visible")
     tryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
     popupMissionsAndSetsTitle.textContent = `Результат: ${timer.textContent} seconds`
-    popupMissionsAndSetsDescription.innerHTML = "Сможешь лучше?"
+    popupMissionsAndSetsDescription.innerHTML = "Другую миссию?  Или еще разок? Новый рекорд?"
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"
     popupMissionsAndSetsSets.classList.remove("hide")
@@ -318,7 +358,7 @@ function finishGame() {
     slotMachine2.classList.remove("show")
     letsSpeak.classList.remove("show")
     chosenSet.classList.remove("show")
-    tryAgainButton.textContent = `Yes! ${chosenSet.textContent}`
+    tryAgainButton.textContent = `${chosenSet.textContent}`
     const AudioWinner = new Audio("https://zvukitop.com/wp-content/uploads/2021/03/zvuk-tadam-na-trube.mp3");
     AudioWinner.volume = 0.075;
     AudioWinner.play()

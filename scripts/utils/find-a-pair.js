@@ -3050,7 +3050,7 @@ const allCardsGameFindAPair = {
             {					
             id	:	4	,		
             eng	:	"	An eye / эн Ай/	"	,
-            ru	:	"	Глаза	"	
+            ru	:	"	Глаз	"	
             }	,				
             {					
             id	:	5	,		
