@@ -399,7 +399,7 @@ button {
 
 .gameFindAPairButtonBackToMissions,
 .gameFindAPairButtonNotUsed {
-    width: 104px;
+    width: 125px;
     height: 47px;
 
     background: #6f6f6f74;
@@ -420,13 +420,13 @@ button {
 
 .gameFindAPairButtonSkipThese {
 
-    width: 104px;
+    width: 125px;
     height: 47px;
     background: #7BE7FF;
     border-radius: 20px;
     -webkit-box-shadow: 0 2px 6px 1px #000000;
     box-shadow: 0 2px 6px 1px #000000;
-    font-size: 18px;
+    font-size: 14px;
     color: #000000;
     margin-right: 60px;
 }
@@ -655,7 +655,7 @@ button {
     background-position: center;
     border: none;
     position: fixed;
-    right: 33px;
+    right: 22px;
     bottom: 12px;
     z-index: 3;
     visibility: hidden;
@@ -671,7 +671,7 @@ button {
     background-position: center;
     border: none;
     position: fixed;
-    right: 33px;
+    right: 22px;
     bottom: 12px;
     z-index: 3;
     visibility: hidden;

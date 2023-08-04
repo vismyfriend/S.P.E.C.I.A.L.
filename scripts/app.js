@@ -236,6 +236,7 @@ function chooseSet(text, set) {
     chosenSet.classList.add("show")
     chosenSet.textContent = text
     usedCheatsText.classList.remove("visible")
+    starsEmoji.classList.remove("visible")
 }
 function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
