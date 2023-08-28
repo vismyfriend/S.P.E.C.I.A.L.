@@ -945,6 +945,103 @@ const allQuestionsOneDeck = {
             }	,				
             			
     ],
+    pr: [
+        {					
+            id	:	1	,		
+            eng	:	"	How much do you pay for the electricity a month?	"	,
+            ru	:	"	Сколько вы обычно платите за электричество за месяц? I usually pay about 100 euros	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	Did your parents ever pay you for doing anything?	"	,
+            ru	:	"	Твои родители когда-либо платили тебе за выполнение чего-либо? My granfather paid me with ice-cream for bringing good marks from school.	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	Can you tell me about a time when you had to put something in a special place to keep it safe?	"	,
+            ru	:	"	Можете рассказать о каком-либо случае, когда вы положили что-то в определенное место, чтобы лежало в сохранности? I remember when I was a child I put money inside the book. between pages.	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	What is your favorite book to read? Why do you like it so much?	"	,
+            ru	:	"	Какую книгу вам очень нравится читать? Почему она вам нравится? I like 12 chairs the most. Because it is always funny. You can start to read it from any page.	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	What 2 irregular verbs do you like? Make examples with these verbs	"	,
+            ru	:	"	Какие 2 неправильных глагола вам нравятся? Составьте с ними пример предложений. I like the verbs bite and beat. For example if you beat a dog, the dog can bite you!	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	What is the best thing to ride? A horse, a bicycle, a motorbike, an electric scooter, or a snowboard?	"	,
+            ru	:	"	На чем круче всего кататься? На лошади? Велике? Моте? Самокате или сноуборде? I like to ride all of these things!	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	What phrase do you like to hear more: ”Good morning!” or “Rise and shine!” or “Wake up!”	"	,
+            ru	:	"	Какую из этих фраз тебе нравится слышать больше всего? Доброе утро! Проснись и светись! Просыпайся! I like the phrase 'Wake up, Neo! Matrix has you!'	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	What is your ringtone? Is it basic or customized?	"	,
+            ru	:	"	Какой у тебя рингтон? Стандартный базовый или свой установленный? I hate basic ringtones. I customized my rington and I have my favorite song as my ringtone.	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	Does it bother you when a basic ringtone rings?	"	,
+            ru	:	"	Тебя раздражают стандартные мелодии звонка? Oh yes! It bothers me very much. It is really annoying. I think It annoys everybody	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	What was the longest distance hat you ran?	"	,
+            ru	:	"	Какой была самая длинная дистанция, которую вы пробегали? I tried to run a marathon two times. But I failed. 28 kilometres is my personal record	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	Can you run fast? Can you run away from Vincent?	"	,
+            ru	:	"	Вы умеете быстро бегать? Сможете убежать от училки? I can run very fast! I am like a rocket! But I can't run from Vincent. Nobody can. It is impossible, because Vincent can Teleport.	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	What is your favorite time to wake up in the morning? And did you ever watch the sunrise?	"	,
+            ru	:	"	Какое ваше самое любимое время просыпаться утром? Вы когда-нибудь смотрели рассвет? I don't like to wake up early in the morning. I watched sunrise many times. I enjoy the sunset more	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	Share a story about a time when you ran to catch something or someone. Or somebody ran after you.	"	,
+            ru	:	"	Поделитесь историей когда вы за кем-то или чем-то бежали? Или может кто-то за вами бежал? I remember one time I ran fter a criminal, who stole my debit card!	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	What did you buy the last? How much did you pay?	"	,
+            ru	:	"	Что было крайней вещью, которую вы купили? Сколько это стоило? I bought a flower and gave it to my wife. It cost $3	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	Do you leave tips when you pay in a restaurant?	"	,
+            ru	:	"	Вы оставляете чаевые, когда вы едите в ресторане? I usually don't leave tips. Because I don't have much money. And I hope you understand me.	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	Can you tell me about a time when you put something somewhere and forgot where it was?	"	,
+            ru	:	"	Можете рассказать про случай, когда вы что-то положили куда-то и забыли где это было? OMG This is my everyday usual situation. I always forget where I put things…	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	When was the last time you rang a doorbell? Whose doorbell was it?	"	,
+            ru	:	"	Когда вы в крайний раз звонили в звонок на двери? Чей звонок или домофон это был? I don't remember. Maybe it was my grandpa's. Now everyone has doorbells. But I remember the times where we must knock on the doors.	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	Why do most of the kids like to read comic books?	"	,
+            ru	:	"	Почему большинству детей нравится читать комиксы? Hmmm… Maybe because there are pictures in them? All comic books have a lot of pictures and few words.	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	Did you ever ride a roller coaster? (американские горки) Do you want to? Aren’t you afraid?	"	,
+            ru	:	"	Вы когда-нибудь катались на американских горках? Хотели бы? Разве вам не страшно?	"	
+            }	,				
+    ],
     lr: [
         		
             {					
@@ -1907,6 +2004,289 @@ const allQuestionsOneDeck = {
             ru	:	"	win , won , won	"	
             }	,				
             			
+    ],
+    bm: [
+        {					
+            id	:	1	,		
+            eng	:	"	break , broke , broken	"	,
+            ru	:	"	ломать	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	beat , beat , beaten	"	,
+            ru	:	"	бить, побить в соревновании	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	become , became , become	"	,
+            ru	:	"	становиться	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	begin , began , begun	"	,
+            ru	:	"	начинать	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	blow , blew , blown	"	,
+            ru	:	"	дуть	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	build , built , built	"	,
+            ru	:	"	строить	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	burn , burnt , burnt	"	,
+            ru	:	"	сжигать, гореть	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	buy , bought , bought	"	,
+            ru	:	"	покупать	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	bring , brought , brought	"	,
+            ru	:	"	приносить	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	be , was/were , been	"	,
+            ru	:	"	быть	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	bite , bit , bit	"	,
+            ru	:	"	кусать	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	come , came , come	"	,
+            ru	:	"	приходить	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	choose , chose , chosen	"	,
+            ru	:	"	выбирать	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	catch , caught , caught	"	,
+            ru	:	"	ловить	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	creep , crept , crept	"	,
+            ru	:	"	ползать	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	cost , cost , cost	"	,
+            ru	:	"	стоить	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	cut , cut , cut	"	,
+            ru	:	"	резать	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	deal , dealt , dealt	"	,
+            ru	:	"	иметь дела	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	dig , dug , dug	"	,
+            ru	:	"	копать	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	do , did , done	"	,
+            ru	:	"	выполнять, делать, заниматься	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	drive , drove , driven	"	,
+            ru	:	"	водить	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	draw , drew , drawn	"	,
+            ru	:	"	рисовать	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	drink , drank , drunk	"	,
+            ru	:	"	пить	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	eat , ate , eaten	"	,
+            ru	:	"	кушать	"	
+            }	,				
+            {					
+            id	:	25	,		
+            eng	:	"	fall , fell , fallen	"	,
+            ru	:	"	падать	"	
+            }	,				
+            {					
+            id	:	26	,		
+            eng	:	"	feed , fed , fed	"	,
+            ru	:	"	кормить	"	
+            }	,				
+            {					
+            id	:	27	,		
+            eng	:	"	feel , felt , felt	"	,
+            ru	:	"	чувствовать	"	
+            }	,				
+            {					
+            id	:	28	,		
+            eng	:	"	fight , fought , fought	"	,
+            ru	:	"	сражаться	"	
+            }	,				
+            {					
+            id	:	29	,		
+            eng	:	"	find , found , found	"	,
+            ru	:	"	находить	"	
+            }	,				
+            {					
+            id	:	30	,		
+            eng	:	"	fly , flew , flown	"	,
+            ru	:	"	летать	"	
+            }	,				
+            {					
+            id	:	31	,		
+            eng	:	"	forbid , forbade , forbidden	"	,
+            ru	:	"	запрещать	"	
+            }	,				
+            {					
+            id	:	32	,		
+            eng	:	"	forget , forgot , forgotten	"	,
+            ru	:	"	забывать	"	
+            }	,				
+            {					
+            id	:	33	,		
+            eng	:	"	forgive , forgave , forgiven	"	,
+            ru	:	"	прощать	"	
+            }	,				
+            {					
+            id	:	34	,		
+            eng	:	"	freeze , froze , frozen	"	,
+            ru	:	"	замерзать	"	
+            }	,				
+            {					
+            id	:	35	,		
+            eng	:	"	grow , grew , grown	"	,
+            ru	:	"	расти	"	
+            }	,				
+            {					
+            id	:	36	,		
+            eng	:	"	get , got , got	"	,
+            ru	:	"	получать	"	
+            }	,				
+            {					
+            id	:	37	,		
+            eng	:	"	give , gave , given	"	,
+            ru	:	"	давать	"	
+            }	,				
+            {					
+            id	:	38	,		
+            eng	:	"	go , went , gone	"	,
+            ru	:	"	ходить	"	
+            }	,				
+            {					
+            id	:	39	,		
+            eng	:	"	have , had , had	"	,
+            ru	:	"	иметь	"	
+            }	,				
+            {					
+            id	:	40	,		
+            eng	:	"	hear , heard , heard	"	,
+            ru	:	"	слышать	"	
+            }	,				
+            {					
+            id	:	41	,		
+            eng	:	"	hide , hid , hidden	"	,
+            ru	:	"	прятать	"	
+            }	,				
+            {					
+            id	:	42	,		
+            eng	:	"	hit , hit , hit	"	,
+            ru	:	"	ударять	"	
+            }	,				
+            {					
+            id	:	43	,		
+            eng	:	"	hurt , hurt , hurt	"	,
+            ru	:	"	причинять боль	"	
+            }	,				
+            {					
+            id	:	44	,		
+            eng	:	"	hold , held , held	"	,
+            ru	:	"	держать	"	
+            }	,				
+            {					
+            id	:	45	,		
+            eng	:	"	keep , kept , kept	"	,
+            ru	:	"	хранить	"	
+            }	,				
+            {					
+            id	:	46	,		
+            eng	:	"	know , knew , known	"	,
+            ru	:	"	знать	"	
+            }	,				
+            {					
+            id	:	47	,		
+            eng	:	"	learn , learnt , learnt	"	,
+            ru	:	"	изучать	"	
+            }	,				
+            {					
+            id	:	48	,		
+            eng	:	"	leave , left , left	"	,
+            ru	:	"	покидать	"	
+            }	,				
+            {					
+            id	:	49	,		
+            eng	:	"	lend , lent , lent	"	,
+            ru	:	"	давать в долг	"	
+            }	,				
+            {					
+            id	:	50	,		
+            eng	:	"	let , let , let	"	,
+            ru	:	"	позволять	"	
+            }	,				
+            {					
+            id	:	51	,		
+            eng	:	"	lose , lost , lost	"	,
+            ru	:	"	терять	"	
+            }	,				
+            {					
+            id	:	52	,		
+            eng	:	"	tell a lie , lied , lied	"	,
+            ru	:	"	говорить неправду	"	
+            }	,				
+            {					
+            id	:	53	,		
+            eng	:	"	lie , lay , lain	"	,
+            ru	:	"	лежать	"	
+            }	,				
+            {					
+            id	:	54	,		
+            eng	:	"	make , made , made	"	,
+            ru	:	"	создавать, делать	"	
+            }	,				
+            {					
+            id	:	55	,		
+            eng	:	"	mean , meant , meant	"	,
+            ru	:	"	иметь ввиду	"	
+            }	,				
+            {					
+            id	:	56	,		
+            eng	:	"	meet , met , met	"	,
+            ru	:	"	встречать(ся)	"	
+            }	,				
+            					
     ],
     tstar: [
         		
