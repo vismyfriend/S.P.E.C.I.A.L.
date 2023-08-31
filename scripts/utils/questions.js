@@ -3556,6 +3556,204 @@ const allQuestionsOneDeck = {
             ru	:	"	главный повар	"	
             }	,				
     ],
+    q1: [
+        {					
+            id	:	1	,		
+            eng	:	"	Do you like long hair or do you like short hair?	"	,
+            ru	:	"	Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair.	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	What is the English for 'Ухо'?	"	,
+            ru	:	"	Как будет 'Ухо' на инглише? An ear /эн Иэ/	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	What is the English for 'Уши'?	"	,
+            ru	:	"	Как сказать 'Уши' на-английском? Ears /иаз/	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	What is the English for 'Один глаз'?	"	,
+            ru	:	"	Как по-английски 'Один глаз' сказать? An eye /эн Ай/	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	Is your teacher fat or skinny?	"	,
+            ru	:	"	Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!	"	
+            }	,
+            {					
+                id	:	6	,		
+                eng	:	"	What time do you usually wake up on Mondays?	"	,
+                ru	:	"	Во сколько ты обычно просыпаешься по Понедельникам? I usually wake up at eight am (08:00) on Mondays	"	
+                }	,				
+                {					
+                id	:	7	,		
+                eng	:	"	What time do you usually wake up on Saturdays?	"	,
+                ru	:	"	Во сколько ты обычно просыпаешься по Субботам? I usually wake up at nine am (09:00) on Saturdays	"	
+                }	,				
+                {					
+                id	:	8	,		
+                eng	:	"	What time do you usually brush teeth in the morning?	"	,
+                ru	:	"	Во сколько ты обычно чистишь зубы утром? I usually brush my teeth at eight fifteen in the morning (08:15 am)	"	
+                }	,				
+                {					
+                id	:	9	,		
+                eng	:	"	What time do you usually havea shower?	"	,
+                ru	:	"	Во сколько вы обычно принимаете душ? Sometimes I take a shower in the morning at eight thirty (08:30 am) and sometimes in the evening at nine pm (21:00)	"	
+                }	,				
+                {					
+                id	:	10	,		
+                eng	:	"	Do you do morning exercises? /Эксэcайзеz/	"	,
+                ru	:	"	Вы делаете зарядку? I don't do the exercices in the morning, but my wife does exercises every morning. She does Yoga.	"	
+                }	,				
+                {					
+                id	:	11	,		
+                eng	:	"	What time do you usually go to work? What time does your work start?	"	,
+                ru	:	"	Во сколько вы обычно уходите на работу? Во сколько начинается ваша работа? I go to work at ten am (10:00) My work starts at one pm (13:00)	"	
+                }	,				
+                {					
+                id	:	12	,		
+                eng	:	"	What time do you usually start your work?	"	,
+                ru	:	"	Вы можете/умеете шевелить носом без помощи рук?	"	
+                }	,				
+                {					
+                id	:	13	,		
+                eng	:	"	Where do you want to go in summer?	"	,
+                ru	:	"	I want to go to ________ or ________ in summer.	"	
+                }	,				
+                {					
+                id	:	14	,		
+                eng	:	"	What do you need to do after this lesson?	"	,
+                ru	:	"	I need to _____ after this lesson.	"	
+                }	,				
+                {					
+                id	:	15	,		
+                eng	:	"	What do you want to do after this lesson?	"	,
+                ru	:	"	I go to my kitchen with my daughter. We want to eat.	"	
+                }	,				
+                {					
+                id	:	16	,		
+                eng	:	"	What time do you want to sleep today?	"	,
+                ru	:	"	I want to go to sleep at __ : __ 	"	
+                }	,				
+                {					
+                id	:	17	,		
+                eng	:	"	What time do you need to wake up tomorrow?	"	,
+                ru	:	"	I don’t know. My teacher needs to wake up at __ : __	"	
+                }	,				
+                {					
+                id	:	18	,		
+                eng	:	"	Why do people go to Karaoke?	"	,
+                ru	:	"	People go to Karaoke to _______ and to _______ .	"	
+                }	,				
+                {					
+                id	:	19	,		
+                eng	:	"	What music do you like to listen to?	"	,
+                ru	:	"	I like to listen to Metal or classic music.	"	
+                }	,				
+                {					
+                id	:	20	,		
+                eng	:	"	What song do you want to sing together?	"	,
+                ru	:	"	I want to sing “What is love” together.	"	
+                }	,				
+                {					
+                id	:	21	,		
+                eng	:	"	Why do people study English?	"	,
+                ru	:	"	I think they want to achieve something in life.	"	
+                }	,				
+                {					
+                id	:	22	,		
+                eng	:	"	Why do you study English?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	23	,		
+                eng	:	"	Why does Vincent go to the GYM?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	24	,		
+                eng	:	"	Where do you want to travel?	"	,
+                ru	:	"	I want to travel to _______ .	"	
+                }	,				
+                {					
+                id	:	25	,		
+                eng	:	"	Where does your best friend want to travel?	"	,
+                ru	:	"	My best friend wants to travel to _______ .	"	
+                }	,				
+                {					
+                id	:	26	,		
+                eng	:	"	Where do all people go to watch a movie?	"	,
+                ru	:	"	All people go to the cinema to watch a movie.	"	
+                }	,				
+                {					
+                id	:	27	,		
+                eng	:	"	Why does everybody need to work?	"	,
+                ru	:	"	Everybody needs to work to _______ .	"	
+                }	,				
+                {					
+                id	:	28	,		
+                eng	:	"	Do you want to dance now?	"	,
+                ru	:	"	I don’t want to dance because I don’t like to dance	"	
+                }	,				
+                {					
+                id	:	29	,		
+                eng	:	"	What do you want to eat now?	"	,
+                ru	:	"	I want pizza. My child wants to eat cereal with milk.	"	
+                }	,				
+                {					
+                id	:	30	,		
+                eng	:	"	Where do you want to live when you are 60 years old?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	31	,		
+                eng	:	"	Does your husband or your wife want to smoke?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	32	,		
+                eng	:	"	Do you like to listen to the sound of the rain?	"	,
+                ru	:	"	I like to listen to the rain.  And my teacher likes it too.	"	
+                }	,				
+                {					
+                id	:	33	,		
+                eng	:	"	What does your boyfriend or girlfriend like to do?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	34	,		
+                eng	:	"	Where does your best friend like to go?	"	,
+                ru	:	"	My best friend likes to go to the cinema. 	"	
+                }	,				
+                {					
+                id	:	35	,		
+                eng	:	"	What games do you like to play?	"	,
+                ru	:	"	I like Witcher and Diablo. He likes to play poker and alias	"	
+                }	,				
+                {					
+                id	:	36	,		
+                eng	:	"	What number do I need to call, to call the police?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	37	,		
+                eng	:	"	Where do you recommend me to go to see the world?	"	,
+                ru	:	"	Заметили опечатку, неточность или нужен перевод? Сделайте скриншот и отправьте мне в телеграм: @vismyfriend	"	
+                }	,				
+                {					
+                id	:	38	,		
+                eng	:	"	Where do you recommend me to go to eat sushi?	"	,
+                ru	:	"	I recommend you to go to _________ . 	"	
+                }	,				
+                {					
+                id	:	39	,		
+                eng	:	"	Where does Santa Claus go after Christmas? 	"	,
+                ru	:	"	Santa goes to his home where elves live.	"	
+                }	,								
+            									
+    ],
     bodyParts0: [
         {					
             id	:	1	,		

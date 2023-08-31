@@ -1000,6 +1000,95 @@ const allCardsGameFindAPair = {
             }	,				
 
     ],
+    q1: [
+
+        {
+            id: 1,
+            eng: "	when	",
+            ru: "	когда	"
+        },
+        {
+            id: 2,
+            eng: "	why	",
+            ru: "	почему, зачем, для чего	"
+        },
+        {
+            id: 3,
+            eng: "	what time	",
+            ru: "	во сколько	"
+        },
+        {
+            id: 4,
+            eng: "	where",
+            ru: "	где	"
+        },
+        {
+            id: 5,
+            eng: "	whose	",
+            ru: "	чей	"
+        },
+        {
+            id: 6,
+            eng: "	how	",
+            ru: "	как	"
+        },
+        {
+            id: 7,
+            eng: "	what	",
+            ru: "	какой, что	"
+        },
+        {
+            id: 8,
+            eng: "	what color	",
+            ru: "	какого цвета	"
+        },
+        {
+            id: 9,
+            eng: "	what size	",
+            ru: "	какого размера	"
+        },
+        {
+            id: 10,
+            eng: "	what car	",
+            ru: "	какая машина	"
+        },
+        {
+            id: 11,
+            eng: "	Who	",
+            ru: "	кто, кого	"
+        },
+        {
+            id: 12,
+            eng: "	How often	",
+            ru: "	как часто	"
+        },
+        {
+            id: 13,
+            eng: "	How long	",
+            ru: "	как долго	"
+        },
+        {
+            id: 14,
+            eng: "	How fast	",
+            ru: "	как быстро	"
+        },
+        {
+            id: 15,
+            eng: "	How many pelmenis	",
+            ru: "	сколько пельменей	"
+        },
+        {
+            id: 16,
+            eng: "	How much money	",
+            ru: "	сколько денег	"
+        },
+        {
+            id: 17,
+            eng: "	with or without	",
+            ru: "	с или без	"
+        },
+
+    ],
     pr: [
 
         {
