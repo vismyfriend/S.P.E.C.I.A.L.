@@ -946,6 +946,60 @@ const allCardsGameFindAPair = {
         },
 
     ],
+    s1: [
+
+        {					
+            id	:	67	,		
+            eng	:	"	say	"	,
+            ru	:	"	said , said , сказать, произнести	"	
+            }	,				
+            {					
+            id	:	68	,		
+            eng	:	"	see	"	,
+            ru	:	"	saw , seen , (у)видеть	"	
+            }	,				
+            {					
+            id	:	69	,		
+            eng	:	"	sell	"	,
+            ru	:	"	sold , sold , продавать	"	
+            }	,				
+            {					
+            id	:	70	,		
+            eng	:	"	send	"	,
+            ru	:	"	sent , sent , отправлять	"	
+            }	,				
+            {					
+            id	:	71	,		
+            eng	:	"	shake	"	,
+            ru	:	"	shook , shaken , трясти	"	
+            }	,				
+            {					
+            id	:	72	,		
+            eng	:	"	shoot	"	,
+            ru	:	"	shot , shot , стрелять	"	
+            }	,				
+            {					
+            id	:	73	,		
+            eng	:	"	shut	"	,
+            ru	:	"	shut , shut , захлопнуть	"	
+            }	,				
+            {					
+            id	:	74	,		
+            eng	:	"	sing	"	,
+            ru	:	"	sang , sung , петь	"	
+            }	,				
+            {					
+            id	:	75	,		
+            eng	:	"	sink	"	,
+            ru	:	"	sank , sunk , затонуть	"	
+            }	,				
+            {					
+            id	:	76	,		
+            eng	:	"	sit	"	,
+            ru	:	"	sat , sat , сидеть	"	
+            }	,				
+
+    ],
     pr: [
 
         {

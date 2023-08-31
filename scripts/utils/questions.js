@@ -945,6 +945,153 @@ const allQuestionsOneDeck = {
             }	,				
             			
     ],
+    s1: [
+        {						
+            id	:	1	,			
+            eng	:	"	How much do you pay for the electricity a month?	"	,	
+            ru	:	"	Сколько вы обычно платите за электричество за месяц? I usually pay about 100 euros	"		
+            }	,					
+            {						
+            id	:	2	,			
+            eng	:	"	Did your parents ever pay you for doing anything?	"	,	
+            ru	:	"	Твои родители когда-либо платили тебе за выполнение чего-либо? My granfather paid me with ice-cream for bringing good marks from school.	"		
+            }	,					
+            {						
+            id	:	3	,			
+            eng	:	"	Can you tell me about a time when you had to put something in a special place to keep it safe?	"	,	
+            ru	:	"	Можете рассказать о каком-либо случае, когда вы положили что-то в определенное место, чтобы лежало в сохранности? I remember when I was a child I put money inside the book. between pages.	"		
+            }	,					
+            {						
+            id	:	4	,			
+            eng	:	"	What is your favorite book to read? Why do you like it so much?	"	,	
+            ru	:	"	Какую книгу вам очень нравится читать? Почему она вам нравится? I like 12 chairs the most. Because it is always funny. You can start to read it from any page.	"		
+            }	,					
+            {						
+            id	:	5	,			
+            eng	:	"	What 2 irregular verbs do you like? Make examples with these verbs	"	,	
+            ru	:	"	Какие 2 неправильных глагола вам нравятся? Составьте с ними пример предложений. I like the verbs bite and beat. For example if you beat a dog, the dog can bite you!	"		
+            }	,					
+            {						
+            id	:	6	,			
+            eng	:	"	What is the best thing to ride? A horse, a bicycle, a motorbike, an electric scooter, or a snowboard?	"	,	
+            ru	:	"	На чем круче всего кататься? На лошади? Велике? Моте? Самокате или сноуборде? I like to ride all of these things!	"		
+            }	,					
+            {						
+            id	:	7	,			
+            eng	:	"	What phrase do you like to hear more: ”Good morning!” or “Rise and shine!” or “Wake up!”	"	,	
+            ru	:	"	Какую из этих фраз тебе нравится слышать больше всего? Доброе утро! Проснись и светись! Просыпайся! I like the phrase 'Wake up, Neo! Matrix has you!'	"		
+            }	,					
+            {						
+            id	:	8	,			
+            eng	:	"	What is your ringtone? Is it basic or customized?	"	,	
+            ru	:	"	Какой у тебя рингтон? Стандартный базовый или свой установленный? I hate basic ringtones. I customized my rington and I have my favorite song as my ringtone.	"		
+            }	,					
+            {						
+            id	:	9	,			
+            eng	:	"	Does it bother you when a basic ringtone rings?	"	,	
+            ru	:	"	Тебя раздражают стандартные мелодии звонка? Oh yes! It bothers me very much. It is really annoying. I think It annoys everybody	"		
+            }	,					
+            {						
+            id	:	10	,			
+            eng	:	"	What was the longest distance hat you ran?	"	,	
+            ru	:	"	Какой была самая длинная дистанция, которую вы пробегали? I tried to run a marathon two times. But I failed. 28 kilometres is my personal record	"		
+            }	,					
+            {						
+            id	:	11	,			
+            eng	:	"	Can you run fast? Can you run away from Vincent?	"	,	
+            ru	:	"	Вы умеете быстро бегать? Сможете убежать от училки? I can run very fast! I am like a rocket! But I can't run from Vincent. Nobody can. It is impossible, because Vincent can Teleport.	"		
+            }	,					
+            {						
+            id	:	12	,			
+            eng	:	"	What is your favorite time to wake up in the morning? And did you ever watch the sunrise?	"	,	
+            ru	:	"	Какое ваше самое любимое время просыпаться утром? Вы когда-нибудь смотрели рассвет? I don't like to wake up early in the morning. I watched sunrise many times. I enjoy the sunset more	"		
+            }	,					
+            {						
+            id	:	13	,			
+            eng	:	"	Share a story about a time when you ran to catch something or someone. Or somebody ran after you.	"	,	
+            ru	:	"	Поделитесь историей когда вы за кем-то или чем-то бежали? Или может кто-то за вами бежал? I remember one time I ran fter a criminal, who stole my debit card!	"		
+            }	,					
+            {						
+            id	:	14	,			
+            eng	:	"	What did you buy the last? How much did you pay?	"	,	
+            ru	:	"	Что было крайней вещью, которую вы купили? Сколько это стоило? I bought a flower and gave it to my wife. It cost $3	"		
+            }	,					
+            {						
+            id	:	15	,			
+            eng	:	"	Do you leave tips when you pay in a restaurant?	"	,	
+            ru	:	"	Вы оставляете чаевые, когда вы едите в ресторане? I usually don't leave tips. Because I don't have much money. And I hope you understand me.	"		
+            }	,					
+            {						
+            id	:	16	,			
+            eng	:	"	Can you tell me about a time when you put something somewhere and forgot where it was?	"	,	
+            ru	:	"	Можете рассказать про случай, когда вы что-то положили куда-то и забыли где это было? OMG This is my everyday usual situation. I always forget where I put things…	"		
+            }	,					
+            {						
+            id	:	17	,			
+            eng	:	"	When was the last time you rang a doorbell? Whose doorbell was it?	"	,	
+            ru	:	"	Когда вы в крайний раз звонили в звонок на двери? Чей звонок или домофон это был? I don't remember. Maybe it was my grandpa's. Now everyone has doorbells. But I remember the times where we must knock on the doors.	"		
+            }	,					
+            {						
+            id	:	18	,			
+            eng	:	"	Why do most of the kids like to read comic books?	"	,	
+            ru	:	"	Почему большинству детей нравится читать комиксы? Hmmm… Maybe because there are pictures in them? All comic books have a lot of pictures and few words.	"		
+            }	,					
+            {						
+            id	:	19	,			
+            eng	:	"	Did you ever ride a roller coaster? (американские горки) Do you want to? Aren’t you afraid?	"	,	
+            ru	:	"	Вы когда-нибудь катались на американских горках? Хотели бы? Разве вам не страшно?	"		
+            }	,					
+            {						
+            id	:	20	,			
+            eng	:	"	When was the last time when you saw a shooting star? (in the Russian language it is падающая звезда)	"	,	
+            ru	:	"	Когда был крайний раз, когда вы видели падающую звезду? It was some days ago. I sat in a café and looked out the window and I saw a shooting star. It was really cool! I felt happy.	"		
+            }	,					
+            {						
+            id	:	21	,			
+            eng	:	"	Did you sell anything? What did you sell? 	"	,	
+            ru	:	"	Вы продавали что-нибудь? Что вы продали? I sold many things. I sold my bike to my friend for 15 thousand rubles.	"		
+            }	,					
+            {						
+            id	:	22	,			
+            eng	:	"	What do you usually say to people after they sneezed /снизд/ near you? (чихать) 	"	,	
+            ru	:	"	Что вы обычно говорите людям, когда они рядом с вами чихнули? I usually say to them 'Bless you' будь здоров. But I want to say 'don't die, go to a doctor!'	"		
+            }	,					
+            {						
+            id	:	23	,			
+            eng	:	"	Did you send a handwritten letter to anybody? 	"	,	
+            ru	:	"	Вы отправляли кому-нибудь письмо написанное от руки? I did it many times, because it is romantic and because I am old!	"		
+            }	,					
+            {						
+            id	:	24	,			
+            eng	:	"	Will you tell about a time when you were really shaken by some shocking news or events/твЭнтс/?	"	,	
+            ru	:	"	Можете поделиться тем моментом, когда вы были потрясены какой-то новостью? Oh, yes! When I heard that one country attacked another country and took its territories I was shaken by this news.	"		
+            }	,					
+            {						
+            id	:	25	,			
+            eng	:	"	Did you hear a sound of a real shot in life? Did you shoot from a gun? Can you shoot an animal?	"	,	
+            ru	:	"	Вы когда-нибудь слышали выстрелы в реальной жизни? Стреляли из оружия? Смогли бы выстрелить в животное? I am a secret agent, it is my life to shoot every day. It is a jok. No never. No I can't	"		
+            }	,					
+            {						
+            id	:	26	,			
+            eng	:	"	When was the last time you said “shut up!” to somebody? Did anybody tell you to shut up?	"	,	
+            ru	:	"	Когда вы говорили кому-то замолчать? А вам кто-то говорил заткнись!? Hmmm I don't remember this. 	"		
+            }	,					
+            {						
+            id	:	27	,			
+            eng	:	"	What's your favorite song to listen to, when you are sad? How often do you sing songs?	"	,	
+            ru	:	"	Какая ваша любимая песня, чтобы послушать, когда вам грустно? Как часто вы слушаете эту песню? I listen to the song 'I will survive' by Gloria Gaynor. I can listen to this very often. Maybe every month	"		
+            }	,					
+            {						
+            id	:	28	,			
+            eng	:	"	What do you think : Why did Titanic sink? Did all people drown in that accident?	"	,	
+            ru	:	"	Как вы думаете, почему Титаник утонул? Все ли люди утонули в том несчастном случае?	"		
+            }	,					
+            {						
+            id	:	29	,			
+            eng	:	"	Where do you like to sit and relax when you need some quiet time?	"	,	
+            ru	:	"	Где вам нравится сидеть и расслабляться, отдыхать, когда вам нужно немного тихого и спокойного времени? I like to sit in my room at my computer and play video games. Or make fire and do BBQ in a forest	"		
+            }	,									
+    ],
     pr: [
         {					
             id	:	1	,		
@@ -1340,7 +1487,6 @@ const allQuestionsOneDeck = {
             }	,				
             			
     ],
-   
     rs: [
         		
             {					
