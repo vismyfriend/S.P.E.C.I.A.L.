@@ -38,7 +38,434 @@ const allQuestionsOneDeck = {
             ru: " Question 7 ru ",
             eng: " Question 7 eng "
         },
+    ], 
+    questions0: [
+        {					
+            id	:	1	,		
+            eng	:	"	How are you? 	"	,
+            ru	:	"	Как вы? I am okay. I feel okay. And you?	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	How is your life?	"	,
+            ru	:	"	Как ваша жизнь? My life is very good. Everything is great. And you?	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	How is your week?	"	,
+            ru	:	"	Как ваша неделя? My week is not bad. And how is your week?	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	Where are you now?	"	,
+            ru	:	"	Где вы сейчас? I am at my work now. And you?	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	Where are you from?	"	,
+            ru	:	"	Откуда вы? I am from Angarsk, it is a small city in Siberia.	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	How old are  you?	"	,
+            ru	:	"	Сколько вам лет? I am not very old. I am 50 !	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	What is your phone number?	"	,
+            ru	:	"	Какой ваш номер телефона? My phone number is One One Two Zero Zero Seven.	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	What is your house number?	"	,
+            ru	:	"	Какой номер вашего дома? My house number is 107	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	What is your car number?	"	,
+            ru	:	"	Какой номер вашей машины? My car number is Four Six Nine Zero Zero Eight	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	What is your mother's name?	"	,
+            ru	:	"	Как зовут вашу маму? My mom's name is Alla	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	What is your father's name?	"	,
+            ru	:	"	Какое имя у вашего отца? My dad's name is Andrew	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	What is your shoe size?	"	,
+            ru	:	"	Какой у вас размер обуви? My shoe size is forty-six. I have big feet	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	What color are your eyes?	"	,
+            ru	:	"	Какого цвета ваши глаза? My eyes are blue and sometimes they are grey	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	What is your favorite film?	"	,
+            ru	:	"	Какой ваш любимый фильм? My favorite film is Cast away (Изгой) with Tom Hanks	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	Who is your best friend?	"	,
+            ru	:	"	Кто ваш лучший друг? My best friend is my teacher f English! His name is Vincent!	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	What is your favorite color?	"	,
+            ru	:	"	Какой ваш любимый цвет? My favorite color is dark blue.	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	What is your favorite car brand?	"	,
+            ru	:	"	Какай марка машины вам нравится больше всего? I like Mercede-Benz. But my favorite car brand is UAZIK!	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	With whom do you live?	"	,
+            ru	:	"	С кем вы проживаете? I live alone now. But sometimes my brother lives with me.	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	What is your lucky number and why?	"	,
+            ru	:	"	Какое у вас счастливое число? My lucky number is 21, because it is my birthday	"	
+            }	,							
     ],
+    numbers0: [
+        {					
+            id	:	37	,		
+            eng	:	"	Хау ду ю сэй 11 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	eleven	"	
+            }	,				
+            {					
+            id	:	38	,		
+            eng	:	"	Хау ду ю сэй 20 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	twenty	"	
+            }	,				
+            {					
+            id	:	39	,		
+            eng	:	"	Хау ду ю сэй 12 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	twelve	"	
+            }	,				
+            {					
+            id	:	40	,		
+            eng	:	"	Хау ду ю сэй 25 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	twenty-five	"	
+            }	,				
+            {					
+            id	:	41	,		
+            eng	:	"	Хау ду ю сэй 15 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	fifteen фифтИН	"	
+            }	,				
+            {					
+            id	:	42	,		
+            eng	:	"	Хау ду ю сэй 35 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	thirty -five	"	
+            }	,				
+            {					
+            id	:	43	,		
+            eng	:	"	Хау ду ю сэй 33 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	thirty-three	"	
+            }	,				
+            {					
+            id	:	44	,		
+            eng	:	"	Хау ду ю сэй 8 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	eight	"	
+            }	,				
+            {					
+            id	:	45	,		
+            eng	:	"	Хау ду ю сэй 18 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	eighteen эйтИН	"	
+            }	,				
+            {					
+            id	:	46	,		
+            eng	:	"	Хау ду ю сэй 19 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	nineteen найнтИН	"	
+            }	,				
+            {					
+            id	:	47	,		
+            eng	:	"	Хау ду ю сэй 90 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	ninety нАйнти	"	
+            }	,				
+            {					
+            id	:	48	,		
+            eng	:	"	Хау ду ю сэй 31 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	thirty-one	"	
+            }	,				
+            {					
+            id	:	49	,		
+            eng	:	"	Хау ду ю сэй 39 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	thirty-nine	"	
+            }	,				
+            {					
+            id	:	50	,		
+            eng	:	"	Хау ду ю сэй 37 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	thirty-seven	"	
+            }	,				
+            {					
+            id	:	51	,		
+            eng	:	"	Хау ду ю сэй 48 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	fourty-eight	"	
+            }	,				
+            {					
+            id	:	52	,		
+            eng	:	"	Хау ду ю сэй 59 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	fifty-nine	"	
+            }	,				
+            {					
+            id	:	53	,		
+            eng	:	"	Хау ду ю сэй 88 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	eighty-eight	"	
+            }	,				
+            {					
+            id	:	54	,		
+            eng	:	"	Хау ду ю сэй 69 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	sixty-nine	"	
+            }	,				
+            {					
+            id	:	55	,		
+            eng	:	"	Хау ду ю сэй 22 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	twenty-two	"	
+            }	,				
+            {					
+            id	:	56	,		
+            eng	:	"	Хау ду ю сэй 44 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	fourty-four	"	
+            }	,				
+            {					
+            id	:	57	,		
+            eng	:	"	Хау ду ю сэй 14 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	fourteen фотИН	"	
+            }	,				
+            {					
+            id	:	58	,		
+            eng	:	"	Хау ду ю сэй 17 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	seventeen сэвэнтИН	"	
+            }	,				
+            {					
+            id	:	59	,		
+            eng	:	"	Хау ду ю сэй 16 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	sixteen сыкстИН	"	
+            }	,				
+            {					
+            id	:	60	,		
+            eng	:	"	Хау ду ю сэй 112 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	a hundred twelve /э хАндрэд туэлв/	"	
+            }	,				
+            {					
+            id	:	61	,		
+            eng	:	"	Хау ду ю сэй 128 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	a hundred twenty-eight	"	
+            }	,				
+            {					
+            id	:	62	,		
+            eng	:	"	Хау ду ю сэй 51 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	fifty-one	"	
+            }	,				
+            {					
+            id	:	63	,		
+            eng	:	"	Хау ду ю сэй 75 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	seventy-five	"	
+            }	,				
+            {					
+            id	:	64	,		
+            eng	:	"	Хау ду ю сэй 32 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	thirty-two	"	
+            }	,				
+            {					
+            id	:	65	,		
+            eng	:	"	Хау ду ю сэй 89 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	eighty-nine	"	
+            }	,				
+            {					
+            id	:	66	,		
+            eng	:	"	Хау ду ю сэй 98 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            ru	:	"	ninety-eight	"	
+            }	,														
+    ],
+    letters: [
+        {					
+            id	:	1	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell VINCENT ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Ви Ай Эн Си И Эн Ти	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell NIKE ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эн Ай Кей И	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell PASSPORT ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Пи Эй Эс Эс Пи Оу А Ти	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell RUSSIA ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	А Ю Эс Эс Ай Эй	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell FRANCE ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эф А Эй Эн Си И	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell ENGLAND ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	И Эн Джи Эл Эй Эн Ди	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell MERCEDES-BENZ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эм И А Си И Ди И Эс - Би И Эн Зи	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell AUDI ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эй Ю Ди Ай	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell VOLVO ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Ви Оу Эл Ви Оу	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell VOLKSWAGEN ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell BMW ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Би Эм Дабл Ю	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell KANGAROO ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Кей Эй Эн Джи Эй А Оу Оу	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell JOKER ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Джей Оу Кей И А	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell MINECRAFT ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эм Ай Эн И Си А Эй Эф Ти	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell HOUSE ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эйч Оу Ю Эс И	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell FOX ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эф Оу Экс	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell WINDOWS ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Дабл Ю Ай Эн Ди Оу Дабл Ю Эс	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell ANDROID ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эй Эн Ди А Оу Ай Ди	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell FATHER ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эф Эй Ти Эйч И А	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell MOTHER ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эм Оу Ти Эйч И А	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell TELEPHONE ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Ти И Эл И Пи Эйч Оу Эн И	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell CHRISTMAS ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	С ЭйчА Ай Эс Ти Эм Эй Эс	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell EURO ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	И Ю А Оу	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell AMERICA ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эй Эм И А Ай Си Эй	"	
+            }	,				
+            {					
+            id	:	25	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell COMPUTER ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Си Оу Эм Пи Ю Ти И А	"	
+            }	,				
+            {					
+            id	:	26	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell ALASKA ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эй Эл Эй Эс Кей Эй	"	
+            }	,				
+            {					
+            id	:	27	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell BATMAN ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Би Эй Ти Эм Эй Эн	"	
+            }	,				
+            {					
+            id	:	28	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell ROCKNROLL ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	А Оу Си Кей Эн А Оу Эл Эл	"	
+            }	,				
+            {					
+            id	:	29	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell HAMBURGER ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эйч Эй Эм Би Ю А Джи И А	"	
+            }	,				
+            {					
+            id	:	30	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell CHEESEBURGER ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Си Эйч И И Эс И Би Ю Аджи И А	"	
+            }	,				
+            {					
+            id	:	31	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell HOMEWORK ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эйч Оу Эм И Дабл Ю Оу А Кей	"	
+            }	,				
+            {					
+            id	:	32	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell ENGLISH ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	И Эн Джи Эл Ай Эс Эйч	"	
+            }	,				
+            {					
+            id	:	33	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell JEEP ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Джи И И Пи	"	
+            }	,				
+            {					
+            id	:	34	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell CAR ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Си Эй А	"	
+            }	,				
+            {					
+            id	:	35	,		
+            eng	:	"	Кэн ю спэл плиз? Can you spell HOSPITAL ? ( сможешь произнести это слово по буквам? ) 	"	,
+            ru	:	"	Эйч Оу Эс Пи Ти Эй Эл	"	
+            }	,								
+    ],
+
     ac: [
         {					
             id	:	1	,		
@@ -4041,7 +4468,7 @@ const allQuestionsOneDeck = {
             ru	:	"	Ты можешь коснуться носа с помощью языка и без рук?	"	
             }	,										
     ],
-    mission0: [
+    mission90: [
         {
             id: 1,
             ru: "Да я вообще столько всего отвечу! Например: hi, hey, hello, what's up! Howis life?",
@@ -4073,7 +4500,7 @@ const allQuestionsOneDeck = {
             eng: "What color are your eyes?"
         },
     ],
-    mission1: [
+    mission0: [
         {
             id: 1,
             ru: "1",

@@ -38,6 +38,444 @@ const allCardsGameFindAPair = {
             eng: " id 7 eng "
         },
     ],
+    questions0: [
+        {					
+            id	:	1	,		
+            eng	:	"	When? /уэн/	"	,
+            ru	:	"	Когда?	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	Where? /уэ э/	"	,
+            ru	:	"	Где?	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	What? /уот/	"	,
+            ru	:	"	Что?	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	Why? /уай/	"	,
+            ru	:	"	Для чего? Зачем? Почему?	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	How? /хау/	"	,
+            ru	:	"	Как?	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	Who? /ху/	"	,
+            ru	:	"	Кто?	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	Whose? /хуз/	"	,
+            ru	:	"	Чей?	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	What time?	"	,
+            ru	:	"	Во сколько?	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	What color?	"	,
+            ru	:	"	Какого цвета?	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	What size?	"	,
+            ru	:	"	Какого размера?	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	How many pelmeni?	"	,
+            ru	:	"	Сколько пельменей?	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	How much money?	"	,
+            ru	:	"	Сколько денег?	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	How old?	"	,
+            ru	:	"	Какого возраста?	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	How far?	"	,
+            ru	:	"	Насколько далеко?	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	How often?	"	,
+            ru	:	"	Как часто?	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	How long?	"	,
+            ru	:	"	Как долго?	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	How tall?	"	,
+            ru	:	"	Какого роста?	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	What year?	"	,
+            ru	:	"	Какого года?	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	What flavor?	"	,
+            ru	:	"	Какого вкуса?	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	What song?	"	,
+            ru	:	"	Что за песня?	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	What shape??	"	,
+            ru	:	"	Какой формы?	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	With whom?	"	,
+            ru	:	"	С кем?	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	How much time?	"	,
+            ru	:	"	Сколько времени?	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	Come again?	"	,
+            ru	:	"	Чего, простите?	"	
+            }	,				
+            {					
+            id	:	25	,		
+            eng	:	"	How come?	"	,
+            ru	:	"	Как так вышло?	"	
+            }	,				
+            {					
+            id	:	26	,		
+            eng	:	"	Why the hell?	"	,
+            ru	:	"	Какого чёрта?!?	"	
+            }	,				
+            {					
+            id	:	27	,		
+            eng	:	"	Where is it?	"	,
+            ru	:	"	Где это?	"	
+            }	,				
+            {					
+            id	:	28	,		
+            eng	:	"	Who is here?	"	,
+            ru	:	"	Кто здесь?	"	
+            }	,				
+            {					
+            id	:	29	,		
+            eng	:	"	Who are they?	"	,
+            ru	:	"	Кто они?	"	
+            }	,				
+            {					
+            id	:	30	,		
+            eng	:	"	Where am I?	"	,
+            ru	:	"	Где я?	"	
+            }	,								
+    ],
+    numbers0: [
+        {					
+            id	:	29	,		
+            eng	:	"	one	"	,
+            ru	:	"	1	"	
+            }	,				
+            {					
+            id	:	30	,		
+            eng	:	"	two	"	,
+            ru	:	"	2	"	
+            }	,				
+            {					
+            id	:	31	,		
+            eng	:	"	three	"	,
+            ru	:	"	3	"	
+            }	,				
+            {					
+            id	:	32	,		
+            eng	:	"	four	"	,
+            ru	:	"	4	"	
+            }	,				
+            {					
+            id	:	33	,		
+            eng	:	"	five	"	,
+            ru	:	"	5	"	
+            }	,				
+            {					
+            id	:	34	,		
+            eng	:	"	six	"	,
+            ru	:	"	6	"	
+            }	,				
+            {					
+            id	:	35	,		
+            eng	:	"	seven	"	,
+            ru	:	"	7	"	
+            }	,				
+            {					
+            id	:	36	,		
+            eng	:	"	eight	"	,
+            ru	:	"	8	"	
+            }	,				
+            {					
+            id	:	37	,		
+            eng	:	"	nine	"	,
+            ru	:	"	9	"	
+            }	,				
+            {					
+            id	:	38	,		
+            eng	:	"	ten	"	,
+            ru	:	"	10	"	
+            }	,				
+            {					
+            id	:	39	,		
+            eng	:	"	eleven	"	,
+            ru	:	"	11	"	
+            }	,				
+            {					
+            id	:	40	,		
+            eng	:	"	twelve	"	,
+            ru	:	"	12	"	
+            }	,				
+            {					
+            id	:	41	,		
+            eng	:	"	thirteen	"	,
+            ru	:	"	13	"	
+            }	,				
+            {					
+            id	:	42	,		
+            eng	:	"	fourteen	"	,
+            ru	:	"	14	"	
+            }	,				
+            {					
+            id	:	43	,		
+            eng	:	"	fifteen	"	,
+            ru	:	"	15	"	
+            }	,				
+            {					
+            id	:	44	,		
+            eng	:	"	sixteen	"	,
+            ru	:	"	16	"	
+            }	,				
+            {					
+            id	:	45	,		
+            eng	:	"	seventeen	"	,
+            ru	:	"	17	"	
+            }	,				
+            {					
+            id	:	46	,		
+            eng	:	"	eighteen	"	,
+            ru	:	"	18	"	
+            }	,				
+            {					
+            id	:	47	,		
+            eng	:	"	nineteen	"	,
+            ru	:	"	19	"	
+            }	,				
+            {					
+            id	:	48	,		
+            eng	:	"	twenty	"	,
+            ru	:	"	20	"	
+            }	,				
+            {					
+            id	:	49	,		
+            eng	:	"	thirty	"	,
+            ru	:	"	30	"	
+            }	,				
+            {					
+            id	:	50	,		
+            eng	:	"	fourty	"	,
+            ru	:	"	40	"	
+            }	,				
+            {					
+            id	:	51	,		
+            eng	:	"	fifty	"	,
+            ru	:	"	50	"	
+            }	,				
+            {					
+            id	:	52	,		
+            eng	:	"	sixty	"	,
+            ru	:	"	60	"	
+            }	,				
+            {					
+            id	:	53	,		
+            eng	:	"	seventy	"	,
+            ru	:	"	70	"	
+            }	,				
+            {					
+            id	:	54	,		
+            eng	:	"	eighty	"	,
+            ru	:	"	80	"	
+            }	,				
+            {					
+            id	:	55	,		
+            eng	:	"	ninety	"	,
+            ru	:	"	90	"	
+            }	,				
+            {					
+            id	:	56	,		
+            eng	:	"	hundred	"	,
+            ru	:	"	100	"	
+            }	,				
+            {					
+            id	:	57	,		
+            eng	:	"	thousand	"	,
+            ru	:	"	1000	"	
+            }	,				
+            {					
+            id	:	58	,		
+            eng	:	"	billion	"	,
+            ru	:	"	1000000	"	
+            }	,							
+            					
+    ],
+    letters: [
+        {					
+            id	:	1	,		
+            eng	:	"	A	"	,
+            ru	:	"	эй	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"	B	"	,
+            ru	:	"	би	"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"	C	"	,
+            ru	:	"	си	"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"	D	"	,
+            ru	:	"	ди	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"	E	"	,
+            ru	:	"	и	"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"	F	"	,
+            ru	:	"	эф	"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"	G	"	,
+            ru	:	"	джи	"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"	H	"	,
+            ru	:	"	эйч	"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"	I	"	,
+            ru	:	"	ай	"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"	J	"	,
+            ru	:	"	джэй	"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"	K	"	,
+            ru	:	"	кей	"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"	L	"	,
+            ru	:	"	эл	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"	M	"	,
+            ru	:	"	эм	"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"	N	"	,
+            ru	:	"	эн	"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"	O	"	,
+            ru	:	"	оу	"	
+            }	,				
+            {					
+            id	:	16	,		
+            eng	:	"	P	"	,
+            ru	:	"	пи	"	
+            }	,				
+            {					
+            id	:	17	,		
+            eng	:	"	Q	"	,
+            ru	:	"	кью	"	
+            }	,				
+            {					
+            id	:	18	,		
+            eng	:	"	R	"	,
+            ru	:	"	а	"	
+            }	,				
+            {					
+            id	:	19	,		
+            eng	:	"	S	"	,
+            ru	:	"	эс	"	
+            }	,				
+            {					
+            id	:	20	,		
+            eng	:	"	T	"	,
+            ru	:	"	ти	"	
+            }	,				
+            {					
+            id	:	21	,		
+            eng	:	"	U	"	,
+            ru	:	"	ю	"	
+            }	,				
+            {					
+            id	:	22	,		
+            eng	:	"	V	"	,
+            ru	:	"	ви	"	
+            }	,				
+            {					
+            id	:	23	,		
+            eng	:	"	W	"	,
+            ru	:	"	дабл ю	"	
+            }	,				
+            {					
+            id	:	24	,		
+            eng	:	"	X	"	,
+            ru	:	"	экс	"	
+            }	,				
+            {					
+            id	:	25	,		
+            eng	:	"	Y	"	,
+            ru	:	"	уай	"	
+            }	,				
+            {					
+            id	:	26	,		
+            eng	:	"	Z	"	,
+            ru	:	"	зи (зэд)	"	
+            }	,				
+            					
+    ],
     ac: [
         {
             id: 1,
@@ -2156,7 +2594,7 @@ const allCardsGameFindAPair = {
         {
             id: 103,
             eng: "	misunderstand	",
-            ru: "	misunderstood , misunderstood , неправильно понять	"
+            ru: "	misunderstood , misunderstood , не так понять	"
         },
         {
             id: 104,
@@ -2998,7 +3436,7 @@ const allCardsGameFindAPair = {
         {
             id: 103,
             eng: "	misunderstand	",
-            ru: "	misunderstood , misunderstood , неправильно понять	"
+            ru: "	misunderstood , misunderstood , не так понять	"
         },
         {
             id: 104,
@@ -3826,7 +4264,7 @@ const allCardsGameFindAPair = {
                 }	,							
         
     ],
-    mission0: [
+    mission90: [
         {
             id: 1,
             ru: "и потом сюда 2",
@@ -3858,7 +4296,7 @@ const allCardsGameFindAPair = {
             eng: "Great job, agent!"
         },
     ],
-    mission1: [
+    mission0: [
         {
             id: 1,
             ru: "1",
@@ -3872,7 +4310,7 @@ const allCardsGameFindAPair = {
         {
             id: 3,
             ru: "не Фри и не Сри",
-            eng: "three /TH/"
+            eng: "three межзубный звук/TH/"
         },
         {
             id: 4,
@@ -3923,18 +4361,18 @@ const allCardsGameFindAPair = {
         {
             id: 13,
             ru: "не сЁртин и не Фёртин. Язык между зубов!",
-            eng: "thirteen /TH/"
+            eng: "thirteen межзубный звук/TH/"
         },
 
         {
             id: 14,
-            ru: "14 тянем И teeeeeen",
+            ru: "тянем ударение 14 teeeeeen ",
             eng: "foureen / фотИИИИн/"
         },
 
         {
             id: 15,
-            ru: "15 долго тянем И",
+            ru: "долгий звук И 15 окончание teen",
             eng: "fifteen / фифтИИИн/"
         },
         {

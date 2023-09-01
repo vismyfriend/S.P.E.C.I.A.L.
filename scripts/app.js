@@ -224,9 +224,9 @@ function chooseSet(text, set) {
     logoSpecial.classList.add("hidden")
     tryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")
-    popupMissionsAndSetsTitle.textContent = "/ю чОуз/ You chose Вы выбрали:"
+    popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
-    popupMissionsAndSetsDescription.textContent = " Что будем делать? :"
+    popupMissionsAndSetsDescription.textContent = "Сейчас выбираем задание для практики:"
     popupMissionsAndSetsSets.classList.add("hide")
     wordOrderGameDrunkRobot.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
@@ -257,7 +257,7 @@ function startGameFindPairs() {
     howManyTimesSkipped = 0
     pairsRemainToMatch = chosenArray.length
     foundPairs = 0
-    gameFindAPairInfo.textContent = `найдено пар: ${foundPairs} / ${chosenArray.length}`
+    gameFindAPairInfo.textContent = `Нажимай на слова.      Составлено пар: ${foundPairs} из ${chosenArray.length}`
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
     popupMissionsAndSets.classList.add("close")
     logoSpecial.classList.add("hidden")
