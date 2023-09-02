@@ -39,6 +39,43 @@ const allQuestionsOneDeck = {
             eng: " Question 7 eng "
         },
     ], 
+    testOneSeven: [
+        {					
+            id	:	1	,		
+            eng	:	"one1"	,
+            ru	:	"один"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"two2"	,
+            ru	:	"два"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"three3"	,
+            ru	:	"три"	
+            }	,			
+            {					
+            id	:	4	,		
+            eng	:	"four4"	,
+            ru	:	"четыре"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"five5"	,
+            ru	:	"пять"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"six6"	,
+            ru	:	"шесть"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"seven7"	,
+            ru	:	"семь"	
+            }	,				
+    ],
     formulas0: [
         {					
             id	:	78	,		

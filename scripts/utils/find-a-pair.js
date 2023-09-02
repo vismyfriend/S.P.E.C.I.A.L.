@@ -1,5 +1,42 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
+    testOneSeven: [
+        {					
+            id	:	1	,		
+            eng	:	"one"	,
+            ru	:	"один"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"two"	,
+            ru	:	"два"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"three"	,
+            ru	:	"три"	
+            }	,			
+            {					
+            id	:	4	,		
+            eng	:	"four"	,
+            ru	:	"четыре"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"five"	,
+            ru	:	"пять"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"six"	,
+            ru	:	"шесть"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"seven"	,
+            ru	:	"семь"	
+            }	,				
+    ],
     testing: [
         {
             id: 1,

@@ -11,10 +11,13 @@
 }
 
 .AndrewHelpPleaseBackButton.visible {
-    display: flex;
+    display: block;
 
 
 }
+
+
+
 .starsEmoji {
     position: absolute;
     overflow: hidden;
@@ -82,7 +85,10 @@ button {
     width: 60px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
 }
-
+.typeOrWriteGameButtonBackToMissions {
+    width: 60px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
+}
 .oneDeckButtonCheck {
     width: 60px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
@@ -102,8 +108,299 @@ button {
     font-family: neucha;
     color: #000000;
     background-color: #000000;
+    
+}
+.mainContainer1.none {
+display: none;
+}
+/* ниже стили новой игры (BenderWordOrderGame) */
+
+.mainContainer2.none {
+    display: none;
 }
 
+
+.mainContainer2 {
+    
+    margin-top: 15px;
+}
+.body.BenderWordOrderGameBackgroundPicture {
+    background-image: url(../images/background.png);
+}
+
+
+.BenderWordOrderGameContainer-one {
+    /* display: none; */
+    background: #98bcd7;
+    border: 15px solid #F4F5FF;
+    border-radius: 35px;
+    /* margin: 0 10px; в медиа запросе сделать max width*/ 
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 15px;
+    max-width: 500px;
+    font-size: 25px;
+   /* как отцентрировать на responsive device ? */
+}
+.BenderWordOrderGameContainer-mistake {
+
+    background: #6e93ca;
+    border: 15px solid #FFD9BD;
+    border-radius: 35px;
+    position: fixed;
+    padding-bottom: 15px;
+    max-width: 500px;
+    width: calc(100% - 50px);
+    top: 40px;
+    left: 100%;
+    z-index: 2;
+    transition: all 0.5s ease-in-out;
+    font-size: 20px;
+    
+    
+   
+}
+.BenderWordOrderGameContainer-mistake.show {
+    left: calc((100% - 530px) / 2);
+
+}
+.BenderWordOrderGameLives {
+    position: absolute;
+    overflow: hidden;
+    top: -22px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 3;
+    
+    /* 31px одно сердце = одна жизнь */
+}
+/* .lives-four {
+    position: absolute;
+    overflow: hidden;
+    top: -22px;
+    left: 50%;
+    transform: translateX(-50%);
+    /* crop обрезать одну жизнь, чтобы 4 осталось или картинку новую? */
+/* } */ 
+.BenderWordOrderGameTask-eng {
+    margin: 20px 0 0;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 17px;
+    text-align: center;
+    font-size: 25px;;
+    color: #000000;
+}
+
+.BenderWordOrderGameTask-ru {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    margin: 0;
+    color: #000000;
+
+}
+.BenderWordOrderGameTask-ru-mistake {
+   margin: 0 0 10px 0;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #000000;
+}
+.BenderWordOrderGameWords {
+    display: flex;
+    padding: 0;
+    margin: 15px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+
+
+
+}
+
+.BenderWordOrderGameWord {
+    background: #FFF27B;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 6px 10px 4px;
+}
+.BenderWordOrderGameWord.pressed {
+    /* opacity: 0.3; */
+    background: #adaa95;
+    /* visibility: hidden; */
+    /* либо scale 0 */
+}
+.BenderWordOrderGameSentence {
+
+    background: #FFF;
+    border-radius: 7px;
+    min-height: 30px;
+    margin: 6px 15px;
+    padding: 6px;
+}
+.BenderWordOrderGameSentence.wrong {
+    color: red;
+}
+.BenderWordOrderGameSentence-correct {
+
+    background: #7ECA7C;
+    border-radius: 7px;
+    min-height: 30px;
+    margin: 5px 15px;
+    padding: 6px;
+    color: white;
+}
+.BenderWordOrderGameButtons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 5px 15px;
+    margin-top: 5px;
+    color: #000000;
+}
+
+.BenderWordOrderGameDelete {
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #8C6199;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    width: 70px;
+    padding: 6px 10px 4px;
+}
+.BenderWordOrderGameUnfair {
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #8C6199;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    width: 150px;
+    padding: 6px 10px 4px;
+    color: #000000;
+}
+.BenderWordOrderGameScreenshot {
+    /* Сначала этой кнопки нет, она появляется, когда нжали фиолетовую, а фиолетовая и зеленая исчезают, на их месте желтая кнопка */
+    padding: 6px 10px 4px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFE601;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    margin-left: 13px;
+    margin-right: 13px;
+    /* изначальные настройки */
+    transition: all 0.4s ease-in-out;
+    position: absolute;
+    top: 267px;
+
+}
+.BenderWordOrderGameScreenshot.hide {
+    max-height: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+    /* чтобы скрыть изначально, потому что на display none нельзя анимацию делать */
+
+}
+.BenderWordOrderGameHint {
+    padding: 6px 10px 4px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #AFD73E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    color: #000000;
+
+
+}
+
+.BenderWordOrderGameCheat {
+    padding: 6px 10px 4px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #80FF01;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    color: #000000;
+}
+.BenderWordOrderGameFair {
+    padding: 6px 10px 4px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #80FF01;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    width: 100px;
+    color: #000000;
+}
+
+.BenderWordOrderGameRussian-hint {
+    margin: -10px 85px 0 15px;
+    padding: 6px 10px 4px;
+    background: #7ECA7C;
+    border: 3px solid #B7CC52;
+    border-radius: 18px;
+    color:  #FFF;
+    min-height: 20px;
+    text-align: center;
+    font-size: 20px;
+
+    
+}
+.BenderWordOrderGameRussian-hint.mistaken {
+    margin: 0 15px;
+}
+.BenderWordOrderGameCorrect-counter {
+    position: absolute;
+    bottom: 5px;
+    right: 4px;
+    color: #040404;;
+    font-size: 15px;
+}
+.BenderWordOrderGameBender {
+    margin-left: calc((100% - 221px) / 2 );
+}
+
+/* выше стили новой игры (BenderWordOrderGame) */
+
+
+
+/* ниже стили новой игры (InputTypeOrWriteGame) */
+
+.unclickable {
+    pointer-events: none;
+    /* нельзя никак взаимодействовать */
+}
+
+.mainContainer3.none {
+    display: none;
+}
+
+.mainContainer3 {
+    
+    margin-top: 15px;
+}
+
+.typeOrWriteGameMainScreen {
+  /* display: none; */
+  background: #98bcd7;
+  border: 15px solid #F4F5FF;
+  border-radius: 35px;
+  margin: 0 auto;
+  position: relative;
+  padding-bottom: 15px;
+  max-width: 547px;
+  display: block;
+  font-size: 25px;
+  box-sizing: border-box;
+  height: 200px;
+}
+
+.playerInputType {
+    padding: 6px 10px 4px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #AFD73E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    color: #000000;
+    width: 265px;
+    height: 29px;
+    margin: 35px 0 0 0;
+}
+
+/* выше стили новой игры (InputTypeOrWriteGame) */
 
 
 .popupMissionsAndSets.close {
@@ -244,10 +541,11 @@ button {
 
 
 .popupMissionsAndSets__gameFindAPair,
-.popupMissionsAndSets__wordOrderGameDrunkRobot,
+.popupMissionsAndSets__InputTypeOrWriteGame,
 .popupMissionsAndSets__letsSpeak,
+.popupMissionsAndSets__BenderWordOrderGame,
 .popupMissionsAndSets__slot-machine,
-.popupMissionsAndSets__slot-machine2 {
+.popupMissionsAndSets__copyThisForNewGames {
     display: none;
     gap: 10px;
     margin-bottom: -10px;
@@ -255,18 +553,20 @@ button {
 }
 
 .popupMissionsAndSets__gameFindAPair img,
-.popupMissionsAndSets__wordOrderGameDrunkRobot img,
+.popupMissionsAndSets__InputTypeOrWriteGame img,
 .popupMissionsAndSets__letsSpeak img,
+.popupMissionsAndSets__BenderWordOrderGame img,
 .popupMissionsAndSets__slot-machine img,
-.popupMissionsAndSets__slot-machine2 img {
+.popupMissionsAndSets__copyThisForNewGames img {
     max-width: 50px;
 }
 
 .popupMissionsAndSets__gameFindAPair p,
-.popupMissionsAndSets__wordOrderGameDrunkRobot p,
+.popupMissionsAndSets__InputTypeOrWriteGame p,
 .popupMissionsAndSets__letsSpeak p,
+.popupMissionsAndSets__BenderWordOrderGame p,
 .popupMissionsAndSets__slot-machine p,
-.popupMissionsAndSets__slot-machine2 p {
+.popupMissionsAndSets__copyThisForNewGames p {
     background: #6cd00800;
     border-radius: 20px;
     margin: 0;
@@ -296,16 +596,20 @@ button {
 
     font-size: 18px;
 }
-
+.popupMissionsAndSets__InputTypeOrWriteGame p {
+color: #515254;
+}
 .popupMissionsAndSets__gameFindAPair.show,
-.popupMissionsAndSets__wordOrderGameDrunkRobot.show,
+.popupMissionsAndSets__InputTypeOrWriteGame.show,
 .popupMissionsAndSets__letsSpeak.show,
 .popupMissionsAndSets__chosen-set.show,
 .popupMissionsAndSets__slot-machine.show,
-.popupMissionsAndSets__slot-machine2.show {
+.popupMissionsAndSets__BenderWordOrderGame.show,
+.popupMissionsAndSets__copyThisForNewGames.show {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    /* align-items: center; */
 }
 
 .popupMissionsAndSets__chosen-set {
@@ -748,6 +1052,23 @@ button {
     }
 }
 
+@media screen and (min-height:650px){
+    .BenderWordOrderGameBender {
+    position:fixed;
+    left: 0;
+    bottom: 10;
+    }
+}
+@media screen and (max-width:520px){
+    .BenderWordOrderGameContainer-one {
+    margin: 0 4px;
+    }
+
+    .BenderWordOrderGameContainer-mistake.show  {
+    left: 0;
+    margin: 0 10px;
+    } 
+}
 
 
 .logo-special {
