@@ -203,6 +203,9 @@ button {
 .blue {
     color: #6ca7fa;
 }
+.yellow {
+    color: yellow;
+}
 
 .popupMissionsAndSets__sets {
 
@@ -579,7 +582,7 @@ button {
 }
 
 .oneDeckOfCards__bottomOfTheCard1Value {
-    filter: blur(4px);
+    filter: blur(2px);
     display: flex;
     width: 100%;
     height: 100%;

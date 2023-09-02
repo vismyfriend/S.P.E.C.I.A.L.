@@ -242,7 +242,10 @@ function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
-    usedCheatsText.classList.remove("visible")
+
+    // спросить у Andrew как делать перенос строки в Java^ br работает только в HTML
+    usedCheatsText.textContent = `нажимай на карточку`
+    usedCheatsText.classList.add("visible")
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")
     interval = setInterval(startTimer, 10);
@@ -257,7 +260,7 @@ function startGameFindPairs() {
     howManyTimesSkipped = 0
     pairsRemainToMatch = chosenArray.length
     foundPairs = 0
-    gameFindAPairInfo.textContent = `Нажимай на слова.      Составлено пар: ${foundPairs} из ${chosenArray.length}`
+    gameFindAPairInfo.textContent = `Нажимай слова, ищи пару:`
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
     popupMissionsAndSets.classList.add("close")
     logoSpecial.classList.add("hidden")

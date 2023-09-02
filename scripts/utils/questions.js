@@ -39,6 +39,133 @@ const allQuestionsOneDeck = {
             eng: " Question 7 eng "
         },
     ], 
+    formulas0: [
+        {					
+            id	:	78	,		
+            eng	:	"	2 plus 14 is	"	,
+            ru	:	"	sixteen	"	
+            }	,				
+            {					
+            id	:	79	,		
+            eng	:	"	8 plus 12 is	"	,
+            ru	:	"	twenty	"	
+            }	,				
+            {					
+            id	:	80	,		
+            eng	:	"	10 plus two is	"	,
+            ru	:	"	twelve	"	
+            }	,				
+            {					
+            id	:	81	,		
+            eng	:	"	9 plus nine is	"	,
+            ru	:	"	eighteen	"	
+            }	,				
+            {					
+            id	:	82	,		
+            eng	:	"	10 plus 7 is	"	,
+            ru	:	"	seventeen	"	
+            }	,				
+            {					
+            id	:	83	,		
+            eng	:	"	23 minus 8 is	"	,
+            ru	:	"	fifteen	"	
+            }	,				
+            {					
+            id	:	84	,		
+            eng	:	"	ten plus 9 is	"	,
+            ru	:	"	nineteen	"	
+            }	,				
+            {					
+            id	:	85	,		
+            eng	:	"	5 plus eight is	"	,
+            ru	:	"	thirteen	"	
+            }	,				
+            {					
+            id	:	86	,		
+            eng	:	"	eight + three is	"	,
+            ru	:	"	eleven	"	
+            }	,				
+            {					
+            id	:	87	,		
+            eng	:	"	four + four is	"	,
+            ru	:	"	eight 	"	
+            }	,				
+            {					
+            id	:	88	,		
+            eng	:	"	five + four is	"	,
+            ru	:	"	nine 	"	
+            }	,				
+            {					
+            id	:	89	,		
+            eng	:	"	nine - two is	"	,
+            ru	:	"	seven 	"	
+            }	,				
+            {					
+            id	:	90	,		
+            eng	:	"	9 minus 6 is	"	,
+            ru	:	"	three	"	
+            }	,				
+            {					
+            id	:	91	,		
+            eng	:	"	20 - ten is	"	,
+            ru	:	"	thirty	"	
+            }	,				
+            {					
+            id	:	92	,		
+            eng	:	"	30 + 3 is	"	,
+            ru	:	"	thirty three	"	
+            }	,				
+            {					
+            id	:	93	,		
+            eng	:	"	20 + 8 is	"	,
+            ru	:	"	twenty eight	"	
+            }	,				
+            {					
+            id	:	94	,		
+            eng	:	"	89 minus 30 is	"	,
+            ru	:	"	fifty nine	"	
+            }	,				
+            {					
+            id	:	95	,		
+            eng	:	"	99 minus 30 is	"	,
+            ru	:	"	sixty nine	"	
+            }	,				
+            {					
+            id	:	96	,		
+            eng	:	"	90 + 8 is	"	,
+            ru	:	"	ninety eight	"	
+            }	,				
+            {					
+            id	:	97	,		
+            eng	:	"	twelve + 88 is	"	,
+            ru	:	"	a hundred	"	
+            }	,				
+            {					
+            id	:	98	,		
+            eng	:	"	plus + произносится:	"	,
+            ru	:	"	плас	"	
+            }	,				
+            {					
+            id	:	99	,		
+            eng	:	"	minus - произносится:	"	,
+            ru	:	"	майнэс	"	
+            }	,				
+            {					
+            id	:	100	,		
+            eng	:	"	равно = по-английски:	"	,
+            ru	:	"	is	"	
+            }	,				
+            {					
+            id	:	101	,		
+            eng	:	"	20 + twelve is	"	,
+            ru	:	"	thirty two	"	
+            }	,				
+            {					
+            id	:	102	,		
+            eng	:	"	15 + 50 is	"	,
+            ru	:	"	sixty five	"	
+            }	,				
+    ],
     questions0: [
         {					
             id	:	1	,		
@@ -4804,161 +4931,161 @@ const allQuestionsOneDeck = {
 
 
     ],
-    areamisTest: [
+    mission1: [
         {
             id: 1,
-            ru: "	My name is BOND, JAMES, B-O-N-D	",
-            eng: "	What’s your name? Spell /произнеси по буквам/ your name, please.	"
+            ru: "	Как тебя зовут? СПЭЛ - произнеси по буквам. Пример: My name is Би Оу Эн Ди (BOND) Джей Эй Эм И Эс (james Bond)	",
+            eng: "	What’s your name? Spell it, please. 	"
         },
         {
             id: 2,
-            ru: "	My phone number is  007 	",
+            ru: "	Какой номер вашего телефона? (фоун намбэ) My phone number is 007 	",
             eng: "	What’s your phone number?	"
         },
         {
             id: 3,
-            ru: "	My car number is  C 007 AR	",
+            ru: "	Какой номер у вашей машины? My car number is  C 007 AR	",
             eng: "	What’s your car number?	"
         },
         {
             id: 4,
-            ru: "	My house N. is 107	",
+            ru: "	Какой номер вашего дома? (хаус) My house number is 107. 	",
             eng: "	What’s your house number?	"
         },
         {
             id: 5,
-            ru: "	My flat N. is 36	",
-            eng: "	What’s your flat number? /флэт/	"
+            ru: "	Какой номер вашей квартиры? (флЭт) My flat number is 36	",
+            eng: "	What’s your flat number? "
         },
         {
             id: 6,
-            ru: "	My apt. N. is 36	",
-            eng: "	What’s your apartment number? /апАртмэнт/	"
+            ru: "	My apt. number is 112. Май эпт намбэ из э хандред твэлв 	",
+            eng: "	What’s your apartment number? /эпАртмэнт/	"
         },
         {
             id: 7,
             ru: "	My shoe size is 46	",
-            eng: "	What’s your shoe size? /шу сайз/	"
+            eng: "	What’s your shoe size? /шу сайз/ размер обуви	"
         },
         {
             id: 8,
-            ru: "	The color of my car is black	",
+            ru: "	The color of my car is black (можно сказать My car is black)	",
             eng: "	What’s the color /кАла/ of your car?	"
         },
         {
             id: 9,
-            ru: "	The color of my eyes is blue. Или myeyes Are blue.	",
-            eng: "	What’s the color /кАла/  of your eyes/айз/ ?	"
+            ru: "	The color of my eyes is blue. (можно сказать My eyes are blue)	",
+            eng: "	What’s the color of your eyes? /уотс дэ кала ов ё айз/	"
         },
         {
             id: 10,
-            ru: "	My favorite colors are black &yellow	",
-            eng: "	What are your favorite/фЭйворит/ colors?	"
+            ru: "	Какие ваши любимые цвета? My favorite colors are black and yellow	",
+            eng: "	What are your favorite colors? /фЭйворит кАлаз/	"
         },
         {
             id: 11,
-            ru: "	My favorite books are Voina and Mir & 12 stuljev (не нужно переводить названия) 	",
+            ru: "	My favorite books are Voina and Mir & 12 stuljev (не нужно переводить названия книг, фильмов, имена, чтобы не запутать собеседника) 	",
             eng: "	What are your favorite books?	"
         },
         {
             id: 12,
-            ru: "	My fav. movies are detectives & comedies /кАмедис/	",
-            eng: "	What are your favorite movies? /мУви/	"
+            ru: "	Какие ваши любимые фильмы? My favorite movies are detectives and comedies /кАмедис/	",
+            eng: "	What are your favorite movies? /фЭйворит мУвиз/	"
         },
         {
             id: 13,
-            ru: "	My fav. games are Poker & Pryatki & Sims 3	",
-            eng: "	What are your favorite games?	"
+            ru: "	Какие ваши любимые игры? My favorite games are Krestiki Noliki, and Poker, and Monopoly, and Pryatki, and Sims 3, and Molchanka	",
+            eng: "	What are your favorite games? /фЭйворит гэймз/	"
         },
         {
             id: 14,
-            ru: "	My fav. song is “Show must go on” by Queen (by - кем исполняется)	",
-            eng: "	What’s your favorite song?	"
+            ru: "	My favorite song is “Show must go on” by Queen (by - кем исполняется)	",
+            eng: "	What’s your favorite song? /фЭйворит сон/ (буква 'g' не произносится в слове песня)	"
         },
         {
             id: 15,
-            ru: "	My fav .band is Queen.	",
-            eng: "	What’s your favorite musical band?	"
+            ru: "	Какая ваша любимая музыкальная группа? My favorite band is Queen.	",
+            eng: "	What’s your favorite musical band?	/фЭйворит мьюзикал бэнд/"
         },
         {
             id: 16,
-            ru: "	My fav. drink is martini	",
+            ru: "	My favorite drink is martini	",
             eng: "	What’s your favorite drink?	"
         },
         {
             id: 17,
-            ru: "	My fav. adj. is “sexy”	",
-            eng: "	What’s your favorite English adjective? /Эджэктив/ ударение на пЕрвую букву. Adj. прилагательное	"
+            ru: "	Какое ваше любимое прилагательное? My favorite adjective is “sexy” and I like adjective “awesome” /осм/ переводится - обалденный	",
+            eng: "	What’s your favorite English adjective? /Эджэктив/ ударение на пЕрвую букву (Adjecive. прилагательное - отвечает на вопрос какой? какая? какое? Какие?)	"
         },
         {
             id: 18,
-            ru: "	My fav. Verb  is ”to kiss”	",
+            ru: "	Какой ваш любимый английский глагол? My favorite Verb  is ”to kiss”	целоваться ",
             eng: "	What’s your favorite English verb? /вЁрб/	"
         },
         {
             id: 19,
-            ru: "	I’m great/super/fine/ok/so-so/bad. And you?	",
-            eng: "	How are you today? How r u doing?	"
+            ru: "	Как вы себя чувствуете сегодня? Как поживаете? I’m great, super, fine, ok, so-so, bad. And you?	(А вы как?)",
+            eng: "	How are you today? How are you doing? /хау а ю тудэй? хау а ю дуин?"
         },
         {
             id: 20,
-            ru: "	My life is good, everything is nice.	",
-            eng: "	How is your life? What’s up?	"
+            ru: "	Как ваша жизнь? Что происходит? My life is good, everything is nice. Work, sleep, learn English	",
+            eng: "	How is your life? What’s up? /уотс ап?/	"
         },
         {
             id: 21,
-            ru: "	My family is alright, everybody is ok. 	",
+            ru: "	Как ваша семья? My family is alright, everybody is ok. (олрайт - впорядке) (эврибади из оукэй - у каждого всё норм)	",
             eng: "	How is your family?	"
         },
         {
             id: 22,
-            ru: "	I’m at work, at 69 Oxford street	",
-            eng: "	Where are you now? What street?	"
+            ru: "	Где вы сейчас? На какой улице? I’m at work, at 69 Oxford street	",
+            eng: "	Where are you now? What street?	уээ а ю нау? уот стрит?" 
         },
         {
             id: 23,
-            ru: "	I’m from Oek it’s a small village in RF	",
+            ru: "	Откуда вы родом? I’m from Butirki it’s a small village in Siberia	",
             eng: "	Where are you from?	"
         },
         {
             id: 24,
-            ru: "	I’m in Paris/пЭрис/ now. It is in France.	",
-            eng: "	Where are you now? What city? 	"
+            ru: "	Где вы находитесь сейчас? В каком городе? I’m in Paris/пЭрис/ now. It is in France.	",
+            eng: "	Where are you now? What city? /уээ а ю нау? уот сити?/" 
         },
         {
             id: 25,
-            ru: "	My father is from Ukraine and my mom is from Russia.	",
-            eng: "	Where are your parents from?	"
+            ru: "	Откуда ваши родители? My father is from Ukraine and my mom is from Russia.	",
+            eng: "	Where are your parents from? /уээ а Ё пЭрэнтс фром?/" 
         },
         {
             id: 26,
-            ru: "	My mom is in Heaven… My dad is in Ukraine.	",
-            eng: "	Where are your parents now?	"
+            ru: "	Где находятся ваши родители сейчас? My mom is in Heaven… My dad is in a bar.	(хЭвэн - рай)",
+            eng: "	Where are your parents now?	/уээ а Ё пЭрэнтс нау?/"
         },
         {
             id: 27,
             ru: "	He is from a secret bunker in Siberia	",
-            eng: "	Where is special agent Vincent from?	"
+            eng: "	Where is special agent Vincent from?	/уээ из спэшл эйджэнт вИнсэнт фром?/"
         },
         {
             id: 28,
-            ru: "	Because I study English with Vincent.	",
-            eng: "	Why are you a special agent?	"
+            ru: "	to - чтобы. I study English to speak, to travel, to find a job, to watch films, to read books. (because - потому что) I study English because i need it for my job. Because I like it.	",
+            eng: "	Why do you study English? /уайду ю стади инглиш/	"
         },
         {
             id: 29,
-            ru: "	He’s an agent! A foreign/форин/ agent. (иностранный агент)	",
-            eng: "	Who is your teacher?	"
+            ru: "	He is an agent! He is a foreign agent. /э форин эйджент/ иностранный агент	",
+            eng: "	Who is your teacher?	/ху из ё тичер/"
         },
         {
             id: 30,
-            ru: "	I can’t tell you. It is not safe/сэйф/  	",
-            eng: "	Who are you? What is your job?	"
+            ru: "	Кто вы? Кем вы работаете? I can’t tell you. It is not safe. It is a big secret!  	",
+            eng: "	Who are you? What is your job?	/ху а ю? уот из ё джоб/"
         },
         {
             id: 31,
-            ru: "	They are people who study with me.	",
-            eng: "	Who are secret agents?	"
+            ru: "	Кто такие секретные агенты? They are people who study with me.	",
+            eng: "	Who are secret agents?	/ху а сикрет эйджентс/"
         },
         {
             id: 32,
@@ -4967,38 +5094,38 @@ const allQuestionsOneDeck = {
         },
         {
             id: 33,
-            ru: "	You are here because you are special 	",
-            eng: "	Why am I here?	"
+            ru: "	Зачем я здесь? Почему я здесь? You are here because you are a special, agent! And because you want to learn English. 	",
+            eng: "	Why am I here?	/уай эм ай хиэ/"
         },
         {
             id: 34,
-            ru: "	I can eat many pelmenis! Maybe 33.	",
-            eng: "	How many pelmenis can you eat?	"
+            ru: "	I can eat many pelmenis! About 33. (около 33)	",
+            eng: "	How many pelmenis can you eat? /кэн - можешь/	"
         },
         {
             id: 35,
-            ru: "	I live in Vilnius	",
-            eng: "	Where do you live?	"
+            ru: "	Где вы живёте? I live in Vilnius	",
+            eng: "	Where do you live?	/уээ ду ю лив/"
         },
         {
             id: 36,
-            ru: "	I work in a “ S.P.E.C.I.A.L.” agency. 	",
-            eng: "	Where do you work?	"
+            ru: "	I work in a “S.P.E.C.I.A.L.” secret agency.  (я работаю в секретном агентсве СПЭШЛ) 	",
+            eng: "	Where do you work? /уээ ду ю уорк/	"
         },
         {
             id: 37,
-            ru: "	I study English 2 times a week. 2 раза в неделю	",
+            ru: "	Как часто вы учите английский? I study English 2 times a week. 2 раза в неделю	",
             eng: "	How often do you study English?	"
         },
         {
             id: 38,
-            ru: "	I practice English 10 minutes a day. 10м в день. Every day.	",
-            eng: "	How often do you practice English ?	"
+            ru: "	Как часто вы практикуете английский? I practice English 10 minutes a day, every day.	(по 10 минут каждый день)",
+            eng: "	How often do you practice English ?	/прэктис/"
         },
         {
             id: 39,
-            ru: "	Love is everywhere /ЭвриУээ/ in every sight/сайт/ в каждом взгляде",
-            eng: "	Where is love?	"
+            ru: "	Где находится любовь? Love is everywhere /ЭвриУээ/ in every sight/сайт/ and in every sound (везде, в каждом взгляде и звуке)",
+            eng: "	Where is love?	/уээ из лав/"
         },
     ],
     seasons: [
