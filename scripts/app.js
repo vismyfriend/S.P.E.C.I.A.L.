@@ -52,6 +52,7 @@ const mainContainer2 = document.querySelector(".mainContainer2")
 const body = document.querySelector(".body")
 const mainContainer3 = document.querySelector(".mainContainer3")
 const typeOrWriteGameButtonBackToMissions = document.querySelector(".typeOrWriteGameButtonBackToMissions")
+const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
 
 // const MusicFromGoogleDriveDefault = new Audio("https://drive.google.com/file/d/1YlPN33KcfXRkw2BgHnNZVeb2z7NkiZKP/view?usp=sharing"); 
 // wtf пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java
@@ -597,6 +598,7 @@ function compareInput () {
 }
 
 typeOrWriteGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
+BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
 BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame)
 InputTypeOrWriteGame.addEventListener("click", startGameInputTypeOrWriteGame)
 slotMachine.addEventListener("click", startGameSlotMachine)
