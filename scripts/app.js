@@ -6,9 +6,9 @@ import playList from "./utils/music.js"
 import { testGameBenderWordOrderGame } from "./utils/sentences.js"
 
 
-const AndrewHelpPleaseBackButton = document.querySelector(".AndrewHelpPleaseBackButton")
+const headerPageReoad = document.querySelector(".headerPageReoad")
 
-AndrewHelpPleaseBackButton.addEventListener("click", pageReloadRefresh)
+headerPageReoad?.addEventListener("click", pageReloadRefresh)
 
 
 // уточнить у Эндрю про строку ниже - что это 
@@ -534,14 +534,14 @@ function finishGame() {
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
     popupMissionsAndSetsTitle.textContent = `Результат: ${timer.textContent} seconds`
-    popupMissionsAndSetsDescription.innerHTML = "Другую миссию?  Или еще разок? Новый рекорд?"
+    popupMissionsAndSetsDescription.innerHTML = "Другую миссию?  Или новый рекорд?"
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"
     popupMissionsAndSetsSets.classList.remove("hide")
     InputTypeOrWriteGame.classList.remove("show")
     popupMissionsAndSetsGameFindAPair.classList.remove("show")
     slotMachine.classList.remove("show")
-    copyThisForNewGames.classList.remove("show")
+    copyThisForNewGames?.classList.remove("show")
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
     chosenSet.classList.remove("show")
