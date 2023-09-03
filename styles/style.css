@@ -68,15 +68,18 @@ button {
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
 }
 .typeOrWriteGameButtonBackToMissions {
-    width: 60px;
+    /* width: 60px; */
+    font-size: 18px;
+    color: #000000;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
 }
 .BenderWordOrderGameButtonBackToMissions {
-    width: 60px;
+    /* width: 60px; */
+    
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
 }
 .oneDeckButtonCheck {
-    width: 60px;
+    /* width: 60px; */
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
 }
 
@@ -95,6 +98,7 @@ button {
     color: #000000;
     background-color: #000000;
     width: 310px;
+
 }
 .mainContainer1.none {
 display: none;
@@ -174,7 +178,7 @@ display: none;
     font-size: 20px;
     line-height: 17px;
     text-align: center;
-    font-size: 25px;;
+    font-size: 20px;;
     color: #000000;
 }
 
@@ -242,11 +246,14 @@ display: none;
     color: white;
 }
 .BenderWordOrderGameButtons {
-    display: flex;
+    /* display: flex;
     justify-content: center;
     gap: 30px;
     padding: 5px 15px;
-    margin-top: 5px;
+    margin-top: 5px; */
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
     color: #000000;
 }
 
@@ -358,6 +365,7 @@ display: none;
 .mainContainer3 {
     
     margin-top: 15px;
+    
 }
 
 .typeOrWriteGameMainScreen {
@@ -366,13 +374,12 @@ display: none;
   border: 15px solid #F4F5FF;
   border-radius: 35px;
   margin: 0 auto;
-  position: relative;
   padding-bottom: 15px;
-  max-width: 547px;
   display: block;
   font-size: 25px;
   box-sizing: border-box;
   height: 200px;
+  text-align: center;
 }
 
 .playerInputType {
@@ -403,6 +410,7 @@ display: none;
     border-radius: 35px;
     color: #ffffff;
     position: relative;
+    margin: 50px 0;
 }
 
 
@@ -475,8 +483,9 @@ display: none;
     height: 35px;
     display: flex;
     /* align-items: end; */
-    align-items: stretch;
-    padding: 0 10px;
+    /* align-items: stretch; */
+    padding: 0 22px;
+    text-align: center;
 }
 
 .popupMissionsAndSets__set {
@@ -658,7 +667,11 @@ color: #515254;
     background-color: #000000;
 
 }
-
+.InputTypeOrWriteGameFryFuturama {
+    z-index: -2;
+    margin: 0 auto;
+    width: 60%;
+}
 .timer {
     font-size: 35px;
     color: #ffffff;
