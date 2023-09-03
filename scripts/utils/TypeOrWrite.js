@@ -3,37 +3,37 @@ const allWordsForGameTypeOrWrite = {
     testOneSeven: [
         {					
             id	:	1	,		
-            eng	:	"1one"	,
+            eng	:	"one"	,
             ru	:	"один"	
             }	,				
             {					
             id	:	2	,		
-            eng	:	"2two"	,
+            eng	:	"two"	,
             ru	:	"два"	
             }	,				
             {					
             id	:	3	,		
-            eng	:	"3three"	,
+            eng	:	"three"	,
             ru	:	"три"	
             }	,			
             {					
             id	:	4	,		
-            eng	:	"4four"	,
+            eng	:	"four"	,
             ru	:	"четыре"	
             }	,				
             {					
             id	:	5	,		
-            eng	:	"5five"	,
+            eng	:	"five"	,
             ru	:	"пять"	
             }	,				
             {					
             id	:	6	,		
-            eng	:	"6six"	,
+            eng	:	"six"	,
             ru	:	"шесть"	
             }	,				
             {					
             id	:	7	,		
-            eng	:	"7seven"	,
+            eng	:	"seven"	,
             ru	:	"семь"	
             }	,				
     ],
@@ -241,75 +241,105 @@ const allWordsForGameTypeOrWrite = {
     numbers0: [
         {					
             id	:	1	,		
-            eng	:	"1one"	,
+            eng	:	"one"	,
             ru	:	"один"	
             }	,				
             {					
             id	:	2	,		
-            eng	:	"2two"	,
+            eng	:	"two"	,
             ru	:	"два"	
             }	,				
             {					
             id	:	3	,		
-            eng	:	"3three"	,
+            eng	:	"three"	,
             ru	:	"три"	
             }	,			
             {					
             id	:	4	,		
-            eng	:	"4four"	,
+            eng	:	"four"	,
             ru	:	"четыре"	
             }	,				
             {					
             id	:	5	,		
-            eng	:	"5five"	,
+            eng	:	"five"	,
             ru	:	"пять"	
             }	,				
             {					
             id	:	6	,		
-            eng	:	"6six"	,
+            eng	:	"six"	,
             ru	:	"шесть"	
             }	,				
             {					
             id	:	7	,		
-            eng	:	"7seven"	,
+            eng	:	"seven"	,
             ru	:	"семь"	
             }	,				
     ],
     letters: [
         {					
             id	:	1	,		
-            eng	:	"1one"	,
-            ru	:	"один"	
+            eng	:	"J"	,
+            ru	:	"Напечатайте большую букву /Джей/"	
             }	,				
             {					
             id	:	2	,		
-            eng	:	"2two"	,
-            ru	:	"два"	
+            eng	:	"G"	,
+            ru	:	"Напечатайте большую букву /Джи/"	
             }	,				
             {					
             id	:	3	,		
-            eng	:	"3three"	,
-            ru	:	"три"	
+            eng	:	"С"	,
+            ru	:	"Напечатайте большую букву /Си/"	
             }	,			
             {					
             id	:	4	,		
-            eng	:	"4four"	,
-            ru	:	"четыре"	
+            eng	:	"S"	,
+            ru	:	"Напечатайте большую букву /Эс/"	
             }	,				
             {					
             id	:	5	,		
-            eng	:	"5five"	,
-            ru	:	"пять"	
+            eng	:	"Q"	,
+            ru	:	"Напечатайте большую букву /Кью/"	
             }	,				
             {					
             id	:	6	,		
-            eng	:	"6six"	,
-            ru	:	"шесть"	
+            eng	:	"V"	,
+            ru	:	"Напечатайте большую букву /Ви/"	
             }	,				
             {					
             id	:	7	,		
-            eng	:	"7seven"	,
-            ru	:	"семь"	
+            eng	:	"E"	,
+            ru	:	"Напечатайте большую букву /И/"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"A"	,
+            ru	:	"Напечатайте большую букву /Эй/"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"I"	,
+            ru	:	"Напечатайте большую букву /Ай/"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"U"	,
+            ru	:	"Напечатайте большую букву /Ю/"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"Y"	,
+            ru	:	"Напечатайте большую букву /уАй/"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"X"	,
+            ru	:	"Напечатайте большую букву /Экс/"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"H"	,
+            ru	:	"Напечатайте большую букву /Эйч/"	
             }	,				
     ],
     ac: [

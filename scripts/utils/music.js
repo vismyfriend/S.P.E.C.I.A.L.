@@ -1,10 +1,17 @@
 // Здесь музыка фоновая для игры findAPair 
 const playList = {
     testing: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    testOneSeven: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    formulas0: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    questions0: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    letters: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    q1: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    numbers0: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     mission0: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     mission1: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     mission2: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     mission3: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    mission90: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     areamisTest: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     seasons: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     animals: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",

@@ -279,7 +279,7 @@ function shuffleTypeOrWrite() {
         return Math.random() - 0.5;
     });
     typeOrWriteNumber = 0
-    
+
 }
 
 function getquestions() {
@@ -381,6 +381,15 @@ function startGameBenderWordOrderGame() {
 }
 
 
+// Мохиндэр explained!
+
+function calcPlus(x, y) {
+    console.log(x + y)
+    return x + y
+}
+console.log(calcPlus(15, 20))
+
+
 // уточнить у Andrew про set в скобках - что это
 function chooseSet(text, set) {
     logoSpecial.classList.add("hidden")
@@ -388,12 +397,13 @@ function chooseSet(text, set) {
     oneDeckButtons.classList.remove("visible")
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
-    popupMissionsAndSetsDescription.textContent = "Сейчас выбираем задание для практики:"
+    popupMissionsAndSetsDescription.textContent = "Нажми какое задание выполнить: 👇 "
     popupMissionsAndSetsSets.classList.add("hide")
     InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
     slotMachine.classList.add("show")
-    copyThisForNewGames.classList.add("show")
+    copyThisForNewGames?.classList.add("show")
+    // знак вопроса пропустит ошибку
     BenderWordOrderGameButton.classList.add("show")
     letsSpeak.classList.add("show")
     chosenSet.classList.add("show")
@@ -406,7 +416,8 @@ function startGameQuestions() {
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
 
-    // спросить у Andrew как делать перенос строки в Java^ br работает только в HTML
+    // спросить у Andrew как делать перенос строки в Java? <br> работает только в HTML
+    // ${<br/>}
     usedCheatsText.textContent = `нажимай на карточку`
     usedCheatsText.classList.add("visible")
     popupMissionsAndSets.classList.add("close")
@@ -482,9 +493,9 @@ function getArray(set) {
     chooseQuestions = allQuestionsOneDeck[set].sort(function () {
         return Math.random() - 0.5;
     });
-    // chooseTypeOrWrite = allWordsForGameTypeOrWrite[set].sort(function () {
-    //     return Math.random() - 0.5;
-    // });
+    chooseTypeOrWrite = allWordsForGameTypeOrWrite[set].sort(function () {
+        return Math.random() - 0.5;
+    });
 }
 
 
@@ -553,9 +564,9 @@ function scroll(direction) {
 // function startGameRobotBender() {
 //     location.href = "https://vismyfriend.github.io/Bender/"
 // }
-const inputTitleEng = document.querySelector(".inputTitleEng") 
+const inputTitleEng = document.querySelector(".inputTitleEng")
 const playerInputType = document.querySelector(".playerInputType")
-const typeOrWriteGameButtonCompare = document.querySelector(".typeOrWriteGameButtonCompare") 
+const typeOrWriteGameButtonCompare = document.querySelector(".typeOrWriteGameButtonCompare")
 
 function startGameInputTypeOrWriteGame() {
     mainContainer1.classList.add("none")
@@ -563,26 +574,24 @@ function startGameInputTypeOrWriteGame() {
     mainContainer3.classList.remove("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
     value = chooseTypeOrWrite[typeOrWriteNumber]
-    inputTitleEng.textContent = value.eng
-    typeOrWriteGameButtonCompare.addEventListener("click", compareInput)    
+    inputTitleEng.textContent = value.ru
+    typeOrWriteGameButtonCompare.addEventListener("click", compareInput)
 
 }
 function nextWordToTranslate(inputPlaceholder) {
-    if (typeOrWriteNumber < chooseTypeOrWrite.length) {
-        value = typeOrWriteNumber[typeOrWriteNumber]
-        inputPlaceholder.innerHTML = value.eng
-        typeOrWriteNumber = typeOrWriteNumber + 1
-        console.log(1)
+    typeOrWriteNumber = typeOrWriteNumber + 1
+    value = chooseTypeOrWrite[typeOrWriteNumber]
+    if (value) {
+        inputPlaceholder.innerHTML = value.ru
     } else {
-        playerInputType.value = "конец игры"
-        // shuffleDecks()
+        inputTitleEng.textContent = "конец игры"
+        inputPlaceholder.classList.add("none")
     }
-}
-function compareInput () {
-    console.log(value.ru)
-    console.log(value.eng)
-    if (playerInputType.value === value.ru) {
 
+}
+function compareInput() {
+
+    if (playerInputType.value === value.eng) {
         nextWordToTranslate(inputTitleEng)
         playerInputType.value = ""
     } else {
@@ -592,9 +601,9 @@ function compareInput () {
 
     // быстрая проверка от Мохиндерсюрэж
     // alert(1)
-    // open brackets
     
-    
+
+
 }
 
 typeOrWriteGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
