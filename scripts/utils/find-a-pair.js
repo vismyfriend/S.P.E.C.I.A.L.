@@ -37,6 +37,83 @@ const allCardsGameFindAPair = {
             ru	:	"семь"	
             }	,				
     ],
+    affirmations: [
+        {					
+            id	:	1	,		
+            eng	:	"Affirmation"	,
+            ru	:	"Аффирмация	"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"Statement"	,
+            ru	:	"Утверждение"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"Believe"	,
+            ru	:	"Верить"	
+            }	,				
+            {					
+            id	:	4	,		
+            eng	:	"I am proud of you"	,
+            ru	:	"Я горд за тебя. Я горжусь тобой.	"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"I feel safe"	,
+            ru	:	"Я чувствую себя безопасно"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"Make up ideas"	,
+            ru	:	"Придумывать идеи"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"I do my best"	,
+            ru	:	"Я стараюсь по максимуму"	
+            }	,				
+            {					
+            id	:	8	,		
+            eng	:	"Achievements"	,
+            ru	:	"Достижения"	
+            }	,				
+            {					
+            id	:	9	,		
+            eng	:	"I am loved"	,
+            ru	:	"Меня любят"	
+            }	,				
+            {					
+            id	:	10	,		
+            eng	:	"I am not afraid of it"	,
+            ru	:	"Мне это не страшно"	
+            }	,				
+            {					
+            id	:	11	,		
+            eng	:	"My feelings matter"	,
+            ru	:	"Мои чувства имеют значение"	
+            }	,				
+            {					
+            id	:	12	,		
+            eng	:	"I take care of myself"	,
+            ru	:	"Я проявляю заботу о себе	"	
+            }	,				
+            {					
+            id	:	13	,		
+            eng	:	"They believe in themselves"	,
+            ru	:	"Они верят в себя"	
+            }	,				
+            {					
+            id	:	14	,		
+            eng	:	"She does her best"	,
+            ru	:	"Она старается по максимуму"	
+            }	,				
+            {					
+            id	:	15	,		
+            eng	:	"Are you proud of yourself?"	,
+            ru	:	"Ты горд за себя? Гордишься собой?	"	
+            }	,							
+    ],
     testing: [
         {
             id: 1,
