@@ -51,8 +51,10 @@ const mainContainer1 = document.querySelector(".mainContainer1")
 const mainContainer2 = document.querySelector(".mainContainer2")
 const body = document.querySelector(".body")
 const mainContainer3 = document.querySelector(".mainContainer3")
-const typeOrWriteGameButtonBackToMissions = document.querySelector(".typeOrWriteGameButtonBackToMissions")
+const typeOrWriteGameButtonIDK = document.querySelector(".typeOrWriteGameButtonIDK")
+const typeOrWriteGameButtonSkip = document.querySelector(".typeOrWriteGameButtonSkip")
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
+const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
 
 // const MusicFromGoogleDriveDefault = new Audio("https://drive.google.com/file/d/1YlPN33KcfXRkw2BgHnNZVeb2z7NkiZKP/view?usp=sharing"); 
 // wtf пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java
@@ -85,7 +87,9 @@ const unfairGameBenderWordOrderGame = document.querySelector(".BenderWordOrderGa
 const screenshotGameBenderWordOrderGame = document.querySelector(".BenderWordOrderGameScreenshot")
 const livesGameBenderWordOrderGame = document.querySelector(".BenderWordOrderGameLives")
 const pointsGameBenderWordOrderGame = document.querySelector(".BenderWordOrderGameCorrect-counter")
+const typeOrWriteGameСounter = document.querySelector(".typeOrWriteGame-counter")
 let scoreGameBenderWordOrderGame = 0
+let scoreTypeOrWriteGame = 0
 let lifeGameBenderWordOrderGame = 5
 // уменьшая жизни принудительно изменить width
 let n = -1
@@ -227,15 +231,51 @@ let typeOrWriteNumber = 0
 const starsEmoji = document.querySelector(".starsEmoji")
 
 let howManyStarsEmoji = 5
-let timeToGet5StarResult = 100
-let timeToGet4StarResult = 120
-let timeToGet3StarResult = 140
-let timeToGet2StarResult = 160
+
+let timeToGet5StarResult = 40
+let timeToGet4StarResult = 50
+let timeToGet3StarResult = 60
+let timeToGet2StarResult = 75
+
 // let timeToGet5StarResult = 120
 // let timeToGet4StarResult = 140
 // let timeToGet3StarResult = 170
 // let timeToGet2StarResult = 210
+
+function howManyStarsScore () {
+
+    if (chosenArray.length < 12) {
+        timeToGet5StarResult = 9
+        timeToGet4StarResult = 12
+        timeToGet3StarResult = 18
+        timeToGet2StarResult = 22
+        
+    } else if (chosenArray.length  > 12 && chosenArray.length  < 20) {
+        timeToGet5StarResult = 15
+        timeToGet4StarResult = 20
+        timeToGet3StarResult = 30
+        timeToGet2StarResult = 40
+    } else if (chosenArray.length  > 20 && chosenArray.length  < 40) {
+        timeToGet5StarResult = 20
+        timeToGet4StarResult = 30
+        timeToGet3StarResult = 40
+        timeToGet2StarResult = 50
+    } else if (chosenArray.length  > 40 && chosenArray.length  < 59) {
+        timeToGet5StarResult = 40
+        timeToGet4StarResult = 55
+        timeToGet3StarResult = 70
+        timeToGet2StarResult = 85
+    } else if (chosenArray.length  > 59 && chosenArray.length) {
+        timeToGet5StarResult = 70
+        timeToGet4StarResult = 80
+        timeToGet3StarResult = 90
+        timeToGet2StarResult = 100
+    }
+}
 function starResult() {
+    howManyStarsScore()
+   
+
     if (seconds < timeToGet5StarResult) {
         howManyStarsEmoji = 5
         starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
@@ -257,6 +297,8 @@ function starResult() {
         starsEmoji.style.width = `${howManyStarsEmoji * 31}px`
 
     }
+    // console.log("arrayLength",chosenArray.length)
+   
 }
 //выше  функция для высвечивания результата и количество звезд
 
@@ -383,15 +425,16 @@ function startGameBenderWordOrderGame() {
 
 // Мохиндэр explained!
 
-function calcPlus(x, y) {
-    console.log(x + y)
-    return x + y
-}
-console.log(calcPlus(15, 20))
+// function calcPlus(x, y) {
+//     console.log(x + y)
+//     return x + y
+// }
+// console.log(calcPlus(15, 20))
 
 
 // уточнить у Andrew про set в скобках - что это
 function chooseSet(text, set) {
+    fryFuturamaMainScreenIntro.classList.add("noshow")
     logoSpecial.classList.add("hidden")
     tryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")
@@ -413,6 +456,7 @@ function chooseSet(text, set) {
 }
 function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
+    fryFuturamaMainScreenIntro.classList.add("noshow")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
 
@@ -428,6 +472,7 @@ function startGameQuestions() {
 function startGameFindPairs() {
     renderCards("ru")
     renderCards("eng")
+    fryFuturamaMainScreenIntro.classList.add("noshow")
     usedCheatsText.classList.remove("visible")
     gameFindAPairButtonBackToMissions.disabled = false;
     gameFindAPairButtonNotUsed.disabled = true;
@@ -496,6 +541,7 @@ function getArray(set) {
     chooseTypeOrWrite = allWordsForGameTypeOrWrite[set].sort(function () {
         return Math.random() - 0.5;
     });
+    
 }
 
 
@@ -533,8 +579,8 @@ function finishGame() {
     tryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
-    popupMissionsAndSetsTitle.textContent = `Результат: ${timer.textContent} seconds`
-    popupMissionsAndSetsDescription.innerHTML = "Другую миссию?  Или новый рекорд?"
+    popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат: ${timer.textContent} seconds`
+    popupMissionsAndSetsDescription.innerHTML = "попробуй другой набор слов или сможешь этот пройти быстрее?"
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"
     popupMissionsAndSetsSets.classList.remove("hide")
@@ -545,7 +591,7 @@ function finishGame() {
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
     chosenSet.classList.remove("show")
-    tryAgainButton.textContent = `${chosenSet.textContent}`
+    tryAgainButton.textContent = `Попробовать ещё раз! 💪 Try again! 👍`
     const AudioWinner = new Audio("https://zvukitop.com/wp-content/uploads/2021/03/zvuk-tadam-na-trube.mp3");
     AudioWinner.volume = 0.075;
     AudioWinner.play()
@@ -584,29 +630,55 @@ function nextWordToTranslate(inputPlaceholder) {
     if (value) {
         inputPlaceholder.innerHTML = value.ru
     } else {
-        inputTitleEng.textContent = "конец игры"
+        inputTitleEng.textContent = `Вы справились! Попробуйте другой набор слов`
+        typeOrWriteGameСounter.textContent = `(${scoreTypeOrWriteGame} из ${chooseTypeOrWrite.length}) Correct ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
+
+    }
         inputPlaceholder.classList.add("none")
+        // playerInputType.textContent = `вы перевели:  ${scoreTypeOrWriteGame} из ${chooseTypeOrWrite.length}`
     }
 
-}
+
 function compareInput() {
 
     if (playerInputType.value === value.eng) {
         nextWordToTranslate(inputTitleEng)
         playerInputType.value = ""
+        scoreTypeOrWriteGame += 1
+        typeOrWriteGameСounter.textContent = `верно:  ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
+
     } else {
-        alert("чёт не то =) ")
+        typeOrWriteGameСounter.textContent = `Хмм... чёт не то 🤷🏽‍♂️ может опечатка?! Проверь еще раз. Или сделай скриншот и отправь мне `
+     
 
     }
 
     // быстрая проверка от Мохиндерсюрэж
-    // alert(1)
-    
-
-
+    // alert(1) 
+    // alert("чёт не то =) ") 
 }
 
-typeOrWriteGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
+// function typeOrWriteIDKtheAnswer () {
+//     typeOrWriteGameСounter.textContent = `The answer is   << ${value.eng} >> `
+// }
+// typeOrWriteGameButtonIDK.addEventListener("click", typeOrWriteIDKtheAnswer)
+
+
+function typeOrWriteGameSkip () {
+    nextWordToTranslate(inputTitleEng)
+        playerInputType.value = ""
+}
+
+
+typeOrWriteGameButtonIDK.addEventListener("click", () => {
+    
+    typeOrWriteGameСounter.textContent = `The answer is   << ${value.eng} >> `
+    setTimeout(() => {
+        typeOrWriteGameСounter.textContent = `верно:  ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
+    }, 2000)
+})
+
+typeOrWriteGameButtonSkip.addEventListener("click", typeOrWriteGameSkip)
 BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
 BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame)
 InputTypeOrWriteGame.addEventListener("click", startGameInputTypeOrWriteGame)
@@ -625,7 +697,7 @@ gameFindAPairButtonBackToMissions.addEventListener("click", () => {
     pageReloadRefresh()
 })
 
-oneDeckButtonPrevious.addEventListener("click", pageReloadRefresh)
+oneDeckButtonPrevious.addEventListener("click", shuffleDecks, startGameQuestions)
 
 
 if (isTouch()) {
