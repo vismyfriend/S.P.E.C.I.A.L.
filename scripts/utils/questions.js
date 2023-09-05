@@ -18,7 +18,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:4,
-            eng:"I am grateful for another day of life",
+            eng:"I am grateful for another day of life /грэйтфул/",
             ru:"Я благодарен за еще один день своей жизни"
             },
             {
@@ -33,17 +33,17 @@ const allQuestionsOneDeck = {
             },
             {
             id:7,
-            eng:"I am proud of myself and my achievements",
+            eng:"I am proud of myself and my achievements /ай эм прАуд ов майсэлф энд май чИвмэнтс/",
             ru:"Я горд за себя и свои достижения"
             },
             {
             id:8,
-            eng:"I will accomplish everything I need to do",
-            ru:"Я доведу до конца всё, что мне нужно сделать"
+            eng:"I will accomplish everything /экамплиш/",
+            ru:"Я доведу до конца всё."
             },
             {
             id:9,
-            eng:"I do my best, and my best is good enough",
+            eng:"I do my best, and my best is good enough /инАф/",
             ru:"Я делаю всё, что в моих силах и этого (моего лучшего) достаточно"
             },
             {
@@ -53,7 +53,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:11,
-            eng:"I overcome my fears",
+            eng:"I overcome my fears /овэркАм май фИэрз/",
             ru:"Я преодолеваю свои страхи"
             },
             {
@@ -63,17 +63,17 @@ const allQuestionsOneDeck = {
             },
             {
             id:13,
-            eng:"Money comes easily to me.",
+            eng:"Money comes easily to me. /мани камз изили ту ми/",
             ru:"Деньги приходят ко мне легко."
             },
             {
             id:14,
-            eng:"I trust my inner guide and follow it.",
+            eng:"I trust my inner guide /ай траст май Иннэ гайд/",
             ru:"Я доверяю своему внутреннему гиду и следую."
             },
             {
             id:15,
-            eng:"I take care of myself, mind, body, and spirit.",
+            eng:"I take care of myself, mind, body, and spirit. /тэйк кЭа ов май майнд//",
             ru:"Я забочусь о себе, о своем теле, духе и разуме."
             },
             {
@@ -83,17 +83,17 @@ const allQuestionsOneDeck = {
             },
             {
             id:17,
-            eng:"I allow myself to make new mistakes because they help me grow.",
-            ru:"Я даю себе разрешение совершать новые ошибки, потому что они помогают мне расти"
+            eng:"I allow myself to make new mistakes /элАу/",
+            ru:"Я даю себе разрешение совершать новые ошибки."
             },
             {
             id:18,
-            eng:"I accept myself and everyone, I don’t judge.",
-            ru:"/эксЭпт/ Я принимаю себя и каждого"
+            eng:"I accept myself and everyone /эксЭпт майсэлф энд Эвриуан/",
+            ru:"Я принимаю себя и каждого"
             },
             {
             id:19,
-            eng:"I have everything to achieve my goals.",
+            eng:"I have everything to achieve my goals. /ту эчИв май голс/",
             ru:"У меня есть всё, чтобы достичь своих целей."
             },
             {
@@ -103,18 +103,18 @@ const allQuestionsOneDeck = {
             },
             {
             id:21,
-            eng:"I am safe and feel I am supported",
+            eng:"I am safe and feel I am supported /сапОртид/",
             ru:"Я в безопасности и чувствую меня поддерживают"
             },
             {
             id:22,
             eng:"There is no one better to be than myself",
-            ru:"Нет никого лучше (кем) быть, чем собой"
+            ru:"Нет никого лучше (кем можно) быть, чем собой"
             },
             {
             id:23,
-            eng:"Today is going to be an amazing day",
-            ru:"Сегодня будет обалденный день"
+            eng:"Today is going to be an amazing day. Today is gonna be an amazing day.",
+            ru:"Сегодня будет обалденный день. Сегодня собирается быть обалденный денёк!"
             },
             {
             id:24,
@@ -123,7 +123,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:25,
-            eng:"I get better every single day",
+            eng:"I get better every day /ай гет бэттэ/",
             ru:"Я становлюсь лучше каждый день"
             },
             {
@@ -138,7 +138,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:28,
-            eng:"I care about others ",
+            eng:"I care about others /ай кэа эбаут Адэрз/",
             ru:"Я забочусь о других"
             },
             {
@@ -155,7 +155,7 @@ const allQuestionsOneDeck = {
             id:31,
             eng:"I am not afraid of what people think about me.",
             ru:"Мне не страшно, что люди подумают обо мне"
-            },					
+            },				
     ],
     affirmations2: [
         {
@@ -1017,7 +1017,7 @@ const allQuestionsOneDeck = {
             {					
             id	:	33	,		
             eng	:	"	Кэн ю спэл плиз? Can you spell JEEP ? ( сможешь произнести это слово по буквам? ) 	"	,
-            ru	:	"	Джи И И Пи	"	
+            ru	:	"	Джей И И Пи	"	
             }	,				
             {					
             id	:	34	,		
@@ -1030,7 +1030,6 @@ const allQuestionsOneDeck = {
             ru	:	"	Эйч Оу Эс Пи Ти Эй Эл	"	
             }	,								
     ],
-
     ac: [
         {					
             id	:	1	,		
