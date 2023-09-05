@@ -74,82 +74,316 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"семь"	
             }	,				
     ],
-    affirmations: [
-        {					
-            id	:	1	,		
-            eng	:	"Affirmation"	,
-            ru	:	"Аффирмация	"	
-            }	,				
-            {					
-            id	:	2	,		
-            eng	:	"Statement"	,
-            ru	:	"Утверждение"	
-            }	,				
-            {					
-            id	:	3	,		
-            eng	:	"Believe"	,
-            ru	:	"Верить"	
-            }	,				
-            {					
-            id	:	4	,		
-            eng	:	"I am proud of you"	,
-            ru	:	"Я горд за тебя. Я горжусь тобой.	"	
-            }	,				
-            {					
-            id	:	5	,		
-            eng	:	"I feel safe"	,
-            ru	:	"Я чувствую себя безопасно"	
-            }	,				
-            {					
-            id	:	6	,		
-            eng	:	"Make up ideas"	,
-            ru	:	"Придумывать идеи"	
-            }	,				
-            {					
-            id	:	7	,		
-            eng	:	"I do my best"	,
-            ru	:	"Я стараюсь по максимуму"	
-            }	,				
-            {					
-            id	:	8	,		
-            eng	:	"Achievements"	,
-            ru	:	"Достижения"	
-            }	,				
-            {					
-            id	:	9	,		
-            eng	:	"I am loved"	,
-            ru	:	"Меня любят"	
-            }	,				
-            {					
-            id	:	10	,		
-            eng	:	"I am not afraid of it"	,
-            ru	:	"Мне это не страшно"	
-            }	,				
-            {					
-            id	:	11	,		
-            eng	:	"My feelings matter"	,
-            ru	:	"Мои чувства имеют значение"	
-            }	,				
-            {					
-            id	:	12	,		
-            eng	:	"I take care of myself"	,
-            ru	:	"Я проявляю заботу о себе	"	
-            }	,				
-            {					
-            id	:	13	,		
-            eng	:	"They believe in themselves"	,
-            ru	:	"Они верят в себя"	
-            }	,				
-            {					
-            id	:	14	,		
-            eng	:	"She does her best"	,
-            ru	:	"Она старается по максимуму"	
-            }	,				
-            {					
-            id	:	15	,		
-            eng	:	"Are you proud of yourself?"	,
-            ru	:	"Ты горд за себя? Гордишься собой?	"	
-            }	,							
+    affirmations1: [
+        {
+            id:1,
+            eng:"Affirmation",
+            ru:"Аффирмация"
+            },
+            {
+            id:2,
+            eng:"Statement",
+            ru:"Утверждение"
+            },
+            {
+            id:3,
+            eng:"Believe",
+            ru:"Верить"
+            },
+            {
+            id:4,
+            eng:"I am proud of you",
+            ru:"Я горд за тебя. Я горжусь тобой."
+            },
+            {
+            id:5,
+            eng:"I feel safe",
+            ru:"Я чувствую себя безопасно"
+            },
+            {
+            id:6,
+            eng:"Make up ideas",
+            ru:"Придумывать идеи"
+            },
+            {
+            id:7,
+            eng:"I do my best",
+            ru:"Я стараюсь по максимуму"
+            },
+            {
+            id:8,
+            eng:"Achievements",
+            ru:"Достижения"
+            },
+            {
+            id:9,
+            eng:"I am loved",
+            ru:"Меня любят"
+            },
+            {
+            id:10,
+            eng:"I am not afraid of it",
+            ru:"Мне это не страшно"
+            },
+            {
+            id:11,
+            eng:"My feelings matter",
+            ru:"Мои чувства имеют значение"
+            },
+            {
+            id:12,
+            eng:"I take care of myself",
+            ru:"Я проявляю заботу о себе"
+            },
+            {
+            id:13,
+            eng:"They believe in themselves",
+            ru:"Они верят в себя"
+            },
+            {
+            id:14,
+            eng:"She does her best",
+            ru:"Она старается по максимуму"
+            },
+            {
+            id:15,
+            eng:"Are you proud of yourself?",
+            ru:"Ты горд за себя? Гордишься собой?"
+            },
+            {
+            id:16,
+            eng:"Awesome! /осм/",
+            ru:"Офигенно!"
+            },
+            {
+            id:17,
+            eng:"I feel happy",
+            ru:"Я чувствую себя счастливым"
+            },
+            {
+            id:18,
+            eng:"Overcome",
+            ru:"Преодолевать"
+            },
+            {
+            id:19,
+            eng:"Challenge",
+            ru:"Испытание, вызов"
+            },
+            {
+            id:20,
+            eng:"I trust myself",
+            ru:"Я доверяю себе"
+            },
+            {
+            id:21,
+            eng:"I follow my heart",
+            ru:"Я следую сердцу /харт/"
+            },
+            {
+            id:22,
+            eng:"I am the boss of my time",
+            ru:"Я хозяин своего времени"
+            },						
+    ],
+    affirmations2: [
+        {
+            id:1,
+            eng:"Affirmation",
+            ru:"Аффирмация"
+            },
+            {
+            id:2,
+            eng:"Statement",
+            ru:"Утверждение"
+            },
+            {
+            id:3,
+            eng:"Believe",
+            ru:"Верить"
+            },
+            {
+            id:4,
+            eng:"I am proud of you",
+            ru:"Я горд за тебя. Я горжусь тобой."
+            },
+            {
+            id:5,
+            eng:"I feel safe",
+            ru:"Я чувствую себя безопасно"
+            },
+            {
+            id:6,
+            eng:"Make up ideas",
+            ru:"Придумывать идеи"
+            },
+            {
+            id:7,
+            eng:"I do my best",
+            ru:"Я стараюсь по максимуму"
+            },
+            {
+            id:8,
+            eng:"Achievements",
+            ru:"Достижения"
+            },
+            {
+            id:9,
+            eng:"I am loved",
+            ru:"Меня любят"
+            },
+            {
+            id:10,
+            eng:"I am not afraid of it",
+            ru:"Мне это не страшно"
+            },
+            {
+            id:11,
+            eng:"My feelings matter",
+            ru:"Мои чувства имеют значение"
+            },
+            {
+            id:12,
+            eng:"I take care of myself",
+            ru:"Я проявляю заботу о себе"
+            },
+            {
+            id:13,
+            eng:"They believe in themselves",
+            ru:"Они верят в себя"
+            },
+            {
+            id:14,
+            eng:"She does her best",
+            ru:"Она старается по максимуму"
+            },
+            {
+            id:15,
+            eng:"Are you proud of yourself?",
+            ru:"Ты горд за себя? Гордишься собой?"
+            },
+            {
+            id:16,
+            eng:"Awesome! /осм/",
+            ru:"Офигенно!"
+            },
+            {
+            id:17,
+            eng:"I feel happy",
+            ru:"Я чувствую себя счастливым"
+            },
+            {
+            id:18,
+            eng:"Overcome",
+            ru:"Преодолевать"
+            },
+            {
+            id:19,
+            eng:"Challenge",
+            ru:"Испытание, вызов"
+            },
+            {
+            id:20,
+            eng:"I trust myself",
+            ru:"Я доверяю себе"
+            },
+            {
+            id:21,
+            eng:"I follow my heart",
+            ru:"Я следую сердцу /харт/"
+            },
+            {
+            id:22,
+            eng:"I am the boss of my time",
+            ru:"Я хозяин своего времени"
+            },							
+    ],
+    thirtieth: [
+        {
+            id:99,
+            eng:"first",
+            ru:"первый"
+            },
+            {
+            id:100,
+            eng:"second",
+            ru:"второй"
+            },
+            {
+            id:101,
+            eng:"third",
+            ru:"третий"
+            },
+            {
+            id:102,
+            eng:"fourth",
+            ru:"четвертый"
+            },
+            {
+            id:103,
+            eng:"fifth",
+            ru:"пятый"
+            },
+            {
+            id:104,
+            eng:"sixth",
+            ru:"шестой"
+            },
+            {
+            id:105,
+            eng:"eighth",
+            ru:"восьмой"
+            },
+            {
+            id:106,
+            eng:"ninth",
+            ru:"девятый"
+            },
+            {
+            id:107,
+            eng:"tenth",
+            ru:"десятый"
+            },
+            {
+            id:108,
+            eng:"twelvth",
+            ru:"двенадцатый"
+            },
+            {
+            id:109,
+            eng:"twentieth",
+            ru:"двадцатый"
+            },
+            {
+            id:110,
+            eng:"fortieth",
+            ru:"сороковой"
+            },
+            {
+            id:111,
+            eng:"fourteenth",
+            ru:"четырнадцатый"
+            },
+            {
+            id:112,
+            eng:"zeroth",
+            ru:"нулевой"
+            },
+            {
+            id:113,
+            eng:"thirtieth",
+            ru:"тринадцатый"
+            },
+            {
+            id:114,
+            eng:"hundredth",
+            ru:"сотый"
+            },
+            {
+            id:115,
+            eng:"thousandth",
+            ru:"тысячный"
+            },						
     ],
     formulas0: [
         {					

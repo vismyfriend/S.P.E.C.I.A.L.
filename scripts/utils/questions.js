@@ -1,162 +1,406 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
-    affirmations: [
-        {					
-            id	:	1	,		
-            eng	:	"	People have to believe in themselves. I believe in myself. Do you believe in yourself?	"	,
-            ru	:	"	Люди должны верить в себя. Я верю в себя. Ты веришь в себя?	"	
-            }	,				
-            {					
-            id	:	2	,		
-            eng	:	"	Do you think that you are in the right place, and at the right time? 	"	,
-            ru	:	"	Ты думаешь ты в нужном (правильном,верном, подходящем) месте и в подходящее время? 	"	
-            }	,				
-            {					
-            id	:	3	,		
-            eng	:	"	Some people say that everything is possible. What do you think? Is everything possible?	"	,
-            ru	:	"	Некоторые люди говорят, что всё возможно. Как ты думаешь? Всё ли возможно?	"	
-            }	,				
-            {					
-            id	:	4	,		
-            eng	:	"	I am grateful for my job, for my family, and for my health. What are you grateful for?	"	,
-            ru	:	"	Я благодарен за мою работу, за свою семью и за моё здоровье. За что ты благодарен?	"	
-            }	,				
-            {					
-            id	:	5	,		
-            eng	:	"	I choose my roads, my people, my life. I am like a magnet. I attract everything. /этрэкт/ 	"	,
-            ru	:	"	Я выбираю мои дороги, моих людей, мою жизнь. Я словно магнит. Я привлекаю и притягиваю всё.	"	
-            }	,				
-            {					
-            id	:	6	,		
-            eng	:	"	I am ready for challenges. Are you ready for challenges?	"	,
-            ru	:	"	Я готов к вызовам (испытаниям). Ты готов к испытаниям?	"	
-            }	,				
-            {					
-            id	:	7	,		
-            eng	:	"	I am proud of myself and I am proud of my big and small achievements. What are you proud of?	"	,
-            ru	:	"	Я горд за себя и я горд за свои маленькие и большие достижения.	"	
-            }	,				
-            {					
-            id	:	8	,		
-            eng	:	"	Do you believe that people can learn anything if they really want to know it.	"	,
-            ru	:	"	Твы верите в то, что люди могут выучить всё, что нужно если действительно захотят?	"	
-            }	,				
-            {					
-            id	:	9	,		
-            eng	:	"	I do my best! What about you? Do you do your best?	"	,
-            ru	:	"	Я делаю всё, что в моих силах. Ты стараешься изо всех сил? (Делаешь всё, что в товоих силах?)	"	
-            }	,				
-            {					
-            id	:	10	,		
-            eng	:	"	I am the boss of my time. Are you the boss of your time? Who is the boss of your time?	"	,
-            ru	:	"	Я хозяин своего времени. А ты хозяин своего времени? Кто хозяен твоего времени?	"	
-            }	,				
-            {					
-            id	:	11	,		
-            eng	:	"	Some people say they can overcome all fears. Do you have fears? Are you afraid of anything?	"	,
-            ru	:	"	Некоторые люди говорят, что они могут преодолеть все страхи. У тебя есть страхи? Ты чего-нибудь боишься?	"	
-            }	,				
-            {					
-            id	:	12	,		
-            eng	:	"	I love my family and I am loved by my family. Who do you love?	"	,
-            ru	:	"	Я люблю свою семью и я любим своей семьёй. Кого ты любишь?	"	
-            }	,				
-            {					
-            id	:	13	,		
-            eng	:	"	Money comes easily to me. Does money come easilyto you?	"	,
-            ru	:	"	Деньги приходят ко мне легко. Тебе легко достаются деньги?	"	
-            }	,				
-            {					
-            id	:	14	,		
-            eng	:	"	I trust my inner guide and follow it. /Иннэр гайд энд фОлоу ит/	"	,
-            ru	:	"	Я доверяю своему внутреннему гиду и следую.	"	
-            }	,				
-            {					
-            id	:	15	,		
-            eng	:	"	I take care of myself, body, spirit, and mind /майнд/ разум	"	,
-            ru	:	"	Я забочусь о себе, о своем теле, духе и разуме.	"	
-            }	,				
-            {					
-            id	:	16	,		
-            eng	:	"	I love English, it is the best language! Do you love English? Is it the best language?	"	,
-            ru	:	"	Неужели тебе серьезно нужна помощь с переводом этого предложения? Ну камон! Давай своими силами!	"	
-            }	,				
-            {					
-            id	:	17	,		
-            eng	:	"	I allow myself to make new mistakes because they help me grow. /эллАу/ позволять	"	,
-            ru	:	"	Я даю себе разрешение совершать новые ошибки, потому что они помогают мне расти	"	
-            }	,				
-            {					
-            id	:	18	,		
-            eng	:	"	It is not hard for me to speak with new people. Is it hard for you to speak with new people?	"	,
-            ru	:	"	Мне не трудно разговаривать с новыми людьми, а тебе?	"	
-            }	,				
-            {					
-            id	:	19	,		
-            eng	:	"	I have everything to achieve my goals. I have legs, arms, brain and my big heart /харт/.	"	,
-            ru	:	"	У меня есть всё, чтобы достичь своих целей. Ноги, руки, мозг и сердце.	"	
-            }	,				
-            {					
-            id	:	20	,		
-            eng	:	"	I always make up new brilliant ideas. What about your imagination? /имЭджинэйшн/?	"	,
-            ru	:	"	Я всегда придумываю новые великолепнейшие идеи. А как на счет твоего воображения?	"	
-            }	,				
-            {					
-            id	:	21	,		
-            eng	:	"	I am safe and I feel safe.	"	,
-            ru	:	"	Я в безопасности и я чувствую себя безопасно.	"	
-            }	,				
-            {					
-            id	:	22	,		
-            eng	:	"	There is no one better to be than myself	"	,
-            ru	:	"	Нет никого лучше (кем) быть, чем собой	"	
-            }	,				
-            {					
-            id	:	23	,		
-            eng	:	"	Today is going to be an amazing day	"	,
-            ru	:	"	Сегодня будет обалденный день	"	
-            }	,				
-            {					
-            id	:	24	,		
-            eng	:	"	My feelings matter 	"	,
-            ru	:	"	Мои чувства имеют значение	"	
-            }	,				
-            {					
-            id	:	25	,		
-            eng	:	"	I get better every single day	"	,
-            ru	:	"	Я становлюсь лучше каждый день	"	
-            }	,				
-            {					
-            id	:	26	,		
-            eng	:	"	I choose to feel happy	"	,
-            ru	:	"	Я выбираю чувствовать себя счастливым	"	
-            }	,				
-            {					
-            id	:	27	,		
-            eng	:	"	My family loves me so much!	"	,
-            ru	:	"	Моя семья очень сильно меня любит!	"	
-            }	,				
-            {					
-            id	:	28	,		
-            eng	:	"	I care about others 	"	,
-            ru	:	"	Я забочусь о других	"	
-            }	,				
-            {					
-            id	:	29	,		
-            eng	:	"	I learn from my mistakes	"	,
-            ru	:	"	Яучусь на своих ошибках	"	
-            }	,				
-            {					
-            id	:	30	,		
-            eng	:	"	I choose to feel happy	"	,
-            ru	:	"	Я выбираю чувствовать себя счастливым	"	
-            }	,				
-            {					
-            id	:	31	,		
-            eng	:	"	I am not afraid of what people think about me. Are you afraid of what people think about you?	"	,
-            ru	:	"	Мне не страшно, что люди подумают обо мне. А тебе страшно, что подумают о тебе люди?	"	
-            }	,				
-    ], 
+    affirmations1: [
+        {
+            id:1,
+            eng:"I believe in myself",
+            ru:"Я верю в себя"
+            },
+            {
+            id:2,
+            eng:"I am in the right place at the right time",
+            ru:"Я в правильном месте, в правильное время"
+            },
+            {
+            id:3,
+            eng:"Everything is possible and I can do anything",
+            ru:"Всё возможно и я смогу сделать всё"
+            },
+            {
+            id:4,
+            eng:"I am grateful for another day of life",
+            ru:"Я благодарен за еще один день своей жизни"
+            },
+            {
+            id:5,
+            eng:"I choose my roads, my people, my life",
+            ru:"Я выбираю мои дороги, моих людей, мою жизнь"
+            },
+            {
+            id:6,
+            eng:"I am ready for challenges",
+            ru:"Я готов к вызовам (испытаниям)."
+            },
+            {
+            id:7,
+            eng:"I am proud of myself and my achievements",
+            ru:"Я горд за себя и свои достижения"
+            },
+            {
+            id:8,
+            eng:"I will accomplish everything I need to do",
+            ru:"Я доведу до конца всё, что мне нужно сделать"
+            },
+            {
+            id:9,
+            eng:"I do my best, and my best is good enough",
+            ru:"Я делаю всё, что в моих силах и этого (моего лучшего) достаточно"
+            },
+            {
+            id:10,
+            eng:"I am the boss of my time.",
+            ru:"Я хозяин своего времени"
+            },
+            {
+            id:11,
+            eng:"I overcome my fears",
+            ru:"Я преодолеваю свои страхи"
+            },
+            {
+            id:12,
+            eng:"I love, and I am loved.",
+            ru:"Я люблю и я любим"
+            },
+            {
+            id:13,
+            eng:"Money comes easily to me.",
+            ru:"Деньги приходят ко мне легко."
+            },
+            {
+            id:14,
+            eng:"I trust my inner guide and follow it.",
+            ru:"Я доверяю своему внутреннему гиду и следую."
+            },
+            {
+            id:15,
+            eng:"I take care of myself, mind, body, and spirit.",
+            ru:"Я забочусь о себе, о своем теле, духе и разуме."
+            },
+            {
+            id:16,
+            eng:"I love English, it is the best language! ",
+            ru:"Я люблю английский, это самый лучший язык"
+            },
+            {
+            id:17,
+            eng:"I allow myself to make new mistakes because they help me grow.",
+            ru:"Я даю себе разрешение совершать новые ошибки, потому что они помогают мне расти"
+            },
+            {
+            id:18,
+            eng:"I accept myself and everyone, I don’t judge.",
+            ru:"/эксЭпт/ Я принимаю себя и каждого"
+            },
+            {
+            id:19,
+            eng:"I have everything to achieve my goals.",
+            ru:"У меня есть всё, чтобы достичь своих целей."
+            },
+            {
+            id:20,
+            eng:"I always make up new brilliant ideas.",
+            ru:"Я всегда придумываю новые великолепнейшие идеи. "
+            },
+            {
+            id:21,
+            eng:"I am safe and feel I am supported",
+            ru:"Я в безопасности и чувствую меня поддерживают"
+            },
+            {
+            id:22,
+            eng:"There is no one better to be than myself",
+            ru:"Нет никого лучше (кем) быть, чем собой"
+            },
+            {
+            id:23,
+            eng:"Today is going to be an amazing day",
+            ru:"Сегодня будет обалденный день"
+            },
+            {
+            id:24,
+            eng:"My feelings matter ",
+            ru:"Мои чувства имеют значение"
+            },
+            {
+            id:25,
+            eng:"I get better every single day",
+            ru:"Я становлюсь лучше каждый день"
+            },
+            {
+            id:26,
+            eng:"I choose to feel happy",
+            ru:"Я выбираю чувствовать себя счастливым"
+            },
+            {
+            id:27,
+            eng:"My family loves me so much!",
+            ru:"Моя семья очень сильно меня любит!"
+            },
+            {
+            id:28,
+            eng:"I care about others ",
+            ru:"Я забочусь о других"
+            },
+            {
+            id:29,
+            eng:"I learn from my mistakes",
+            ru:"Яучусь на своих ошибках"
+            },
+            {
+            id:30,
+            eng:"I choose to feel happy",
+            ru:"Я выбираю чувствовать себя счастливым"
+            },
+            {
+            id:31,
+            eng:"I am not afraid of what people think about me.",
+            ru:"Мне не страшно, что люди подумают обо мне"
+            },					
+    ],
+    affirmations2: [
+        {
+            id:1,
+            eng:"People have to believe in themselves. I believe in myself. Do you believe in yourself?",
+            ru:"Люди должны верить в себя. Я верю в себя. Ты веришь в себя?"
+            },
+            {
+            id:2,
+            eng:"Do you think that you are in the right place, and at the right time? ",
+            ru:"Ты думаешь ты в нужном (правильном,верном, подходящем) месте и в подходящее время? "
+            },
+            {
+            id:3,
+            eng:"Some people say that everything is possible. What do you think? Is everything possible?",
+            ru:"Некоторые люди говорят, что всё возможно. Как ты думаешь? Всё ли возможно?"
+            },
+            {
+            id:4,
+            eng:"I am grateful for my job, for my family, and for my health. What are you grateful for?",
+            ru:"Я благодарен за мою работу, за свою семью и за моё здоровье. За что ты благодарен?"
+            },
+            {
+            id:5,
+            eng:"I choose my roads, my people, my life. I am like a magnet. I attract everything. /этрэкт/ ",
+            ru:"Я выбираю мои дороги, моих людей, мою жизнь. Я словно магнит. Я привлекаю и притягиваю всё."
+            },
+            {
+            id:6,
+            eng:"I am ready for challenges. Are you ready for challenges?",
+            ru:"Я готов к вызовам (испытаниям). Ты готов к испытаниям?"
+            },
+            {
+            id:7,
+            eng:"I am proud of myself and I am proud of my big and small achievements. What are you proud of?",
+            ru:"Я горд за себя и я горд за свои маленькие и большие достижения."
+            },
+            {
+            id:8,
+            eng:"Do you believe that people can learn anything if they really want to know it.",
+            ru:"Твы верите в то, что люди могут выучить всё, что нужно если действительно захотят?"
+            },
+            {
+            id:9,
+            eng:"I do my best! What about you? Do you do your best?",
+            ru:"Я делаю всё, что в моих силах. Ты стараешься изо всех сил? (Делаешь всё, что в товоих силах?)"
+            },
+            {
+            id:10,
+            eng:"I am the boss of my time. Are you the boss of your time? Who is the boss of your time?",
+            ru:"Я хозяин своего времени. А ты хозяин своего времени? Кто хозяен твоего времени?"
+            },
+            {
+            id:11,
+            eng:"Some people say they can overcome all fears. Do you have fears? Are you afraid of anything?",
+            ru:"Некоторые люди говорят, что они могут преодолеть все страхи. У тебя есть страхи? Ты чего-нибудь боишься?"
+            },
+            {
+            id:12,
+            eng:"I love my family and I am loved by my family. Who do you love?",
+            ru:"Я люблю свою семью и я любим своей семьёй. Кого ты любишь?"
+            },
+            {
+            id:13,
+            eng:"Money comes easily to me. Does money come easilyto you?",
+            ru:"Деньги приходят ко мне легко. Тебе легко достаются деньги?"
+            },
+            {
+            id:14,
+            eng:"I trust my inner guide and follow it. /Иннэр гайд энд фОлоу ит/",
+            ru:"Я доверяю своему внутреннему гиду и следую."
+            },
+            {
+            id:15,
+            eng:"I take care of myself, body, spirit, and mind /майнд/ разум",
+            ru:"Я забочусь о себе, о своем теле, духе и разуме."
+            },
+            {
+            id:16,
+            eng:"I love English, it is the best language! Do you love English? Is it the best language?",
+            ru:"Неужели тебе серьезно нужна помощь с переводом этого предложения? Ну камон! Давай своими силами!"
+            },
+            {
+            id:17,
+            eng:"I allow myself to make new mistakes because they help me grow. /эллАу/ позволять",
+            ru:"Я даю себе разрешение совершать новые ошибки, потому что они помогают мне расти"
+            },
+            {
+            id:18,
+            eng:"It is not hard for me to speak with new people. Is it hard for you to speak with new people?",
+            ru:"Мне не трудно разговаривать с новыми людьми, а тебе?"
+            },
+            {
+            id:19,
+            eng:"I have everything to achieve my goals. I have legs, arms, brain and my big heart /харт/.",
+            ru:"У меня есть всё, чтобы достичь своих целей. Ноги, руки, мозг и сердце."
+            },
+            {
+            id:20,
+            eng:"I always make up new brilliant ideas. What about your imagination? /имЭджинэйшн/?",
+            ru:"Я всегда придумываю новые великолепнейшие идеи. А как на счет твоего воображения?"
+            },
+            {
+            id:21,
+            eng:"I am safe and I feel safe.",
+            ru:"Я в безопасности и я чувствую себя безопасно."
+            },
+            {
+            id:22,
+            eng:"There is no one better to be than myself",
+            ru:"Нет никого лучше (кем) быть, чем собой"
+            },
+            {
+            id:23,
+            eng:"Today is going to be an amazing day",
+            ru:"Сегодня будет обалденный день"
+            },
+            {
+            id:24,
+            eng:"My feelings matter ",
+            ru:"Мои чувства имеют значение"
+            },
+            {
+            id:25,
+            eng:"I get better every single day",
+            ru:"Я становлюсь лучше каждый день"
+            },
+            {
+            id:26,
+            eng:"I choose to feel happy",
+            ru:"Я выбираю чувствовать себя счастливым"
+            },
+            {
+            id:27,
+            eng:"My family loves me so much!",
+            ru:"Моя семья очень сильно меня любит!"
+            },
+            {
+            id:28,
+            eng:"I care about others ",
+            ru:"Я забочусь о других"
+            },
+            {
+            id:29,
+            eng:"I learn from my mistakes",
+            ru:"Яучусь на своих ошибках"
+            },
+            {
+            id:30,
+            eng:"I choose to feel happy",
+            ru:"Я выбираю чувствовать себя счастливым"
+            },
+            {
+            id:31,
+            eng:"I am not afraid of what people think about me. Are you afraid of what people think about you?",
+            ru:"Мне не страшно, что люди подумают обо мне. А тебе страшно, что подумают о тебе люди?"
+            },						
+    ],
+    thirtieth: [
+        {
+            id:99,
+            eng:"first",
+            ru:"первый"
+            },
+            {
+            id:100,
+            eng:"second",
+            ru:"второй"
+            },
+            {
+            id:101,
+            eng:"third",
+            ru:"третий"
+            },
+            {
+            id:102,
+            eng:"fourth",
+            ru:"четвертый"
+            },
+            {
+            id:103,
+            eng:"fifth",
+            ru:"пятый"
+            },
+            {
+            id:104,
+            eng:"sixth",
+            ru:"шестой"
+            },
+            {
+            id:105,
+            eng:"eighth",
+            ru:"восьмой"
+            },
+            {
+            id:106,
+            eng:"ninth",
+            ru:"девятый"
+            },
+            {
+            id:107,
+            eng:"tenth",
+            ru:"десятый"
+            },
+            {
+            id:108,
+            eng:"twelvth",
+            ru:"двенадцатый"
+            },
+            {
+            id:109,
+            eng:"twentieth",
+            ru:"двадцатый"
+            },
+            {
+            id:110,
+            eng:"fortieth",
+            ru:"сороковой"
+            },
+            {
+            id:111,
+            eng:"fourteenth",
+            ru:"четырнадцатый"
+            },
+            {
+            id:112,
+            eng:"zeroth",
+            ru:"нулевой"
+            },
+            {
+            id:113,
+            eng:"thirtieth",
+            ru:"тринадцатый"
+            },
+            {
+            id:114,
+            eng:"hundredth",
+            ru:"сотый"
+            },
+            {
+            id:115,
+            eng:"thousandth",
+            ru:"тысячный"
+            },						
+    ],
     testing: [
         {
             id: 1,
