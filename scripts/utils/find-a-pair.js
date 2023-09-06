@@ -40,32 +40,32 @@ const allCardsGameFindAPair = {
     affirmations1: [
         {
             id:1,
-            eng:"Affirmation",
+            eng:"Affirmation /эффирмэйшн/",
             ru:"Аффирмация"
             },
             {
             id:2,
-            eng:"Statement",
+            eng:"Statement /стЭйтмэнт/",
             ru:"Утверждение"
             },
             {
             id:3,
-            eng:"Believe",
+            eng:"Believe /белив/",
             ru:"Верить"
             },
             {
             id:4,
-            eng:"I am proud of you",
+            eng:"I am proud of you /прауд/",
             ru:"Я горд за тебя. Я горжусь тобой."
             },
             {
             id:5,
-            eng:"I feel safe",
+            eng:"I feel safe /сЭйф/",
             ru:"Я чувствую себя безопасно"
             },
             {
             id:6,
-            eng:"Make up ideas",
+            eng:"Make up ideas /Айдиас/",
             ru:"Придумывать идеи"
             },
             {
@@ -75,22 +75,22 @@ const allCardsGameFindAPair = {
             },
             {
             id:8,
-            eng:"Achievements",
+            eng:"Achievements /эчИвмэнтс/",
             ru:"Достижения"
             },
             {
             id:9,
-            eng:"I am loved",
+            eng:"I am loved /лавд/",
             ru:"Меня любят"
             },
             {
             id:10,
-            eng:"I am not afraid of it",
+            eng:"I am not afraid of it /нат эфрЭйд/",
             ru:"Мне это не страшно"
             },
             {
             id:11,
-            eng:"My feelings matter",
+            eng:"My feelings matter /мЭттэ/",
             ru:"Мои чувства имеют значение"
             },
             {
@@ -125,55 +125,75 @@ const allCardsGameFindAPair = {
             },
             {
             id:18,
-            eng:"Overcome",
+            eng:"Overcome /Оувэкам/",
             ru:"Преодолевать"
             },
             {
             id:19,
-            eng:"Challenge",
+            eng:"Challenge /челендж/",
             ru:"Испытание, вызов"
             },
             {
             id:20,
-            eng:"I trust myself",
+            eng:"I trust myself /траст майсэлф/",
             ru:"Я доверяю себе"
             },
             {
             id:21,
-            eng:"I follow my heart",
+            eng:"I follow my heart /фОллоу май харт/",
             ru:"Я следую сердцу /харт/"
             },
             {
             id:22,
             eng:"I am the boss of my time",
             ru:"Я хозяин своего времени"
-            },						
+            },
+            {
+            id:23,
+            eng:"A goal /гОул/",
+            ru:"Цель"
+            },
+            {
+            id:24,
+            eng:"Allow /элАу/",
+            ru:"Давать разрешение, позволять"
+            },
+            {
+            id:25,
+            eng:"Guide /гайд/",
+            ru:"Гид, путеводитель"
+            },
+            {
+            id:26,
+            eng:"Inner /Иннэ/",
+            ru:"Внутренний"
+            },					
     ],
     affirmations2: [
         {
             id:1,
-            eng:"Affirmation",
-            ru:"Аффирмация"
+            eng:"Affirmations",
+            ru:"Аффирмации"
             },
             {
             id:2,
-            eng:"Statement",
-            ru:"Утверждение"
+            eng:"Statements",
+            ru:"Утверждения"
             },
             {
             id:3,
-            eng:"Believe",
-            ru:"Верить"
+            eng:"Who do you believe?",
+            ru:"Кому ты веришь?"
             },
             {
             id:4,
-            eng:"I am proud of you",
-            ru:"Я горд за тебя. Я горжусь тобой."
+            eng:"Are you proud of this?",
+            ru:"Ты гордишься этим?"
             },
             {
             id:5,
-            eng:"I feel safe",
-            ru:"Я чувствую себя безопасно"
+            eng:"I don't feel safe",
+            ru:"Я не чувствую себя безопасно"
             },
             {
             id:6,
@@ -182,8 +202,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:7,
-            eng:"I do my best",
-            ru:"Я стараюсь по максимуму"
+            eng:"We do our best",
+            ru:"Мы стараемя по максимуму"
             },
             {
             id:8,
@@ -197,8 +217,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:10,
-            eng:"I am not afraid of it",
-            ru:"Мне это не страшно"
+            eng:"I am not afraid of anything",
+            ru:"Мне ничего не страшно"
             },
             {
             id:11,
@@ -222,13 +242,13 @@ const allCardsGameFindAPair = {
             },
             {
             id:15,
-            eng:"Are you proud of yourself?",
-            ru:"Ты горд за себя? Гордишься собой?"
+            eng:"They do their best",
+            ru:"Они стараются по максимуму"
             },
             {
             id:16,
-            eng:"Awesome! /осм/",
-            ru:"Офигенно!"
+            eng:"Awesome",
+            ru:"Офигенно"
             },
             {
             id:17,
@@ -237,18 +257,18 @@ const allCardsGameFindAPair = {
             },
             {
             id:18,
-            eng:"Overcome",
-            ru:"Преодолевать"
+            eng:"Overcome challenges",
+            ru:"Преодолевать испытания"
             },
             {
             id:19,
-            eng:"Challenge",
-            ru:"Испытание, вызов"
+            eng:"It's a hard challenge ",
+            ru:"Это трудный вызов"
             },
             {
             id:20,
-            eng:"I trust myself",
-            ru:"Я доверяю себе"
+            eng:"I trust only Vincent",
+            ru:"Я доверяю только училке!"
             },
             {
             id:21,
@@ -259,7 +279,22 @@ const allCardsGameFindAPair = {
             id:22,
             eng:"I am the boss of my time",
             ru:"Я хозяин своего времени"
-            },							
+            },
+            {
+            id:23,
+            eng:"A goal",
+            ru:"Цель"
+            },
+            {
+            id:24,
+            eng:"Allow",
+            ru:"Давать разрешение, позволять"
+            },
+            {
+            id:25,
+            eng:"Inner guide",
+            ru:"Внутреннее чутьё"
+            },						
     ],
     thirtieth: [
         {

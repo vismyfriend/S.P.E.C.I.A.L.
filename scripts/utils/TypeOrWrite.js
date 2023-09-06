@@ -77,28 +77,28 @@ const allWordsForGameTypeOrWrite = {
     affirmations1: [
         {
             id:1,
-            eng:"Affirmation",
-            ru:"Аффирмация"
+            eng:"Affirmations",
+            ru:"Аффирмации"
             },
             {
             id:2,
-            eng:"Statement",
-            ru:"Утверждение"
+            eng:"Statements",
+            ru:"Утверждения"
             },
             {
             id:3,
-            eng:"Believe",
-            ru:"Верить"
+            eng:"Who do you believe?",
+            ru:"Кому ты веришь?"
             },
             {
             id:4,
-            eng:"I am proud of you",
-            ru:"Я горд за тебя. Я горжусь тобой."
+            eng:"Are you proud of this?",
+            ru:"Ты гордишься этим?"
             },
             {
             id:5,
-            eng:"I feel safe",
-            ru:"Я чувствую себя безопасно"
+            eng:"I don't feel safe",
+            ru:"Я не чувствую себя безопасно"
             },
             {
             id:6,
@@ -107,8 +107,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:7,
-            eng:"I do my best",
-            ru:"Я стараюсь по максимуму"
+            eng:"We do our best",
+            ru:"Мы стараемя по максимуму"
             },
             {
             id:8,
@@ -122,8 +122,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:10,
-            eng:"I am not afraid of it",
-            ru:"Мне это не страшно"
+            eng:"I am not afraid of anything",
+            ru:"Мне ничего не страшно"
             },
             {
             id:11,
@@ -147,13 +147,13 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:15,
-            eng:"Are you proud of yourself?",
-            ru:"Ты горд за себя? Гордишься собой?"
+            eng:"They do their best",
+            ru:"Они стараются по максимуму"
             },
             {
             id:16,
-            eng:"Awesome! /осм/",
-            ru:"Офигенно!"
+            eng:"Awesome",
+            ru:"Офигенно"
             },
             {
             id:17,
@@ -162,18 +162,18 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:18,
-            eng:"Overcome",
-            ru:"Преодолевать"
+            eng:"Overcome challenges",
+            ru:"Преодолевать испытания"
             },
             {
             id:19,
-            eng:"Challenge",
-            ru:"Испытание, вызов"
+            eng:"It's a hard challenge ",
+            ru:"Это трудный вызов"
             },
             {
             id:20,
-            eng:"I trust myself",
-            ru:"Я доверяю себе"
+            eng:"I trust only Vincent",
+            ru:"Я доверяю только училке!"
             },
             {
             id:21,
@@ -184,33 +184,48 @@ const allWordsForGameTypeOrWrite = {
             id:22,
             eng:"I am the boss of my time",
             ru:"Я хозяин своего времени"
-            },						
+            },
+            {
+            id:23,
+            eng:"A goal",
+            ru:"Цель"
+            },
+            {
+            id:24,
+            eng:"Allow",
+            ru:"Давать разрешение, позволять"
+            },
+            {
+            id:25,
+            eng:"Inner guide",
+            ru:"Внутреннее чутьё"
+            },		
     ],
     affirmations2: [
         {
             id:1,
-            eng:"Affirmation",
-            ru:"Аффирмация"
+            eng:"Affirmations",
+            ru:"Аффирмации"
             },
             {
             id:2,
-            eng:"Statement",
-            ru:"Утверждение"
+            eng:"Statements",
+            ru:"Утверждения"
             },
             {
             id:3,
-            eng:"Believe",
-            ru:"Верить"
+            eng:"Who do you believe?",
+            ru:"Кому ты веришь?"
             },
             {
             id:4,
-            eng:"I am proud of you",
-            ru:"Я горд за тебя. Я горжусь тобой."
+            eng:"Are you proud of this?",
+            ru:"Ты гордишься этим?"
             },
             {
             id:5,
-            eng:"I feel safe",
-            ru:"Я чувствую себя безопасно"
+            eng:"I don't feel safe",
+            ru:"Я не чувствую себя безопасно"
             },
             {
             id:6,
@@ -219,8 +234,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:7,
-            eng:"I do my best",
-            ru:"Я стараюсь по максимуму"
+            eng:"We do our best",
+            ru:"Мы стараемя по максимуму"
             },
             {
             id:8,
@@ -234,8 +249,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:10,
-            eng:"I am not afraid of it",
-            ru:"Мне это не страшно"
+            eng:"I am not afraid of anything",
+            ru:"Мне ничего не страшно"
             },
             {
             id:11,
@@ -259,13 +274,13 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:15,
-            eng:"Are you proud of yourself?",
-            ru:"Ты горд за себя? Гордишься собой?"
+            eng:"They do their best",
+            ru:"Они стараются по максимуму"
             },
             {
             id:16,
-            eng:"Awesome! /осм/",
-            ru:"Офигенно!"
+            eng:"Awesome",
+            ru:"Офигенно"
             },
             {
             id:17,
@@ -274,18 +289,18 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:18,
-            eng:"Overcome",
-            ru:"Преодолевать"
+            eng:"Overcome challenges",
+            ru:"Преодолевать испытания"
             },
             {
             id:19,
-            eng:"Challenge",
-            ru:"Испытание, вызов"
+            eng:"It's a hard challenge ",
+            ru:"Это трудный вызов"
             },
             {
             id:20,
-            eng:"I trust myself",
-            ru:"Я доверяю себе"
+            eng:"I trust only Vincent",
+            ru:"Я доверяю только училке!"
             },
             {
             id:21,
@@ -296,7 +311,22 @@ const allWordsForGameTypeOrWrite = {
             id:22,
             eng:"I am the boss of my time",
             ru:"Я хозяин своего времени"
-            },							
+            },
+            {
+            id:23,
+            eng:"A goal",
+            ru:"Цель"
+            },
+            {
+            id:24,
+            eng:"Allow",
+            ru:"Давать разрешение, позволять"
+            },
+            {
+            id:25,
+            eng:"Inner guide",
+            ru:"Внутреннее чутьё"
+            },						
     ],
     thirtieth: [
         {

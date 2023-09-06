@@ -155,7 +155,7 @@ const allQuestionsOneDeck = {
             id:31,
             eng:"I am not afraid of what people think about me.",
             ru:"Мне не страшно, что люди подумают обо мне"
-            },				
+            },			
     ],
     affirmations2: [
         {
@@ -305,14 +305,14 @@ const allQuestionsOneDeck = {
             },
             {
             id:30,
-            eng:"I choose to feel happy",
-            ru:"Я выбираю чувствовать себя счастливым"
+            eng:"I choose to feel happy. No matter what!",
+            ru:"Я выбираю чувствовать себя счастливым. Во что бы то не было!"
             },
             {
             id:31,
             eng:"I am not afraid of what people think about me. Are you afraid of what people think about you?",
             ru:"Мне не страшно, что люди подумают обо мне. А тебе страшно, что подумают о тебе люди?"
-            },						
+            },				
     ],
     thirtieth: [
         {
