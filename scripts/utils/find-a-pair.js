@@ -296,6 +296,73 @@ const allCardsGameFindAPair = {
             ru:"Внутреннее чутьё"
             },						
     ],
+    naughtyVerbs: [
+        {
+            id:225,
+            eng:"ломать",
+            ru:"break , broke , broken"
+            },
+            {
+            id:226,
+            eng:"начинать",
+            ru:"begin , began , begun"
+            },
+            {
+            id:227,
+            eng:"дуть",
+            ru:"blow , blew , blown"
+            },
+            {
+            id:228,
+            eng:"строить",
+            ru:"build , built , built"
+            },
+            {
+            id:229,
+            eng:"сжигать, гореть",
+            ru:"burn , burnt , burnt"
+            },
+            {
+            id:230,
+            eng:"покупать",
+            ru:"buy , bought , bought"
+            },
+            {
+            id:231,
+            eng:"приносить",
+            ru:"bring , brought , brought"
+            },
+            {
+            id:232,
+            eng:"кусать",
+            ru:"bite , bit , bit"
+            },
+            {
+            id:233,
+            eng:"делать, выполнять",
+            ru:"do, did, done"
+            },
+            {
+            id:234,
+            eng:"пить, выпивать",
+            ru:"drink , drank , drunk"
+            },
+            {
+            id:235,
+            eng:"нарушать обещания",
+            ru:"Break promises"
+            },
+            {
+            id:236,
+            eng:"могу, мог",
+            ru:"can, could"
+            },
+            {
+            id:237,
+            eng:"Разбивать какие-то вещи",
+            ru:"Break some things"
+            },					
+    ],
     thirtieth: [
         {
             id:99,

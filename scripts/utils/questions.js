@@ -440,6 +440,198 @@ const allQuestionsOneDeck = {
             eng: " Question 7 eng "
         },
     ], 
+    naughtyVerbs: [
+        {
+            id:116,
+            eng:"Did you break any parts of your body?",
+            ru:"Ты сломал какие-либо части своего тела?"
+            },
+            {
+            id:117,
+            eng:"Did you break any things at home or at work?",
+            ru:"Ты сломал что-нибудь дома или на работе?"
+            },
+            {
+            id:118,
+            eng:"How do you feel if somebody breaks your things?",
+            ru:"Как ты чувствуешь себя, если кто-то ломает твои вещи?"
+            },
+            {
+            id:119,
+            eng:"If I break a screen on my phone, can you fix it?",
+            ru:"Если я сломаю экран на своем телефоне, ты можешь его починить?"
+            },
+            {
+            id:120,
+            eng:"How often does your car breaks?",
+            ru:"Как часто твоя машина ломается?"
+            },
+            {
+            id:121,
+            eng:"What things are easy to break?",
+            ru:"Какие вещи легко ломаются?"
+            },
+            {
+            id:122,
+            eng:"What's your favorite food to bite?",
+            ru:"Какая твоя любимая еда для укуса?"
+            },
+            {
+            id:123,
+            eng:"Do you sometimes bite your tongue when you eat?",
+            ru:"Ты иногда прикусываешь себе язык, когда ешь?"
+            },
+            {
+            id:124,
+            eng:"When did you bite your tongue the last time?",
+            ru:"Когда ты в последний раз прикусывал язык?"
+            },
+            {
+            id:125,
+            eng:"Do you like when children play with you and bite u?",
+            ru:"Тебе нравится, когда дети играют с тобой и кусают?"
+            },
+            {
+            id:126,
+            eng:"Do you know anybody who bites their nails?",
+            ru:"Ты знаешь кого-то, кто грызет ногти?"
+            },
+            {
+            id:127,
+            eng:"Can you bite your elbow? /Элбоу/",
+            ru:"Можешь ли ты укусить локоть?"
+            },
+            {
+            id:128,
+            eng:"What do you really want to buy?",
+            ru:"Что ты действительно хочешь купить?"
+            },
+            {
+            id:129,
+            eng:"Is any thing broken at your house now?",
+            ru:"Что-нибудь сломано у вас в доме сейчас?"
+            },
+            {
+            id:130,
+            eng:"When did you buy your phone? ",
+            ru:"Когда ты купил свой телефон?"
+            },
+            {
+            id:131,
+            eng:"Did you buy your phone or maybe somebody bought it for you?",
+            ru:"Ты купил свой телефон или, может быть, кто-то купил его для тебя?"
+            },
+            {
+            id:132,
+            eng:"Tell me about a time when you saved money to buy something special?",
+            ru:"Расскажи мне о случае, когда ты копил деньги, чтобы купить что-то особенное?"
+            },
+            {
+            id:133,
+            eng:"What do you have to bring with you when you go camping? ",
+            ru:"Что ты должен взять с собой, когда идешь в поход?"
+            },
+            {
+            id:134,
+            eng:"What do people usually bring when they come back home from other countries?",
+            ru:"Что обычно люди привозят с собой, когда возвращаются домой из других стран?"
+            },
+            {
+            id:135,
+            eng:"Did you bring animals to your house from the streets?",
+            ru:"Ты приносил животных с улицы к себе домой?"
+            },
+            {
+            id:136,
+            eng:"Do you like to build something from LEGO?",
+            ru:"Тебе нравится что-то строить из LEGO?"
+            },
+            {
+            id:137,
+            eng:"Did you build anything?",
+            ru:"Вы что-нибудь строили?"
+            },
+            {
+            id:138,
+            eng:"What do you think about body-building?",
+            ru:"Что ты думаешь о бодибилдинге?"
+            },
+            {
+            id:139,
+            eng:"Do you want to buy or build a house for your family?",
+            ru:"Ты хочешь купить или построить дом для своей семьи?"
+            },
+            {
+            id:140,
+            eng:"Did you build a house on a tree in childhood?",
+            ru:"Ты строил дом на дереве в детстве?"
+            },
+            {
+            id:141,
+            eng:"When was the last time you burnt a match? /мэч/ спичка",
+            ru:"Когда ты последний раз поджигал спичку?"
+            },
+            {
+            id:142,
+            eng:"Do you like to burn marshmallows over a campfire?",
+            ru:"Тебе нравится жарить зефир над костром?"
+            },
+            {
+            id:143,
+            eng:"Can you name 5 things that people can burn?",
+            ru:"Можешь ли назвать 5 вещей, которые люди могут поджигать?"
+            },
+            {
+            id:144,
+            eng:"Did you drink the energy drink that has a name “Burn”? If yes - Did you like it?",
+            ru:"Ты пил энергетический напиток с названием 'Burn'? Если да - тебе он понравился?"
+            },
+            {
+            id:145,
+            eng:"What can happen with paper when you bring it to fire? ",
+            ru:"Что может произойти с бумагой, когда ты подносишь ее к огню?"
+            },
+            {
+            id:146,
+            eng:"Did you burn anything when you cooked?",
+            ru:"Ты что-нибудь сжигал, когда готовил еду?"
+            },
+            {
+            id:147,
+            eng:"Do you like the atmosphere when candles burn /кЭндлz/  свечи",
+            ru:"Тебе нравится атмосфера, когда горят свечи?"
+            },
+            {
+            id:148,
+            eng:"Is it hard for you to begin something new?",
+            ru:"Тяжело ли для тебя начинать что-то новое?"
+            },
+            {
+            id:149,
+            eng:"When did you begin to learn English?",
+            ru:"Когда ты начал изучать английский?"
+            },
+            {
+            id:150,
+            eng:"What hobby did you begin the last?",
+            ru:"Какое хобби ты начал последнее?"
+            },
+            {
+            id:151,
+            eng:"Do you have any special traditions to begin the year?",
+            ru:"У тебя есть какие-то особенные традиции, чтобы начать новый год?"
+            },
+            {
+            id:152,
+            eng:"Did you blow balloons for a party? What party was it?",
+            ru:"Ты надувал шарики на вечеринке? Что это была за вечеринка? На какой вечеринке это было?"
+            },
+            {
+            id:153,
+            eng:"What do we have to do to stop the fire on a candle ? /кэндл/ свеча ",
+            ru:"Что нам нужно сделать, чтобы погасить огонь на свече?"
+            },
+    ], 
     testOneSeven: [
         {					
             id	:	1	,		
