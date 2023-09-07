@@ -444,12 +444,12 @@ const allQuestionsOneDeck = {
         {
             id:116,
             eng:"Did you break any parts of your body?",
-            ru:"Ты сломал какие-либо части своего тела?"
+            ru:"Ты ломал какие-либо части своего тела?"
             },
             {
             id:117,
             eng:"Did you break any things at home or at work?",
-            ru:"Ты сломал что-нибудь дома или на работе?"
+            ru:"Ты ломал что-нибудь дома или на работе?"
             },
             {
             id:118,
