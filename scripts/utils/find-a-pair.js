@@ -167,7 +167,12 @@ const allCardsGameFindAPair = {
             id:26,
             eng:"Inner /Иннэ/",
             ru:"Внутренний"
-            },					
+            },
+            {
+            id:27,
+            eng:"I do what I say",
+            ru:"Я делаю то, что я говорю"
+            },				
     ],
     affirmations2: [
         {

@@ -155,7 +155,22 @@ const allQuestionsOneDeck = {
             id:31,
             eng:"I am not afraid of what people think about me.",
             ru:"Мне не страшно, что люди подумают обо мне"
-            },			
+            },
+            {
+            id:32,
+            eng:"I keep my word and I do what I say.",
+            ru:"Я держу своё слово и я делаю то, что я говорю."
+            },
+            {
+            id:33,
+            eng:"I am strong and my family is strong.",
+            ru:"Моя семья крепкая и я сильный!"
+            },
+            {
+            id:34,
+            eng:"I am not lazy.",
+            ru:"Я не ленивый."
+            },		
     ],
     affirmations2: [
         {

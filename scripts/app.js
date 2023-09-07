@@ -324,6 +324,9 @@ function shuffleTypeOrWrite() {
 
 }
 
+// const theValueOnTheTopCardGameQuestions = null
+// const theValueOnTheBottomCardGameQuestions = null 
+
 function getquestions() {
     if (questionNumber < chooseQuestions.length) {
         cardForSpeakingGame.classList.remove("AnOpenCard")
@@ -334,6 +337,12 @@ function getquestions() {
         bottomOfTheCard1Value.textContent = value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
+        
+        // theValueOnTheTopCardGameQuestions = value.eng
+        //  theValueOnTheBottomCardGameQuestions = value.ru
+
+        // console.log(theValueOnTheTopCardGameQuestions)
+        // console.log(theValueOnTheBottomCardGameQuestions)
 
     } else {
         cardForSpeakingGame.classList.remove("AnOpenCard")
@@ -454,6 +463,9 @@ function chooseSet(text, set) {
     usedCheatsText.classList.remove("visible")
     starsEmoji.classList.remove("visible")
 }
+
+
+
 function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
     fryFuturamaMainScreenIntro.classList.add("noshow")
@@ -467,6 +479,7 @@ function startGameQuestions() {
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")
     interval = setInterval(startTimer, 10);
+    
 }
 
 function startGameFindPairs() {
