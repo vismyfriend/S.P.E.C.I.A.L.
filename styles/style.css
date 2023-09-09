@@ -1122,7 +1122,11 @@ color: #80FF01;
 .none {
     display: none;
 }
-
+.InfoUpdate {
+    color: #6ca7fa;
+    text-align: center;
+    margin-top: 50px;
+}
 .key {
     background-color: rgb(243, 243, 243);
     border: 2px solid black;

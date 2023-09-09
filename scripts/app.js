@@ -242,30 +242,30 @@ let timeToGet2StarResult = 75
 // let timeToGet3StarResult = 170
 // let timeToGet2StarResult = 210
 
-function howManyStarsScore () {
+function howManyStarsScore() {
 
     if (chosenArray.length < 12) {
         timeToGet5StarResult = 9
         timeToGet4StarResult = 12
         timeToGet3StarResult = 18
         timeToGet2StarResult = 22
-        
-    } else if (chosenArray.length  > 12 && chosenArray.length  < 20) {
+
+    } else if (chosenArray.length > 12 && chosenArray.length < 20) {
         timeToGet5StarResult = 15
         timeToGet4StarResult = 20
         timeToGet3StarResult = 30
         timeToGet2StarResult = 40
-    } else if (chosenArray.length  > 20 && chosenArray.length  < 40) {
+    } else if (chosenArray.length > 20 && chosenArray.length < 40) {
         timeToGet5StarResult = 20
         timeToGet4StarResult = 30
         timeToGet3StarResult = 40
         timeToGet2StarResult = 50
-    } else if (chosenArray.length  > 40 && chosenArray.length  < 59) {
+    } else if (chosenArray.length > 40 && chosenArray.length < 59) {
         timeToGet5StarResult = 40
         timeToGet4StarResult = 55
         timeToGet3StarResult = 70
         timeToGet2StarResult = 85
-    } else if (chosenArray.length  > 59 && chosenArray.length) {
+    } else if (chosenArray.length > 59 && chosenArray.length) {
         timeToGet5StarResult = 70
         timeToGet4StarResult = 80
         timeToGet3StarResult = 90
@@ -274,7 +274,7 @@ function howManyStarsScore () {
 }
 function starResult() {
     howManyStarsScore()
-   
+
 
     if (seconds < timeToGet5StarResult) {
         howManyStarsEmoji = 5
@@ -298,7 +298,7 @@ function starResult() {
 
     }
     // console.log("arrayLength",chosenArray.length)
-   
+
 }
 //выше  функция для высвечивания результата и количество звезд
 
@@ -337,7 +337,7 @@ function getquestions() {
         bottomOfTheCard1Value.textContent = value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
-        
+
         // theValueOnTheTopCardGameQuestions = value.eng
         //  theValueOnTheBottomCardGameQuestions = value.ru
 
@@ -479,7 +479,7 @@ function startGameQuestions() {
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")
     interval = setInterval(startTimer, 10);
-    
+
 }
 
 function startGameFindPairs() {
@@ -554,7 +554,7 @@ function getArray(set) {
     chooseTypeOrWrite = allWordsForGameTypeOrWrite[set].sort(function () {
         return Math.random() - 0.5;
     });
-    
+
 }
 
 
@@ -645,16 +645,16 @@ function nextWordToTranslate(inputPlaceholder) {
     } else {
         inputTitleEng.textContent = `Вы справились! Попробуйте другой набор слов`
         typeOrWriteGameСounter.textContent = `(${scoreTypeOrWriteGame} из ${chooseTypeOrWrite.length}) Correct ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
-
     }
-        inputPlaceholder.classList.add("none")
-        // playerInputType.textContent = `вы перевели:  ${scoreTypeOrWriteGame} из ${chooseTypeOrWrite.length}`
-    }
+    // inputPlaceholder.classList.add("none")
+    // playerInputType.textContent = `вы перевели:  ${scoreTypeOrWriteGame} из ${chooseTypeOrWrite.length}`
+}
 
 
 function compareInput() {
 
-    if (playerInputType.value === value.eng) {
+    // if (playerInputType.value === value.eng) {
+    if (playerInputType.value.toLowerCase() === value.eng.toLowerCase()) {
         nextWordToTranslate(inputTitleEng)
         playerInputType.value = ""
         scoreTypeOrWriteGame += 1
@@ -662,7 +662,7 @@ function compareInput() {
 
     } else {
         typeOrWriteGameСounter.textContent = `Хмм... чёт не то 🤷🏽‍♂️ может опечатка?! Проверь еще раз. Или сделай скриншот и отправь мне `
-     
+
 
     }
 
@@ -677,14 +677,14 @@ function compareInput() {
 // typeOrWriteGameButtonIDK.addEventListener("click", typeOrWriteIDKtheAnswer)
 
 
-function typeOrWriteGameSkip () {
+function typeOrWriteGameSkip() {
     nextWordToTranslate(inputTitleEng)
-        playerInputType.value = ""
+    playerInputType.value = ""
 }
 
 
 typeOrWriteGameButtonIDK.addEventListener("click", () => {
-    
+
     typeOrWriteGameСounter.textContent = `The answer is   << ${value.eng} >> `
     setTimeout(() => {
         typeOrWriteGameСounter.textContent = `верно:  ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
