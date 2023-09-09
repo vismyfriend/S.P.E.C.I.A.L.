@@ -37,6 +37,794 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"семь"	
             }	,				
     ],
+    bodyAdj: [
+        {
+            id:58,
+            eng:"Firm",
+            ru:"Упругий"
+            },
+            {
+            id:59,
+            eng:"Fit",
+            ru:"Спортивный, атлетичный, подтянутый"
+            },
+            {
+            id:60,
+            eng:"Slim",
+            ru:"Стройный"
+            },
+            {
+            id:61,
+            eng:"Wide",
+            ru:"Широкий"
+            },
+            {
+            id:62,
+            eng:"Fat",
+            ru:"Жирный"
+            },
+            {
+            id:63,
+            eng:"Short",
+            ru:"Короткий"
+            },
+            {
+            id:64,
+            eng:"Hairy",
+            ru:"Волосатый"
+            },
+            {
+            id:65,
+            eng:"Muscular",
+            ru:"Мускулистый"
+            },
+            {
+            id:66,
+            eng:"Large",
+            ru:"Крупный"
+            },
+            {
+            id:67,
+            eng:"Long",
+            ru:"Длинный"
+            },
+            {
+            id:68,
+            eng:"Pierced",
+            ru:"Проколотоый"
+            },
+            {
+            id:69,
+            eng:"Crooked",
+            ru:"Кривые"
+            },
+            {
+            id:70,
+            eng:"Round",
+            ru:"Круглый"
+            },
+            {
+            id:71,
+            eng:"Square",
+            ru:"Квадратный"
+            },
+            {
+            id:72,
+            eng:"Skinny",
+            ru:"Тощий"
+            },
+            {
+            id:73,
+            eng:"Thick",
+            ru:"Толстый"
+            },
+            {
+            id:74,
+            eng:"Thin",
+            ru:"Худой, Тонкий"
+            },
+            {
+            id:75,
+            eng:"Big",
+            ru:"Большой"
+            },
+            {
+            id:76,
+            eng:"Small",
+            ru:"Маленький"
+            },
+            {
+            id:77,
+            eng:"Upper",
+            ru:"Верхний"
+            },
+            {
+            id:78,
+            eng:"Lower",
+            ru:"Нижний"
+            },
+    ],
+    upperBody: [
+        {
+            id:1,
+            eng:"Head",
+            ru:"Голова"
+            },
+            {
+            id:2,
+            eng:"Ear",
+            ru:"Ухо"
+            },
+            {
+            id:3,
+            eng:"Ears",
+            ru:"Уши"
+            },
+            {
+            id:4,
+            eng:"Eye",
+            ru:"Глаз"
+            },
+            {
+            id:5,
+            eng:"Eyes",
+            ru:"Глаза"
+            },
+            {
+            id:6,
+            eng:"Nose",
+            ru:"Нос"
+            },
+            {
+            id:7,
+            eng:"Neck",
+            ru:"Шея"
+            },
+            {
+            id:8,
+            eng:"Mouth",
+            ru:"Рот"
+            },
+            {
+            id:9,
+            eng:"Lips",
+            ru:"Губы"
+            },
+            {
+            id:10,
+            eng:"Teeth",
+            ru:"Зубы"
+            },
+            {
+            id:11,
+            eng:"Tooth",
+            ru:"Зуб"
+            },
+            {
+            id:12,
+            eng:"Eyebrows",
+            ru:"Брови"
+            },
+            {
+            id:13,
+            eng:"Long Hair",
+            ru:"Длинные Волосы"
+            },
+            {
+            id:14,
+            eng:"Short Hair",
+            ru:"Короткие Волосы"
+            },
+            {
+            id:15,
+            eng:"Straight Hair",
+            ru:"Прямые Волосы"
+            },
+            {
+            id:16,
+            eng:"Wavy Hair",
+            ru:"Волнистые Волосы"
+            },
+            {
+            id:17,
+            eng:"Curly Hair",
+            ru:"Кудрявые Волосы"
+            },
+            {
+            id:18,
+            eng:"Bald",
+            ru:"Лысый"
+            },
+            {
+            id:19,
+            eng:"Beard",
+            ru:"Борода"
+            },
+            {
+            id:20,
+            eng:"Moustache",
+            ru:"Усы"
+            },
+            {
+            id:21,
+            eng:"Forehead",
+            ru:"Лоб"
+            },
+            {
+            id:22,
+            eng:"Tongue",
+            ru:"Язык"
+            },
+            {
+            id:23,
+            eng:"Cheeks",
+            ru:"Щёки"
+            },
+            {
+            id:24,
+            eng:"Chin",
+            ru:"Подбородок"
+            },
+            {
+            id:25,
+            eng:"Fringe",
+            ru:"Чёлка"
+            },
+            {
+            id:26,
+            eng:"Freckles",
+            ru:"Веснушки"
+            },
+            {
+            id:27,
+            eng:"Wrinkles",
+            ru:"Морщинки, cкладки"
+            },
+            {
+            id:28,
+            eng:"Tattoos",
+            ru:"Татуировки"
+            },		
+    ],
+    lowerBody: [
+        {
+            id:29,
+            eng:"Shoulders",
+            ru:"Плечи"
+            },
+            {
+            id:30,
+            eng:"Arms",
+            ru:"Руки"
+            },
+            {
+            id:31,
+            eng:"Arm",
+            ru:"Рука"
+            },
+            {
+            id:32,
+            eng:"Breast",
+            ru:"Грудь"
+            },
+            {
+            id:33,
+            eng:"Chest",
+            ru:"Грудная Клетка"
+            },
+            {
+            id:34,
+            eng:"Body",
+            ru:"Тело"
+            },
+            {
+            id:35,
+            eng:"Hands",
+            ru:"Кисти Рук"
+            },
+            {
+            id:36,
+            eng:"Belly button",
+            ru:"Пупок"
+            },
+            {
+            id:37,
+            eng:"Belly",
+            ru:"Пузико"
+            },
+            {
+            id:38,
+            eng:"Tummy",
+            ru:"Животик"
+            },
+            {
+            id:39,
+            eng:"Firm bottom",
+            ru:"Упругая попа"
+            },
+            {
+            id:40,
+            eng:"Beer Belly",
+            ru:"Пивное Пузо"
+            },
+            {
+            id:41,
+            eng:"Fingers",
+            ru:"Пальцы На Руках"
+            },
+            {
+            id:42,
+            eng:"Wrist",
+            ru:"Запястье"
+            },
+            {
+            id:43,
+            eng:"Lower back",
+            ru:"Поясница"
+            },
+            {
+            id:44,
+            eng:"Body",
+            ru:"Туловище, тело"
+            },
+            {
+            id:45,
+            eng:"Body parts",
+            ru:"Части Тела"
+            },
+            {
+            id:46,
+            eng:"Knee",
+            ru:"Колено"
+            },
+            {
+            id:47,
+            eng:"Knees",
+            ru:"Колени"
+            },
+            {
+            id:48,
+            eng:"Legs",
+            ru:"Ноги"
+            },
+            {
+            id:49,
+            eng:"A Foot",
+            ru:"Ступня"
+            },
+            {
+            id:50,
+            eng:"Toes",
+            ru:"Пальцы На Ногах"
+            },
+            {
+            id:51,
+            eng:"Hair",
+            ru:"Волосы"
+            },
+            {
+            id:52,
+            eng:"Back",
+            ru:"Спина"
+            },
+            {
+            id:53,
+            eng:"A Scar",
+            ru:"Шрам"
+            },
+            {
+            id:54,
+            eng:"Birthmark",
+            ru:"Родимое пятно"
+            },
+            {
+            id:55,
+            eng:"Mole",
+            ru:"Родинка"
+            },
+            {
+            id:56,
+            eng:"Heels",
+            ru:"Пятки"
+            },
+            {
+            id:57,
+            eng:"Abs",
+            ru:"Пресс (кубики на животе)"
+            },	
+    ],
+    allBodyParts: [
+        {
+            id:1,
+            eng:"Head",
+            ru:"Голова"
+            },
+            {
+            id:2,
+            eng:"Ear",
+            ru:"Ухо"
+            },
+            {
+            id:3,
+            eng:"Ears",
+            ru:"Уши"
+            },
+            {
+            id:4,
+            eng:"Eye",
+            ru:"Глаз"
+            },
+            {
+            id:5,
+            eng:"Eyes",
+            ru:"Глаза"
+            },
+            {
+            id:6,
+            eng:"Nose",
+            ru:"Нос"
+            },
+            {
+            id:7,
+            eng:"Neck",
+            ru:"Шея"
+            },
+            {
+            id:8,
+            eng:"Mouth",
+            ru:"Рот"
+            },
+            {
+            id:9,
+            eng:"Lips",
+            ru:"Губы"
+            },
+            {
+            id:10,
+            eng:"Teeth",
+            ru:"Зубы"
+            },
+            {
+            id:11,
+            eng:"Tooth",
+            ru:"Зуб"
+            },
+            {
+            id:12,
+            eng:"Eyebrows",
+            ru:"Брови"
+            },
+            {
+            id:13,
+            eng:"Long Hair",
+            ru:"Длинные Волосы"
+            },
+            {
+            id:14,
+            eng:"Short Hair",
+            ru:"Короткие Волосы"
+            },
+            {
+            id:15,
+            eng:"Straight Hair",
+            ru:"Прямые Волосы"
+            },
+            {
+            id:16,
+            eng:"Wavy Hair",
+            ru:"Волнистые Волосы"
+            },
+            {
+            id:17,
+            eng:"Curly Hair",
+            ru:"Кудрявые Волосы"
+            },
+            {
+            id:18,
+            eng:"Bald",
+            ru:"Лысый"
+            },
+            {
+            id:19,
+            eng:"Beard",
+            ru:"Борода"
+            },
+            {
+            id:20,
+            eng:"Moustache",
+            ru:"Усы"
+            },
+            {
+            id:21,
+            eng:"Forehead",
+            ru:"Лоб"
+            },
+            {
+            id:22,
+            eng:"Tongue",
+            ru:"Язык"
+            },
+            {
+            id:23,
+            eng:"Cheeks",
+            ru:"Щёки"
+            },
+            {
+            id:24,
+            eng:"Chin",
+            ru:"Подбородок"
+            },
+            {
+            id:25,
+            eng:"Fringe",
+            ru:"Чёлка"
+            },
+            {
+            id:26,
+            eng:"Freckles",
+            ru:"Веснушки"
+            },
+            {
+            id:27,
+            eng:"Wrinkles",
+            ru:"Морщинки, cкладки"
+            },
+            {
+            id:28,
+            eng:"Tattoos",
+            ru:"Татуировки"
+            },
+            {
+            id:29,
+            eng:"Shoulders",
+            ru:"Плечи"
+            },
+            {
+            id:30,
+            eng:"Arms",
+            ru:"Руки"
+            },
+            {
+            id:31,
+            eng:"Arm",
+            ru:"Рука"
+            },
+            {
+            id:32,
+            eng:"Breast",
+            ru:"Грудь"
+            },
+            {
+            id:33,
+            eng:"Chest",
+            ru:"Грудная Клетка"
+            },
+            {
+            id:34,
+            eng:"Body",
+            ru:"Тело"
+            },
+            {
+            id:35,
+            eng:"Hands",
+            ru:"Кисти Рук"
+            },
+            {
+            id:36,
+            eng:"Belly button",
+            ru:"Пупок"
+            },
+            {
+            id:37,
+            eng:"Belly",
+            ru:"Пузико"
+            },
+            {
+            id:38,
+            eng:"Tummy",
+            ru:"Животик"
+            },
+            {
+            id:39,
+            eng:"Firm bottom",
+            ru:"Упругая попа"
+            },
+            {
+            id:40,
+            eng:"Beer Belly",
+            ru:"Пивное Пузо"
+            },
+            {
+            id:41,
+            eng:"Fingers",
+            ru:"Пальцы На Руках"
+            },
+            {
+            id:42,
+            eng:"Wrist",
+            ru:"Запястье"
+            },
+            {
+            id:43,
+            eng:"Lower back",
+            ru:"Поясница"
+            },
+            {
+            id:44,
+            eng:"Body",
+            ru:"Туловище, тело"
+            },
+            {
+            id:45,
+            eng:"Body parts",
+            ru:"Части Тела"
+            },
+            {
+            id:46,
+            eng:"Knee",
+            ru:"Колено"
+            },
+            {
+            id:47,
+            eng:"Knees",
+            ru:"Колени"
+            },
+            {
+            id:48,
+            eng:"Legs",
+            ru:"Ноги"
+            },
+            {
+            id:49,
+            eng:"A Foot",
+            ru:"Ступня"
+            },
+            {
+            id:50,
+            eng:"Toes",
+            ru:"Пальцы На Ногах"
+            },
+            {
+            id:51,
+            eng:"Hair",
+            ru:"Волосы"
+            },
+            {
+            id:52,
+            eng:"Back",
+            ru:"Спина"
+            },
+            {
+            id:53,
+            eng:"A Scar",
+            ru:"Шрам"
+            },
+            {
+            id:54,
+            eng:"Birthmark",
+            ru:"Родимое пятно"
+            },
+            {
+            id:55,
+            eng:"Mole",
+            ru:"Родинка"
+            },
+            {
+            id:56,
+            eng:"Heels",
+            ru:"Пятки"
+            },
+            {
+            id:57,
+            eng:"Abs",
+            ru:"Пресс (кубики на животе)"
+            },
+            {
+            id:58,
+            eng:"Firm",
+            ru:"Упругий"
+            },
+            {
+            id:59,
+            eng:"Fit",
+            ru:"Спортивный, атлетичный, подтянутый"
+            },
+            {
+            id:60,
+            eng:"Slim",
+            ru:"Стройный"
+            },
+            {
+            id:61,
+            eng:"Wide",
+            ru:"Широкий"
+            },
+            {
+            id:62,
+            eng:"Fat",
+            ru:"Жирный"
+            },
+            {
+            id:63,
+            eng:"Short",
+            ru:"Короткий"
+            },
+            {
+            id:64,
+            eng:"Hairy",
+            ru:"Волосатый"
+            },
+            {
+            id:65,
+            eng:"Muscular",
+            ru:"Мускулистый"
+            },
+            {
+            id:66,
+            eng:"Large",
+            ru:"Крупный"
+            },
+            {
+            id:67,
+            eng:"Long",
+            ru:"Длинный"
+            },
+            {
+            id:68,
+            eng:"Pierced",
+            ru:"Проколотоый"
+            },
+            {
+            id:69,
+            eng:"Crooked",
+            ru:"Кривые"
+            },
+            {
+            id:70,
+            eng:"Round",
+            ru:"Круглый"
+            },
+            {
+            id:71,
+            eng:"Square",
+            ru:"Квадратный"
+            },
+            {
+            id:72,
+            eng:"Skinny",
+            ru:"Тощий"
+            },
+            {
+            id:73,
+            eng:"Thick",
+            ru:"Толстый"
+            },
+            {
+            id:74,
+            eng:"Thin",
+            ru:"Худой, Тонкий"
+            },
+            {
+            id:75,
+            eng:"Big",
+            ru:"Большой"
+            },
+            {
+            id:76,
+            eng:"Small",
+            ru:"Маленький"
+            },
+            {
+            id:77,
+            eng:"Upper",
+            ru:"Верхний"
+            },
+            {
+            id:78,
+            eng:"Lower",
+            ru:"Нижний"
+            },	
+    ],
     testing: [
         {					
             id	:	1	,		
@@ -3668,339 +4456,6 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"	главный повар	"	
             }	,				
     ],
-    bodyParts0: [
-        {					
-            id	:	1	,		
-            eng	:	"	A head / э хЭд/	"	,
-            ru	:	"	голова	"	
-            }	,				
-            {					
-            id	:	2	,		
-            eng	:	"	An ear / эн Иэ/	"	,
-            ru	:	"	ухо	"	
-            }	,				
-            {					
-            id	:	3	,		
-            eng	:	"	Ears / Иаз/	"	,
-            ru	:	"	уши	"	
-            }	,				
-            {					
-            id	:	4	,		
-            eng	:	"	An eye / эн Ай/	"	,
-            ru	:	"	Глаз	"	
-            }	,				
-            {					
-            id	:	5	,		
-            eng	:	"	Eyes / айз/	"	,
-            ru	:	"	глаза	"	
-            }	,				
-            {					
-            id	:	6	,		
-            eng	:	"	A nose / э ноУз/	"	,
-            ru	:	"	нос	"	
-            }	,				
-            {					
-            id	:	7	,		
-            eng	:	"	A neck / э нЭк/	"	,
-            ru	:	"	шея	"	
-            }	,				
-            {					
-            id	:	8	,		
-            eng	:	"	A mouth / мауTH/	"	,
-            ru	:	"	рот	"	
-            }	,				
-            {					
-            id	:	9	,		
-            eng	:	"	Lips / липс/	"	,
-            ru	:	"	губы	"	
-            }	,				
-            {					
-            id	:	10	,		
-            eng	:	"	Hair / хЭа/	"	,
-            ru	:	"	волосы	"	
-            }	,				
-            {					
-            id	:	11	,		
-            eng	:	"	Hairs	"	,
-            ru	:	"	волоски	"	
-            }	,				
-            {					
-            id	:	12	,		
-            eng	:	"	Teeth / тиTH/	"	,
-            ru	:	"	зубы	"	
-            }	,				
-            {					
-            id	:	13	,		
-            eng	:	"	A tooth / э туТH/	"	,
-            ru	:	"	зуб	"	
-            }	,				
-            {					
-            id	:	14	,		
-            eng	:	"	Arms / амз/	"	,
-            ru	:	"	руки	"	
-            }	,				
-            {					
-            id	:	15	,		
-            eng	:	"	Legs / лэгз/	"	,
-            ru	:	"	ноги	"	
-            }	,				
-            {					
-            id	:	16	,		
-            eng	:	"	An arm / эн арм/	"	,
-            ru	:	"	рука	"	
-            }	,				
-            {					
-            id	:	17	,		
-            eng	:	"	a breast / э брЭст/	"	,
-            ru	:	"	грудь	"	
-            }	,				
-            {					
-            id	:	18	,		
-            eng	:	"	a chest / чест/	"	,
-            ru	:	"	грудная клетка	"	
-            }	,				
-            {					
-            id	:	19	,		
-            eng	:	"	A body / бОди/	"	,
-            ru	:	"	тело	"	
-            }	,				
-            {					
-            id	:	20	,		
-            eng	:	"	wide / уайд/	"	,
-            ru	:	"	широкий	"	
-            }	,				
-            {					
-            id	:	21	,		
-            eng	:	"	fat / фЭт/	"	,
-            ru	:	"	жирный	"	
-            }	,				
-            {					
-            id	:	22	,		
-            eng	:	"	eye-brows / ай брАуз/	"	,
-            ru	:	"	брови	"	
-            }	,				
-            {					
-            id	:	23	,		
-            eng	:	"	shoulders / шОулдэз/	"	,
-            ru	:	"	плечи	"	
-            }	,				
-            {					
-            id	:	24	,		
-            eng	:	"	short / шорт/	"	,
-            ru	:	"	короткий	"	
-            }	,				
-            {					
-            id	:	25	,		
-            eng	:	"	hairy / хЭйри/	"	,
-            ru	:	"	волосатый	"	
-            }	,				
-            {					
-            id	:	26	,		
-            eng	:	"	hands / хэндз/	"	,
-            ru	:	"	кисти рук	"	
-            }	,				
-            {					
-            id	:	27	,		
-            eng	:	"	muscular / мАскьюла/	"	,
-            ru	:	"	мускулистый	"	
-            }	,				
-            {					
-            id	:	28	,		
-            eng	:	"	large / ладж/	"	,
-            ru	:	"	крупный	"	
-            }	,				
-            {					
-            id	:	29	,		
-            eng	:	"	long / лон/	"	,
-            ru	:	"	длинный	"	
-            }	,				
-            {					
-            id	:	30	,		
-            eng	:	"	pierced / пирст/	"	,
-            ru	:	"	проколотоый	"	
-            }	,				
-            {					
-            id	:	31	,		
-            eng	:	"	belly button / бЭли бАтн/"	,
-            ru	:	"	 пупок (дословно: кнопка на пузе)	"	
-            }	,				
-            {					
-            id	:	32	,		
-            eng	:	"	belly	"	,
-            ru	:	"	пузико	"	
-            }	,				
-            {					
-            id	:	33	,		
-            eng	:	"	tummy / тамми/	"	,
-            ru	:	"	животик	"	
-            }	,				
-            {					
-            id	:	34	,		
-            eng	:	"	firm / фёрм/	"	,
-            ru	:	"	упругая	"	
-            }	,				
-            {					
-            id	:	35	,		
-            eng	:	"	bottom / ботм/	"	,
-            ru	:	"	попа	"	
-            }	,				
-            {					
-            id	:	36	,		
-            eng	:	"	beer belly / бИр бЭли/	"	,
-            ru	:	"	пивное пузо	"	
-            }	,				
-            {					
-            id	:	37	,		
-            eng	:	"	knee /ни/	"	,
-            ru	:	"	колено	"	
-            }	,				
-            {					
-            id	:	38	,		
-            eng	:	"	knees / низ/	"	,
-            ru	:	"	колени	"	
-            }	,				
-            {					
-            id	:	39	,		
-            eng	:	"	a scar / э скА/	"	,
-            ru	:	"	шрам	"	
-            }	,				
-            {					
-            id	:	40	,		
-            eng	:	"	a foot / фут/	"	,
-            ru	:	"	ступня	"	
-            }	,				
-            {					
-            id	:	41	,		
-            eng	:	"	toes / тоУз/ 	"	,
-            ru	:	"	пальцы на ногах	"	
-            }	,				
-            {					
-            id	:	42	,		
-            eng	:	"	fingers / фИнГерз/	"	,
-            ru	:	"	пальцы на руках	"	
-            }	,				
-            {					
-            id	:	43	,		
-            eng	:	"	crooked / крукИд/	"	,
-            ru	:	"	кривые	"	
-            }	,				
-            {					
-            id	:	44	,		
-            eng	:	"	round / рАунд/	"	,
-            ru	:	"	круглый	"	
-            }	,				
-            {					
-            id	:	45	,		
-            eng	:	"	square / скуЭэ/	"	,
-            ru	:	"	квадратный	"	
-            }	,				
-            {					
-            id	:	46	,		
-            eng	:	"	long hair	"	,
-            ru	:	"	длинные волосы	"	
-            }	,				
-            {					
-            id	:	47	,		
-            eng	:	"	short hair	"	,
-            ru	:	"	короткие волосы	"	
-            }	,				
-            {					
-            id	:	48	,		
-            eng	:	"	skinny / скИни/	"	,
-            ru	:	"	тощий	"	
-            }	,				
-            {					
-            id	:	49	,		
-            eng	:	"	straight hair / стрЭйт хЭа/	"	,
-            ru	:	"	прямые волосы	"	
-            }	,				
-            {					
-            id	:	50	,		
-            eng	:	"	wavy hair / уЭви хЭа/	"	,
-            ru	:	"	волнистые волосы	"	
-            }	,				
-            {					
-            id	:	51	,		
-            eng	:	"	curly hair / кЁли хэа/	"	,
-            ru	:	"	кудрявые волосы	"	
-            }	,				
-            {					
-            id	:	52	,		
-            eng	:	"	bald / бОлд/	"	,
-            ru	:	"	лысый	"	
-            }	,				
-            {					
-            id	:	53	,		
-            eng	:	"	a birthmark / бЁthмак/	"	,
-            ru	:	"	родимое пятно	"	
-            }	,				
-            {					
-            id	:	54	,		
-            eng	:	"	a mole / э мОул/	"	,
-            ru	:	"	родинка	"	
-            }	,				
-            {					
-            id	:	55	,		
-            eng	:	"	a beard / э бИЕд/	"	,
-            ru	:	"	борода	"	
-            }	,				
-            {					
-            id	:	56	,		
-            eng	:	"	a moustache / э мАсташ/	"	,
-            ru	:	"	усы	"	
-            }	,				
-            {					
-            id	:	57	,		
-            eng	:	"	freckles / фрЭклз/	"	,
-            ru	:	"	веснушки	"	
-            }	,				
-            {					
-            id	:	58	,		
-            eng	:	"	wrinkles / ринклз/	"	,
-            ru	:	"	морщинки, складки	"	
-            }	,				
-            {					
-            id	:	59	,		
-            eng	:	"	cheeks / чикс /	"	,
-            ru	:	"	щёки	"	
-            }	,				
-            {					
-            id	:	60	,		
-            eng	:	"	tattoos / татУз /	"	,
-            ru	:	"	татуировки	"	
-            }	,	
-            {					
-                id	:	61	,		
-                eng	:	"	thick	"	,
-                ru	:	"	толстый	"	
-                }	,				
-                {					
-                id	:	62	,		
-                eng	:	"	thin	"	,
-                ru	:	"	худой, тонкий	"	
-                }	,				
-                {					
-                id	:	63	,		
-                eng	:	"	forehead / фОхэд /	"	,
-                ru	:	"	лоб	"	
-                }	,				
-                {					
-                id	:	64	,		
-                eng	:	"	tongue / тан /	"	,
-                ru	:	"	язык	"	
-                }	,				
-                {					
-                id	:	65	,		
-                eng	:	"	back / бЭк /	"	,
-                ru	:	"	спина	"	
-                }	,				
-                {					
-                id	:	66	,		
-                eng	:	"	chin	"	,
-                ru	:	"	подбородок	"	
-                }	,							
-        
-    ],
     mission90: [
         {
             id: 1,
@@ -4688,566 +5143,6 @@ const allWordsForGameTypeOrWrite = {
             ru: "	семь	",
             eng: "	seven	"
         },
-    ],
-    bodypartsa2: [
-        {
-            id: 1,
-            ru: "	моя голова круглая	",
-            eng: "	my head is round	"
-        },
-        {
-            id: 2,
-            ru: "	её шея длинная	",
-            eng: "	her neck is long	"
-        },
-        {
-            id: 3,
-            ru: "	густые брови	",
-            eng: "	thick eyebrows	"
-        },
-        {
-            id: 4,
-            ru: "	за синими глазами	",
-            eng: "	behind blue eyes	"
-        },
-        {
-            id: 5,
-            ru: "	длинные светлые волосы	",
-            eng: "	long blond hair	"
-        },
-        {
-            id: 6,
-            ru: "Мои уши проколоты",
-            eng: "	My ears are pierced"
-        },
-        {
-            id: 7,
-            ru: "	око за око (глаз за глаз)	",
-            eng: "	an eye for an eye	"
-        },
-        {
-            id: 8,
-            ru: "	У него сэкси моно бровь	",
-            eng: "	He has a sexy mono eyebrow	"
-        },
-        {
-            id: 9,
-            ru: "	Его нос острый	",
-            eng: "	His nose is pointed	"
-        },
-        {
-            id: 10,
-            ru: "	Мои губы липкие	",
-            eng: "	My lips are sticky	"
-        },
-        {
-            id: 11,
-            ru: "	Нет зубов нет проблем	",
-            eng: "	No teeth no problems	"
-        },
-        {
-            id: 12,
-            ru: "	Это один зуб	",
-            eng: "	It is a tooth	"
-        },
-        {
-            id: 13,
-            ru: "	У них жирные щёки	",
-            eng: "	They have fat cheeks	"
-        },
-        {
-            id: 14,
-            ru: "	мой двойной подбородок мускулистый	",
-            eng: "	my double chin is muscular	"
-        },
-        {
-            id: 15,
-            ru: "	Его грудь не волосатая",
-            eng: "	His chest is not hairy	"
-        },
-        {
-            id: 16,
-            ru: "	её левая грудь больше 	",
-            eng: "	her left breast is bigger	"
-        },
-        {
-            id: 17,
-            ru: "	волосатая спина это новая мода	",
-            eng: "	a hairy back is a new fashion	"
-        },
-        {
-            id: 18,
-            ru: "	широкие плечи привлекательны	",
-            eng: "	wide shoulders are attractive	"
-        },
-        {
-            id: 19,
-            ru: "	У него мускулистые руки?	",
-            eng: "	Does he have muscular arms?	"
-        },
-        {
-            id: 20,
-            ru: "	Это сделано руками?	",
-            eng: "	Is it handmade?	"
-        },
-        {
-            id: 21,
-            ru: "	У нас короткие пальцы	",
-            eng: "	We have short fingers	"
-        },
-        {
-            id: 22,
-            ru: "	пальцы на ногах - не игрушки	",
-            eng: "	toes are not toys	"
-        },
-        {
-            id: 23,
-            ru: "	Никто не может лизнуть локоть	",
-            eng: "	nobody can lick an elbow	"
-        },
-        {
-            id: 24,
-            ru: "	У него большой лоб	",
-            eng: "	He has a big forehead	"
-        },
-        {
-            id: 25,
-            ru: "	чёлка - это волосы на лбу	",
-            eng: "	a fringe is hair on the forehead	"
-        },
-        {
-            id: 26,
-            ru: "	У неё упругий животик	",
-            eng: "	She has a firm tummy	"
-        },
-        {
-            id: 27,
-            ru: "	У него пивное пузико	",
-            eng: "	He has a beer belly	"
-        },
-        {
-            id: 28,
-            ru: "	татуировки на коленках это плохо	",
-            eng: "	tattoos on the knees are bad	"
-        },
-        {
-            id: 29,
-            ru: "	Шевели своими ступнями",
-            eng: "	Move your feet	"
-        },
-        {
-            id: 30,
-            ru: "	ступня - это не еда	",
-            eng: "	a foot is not food	"
-        },
-        {
-            id: 31,
-            ru: "	пятка - опасное место	",
-            eng: "	a heel is a dangerous place	"
-        },
-        {
-            id: 32,
-            ru: "	высокие каблуки	",
-            eng: "	high heels	"
-        },
-        {
-            id: 33,
-            ru: "	кнопка на пузе (пупок)	",
-            eng: "	a belly button	"
-        },
-        {
-            id: 34,
-            ru: "	Я тебе надеру зад",
-            eng: "	I will kick your butt (ass)	"
-        },
-        {
-            id: 35,
-            ru: "	кривые ноги	это круто",
-            eng: "	crooked legs are cool	"
-        },
-        {
-            id: 36,
-            ru: "	шрам на любимой попе	",
-            eng: "	a scar on my lovely bottom	"
-        },
-        {
-            id: 37,
-            ru: "	пиво /бир/ на бороде /биед/	",
-            eng: "	beer is on the beard	"
-        },
-        {
-            id: 38,
-            ru: "	птица /бёд/ в бороде /биед/	",
-            eng: "	a bird is in the beard	"
-        },
-        {
-            id: 39,
-            ru: "	родинка на моей щеке	",
-            eng: "	a mole on my chin	"
-        },
-        {
-            id: 40,
-            ru: "	У Винсента родимое пятно	",
-            eng: "	V has a birthmark	"
-        },
-        {
-            id: 41,
-            ru: "	ямочка на подбородке	",
-            eng: "	a dimple on the chin	"
-        },
-        {
-            id: 42,
-            ru: "	милые морщинки	",
-            eng: "	cute wrinkles	"
-        },
-        {
-            id: 43,
-            ru: "	у Фрекен Бок есть веснушки	",
-            eng: "	Фрекен Бок has freckles	"
-        },
-        {
-            id: 44,
-            ru: "	кисти рук	",
-            eng: "	hands	"
-        },
-        {
-            id: 45,
-            ru: "	у неё усы!	",
-            eng: "	she has a moustache	"
-        },
-        {
-            id: 46,
-            ru: "	Когда-то я была тощей	",
-            eng: "	I used to be skinny	"
-        },
-        {
-            id: 47,
-            ru: "	Когда-то у меня были волосы	",
-            eng: "	I used to have hair	"
-        },
-        {
-            id: 48,
-            ru: "	Мой учитель лысый	",
-            eng: "	my teacher is bald	"
-        },
-        {
-            id: 49,
-            ru: "	Мышь во рту!	",
-            eng: "	a mouse is in the mouth	"
-        },
-        {
-            id: 50,
-            ru: "	Мои уши проколоты	",
-            eng: "	My ears are pierced	"
-        },
-        {
-            id: 51,
-            ru: "	одно ухо	",
-            eng: "	an ear	/Иа/"
-        },
-        {
-            id: 52,
-            ru: "	Его волосы кудрявые	",
-            eng: "	His hair is curly	"
-        },
-        {
-            id: 53,
-            ru: "	У меня прямые волосы	",
-            eng: "	I have straight hair	"
-        },
-        {
-            id: 54,
-            ru: "	Её волосы волнистые	",
-            eng: "	Her hair is wavy	"
-        },
-    ],
-    bodypartsa1: [
-        {
-            id: 1,
-            ru: "	голова	",
-            eng: "	a head	"
-        },
-        {
-            id: 2,
-            ru: "	шея	",
-            eng: "	a neck	"
-        },
-        {
-            id: 3,
-            ru: "	брови	",
-            eng: "	eyebrows	"
-        },
-        {
-            id: 4,
-            ru: "	карие глаза	",
-            eng: "	brown eyes	"
-        },
-        {
-            id: 5,
-            ru: "	длинные светлые волосы	",
-            eng: "	long blond hair	"
-        },
-        {
-            id: 6,
-            ru: "	большие уши	",
-            eng: "	big ears	"
-        },
-        {
-            id: 7,
-            ru: "	один глаз	",
-            eng: "	an eye	"
-        },
-        {
-            id: 8,
-            ru: "	бровь	",
-            eng: "	an eyebrow	"
-        },
-        {
-            id: 9,
-            ru: "	острый нос	",
-            eng: "	a pointed nose	"
-        },
-        {
-            id: 10,
-            ru: "	губы	",
-            eng: "	lips "
-        },
-        {
-            id: 11,
-            ru: "	зубыыыыы	",
-            eng: "	teeth	"
-        },
-        {
-            id: 12,
-            ru: "	зууууб	",
-            eng: "	a tooth	"
-        },
-        {
-            id: 13,
-            ru: "	щёки	",
-            eng: "	cheeks	"
-        },
-        {
-            id: 14,
-            ru: "	двойной подбородок	",
-            eng: "	double chin	"
-        },
-        {
-            id: 15,
-            ru: "	грудь (грудная клетка)	",
-            eng: "	a chest	"
-        },
-        {
-            id: 16,
-            ru: "	женская грудь 	",
-            eng: "	breast	"
-        },
-        {
-            id: 17,
-            ru: "	волосатая спина	",
-            eng: "	a hairy back	"
-        },
-        {
-            id: 18,
-            ru: "	широкие плечи	",
-            eng: "	wide shoulders	"
-        },
-        {
-            id: 19,
-            ru: "	мускулистые руки	",
-            eng: "	muscular arms	"
-        },
-        {
-            id: 20,
-            ru: "	сделано кистями рук	",
-            eng: "	handmade	"
-        },
-        {
-            id: 21,
-            ru: "	короткие пальцы	",
-            eng: "	short fingers	"
-        },
-        {
-            id: 22,
-            ru: "	пальцы ног",
-            eng: "	toes /тоУз/"
-        },
-        {
-            id: 23,
-            ru: "	локоть	",
-            eng: "	an elbow	"
-        },
-        {
-            id: 24,
-            ru: "	лоб	",
-            eng: "	a forehead	"
-        },
-        {
-            id: 25,
-            ru: "	чёлка	",
-            eng: "	a fringe	"
-        },
-        {
-            id: 26,
-            ru: "животик	",
-            eng: " tummy	"
-        },
-        {
-            id: 27,
-            ru: "	пузико	",
-            eng: "	 belly	"
-        },
-        {
-            id: 28,
-            ru: "	татуировки	",
-            eng: "	tattoos on "
-        },
-        {
-            id: 29,
-            ru: "	ступни	",
-            eng: "	feet	"
-        },
-        {
-            id: 30,
-            ru: "	ступня	",
-            eng: "	a foot	"
-        },
-        {
-            id: 31,
-            ru: "	пятка	",
-            eng: "	a heel	"
-        },
-        {
-            id: 32,
-            ru: "	высокие каблуки	",
-            eng: "	high heels	"
-        },
-        {
-            id: 33,
-            ru: "	кнопка на пузе (пупок)	",
-            eng: "	a belly button	"
-        },
-        {
-            id: 34,
-            ru: "	попа	",
-            eng: "	bottom	"
-        },
-        {
-            id: 35,
-            ru: "	 ноги	",
-            eng: "	 legs	"
-        },
-        {
-            id: 36,
-            ru: "	шрам 	",
-            eng: "	a scar 	"
-        },
-        {
-            id: 37,
-            ru: "	борода 	",
-            eng: "	beard /биед/	"
-        },
-        {
-            id: 38,
-            ru: "	усы	",
-            eng: "	moustache /мАсташ/	"
-        },
-        {
-            id: 39,
-            ru: "	родинка	",
-            eng: "	a mole	/мОул/"
-        },
-        {
-            id: 40,
-            ru: "	родимое пятно	",
-            eng: "	a birthmark	"
-        },
-        {
-            id: 41,
-            ru: "	ямочка 	",
-            eng: "	a dimple 	"
-        },
-        {
-            id: 42,
-            ru: "	 морщинки	",
-            eng: "	 wrinkles	"
-        },
-        {
-            id: 43,
-            ru: "	веснушки	",
-            eng: "	 freckles	"
-        },
-        {
-            id: 44,
-            ru: "	кисти рук	",
-            eng: "	hands	"
-        },
-        {
-            id: 45,
-            ru: "	стройный	",
-            eng: "	slim	"
-        },
-        {
-            id: 46,
-            ru: "	тощий	",
-            eng: "	skinny	"
-        },
-        {
-            id: 47,
-            ru: "	волосы	",
-            eng: "	hair	"
-        },
-        {
-            id: 48,
-            ru: "	 лысый	",
-            eng: "	 bald	"
-        },
-        {
-            id: 49,
-            ru: "	рот	",
-            eng: "	mouth	"
-        },
-        {
-            id: 50,
-            ru: "	уши	",
-            eng: "	ears	"
-        },
-        {
-            id: 51,
-            ru: "	одно ухо	",
-            eng: "	an ear	"
-        },
-        {
-            id: 52,
-            ru: "	кудрявые	",
-            eng: "	curly	"
-        },
-        {
-            id: 53,
-            ru: "	прямые 	",
-            eng: "	straight /стрЭйт/	"
-        },
-        {
-            id: 54,
-            ru: "	  волнистые	",
-            eng: "	   wavy	"
-        },
-        {
-            id: 55,
-            ru: "	колено	",
-            eng: " a knee /ни/	"
-        },
-        {
-            id: 56,
-            ru: "	упругий	",
-            eng: "	firm / фёрм/"
-        },
-        {
-            id: 55,
-            ru: "	колени	",
-            eng: " knees /низ/	"
-        },
-
     ],
     Irregular_verbs_1_form: [
         {

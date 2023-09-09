@@ -4,24 +4,22 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./styles/style.css">
-
     <!-- 0003 ниже две строки уточнить у Andrew откуда это появилось, что мы нажали?-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/jpg" href="./images/favicon-32x32.png">
     <title>vismyfriend</title>
-
-    
 </head>
 
 <body class="body">
     <header class="header">
-        <p class="headerPageReoad"> закрыть ❌ </p>
+        <div class="searchMission">
+            <input type="text" class="search input" placeholder=" 🔎 find mission...">
+            <p class="headerPageReoad"> закрыть ❌ </p>
+        </div>
     </header>
     <p class="usedCheatsText">нажимай на карточку <br> и читай вопрос вслух</p>
-
     <main class="main">
-
         <div class="mainContainer1">
             <!-- кнопка для приветственного аудио трека (музыка) когда её нет пропадает иконка отклчить звук -->
             <!-- <button class="helloMusicStartButton">Hello, Special Agent <br> привет, спЭшл эЙджент</button> -->
@@ -37,9 +35,7 @@
                 <ul class="popupMissionsAndSets__sets">
                     <button class="scroll-left"></button>
                     <button class="scroll-right"></button>
-
                     <!-- <li class="popupMissionsAndSets__set" data-set="testing"> ... </li>       -->
-
                     <!-- <li class="popupMissionsAndSets__set" data-set="testOneSeven">test 1-7</li> -->
                     <li class="popupMissionsAndSets__set green" data-set="numbers0">Numbers</li>
                     <li class="popupMissionsAndSets__set" data-set="letters">Letters</li>
@@ -48,9 +44,11 @@
                     <li class="popupMissionsAndSets__set" data-set="formulas0"> + / - </li>
                     <!-- <li class="popupMissionsAndSets__set" data-set="mission2">Ty Teen</li> -->
                     <li class="popupMissionsAndSets__set" data-set="mission1">Mission 1</li>
-                    <li class="popupMissionsAndSets__set" data-set="bodyParts0"> Bоdy Parts A1 </li>
-                    <li class="popupMissionsAndSets__set yellow" data-set="affirmations1">Affirmations 1</li>
                     <li class="popupMissionsAndSets__set" data-set="thirtieth">THirtieTH</li>
+                    <li class="popupMissionsAndSets__set" data-set="bodyAdj">Body Adj.</li>
+                    <li class="popupMissionsAndSets__set" data-set="upperBody">Upper Body</li>
+                    <li class="popupMissionsAndSets__set green" data-set="lowerBody">Lower Body</li>
+                    <li class="popupMissionsAndSets__set yellow" data-set="affirmations1">Affirmations 1</li>
                     <li class="popupMissionsAndSets__set pink" data-set="naughtyVerbs">Naughty Verbs</li>
                     <li class="popupMissionsAndSets__set green" data-set="affirmations2">Affirmations 2</li>
                     <li class="popupMissionsAndSets__set" data-set="q1"> Q1 </li>
@@ -80,7 +78,6 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="musicCheck"> заблокирован </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="new_mission"> coming soon </li>
                     <!-- <li class="popupMissionsAndSets__set" data-set="mission90">Миссия ZER0</li> -->
-
                     <!-- 
                     <li class="popupMissionsAndSets__set" data-set="mission3">Mission THREE</li>
                     <li class="popupMissionsAndSets__set" data-set="travel">Travel</li>
@@ -102,8 +99,6 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="Irregular_verbs_1_form"> coming soon</li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="Irregular_verbs_En_Ru"> coming soon</li> -->
                 </ul>
-
-                <!-- уточнить у Andrew можно ли это сократить -->
                 <div class="popupMissionsAndSets__gameFindAPair">
                     <img src="./images/eyesmonkey.png">
                     <p> Find a pair </p>
@@ -124,39 +119,30 @@
                     <img src="./images/earsmonkey.png">
                     <p> Slot machine</p>
                 </div>
-                <!-- раскомментировать и скопировать кнопку ниже для новой игры
-                тут какая-то странная ситауция - если это закомментить то пропадают игры -->
-
+                <!-- раскомментировать и скопировать кнопку ниже для новой игры-->
                 <!-- <div class="popupMissionsAndSets__copyThisForNewGames">
                     <img src="./images/Brain.png">
                     <p> ... </p>
                 </div> -->
-
                 <button class="try-again hidden"> Yes! </button>
             </div>
-
             <img class="logo-special" src="./images/special logo square black and white.png" alt="Logo Special">
             <img class="fryFuturamaMainScreenIntro" src="./images/FryFuturama.png" alt="FryFuturama">
             <img class="homerPicture" src="./images/Gomer.png" alt="homerPicture">
-
             <div class="gameFindAPair">
                 <p class="gameFindAPair-info">найдено пар:</p>
                 <p class="timer"><span id="seconds">00</span>:<span id="tens">00</span></p>
-
                 <div class="gameFindAPair__container"></div>
-
                 <div class="gameFindAPairButtons">
                     <button class="gameFindAPairButtonBackToMissions">вернуться к <br> выбору миссий</button>
                     <button class="gameFindAPairButtonSkipThese">skip this <br> пропустить </button>
                     <button class="gameFindAPairButtonNotUsed">NotUsed</button>
                 </div>
             </div>
-
             <!-- Что такое template у Andrew уточнить-->
             <template class="template">
                 <p class="card"></p>
             </template>
-
             <!-- уточнить у Andrew почему здесь сперва нижнее подчеркивание а потом тоже самое в конце -->
             <div class="oneDeckOfCards_cardForSpeakingGame hiddenDeck oneDeckOfCards">
                 <div class="oneDeckOfCards__topOfTheCard1">
@@ -166,38 +152,27 @@
                     <p class="oneDeckOfCards__bottomOfTheCard1Value">информация на нижней части карточки</p>
                 </div>
             </div>
-
             <div class="oneDeckButtons">
                 <button class="oneDeckButtonPrevious"> shuffle <br> перемешать </button>
                 <button class="oneDeckButtonCheck"> показать <br> ответ </button>
                 <button class="oneDeckButtonNext"> next </button>
-
             </div>
-
             <div class="insertANewGameHere">
-
-                <!-- в планах вставить сюда игру про бендера c Божьей помощью =) То есть с Andrew-->
-
+                <!-- в планах вставить сюда игру про бендера c Божьей помощью =)-->
             </div>
-
-
             <!-- добавляем фоновую музыку на старте - строчкой ниже создается монстр трэк неотключаемый даже 
                 при закрытии браузера поэтому закоменчу пока-->
             <!-- <audio class="missionMusicBackground" src="./audio/mission background musicVolume50.mp3" autoplay loop></audio> -->
             <audio class="audio" src="./audio/MissionMusicDefaultGoldfinger.mp3"></audio>
-
-
             <!-- wtf пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java -->
             <!-- <audio class="audioIconOnOffTrack" src="./audio/MissionMusicDefaultGoldfinger.mp3"></audio> -->
             <!-- Пока звуки только со сторонних сайтов подгружаются, а не из папки со звкуами и на телефоне фотовая музыка не играет -->
             <button class="audioIcon"></button>
             <button class="audioIconOnOff"></button>
             <button class="missionMusicBackgroundIconButton"></button>
-
         </div>
         <div class="mainContainer2 none">
             <div class="BenderWordOrderGameContainer-mistake">
-
                 <h3 class="BenderWordOrderGameTask-eng">Oops! Упс, минус жизька</h3>
                 <p class="BenderWordOrderGameTask-ru-mistake">Без паники, Агент... Сравни ответы и порядок слов, <br>
                     возможно вы всё верно
@@ -206,7 +181,6 @@
                 <p class="BenderWordOrderGameSentence-correct"> Ответ робота: <br> A robot wants to drink and eat</p>
                 <p class="BenderWordOrderGameSentence BenderWordOrderGameUser-answer"> Ваш ответ: <br> A robot wants to
                     eat and drink</p>
-
                 <div class="BenderWordOrderGameButtons">
                     <button class="BenderWordOrderGameFair"> Ok. Мой косяк! Погнали дальше!</button>
                     <button class="BenderWordOrderGameUnfair"> Нечестно!!! Мой ответ тоже верный, it is not a mistake.
@@ -216,7 +190,6 @@
                     этого экрана и
                     отправьте мне в телеграм. Вдруг здесь и правда нет ошибки, обсудим, разберём.
                     Click here to continue ! </button>
-
             </div>
             <div class="BenderWordOrderGameContainer-one">
                 <div class="BenderWordOrderGameLives">
@@ -226,8 +199,6 @@
                 <p class="BenderWordOrderGameTask-ru">Нажимай на слова, в правильном порядке. <br> (Для отмены - нажми
                     на слово еще раз)</p>
                 <ul class="BenderWordOrderGameWords">
-
-
                 </ul>
                 <p class="BenderWordOrderGameSentence BenderWordOrderGameInput-sentence"></p>
                 <div class="BenderWordOrderGameButtons">
@@ -248,11 +219,9 @@
         <template class="BenderWordOrderGameTemplate">
             <li class="BenderWordOrderGameWord"></li>
         </template>
-
         <div class="mainContainer3 none">
             <div class="typeOrWriteGameMainScreen">
                 <h3 class="BenderWordOrderGameTask-eng inputTitleEng"> здесь будет слово на английском </h3>
-
                 <input class="playerInputType" type="text" placeholder="введите здесь перевод">
                 <div class="BenderWordOrderGameButtons">
                     <button class="typeOrWriteGameButtonSkip">skip</button>
@@ -274,7 +243,6 @@
                 <div class="key">I</div>
                 <div class="key">O</div>
                 <div class="key">P</div>
-
                 <div class="key key-span">A</div>
                 <div class="key">S</div>
                 <div class="key">D</div>
@@ -284,7 +252,6 @@
                 <div class="key">J</div>
                 <div class="key">K</div>
                 <div class="key">L</div>
-
                 <div class="key key-span-1">Z</div>
                 <div class="key">X</div>
                 <div class="key">C</div>
@@ -293,13 +260,11 @@
                 <div class="key">N</div>
                 <div class="key">M</div>
                 <div class="key">.</div>
-
                 <div class="key key-span-2">Space</div>
+                <div class="key key-span-3">🔙del</div>
+            </div>
+        </div>
 
-                <div class="key key-span-3">del</div>
-            </div>
-            </div>
-            
         </div>
     </main>
 

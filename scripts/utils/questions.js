@@ -1,5 +1,1440 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+    bodyAdj: [
+        {
+            id:80,
+            eng:"Do you like long hair or do you like short hair?",
+            ru:"Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair."
+            },
+            {
+            id:81,
+            eng:"What is the English for 'Ухо'?",
+            ru:"Как будет 'Ухо' на инглише? An ear /эн Иэ/"
+            },
+            {
+            id:82,
+            eng:"What is the English for 'Уши'?",
+            ru:"Как сказать 'Уши' на-английском? Ears /иаз/"
+            },
+            {
+            id:83,
+            eng:"What is the English for 'Один глаз'?",
+            ru:"Как по-английски 'Один глаз' сказать? An eye /эн Ай/"
+            },
+            {
+            id:84,
+            eng:"Is your teacher fat or skinny?",
+            ru:"Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!"
+            },
+            {
+            id:85,
+            eng:"Do you have hair on your back?",
+            ru:"У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!"
+            },
+            {
+            id:86,
+            eng:"Can you move your nose without hands? Show me, please",
+            ru:"Вы можете/умеете шевелить носом без помощи рук?"
+            },
+            {
+            id:87,
+            eng:"What color is your hair?",
+            ru:"Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…"
+            },
+            {
+            id:88,
+            eng:"What color are Vincent's eyes?",
+            ru:"Какого цвета глаза Ви? Vincent's eyes are blue."
+            },
+            {
+            id:89,
+            eng:"Do you have tattoos? If yes - where do you have them?",
+            ru:"У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest"
+            },
+            {
+            id:90,
+            eng:"Why are you so sexy?",
+            ru:"Почему вы такие сексуальные? Because I go to the GYM and I eat good food."
+            },
+            {
+            id:91,
+            eng:"Am I cute and attractive?",
+            ru:"Я милая/милый и привлекательная/ый? Of course you are! Very much!"
+            },
+            {
+            id:92,
+            eng:"Does Vincent have hair on his head?",
+            ru:"У Ви есть волосы на голове? Hmmmm… It is a secret…"
+            },
+            {
+            id:93,
+            eng:"Does your favorite actor have a muscular body?",
+            ru:"У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has."
+            },
+            {
+            id:94,
+            eng:"What color are your eyes?",
+            ru:"Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…"
+            },
+            {
+            id:95,
+            eng:"What color are my eyes?",
+            ru:"Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes"
+            },
+            {
+            id:96,
+            eng:"What color are your father'seyes?",
+            ru:"Какого цвета глаза твоего отца? My father's eyes are brown"
+            },
+            {
+            id:97,
+            eng:"Do you have scars?",
+            ru:"У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…"
+            },
+            {
+            id:98,
+            eng:"Does your best friend have scars?",
+            ru:"У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…"
+            },
+            {
+            id:99,
+            eng:"What part of your body do you like very much?",
+            ru:"Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!"
+            },
+            {
+            id:100,
+            eng:"Can you move your ears?",
+            ru:"Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!"
+            },
+            {
+            id:101,
+            eng:"How many teeth do you have?",
+            ru:"Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…"
+            },
+            {
+            id:102,
+            eng:"Are your ears pierced? (Do you have pierced ears?)",
+            ru:"Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced."
+            },
+            {
+            id:103,
+            eng:"Does any of your friends have tattoos? What tattoos and where do they have it?",
+            ru:"У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?"
+            },
+            {
+            id:104,
+            eng:"What color is your parents' hair?",
+            ru:"Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes."
+            },
+            {
+            id:105,
+            eng:"What color is your best friend's hair?",
+            ru:"Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,"
+            },
+            {
+            id:106,
+            eng:"Is your hair wavy or straight? Or do you have curly hair?",
+            ru:"Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair."
+            },
+            {
+            id:107,
+            eng:"What color lipstick is very attractive?",
+            ru:"Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much."
+            },
+            {
+            id:108,
+            eng:"Do you like to have a beautiful necklace on your neck?",
+            ru:"Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)"
+            },
+            {
+            id:109,
+            eng:"How many teeth does your teacher have?",
+            ru:"Сколько зубов у твоего учителя? My teacher has twenty eight teeth"
+            },
+            {
+            id:110,
+            eng:"Are your arms strong and muscular?",
+            ru:"Твои руки сильные и мускулистые? Of course they are! They are super strong!"
+            },
+            {
+            id:111,
+            eng:"Do you know anybody who has a very muscular body?",
+            ru:"Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…"
+            },
+            {
+            id:112,
+            eng:"Does a big bottom look attractive?",
+            ru:"Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive."
+            },
+            {
+            id:113,
+            eng:"What is the English for 'пальцы на ногах' ?",
+            ru:"Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/"
+            },
+            {
+            id:114,
+            eng:"Do you like men with a hairy chest?",
+            ru:"Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest."
+            },
+            {
+            id:115,
+            eng:"Is it attractive and sexy when a man has wide shoulders?",
+            ru:"Это привлекательно, когда у мужчины широкие плечи?"
+            },
+            {
+            id:116,
+            eng:"Does your teacher have a mono eye-brow?",
+            ru:"У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!"
+            },
+            {
+            id:117,
+            eng:"How often do you wash your hands?",
+            ru:"Как часто ты моешь руки? I wash my hands every day"
+            },
+            {
+            id:118,
+            eng:"Does everybody have a belly button or maybe somebody doesn't have it?",
+            ru:"У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!"
+            },
+            {
+            id:119,
+            eng:"Is it true that one breast is always bigger than another?",
+            ru:"Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true."
+            },
+            {
+            id:120,
+            eng:"What shampoo do you use when you wash your hair and shoulders?",
+            ru:"Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo"
+            },
+            {
+            id:121,
+            eng:"Is your head round or square?",
+            ru:"Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!"
+            },
+            {
+            id:122,
+            eng:"Are you a tall or short person?",
+            ru:"Ты высокий или низкий человек? I am not very tall and not very short"
+            },
+            {
+            id:123,
+            eng:"Does your teacher have a beer belly or a firm tummy?",
+            ru:"У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin."
+            },
+            {
+            id:124,
+            eng:"Do you have scars on your knees?",
+            ru:"У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&"
+            },
+            {
+            id:125,
+            eng:"What do you have in the middle of your leg?",
+            ru:"Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)"
+            },
+            {
+            id:126,
+            eng:"Are your legs straight or crooked?",
+            ru:"Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)"
+            },
+            {
+            id:127,
+            eng:"What is the difference between toys and toes?",
+            ru:"В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз"
+            },
+            {
+            id:128,
+            eng:"How many fingers do you have on your hands?",
+            ru:"Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes"
+            },
+            {
+            id:129,
+            eng:"How many toes do you have?",
+            ru:"Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers"
+            },
+            {
+            id:130,
+            eng:"Does your grandmother have wrinkles?",
+            ru:"У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive"
+            },
+            {
+            id:131,
+            eng:"Do you have wrinkles when you smile?",
+            ru:"У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:132,
+            eng:"Do you have dimples on your cheeks when you smile?",
+            ru:"У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:133,
+            eng:"Do you have birthmarks and moles?",
+            ru:"У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark"
+            },
+            {
+            id:134,
+            eng:"Is it sexy to have a moustache?",
+            ru:"Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!"
+            },
+            {
+            id:135,
+            eng:"What is your favorite part of a man's or a woman's body?",
+            ru:"Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs"
+            },
+            {
+            id:136,
+            eng:"Can you touch your nose with your tongue /тан/ and without hands?",
+            ru:"Ты можешь коснуться носа с помощью языка и без рук?"
+            },	
+    ],
+    upperBody: [
+        {
+            id:80,
+            eng:"Do you like long hair or do you like short hair?",
+            ru:"Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair."
+            },
+            {
+            id:81,
+            eng:"What is the English for 'Ухо'?",
+            ru:"Как будет 'Ухо' на инглише? An ear /эн Иэ/"
+            },
+            {
+            id:82,
+            eng:"What is the English for 'Уши'?",
+            ru:"Как сказать 'Уши' на-английском? Ears /иаз/"
+            },
+            {
+            id:83,
+            eng:"What is the English for 'Один глаз'?",
+            ru:"Как по-английски 'Один глаз' сказать? An eye /эн Ай/"
+            },
+            {
+            id:84,
+            eng:"Is your teacher fat or skinny?",
+            ru:"Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!"
+            },
+            {
+            id:85,
+            eng:"Do you have hair on your back?",
+            ru:"У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!"
+            },
+            {
+            id:86,
+            eng:"Can you move your nose without hands? Show me, please",
+            ru:"Вы можете/умеете шевелить носом без помощи рук?"
+            },
+            {
+            id:87,
+            eng:"What color is your hair?",
+            ru:"Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…"
+            },
+            {
+            id:88,
+            eng:"What color are Vincent's eyes?",
+            ru:"Какого цвета глаза Ви? Vincent's eyes are blue."
+            },
+            {
+            id:89,
+            eng:"Do you have tattoos? If yes - where do you have them?",
+            ru:"У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest"
+            },
+            {
+            id:90,
+            eng:"Why are you so sexy?",
+            ru:"Почему вы такие сексуальные? Because I go to the GYM and I eat good food."
+            },
+            {
+            id:91,
+            eng:"Am I cute and attractive?",
+            ru:"Я милая/милый и привлекательная/ый? Of course you are! Very much!"
+            },
+            {
+            id:92,
+            eng:"Does Vincent have hair on his head?",
+            ru:"У Ви есть волосы на голове? Hmmmm… It is a secret…"
+            },
+            {
+            id:93,
+            eng:"Does your favorite actor have a muscular body?",
+            ru:"У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has."
+            },
+            {
+            id:94,
+            eng:"What color are your eyes?",
+            ru:"Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…"
+            },
+            {
+            id:95,
+            eng:"What color are my eyes?",
+            ru:"Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes"
+            },
+            {
+            id:96,
+            eng:"What color are your father'seyes?",
+            ru:"Какого цвета глаза твоего отца? My father's eyes are brown"
+            },
+            {
+            id:97,
+            eng:"Do you have scars?",
+            ru:"У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…"
+            },
+            {
+            id:98,
+            eng:"Does your best friend have scars?",
+            ru:"У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…"
+            },
+            {
+            id:99,
+            eng:"What part of your body do you like very much?",
+            ru:"Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!"
+            },
+            {
+            id:100,
+            eng:"Can you move your ears?",
+            ru:"Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!"
+            },
+            {
+            id:101,
+            eng:"How many teeth do you have?",
+            ru:"Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…"
+            },
+            {
+            id:102,
+            eng:"Are your ears pierced? (Do you have pierced ears?)",
+            ru:"Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced."
+            },
+            {
+            id:103,
+            eng:"Does any of your friends have tattoos? What tattoos and where do they have it?",
+            ru:"У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?"
+            },
+            {
+            id:104,
+            eng:"What color is your parents' hair?",
+            ru:"Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes."
+            },
+            {
+            id:105,
+            eng:"What color is your best friend's hair?",
+            ru:"Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,"
+            },
+            {
+            id:106,
+            eng:"Is your hair wavy or straight? Or do you have curly hair?",
+            ru:"Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair."
+            },
+            {
+            id:107,
+            eng:"What color lipstick is very attractive?",
+            ru:"Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much."
+            },
+            {
+            id:108,
+            eng:"Do you like to have a beautiful necklace on your neck?",
+            ru:"Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)"
+            },
+            {
+            id:109,
+            eng:"How many teeth does your teacher have?",
+            ru:"Сколько зубов у твоего учителя? My teacher has twenty eight teeth"
+            },
+            {
+            id:110,
+            eng:"Are your arms strong and muscular?",
+            ru:"Твои руки сильные и мускулистые? Of course they are! They are super strong!"
+            },
+            {
+            id:111,
+            eng:"Do you know anybody who has a very muscular body?",
+            ru:"Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…"
+            },
+            {
+            id:112,
+            eng:"Does a big bottom look attractive?",
+            ru:"Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive."
+            },
+            {
+            id:113,
+            eng:"What is the English for 'пальцы на ногах' ?",
+            ru:"Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/"
+            },
+            {
+            id:114,
+            eng:"Do you like men with a hairy chest?",
+            ru:"Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest."
+            },
+            {
+            id:115,
+            eng:"Is it attractive and sexy when a man has wide shoulders?",
+            ru:"Это привлекательно, когда у мужчины широкие плечи?"
+            },
+            {
+            id:116,
+            eng:"Does your teacher have a mono eye-brow?",
+            ru:"У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!"
+            },
+            {
+            id:117,
+            eng:"How often do you wash your hands?",
+            ru:"Как часто ты моешь руки? I wash my hands every day"
+            },
+            {
+            id:118,
+            eng:"Does everybody have a belly button or maybe somebody doesn't have it?",
+            ru:"У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!"
+            },
+            {
+            id:119,
+            eng:"Is it true that one breast is always bigger than another?",
+            ru:"Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true."
+            },
+            {
+            id:120,
+            eng:"What shampoo do you use when you wash your hair and shoulders?",
+            ru:"Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo"
+            },
+            {
+            id:121,
+            eng:"Is your head round or square?",
+            ru:"Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!"
+            },
+            {
+            id:122,
+            eng:"Are you a tall or short person?",
+            ru:"Ты высокий или низкий человек? I am not very tall and not very short"
+            },
+            {
+            id:123,
+            eng:"Does your teacher have a beer belly or a firm tummy?",
+            ru:"У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin."
+            },
+            {
+            id:124,
+            eng:"Do you have scars on your knees?",
+            ru:"У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&"
+            },
+            {
+            id:125,
+            eng:"What do you have in the middle of your leg?",
+            ru:"Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)"
+            },
+            {
+            id:126,
+            eng:"Are your legs straight or crooked?",
+            ru:"Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)"
+            },
+            {
+            id:127,
+            eng:"What is the difference between toys and toes?",
+            ru:"В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз"
+            },
+            {
+            id:128,
+            eng:"How many fingers do you have on your hands?",
+            ru:"Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes"
+            },
+            {
+            id:129,
+            eng:"How many toes do you have?",
+            ru:"Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers"
+            },
+            {
+            id:130,
+            eng:"Does your grandmother have wrinkles?",
+            ru:"У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive"
+            },
+            {
+            id:131,
+            eng:"Do you have wrinkles when you smile?",
+            ru:"У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:132,
+            eng:"Do you have dimples on your cheeks when you smile?",
+            ru:"У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:133,
+            eng:"Do you have birthmarks and moles?",
+            ru:"У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark"
+            },
+            {
+            id:134,
+            eng:"Is it sexy to have a moustache?",
+            ru:"Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!"
+            },
+            {
+            id:135,
+            eng:"What is your favorite part of a man's or a woman's body?",
+            ru:"Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs"
+            },
+            {
+            id:136,
+            eng:"Can you touch your nose with your tongue /тан/ and without hands?",
+            ru:"Ты можешь коснуться носа с помощью языка и без рук?"
+            },	
+    ],
+    lowerBody: [
+        {
+            id:80,
+            eng:"Do you like long hair or do you like short hair?",
+            ru:"Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair."
+            },
+            {
+            id:81,
+            eng:"What is the English for 'Ухо'?",
+            ru:"Как будет 'Ухо' на инглише? An ear /эн Иэ/"
+            },
+            {
+            id:82,
+            eng:"What is the English for 'Уши'?",
+            ru:"Как сказать 'Уши' на-английском? Ears /иаз/"
+            },
+            {
+            id:83,
+            eng:"What is the English for 'Один глаз'?",
+            ru:"Как по-английски 'Один глаз' сказать? An eye /эн Ай/"
+            },
+            {
+            id:84,
+            eng:"Is your teacher fat or skinny?",
+            ru:"Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!"
+            },
+            {
+            id:85,
+            eng:"Do you have hair on your back?",
+            ru:"У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!"
+            },
+            {
+            id:86,
+            eng:"Can you move your nose without hands? Show me, please",
+            ru:"Вы можете/умеете шевелить носом без помощи рук?"
+            },
+            {
+            id:87,
+            eng:"What color is your hair?",
+            ru:"Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…"
+            },
+            {
+            id:88,
+            eng:"What color are Vincent's eyes?",
+            ru:"Какого цвета глаза Ви? Vincent's eyes are blue."
+            },
+            {
+            id:89,
+            eng:"Do you have tattoos? If yes - where do you have them?",
+            ru:"У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest"
+            },
+            {
+            id:90,
+            eng:"Why are you so sexy?",
+            ru:"Почему вы такие сексуальные? Because I go to the GYM and I eat good food."
+            },
+            {
+            id:91,
+            eng:"Am I cute and attractive?",
+            ru:"Я милая/милый и привлекательная/ый? Of course you are! Very much!"
+            },
+            {
+            id:92,
+            eng:"Does Vincent have hair on his head?",
+            ru:"У Ви есть волосы на голове? Hmmmm… It is a secret…"
+            },
+            {
+            id:93,
+            eng:"Does your favorite actor have a muscular body?",
+            ru:"У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has."
+            },
+            {
+            id:94,
+            eng:"What color are your eyes?",
+            ru:"Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…"
+            },
+            {
+            id:95,
+            eng:"What color are my eyes?",
+            ru:"Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes"
+            },
+            {
+            id:96,
+            eng:"What color are your father'seyes?",
+            ru:"Какого цвета глаза твоего отца? My father's eyes are brown"
+            },
+            {
+            id:97,
+            eng:"Do you have scars?",
+            ru:"У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…"
+            },
+            {
+            id:98,
+            eng:"Does your best friend have scars?",
+            ru:"У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…"
+            },
+            {
+            id:99,
+            eng:"What part of your body do you like very much?",
+            ru:"Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!"
+            },
+            {
+            id:100,
+            eng:"Can you move your ears?",
+            ru:"Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!"
+            },
+            {
+            id:101,
+            eng:"How many teeth do you have?",
+            ru:"Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…"
+            },
+            {
+            id:102,
+            eng:"Are your ears pierced? (Do you have pierced ears?)",
+            ru:"Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced."
+            },
+            {
+            id:103,
+            eng:"Does any of your friends have tattoos? What tattoos and where do they have it?",
+            ru:"У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?"
+            },
+            {
+            id:104,
+            eng:"What color is your parents' hair?",
+            ru:"Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes."
+            },
+            {
+            id:105,
+            eng:"What color is your best friend's hair?",
+            ru:"Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,"
+            },
+            {
+            id:106,
+            eng:"Is your hair wavy or straight? Or do you have curly hair?",
+            ru:"Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair."
+            },
+            {
+            id:107,
+            eng:"What color lipstick is very attractive?",
+            ru:"Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much."
+            },
+            {
+            id:108,
+            eng:"Do you like to have a beautiful necklace on your neck?",
+            ru:"Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)"
+            },
+            {
+            id:109,
+            eng:"How many teeth does your teacher have?",
+            ru:"Сколько зубов у твоего учителя? My teacher has twenty eight teeth"
+            },
+            {
+            id:110,
+            eng:"Are your arms strong and muscular?",
+            ru:"Твои руки сильные и мускулистые? Of course they are! They are super strong!"
+            },
+            {
+            id:111,
+            eng:"Do you know anybody who has a very muscular body?",
+            ru:"Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…"
+            },
+            {
+            id:112,
+            eng:"Does a big bottom look attractive?",
+            ru:"Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive."
+            },
+            {
+            id:113,
+            eng:"What is the English for 'пальцы на ногах' ?",
+            ru:"Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/"
+            },
+            {
+            id:114,
+            eng:"Do you like men with a hairy chest?",
+            ru:"Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest."
+            },
+            {
+            id:115,
+            eng:"Is it attractive and sexy when a man has wide shoulders?",
+            ru:"Это привлекательно, когда у мужчины широкие плечи?"
+            },
+            {
+            id:116,
+            eng:"Does your teacher have a mono eye-brow?",
+            ru:"У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!"
+            },
+            {
+            id:117,
+            eng:"How often do you wash your hands?",
+            ru:"Как часто ты моешь руки? I wash my hands every day"
+            },
+            {
+            id:118,
+            eng:"Does everybody have a belly button or maybe somebody doesn't have it?",
+            ru:"У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!"
+            },
+            {
+            id:119,
+            eng:"Is it true that one breast is always bigger than another?",
+            ru:"Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true."
+            },
+            {
+            id:120,
+            eng:"What shampoo do you use when you wash your hair and shoulders?",
+            ru:"Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo"
+            },
+            {
+            id:121,
+            eng:"Is your head round or square?",
+            ru:"Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!"
+            },
+            {
+            id:122,
+            eng:"Are you a tall or short person?",
+            ru:"Ты высокий или низкий человек? I am not very tall and not very short"
+            },
+            {
+            id:123,
+            eng:"Does your teacher have a beer belly or a firm tummy?",
+            ru:"У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin."
+            },
+            {
+            id:124,
+            eng:"Do you have scars on your knees?",
+            ru:"У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&"
+            },
+            {
+            id:125,
+            eng:"What do you have in the middle of your leg?",
+            ru:"Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)"
+            },
+            {
+            id:126,
+            eng:"Are your legs straight or crooked?",
+            ru:"Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)"
+            },
+            {
+            id:127,
+            eng:"What is the difference between toys and toes?",
+            ru:"В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз"
+            },
+            {
+            id:128,
+            eng:"How many fingers do you have on your hands?",
+            ru:"Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes"
+            },
+            {
+            id:129,
+            eng:"How many toes do you have?",
+            ru:"Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers"
+            },
+            {
+            id:130,
+            eng:"Does your grandmother have wrinkles?",
+            ru:"У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive"
+            },
+            {
+            id:131,
+            eng:"Do you have wrinkles when you smile?",
+            ru:"У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:132,
+            eng:"Do you have dimples on your cheeks when you smile?",
+            ru:"У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:133,
+            eng:"Do you have birthmarks and moles?",
+            ru:"У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark"
+            },
+            {
+            id:134,
+            eng:"Is it sexy to have a moustache?",
+            ru:"Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!"
+            },
+            {
+            id:135,
+            eng:"What is your favorite part of a man's or a woman's body?",
+            ru:"Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs"
+            },
+            {
+            id:136,
+            eng:"Can you touch your nose with your tongue /тан/ and without hands?",
+            ru:"Ты можешь коснуться носа с помощью языка и без рук?"
+            },	
+    ],
+    allBodyParts: [
+        {
+            id:80,
+            eng:"Do you like long hair or do you like short hair?",
+            ru:"Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair."
+            },
+            {
+            id:81,
+            eng:"What is the English for 'Ухо'?",
+            ru:"Как будет 'Ухо' на инглише? An ear /эн Иэ/"
+            },
+            {
+            id:82,
+            eng:"What is the English for 'Уши'?",
+            ru:"Как сказать 'Уши' на-английском? Ears /иаз/"
+            },
+            {
+            id:83,
+            eng:"What is the English for 'Один глаз'?",
+            ru:"Как по-английски 'Один глаз' сказать? An eye /эн Ай/"
+            },
+            {
+            id:84,
+            eng:"Is your teacher fat or skinny?",
+            ru:"Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!"
+            },
+            {
+            id:85,
+            eng:"Do you have hair on your back?",
+            ru:"У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!"
+            },
+            {
+            id:86,
+            eng:"Can you move your nose without hands? Show me, please",
+            ru:"Вы можете/умеете шевелить носом без помощи рук?"
+            },
+            {
+            id:87,
+            eng:"What color is your hair?",
+            ru:"Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…"
+            },
+            {
+            id:88,
+            eng:"What color are Vincent's eyes?",
+            ru:"Какого цвета глаза Ви? Vincent's eyes are blue."
+            },
+            {
+            id:89,
+            eng:"Do you have tattoos? If yes - where do you have them?",
+            ru:"У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest"
+            },
+            {
+            id:90,
+            eng:"Why are you so sexy?",
+            ru:"Почему вы такие сексуальные? Because I go to the GYM and I eat good food."
+            },
+            {
+            id:91,
+            eng:"Am I cute and attractive?",
+            ru:"Я милая/милый и привлекательная/ый? Of course you are! Very much!"
+            },
+            {
+            id:92,
+            eng:"Does Vincent have hair on his head?",
+            ru:"У Ви есть волосы на голове? Hmmmm… It is a secret…"
+            },
+            {
+            id:93,
+            eng:"Does your favorite actor have a muscular body?",
+            ru:"У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has."
+            },
+            {
+            id:94,
+            eng:"What color are your eyes?",
+            ru:"Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…"
+            },
+            {
+            id:95,
+            eng:"What color are my eyes?",
+            ru:"Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes"
+            },
+            {
+            id:96,
+            eng:"What color are your father'seyes?",
+            ru:"Какого цвета глаза твоего отца? My father's eyes are brown"
+            },
+            {
+            id:97,
+            eng:"Do you have scars?",
+            ru:"У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…"
+            },
+            {
+            id:98,
+            eng:"Does your best friend have scars?",
+            ru:"У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…"
+            },
+            {
+            id:99,
+            eng:"What part of your body do you like very much?",
+            ru:"Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!"
+            },
+            {
+            id:100,
+            eng:"Can you move your ears?",
+            ru:"Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!"
+            },
+            {
+            id:101,
+            eng:"How many teeth do you have?",
+            ru:"Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…"
+            },
+            {
+            id:102,
+            eng:"Are your ears pierced? (Do you have pierced ears?)",
+            ru:"Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced."
+            },
+            {
+            id:103,
+            eng:"Does any of your friends have tattoos? What tattoos and where do they have it?",
+            ru:"У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?"
+            },
+            {
+            id:104,
+            eng:"What color is your parents' hair?",
+            ru:"Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes."
+            },
+            {
+            id:105,
+            eng:"What color is your best friend's hair?",
+            ru:"Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,"
+            },
+            {
+            id:106,
+            eng:"Is your hair wavy or straight? Or do you have curly hair?",
+            ru:"Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair."
+            },
+            {
+            id:107,
+            eng:"What color lipstick is very attractive?",
+            ru:"Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much."
+            },
+            {
+            id:108,
+            eng:"Do you like to have a beautiful necklace on your neck?",
+            ru:"Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)"
+            },
+            {
+            id:109,
+            eng:"How many teeth does your teacher have?",
+            ru:"Сколько зубов у твоего учителя? My teacher has twenty eight teeth"
+            },
+            {
+            id:110,
+            eng:"Are your arms strong and muscular?",
+            ru:"Твои руки сильные и мускулистые? Of course they are! They are super strong!"
+            },
+            {
+            id:111,
+            eng:"Do you know anybody who has a very muscular body?",
+            ru:"Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…"
+            },
+            {
+            id:112,
+            eng:"Does a big bottom look attractive?",
+            ru:"Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive."
+            },
+            {
+            id:113,
+            eng:"What is the English for 'пальцы на ногах' ?",
+            ru:"Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/"
+            },
+            {
+            id:114,
+            eng:"Do you like men with a hairy chest?",
+            ru:"Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest."
+            },
+            {
+            id:115,
+            eng:"Is it attractive and sexy when a man has wide shoulders?",
+            ru:"Это привлекательно, когда у мужчины широкие плечи?"
+            },
+            {
+            id:116,
+            eng:"Does your teacher have a mono eye-brow?",
+            ru:"У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!"
+            },
+            {
+            id:117,
+            eng:"How often do you wash your hands?",
+            ru:"Как часто ты моешь руки? I wash my hands every day"
+            },
+            {
+            id:118,
+            eng:"Does everybody have a belly button or maybe somebody doesn't have it?",
+            ru:"У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!"
+            },
+            {
+            id:119,
+            eng:"Is it true that one breast is always bigger than another?",
+            ru:"Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true."
+            },
+            {
+            id:120,
+            eng:"What shampoo do you use when you wash your hair and shoulders?",
+            ru:"Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo"
+            },
+            {
+            id:121,
+            eng:"Is your head round or square?",
+            ru:"Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!"
+            },
+            {
+            id:122,
+            eng:"Are you a tall or short person?",
+            ru:"Ты высокий или низкий человек? I am not very tall and not very short"
+            },
+            {
+            id:123,
+            eng:"Does your teacher have a beer belly or a firm tummy?",
+            ru:"У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin."
+            },
+            {
+            id:124,
+            eng:"Do you have scars on your knees?",
+            ru:"У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&"
+            },
+            {
+            id:125,
+            eng:"What do you have in the middle of your leg?",
+            ru:"Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)"
+            },
+            {
+            id:126,
+            eng:"Are your legs straight or crooked?",
+            ru:"Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)"
+            },
+            {
+            id:127,
+            eng:"What is the difference between toys and toes?",
+            ru:"В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз"
+            },
+            {
+            id:128,
+            eng:"How many fingers do you have on your hands?",
+            ru:"Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes"
+            },
+            {
+            id:129,
+            eng:"How many toes do you have?",
+            ru:"Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers"
+            },
+            {
+            id:130,
+            eng:"Does your grandmother have wrinkles?",
+            ru:"У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive"
+            },
+            {
+            id:131,
+            eng:"Do you have wrinkles when you smile?",
+            ru:"У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:132,
+            eng:"Do you have dimples on your cheeks when you smile?",
+            ru:"У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:133,
+            eng:"Do you have birthmarks and moles?",
+            ru:"У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark"
+            },
+            {
+            id:134,
+            eng:"Is it sexy to have a moustache?",
+            ru:"Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!"
+            },
+            {
+            id:135,
+            eng:"What is your favorite part of a man's or a woman's body?",
+            ru:"Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs"
+            },
+            {
+            id:136,
+            eng:"Can you touch your nose with your tongue /тан/ and without hands?",
+            ru:"Ты можешь коснуться носа с помощью языка и без рук?"
+            },	
+    ],
+    bodyAdj: [
+        {
+            id:80,
+            eng:"Do you like long hair or do you like short hair?",
+            ru:"Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair."
+            },
+            {
+            id:81,
+            eng:"What is the English for 'Ухо'?",
+            ru:"Как будет 'Ухо' на инглише? An ear /эн Иэ/"
+            },
+            {
+            id:82,
+            eng:"What is the English for 'Уши'?",
+            ru:"Как сказать 'Уши' на-английском? Ears /иаз/"
+            },
+            {
+            id:83,
+            eng:"What is the English for 'Один глаз'?",
+            ru:"Как по-английски 'Один глаз' сказать? An eye /эн Ай/"
+            },
+            {
+            id:84,
+            eng:"Is your teacher fat or skinny?",
+            ru:"Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!"
+            },
+            {
+            id:85,
+            eng:"Do you have hair on your back?",
+            ru:"У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!"
+            },
+            {
+            id:86,
+            eng:"Can you move your nose without hands? Show me, please",
+            ru:"Вы можете/умеете шевелить носом без помощи рук?"
+            },
+            {
+            id:87,
+            eng:"What color is your hair?",
+            ru:"Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…"
+            },
+            {
+            id:88,
+            eng:"What color are Vincent's eyes?",
+            ru:"Какого цвета глаза Ви? Vincent's eyes are blue."
+            },
+            {
+            id:89,
+            eng:"Do you have tattoos? If yes - where do you have them?",
+            ru:"У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest"
+            },
+            {
+            id:90,
+            eng:"Why are you so sexy?",
+            ru:"Почему вы такие сексуальные? Because I go to the GYM and I eat good food."
+            },
+            {
+            id:91,
+            eng:"Am I cute and attractive?",
+            ru:"Я милая/милый и привлекательная/ый? Of course you are! Very much!"
+            },
+            {
+            id:92,
+            eng:"Does Vincent have hair on his head?",
+            ru:"У Ви есть волосы на голове? Hmmmm… It is a secret…"
+            },
+            {
+            id:93,
+            eng:"Does your favorite actor have a muscular body?",
+            ru:"У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has."
+            },
+            {
+            id:94,
+            eng:"What color are your eyes?",
+            ru:"Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…"
+            },
+            {
+            id:95,
+            eng:"What color are my eyes?",
+            ru:"Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes"
+            },
+            {
+            id:96,
+            eng:"What color are your father'seyes?",
+            ru:"Какого цвета глаза твоего отца? My father's eyes are brown"
+            },
+            {
+            id:97,
+            eng:"Do you have scars?",
+            ru:"У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…"
+            },
+            {
+            id:98,
+            eng:"Does your best friend have scars?",
+            ru:"У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…"
+            },
+            {
+            id:99,
+            eng:"What part of your body do you like very much?",
+            ru:"Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!"
+            },
+            {
+            id:100,
+            eng:"Can you move your ears?",
+            ru:"Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!"
+            },
+            {
+            id:101,
+            eng:"How many teeth do you have?",
+            ru:"Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…"
+            },
+            {
+            id:102,
+            eng:"Are your ears pierced? (Do you have pierced ears?)",
+            ru:"Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced."
+            },
+            {
+            id:103,
+            eng:"Does any of your friends have tattoos? What tattoos and where do they have it?",
+            ru:"У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?"
+            },
+            {
+            id:104,
+            eng:"What color is your parents' hair?",
+            ru:"Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes."
+            },
+            {
+            id:105,
+            eng:"What color is your best friend's hair?",
+            ru:"Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,"
+            },
+            {
+            id:106,
+            eng:"Is your hair wavy or straight? Or do you have curly hair?",
+            ru:"Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair."
+            },
+            {
+            id:107,
+            eng:"What color lipstick is very attractive?",
+            ru:"Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much."
+            },
+            {
+            id:108,
+            eng:"Do you like to have a beautiful necklace on your neck?",
+            ru:"Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)"
+            },
+            {
+            id:109,
+            eng:"How many teeth does your teacher have?",
+            ru:"Сколько зубов у твоего учителя? My teacher has twenty eight teeth"
+            },
+            {
+            id:110,
+            eng:"Are your arms strong and muscular?",
+            ru:"Твои руки сильные и мускулистые? Of course they are! They are super strong!"
+            },
+            {
+            id:111,
+            eng:"Do you know anybody who has a very muscular body?",
+            ru:"Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…"
+            },
+            {
+            id:112,
+            eng:"Does a big bottom look attractive?",
+            ru:"Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive."
+            },
+            {
+            id:113,
+            eng:"What is the English for 'пальцы на ногах' ?",
+            ru:"Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/"
+            },
+            {
+            id:114,
+            eng:"Do you like men with a hairy chest?",
+            ru:"Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest."
+            },
+            {
+            id:115,
+            eng:"Is it attractive and sexy when a man has wide shoulders?",
+            ru:"Это привлекательно, когда у мужчины широкие плечи?"
+            },
+            {
+            id:116,
+            eng:"Does your teacher have a mono eye-brow?",
+            ru:"У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!"
+            },
+            {
+            id:117,
+            eng:"How often do you wash your hands?",
+            ru:"Как часто ты моешь руки? I wash my hands every day"
+            },
+            {
+            id:118,
+            eng:"Does everybody have a belly button or maybe somebody doesn't have it?",
+            ru:"У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!"
+            },
+            {
+            id:119,
+            eng:"Is it true that one breast is always bigger than another?",
+            ru:"Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true."
+            },
+            {
+            id:120,
+            eng:"What shampoo do you use when you wash your hair and shoulders?",
+            ru:"Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo"
+            },
+            {
+            id:121,
+            eng:"Is your head round or square?",
+            ru:"Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!"
+            },
+            {
+            id:122,
+            eng:"Are you a tall or short person?",
+            ru:"Ты высокий или низкий человек? I am not very tall and not very short"
+            },
+            {
+            id:123,
+            eng:"Does your teacher have a beer belly or a firm tummy?",
+            ru:"У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin."
+            },
+            {
+            id:124,
+            eng:"Do you have scars on your knees?",
+            ru:"У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&"
+            },
+            {
+            id:125,
+            eng:"What do you have in the middle of your leg?",
+            ru:"Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)"
+            },
+            {
+            id:126,
+            eng:"Are your legs straight or crooked?",
+            ru:"Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)"
+            },
+            {
+            id:127,
+            eng:"What is the difference between toys and toes?",
+            ru:"В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз"
+            },
+            {
+            id:128,
+            eng:"How many fingers do you have on your hands?",
+            ru:"Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes"
+            },
+            {
+            id:129,
+            eng:"How many toes do you have?",
+            ru:"Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers"
+            },
+            {
+            id:130,
+            eng:"Does your grandmother have wrinkles?",
+            ru:"У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive"
+            },
+            {
+            id:131,
+            eng:"Do you have wrinkles when you smile?",
+            ru:"У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:132,
+            eng:"Do you have dimples on your cheeks when you smile?",
+            ru:"У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile"
+            },
+            {
+            id:133,
+            eng:"Do you have birthmarks and moles?",
+            ru:"У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark"
+            },
+            {
+            id:134,
+            eng:"Is it sexy to have a moustache?",
+            ru:"Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!"
+            },
+            {
+            id:135,
+            eng:"What is your favorite part of a man's or a woman's body?",
+            ru:"Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs"
+            },
+            {
+            id:136,
+            eng:"Can you touch your nose with your tongue /тан/ and without hands?",
+            ru:"Ты можешь коснуться носа с помощью языка и без рук?"
+            },	
+    ],
     affirmations1: [
         {
             id:1,
@@ -4952,293 +6387,6 @@ const allQuestionsOneDeck = {
                 }	,								
             									
     ],
-    bodyParts0: [
-        {					
-            id	:	1	,		
-            eng	:	"	Do you like long or short hair?	"	,
-            ru	:	"	Тебе нравятся длинные или короткие волосы? I like men with short hair and ladies with long hair.	"	
-            }	,				
-            {					
-            id	:	2	,		
-            eng	:	"	What is the English for 'Ухо'?	"	,
-            ru	:	"	Как будет 'Ухо' на инглише? An ear /эн Иэ/	"	
-            }	,				
-            {					
-            id	:	3	,		
-            eng	:	"	What is the English for 'Уши'?	"	,
-            ru	:	"	Как сказать 'Уши' на-английском? Ears /иаз/	"	
-            }	,				
-            {					
-            id	:	4	,		
-            eng	:	"	What is the English for 'Один глаз'?	"	,
-            ru	:	"	Как по-английски 'Один глаз' сказать? An eye /эн Ай/	"	
-            }	,				
-            {					
-            id	:	5	,		
-            eng	:	"	Is your teacher fat or skinny?	"	,
-            ru	:	"	Твой учитель жирный или тощий? My teacher is not fat and not skinny! He is sexy!	"	
-            }	,				
-            {					
-            id	:	6	,		
-            eng	:	"	Do you have hair on your back?	"	,
-            ru	:	"	У тебя есть волосы на спине? I don't have, but my lover has a lot of hair everywhere!	"	
-            }	,				
-            {					
-            id	:	7	,		
-            eng	:	"	Can you move your nose without hands? Show me, please	"	,
-            ru	:	"	Вы можете/умеете шевелить носом без помощи рук?	"	
-            }	,				
-            {					
-            id	:	8	,		
-            eng	:	"	What color is your hair?	"	,
-            ru	:	"	Какого цвета ваши волосы? My hair is brown/grey/silver/dark/red/pink…	"	
-            }	,				
-            {					
-            id	:	9	,		
-            eng	:	"	What color are Vincent's eyes?	"	,
-            ru	:	"	Какого цвета глаза Ви? Vincent's eyes are blue.	"	
-            }	,				
-            {					
-            id	:	10	,		
-            eng	:	"	Do you have tattoos? If yes - where do you have them?	"	,
-            ru	:	"	У вас есть татуировки? Yes I have a tattoo. I have my teacher's name on my chest	"	
-            }	,				
-            {					
-            id	:	11	,		
-            eng	:	"	Why are you so sexy?	"	,
-            ru	:	"	ЗПочему вы такие сексуальные? Because I go to the GYM and I eat good food.	"	
-            }	,				
-            {					
-            id	:	12	,		
-            eng	:	"	Am I cute and attractive?	"	,
-            ru	:	"	Я милая/милый и привлекательная/ый? Of course you are! Very much!	"	
-            }	,				
-            {					
-            id	:	13	,		
-            eng	:	"	Does Vincent have hair on his head?	"	,
-            ru	:	"	У Ви есть волосы на голове? Hmmmm… It is a secret…	"	
-            }	,				
-            {					
-            id	:	14	,		
-            eng	:	"	Does your favorite actor have a muscular body?	"	,
-            ru	:	"	У твоего любимого актера или актрисы мускулистое тело? Yes, he has / she has.	"	
-            }	,				
-            {					
-            id	:	15	,		
-            eng	:	"	What color are your eyes?	"	,
-            ru	:	"	Какого цвета твои глаза? My eyes are blue/green/grey/brown/red…	"	
-            }	,				
-            {					
-            id	:	16	,		
-            eng	:	"	What color are my eyes?	"	,
-            ru	:	"	Какого цвета мои глаза? Your eyes are so beautiful. But I don't know the color of your eyes	"	
-            }	,				
-            {					
-            id	:	17	,		
-            eng	:	"	What color are your father'seyes?	"	,
-            ru	:	"	Какого цвета глаза твоего отца? My father's eyes are brown	"	
-            }	,				
-            {					
-            id	:	18	,		
-            eng	:	"	Do you have scars?	"	,
-            ru	:	"	У тебя есть шрамы? I have scars on my head from Vincent. Because I don't do homework…	"	
-            }	,				
-            {					
-            id	:	19	,		
-            eng	:	"	Does your best friend have scars?	"	,
-            ru	:	"	У твоего лучшего друга есть шрамы? (S)he has scars from Vincent. Because my friend doesn't do homework…	"	
-            }	,				
-            {					
-            id	:	20	,		
-            eng	:	"	What part of your body do you like very much?	"	,
-            ru	:	"	Какая часть твоего тела тебе очень нравится? Well… I like all my body. But I like my hands very much!	"	
-            }	,				
-            {					
-            id	:	21	,		
-            eng	:	"	Can you move your ears?	"	,
-            ru	:	"	Вы можете/умеете шевелить ушами? Yes I can, look at them! Посмотрите на них!	"	
-            }	,				
-            {					
-            id	:	22	,		
-            eng	:	"	How many teeth do you have?	"	,
-            ru	:	"	Сколько у тебя зубов? I think I have 32 teeth or maybe I have 28…	"	
-            }	,				
-            {					
-            id	:	23	,		
-            eng	:	"	Are your ears pierced? (Do you have pierced ears?)	"	,
-            ru	:	"	Твои уши проколоты? (У тебя проколотые уши?) I have one pierced ear. My left ear is pierced, but my right ear is not pierced.	"	
-            }	,				
-            {					
-            id	:	24	,		
-            eng	:	"	Does any of your friends have tattoos? What tattoos and where do they have it?	"	,
-            ru	:	"	У кого-либо из твоих друзей есть татуировки? Что за татуировки и где?	"	
-            }	,				
-            {					
-            id	:	25	,		
-            eng	:	"	What color is your parents' hair?	"	,
-            ru	:	"	Какого цвета волосы у твоих родителей? My mom's hair is brown and my dad has blond hair. He is a blond person with blue eyes.	"	
-            }	,				
-            {					
-            id	:	26	,		
-            eng	:	"	What color is your best friend's hair?	"	,
-            ru	:	"	Какого цвета волосы твоего лучшего друга? My best friend is Vincent and he is bald. No hair no problems,	"	
-            }	,				
-            {					
-            id	:	27	,		
-            eng	:	"	Is your hair wavy or straight? Or do you have curly hair?	"	,
-            ru	:	"	Твои волосы прямые или волнистые? Или у тебя кудрявые волосы? My hair is a little wavy. But 100% I don't have curly hair.	"	
-            }	,				
-            {					
-            id	:	28	,		
-            eng	:	"	What color lipstick is very attractive?	"	,
-            ru	:	"	Какого цвета помада очень привлекательна? They all are attractive I think… I like a red color lipstick very much.	"	
-            }	,				
-            {					
-            id	:	29	,		
-            eng	:	"	Do you like to have a beautiful necklace on your neck?	"	,
-            ru	:	"	Тебе нравится иметь красивое украшение на шее? I like a silver or a gold chain with a cross on it. (цепочка и крестик)	"	
-            }	,				
-            {					
-            id	:	30	,		
-            eng	:	"	How many teeth does your teacher have?	"	,
-            ru	:	"	Сколько зубов у твоего учителя? My teacher has twenty eight teeth	"	
-            }	,				
-            {					
-            id	:	31	,		
-            eng	:	"	Are your arms strong and muscular?	"	,
-            ru	:	"	Твои руки сильные и мускулистые? Of course they are! They are super strong!	"	
-            }	,				
-            {					
-            id	:	32	,		
-            eng	:	"	Do you know anybody who has a very muscular body?	"	,
-            ru	:	"	Ты знаешь кого-либо, у кого очень мускулистое тело? I don't know. Maybe Vincent knows… Or maybe he has…	"	
-            }	,				
-            {					
-            id	:	33	,		
-            eng	:	"	Does a big bottom look attractive?	"	,
-            ru	:	"	Большая попка выглядит привлекательно? A very very big bottom doesn't look attractive. But not a very big bottom looks attractive.	"	
-            }	,				
-            {					
-            id	:	34	,		
-            eng	:	"	What is the English for 'пальцы на ногах' ?	"	,
-            ru	:	"	Как на английском языке 'palci na nogah?' The answer is: TOES /тОуз/	"	
-            }	,				
-            {					
-            id	:	35	,		
-            eng	:	"	Do you like men with a hairy chest?	"	,
-            ru	:	"	Тебе нравятся мужчины с волосатой грудью? I like all men. With a hairy chest and without a hairy chest.	"	
-            }	,				
-            {					
-            id	:	36	,		
-            eng	:	"	Is it attractive and sexy when a man has wide shoulders?	"	,
-            ru	:	"	Это привлекательно, когда у мужчины широкие плечи?	"	
-            }	,				
-            {					
-            id	:	37	,		
-            eng	:	"	Does your teacher have a mono eye-brow?	"	,
-            ru	:	"	У твоего учителя моно-бровь? Oh yes! My teacher has one long mono eye-brow!	"	
-            }	,				
-            {					
-            id	:	38	,		
-            eng	:	"	How often do you wash your hands?	"	,
-            ru	:	"	Как часто ты моешь руки? I wash my hands every day	"	
-            }	,				
-            {					
-            id	:	39	,		
-            eng	:	"	Does everybody have a belly button or maybe somebody doesn't have it?	"	,
-            ru	:	"	У каждого есть пупок или у кого-то нет? Everybody has a belly button! But Vincent doesn't have it! He is an alien!	"	
-            }	,				
-            {					
-            id	:	40	,		
-            eng	:	"	Is it true that one breast is always bigger than another?	"	,
-            ru	:	"	Это правда, что одна грудь всегда больше другой? I don't know. Maybe it is true. Maybe it is not true.	"	
-            }	,				
-            {					
-            id	:	41	,		
-            eng	:	"	What shampoo do you use when you wash your hair and shoulders?	"	,
-            ru	:	"	Каким шампунем ты пользуешься когда ты моешь волосы и плечи? I use head and shoulders shampoo	"	
-            }	,				
-            {					
-            id	:	42	,		
-            eng	:	"	Is your head round or square?	"	,
-            ru	:	"	Твоя голова круглая или квадратная? My head is not round and it is not square!!! My head is oval. I have an oval head!	"	
-            }	,				
-            {					
-            id	:	43	,		
-            eng	:	"	Are you a tall or short person?	"	,
-            ru	:	"	Ты высокий или низкий человек? I am not very tall and not very short	"	
-            }	,				
-            {					
-            id	:	44	,		
-            eng	:	"	Does your teacher have a beer belly or a firm tummy?	"	,
-            ru	:	"	У твоего учителя пивное пузо или упругий животик? My teacher is fat! He has a double beer belly and a double chin.	"	
-            }	,				
-            {					
-            id	:	45	,		
-            eng	:	"	Do you have scars on your knees?	"	,
-            ru	:	"	У тебя есть шрамы на коленках? No, I don't have! My knees are beautiful&	"	
-            }	,				
-            {					
-            id	:	46	,		
-            eng	:	"	What do you have in the middle of your leg?	"	,
-            ru	:	"	Что у тебя посередине ноги? I have a knee in the middle of my leg. And hair)	"	
-            }	,				
-            {					
-            id	:	47	,		
-            eng	:	"	Are your legs straight or crooked?	"	,
-            ru	:	"	Твои ноги прямые или кривые? My legs are crooked, because I like to sit on a horse)	"	
-            }	,				
-            {					
-            id	:	48	,		
-            eng	:	"	What is the difference between toys and toes?	"	,
-            ru	:	"	В чем разница между игрушками и пальцами на ногах? The answer is: в произношении! тОйз и Тоуз	"	
-            }	,				
-            {					
-            id	:	49	,		
-            eng	:	"	How many fingers do you have on your hands?	"	,
-            ru	:	"	Сколько пальцев у тебя на руках? I have 10 fingers and I have ten toes	"	
-            }	,				
-            {					
-            id	:	50	,		
-            eng	:	"	How many toes do you have?	"	,
-            ru	:	"	Сколько пальцев у тебя на ногах? I have I have 10 toes and ten fingers	"	
-            }	,				
-            {					
-            id	:	51	,		
-            eng	:	"	Does your grandmother have wrinkles?	"	,
-            ru	:	"	У твоей бабули есть морщинки? She has many wrinkles but she is cute and attractive	"	
-            }	,				
-            {					
-            id	:	52	,		
-            eng	:	"	Do you have wrinkles when you smile?	"	,
-            ru	:	"	У тебя есть морщинки, когда ты улыбаешься? I have! Everybody has them when we smile	"	
-            }	,				
-            {					
-            id	:	53	,		
-            eng	:	"	Do you have dimples on your cheeks when you smile?	"	,
-            ru	:	"	У тебя есть ямочки на щеках, когда ты улыбаешься? I have! Everybody has them when we smile	"	
-            }	,				
-            {					
-            id	:	54	,		
-            eng	:	"	Do you have birthmarks and moles?	"	,
-            ru	:	"	У тебя есть родимые пятна и родинки? I have many moles and I have one small birthmark	"	
-            }	,				
-            {					
-            id	:	55	,		
-            eng	:	"	Is it sexy to have a moustache?	"	,
-            ru	:	"	Это сексуально? Иметь усы = носить усы? OMG! I think yes! OMG I think no it is not!	"	
-            }	,				
-            {					
-            id	:	56	,		
-            eng	:	"	What is your favorite part of a man's or a woman's body?	"	,
-            ru	:	"	Какая твоя любимая часть мужского или женского тела? I like men's hairy chest and women's crooked legs	"	
-            }	,				
-            {					
-            id	:	57	,		
-            eng	:	"	Can you touch your nose with your tongue /тан/ and without hands?	"	,
-            ru	:	"	Ты можешь коснуться носа с помощью языка и без рук?	"	
-            }	,										
-    ],
     mission90: [
         {
             id: 1,
@@ -6075,566 +7223,6 @@ const allQuestionsOneDeck = {
             ru: "	семь	",
             eng: "	seven	"
         },
-    ],
-    bodypartsa2: [
-        {
-            id: 1,
-            ru: "	моя голова круглая	",
-            eng: "	my head is round	"
-        },
-        {
-            id: 2,
-            ru: "	её шея длинная	",
-            eng: "	her neck is long	"
-        },
-        {
-            id: 3,
-            ru: "	густые брови	",
-            eng: "	thick eyebrows	"
-        },
-        {
-            id: 4,
-            ru: "	за синими глазами	",
-            eng: "	behind blue eyes	"
-        },
-        {
-            id: 5,
-            ru: "	длинные светлые волосы	",
-            eng: "	long blond hair	"
-        },
-        {
-            id: 6,
-            ru: "Мои уши проколоты",
-            eng: "	My ears are pierced"
-        },
-        {
-            id: 7,
-            ru: "	око за око (глаз за глаз)	",
-            eng: "	an eye for an eye	"
-        },
-        {
-            id: 8,
-            ru: "	У него сэкси моно бровь	",
-            eng: "	He has a sexy mono eyebrow	"
-        },
-        {
-            id: 9,
-            ru: "	Его нос острый	",
-            eng: "	His nose is pointed	"
-        },
-        {
-            id: 10,
-            ru: "	Мои губы липкие	",
-            eng: "	My lips are sticky	"
-        },
-        {
-            id: 11,
-            ru: "	Нет зубов нет проблем	",
-            eng: "	No teeth no problems	"
-        },
-        {
-            id: 12,
-            ru: "	Это один зуб	",
-            eng: "	It is a tooth	"
-        },
-        {
-            id: 13,
-            ru: "	У них жирные щёки	",
-            eng: "	They have fat cheeks	"
-        },
-        {
-            id: 14,
-            ru: "	мой двойной подбородок мускулистый	",
-            eng: "	my double chin is muscular	"
-        },
-        {
-            id: 15,
-            ru: "	Его грудь не волосатая",
-            eng: "	His chest is not hairy	"
-        },
-        {
-            id: 16,
-            ru: "	её левая грудь больше 	",
-            eng: "	her left breast is bigger	"
-        },
-        {
-            id: 17,
-            ru: "	волосатая спина это новая мода	",
-            eng: "	a hairy back is a new fashion	"
-        },
-        {
-            id: 18,
-            ru: "	широкие плечи привлекательны	",
-            eng: "	wide shoulders are attractive	"
-        },
-        {
-            id: 19,
-            ru: "	У него мускулистые руки?	",
-            eng: "	Does he have muscular arms?	"
-        },
-        {
-            id: 20,
-            ru: "	Это сделано руками?	",
-            eng: "	Is it handmade?	"
-        },
-        {
-            id: 21,
-            ru: "	У нас короткие пальцы	",
-            eng: "	We have short fingers	"
-        },
-        {
-            id: 22,
-            ru: "	пальцы на ногах - не игрушки	",
-            eng: "	toes are not toys	"
-        },
-        {
-            id: 23,
-            ru: "	Никто не может лизнуть локоть	",
-            eng: "	nobody can lick an elbow	"
-        },
-        {
-            id: 24,
-            ru: "	У него большой лоб	",
-            eng: "	He has a big forehead	"
-        },
-        {
-            id: 25,
-            ru: "	чёлка - это волосы на лбу	",
-            eng: "	a fringe is hair on the forehead	"
-        },
-        {
-            id: 26,
-            ru: "	У неё упругий животик	",
-            eng: "	She has a firm tummy	"
-        },
-        {
-            id: 27,
-            ru: "	У него пивное пузико	",
-            eng: "	He has a beer belly	"
-        },
-        {
-            id: 28,
-            ru: "	татуировки на коленках это плохо	",
-            eng: "	tattoos on the knees are bad	"
-        },
-        {
-            id: 29,
-            ru: "	Шевели своими ступнями",
-            eng: "	Move your feet	"
-        },
-        {
-            id: 30,
-            ru: "	ступня - это не еда	",
-            eng: "	a foot is not food	"
-        },
-        {
-            id: 31,
-            ru: "	пятка - опасное место	",
-            eng: "	a heel is a dangerous place	"
-        },
-        {
-            id: 32,
-            ru: "	высокие каблуки	",
-            eng: "	high heels	"
-        },
-        {
-            id: 33,
-            ru: "	кнопка на пузе (пупок)	",
-            eng: "	a belly button	"
-        },
-        {
-            id: 34,
-            ru: "	Я тебе надеру зад",
-            eng: "	I will kick your butt (ass)	"
-        },
-        {
-            id: 35,
-            ru: "	кривые ноги	это круто",
-            eng: "	crooked legs are cool	"
-        },
-        {
-            id: 36,
-            ru: "	шрам на любимой попе	",
-            eng: "	a scar on my lovely bottom	"
-        },
-        {
-            id: 37,
-            ru: "	пиво /бир/ на бороде /биед/	",
-            eng: "	beer is on the beard	"
-        },
-        {
-            id: 38,
-            ru: "	птица /бёд/ в бороде /биед/	",
-            eng: "	a bird is in the beard	"
-        },
-        {
-            id: 39,
-            ru: "	родинка на моей щеке	",
-            eng: "	a mole on my chin	"
-        },
-        {
-            id: 40,
-            ru: "	У Винсента родимое пятно	",
-            eng: "	V has a birthmark	"
-        },
-        {
-            id: 41,
-            ru: "	ямочка на подбородке	",
-            eng: "	a dimple on the chin	"
-        },
-        {
-            id: 42,
-            ru: "	милые морщинки	",
-            eng: "	cute wrinkles	"
-        },
-        {
-            id: 43,
-            ru: "	у Фрекен Бок есть веснушки	",
-            eng: "	Фрекен Бок has freckles	"
-        },
-        {
-            id: 44,
-            ru: "	кисти рук	",
-            eng: "	hands	"
-        },
-        {
-            id: 45,
-            ru: "	у неё усы!	",
-            eng: "	she has a moustache	"
-        },
-        {
-            id: 46,
-            ru: "	Когда-то я была тощей	",
-            eng: "	I used to be skinny	"
-        },
-        {
-            id: 47,
-            ru: "	Когда-то у меня были волосы	",
-            eng: "	I used to have hair	"
-        },
-        {
-            id: 48,
-            ru: "	Мой учитель лысый	",
-            eng: "	my teacher is bald	"
-        },
-        {
-            id: 49,
-            ru: "	Мышь во рту!	",
-            eng: "	a mouse is in the mouth	"
-        },
-        {
-            id: 50,
-            ru: "	Мои уши проколоты	",
-            eng: "	My ears are pierced	"
-        },
-        {
-            id: 51,
-            ru: "	одно ухо	",
-            eng: "	an ear	/Иа/"
-        },
-        {
-            id: 52,
-            ru: "	Его волосы кудрявые	",
-            eng: "	His hair is curly	"
-        },
-        {
-            id: 53,
-            ru: "	У меня прямые волосы	",
-            eng: "	I have straight hair	"
-        },
-        {
-            id: 54,
-            ru: "	Её волосы волнистые	",
-            eng: "	Her hair is wavy	"
-        },
-    ],
-    bodypartsa1: [
-        {
-            id: 1,
-            ru: "	голова	",
-            eng: "	a head	"
-        },
-        {
-            id: 2,
-            ru: "	шея	",
-            eng: "	a neck	"
-        },
-        {
-            id: 3,
-            ru: "	брови	",
-            eng: "	eyebrows	"
-        },
-        {
-            id: 4,
-            ru: "	карие глаза	",
-            eng: "	brown eyes	"
-        },
-        {
-            id: 5,
-            ru: "	длинные светлые волосы	",
-            eng: "	long blond hair	"
-        },
-        {
-            id: 6,
-            ru: "	большие уши	",
-            eng: "	big ears	"
-        },
-        {
-            id: 7,
-            ru: "	один глаз	",
-            eng: "	an eye	"
-        },
-        {
-            id: 8,
-            ru: "	бровь	",
-            eng: "	an eyebrow	"
-        },
-        {
-            id: 9,
-            ru: "	острый нос	",
-            eng: "	a pointed nose	"
-        },
-        {
-            id: 10,
-            ru: "	губы	",
-            eng: "	lips "
-        },
-        {
-            id: 11,
-            ru: "	зубыыыыы	",
-            eng: "	teeth	"
-        },
-        {
-            id: 12,
-            ru: "	зууууб	",
-            eng: "	a tooth	"
-        },
-        {
-            id: 13,
-            ru: "	щёки	",
-            eng: "	cheeks	"
-        },
-        {
-            id: 14,
-            ru: "	двойной подбородок	",
-            eng: "	double chin	"
-        },
-        {
-            id: 15,
-            ru: "	грудь (грудная клетка)	",
-            eng: "	a chest	"
-        },
-        {
-            id: 16,
-            ru: "	женская грудь 	",
-            eng: "	breast	"
-        },
-        {
-            id: 17,
-            ru: "	волосатая спина	",
-            eng: "	a hairy back	"
-        },
-        {
-            id: 18,
-            ru: "	широкие плечи	",
-            eng: "	wide shoulders	"
-        },
-        {
-            id: 19,
-            ru: "	мускулистые руки	",
-            eng: "	muscular arms	"
-        },
-        {
-            id: 20,
-            ru: "	сделано кистями рук	",
-            eng: "	handmade	"
-        },
-        {
-            id: 21,
-            ru: "	короткие пальцы	",
-            eng: "	short fingers	"
-        },
-        {
-            id: 22,
-            ru: "	пальцы ног",
-            eng: "	toes /тоУз/"
-        },
-        {
-            id: 23,
-            ru: "	локоть	",
-            eng: "	an elbow	"
-        },
-        {
-            id: 24,
-            ru: "	лоб	",
-            eng: "	a forehead	"
-        },
-        {
-            id: 25,
-            ru: "	чёлка	",
-            eng: "	a fringe	"
-        },
-        {
-            id: 26,
-            ru: "животик	",
-            eng: " tummy	"
-        },
-        {
-            id: 27,
-            ru: "	пузико	",
-            eng: "	 belly	"
-        },
-        {
-            id: 28,
-            ru: "	татуировки	",
-            eng: "	tattoos on "
-        },
-        {
-            id: 29,
-            ru: "	ступни	",
-            eng: "	feet	"
-        },
-        {
-            id: 30,
-            ru: "	ступня	",
-            eng: "	a foot	"
-        },
-        {
-            id: 31,
-            ru: "	пятка	",
-            eng: "	a heel	"
-        },
-        {
-            id: 32,
-            ru: "	высокие каблуки	",
-            eng: "	high heels	"
-        },
-        {
-            id: 33,
-            ru: "	кнопка на пузе (пупок)	",
-            eng: "	a belly button	"
-        },
-        {
-            id: 34,
-            ru: "	попа	",
-            eng: "	bottom	"
-        },
-        {
-            id: 35,
-            ru: "	 ноги	",
-            eng: "	 legs	"
-        },
-        {
-            id: 36,
-            ru: "	шрам 	",
-            eng: "	a scar 	"
-        },
-        {
-            id: 37,
-            ru: "	борода 	",
-            eng: "	beard /биед/	"
-        },
-        {
-            id: 38,
-            ru: "	усы	",
-            eng: "	moustache /мАсташ/	"
-        },
-        {
-            id: 39,
-            ru: "	родинка	",
-            eng: "	a mole	/мОул/"
-        },
-        {
-            id: 40,
-            ru: "	родимое пятно	",
-            eng: "	a birthmark	"
-        },
-        {
-            id: 41,
-            ru: "	ямочка 	",
-            eng: "	a dimple 	"
-        },
-        {
-            id: 42,
-            ru: "	 морщинки	",
-            eng: "	 wrinkles	"
-        },
-        {
-            id: 43,
-            ru: "	веснушки	",
-            eng: "	 freckles	"
-        },
-        {
-            id: 44,
-            ru: "	кисти рук	",
-            eng: "	hands	"
-        },
-        {
-            id: 45,
-            ru: "	стройный	",
-            eng: "	slim	"
-        },
-        {
-            id: 46,
-            ru: "	тощий	",
-            eng: "	skinny	"
-        },
-        {
-            id: 47,
-            ru: "	волосы	",
-            eng: "	hair	"
-        },
-        {
-            id: 48,
-            ru: "	 лысый	",
-            eng: "	 bald	"
-        },
-        {
-            id: 49,
-            ru: "	рот	",
-            eng: "	mouth	"
-        },
-        {
-            id: 50,
-            ru: "	уши	",
-            eng: "	ears	"
-        },
-        {
-            id: 51,
-            ru: "	одно ухо	",
-            eng: "	an ear	"
-        },
-        {
-            id: 52,
-            ru: "	кудрявые	",
-            eng: "	curly	"
-        },
-        {
-            id: 53,
-            ru: "	прямые 	",
-            eng: "	straight /стрЭйт/	"
-        },
-        {
-            id: 54,
-            ru: "	  волнистые	",
-            eng: "	   wavy	"
-        },
-        {
-            id: 55,
-            ru: "	колено	",
-            eng: " a knee /ни/	"
-        },
-        {
-            id: 56,
-            ru: "	упругий	",
-            eng: "	firm / фёрм/"
-        },
-        {
-            id: 55,
-            ru: "	колени	",
-            eng: " knees /низ/	"
-        },
-
     ],
     Irregular_verbs_1_form: [
         {

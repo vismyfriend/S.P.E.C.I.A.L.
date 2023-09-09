@@ -14,6 +14,7 @@ headerPageReoad?.addEventListener("click", pageReloadRefresh)
 // уточнить у Эндрю про строку ниже - что это 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
 const oneDeckButtons = document.querySelector(".oneDeckButtons")
+const input = document.querySelector(".input")
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")
 const popupMissionsAndSetsSets = document.querySelector(".popupMissionsAndSets__sets")
 const chosenSet = document.querySelector(".popupMissionsAndSets__chosen-set")
@@ -427,6 +428,7 @@ function nextCards() {
 function startGameBenderWordOrderGame() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.remove("none")
+    input.classList.remove("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
 
 }
@@ -444,6 +446,7 @@ function startGameBenderWordOrderGame() {
 // уточнить у Andrew про set в скобках - что это
 function chooseSet(text, set) {
     fryFuturamaMainScreenIntro.classList.add("noshow")
+    input.classList.add("none")
     logoSpecial.classList.add("hidden")
     tryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")
@@ -469,6 +472,7 @@ function chooseSet(text, set) {
 function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
     fryFuturamaMainScreenIntro.classList.add("noshow")
+    input.classList.remove("none")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
 
@@ -586,6 +590,7 @@ function match(evt) {
 function finishGame() {
     clearInterval(interval)
     starResult()
+    input.classList.remove("none")
     starsEmoji.classList.add("visible")
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
     usedCheatsText.classList.add("visible")
@@ -631,6 +636,7 @@ function startGameInputTypeOrWriteGame() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.add("none")
     mainContainer3.classList.remove("none")
+    input.classList.remove("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
     value = chooseTypeOrWrite[typeOrWriteNumber]
     inputTitleEng.textContent = value.ru
@@ -661,7 +667,7 @@ function compareInput() {
         typeOrWriteGameСounter.textContent = `верно:  ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
 
     } else {
-        typeOrWriteGameСounter.textContent = `Хмм... чёт не то 🤷🏽‍♂️ может опечатка?! Проверь еще раз. Или сделай скриншот и отправь мне `
+        typeOrWriteGameСounter.textContent = `Хмм... чёт не то 🤷🏽‍♂️ может опечатка?! Проверь еще раз. Или сделай скриншот и отправь мне. Thank you. Потом нажми skip`
 
 
     }
