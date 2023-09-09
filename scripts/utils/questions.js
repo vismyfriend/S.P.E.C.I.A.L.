@@ -911,12 +911,12 @@ const allQuestionsOneDeck = {
     numbers0: [
         {					
             id	:	37	,		
-            eng	:	"	Хау ду ю сэй 11 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            eng	:	"	Хау ду ю сэй ОДИНАДЦАТЬ ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
             ru	:	"	eleven	"	
             }	,				
             {					
             id	:	38	,		
-            eng	:	"	Хау ду ю сэй 20 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            eng	:	"	Хау ду ю сэй ДВАДЦАТЬ ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
             ru	:	"	twenty	"	
             }	,				
             {					
@@ -1051,12 +1051,12 @@ const allQuestionsOneDeck = {
             }	,				
             {					
             id	:	65	,		
-            eng	:	"	Хау ду ю сэй 89 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            eng	:	"	Хау ду ю сэй ВОСЕМЬДЕСЯТ ДЕВЯТЬ ин инглиш? How do you say _ in English? Как на английском сказать число __?",
             ru	:	"	eighty-nine	"	
             }	,				
             {					
             id	:	66	,		
-            eng	:	"	Хау ду ю сэй 98 ин инглиш? How do you say __ in English? Как на английском сказать это число? 	"	,
+            eng	:	"	Хау ду ю сэй ДЕВЯНОСТО ВОСЕМЬ ин инглиш? How do you say _ in English? Как на английском сказать число __?"	,
             ru	:	"	ninety-eight	"	
             }	,														
     ],
