@@ -14,6 +14,35 @@ headerPageReoad?.addEventListener("click", pageReloadRefresh)
 // уточнить у Эндрю про строку ниже - что это 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
 const oneDeckButtons = document.querySelector(".oneDeckButtons")
+const keyQ = document.querySelector(".keyQ")
+const keyW = document.querySelector(".keyW")
+const keyE = document.querySelector(".keyE")
+const keyR = document.querySelector(".keyR")
+const keyT = document.querySelector(".keyT")
+const keyY = document.querySelector(".keyY")
+const keyU = document.querySelector(".keyU")
+const keyI = document.querySelector(".keyI")
+const keyO = document.querySelector(".keyO")
+const keyP = document.querySelector(".keyP")
+const keyA = document.querySelector(".keyA")
+const keyS = document.querySelector(".keyS")
+const keyD = document.querySelector(".keyD")
+const keyF = document.querySelector(".keyF")
+const keyG = document.querySelector(".keyG")
+const keyH = document.querySelector(".keyH")
+const keyJ = document.querySelector(".keyJ")
+const keyK = document.querySelector(".keyK")
+const keyL = document.querySelector(".keyL")
+const keyZ = document.querySelector(".keyZ")
+const keyX = document.querySelector(".keyX")
+const keyC = document.querySelector(".keyC")
+const keyV = document.querySelector(".keyV")
+const keyB = document.querySelector(".keyB")
+const keyN = document.querySelector(".keyN")
+const keyM = document.querySelector(".keyM")
+const keyDot = document.querySelector(".keyDot")
+const keyDel = document.querySelector(".keyDel")
+const keySpaceBar = document.querySelector(".keySpaceBar")
 const input = document.querySelector(".input")
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")
 const popupMissionsAndSetsSets = document.querySelector(".popupMissionsAndSets__sets")
@@ -687,6 +716,94 @@ function typeOrWriteGameSkip() {
     nextWordToTranslate(inputTitleEng)
     playerInputType.value = ""
 }
+keyQ.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "Q"
+})
+keyW.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "W"
+})
+keyE.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "E"
+})
+keyR.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "R"
+})
+keyT.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "T"
+})
+keyY.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "Y"
+})
+keyU.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "U"
+})
+keyI.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "I"
+})
+keyO.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "O"
+})
+keyP.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "P"
+})
+keyA.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "A"
+})
+keyS.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "S"
+})
+keyD.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "D"
+})
+keyF.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "F"
+})
+keyG.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "G"
+})
+keyH.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "H"
+})
+keyJ.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "J"
+})
+keyK.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "K"
+})
+keyL.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "L"
+})
+keyZ.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "Z"
+})
+keyX.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "X"
+})
+keyC.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "C"
+})
+keyV.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "V"
+})
+keyB.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "B"
+})
+keyN.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "N"
+})
+keyM.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "M"
+})
+keyDot.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + "."
+})
+keySpaceBar.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value + " "
+})
+keyDel.addEventListener("click", () => {
+    playerInputType.value = playerInputType.value.substring(0, playerInputType.value.length - 1);
+})
+
 
 
 typeOrWriteGameButtonIDK.addEventListener("click", () => {
