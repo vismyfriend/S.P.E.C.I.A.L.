@@ -88,6 +88,9 @@ const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScree
 
 // const MusicFromGoogleDriveDefault = new Audio("https://drive.google.com/file/d/1YlPN33KcfXRkw2BgHnNZVeb2z7NkiZKP/view?usp=sharing"); 
 // wtf пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java
+const keySoundInput = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/najatie-na-klaviaturu-iphone.mp3"); 
+keySoundInput.volume = 0.08
+const keySoundInputOk = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/zvuk-oplaty-apple-pay.mp3"); 
 // const audioIconOnOffTrack = document.querySelector(".audioIconOnOffTrack")
 const audioIcon = document.querySelector(".audioIcon")
 const audioIconOnOff = document.querySelector(".audioIconOnOff")
@@ -481,7 +484,7 @@ function chooseSet(text, set) {
     oneDeckButtons.classList.remove("visible")
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
-    popupMissionsAndSetsDescription.textContent = "Нажми какое задание выполнить: 👇 "
+    popupMissionsAndSetsDescription.textContent = "Нажимаем какое задание выполнить: 👇 "
     popupMissionsAndSetsSets.classList.add("hide")
     InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
@@ -507,7 +510,7 @@ function startGameQuestions() {
 
     // спросить у Andrew как делать перенос строки в Java? <br> работает только в HTML
     // ${<br/>}
-    usedCheatsText.textContent = `нажимай на карточку`
+    usedCheatsText.textContent = `нажимай на карточку и читай вслух:`
     usedCheatsText.classList.add("visible")
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")
@@ -640,7 +643,7 @@ function finishGame() {
     chosenSet.classList.remove("show")
     tryAgainButton.textContent = `Попробовать ещё раз! 💪 Try again! 👍`
     const AudioWinner = new Audio("https://zvukitop.com/wp-content/uploads/2021/03/zvuk-tadam-na-trube.mp3");
-    AudioWinner.volume = 0.075;
+    AudioWinner.volume = 0.06;
     AudioWinner.play()
     min = 0
     max = 6
@@ -693,10 +696,11 @@ function compareInput() {
         nextWordToTranslate(inputTitleEng)
         playerInputType.value = ""
         scoreTypeOrWriteGame += 1
+        keySoundInputOk.play()
         typeOrWriteGameСounter.textContent = `верно:  ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
 
     } else {
-        typeOrWriteGameСounter.textContent = `Хмм... чёт не то 🤷🏽‍♂️ может опечатка?! Проверь еще раз. Или сделай скриншот и отправь мне. Thank you. Потом нажми skip`
+        typeOrWriteGameСounter.textContent = `Хмм...🤷🏽‍♂️ может опечатка или лишний пробел? Попробуй еще раз. Или сделай скриншот и отправь мне. Thank you. Потом нажми skip`
 
 
     }
@@ -796,12 +800,19 @@ keyM.addEventListener("click", () => {
 })
 keyDot.addEventListener("click", () => {
     playerInputType.value = playerInputType.value + "."
+    // keySoundInput?.stop()
+    keySoundInput.play()
 })
 keySpaceBar.addEventListener("click", () => {
     playerInputType.value = playerInputType.value + " "
+    // keySoundInput.stop()
+    keySoundInput.play()
 })
 keyDel.addEventListener("click", () => {
     playerInputType.value = playerInputType.value.substring(0, playerInputType.value.length - 1);
+    const keyDelSoundInput = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/najatie-na-klaviaturu-iphone.mp3");
+    keyDelSoundInput.volume = 0.08
+    keyDelSoundInput.play()
 })
 
 

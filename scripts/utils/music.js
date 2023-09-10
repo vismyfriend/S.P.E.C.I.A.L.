@@ -1,6 +1,7 @@
 // Здесь музыка фоновая для игры findAPair 
 const playList = {
     testing: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    upperBody: "https://zvukitop.com/wp-content/uploads/2021/01/najatie-na-klaviaturu-iphone.mp3",
     testOneSeven: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     formulas0: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     questions0: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
