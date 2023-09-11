@@ -1924,12 +1924,12 @@ const allQuestionsOneDeck = {
             {
             id:122,
             eng:"What's your favorite food to bite?",
-            ru:"Какая твоя любимая еда для укуса?"
+            ru:"Что тебе больше всего нравится кусать из еды?"
             },
             {
             id:123,
-            eng:"Do you sometimes bite your tongue when you eat?",
-            ru:"Ты иногда прикусываешь себе язык, когда ешь?"
+            eng:"Do you sometimes bite your tongue / тан / ( язык ) when you eat something?",
+            ru:"Ты иногда прикусываешь себе язык, когда ешь что-нибудь?"
             },
             {
             id:124,
@@ -2078,7 +2078,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:153,
-            eng:"What do we have to do to stop the fire on a candle ? /кэндл/ свеча ",
+            eng:"What do we have to do, to stop the fire on a candle ? /кэндл/ свеча ",
             ru:"Что нам нужно сделать, чтобы погасить огонь на свече?"
             },
     ], 
