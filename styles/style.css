@@ -64,7 +64,17 @@
     display: block;
 
 }
+.oneDeckButtonText.visible {
+    display: block;
 
+}
+
+
+.usedCheatsText, .oneDeckButtonText {
+    color: #7BE7FF;
+    display: none;
+    text-align: center;
+}
 .usedCheatsText {
     color: #7BE7FF;
     display: none;
@@ -84,6 +94,7 @@ button {
 
 .oneDeckButtons.visible {
     display: flex;
+    flex-wrap: wrap;
 }
 
 
@@ -918,12 +929,13 @@ button {
 }
 
 .oneDeckOfCards__bottomOfTheCard1Value {
-    filter: blur(2px);
+    filter: blur(3px);
     display: flex;
     width: 100%;
     height: 100%;
     align-items: center;
     justify-content: center;
+    
 }
 
 .oneDeckOfCards__bottomOfTheCard1Value.Unblur {
@@ -934,6 +946,7 @@ button {
 .oneDeckOfCards__bottomOfTheCard1Value {
     margin: 0%;
     text-align: center;
+    font-size: 19px;
 }
 
 .oneDeckOfCards.AnOpenCard {

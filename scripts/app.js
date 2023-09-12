@@ -71,6 +71,7 @@ const scrollLeft = document.querySelector(".scroll-left")
 const scrollRight = document.querySelector(".scroll-right")
 const gameFindAPairInfo = document.querySelector(".gameFindAPair-info")
 const usedCheatsText = document.querySelector(".usedCheatsText")
+const oneDeckButtonText = document.querySelector(".oneDeckButtonText")
 const oneDeckButtonPrevious = document.querySelector(".oneDeckButtonPrevious")
 const oneDeckButtonCheck = document.querySelector(".oneDeckButtonCheck")
 const oneDeckButtonNext = document.querySelector(".oneDeckButtonNext")
@@ -370,6 +371,7 @@ function getquestions() {
         bottomOfTheCard1Value.textContent = value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
+        oneDeckButtonText.classList.remove("visible")
 
         // theValueOnTheTopCardGameQuestions = value.eng
         //  theValueOnTheBottomCardGameQuestions = value.ru
@@ -512,6 +514,7 @@ function startGameQuestions() {
     // ${<br/>}
     usedCheatsText.textContent = `нажимай на карточку и читай вслух:`
     usedCheatsText.classList.add("visible")
+    oneDeckButtonText.classList.add("visible")
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")
     interval = setInterval(startTimer, 10);
