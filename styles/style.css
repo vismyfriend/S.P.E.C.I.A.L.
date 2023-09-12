@@ -653,7 +653,7 @@ button {
 }
 
 .popupMissionsAndSets__InputTypeOrWriteGame p {
-    color: #80FF01;
+    /* color: #80FF01; */
 }
 
 .popupMissionsAndSets__gameFindAPair.show,

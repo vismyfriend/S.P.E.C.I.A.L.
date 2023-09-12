@@ -875,119 +875,104 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:3,
-            eng:"Who do you believe?",
-            ru:"Кому ты веришь?"
+            eng:"Guide",
+            ru:"Гид"
             },
             {
             id:4,
-            eng:"Are you proud of this?",
-            ru:"Ты гордишься этим?"
+            eng:"Take care",
+            ru:"Проявлять заботу (это два слова из четырёх букв)"
             },
             {
             id:5,
-            eng:"I don't feel safe",
-            ru:"Я не чувствую себя безопасно"
-            },
-            {
-            id:6,
             eng:"Make up ideas",
             ru:"Придумывать идеи"
             },
             {
-            id:7,
+            id:6,
             eng:"We do our best",
             ru:"Мы стараемя по максимуму"
             },
             {
-            id:8,
+            id:7,
             eng:"Achievements",
             ru:"Достижения"
             },
             {
-            id:9,
+            id:8,
             eng:"I am loved",
             ru:"Меня любят"
             },
             {
+            id:9,
+            eng:"fears",
+            ru:"Страхи"
+            },
+            {
             id:10,
-            eng:"I am not afraid of anything",
-            ru:"Мне ничего не страшно"
+            eng:"Feelings",
+            ru:"Чувства"
             },
             {
             id:11,
-            eng:"My feelings matter",
-            ru:"Мои чувства имеют значение"
+            eng:"Care",
+            ru:"Заботиться (4 буквы)"
             },
             {
             id:12,
-            eng:"I take care of myself",
-            ru:"Я проявляю заботу о себе"
+            eng:"Believe",
+            ru:"Верить"
             },
             {
             id:13,
-            eng:"They believe in themselves",
-            ru:"Они верят в себя"
-            },
-            {
-            id:14,
-            eng:"She does her best",
-            ru:"Она старается по максимуму"
-            },
-            {
-            id:15,
-            eng:"They do their best",
-            ru:"Они стараются по максимуму"
-            },
-            {
-            id:16,
             eng:"Awesome",
             ru:"Офигенно"
             },
             {
-            id:17,
+            id:14,
             eng:"I feel happy",
             ru:"Я чувствую себя счастливым"
             },
             {
+            id:15,
+            eng:"Overcome",
+            ru:"Преодолевать"
+            },
+            {
+            id:16,
+            eng:"Challenges",
+            ru:"Испытания, вызовы"
+            },
+            {
+            id:17,
+            eng:"I trust her",
+            ru:"Я доверяю ей"
+            },
+            {
             id:18,
-            eng:"Overcome challenges",
-            ru:"Преодолевать испытания"
+            eng:"I follow you",
+            ru:"Я следую за тобой"
             },
             {
             id:19,
-            eng:"It's a hard challenge ",
-            ru:"Это трудный вызов"
+            eng:"boss",
+            ru:"Начальник, шеф, хозяин"
             },
             {
             id:20,
-            eng:"I trust only Vincent",
-            ru:"Я доверяю только училке!"
-            },
-            {
-            id:21,
-            eng:"I follow my heart",
-            ru:"Я следую сердцу /харт/"
-            },
-            {
-            id:22,
-            eng:"I am the boss of my time",
-            ru:"Я хозяин своего времени"
-            },
-            {
-            id:23,
             eng:"A goal",
             ru:"Цель"
             },
             {
-            id:24,
+            id:21,
             eng:"Allow",
             ru:"Давать разрешение, позволять"
             },
             {
-            id:25,
-            eng:"Inner guide",
-            ru:"Внутреннее чутьё"
-            },		
+            id:22,
+            eng:"Inner",
+            ru:"Внутренний, внутренняя"
+            },
     ],
     affirmations2: [
         {
