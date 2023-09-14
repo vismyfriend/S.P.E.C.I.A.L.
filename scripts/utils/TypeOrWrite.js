@@ -37,6 +37,53 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"семь"	
             }	,				
     ],
+    stickyVerbs1: [
+        {
+            id:1,
+            eng:"love",
+            ru:"Любить"
+            },
+            {
+            id:2,
+            eng:"like",
+            ru:"Нравится"
+            },
+            {
+            id:3,
+            eng:"enjoy",
+            ru:"Наслаждаться, получать удовольствие от"
+            },
+            {
+            id:4,
+            eng:"give up",
+            ru:"Сдаваться, прекращать делать что-то"
+            },
+            {
+            id:5,
+            eng:"go on",
+            ru:"Продолжать"
+            },
+            {
+            id:6,
+            eng:"stop",
+            ru:"Остановиться, перестать"
+            },
+            {
+            id:7,
+            eng:"hate",
+            ru:"Ненавидеть"
+            },
+            {
+            id:8,
+            eng:"I like you",
+            ru:"Ты мне нравишься"
+            },
+            {
+            id:9,
+            eng:"You like English",
+            ru:"Тебе нравится английский"
+            },			
+    ],
     bodyAdj: [
         {
             id:58,

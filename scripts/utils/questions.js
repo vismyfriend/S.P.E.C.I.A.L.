@@ -1,5 +1,42 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+    testOneSeven: [
+        {					
+            id	:	1	,		
+            eng	:	"one1"	,
+            ru	:	"один"	
+            }	,				
+            {					
+            id	:	2	,		
+            eng	:	"two2"	,
+            ru	:	"два"	
+            }	,				
+            {					
+            id	:	3	,		
+            eng	:	"three3"	,
+            ru	:	"три"	
+            }	,			
+            {					
+            id	:	4	,		
+            eng	:	"four4"	,
+            ru	:	"четыре"	
+            }	,				
+            {					
+            id	:	5	,		
+            eng	:	"five5"	,
+            ru	:	"пять"	
+            }	,				
+            {					
+            id	:	6	,		
+            eng	:	"six6"	,
+            ru	:	"шесть"	
+            }	,				
+            {					
+            id	:	7	,		
+            eng	:	"seven7"	,
+            ru	:	"семь"	
+            }	,				
+    ],
     bodyAdj: [
         {
             id:80,
@@ -286,6 +323,73 @@ const allQuestionsOneDeck = {
             eng:"Can you touch your nose with your tongue /тан/ and without hands?",
             ru:"Ты можешь коснуться носа с помощью языка и без рук?"
             },	
+    ],
+    stickyVerbs1: [
+        {
+            id:1,
+            eng:"What food do you like eating?",
+            ru:"Какую еду тебе нравится есть? I like eating sushi very much"
+            },
+            {
+            id:2,
+            eng:"What films do you enjoy watching?",
+            ru:"I enjoy watching stupid romantic comedies"
+            },
+            {
+            id:3,
+            eng:"What do you hate doing?",
+            ru:"I hate waiting for my friends when they are late."
+            },
+            {
+            id:4,
+            eng:"Do you like or do you hate doing homework?",
+            ru:"I like doing homework. I am not lazy."
+            },
+            {
+            id:5,
+            eng:"What book did you stop reading?",
+            ru:"I stopped reading all books!"
+            },
+            {
+            id:6,
+            eng:"Do you want to go on studying English?",
+            ru:"Of course yes! I want to go on studying English with Vincent!"
+            },
+            {
+            id:7,
+            eng:"Why do you  enjoy studying English?",
+            ru:"I enjoy studying English because it is interesting for me"
+            },
+            {
+            id:8,
+            eng:"Do you sometimes give up? Or do you never give up?",
+            ru:"I am a usual person and of course I give up sometimes"
+            },
+            {
+            id:9,
+            eng:"What music do you like listening to?",
+            ru:"I like to listening to different music. But I really enjoy Rock music"
+            },
+            {
+            id:10,
+            eng:"Do you enjoy sleeping?",
+            ru:"I don't enjoy sleeping. I think that sleeping is boring (скучно)"
+            },
+            {
+            id:11,
+            eng:"What does Vincent hate doing?",
+            ru:"He hates sending me messages when I don't do homework"
+            },
+            {
+            id:12,
+            eng:"What did you hate doing when you were a child?",
+            ru:"I hated eating porridge when I was a child"
+            },
+            {
+            id:13,
+            eng:"What did you enjoy doing when you were a child?",
+            ru:"I enjoyed playing computer games when I was a child"
+            },
     ],
     upperBody: [
         {
@@ -2082,43 +2186,6 @@ const allQuestionsOneDeck = {
             ru:"Что нам нужно сделать, чтобы погасить огонь на свече?"
             },
     ], 
-    testOneSeven: [
-        {					
-            id	:	1	,		
-            eng	:	"one1"	,
-            ru	:	"один"	
-            }	,				
-            {					
-            id	:	2	,		
-            eng	:	"two2"	,
-            ru	:	"два"	
-            }	,				
-            {					
-            id	:	3	,		
-            eng	:	"three3"	,
-            ru	:	"три"	
-            }	,			
-            {					
-            id	:	4	,		
-            eng	:	"four4"	,
-            ru	:	"четыре"	
-            }	,				
-            {					
-            id	:	5	,		
-            eng	:	"five5"	,
-            ru	:	"пять"	
-            }	,				
-            {					
-            id	:	6	,		
-            eng	:	"six6"	,
-            ru	:	"шесть"	
-            }	,				
-            {					
-            id	:	7	,		
-            eng	:	"seven7"	,
-            ru	:	"семь"	
-            }	,				
-    ],
     formulas0: [
         {					
             id	:	78	,		
