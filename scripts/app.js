@@ -397,7 +397,7 @@ function searchSet() {
     let filtered = allSetsArray.filter(el => el.includes(inputSearch.value))
     let allSetsInHTML = document.querySelectorAll(".popupMissionsAndSets__set")
     allSetsInHTML.forEach(el => {
-        console.log(el.dataset.set)
+        // console.log(el.dataset.set)
         if (!filtered.includes(el.dataset.set)) {
             el.classList.add("none")
         } else {

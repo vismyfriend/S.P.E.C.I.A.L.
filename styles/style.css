@@ -98,7 +98,6 @@ button {
 
 
 
-
 .oneDeckButtons.visible {
     display: flex;
     flex-wrap: wrap;
@@ -1110,6 +1109,11 @@ button {
 .none {
     display: none;
 }
+
+.secretSet {
+    display: none;
+}
+
 
 .InfoUpdate {
     color: #6ca7fa;
