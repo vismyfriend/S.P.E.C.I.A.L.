@@ -69,6 +69,13 @@
 
 }
 
+/* .column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.column-reverse div:nth-child(1) {
+    border-bottom: dashed 1px #000;
+} */
 
 .usedCheatsText, .oneDeckButtonText {
     color: #7BE7FF;
@@ -104,6 +111,10 @@ button {
 }
 
 .oneDeckButtonNext {
+    width: 100px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #80FF01;
+}
+.oneDeckButtonSwitch {
     width: 100px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #80FF01;
 }
@@ -149,6 +160,7 @@ button {
     color: #000000;
     background-color: #000000;
     width: 310px;
+    user-select: none;
 }
 
 .mainContainer1.none {
@@ -889,10 +901,10 @@ button {
 
 
 .oneDeckOfCards {
-    background-image: url(../images/card.png);
+    background-image: url(../images/cards.png);
     width: 310px;
-    height: 145px;
-    background-size: 70%;
+    height: 225px;
+    background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -900,7 +912,7 @@ button {
 .oneDeckOfCards_cardForSpeakingGame {
     top: 180px;
     left: calc(50% - 111px);
-    transform: rotate(185deg);
+    transform: rotate(120deg);
 }
 
 .oneDeckOfCards_cardForSpeakingGame.hiddenDeck {
@@ -1106,8 +1118,8 @@ button {
 }
 
 .key {
-        box-shadow: 0px 2px 3px rgb(152 188 215);
-  
+    box-shadow: 0px 2px 3px rgb(152 188 215);
+    user-select: none;
     border: 2px solid black;
     /* border-radius: 5px; */
     grid-column: span 2;
@@ -1115,7 +1127,6 @@ button {
     padding: 10px 5px;
     text-transform: uppercase;
     text-align: center;
-
     background: #122023;
     border: 1px solid #596265;
     /* padding: 0.5rem; */

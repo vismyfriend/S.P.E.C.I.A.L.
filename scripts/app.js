@@ -1,10 +1,11 @@
 import allCardsGameFindAPair from "./utils/find-a-pair.js"
 import allQuestionsOneDeck from "./utils/questions.js"
 import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
-
+import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
 import { testGameBenderWordOrderGame } from "./utils/sentences.js"
-
+import benderWordOrderSentences from "./utils/benderWordOrder.js"
+// наверное потому что в скобках? поэтому только один массив с данными?
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
 
@@ -43,7 +44,7 @@ const keyM = document.querySelector(".keyM")
 const keyDot = document.querySelector(".keyDot")
 const keyDel = document.querySelector(".keyDel")
 const keySpaceBar = document.querySelector(".keySpaceBar")
-const input = document.querySelector(".input")
+const inputSearch = document.querySelector(".input.search")
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")
 const popupMissionsAndSetsSets = document.querySelector(".popupMissionsAndSets__sets")
 const chosenSet = document.querySelector(".popupMissionsAndSets__chosen-set")
@@ -75,6 +76,7 @@ const oneDeckButtonText = document.querySelector(".oneDeckButtonText")
 const oneDeckButtonPrevious = document.querySelector(".oneDeckButtonPrevious")
 const oneDeckButtonCheck = document.querySelector(".oneDeckButtonCheck")
 const oneDeckButtonNext = document.querySelector(".oneDeckButtonNext")
+const oneDeckButtonSwitch = document.querySelector(".oneDeckButtonSwitch")
 const cardForSpeakingGame = document.querySelector(".oneDeckOfCards_cardForSpeakingGame")
 const topOfTheCard1Value = cardForSpeakingGame.querySelector(".oneDeckOfCards__topOfTheCard1Value")
 const bottomOfTheCard1Value = cardForSpeakingGame.querySelector(".oneDeckOfCards__bottomOfTheCard1Value")
@@ -86,6 +88,8 @@ const typeOrWriteGameButtonIDK = document.querySelector(".typeOrWriteGameButtonI
 const typeOrWriteGameButtonSkip = document.querySelector(".typeOrWriteGameButtonSkip")
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
+
+let languageRu = false 
 
 // const MusicFromGoogleDriveDefault = new Audio("https://drive.google.com/file/d/1YlPN33KcfXRkw2BgHnNZVeb2z7NkiZKP/view?usp=sharing"); 
 // wtf пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java
@@ -358,8 +362,8 @@ function shuffleTypeOrWrite() {
 
 }
 
-// const theValueOnTheTopCardGameQuestions = null
-// const theValueOnTheBottomCardGameQuestions = null 
+// let theValueOnTheTopCardGameQuestions = null
+// let theValueOnTheBottomCardGameQuestions = null 
 
 function getquestions() {
     if (questionNumber < chooseQuestions.length) {
@@ -367,8 +371,8 @@ function getquestions() {
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
         value = chooseQuestions[questionNumber]
         bottomOfTheCard1Value.classList.remove("Unblur")
-        topOfTheCard1Value.textContent = value.eng
-        bottomOfTheCard1Value.textContent = value.ru
+        topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
+        bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
         oneDeckButtonText.classList.remove("visible")
@@ -386,6 +390,22 @@ function getquestions() {
     }
 }
 
+inputSearch.addEventListener("input", () => searchSet())
+
+
+function searchSet() {
+    let filtered = allSetsArray.filter(el => el.includes(inputSearch.value))
+    let allSetsInHTML = document.querySelectorAll(".popupMissionsAndSets__set")
+    allSetsInHTML.forEach(el => {
+        console.log(el.dataset.set)
+        if (!filtered.includes(el.dataset.set)) {
+            el.classList.add("none")
+        } else {
+            el.classList.remove("none")
+        }
+    });
+}
+
 bottomOfTheCard1Value.addEventListener("click", (event) => {
     bottomOfTheCard1Value.classList.toggle("Unblur")
     event.stopPropagation()
@@ -395,6 +415,15 @@ oneDeckButtonCheck.addEventListener("click", (event) => {
     bottomOfTheCard1Value.classList.toggle("Unblur")
     event.stopPropagation()
 })
+
+function switchLanguage() {
+    // cardForSpeakingGame.classList.add("column-reverse")
+    languageRu = !languageRu
+    topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
+    bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
+}
+
+oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
 
 cardForSpeakingGame.addEventListener("click", () => {
     const AudioNextQuestionCard = new Audio("https://zvukitop.com/wp-content/uploads/2021/06/klik-myshki-9.mp3");
@@ -462,7 +491,7 @@ function nextCards() {
 function startGameBenderWordOrderGame() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.remove("none")
-    input.classList.remove("none")
+    inputSearch.classList.remove("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
 
 }
@@ -480,7 +509,7 @@ function startGameBenderWordOrderGame() {
 // уточнить у Andrew про set в скобках - что это
 function chooseSet(text, set) {
     fryFuturamaMainScreenIntro.classList.add("noshow")
-    input.classList.add("none")
+    inputSearch.classList.add("none")
     logoSpecial.classList.add("hidden")
     tryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")
@@ -506,7 +535,7 @@ function chooseSet(text, set) {
 function startGameQuestions() {
     oneDeckButtons.classList.add("visible")
     fryFuturamaMainScreenIntro.classList.add("noshow")
-    input.classList.remove("none")
+    inputSearch.classList.remove("none")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
 
@@ -625,7 +654,7 @@ function match(evt) {
 function finishGame() {
     clearInterval(interval)
     starResult()
-    input.classList.remove("none")
+    inputSearch.classList.remove("none")
     starsEmoji.classList.add("visible")
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
     usedCheatsText.classList.add("visible")
@@ -671,7 +700,7 @@ function startGameInputTypeOrWriteGame() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.add("none")
     mainContainer3.classList.remove("none")
-    input.classList.remove("none")
+    inputSearch.classList.remove("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
     value = chooseTypeOrWrite[typeOrWriteNumber]
     inputTitleEng.textContent = value.ru
