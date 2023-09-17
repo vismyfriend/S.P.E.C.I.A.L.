@@ -394,7 +394,7 @@ inputSearch.addEventListener("input", () => searchSet())
 
 
 function searchSet() {
-    let filtered = allSetsArray.filter(el => el.includes(inputSearch.value))
+    let filtered = allSetsArray.filter(el => el.includes(inputSearch.value.toLowerCase()))
     let allSetsInHTML = document.querySelectorAll(".popupMissionsAndSets__set")
     allSetsInHTML.forEach(el => {
         // console.log(el.dataset.set)
@@ -405,6 +405,7 @@ function searchSet() {
         }
     });
 }
+
 
 bottomOfTheCard1Value.addEventListener("click", (event) => {
     bottomOfTheCard1Value.classList.toggle("Unblur")
