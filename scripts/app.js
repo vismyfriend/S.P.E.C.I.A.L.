@@ -511,6 +511,8 @@ function startGameBenderWordOrderGame() {
 function chooseSet(text, set) {
     fryFuturamaMainScreenIntro.classList.add("noshow")
     inputSearch.classList.add("none")
+    inputSearch.value = ""
+    searchSet()
     logoSpecial.classList.add("hidden")
     tryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")

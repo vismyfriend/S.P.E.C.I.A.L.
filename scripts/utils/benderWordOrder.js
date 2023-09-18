@@ -5897,107 +5897,317 @@ const benderWordOrderSentences = {
             eng: "	Rooster	/рУстэ/"
         }
     ],
-    verbs: [
+    commonVerbs: [
         {
-            id: 201,
-            ru: "	пить пиво	",
-            eng: "	drink beer /бир/	"
-        },
-        {
-            id: 202,
-            ru: "	мыть полы	",
-            eng: "	wash the floor	"
-        },
-        {
-            id: 203,
-            ru: "	готовить еду	",
-            eng: "	cook food	"
-        },
-        {
-            id: 204,
-            ru: "	целовать иностранца	",
-            eng: "	kiss a foreigner	"
-        },
-        {
-            id: 205,
-            ru: "	купить ноутбук	",
-            eng: "	buy a laptop	"
-        },
-        {
-            id: 206,
-            ru: "	петь в душе	",
-            eng: "	sing in the shower /шАуэ/	"
-        },
-        {
-            id: 207,
-            ru: "	делать домашку	",
-            eng: "	do homework	"
-        },
-        {
-            id: 208,
-            ru: "	спать	",
-            eng: "	sleep	"
-        },
-        {
-            id: 209,
-            ru: "	танцевать на столе	",
-            eng: "	dance on the table	"
-        },
-        {
-            id: 210,
-            ru: "	курить	",
-            eng: "	smoke	"
-        },
-        {
-            id: 211,
-            ru: "	усердно работать	",
-            eng: "	work hard	"
-        },
-        {
-            id: 212,
-            ru: "	отдыхать	",
-            eng: "	relax /рилЭкс/	"
-        },
-        {
-            id: 213,
-            ru: "	смотреть телефвизор	",
-            eng: "	watch TV	"
-        },
-        {
-            id: 214,
-            ru: "	играть в игры	",
-            eng: "	play video games	"
-        },
-        {
-            id: 215,
-            ru: "	болтать по телефону	",
-            eng: "	chat on the phone	"
-        },
-        {
-            id: 216,
-            ru: "	играть в баскетбол	",
-            eng: "	play basketball	"
-        },
-        {
-            id: 217,
-            ru: "	играть в покер	",
-            eng: "	play poker	"
-        },
-        {
-            id: 218,
-            ru: "	играть в нстольные игры	",
-            eng: "	play board games	"
-        },
-        {
-            id: 219,
-            ru: "	чистить зубы	",
-            eng: "	clean teeth	"
-        },
-        {
-            id: 220,
-            ru: "	ездить, кататься на велике	",
-            eng: "	ride a bicycle /бАйсикл/ 	"
-        },
+            id:1,
+            eng:"break something",
+            ru:"сломать что-то"
+            },
+            {
+            id:2,
+            eng:"beat somebody",
+            ru:"побить кого-то"
+            },
+            {
+            id:3,
+            eng:"dance on the table",
+            ru:"танцевать на столе"
+            },
+            {
+            id:4,
+            eng:"go to the toilet",
+            ru:"пойти в туалет"
+            },
+            {
+            id:5,
+            eng:"go to a bar",
+            ru:"пойти в бар"
+            },
+            {
+            id:6,
+            eng:"go to the GYM",
+            ru:"пойти в спортзал"
+            },
+            {
+            id:7,
+            eng:"buy something",
+            ru:"купить что-то"
+            },
+            {
+            id:8,
+            eng:"buy food",
+            ru:"купить еду"
+            },
+            {
+            id:9,
+            eng:"bring the children to school",
+            ru:"отвести детей в школу"
+            },
+            {
+            id:10,
+            eng:"bite nails",
+            ru:"грызть ногти"
+            },
+            {
+            id:11,
+            eng:"choose songs to sing",
+            ru:"выбирать песни для пения"
+            },
+            {
+            id:12,
+            eng:"deal with hooligans",
+            ru:"справляться с хулиганами"
+            },
+            {
+            id:13,
+            eng:"dig potatoes",
+            ru:"копать картошку"
+            },
+            {
+            id:14,
+            eng:"do English homework",
+            ru:"делать домашнее задание по английскому"
+            },
+            {
+            id:15,
+            eng:"drive a car",
+            ru:"водить машину"
+            },
+            {
+            id:16,
+            eng:"draw pictures",
+            ru:"рисовать картинки"
+            },
+            {
+            id:17,
+            eng:"eat something",
+            ru:"есть что-то"
+            },
+            {
+            id:18,
+            eng:"kiss somebody",
+            ru:"поцеловать кого-то"
+            },
+            {
+            id:19,
+            eng:"listen to music",
+            ru:"слушать музыку"
+            },
+            {
+            id:20,
+            eng:"drink alcohol",
+            ru:"пить алкоголь"
+            },
+            {
+            id:21,
+            eng:"hide money",
+            ru:"скрывать деньги"
+            },
+            {
+            id:22,
+            eng:"learn something new",
+            ru:"учить что-то новое"
+            },
+            {
+            id:23,
+            eng:"lose something",
+            ru:"потерять что-то"
+            },
+            {
+            id:24,
+            eng:"tell a lie",
+            ru:"сказать ложь"
+            },
+            {
+            id:25,
+            eng:"sleep",
+            ru:"спать"
+            },
+            {
+            id:26,
+            eng:"cook",
+            ru:"готовить"
+            },
+            {
+            id:27,
+            eng:"cry",
+            ru:"плакать"
+            },
+            {
+            id:28,
+            eng:"think about something",
+            ru:"думать о чем-то"
+            },
+            {
+            id:29,
+            eng:"play computer games",
+            ru:"играть в компьютерные игры"
+            },
+            {
+            id:30,
+            eng:"speak with somebody",
+            ru:"разговаривать с кем-то"
+            },
+            {
+            id:31,
+            eng:"wash a car",
+            ru:"мыть машину"
+            },
+            {
+            id:32,
+            eng:"watch TV",
+            ru:"смотреть телевизор"
+            },
+            {
+            id:33,
+            eng:"check e-mails",
+            ru:"проверять электронную почту"
+            },
+            {
+            id:34,
+            eng:"call someone",
+            ru:"позвонить кому-то"
+            },
+            {
+            id:35,
+            eng:"call the police",
+            ru:"вызвать полицию"
+            },
+            {
+            id:36,
+            eng:"run to work",
+            ru:"бежать на работу"
+            },
+            {
+            id:37,
+            eng:"work hard",
+            ru:"усердно работать"
+            },
+            {
+            id:38,
+            eng:"meet with somebody",
+            ru:"встречаться с кем-то"
+            },
+            {
+            id:39,
+            eng:"ride a horse",
+            ru:"ездить верхом на лошади"
+            },
+            {
+            id:40,
+            eng:"read a book",
+            ru:"читать книгу"
+            },
+            {
+            id:41,
+            eng:"sing favorite songs",
+            ru:"петь любимые песни"
+            },
+            {
+            id:42,
+            eng:"speak English",
+            ru:"разговаривать на английском"
+            },
+            {
+            id:43,
+            eng:"fly to a business trip",
+            ru:"лететь в командировку"
+            },
+            {
+            id:44,
+            eng:"send romantic postcards to a teacher",
+            ru:"отправлять романтические открытки учителю"
+            },
+            {
+            id:45,
+            eng:"spend a lot of money",
+            ru:"тратить много денег"
+            },
+            {
+            id:46,
+            eng:"sleep",
+            ru:"спать"
+            },
+            {
+            id:47,
+            eng:"walk with a dog",
+            ru:"гулять с собакой"
+            },
+            {
+            id:48,
+            eng:"relax",
+            ru:"расслабиться"
+            },
+            {
+            id:49,
+            eng:"swim in a swimming pool",
+            ru:"плавать в бассейне"
+            },
+            {
+            id:50,
+            eng:"swim in the sea",
+            ru:"плавать в море"
+            },
+            {
+            id:51,
+            eng:"have a shower",
+            ru:"принимать душ"
+            },
+            {
+            id:52,
+            eng:"do yoga",
+            ru:"заниматься йогой"
+            },
+            {
+            id:53,
+            eng:"sit in the cinema",
+            ru:"сидеть в кинотеатре"
+            },
+            {
+            id:54,
+            eng:"write dirty comments under somebody's post",
+            ru:"писать грязные комментарии под чьим-то постом"
+            },
+            {
+            id:55,
+            eng:"drink behind the garages",
+            ru:"пить за гаражами"
+            },
+            {
+            id:56,
+            eng:"smoke a cigar",
+            ru:"курить сигару"
+            },
+            {
+            id:57,
+            eng:"ride a motorbike",
+            ru:"ездить на мотоцикле"
+            },
+            {
+            id:58,
+            eng:"ride a bicycle",
+            ru:"кататься на велосипеде"
+            },
+            {
+            id:59,
+            eng:"touch my bellybutton",
+            ru:"трогать свой пупок"
+            },
+            {
+            id:60,
+            eng:"wash my body",
+            ru:"мыть свое тело"
+            },
+            {
+            id:61,
+            eng:"wash floors",
+            ru:"мыть полы"
+            },
+            {
+            id:62,
+            eng:"do the housework",
+            ru:"заниматься домашними делами"
+            },			
     ],
     numbers: [
         {
