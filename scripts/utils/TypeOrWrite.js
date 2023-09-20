@@ -5096,7 +5096,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:12,
             eng:"deal with hooligans",
-            ru:"справляться с хулиганами"
+            ru:"(неправильный глагол;) Иметь дела с хулиганами"
             },
             {
             id:13,
