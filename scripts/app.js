@@ -422,6 +422,7 @@ function switchLanguage() {
     languageRu = !languageRu
     topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
     bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
+    // cardForSpeakingGame.style.border = "solid 4px rgb(128, 255, 1)";
 }
 
 oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
