@@ -1,5 +1,6 @@
 const allSetsArray = [
     "commonVerbs",
+    "technologic",
     "testing",
     "testOneSeven",
     "when",

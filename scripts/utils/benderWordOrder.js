@@ -21,6 +21,293 @@ const benderWordOrderSentences = {
             eng: "A robot cannot speak English."
         },			
     ],
+    technologic: [
+        {
+            id:1,
+            eng:"Buy it",
+            ru:"Купи это"
+            },
+            {
+            id:2,
+            eng:"Use  it",
+            ru:"Используй это"
+            },
+            {
+            id:3,
+            eng:"Break it",
+            ru:"Сломай это"
+            },
+            {
+            id:4,
+            eng:"Fix it",
+            ru:"Отремонтируй это"
+            },
+            {
+            id:5,
+            eng:"Trash it",
+            ru:"Выкини это на мусорку"
+            },
+            {
+            id:6,
+            eng:"Change it",
+            ru:"Поменяй это"
+            },
+            {
+            id:7,
+            eng:"Mail it",
+            ru:"Пошли это по почте"
+            },
+            {
+            id:8,
+            eng:"Upgrade it",
+            ru:"Обнови это "
+            },
+            {
+            id:9,
+            eng:"Charge it",
+            ru:"Подзаряди это"
+            },
+            {
+            id:10,
+            eng:"Point it",
+            ru:"Укажи на это"
+            },
+            {
+            id:11,
+            eng:"Zoom it",
+            ru:"Увеличь это"
+            },
+            {
+            id:12,
+            eng:"Press it",
+            ru:"Нажми это"
+            },
+            {
+            id:13,
+            eng:"Snap it",
+            ru:"Щелкни этим"
+            },
+            {
+            id:14,
+            eng:"Work it",
+            ru:"Отработай это"
+            },
+            {
+            id:15,
+            eng:"Erase it",
+            ru:"Сотри это"
+            },
+            {
+            id:16,
+            eng:"Write it",
+            ru:"Напиши это"
+            },
+            {
+            id:17,
+            eng:"Cut it",
+            ru:"Вырежи это"
+            },
+            {
+            id:18,
+            eng:"Paste it",
+            ru:"Вставь это"
+            },
+            {
+            id:19,
+            eng:"Save it",
+            ru:"Сохрани это"
+            },
+            {
+            id:20,
+            eng:"Load it",
+            ru:"Загрузи это"
+            },
+            {
+            id:21,
+            eng:"Check it",
+            ru:"Проверь это"
+            },
+            {
+            id:22,
+            eng:"Rewrite it",
+            ru:"Перепиши это"
+            },
+            {
+            id:23,
+            eng:"Plug and play",
+            ru:"Включи в сеть и играй"
+            },
+            {
+            id:24,
+            eng:"Burn it",
+            ru:"Сожги это"
+            },
+            {
+            id:25,
+            eng:"Drag and drop it",
+            ru:"Потяни и урони это"
+            },
+            {
+            id:26,
+            eng:"Zip, unzip it",
+            ru:"Застегни, расстегни это"
+            },
+            {
+            id:27,
+            eng:"Lock it",
+            ru:"Закрой это на замок"
+            },
+            {
+            id:28,
+            eng:"Fill it",
+            ru:"Заполни это"
+            },
+            {
+            id:29,
+            eng:"Call it",
+            ru:"Позови это"
+            },
+            {
+            id:30,
+            eng:"Find it",
+            ru:"Найди это"
+            },
+            {
+            id:31,
+            eng:"View it",
+            ru:"Осмотри это"
+            },
+            {
+            id:32,
+            eng:"Code it",
+            ru:"Закодируй это"
+            },
+            {
+            id:33,
+            eng:"Jam",
+            ru:"замятие, пробка, варенье"
+            },
+            {
+            id:34,
+            eng:"Unlock it",
+            ru:"Разблокируй это"
+            },
+            {
+            id:35,
+            eng:"Scroll it",
+            ru:"Полистай это, прокрути это"
+            },
+            {
+            id:36,
+            eng:"Pause it",
+            ru:"Приостанови это"
+            },
+            {
+            id:37,
+            eng:"Cross it",
+            ru:"Перечеркни это"
+            },
+            {
+            id:38,
+            eng:"Crack it",
+            ru:"взломай это"
+            },
+            {
+            id:39,
+            eng:"Switch",
+            ru:"Переключи"
+            },
+            {
+            id:40,
+            eng:"Name it",
+            ru:"Назови это"
+            },
+            {
+            id:41,
+            eng:"Tune it",
+            ru:"Настрой это (про муз.инструменты)"
+            },
+            {
+            id:42,
+            eng:"Touch it",
+            ru:"Потрогай это"
+            },
+            {
+            id:43,
+            eng:"Turn it",
+            ru:"Поверни это"
+            },
+            {
+            id:44,
+            eng:"Rip it",
+            ru:"Разорви это"
+            },
+            {
+            id:45,
+            eng:"Leave it",
+            ru:"Покинь это, оставь это"
+            },
+            {
+            id:46,
+            eng:"Stop it",
+            ru:"Прекрати, останови это"
+            },
+            {
+            id:47,
+            eng:"Format it",
+            ru:"Отформатируй это"
+            },
+            {
+            id:48,
+            eng:"Print it",
+            ru:"Распечатай это"
+            },
+            {
+            id:49,
+            eng:"Bring it",
+            ru:"Принеси это"
+            },
+            {
+            id:50,
+            eng:"Pay quickly",
+            ru:"Заплати быстро"
+            },
+            {
+            id:51,
+            eng:"Click it",
+            ru:"Кликни по этому"
+            },
+            {
+            id:52,
+            eng:"Technologic /текнОлоджик/",
+            ru:"Технологичный"
+            },
+            {
+            id:53,
+            eng:"Rate it",
+            ru:"Дай этому оценку, оцени это"
+            },
+            {
+            id:54,
+            eng:"Update it",
+            ru:"Обнови это "
+            },
+            {
+            id:55,
+            eng:"Feel it",
+            ru:"Почувствуй это"
+            },
+            {
+            id:56,
+            eng:"Look at it",
+            ru:"Посмотри на это"
+            },
+            {
+            id:57,
+            eng:"Rename it",
+            ru:"Переименуй это"
+            },	
+    ],
     stickyVerbs1: [
         {
             ru: "Я не робот.",
