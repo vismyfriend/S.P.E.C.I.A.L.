@@ -347,17 +347,17 @@ const allQuestionsOneDeck = {
             },
             {
             id:5,
-            eng:"Trash it",
+            eng:"Trash it / трЭш /",
             ru:"Выкини это на мусорку"
             },
             {
             id:6,
-            eng:"Change it",
+            eng:"Change it / чендж/",
             ru:"Поменяй это"
             },
             {
             id:7,
-            eng:"Mail it",
+            eng:"Mail it / мэил /",
             ru:"Пошли это по почте"
             },
             {
@@ -367,7 +367,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:9,
-            eng:"Charge it",
+            eng:"Charge it / чардж /",
             ru:"Подзаряди это"
             },
             {
@@ -387,7 +387,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:13,
-            eng:"Rename it",
+            eng:"Rename it / ринЭйм /",
             ru:"Переименуй это"
             },
             {
@@ -397,7 +397,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:15,
-            eng:"Erase it",
+            eng:"Erase it / ирЭйз /",
             ru:"Сотри это"
             },
             {
@@ -407,12 +407,12 @@ const allQuestionsOneDeck = {
             },
             {
             id:17,
-            eng:"Cut it",
+            eng:"Cut it / кат /",
             ru:"Вырежи это"
             },
             {
             id:18,
-            eng:"Paste it",
+            eng:"Paste it / пЭйст /",
             ru:"Вставь это"
             },
             {
@@ -422,7 +422,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:20,
-            eng:"Load it",
+            eng:"Load it / лОуд /",
             ru:"Загрузи это"
             },
             {
@@ -432,17 +432,17 @@ const allQuestionsOneDeck = {
             },
             {
             id:22,
-            eng:"Rewrite it",
+            eng:"Rewrite it / рирайт /",
             ru:"Перепиши это"
             },
             {
             id:23,
-            eng:"Plug and play",
+            eng:"Plug and play / плаг эн плэй /",
             ru:"Включи в сеть и играй"
             },
             {
             id:24,
-            eng:"Burn it",
+            eng:"Burn it / бёрн /",
             ru:"Сожги это"
             },
             {
@@ -452,7 +452,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:26,
-            eng:"Zip, unzip it",
+            eng:"Zip, unzip it",
             ru:"Застегни, расстегни это"
             },
             {
@@ -467,27 +467,27 @@ const allQuestionsOneDeck = {
             },
             {
             id:29,
-            eng:"Call it",
+            eng:"Call it / кол /",
             ru:"Позови это"
             },
             {
             id:30,
-            eng:"Find it",
+            eng:"Find it / файнд /",
             ru:"Найди это"
             },
             {
             id:31,
-            eng:"View it",
+            eng:"View it / вью /",
             ru:"Осмотри это"
             },
             {
             id:32,
-            eng:"Code it",
+            eng:"Code it / кОуд /",
             ru:"Закодируй это"
             },
             {
             id:33,
-            eng:"Jam",
+            eng:"Jam /джем/",
             ru:"замятие, пробка, варенье"
             },
             {
@@ -502,7 +502,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:36,
-            eng:"Pause it",
+            eng:"Pause it / ПОЗ /",
             ru:"Приостанови это"
             },
             {
@@ -512,12 +512,12 @@ const allQuestionsOneDeck = {
             },
             {
             id:38,
-            eng:"Crack it",
+            eng:"Crack it / крэк/ ",
             ru:"взломай это"
             },
             {
             id:39,
-            eng:"Switch",
+            eng:"Switch / свич/ ",
             ru:"Переключи"
             },
             {
@@ -527,32 +527,32 @@ const allQuestionsOneDeck = {
             },
             {
             id:41,
-            eng:"Tune it",
+            eng:"Tune it / тьюн /",
             ru:"Настрой это (про муз.инструменты)"
             },
             {
             id:42,
-            eng:"Touch it",
+            eng:"Touch it / тач /",
             ru:"Потрогай это"
             },
             {
             id:43,
-            eng:"Turn it",
+            eng:"Turn it / тёрн /",
             ru:"Поверни это"
             },
             {
             id:44,
-            eng:"Rip it",
+            eng:"Rip it / рип /",
             ru:"Разорви это"
             },
             {
             id:45,
-            eng:"Leave it",
+            eng:"Leave it / лив /",
             ru:"Покинь это, оставь это"
             },
             {
             id:46,
-            eng:"Stop it",
+            eng:"Stop it / стап /",
             ru:"Прекрати, останови это"
             },
             {
@@ -572,7 +572,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:50,
-            eng:"Pay quickly",
+            eng:"Pay quickly / пэй куикли/",
             ru:"Заплати быстро"
             },
             {
@@ -587,12 +587,12 @@ const allQuestionsOneDeck = {
             },
             {
             id:53,
-            eng:"Rate it",
+            eng:"Rate it / рэйт/",
             ru:"Дай этому оценку, оцени это"
             },
             {
             id:54,
-            eng:"Update it",
+            eng:"Update it / апдэйт/",
             ru:"Обнови это "
             },
             {
@@ -602,8 +602,8 @@ const allQuestionsOneDeck = {
             },
             {
             id:56,
-            eng:"Look at this",
-            ru:"Посмотри вот на это"
+            eng:"Look at this / лук эт дыс /",
+            ru:"Посмотри на вот это"
             },
     ],
     stickyVerbs1: [
