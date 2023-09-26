@@ -60,27 +60,27 @@ const allCardsGameFindAPair = {
             },
             {
             id:5,
-            eng:"Trash it",
+            eng:"Trash it / трЭш /",
             ru:"Выкини это на мусорку"
             },
             {
             id:6,
-            eng:"Change it",
+            eng:"Change it / чендж/",
             ru:"Поменяй это"
             },
             {
             id:7,
-            eng:"Mail it",
+            eng:"Mail it / мэил /",
             ru:"Пошли это по почте"
             },
             {
             id:8,
             eng:"Upgrade it",
-            ru:"Обнови это "
+            ru:"Усовершенствуй, обнови это"
             },
             {
             id:9,
-            eng:"Charge it",
+            eng:"Charge it / чардж /",
             ru:"Подзаряди это"
             },
             {
@@ -100,17 +100,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:13,
-            eng:"Snap it",
-            ru:"Щелкни этим"
+            eng:"Rename it / ринЭйм /",
+            ru:"Переименуй это"
             },
             {
             id:14,
             eng:"Work it",
-            ru:"Отработай это"
+            ru:"Проработай это"
             },
             {
             id:15,
-            eng:"Erase it",
+            eng:"Erase it / ирЭйз /",
             ru:"Сотри это"
             },
             {
@@ -120,12 +120,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:17,
-            eng:"Cut it",
+            eng:"Cut it / кат /",
             ru:"Вырежи это"
             },
             {
             id:18,
-            eng:"Paste it",
+            eng:"Paste it / пЭйст /",
             ru:"Вставь это"
             },
             {
@@ -135,7 +135,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:20,
-            eng:"Load it",
+            eng:"Load it / лОуд /",
             ru:"Загрузи это"
             },
             {
@@ -145,27 +145,27 @@ const allCardsGameFindAPair = {
             },
             {
             id:22,
-            eng:"Rewrite it",
+            eng:"Rewrite it / рирайт /",
             ru:"Перепиши это"
             },
             {
             id:23,
-            eng:"Plug and play",
+            eng:"Plug and play / плаг эн плэй /",
             ru:"Включи в сеть и играй"
             },
             {
             id:24,
-            eng:"Burn it",
+            eng:"Burn it / бёрн /",
             ru:"Сожги это"
             },
             {
             id:25,
-            eng:"Drag and drop it",
-            ru:"Потяни и урони это"
+            eng:"Drag it",
+            ru:"Перетащи, перетяни это"
             },
             {
             id:26,
-            eng:"Zip, unzip it",
+            eng:"Zip, unzip it",
             ru:"Застегни, расстегни это"
             },
             {
@@ -180,27 +180,27 @@ const allCardsGameFindAPair = {
             },
             {
             id:29,
-            eng:"Call it",
+            eng:"Call it / кол /",
             ru:"Позови это"
             },
             {
             id:30,
-            eng:"Find it",
+            eng:"Find it / файнд /",
             ru:"Найди это"
             },
             {
             id:31,
-            eng:"View it",
+            eng:"View it / вью /",
             ru:"Осмотри это"
             },
             {
             id:32,
-            eng:"Code it",
+            eng:"Code it / кОуд /",
             ru:"Закодируй это"
             },
             {
             id:33,
-            eng:"Jam",
+            eng:"Jam /джем/",
             ru:"замятие, пробка, варенье"
             },
             {
@@ -215,7 +215,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:36,
-            eng:"Pause it",
+            eng:"Pause it / ПОЗ /",
             ru:"Приостанови это"
             },
             {
@@ -225,12 +225,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:38,
-            eng:"Crack it",
+            eng:"Crack it / крэк/ ",
             ru:"взломай это"
             },
             {
             id:39,
-            eng:"Switch",
+            eng:"Switch / свич/ ",
             ru:"Переключи"
             },
             {
@@ -240,32 +240,32 @@ const allCardsGameFindAPair = {
             },
             {
             id:41,
-            eng:"Tune it",
+            eng:"Tune it / тьюн /",
             ru:"Настрой это (про муз.инструменты)"
             },
             {
             id:42,
-            eng:"Touch it",
+            eng:"Touch it / тач /",
             ru:"Потрогай это"
             },
             {
             id:43,
-            eng:"Turn it",
+            eng:"Turn it / тёрн /",
             ru:"Поверни это"
             },
             {
             id:44,
-            eng:"Rip it",
+            eng:"Rip it / рип /",
             ru:"Разорви это"
             },
             {
             id:45,
-            eng:"Leave it",
+            eng:"Leave it / лив /",
             ru:"Покинь это, оставь это"
             },
             {
             id:46,
-            eng:"Stop it",
+            eng:"Stop it / стап /",
             ru:"Прекрати, останови это"
             },
             {
@@ -285,7 +285,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:50,
-            eng:"Pay quickly",
+            eng:"Pay quickly / пэй куикли/",
             ru:"Заплати быстро"
             },
             {
@@ -295,17 +295,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:52,
-            eng:"Technologic /текнОлоджик/",
-            ru:"Технологичный"
+            eng:"Drop it",
+            ru:"Урони это"
             },
             {
             id:53,
-            eng:"Rate it",
+            eng:"Rate it / рэйт/",
             ru:"Дай этому оценку, оцени это"
             },
             {
             id:54,
-            eng:"Update it",
+            eng:"Update it / апдэйт/",
             ru:"Обнови это "
             },
             {
@@ -315,14 +315,9 @@ const allCardsGameFindAPair = {
             },
             {
             id:56,
-            eng:"Look at it",
-            ru:"Посмотри на это"
+            eng:"Look at this / лук эт дыс /",
+            ru:"Посмотри на вот это"
             },
-            {
-            id:57,
-            eng:"Rename it",
-            ru:"Переименуй это"
-            },	
     ],
     stickyVerbs1: [
         {

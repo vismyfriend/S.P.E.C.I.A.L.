@@ -363,7 +363,7 @@ const allQuestionsOneDeck = {
             {
             id:8,
             eng:"Upgrade it",
-            ru:"Обнови это "
+            ru:"Усовершенствуй, обнови это"
             },
             {
             id:9,
@@ -387,13 +387,13 @@ const allQuestionsOneDeck = {
             },
             {
             id:13,
-            eng:"Snap it",
-            ru:"Щелкни этим"
+            eng:"Rename it",
+            ru:"Переименуй это"
             },
             {
             id:14,
             eng:"Work it",
-            ru:"Отработай это"
+            ru:"Проработай это"
             },
             {
             id:15,
@@ -447,8 +447,8 @@ const allQuestionsOneDeck = {
             },
             {
             id:25,
-            eng:"Drag and drop it",
-            ru:"Потяни и урони это"
+            eng:"Drag it",
+            ru:"Перетащи, перетяни это"
             },
             {
             id:26,
@@ -582,8 +582,8 @@ const allQuestionsOneDeck = {
             },
             {
             id:52,
-            eng:"Technologic /текнОлоджик/",
-            ru:"Технологичный"
+            eng:"Drop it",
+            ru:"Урони это"
             },
             {
             id:53,
@@ -602,14 +602,9 @@ const allQuestionsOneDeck = {
             },
             {
             id:56,
-            eng:"Look at it",
-            ru:"Посмотри на это"
+            eng:"Look at this",
+            ru:"Посмотри вот на это"
             },
-            {
-            id:57,
-            eng:"Rename it",
-            ru:"Переименуй это"
-            },	
     ],
     stickyVerbs1: [
         {
@@ -676,6 +671,41 @@ const allQuestionsOneDeck = {
             id:13,
             eng:"What did you enjoy doing when you were a child?",
             ru:"I enjoyed playing computer games when I was a child"
+            },
+            {
+            id:14,
+            eng:"What is the English for 'Наслаждаться' ?",
+            ru:"Enjoy"
+            },
+            {
+            id:15,
+            eng:"What is the English for 'Любить' ?",
+            ru:"Love"
+            },
+            {
+            id:16,
+            eng:"What is the English for 'Нравиться' ?",
+            ru:"Like"
+            },
+            {
+            id:17,
+            eng:"What is the English for 'Ненавидеть' ?",
+            ru:"Hate"
+            },
+            {
+            id:18,
+            eng:"What is the English for 'Сдаваться, переставать что-то делать' ?",
+            ru:"Give up doing something"
+            },
+            {
+            id:19,
+            eng:"What is the English for 'Продолжать' ?",
+            ru:"Go on doing something (либо continue to do something)"
+            },
+            {
+            id:20,
+            eng:"What is the English for 'Хранить, продолжать' ?",
+            ru:"Keep doing something. (Например I keep money in a bank. I keep losing my money…)"
             },
     ],
     upperBody: [

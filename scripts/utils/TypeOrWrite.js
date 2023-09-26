@@ -123,7 +123,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:8,
             eng:"Upgrade it",
-            ru:"Обнови это "
+            ru:"Усовершенствуй, обнови это"
             },
             {
             id:9,
@@ -147,13 +147,13 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:13,
-            eng:"Snap it",
-            ru:"Щелкни этим"
+            eng:"Rename it",
+            ru:"Переименуй это"
             },
             {
             id:14,
             eng:"Work it",
-            ru:"Отработай это"
+            ru:"Проработай это"
             },
             {
             id:15,
@@ -207,8 +207,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:25,
-            eng:"Drag and drop it",
-            ru:"Потяни и урони это"
+            eng:"Drag it",
+            ru:"Перетащи, перетяни это"
             },
             {
             id:26,
@@ -342,8 +342,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:52,
-            eng:"Technologic",
-            ru:"Технологичный"
+            eng:"Drop it",
+            ru:"Урони это"
             },
             {
             id:53,
@@ -362,14 +362,9 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:56,
-            eng:"Look at it",
-            ru:"Посмотри на это"
-            },
-            {
-            id:57,
-            eng:"Rename it",
-            ru:"Переименуй это"
-            },		
+            eng:"Look at this",
+            ru:"Посмотри вот на это"
+            },	
     ],
     bodyAdj: [
         {

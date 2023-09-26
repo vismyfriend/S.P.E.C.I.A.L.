@@ -574,6 +574,10 @@ button {
     color: yellow;
 }
 
+.orange {
+    color: orange;
+}
+
 .popupMissionsAndSets__sets {
     overflow-x: scroll;
     gap: 15px 10px;
