@@ -326,284 +326,154 @@ const allQuestionsOneDeck = {
     ],
     technologic: [
         {
-            id:1,
-            eng:"Buy it",
-            ru:"Купи это"
+            id:64,
+            eng:"Name 3 things (that) you bought last week",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:2,
-            eng:"Use  it",
-            ru:"Используй это"
+            id:65,
+            eng:"Name 3 things (that) people can fix",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:3,
-            eng:"Break it",
-            ru:"Сломай это"
+            id:66,
+            eng:"Name 3 things (that) people can break",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:4,
-            eng:"Fix it",
-            ru:"Отремонтируй это"
+            id:67,
+            eng:"Name 3 things (that) you used yesterday",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:5,
-            eng:"Trash it / трЭш /",
-            ru:"Выкини это на мусорку"
+            id:68,
+            eng:"Name 3 things (that) you broke ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:6,
-            eng:"Change it / чендж/",
-            ru:"Поменяй это"
+            id:69,
+            eng:"Name 3 things (that) you changed around your house",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:7,
-            eng:"Mail it / мэил /",
-            ru:"Пошли это по почте"
+            id:70,
+            eng:"Name 3 things (that) people usually send by mail",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:8,
-            eng:"Upgrade it",
-            ru:"Усовершенствуй, обнови это"
+            id:71,
+            eng:"Name one or two things (that) you want to upgrade",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:9,
-            eng:"Charge it / чардж /",
-            ru:"Подзаряди это"
+            id:72,
+            eng:"Name 3 things (that) people can charge",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:10,
-            eng:"Point it",
-            ru:"Укажи на это"
+            id:73,
+            eng:"Point at 3 things around you and name them",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:11,
-            eng:"Zoom it",
-            ru:"Увеличь это"
+            id:74,
+            eng:"Name 3 things (that) people usually press",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:12,
-            eng:"Press it",
-            ru:"Нажми это"
+            id:75,
+            eng:"Name 3 things (that) people usually forget to do ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:13,
-            eng:"Rename it / ринЭйм /",
-            ru:"Переименуй это"
+            id:76,
+            eng:"Name 3 movies (that) you like very much",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:14,
-            eng:"Work it",
-            ru:"Проработай это"
+            id:77,
+            eng:"Name 3 things (that) you cannot do at work ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:15,
-            eng:"Erase it / ирЭйз /",
-            ru:"Сотри это"
+            id:78,
+            eng:"Name 3 things (that) children usually bring home",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:16,
-            eng:"Write it",
-            ru:"Напиши это"
+            id:79,
+            eng:"Name 3 words (that) you or other people usually forget how to spell ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:17,
-            eng:"Cut it / кат /",
-            ru:"Вырежи это"
+            id:80,
+            eng:"Name 3 things (that) people can cut",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:18,
-            eng:"Paste it / пЭйст /",
-            ru:"Вставь это"
+            id:81,
+            eng:"Do you know the cobination of keys to Copy and Paste something on computer?",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:19,
-            eng:"Save it",
-            ru:"Сохрани это"
+            id:82,
+            eng:"Name 3 things (that) people usually download from the internet",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:20,
-            eng:"Load it / лОуд /",
-            ru:"Загрузи это"
+            id:83,
+            eng:"Name one or two toys (that) you like or liked. ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:21,
-            eng:"Check it",
-            ru:"Проверь это"
+            id:84,
+            eng:"Name 3 things (that) people can check ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:22,
-            eng:"Rewrite it / рирайт /",
-            ru:"Перепиши это"
+            id:85,
+            eng:"Name 3 things (that) people can write",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:23,
-            eng:"Plug and play / плаг эн плэй /",
-            ru:"Включи в сеть и играй"
+            id:86,
+            eng:"Name 3 things (that) you usually plug to the electricity",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:24,
-            eng:"Burn it / бёрн /",
-            ru:"Сожги это"
+            id:87,
+            eng:"Name 3 things (that) people can burn",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:25,
-            eng:"Drag it",
-            ru:"Перетащи, перетяни это"
+            id:88,
+            eng:"How to translate 'Zip' and 'Unzip'?",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:26,
-            eng:"Zip, unzip it",
-            ru:"Застегни, расстегни это"
+            id:89,
+            eng:"Name 3 things (that) people can lock",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:27,
-            eng:"Lock it",
-            ru:"Закрой это на замок"
+            id:90,
+            eng:"Name 3 people (that) you usually call ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:28,
-            eng:"Fill it",
-            ru:"Заполни это"
+            id:91,
+            eng:"Name 3 drinks (that) you like ",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:29,
-            eng:"Call it / кол /",
-            ru:"Позови это"
+            id:92,
+            eng:"Name 3 things (that) people can pause or stop doing",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
             {
-            id:30,
-            eng:"Find it / файнд /",
-            ru:"Найди это"
-            },
-            {
-            id:31,
-            eng:"View it / вью /",
-            ru:"Осмотри это"
-            },
-            {
-            id:32,
-            eng:"Code it / кОуд /",
-            ru:"Закодируй это"
-            },
-            {
-            id:33,
-            eng:"Jam /джем/",
-            ru:"замятие, пробка, варенье"
-            },
-            {
-            id:34,
-            eng:"Unlock it",
-            ru:"Разблокируй это"
-            },
-            {
-            id:35,
-            eng:"Scroll it",
-            ru:"Полистай это, прокрути это"
-            },
-            {
-            id:36,
-            eng:"Pause it / ПОЗ /",
-            ru:"Приостанови это"
-            },
-            {
-            id:37,
-            eng:"Cross it",
-            ru:"Перечеркни это"
-            },
-            {
-            id:38,
-            eng:"Crack it / крэк/ ",
-            ru:"взломай это"
-            },
-            {
-            id:39,
-            eng:"Switch / свич/ ",
-            ru:"Переключи"
-            },
-            {
-            id:40,
-            eng:"Name it",
-            ru:"Назови это"
-            },
-            {
-            id:41,
-            eng:"Tune it / тьюн /",
-            ru:"Настрой это (про муз.инструменты)"
-            },
-            {
-            id:42,
-            eng:"Touch it / тач /",
-            ru:"Потрогай это"
-            },
-            {
-            id:43,
-            eng:"Turn it / тёрн /",
-            ru:"Поверни это"
-            },
-            {
-            id:44,
-            eng:"Rip it / рип /",
-            ru:"Разорви это"
-            },
-            {
-            id:45,
-            eng:"Leave it / лив /",
-            ru:"Покинь это, оставь это"
-            },
-            {
-            id:46,
-            eng:"Stop it / стап /",
-            ru:"Прекрати, останови это"
-            },
-            {
-            id:47,
-            eng:"Format it",
-            ru:"Отформатируй это"
-            },
-            {
-            id:48,
-            eng:"Print it",
-            ru:"Распечатай это"
-            },
-            {
-            id:49,
-            eng:"Bring it",
-            ru:"Принеси это"
-            },
-            {
-            id:50,
-            eng:"Pay quickly / пэй куикли/",
-            ru:"Заплати быстро"
-            },
-            {
-            id:51,
-            eng:"Click it",
-            ru:"Кликни по этому"
-            },
-            {
-            id:52,
-            eng:"Drop it",
-            ru:"Урони это"
-            },
-            {
-            id:53,
-            eng:"Rate it / рэйт/",
-            ru:"Дай этому оценку, оцени это"
-            },
-            {
-            id:54,
-            eng:"Update it / апдэйт/",
-            ru:"Обнови это "
-            },
-            {
-            id:55,
-            eng:"Feel it",
-            ru:"Почувствуй это"
-            },
-            {
-            id:56,
-            eng:"Look at this / лук эт дыс /",
-            ru:"Посмотри на вот это"
+            id:93,
+            eng:"How many light switchers do you have around your apartments?",
+            ru:"упс, а перевода нет, пытаемся понять по контексту!"
             },
     ],
     stickyVerbs1: [
