@@ -37,6 +37,155 @@ const allCardsGameFindAPair = {
             ru	:	"семь"	
             }	,				
     ],
+    xyz: [
+            
+            {
+            id:22,
+            eng:"deal , dealt , dealt",
+            ru:"иметь дела"
+            },
+            {
+            id:23,
+            eng:"dig , dug , dug",
+            ru:"копать"
+            },
+            {
+            id:24,
+            eng:"do , did , done",
+            ru:"выполнять, делать, заниматься"
+            },
+            {
+            id:25,
+            eng:"drive , drove , driven",
+            ru:"водить"
+            },
+            {
+            id:26,
+            eng:"draw , drew , drawn",
+            ru:"рисовать"
+            },
+            {
+            id:27,
+            eng:"drink , drank , drunk",
+            ru:"пить"
+            },
+            {
+            id:28,
+            eng:"eat , ate , eaten",
+            ru:"кушать"
+            },
+            {
+            id:29,
+            eng:"fall , fell , fallen",
+            ru:"падать"
+            },
+            {
+            id:30,
+            eng:"feed , fed , fed",
+            ru:"кормить"
+            },
+            {
+            id:31,
+            eng:"feel , felt , felt",
+            ru:"чувствовать"
+            },
+            {
+            id:32,
+            eng:"fight , fought , fought",
+            ru:"сражаться"
+            },
+            {
+            id:33,
+            eng:"find , found , found",
+            ru:"находить"
+            },
+            {
+            id:34,
+            eng:"fly , flew , flown",
+            ru:"летать"
+            },
+            {
+            id:35,
+            eng:"forbid , forbade , forbidden",
+            ru:"запрещать"
+            },
+            {
+            id:36,
+            eng:"forget , forgot , forgotten",
+            ru:"забывать"
+            },
+            {
+            id:37,
+            eng:"forgive , forgave , forgiven",
+            ru:"прощать"
+            },
+            {
+            id:38,
+            eng:"freeze , froze , frozen",
+            ru:"замерзать"
+            },
+            {
+            id:39,
+            eng:"grow , grew , grown",
+            ru:"расти"
+            },
+            {
+            id:40,
+            eng:"get , got , got",
+            ru:"получать"
+            },
+            {
+            id:41,
+            eng:"give , gave , given",
+            ru:"давать"
+            },
+            {
+            id:42,
+            eng:"go , went , gone",
+            ru:"ходить"
+            },
+            {
+            id:43,
+            eng:"have , had , had",
+            ru:"иметь"
+            },
+            {
+            id:44,
+            eng:"hear , heard , heard",
+            ru:"слышать"
+            },
+            {
+            id:45,
+            eng:"hide , hid , hidden",
+            ru:"прятать"
+            },
+            {
+            id:46,
+            eng:"hit , hit , hit",
+            ru:"ударять"
+            },
+            {
+            id:47,
+            eng:"hurt , hurt , hurt",
+            ru:"причинять боль"
+            },
+            {
+            id:48,
+            eng:"hold , held , held",
+            ru:"держать"
+            },
+            {
+            id:49,
+            eng:"keep , kept , kept",
+            ru:"хранить"
+            },
+            {
+            id:50,
+            eng:"know , knew , known",
+            ru:"знать"
+            },
+            		
+    ],
     abc: [
         {
             id:1,

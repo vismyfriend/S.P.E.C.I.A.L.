@@ -3,6 +3,7 @@ const allSetsArray = [
     "technologic",
     "testing",
     "abc",
+    "xyz",
     "testOneSeven",
     "when",
     "numbers0",
