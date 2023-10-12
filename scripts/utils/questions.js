@@ -37,6 +37,98 @@ const allQuestionsOneDeck = {
             ru	:	"семь"	
             }	,				
     ],
+    abc: [
+        {
+            id:1,
+            eng:"eat , ate , eaten",
+            ru:"кушать, есть"
+            },
+            {
+            id:2,
+            eng:"like, liked, liked",
+            ru:"нравиться"
+            },
+            {
+            id:3,
+            eng:"love , loved , loved",
+            ru:"любить"
+            },
+            {
+            id:4,
+            eng:"break , broke , broken",
+            ru:"ломать"
+            },
+            {
+            id:5,
+            eng:"beat , beat , beaten",
+            ru:"бить, побить в соревновании"
+            },
+            {
+            id:6,
+            eng:"become , became , become",
+            ru:"становиться"
+            },
+            {
+            id:7,
+            eng:"begin , began , begun",
+            ru:"начинать"
+            },
+            {
+            id:8,
+            eng:"blow , blew , blown",
+            ru:"дуть"
+            },
+            {
+            id:9,
+            eng:"build , built , built",
+            ru:"строить"
+            },
+            {
+            id:10,
+            eng:"burn , burnt , burnt",
+            ru:"сжигать или гореть"
+            },
+            {
+            id:11,
+            eng:"buy , bought , bought",
+            ru:"покупать"
+            },
+            {
+            id:12,
+            eng:"bring , brought , brought",
+            ru:"приносить"
+            },
+            {
+            id:13,
+            eng:"be , was/were , been",
+            ru:"быть"
+            },
+            {
+            id:14,
+            eng:"bite , bit , bit",
+            ru:"кусать"
+            },
+            {
+            id:15,
+            eng:"come , came , come",
+            ru:"приходить"
+            },
+            {
+            id:16,
+            eng:"choose , chose , chosen",
+            ru:"выбирать"
+            },
+            {
+            id:17,
+            eng:"catch , caught , caught",
+            ru:"ловить"
+            },		
+            {
+            id:18,
+            eng:"do , did , done",
+            ru:"делать"
+            },		
+    ],
     bodyAdj: [
         {
             id:80,
