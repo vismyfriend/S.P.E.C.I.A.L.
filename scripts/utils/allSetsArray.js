@@ -46,6 +46,7 @@ const allSetsArray = [
     "musicCheck",
     "musicCheck",
     "new_mission",
+    "spanish",
 
 
 ]

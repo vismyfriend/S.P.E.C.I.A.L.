@@ -129,6 +129,143 @@ const allWordsForGameTypeOrWrite = {
             ru:"делать/выполнять"
             },		
     ],
+    spanish: [
+        {
+            id:1,
+            eng:"Yo",
+            ru:"Я"
+            },
+            {
+            id:2,
+            eng:"Tu",
+            ru:"Ты"
+            },
+            {
+            id:3,
+            eng:"Ella",
+            ru:"Она"
+            },
+            {
+            id:4,
+            eng:"El",
+            ru:"Он"
+            },
+            {
+            id:5,
+            eng:"Nosotros",
+            ru:"Мы"
+            },
+            {
+            id:6,
+            eng:"Vosotros",
+            ru:"Вы"
+            },
+            {
+            id:7,
+            eng:"Ellos",
+            ru:"Они"
+            },
+            {
+            id:8,
+            eng:"muy",
+            ru:"Очень"
+            },
+            {
+            id:9,
+            eng:"Hola",
+            ru:"Привет"
+            },
+            {
+            id:10,
+            eng:"Buenos dias",
+            ru:"Добрый день"
+            },
+            {
+            id:11,
+            eng:"buenos tardes",
+            ru:"Добрый вечер"
+            },
+            {
+            id:12,
+            eng:"Que tal",
+            ru:"Как дела"
+            },
+            {
+            id:13,
+            eng:"Adios",
+            ru:"Пока"
+            },
+            {
+            id:14,
+            eng:"Hasta luego",
+            ru:"Скоро увидимся"
+            },
+            {
+            id:15,
+            eng:"Mucho gusto",
+            ru:"Очень приятно"
+            },
+            {
+            id:16,
+            eng:"Perdona",
+            ru:"Извините, не понял"
+            },
+            {
+            id:17,
+            eng:"Encantado",
+            ru:"Взаимно"
+            },
+            {
+            id:18,
+            eng:"Quien eres",
+            ru:"Кто вы"
+            },
+            {
+            id:19,
+            eng:"Verde",
+            ru:"Зеленый"
+            },
+            {
+            id:20,
+            eng:"Azul",
+            ru:"Синий"
+            },
+            {
+            id:21,
+            eng:"Amarilo",
+            ru:"Желтый"
+            },
+            {
+            id:22,
+            eng:"NaranjA",
+            ru:"Оранжевый"
+            },
+            {
+            id:23,
+            eng:"Rojo",
+            ru:"Красный"
+            },
+            {
+            id:24,
+            eng:"RosA",
+            ru:"Розовый"
+            },
+            {
+            id:25,
+            eng:"VioletA",
+            ru:"Фиолетовый"
+            },
+            {
+            id:26,
+            eng:"Marron",
+            ru:"Коричневый"
+            },
+            {
+            id:27,
+            eng:"Negro",
+            ru:"Черный"
+            },		
+    ],
     xyz: [
             
         {

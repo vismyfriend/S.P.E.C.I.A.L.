@@ -1,5 +1,142 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+    spanish: [
+        {
+            id:1,
+            eng:"Я",
+            ru:"Yo son"
+            },
+            {
+            id:2,
+            eng:"Ты",
+            ru:"Tu eres"
+            },
+            {
+            id:3,
+            eng:"Она",
+            ru:"Ella es"
+            },
+            {
+            id:4,
+            eng:"Он",
+            ru:"El es"
+            },
+            {
+            id:5,
+            eng:"Мы",
+            ru:"Nosotros somos"
+            },
+            {
+            id:6,
+            eng:"Вы",
+            ru:"Vosotros sois"
+            },
+            {
+            id:7,
+            eng:"Они",
+            ru:"Ellos son"
+            },
+            {
+            id:8,
+            eng:"Очень",
+            ru:"muy"
+            },
+            {
+            id:9,
+            eng:"Привет",
+            ru:"Hola"
+            },
+            {
+            id:10,
+            eng:"Добрый день",
+            ru:"Buenos dias"
+            },
+            {
+            id:11,
+            eng:"Добрый вечер",
+            ru:"buenos tardes"
+            },
+            {
+            id:12,
+            eng:"Как дела?",
+            ru:"Que tal?"
+            },
+            {
+            id:13,
+            eng:"Пока!",
+            ru:"Adios!"
+            },
+            {
+            id:14,
+            eng:"Скоро увидимся",
+            ru:"Hasta luego"
+            },
+            {
+            id:15,
+            eng:"Очень приятно",
+            ru:"Mucho gusto"
+            },
+            {
+            id:16,
+            eng:"Извините, не понял",
+            ru:"Perdona"
+            },
+            {
+            id:17,
+            eng:"Взаимно",
+            ru:"Encantado(a)"
+            },
+            {
+            id:18,
+            eng:"Кто вы?",
+            ru:"Quien eres?"
+            },
+            {
+            id:19,
+            eng:"Зеленый",
+            ru:"Verde"
+            },
+            {
+            id:20,
+            eng:"Синий",
+            ru:"Azul"
+            },
+            {
+            id:21,
+            eng:"Желтый",
+            ru:"Amarilo"
+            },
+            {
+            id:22,
+            eng:"Оранжевый",
+            ru:"NaranjA"
+            },
+            {
+            id:23,
+            eng:"Красный",
+            ru:"Rojo"
+            },
+            {
+            id:24,
+            eng:"Розовый",
+            ru:"RosA"
+            },
+            {
+            id:25,
+            eng:"Фиолетовый",
+            ru:"VioletA"
+            },
+            {
+            id:26,
+            eng:"Коричневый",
+            ru:"Marron"
+            },
+            {
+            id:27,
+            eng:"Черный",
+            ru:"Negro"
+            },			
+    ],
     testOneSeven: [
         {					
             id	:	1	,		
