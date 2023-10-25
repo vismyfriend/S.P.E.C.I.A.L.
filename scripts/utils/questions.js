@@ -3,139 +3,59 @@ const allQuestionsOneDeck = {
     spanish: [
         {
             id:1,
-            eng:"Я",
-            ru:"Yo son"
+            eng:"Donde esta tu amigo?",
+            ru:"Где твой друг? Mi amigo esta en el parque"
             },
             {
             id:2,
-            eng:"Ты",
-            ru:"Tu eres"
+            eng:"Donde esta Madrid?",
+            ru:"Где Мадрид? Madrid esta en Espana"
             },
             {
             id:3,
-            eng:"Она",
-            ru:"Ella es"
+            eng:"Donde estan mi boligrafos y cuadernos?",
+            ru:"Где мои ручки и тетради? estan el bolso"
             },
             {
             id:4,
-            eng:"Он",
-            ru:"El es"
+            eng:"Donde estas?",
+            ru:"Estoy la universidad"
             },
             {
             id:5,
-            eng:"Мы",
-            ru:"Nosotros somos"
+            eng:"Son lapices gordos",
+            ru:"Это толстые карандаши"
             },
             {
             id:6,
-            eng:"Вы",
-            ru:"Vosotros sois"
+            eng:"Son mochillas viejos",
+            ru:"Много старых рюкзаков"
             },
             {
             id:7,
-            eng:"Они",
-            ru:"Ellos son"
+            eng:"Son boligrafos muyrojos",
+            ru:"Очень красные ручки"
             },
             {
             id:8,
-            eng:"Очень",
-            ru:"muy"
+            eng:"Nosotros somos gente guapa",
+            ru:"Мы красивый народ (люди)"
             },
             {
             id:9,
-            eng:"Привет",
-            ru:"Hola"
+            eng:"Me parece que calma es verde",
+            ru:"Мне кажется, что спокойствие зеленого цвета"
             },
             {
             id:10,
-            eng:"Добрый день",
-            ru:"Buenos dias"
+            eng:"Donde estais?",
+            ru:"Где вы? -Estais aqui! мы здесь"
             },
             {
             id:11,
-            eng:"Добрый вечер",
-            ru:"buenos tardes"
-            },
-            {
-            id:12,
-            eng:"Как дела?",
-            ru:"Que tal?"
-            },
-            {
-            id:13,
-            eng:"Пока!",
-            ru:"Adios!"
-            },
-            {
-            id:14,
-            eng:"Скоро увидимся",
-            ru:"Hasta luego"
-            },
-            {
-            id:15,
-            eng:"Очень приятно",
-            ru:"Mucho gusto"
-            },
-            {
-            id:16,
-            eng:"Извините, не понял",
-            ru:"Perdona"
-            },
-            {
-            id:17,
-            eng:"Взаимно",
-            ru:"Encantado(a)"
-            },
-            {
-            id:18,
-            eng:"Кто вы?",
-            ru:"Quien eres?"
-            },
-            {
-            id:19,
-            eng:"Зеленый",
-            ru:"Verde"
-            },
-            {
-            id:20,
-            eng:"Синий",
-            ru:"Azul"
-            },
-            {
-            id:21,
-            eng:"Желтый",
-            ru:"Amarilo"
-            },
-            {
-            id:22,
-            eng:"Оранжевый",
-            ru:"NaranjA"
-            },
-            {
-            id:23,
-            eng:"Красный",
-            ru:"Rojo"
-            },
-            {
-            id:24,
-            eng:"Розовый",
-            ru:"RosA"
-            },
-            {
-            id:25,
-            eng:"Фиолетовый",
-            ru:"VioletA"
-            },
-            {
-            id:26,
-            eng:"Коричневый",
-            ru:"Marron"
-            },
-            {
-            id:27,
-            eng:"Черный",
-            ru:"Negro"
-            },			
+            eng:"Es Ernesto. Es el bailador gordo",
+            ru:"Это Эрнесто. Он толстый танцор"
+            },		
     ],
     testOneSeven: [
         {					

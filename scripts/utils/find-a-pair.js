@@ -190,7 +190,7 @@ const allCardsGameFindAPair = {
         {
             id:1,
             eng:"Я",
-            ru:"Yo son"
+            ru:"Yo soy"
             },
             {
             id:2,
@@ -224,8 +224,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:8,
-            eng:"Очень",
-            ru:"muy"
+            eng:"Очень хорошо",
+            ru:"muy bien"
             },
             {
             id:9,
@@ -321,7 +321,187 @@ const allCardsGameFindAPair = {
             id:27,
             eng:"Черный",
             ru:"Negro"
-            },			
+            },
+            {
+            id:28,
+            eng:"Рюкзак",
+            ru:"Mochila"
+            },
+            {
+            id:29,
+            eng:"Народ",
+            ru:"La gente"
+            },
+            {
+            id:30,
+            eng:"Боже мой",
+            ru:"Dios mio"
+            },
+            {
+            id:31,
+            eng:"многоцветный",
+            ru:"de mucho colores"
+            },
+            {
+            id:32,
+            eng:"стыд, позор",
+            ru:"verguenza"
+            },
+            {
+            id:33,
+            eng:"мне кажется, что",
+            ru:"Me parece que"
+            },
+            {
+            id:34,
+            eng:"Где ты сейчас?",
+            ru:"Donde estas?"
+            },
+            {
+            id:35,
+            eng:"Откуда ты родом?",
+            ru:"De donde eres?"
+            },
+            {
+            id:36,
+            eng:"Я сейчас в России",
+            ru:"Estoy en Rusia"
+            },
+            {
+            id:37,
+            eng:"Я живу в США",
+            ru:"Soy de Estados Unidos"
+            },
+            {
+            id:38,
+            eng:"Германия",
+            ru:"Alemania"
+            },
+            {
+            id:39,
+            eng:"Парк",
+            ru:"El parque"
+            },
+            {
+            id:40,
+            eng:"здания, строения",
+            ru:"Los edificios"
+            },
+            {
+            id:41,
+            eng:"университет",
+            ru:"La universidad"
+            },
+            {
+            id:42,
+            eng:"администрация",
+            ru:"El ayuntamiento"
+            },
+            {
+            id:43,
+            eng:"театр",
+            ru:"El teatro"
+            },
+            {
+            id:44,
+            eng:"супермаркет",
+            ru:"El supermercado"
+            },
+            {
+            id:45,
+            eng:"аптека",
+            ru:"La farmacia"
+            },
+            {
+            id:46,
+            eng:"школа",
+            ru:"La escuela"
+            },
+            {
+            id:47,
+            eng:"церковь",
+            ru:"La iglesia"
+            },
+            {
+            id:48,
+            eng:"завод, фабрика",
+            ru:"La fabrica"
+            },
+            {
+            id:49,
+            eng:"аэропорт",
+            ru:"El aeropuerto"
+            },
+            {
+            id:50,
+            eng:"собор",
+            ru:"La catedral"
+            },
+            {
+            id:51,
+            eng:"магазин",
+            ru:"La tienda"
+            },
+            {
+            id:52,
+            eng:"ресторан",
+            ru:"El restaurante"
+            },
+            {
+            id:53,
+            eng:"станция метро",
+            ru:"La estacion"
+            },
+            {
+            id:54,
+            eng:"стадион",
+            ru:"El estadio"
+            },
+            {
+            id:55,
+            eng:"квартира",
+            ru:"El apartamiento"
+            },
+            {
+            id:56,
+            eng:"музей",
+            ru:"El museo"
+            },
+            {
+            id:57,
+            eng:"почта",
+            ru:"Correos"
+            },
+            {
+            id:58,
+            eng:"отель",
+            ru:"El hotel"
+            },
+            {
+            id:59,
+            eng:"бар",
+            ru:"El bar"
+            },
+            {
+            id:60,
+            eng:"кино",
+            ru:"El cine"
+            },
+            {
+            id:61,
+            eng:"Больница",
+            ru:"El hospital"
+            },
+            {
+            id:62,
+            eng:"Что это?",
+            ru:"Que es esto?"
+            },
+            {
+            id:63,
+            eng:"кресло",
+            ru:"la butaca"
+            },		
     ],
     abc: [
         {
