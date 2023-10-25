@@ -402,8 +402,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:55,
-            eng:"El apartamiento",
-            ru:"квартира"
+            eng:"El aparcamiento",
+            ru:"парковка"
             },
             {
             id:56,

@@ -459,8 +459,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:55,
-            eng:"квартира",
-            ru:"El apartamiento"
+            eng:"парковка",
+            ru:"El aparcamiento"
             },
             {
             id:56,
