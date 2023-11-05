@@ -121,7 +121,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:217,
             eng:"attractive",
-            ru:"жевательный"
+            ru:"привлекательный"
             },
             {
             id:218,

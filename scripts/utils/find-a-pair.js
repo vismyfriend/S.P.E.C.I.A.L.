@@ -121,7 +121,7 @@ const allCardsGameFindAPair = {
             {
             id:17,
             eng:"attractive",
-            ru:"жевательный , more , the most"
+            ru:"привлекательный , more , the most"
             },
             {
             id:18,

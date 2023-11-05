@@ -178,7 +178,7 @@ const allQuestionsOneDeck = {
             {
             id:17,
             eng:"attractive",
-            ru:"more , the most , жевательный"
+            ru:"more , the most , привлекательный"
             },
             {
             id:18,
