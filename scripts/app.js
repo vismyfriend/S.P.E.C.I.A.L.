@@ -8,6 +8,7 @@ import benderWordOrderSentences from "./utils/benderWordOrder.js"
 // наверное потому что в скобках? поэтому только один массив с данными?
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
+const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
 
 headerPageReoad?.addEventListener("click", pageReloadRefresh)
 
@@ -57,6 +58,7 @@ const logoSpecial = document.querySelector(".logo-special")
 const gameFindAPair = document.querySelector(".gameFindAPair")
 const letsSpeak = document.querySelector(".popupMissionsAndSets__letsSpeak")
 const slotMachine = document.querySelector(".popupMissionsAndSets__slot-machine")
+const multipleChoice = document.querySelector(".popupMissionsAndSets__multipleChoice")
 const copyThisForNewGames = document.querySelector(".popupMissionsAndSets__copyThisForNewGames")
 const BenderWordOrderGameButton = document.querySelector(".popupMissionsAndSets__BenderWordOrderGame")
 const card = document.querySelector(".template").content.querySelector(".card")
@@ -84,6 +86,8 @@ const mainContainer1 = document.querySelector(".mainContainer1")
 const mainContainer2 = document.querySelector(".mainContainer2")
 const body = document.querySelector(".body")
 const mainContainer3 = document.querySelector(".mainContainer3")
+const mainContainer4 = document.querySelector(".mainContainer4")
+const backToMainContainer1button = document.querySelector(".backToMainContainer1button")
 const typeOrWriteGameButtonIDK = document.querySelector(".typeOrWriteGameButtonIDK")
 const typeOrWriteGameButtonSkip = document.querySelector(".typeOrWriteGameButtonSkip")
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
@@ -183,6 +187,16 @@ function renderWordsGameBenderWordOrderGame() {
 
 
 }
+
+// function replaceHeaderButton1 () {
+//     headerPageReoad.classList.add("none")
+//     backToChoosingTheMissions.classList.remove("none")
+// }
+// function replaceHeaderButton2 () {
+//     headerPageReoad.classList.remove("none")
+//     backToChoosingTheMissions.classList.add("none")
+// }
+
 function gameOverGameBenderWordOrderGame() {
     inputSentenceGameBenderWordOrderGame.textContent = `Крутец-молодец! Bender likes you! Даже наверное не жульничали, да же?`
 
@@ -493,7 +507,8 @@ function nextCards() {
 function startGameBenderWordOrderGame() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.remove("none")
-    inputSearch.classList.remove("none")
+    inputSearch.classList.add("none")
+    mainContainer4.classList.add("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
 
 }
@@ -524,6 +539,7 @@ function chooseSet(text, set) {
     InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
     slotMachine.classList.add("show")
+    multipleChoice.classList.add("show")
     copyThisForNewGames?.classList.add("show")
     // знак вопроса пропустит ошибку
     BenderWordOrderGameButton.classList.add("show")
@@ -534,12 +550,11 @@ function chooseSet(text, set) {
     starsEmoji.classList.remove("visible")
 }
 
-
-
 function startGameQuestions() {
+    // replaceHeaderButton1()
     oneDeckButtons.classList.add("visible")
     fryFuturamaMainScreenIntro.classList.add("noshow")
-    inputSearch.classList.remove("none")
+    inputSearch.classList.add("none")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
 
@@ -555,6 +570,7 @@ function startGameQuestions() {
 }
 
 function startGameFindPairs() {
+    // replaceHeaderButton1()
     renderCards("ru")
     renderCards("eng")
     fryFuturamaMainScreenIntro.classList.add("noshow")
@@ -579,8 +595,18 @@ function startGameFindPairs() {
 
 
 
+
+
 function startGameSlotMachine() {
     location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
+}
+function startGameMultipleChoice() {
+    // location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
+    mainContainer1.classList.add("none")
+    mainContainer2.classList.add("none")
+    mainContainer4.classList.remove("none")
+
+    console.log("hi")
 }
 
 dataFromEachPopupMissionsAndSets.forEach((set) => {
@@ -673,6 +699,7 @@ function finishGame() {
     InputTypeOrWriteGame.classList.remove("show")
     popupMissionsAndSetsGameFindAPair.classList.remove("show")
     slotMachine.classList.remove("show")
+    multipleChoice.classList.remove("show")
     copyThisForNewGames?.classList.remove("show")
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
@@ -704,7 +731,8 @@ function startGameInputTypeOrWriteGame() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.add("none")
     mainContainer3.classList.remove("none")
-    inputSearch.classList.remove("none")
+    mainContainer4.classList.add("none")
+    inputSearch.classList.add("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
     value = chooseTypeOrWrite[typeOrWriteNumber]
     inputTitleEng.textContent = value.ru
@@ -750,6 +778,65 @@ function compareInput() {
 //     typeOrWriteGameСounter.textContent = `The answer is   << ${value.eng} >> `
 // }
 // typeOrWriteGameButtonIDK.addEventListener("click", typeOrWriteIDKtheAnswer)
+function backToMaincontainer1function() {
+    mainContainer1.classList.remove("none")
+    mainContainer2.classList.add("none")
+    inputSearch.classList.add("none")
+    popupMissionsAndSetsSets.classList.remove("hide")
+    mainContainer4.classList.add("none")
+    // body.classList.add("BenderWordOrderGameBackgroundPicture")
+    inputSearch.classList.remove("none")
+    inputSearch.value = ""
+    logoSpecial.classList.remove("hidden")
+    tryAgainButton.classList.add("hidden")
+    oneDeckButtons.classList.remove("visible")
+    popupMissionsAndSetsTitle.textContent = "👈 Choose the set 👉"
+    popupMissionsAndSetsTitle.classList.remove("greyText")
+    popupMissionsAndSetsDescription.textContent = "Выбирай набор слов для тренировки"
+    // popupMissionsAndSetsSets.classList.add("hide")
+    InputTypeOrWriteGame.classList.remove("show")
+    popupMissionsAndSetsGameFindAPair.classList.remove("show")
+    slotMachine.classList.remove("show")
+    multipleChoice.classList.remove("show")
+    copyThisForNewGames?.classList.remove("show")
+    // знак вопроса пропустит ошибку
+    BenderWordOrderGameButton.classList.remove("show")
+    letsSpeak.classList.remove("show")
+    chosenSet.classList.remove("show")
+    // chosenSet.textContent = text
+    usedCheatsText.classList.remove("visible")
+    starsEmoji.classList.remove("visible")
+}
+// backToMainContainer1button.addEventListener("click",backToMaincontainer1function)
+// backToMainContainer1button.addEventListener("click",backOrReload)
+
+
+// let clickBackCounter = 0
+
+// function backOrReload() {
+//     clickBackCounter++
+//     if (clickBackCounter % 2) {
+//         backToChoosingTheTask() 
+//         // headerPageReoad.textContent = "назад к выбору набора слов ❌ "
+//     } else {
+//         backToMaincontainer1function()
+//         // headerPageReoad.textContent = "назад к выбору задания 👈 "
+
+//     }
+        
+// }
+
+function backToChoosingTheTask() {
+    
+    mainContainer1.classList.remove("none")
+    mainContainer2.classList.add("none")
+    inputSearch.classList.add("none")
+    // popupMissionsAndSetsSets.classList.add("hide")
+    mainContainer4.classList.add("none")
+    console.log("hi")
+    
+}
+
 
 
 function typeOrWriteGameSkip() {
@@ -866,6 +953,7 @@ BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefr
 BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame)
 InputTypeOrWriteGame.addEventListener("click", startGameInputTypeOrWriteGame)
 slotMachine.addEventListener("click", startGameSlotMachine)
+multipleChoice.addEventListener("click", startGameMultipleChoice)
 popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 letsSpeak.addEventListener("click", startGameQuestions)
 gameFindAPairButtonSkipThese.addEventListener("click", nextCardsGameFindAPairCheatUsed)

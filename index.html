@@ -15,7 +15,8 @@
     <header class="header">
         <div class="searchMission">
             <input type="text" class="search input" placeholder=" 🔎 find mission...">
-            <p class="headerPageReoad"> закрыть ❌ </p>
+            <p class="headerPageReoad"> отменить ❌ </p>
+            <p class="backToChoosingTheMissions none"> другое задание 👈 </p>
         </div>
     </header>
     <p class="usedCheatsText">нажимай на карточку <br> и читай вопрос вслух</p>
@@ -35,10 +36,7 @@
                 <ul class="popupMissionsAndSets__sets">
                     <button class="scroll-left"></button>
                     <button class="scroll-right"></button>
-                    <!-- секретный набор - чтобы его можно было через поиск найти - добавить здесь стиль none!] -->
-                    <li class="popupMissionsAndSets__set none" data-set="testing"> ... </li>      
-                    <li class="popupMissionsAndSets__set none green" data-set="abc"> abc </li>      
-                    <li class="popupMissionsAndSets__set none green" data-set="xyz"> secret 1 </li>      
+                    <!-- секретный набор - чтобы его можно было через поиск найти - добавить здесь стиль none!] -->   
                     <li class="popupMissionsAndSets__set pink" data-set="when"> When? </li>
                     <li class="popupMissionsAndSets__set orange" data-set="technologic">Technologic</li>
                     <!-- <li class="popupMissionsAndSets__set" data-set="testOneSeven">test 1-7</li> -->
@@ -84,6 +82,9 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="musicCheck"> заблокирован </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="new_mission"> coming soon </li>
                     <li class="popupMissionsAndSets__set yellow" data-set="spanish"> spanish </li>
+                    <li class="popupMissionsAndSets__set none" data-set="testing"> ... </li>      
+                    <li class="popupMissionsAndSets__set none green" data-set="abc"> abc </li>      
+                    <li class="popupMissionsAndSets__set none green" data-set="xyz"> secret 1 </li>  
                     <!-- <li class="popupMissionsAndSets__set" data-set="mission90">Миссия ZER0</li> -->
                     <!-- 
                     <li class="popupMissionsAndSets__set" data-set="mission3">Mission THREE</li>
@@ -124,6 +125,10 @@
                 <div class="popupMissionsAndSets__slot-machine">
                     <img src="./images/earsmonkey.png">
                     <p> Slot machine</p>
+                </div>
+                <div class="popupMissionsAndSets__multipleChoice">
+                    <img src="./images/Brain.png">
+                    <p> Test </p>
                 </div>
                 <!-- раскомментировать и скопировать кнопку ниже для новой игры-->
                 <!-- <div class="popupMissionsAndSets__copyThisForNewGames">
@@ -271,6 +276,9 @@
                 <div class="key keySpaceBar key-span-2">Space</div>
                 <div class="key keyDel key-span-3">del←</div>
             </div>
+        </div>
+        <div class="mainContainer4 none">
+            <button class="backToMainContainer1button">Coming soon - появится скоро</h1>
         </div>
 
         </div>

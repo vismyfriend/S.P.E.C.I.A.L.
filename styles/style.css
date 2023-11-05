@@ -2,7 +2,8 @@
 @import url(../vendor/normalize.css);
 @import url(https://fonts.googleapis.com/css?family=Neucha:regular);
 
-.headerPageReoad {
+.headerPageReoad, 
+.backToChoosingTheMissions {
     margin: 8px auto;
     width: 316px;
     text-align: end;
@@ -10,7 +11,8 @@
     padding-top: 5px;
 }
 
-.headerPageReoad.visible {
+.headerPageReoad.visible, 
+.backToChoosingTheMissions.visible {
     display: block;
 
 
@@ -108,6 +110,10 @@ button {
     width: 100px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
 }
+.backToMainContainer1button {
+    width: 100px;
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
+}
 
 .oneDeckButtonNext {
     width: 100px;
@@ -172,8 +178,13 @@ button {
     display: none;
 }
 
+
 .mainContainer2 {
     margin-top: 15px;
+}
+
+.mainContainer4.none {
+    display: none;
 }
 
 .body.BenderWordOrderGameBackgroundPicture {
@@ -619,6 +630,7 @@ button {
 .popupMissionsAndSets__letsSpeak,
 .popupMissionsAndSets__BenderWordOrderGame,
 .popupMissionsAndSets__slot-machine,
+.popupMissionsAndSets__multipleChoice,
 .popupMissionsAndSets__copyThisForNewGames {
     display: none;
     gap: 10px;
@@ -631,6 +643,7 @@ button {
 .popupMissionsAndSets__letsSpeak img,
 .popupMissionsAndSets__BenderWordOrderGame img,
 .popupMissionsAndSets__slot-machine img,
+.popupMissionsAndSets__multipleChoice img,
 .popupMissionsAndSets__copyThisForNewGames img {
     max-width: 50px;
 }
@@ -640,6 +653,7 @@ button {
 .popupMissionsAndSets__letsSpeak p,
 .popupMissionsAndSets__BenderWordOrderGame p,
 .popupMissionsAndSets__slot-machine p,
+.popupMissionsAndSets__multipleChoice p,
 .popupMissionsAndSets__copyThisForNewGames p {
     background: #6cd00800;
     border-radius: 20px;
@@ -680,6 +694,7 @@ button {
 .popupMissionsAndSets__letsSpeak.show,
 .popupMissionsAndSets__chosen-set.show,
 .popupMissionsAndSets__slot-machine.show,
+.popupMissionsAndSets__multipleChoice.show,
 .popupMissionsAndSets__BenderWordOrderGame.show,
 .popupMissionsAndSets__copyThisForNewGames.show {
     display: -webkit-box;
@@ -1168,6 +1183,7 @@ button {
 .key-span-3 {
     grid-column: auto / span 5;
 }
+
 
 
 @keyframes card-flip {
