@@ -94,6 +94,963 @@ const allQuestionsOneDeck = {
             ru	:	"семь"	
             }	,				
     ],
+    compare: [
+        {
+            id:1,
+            eng:"boring",
+            ru:"more , the most , скучный"
+            },
+            {
+            id:2,
+            eng:"awesome",
+            ru:"more , the most , офигенный"
+            },
+            {
+            id:3,
+            eng:"angry",
+            ru:"angrier , angriest , сердитый"
+            },
+            {
+            id:4,
+            eng:"big",
+            ru:"bigger , biggest , большой"
+            },
+            {
+            id:5,
+            eng:"black",
+            ru:"blacker , blackest , Черный"
+            },
+            {
+            id:6,
+            eng:"bold",
+            ru:"bolder , boldest , смелый"
+            },
+            {
+            id:7,
+            eng:"blue",
+            ru:"bluer , bluest , синий"
+            },
+            {
+            id:8,
+            eng:"bald",
+            ru:"balder , baldest , лысый"
+            },
+            {
+            id:9,
+            eng:"bossy",
+            ru:"bossier , bossiest , властный"
+            },
+            {
+            id:10,
+            eng:"brave",
+            ru:"braver , bravest , храбрый"
+            },
+            {
+            id:11,
+            eng:"interesting",
+            ru:"more , the most , интересный"
+            },
+            {
+            id:12,
+            eng:"bright",
+            ru:"brighter , brightest , яркий"
+            },
+            {
+            id:13,
+            eng:"broad",
+            ru:"broader , broadest , широкий"
+            },
+            {
+            id:14,
+            eng:"busy",
+            ru:"busier , busiest , занятой"
+            },
+            {
+            id:15,
+            eng:"calm",
+            ru:"calmer , calmest , спокойный"
+            },
+            {
+            id:16,
+            eng:"cheap",
+            ru:"cheaper , cheapest , дешевый"
+            },
+            {
+            id:17,
+            eng:"attractive",
+            ru:"more , the most , жевательный"
+            },
+            {
+            id:18,
+            eng:"overweight",
+            ru:"more , the most , полноватый"
+            },
+            {
+            id:19,
+            eng:"fashionable",
+            ru:"more , the most , модный"
+            },
+            {
+            id:20,
+            eng:"clean",
+            ru:"cleaner , cleanest , чистый"
+            },
+            {
+            id:21,
+            eng:"intelligent",
+            ru:"more , the most , образованный"
+            },
+            {
+            id:22,
+            eng:"close",
+            ru:"closer , closest , близкий"
+            },
+            {
+            id:23,
+            eng:"cloudy",
+            ru:"cloudier , cloudiest , облачный"
+            },
+            {
+            id:24,
+            eng:"clumsy",
+            ru:"clumsier , clumsiest , неуклюжий"
+            },
+            {
+            id:25,
+            eng:"disgusting",
+            ru:"more , the most , отвратительный"
+            },
+            {
+            id:26,
+            eng:"cold",
+            ru:"colder , coldest , холодный"
+            },
+            {
+            id:27,
+            eng:"cool",
+            ru:"cooler , coolest , крутой"
+            },
+            {
+            id:28,
+            eng:"crazy",
+            ru:"crazier , craziest , сумасшедший"
+            },
+            {
+            id:29,
+            eng:"beautiful",
+            ru:"more , the most , красивая"
+            },
+            {
+            id:30,
+            eng:"annoying",
+            ru:"more , the most , бесящий"
+            },
+            {
+            id:31,
+            eng:"crispy",
+            ru:"crispier , crispiest , хрустящий"
+            },
+            {
+            id:32,
+            eng:"wonderful",
+            ru:"more , the most , замечательный"
+            },
+            {
+            id:33,
+            eng:"curly",
+            ru:"curly , curliest , кудрявый"
+            },
+            {
+            id:34,
+            eng:"amazing",
+            ru:"more , the most , удивительный"
+            },
+            {
+            id:35,
+            eng:"cute",
+            ru:"cuter , cutest , милый"
+            },
+            {
+            id:36,
+            eng:"sexy",
+            ru:"sexier , sexiest , сексуальный"
+            },
+            {
+            id:37,
+            eng:"dark",
+            ru:"darker , darkest , темный"
+            },
+            {
+            id:38,
+            eng:"deadly",
+            ru:"deadlier , deadliest , смертельный"
+            },
+            {
+            id:39,
+            eng:"deep",
+            ru:"deeper , deepest , глубокий"
+            },
+            {
+            id:40,
+            eng:"expensice",
+            ru:"more , the most , дорогой"
+            },
+            {
+            id:41,
+            eng:"dirty",
+            ru:"dirtier , dirtiest , грязный"
+            },
+            {
+            id:42,
+            eng:"dry",
+            ru:"drier , driest , сухой"
+            },
+            {
+            id:43,
+            eng:"dull",
+            ru:"duller , dullest , затупившийся"
+            },
+            {
+            id:44,
+            eng:"dumb",
+            ru:"dumber , dumbest , глупый"
+            },
+            {
+            id:45,
+            eng:"dusty",
+            ru:"dustier , dustiest , пыльный"
+            },
+            {
+            id:46,
+            eng:"early",
+            ru:"earlier , earliest , ранний"
+            },
+            {
+            id:47,
+            eng:"easy",
+            ru:"easier , easiest , легкий"
+            },
+            {
+            id:48,
+            eng:"evil",
+            ru:"more evil , most evil , злой"
+            },
+            {
+            id:49,
+            eng:"fantastic",
+            ru:"more , the most , фантастичный"
+            },
+            {
+            id:50,
+            eng:"fair",
+            ru:"fairer , fairest , справедливый"
+            },
+            {
+            id:51,
+            eng:"fancy",
+            ru:"fancier , fanciest , изысканный"
+            },
+            {
+            id:52,
+            eng:"far",
+            ru:"farther , farthest , далекий"
+            },
+            {
+            id:53,
+            eng:"fast",
+            ru:"faster , fastest , быстрый"
+            },
+            {
+            id:54,
+            eng:"fat",
+            ru:"fatter , fattest , жирный"
+            },
+            {
+            id:55,
+            eng:"few",
+            ru:"fewer , fewest , несколько"
+            },
+            {
+            id:56,
+            eng:"fierce",
+            ru:"fiercer , fiercest , свирепый"
+            },
+            {
+            id:57,
+            eng:"filthy",
+            ru:"filthier , filthiest , мерзкий"
+            },
+            {
+            id:58,
+            eng:"handsome",
+            ru:"more , the most , красивый (муж)"
+            },
+            {
+            id:59,
+            eng:"firm",
+            ru:"firmer , firmest , упругий"
+            },
+            {
+            id:60,
+            eng:"incredible",
+            ru:"more , the most , невероятный"
+            },
+            {
+            id:61,
+            eng:"shocking",
+            ru:"more , the most , шокирующий"
+            },
+            {
+            id:62,
+            eng:"flat",
+            ru:"flatter , flattest , плоский"
+            },
+            {
+            id:63,
+            eng:"fresh",
+            ru:"fresher , freshest , свежий"
+            },
+            {
+            id:64,
+            eng:"friendly",
+            ru:"friendlier , friendliest , дружелюбный"
+            },
+            {
+            id:65,
+            eng:"full",
+            ru:"fuller , fullest , полный"
+            },
+            {
+            id:66,
+            eng:"funny",
+            ru:"funnier , funniest , смешной"
+            },
+            {
+            id:67,
+            eng:"gentle",
+            ru:"gentler , gentlest , нежный"
+            },
+            {
+            id:68,
+            eng:"gloomy",
+            ru:"gloomier , gloomiest , мрачный"
+            },
+            {
+            id:69,
+            eng:"shitty",
+            ru:"shittier , shittiest , дерьмовенький"
+            },
+            {
+            id:70,
+            eng:"great",
+            ru:"greater , greatest , великий"
+            },
+            {
+            id:71,
+            eng:"greedy",
+            ru:"greedier , greediest , жадный"
+            },
+            {
+            id:72,
+            eng:"shiny",
+            ru:"shinier , shiniest , светящийся"
+            },
+            {
+            id:73,
+            eng:"hairy",
+            ru:"hairier , hairiest , волосатый"
+            },
+            {
+            id:74,
+            eng:"handy",
+            ru:"handier , handiest , удобный"
+            },
+            {
+            id:75,
+            eng:"happy",
+            ru:"happier , happiest , счастливый"
+            },
+            {
+            id:76,
+            eng:"hard",
+            ru:"harder , hardest , трудный"
+            },
+            {
+            id:77,
+            eng:"harsh",
+            ru:"harsher , harshest , суровый"
+            },
+            {
+            id:78,
+            eng:"healthy",
+            ru:"healthier , healthiest , здоровый"
+            },
+            {
+            id:79,
+            eng:"heavy",
+            ru:"heavier , heaviest , тяжелый"
+            },
+            {
+            id:80,
+            eng:"high/tall",
+            ru:"higher , highest , высокий"
+            },
+            {
+            id:81,
+            eng:"scared",
+            ru:"more , the most , напуганный"
+            },
+            {
+            id:82,
+            eng:"hot",
+            ru:"hotter , hottest , горячий"
+            },
+            {
+            id:83,
+            eng:"humble",
+            ru:"humbler , humblest , скромный"
+            },
+            {
+            id:84,
+            eng:"hungry",
+            ru:"hungrier , hungriest , голодный"
+            },
+            {
+            id:85,
+            eng:"icy",
+            ru:"icier , iciest , ледяной"
+            },
+            {
+            id:86,
+            eng:"itchy",
+            ru:"itchier , itchiest , зудящий"
+            },
+            {
+            id:87,
+            eng:"juicy",
+            ru:"juicier , juiciest , сочный"
+            },
+            {
+            id:88,
+            eng:"kind",
+            ru:"kinder , kindest , добрый"
+            },
+            {
+            id:89,
+            eng:"large",
+            ru:"larger , largest , большой"
+            },
+            {
+            id:90,
+            eng:"late",
+            ru:"later , latest , поздний"
+            },
+            {
+            id:91,
+            eng:"lazy",
+            ru:"lazier , laziest , ленивый"
+            },
+            {
+            id:92,
+            eng:"light",
+            ru:"lighter , lightest , светлый"
+            },
+            {
+            id:93,
+            eng:"favorite",
+            ru:"more , the most , любимый"
+            },
+            {
+            id:94,
+            eng:"little",
+            ru:"littler , littlest , маленький"
+            },
+            {
+            id:95,
+            eng:"lively",
+            ru:"livelier , liveliest , живой"
+            },
+            {
+            id:96,
+            eng:"long",
+            ru:"longer , longest , длинный"
+            },
+            {
+            id:97,
+            eng:"loud",
+            ru:"louder , loudest , громкий"
+            },
+            {
+            id:98,
+            eng:"lovely",
+            ru:"lovelier , loveliest , прекрасный"
+            },
+            {
+            id:99,
+            eng:"low",
+            ru:"lower , lowest , низкий"
+            },
+            {
+            id:100,
+            eng:"mad",
+            ru:"madder , maddest , безумный"
+            },
+            {
+            id:101,
+            eng:"mean",
+            ru:"meaner , meanest , злобный"
+            },
+            {
+            id:102,
+            eng:"messy",
+            ru:"messier , messiest , неряшливый"
+            },
+            {
+            id:103,
+            eng:"bothering",
+            ru:"more , the most , раздражающий"
+            },
+            {
+            id:104,
+            eng:"merry",
+            ru:"merrier , merriest , веселый"
+            },
+            {
+            id:105,
+            eng:"narrow",
+            ru:"narrower , narrowest , узкий"
+            },
+            {
+            id:106,
+            eng:"nasty",
+            ru:"nastier , nastiest , мерзопакостный"
+            },
+            {
+            id:107,
+            eng:"naughty",
+            ru:"naughtier , naughtiest , непослушный"
+            },
+            {
+            id:108,
+            eng:"near",
+            ru:"nearer , nearest , ближайший"
+            },
+            {
+            id:109,
+            eng:"neat",
+            ru:"neater , neatest , аккуратный"
+            },
+            {
+            id:110,
+            eng:"needy",
+            ru:"needier , neediest , нуждающийся"
+            },
+            {
+            id:111,
+            eng:"nervous",
+            ru:"more nervous , most nervous , нервный"
+            },
+            {
+            id:112,
+            eng:"new",
+            ru:"newer , newest , новый"
+            },
+            {
+            id:113,
+            eng:"nice",
+            ru:"nicer , nicest , приятный"
+            },
+            {
+            id:114,
+            eng:"noisy",
+            ru:"noisier , noisiest , шумный"
+            },
+            {
+            id:115,
+            eng:"breathtaking",
+            ru:"more , the most , захватывающий дух"
+            },
+            {
+            id:116,
+            eng:"oily",
+            ru:"oilier , oiliest , маслянистый"
+            },
+            {
+            id:117,
+            eng:"old",
+            ru:"older/elder , oldest/eldest , старый"
+            },
+            {
+            id:118,
+            eng:"plain/simple",
+            ru:"plainer , plainest , простой"
+            },
+            {
+            id:119,
+            eng:"polite",
+            ru:"politer , politest , вежливый"
+            },
+            {
+            id:120,
+            eng:"poor",
+            ru:"poorer , poorest , бедный"
+            },
+            {
+            id:121,
+            eng:"pretty",
+            ru:"prettier , prettiest , симпотный"
+            },
+            {
+            id:122,
+            eng:"proud",
+            ru:"prouder , proudest , гордый"
+            },
+            {
+            id:123,
+            eng:"pure",
+            ru:"purer , purest , безпримесный"
+            },
+            {
+            id:124,
+            eng:"quick",
+            ru:"quicker , quickest , быстрый"
+            },
+            {
+            id:125,
+            eng:"quiet /куАйет/",
+            ru:"quieter , quietest , тихий"
+            },
+            {
+            id:126,
+            eng:"rare",
+            ru:"rarer , rarest , редкий"
+            },
+            {
+            id:127,
+            eng:"raw",
+            ru:"rawer , rawest , сырой"
+            },
+            {
+            id:128,
+            eng:"rich",
+            ru:"richer , richest , богатый"
+            },
+            {
+            id:129,
+            eng:"ripe",
+            ru:"riper , ripest , спелый"
+            },
+            {
+            id:130,
+            eng:"risky",
+            ru:"riskier , riskiest , рискованный"
+            },
+            {
+            id:131,
+            eng:"spacious",
+            ru:"more , the most , просторный"
+            },
+            {
+            id:132,
+            eng:"rough",
+            ru:"rougher , roughest , черствый, грубый"
+            },
+            {
+            id:133,
+            eng:"rude",
+            ru:"ruder , rudest , грубый в общении"
+            },
+            {
+            id:134,
+            eng:"rusty",
+            ru:"rustier , rustiest , ржавый"
+            },
+            {
+            id:135,
+            eng:"sad",
+            ru:"sadder , saddest , грустный"
+            },
+            {
+            id:136,
+            eng:"safe",
+            ru:"safer , safest , безопасный"
+            },
+            {
+            id:137,
+            eng:"salty",
+            ru:"saltier , saltiest , соленый"
+            },
+            {
+            id:138,
+            eng:"sane",
+            ru:"saner , sanest , здравый"
+            },
+            {
+            id:139,
+            eng:"scary",
+            ru:"scarier , scariest , пугающий"
+            },
+            {
+            id:140,
+            eng:"shallow",
+            ru:"shallower , shallowest , мелкий"
+            },
+            {
+            id:141,
+            eng:"sharp",
+            ru:"sharper , sharpest , острый"
+            },
+            {
+            id:142,
+            eng:"hollow",
+            ru:"more , the most , пустотелый"
+            },
+            {
+            id:143,
+            eng:"short",
+            ru:"shorter , shortest , короткий, низкий"
+            },
+            {
+            id:144,
+            eng:"shy",
+            ru:"shyer , shyest , застенчивый"
+            },
+            {
+            id:145,
+            eng:"silly",
+            ru:"sillier , silliest , глупый"
+            },
+            {
+            id:146,
+            eng:"stupid",
+            ru:"more , the most , тупо"
+            },
+            {
+            id:147,
+            eng:"sincere",
+            ru:"sincerer , sincerest , искренний"
+            },
+            {
+            id:148,
+            eng:"skinny",
+            ru:"skinnier , skinniest , тощий"
+            },
+            {
+            id:149,
+            eng:"sleepy",
+            ru:"sleepier , sleepiest , сонный"
+            },
+            {
+            id:150,
+            eng:"slim",
+            ru:"slimmer , slimmest , стройный"
+            },
+            {
+            id:151,
+            eng:"slimy /слАйми/",
+            ru:"slimier , slimiest , слизкий"
+            },
+            {
+            id:152,
+            eng:"slow",
+            ru:"slower , slowest , медленный"
+            },
+            {
+            id:153,
+            eng:"small",
+            ru:"smaller , smallest , маленький"
+            },
+            {
+            id:154,
+            eng:"smart",
+            ru:"smarter , smartest , сообразительный"
+            },
+            {
+            id:155,
+            eng:"smelly",
+            ru:"smellier , smelliest , вонючий"
+            },
+            {
+            id:156,
+            eng:"smoky",
+            ru:"smokier , smokiest , дымный"
+            },
+            {
+            id:157,
+            eng:"smooth",
+            ru:"smoother , smoothest , гладкий"
+            },
+            {
+            id:158,
+            eng:"soft",
+            ru:"softer , softest , мягкий"
+            },
+            {
+            id:159,
+            eng:"soon",
+            ru:"sooner , soonest , скоро"
+            },
+            {
+            id:160,
+            eng:"vulgar",
+            ru:"more , the most , вульгарный"
+            },
+            {
+            id:161,
+            eng:"sorry",
+            ru:"sorrier , sorriest , сожалеющий"
+            },
+            {
+            id:162,
+            eng:"sour",
+            ru:"sourer , sourest , кислый"
+            },
+            {
+            id:163,
+            eng:"spicy",
+            ru:"spicier , spiciest , острый"
+            },
+            {
+            id:164,
+            eng:"steep",
+            ru:"steeper , steepest , крутой (наклон)"
+            },
+            {
+            id:165,
+            eng:"bloody",
+            ru:"bloodier , bloodiest , кровавый"
+            },
+            {
+            id:166,
+            eng:"strange/weird",
+            ru:"stranger , strangest , странный"
+            },
+            {
+            id:167,
+            eng:"strict",
+            ru:"stricter , strictest , строгий"
+            },
+            {
+            id:168,
+            eng:"strong",
+            ru:"stronger , strongest , сильный"
+            },
+            {
+            id:169,
+            eng:"sunny",
+            ru:"sunnier , sunniest , солнечный"
+            },
+            {
+            id:170,
+            eng:"sweaty",
+            ru:"sweatier , sweatiest , потный"
+            },
+            {
+            id:171,
+            eng:"sweet",
+            ru:"sweeter , sweetest , сладкий"
+            },
+            {
+            id:172,
+            eng:"fabulous",
+            ru:"more , the most , поразительный"
+            },
+            {
+            id:173,
+            eng:"tan",
+            ru:"tanner , tannest , загорелый"
+            },
+            {
+            id:174,
+            eng:"tasty",
+            ru:"tastier , tastiest , вкусный"
+            },
+            {
+            id:175,
+            eng:"thin/thick",
+            ru:"thicker , thickest , тонкий/толстый"
+            },
+            {
+            id:176,
+            eng:"immortal",
+            ru:"more , the most , бессмертный"
+            },
+            {
+            id:177,
+            eng:"thirsty",
+            ru:"thirstier , thirstiest , испытывающий"
+            },
+            {
+            id:178,
+            eng:"tiny",
+            ru:"tinier , tiniest , крошечный"
+            },
+            {
+            id:179,
+            eng:"legendary",
+            ru:"more , the most , легендарный"
+            },
+            {
+            id:180,
+            eng:"/тру/ true",
+            ru:"truer , truest , верный"
+            },
+            {
+            id:181,
+            eng:"ugly",
+            ru:"uglier , ugliest , уродливый"
+            },
+            {
+            id:182,
+            eng:"warm",
+            ru:"warmer , warmest , теплый"
+            },
+            {
+            id:183,
+            eng:"weak",
+            ru:"weaker , weakest , слабый"
+            },
+            {
+            id:184,
+            eng:"wealthy",
+            ru:"wealthier , wealthiest , богатый"
+            },
+            {
+            id:185,
+            eng:"wet",
+            ru:"wetter , wettest , мокрый"
+            },
+            {
+            id:186,
+            eng:"wide",
+            ru:"wider , widest , широкий"
+            },
+            {
+            id:187,
+            eng:"wild",
+            ru:"wilder , wildest , дикий"
+            },
+            {
+            id:188,
+            eng:"windy",
+            ru:"windier , windiest , ветреный"
+            },
+            {
+            id:189,
+            eng:"wise",
+            ru:"wiser , wisest , мудрый"
+            },
+            {
+            id:190,
+            eng:"worthy",
+            ru:"worthier , worthiest , достойный"
+            },
+            {
+            id:191,
+            eng:"young",
+            ru:"younger , youngest , молодой"
+            },			
+    ],
     abc: [
         {
             id:1,
