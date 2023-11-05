@@ -1144,152 +1144,166 @@ const allQuestionsOneDeck = {
             },		
     ],
     xyz: [
-            
         {
-        id:22,
-        eng:"deal , dealt , dealt",
-        ru:"иметь дела"
-        },
-        {
-        id:23,
-        eng:"dig , dug , dug",
-        ru:"копать"
-        },
-        {
-        id:24,
-        eng:"do , did , done",
-        ru:"выполнять, делать, заниматься"
-        },
-        {
-        id:25,
-        eng:"drive , drove , driven",
-        ru:"водить"
-        },
-        {
-        id:26,
-        eng:"draw , drew , drawn",
-        ru:"рисовать"
-        },
-        {
-        id:27,
-        eng:"drink , drank , drunk",
-        ru:"пить"
-        },
-        {
-        id:28,
-        eng:"eat , ate , eaten",
-        ru:"кушать"
-        },
-        {
-        id:29,
-        eng:"fall , fell , fallen",
-        ru:"падать"
-        },
-        {
-        id:30,
-        eng:"feed , fed , fed",
-        ru:"кормить"
-        },
-        {
-        id:31,
-        eng:"feel , felt , felt",
-        ru:"чувствовать"
-        },
-        {
-        id:32,
-        eng:"fight , fought , fought",
-        ru:"сражаться"
-        },
-        {
-        id:33,
-        eng:"find , found , found",
-        ru:"находить"
-        },
-        {
-        id:34,
-        eng:"fly , flew , flown",
-        ru:"летать"
-        },
-        {
-        id:35,
-        eng:"forbid , forbade , forbidden",
-        ru:"запрещать"
-        },
-        {
-        id:36,
-        eng:"forget , forgot , forgotten",
-        ru:"забывать"
-        },
-        {
-        id:37,
-        eng:"forgive , forgave , forgiven",
-        ru:"прощать"
-        },
-        {
-        id:38,
-        eng:"freeze , froze , frozen",
-        ru:"замерзать"
-        },
-        {
-        id:39,
-        eng:"grow , grew , grown",
-        ru:"расти"
-        },
-        {
-        id:40,
-        eng:"get , got , got",
-        ru:"получать"
-        },
-        {
-        id:41,
-        eng:"give , gave , given",
-        ru:"давать"
-        },
-        {
-        id:42,
-        eng:"go , went , gone",
-        ru:"ходить"
-        },
-        {
-        id:43,
-        eng:"have , had , had",
-        ru:"иметь"
-        },
-        {
-        id:44,
-        eng:"hear , heard , heard",
-        ru:"слышать"
-        },
-        {
-        id:45,
-        eng:"hide , hid , hidden",
-        ru:"прятать"
-        },
-        {
-        id:46,
-        eng:"hit , hit , hit",
-        ru:"ударять"
-        },
-        {
-        id:47,
-        eng:"hurt , hurt , hurt",
-        ru:"причинять боль"
-        },
-        {
-        id:48,
-        eng:"hold , held , held",
-        ru:"держать"
-        },
-        {
-        id:49,
-        eng:"keep , kept , kept",
-        ru:"хранить"
-        },
-        {
-        id:50,
-        eng:"know , knew , known",
-        ru:"знать"
-        },
+            id:1,
+            eng:"Who is the fastest runner in your class?",
+            ru:"Who is the fastest runner in your class?"
+            },
+            {
+            id:2,
+            eng:"Which animal do you think is the cutest/кьЮтэст/? Kittens or puppies/пАппиз/щенята или кИтэнз - котята?",
+            ru:"Which animal do you think is the cutest/кьЮтэст/? Kittens or puppies/пАппиз/щенята или кИтэнз - котята?"
+            },
+            {
+            id:3,
+            eng:"What is the yummiest /Ямиест/ ice cream flavor/флЭйво/ for you?",
+            ru:"What is the yummiest /Ямиест/ ice cream flavor/флЭйво/ for you?"
+            },
+            {
+            id:4,
+            eng:"Who is the funniest cartoon character/катУн кЭрэктэ/ in your opinion(по вашему мнению)?",
+            ru:"Who is the funniest cartoon character/катУн кЭрэктэ/ in your opinion(по вашему мнению)?"
+            },
+            {
+            id:5,
+            eng:"Which is the better superhero, Spider-Man or Batman?",
+            ru:"Which is the better superhero, Spider-Man or Batman?"
+            },
+            {
+            id:6,
+            eng:"What is the tallest building you've ever seen with your own eyes?",
+            ru:"What is the tallest building you've ever seen with your own eyes?"
+            },
+            {
+            id:7,
+            eng:"Who is the strongest person you know and why?",
+            ru:"Who is the strongest person you know and why?"
+            },
+            {
+            id:8,
+            eng:"What is better: the Zoo/зу/ or the circuis/сЁкэс/?",
+            ru:"What is better: the Zoo/зу/ or the circuis/сЁкэс/?"
+            },
+            {
+            id:9,
+            eng:"What is the most boring book you read?",
+            ru:"What is the most boring book you read?"
+            },
+            {
+            id:10,
+            eng:"Who is the kindest person you know and why?",
+            ru:"Who is the kindest person you know and why?"
+            },
+            {
+            id:11,
+            eng:"Which is the most interesting activity(занятие), playing in the streets or playing video games at home?",
+            ru:"Which is the most interesting activity(занятие), playing in the streets or playing video games at home?"
+            },
+            {
+            id:12,
+            eng:"What is the most delicious pizza topping in your opinion?",
+            ru:"What is the most delicious pizza topping in your opinion?"
+            },
+            {
+            id:13,
+            eng:"Who is the smartest person in your family and why?",
+            ru:"Who is the smartest person in your family and why?"
+            },
+            {
+            id:14,
+            eng:"Who is the laziest person in your family?",
+            ru:"Who is the laziest person in your family?"
+            },
+            {
+            id:15,
+            eng:"What music do you like the least/лист/?",
+            ru:"What music do you like the least/лист/?"
+            },
+            {
+            id:16,
+            eng:"In your opinion (по вашему мнению) what is the most interesting book книга or the best movie/муви/фильм?",
+            ru:"In your opinion (по вашему мнению) what is the most interesting book книга or the best movie/муви/фильм?"
+            },
+            {
+            id:17,
+            eng:"Который из /уич ов/ Which of two cities/сИтиз/города do you think is bigger, Paris/пЭрис/ or Rome/рОум/Рим?",
+            ru:"Который из /уич ов/ Which of two cities/сИтиз/города do you think is bigger, Paris/пЭрис/ or Rome/рОум/Рим?"
+            },
+            {
+            id:18,
+            eng:"Who is the funniest/фАниест/ person you know?",
+            ru:"Who is the funniest/фАниест/ person you know?"
+            },
+            {
+            id:19,
+            eng:"In your opinion, what is the best way (способ, путь) to learn a foreign language /фОрин лЭнгвич/иностран. язык?",
+            ru:"In your opinion, what is the best way (способ, путь) to learn a foreign language /фОрин лЭнгвич/иностран. язык?"
+            },
+            {
+            id:20,
+            eng:"What is the furthest /фёдэст/distance you can run? ",
+            ru:"What is the furthest /фёдэст/distance you can run? "
+            },
+            {
+            id:21,
+            eng:"Which season/сизн/время года do you prefer/префЁ/предпочитать, winter, spring, summer or fall/фОл/, why?",
+            ru:"Which season/сизн/время года do you prefer/префЁ/предпочитать, winter, spring, summer or fall/фОл/, why?"
+            },
+            {
+            id:22,
+            eng:"Who’s the oldest in your family? Who is the youngest? ",
+            ru:"Who’s the oldest in your family? Who is the youngest? "
+            },
+            {
+            id:23,
+            eng:"What is the worst day of the week for you and why?",
+            ru:"What is the worst day of the week for you and why?"
+            },
+            {
+            id:24,
+            eng:"Who is the most attractive actor or actress for you?",
+            ru:"Who is the most attractive actor or actress for you?"
+            },
+            {
+            id:25,
+            eng:"What is the longest movie you’ve ever watched?",
+            ru:"What is the longest movie you’ve ever watched?"
+            },
+            {
+            id:26,
+            eng:"What is better: to study abroad/эбрОд/заграница or to study in your home country/кАнтри/родная страна?",
+            ru:"What is better: to study abroad/эбрОд/заграница or to study in your home country/кАнтри/родная страна?"
+            },
+            {
+            id:27,
+            eng:"What animals are smarter, dogs or cats?",
+            ru:"What animals are smarter, dogs or cats?"
+            },
+            {
+            id:28,
+            eng:"How far from your work do you live? Vincent lives one kilometer away from his office. It’s about 11 min from home.",
+            ru:"How far from your work do you live? Vincent lives one kilometer away from his office. It’s about 11 min from home."
+            },
+            {
+            id:29,
+            eng:"What food do you like the best? What is your favorite food? What food don’t you like? What is the worst food?",
+            ru:"What food do you like the best? What is your favorite food? What food don’t you like? What is the worst food?"
+            },
+            {
+            id:30,
+            eng:"Where can I eat the most delicious /делИшез/ food наивкуснейшую in your city? Can you recommend a café?",
+            ru:"Where can I eat the most delicious /делИшез/ food наивкуснейшую in your city? Can you recommend a café?"
+            },
+            {
+            id:31,
+            eng:"What is worse? To tell a lie /тэл э лай/ солгать or to use drugs/юз драгз/ употреблять наркотич. вещества",
+            ru:"What is worse? To tell a lie /тэл э лай/ солгать or to use drugs/юз драгз/ употреблять наркотич. вещества"
+            },
+            {
+            id:32,
+            eng:"Who’s younger/Янгэ/моложе ? You or me or Vincent? ",
+            ru:"Who’s younger/Янгэ/моложе ? You or me or Vincent? "
+            },
                 
 ],
     bodyAdj: [
