@@ -40,17 +40,17 @@ const allCardsGameFindAPair = {
     compare: [
         {
             id:1,
-            eng:"boring",
+            eng:"boring /бОрин/",
             ru:"скучный , more , the most"
             },
             {
             id:2,
-            eng:"awesome",
+            eng:"awesome /Осм/",
             ru:"офигенный , more , the most"
             },
             {
             id:3,
-            eng:"angry",
+            eng:"angry /Энгри/",
             ru:"сердитый , angrier , angriest"
             },
             {
@@ -60,7 +60,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:5,
-            eng:"black",
+            eng:"black /блЭк/",
             ru:"Черный , blacker , blackest"
             },
             {
@@ -70,12 +70,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:7,
-            eng:"blue",
+            eng:"blue /блУ/",
             ru:"синий , bluer , bluest"
             },
             {
             id:8,
-            eng:"bald",
+            eng:"bald /бОлд/",
             ru:"лысый , balder , baldest"
             },
             {
@@ -85,7 +85,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:10,
-            eng:"brave",
+            eng:"brave /брЭйв/",
             ru:"храбрый , braver , bravest"
             },
             {
@@ -95,27 +95,27 @@ const allCardsGameFindAPair = {
             },
             {
             id:12,
-            eng:"bright",
+            eng:"bright /брАйт/",
             ru:"яркий , brighter , brightest"
             },
             {
             id:13,
-            eng:"broad",
-            ru:"широкий , broader , broadest"
+            eng:"green /грин/",
+            ru:"зелёный , greener , greenest"
             },
             {
             id:14,
-            eng:"busy",
+            eng:"busy /бИзи/",
             ru:"занятой , busier , busiest"
             },
             {
             id:15,
-            eng:"calm",
+            eng:"calm /кам/",
             ru:"спокойный , calmer , calmest"
             },
             {
             id:16,
-            eng:"cheap",
+            eng:"cheap /чип/",
             ru:"дешевый , cheaper , cheapest"
             },
             {
@@ -125,17 +125,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:18,
-            eng:"overweight",
+            eng:"overweight /ОувэУэйт/",
             ru:"полноватый , more , the most"
             },
             {
             id:19,
-            eng:"fashionable",
+            eng:"fashionable /фЭшэнэбл/",
             ru:"модный , more , the most"
             },
             {
             id:20,
-            eng:"clean",
+            eng:"clean /клин/",
             ru:"чистый , cleaner , cleanest"
             },
             {
@@ -145,17 +145,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:22,
-            eng:"close",
+            eng:"close /клоуС/",
             ru:"близкий , closer , closest"
             },
             {
             id:23,
-            eng:"cloudy",
+            eng:"cloudy /клАуди",
             ru:"облачный , cloudier , cloudiest"
             },
             {
             id:24,
-            eng:"clumsy",
+            eng:"clumsy /клАмзи/",
             ru:"неуклюжий , clumsier , clumsiest"
             },
             {
@@ -170,7 +170,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:27,
-            eng:"cool",
+            eng:"cool /кул/",
             ru:"крутой , cooler , coolest"
             },
             {
@@ -185,12 +185,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:30,
-            eng:"annoying",
+            eng:"annoying /энОин/",
             ru:"бесящий , more , the most"
             },
             {
             id:31,
-            eng:"crispy",
+            eng:"crispy /крИспи/",
             ru:"хрустящий , crispier , crispiest"
             },
             {
@@ -200,17 +200,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:33,
-            eng:"curly",
-            ru:"кудрявый , curly , curliest"
+            eng:"curly /кёли/",
+            ru:"кудрявый , curlier , curliest"
             },
             {
             id:34,
-            eng:"amazing",
+            eng:"amazing /эмЭйзин/",
             ru:"удивительный , more , the most"
             },
             {
             id:35,
-            eng:"cute",
+            eng:"cute /кьЮт/",
             ru:"милый , cuter , cutest"
             },
             {
@@ -225,57 +225,57 @@ const allCardsGameFindAPair = {
             },
             {
             id:38,
-            eng:"deadly",
+            eng:"deadly /дЭдли/",
             ru:"смертельный , deadlier , deadliest"
             },
             {
             id:39,
-            eng:"deep",
+            eng:"deep /дип/",
             ru:"глубокий , deeper , deepest"
             },
             {
             id:40,
-            eng:"expensice",
+            eng:"expensive",
             ru:"дорогой , more , the most"
             },
             {
             id:41,
-            eng:"dirty",
+            eng:"dirty /дёти/",
             ru:"грязный , dirtier , dirtiest"
             },
             {
             id:42,
-            eng:"dry",
+            eng:"dry /дрАй/",
             ru:"сухой , drier , driest"
             },
             {
             id:43,
-            eng:"dull",
+            eng:"dull /дал/",
             ru:"затупившийся , duller , dullest"
             },
             {
             id:44,
-            eng:"dumb",
-            ru:"глупый , dumber , dumbest"
+            eng:"dumb /дам/",
+            ru:"болван , dumber , dumbest"
             },
             {
             id:45,
-            eng:"dusty",
+            eng:"dusty /дАсти/",
             ru:"пыльный , dustier , dustiest"
             },
             {
             id:46,
-            eng:"early",
+            eng:"early /ёли/",
             ru:"ранний , earlier , earliest"
             },
             {
             id:47,
-            eng:"easy",
+            eng:"easy /Изи/",
             ru:"легкий , easier , easiest"
             },
             {
             id:48,
-            eng:"evil",
+            eng:"evil /Ивэл/",
             ru:"злой , more evil , most evil"
             },
             {
@@ -285,12 +285,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:50,
-            eng:"fair",
+            eng:"fair /фЭа/",
             ru:"справедливый , fairer , fairest"
             },
             {
             id:51,
-            eng:"fancy",
+            eng:"fancy /фЭнси/",
             ru:"изысканный , fancier , fanciest"
             },
             {
@@ -305,47 +305,47 @@ const allCardsGameFindAPair = {
             },
             {
             id:54,
-            eng:"fat",
+            eng:"fat /фэт/",
             ru:"жирный , fatter , fattest"
             },
             {
             id:55,
-            eng:"few",
+            eng:"few /фью/",
             ru:"несколько , fewer , fewest"
             },
             {
             id:56,
-            eng:"fierce",
+            eng:"fierce /фИрс/",
             ru:"свирепый , fiercer , fiercest"
             },
             {
             id:57,
-            eng:"filthy",
+            eng:"filthy /филTHи/",
             ru:"мерзкий , filthier , filthiest"
             },
             {
             id:58,
-            eng:"handsome",
+            eng:"handsome /хЭнсам/",
             ru:"красивый (муж) , more , the most"
             },
             {
             id:59,
-            eng:"firm",
+            eng:"firm /фЁрм/",
             ru:"упругий , firmer , firmest"
             },
             {
             id:60,
-            eng:"incredible",
+            eng:"incredible /инкрЭдбл/",
             ru:"невероятный , more , the most"
             },
             {
             id:61,
-            eng:"shocking",
+            eng:"shocking /шОкин/",
             ru:"шокирующий , more , the most"
             },
             {
             id:62,
-            eng:"flat",
+            eng:"flat /флЭт/",
             ru:"плоский , flatter , flattest"
             },
             {
@@ -365,48 +365,48 @@ const allCardsGameFindAPair = {
             },
             {
             id:66,
-            eng:"funny",
+            eng:"funny /фАнни/",
             ru:"смешной , funnier , funniest"
             },
             {
             id:67,
-            eng:"gentle",
+            eng:"gentle /джЭнтл/",
             ru:"нежный , gentler , gentlest"
             },
             {
             id:68,
-            eng:"gloomy",
+            eng:"gloomy /глУми/",
             ru:"мрачный , gloomier , gloomiest"
             },
             {
             id:69,
-            eng:"shitty",
+            eng:"shitty /щИти/",
             ru:"дерьмовенький , shittier , shittiest"
             },
             {
             id:70,
-            eng:"great",
+            eng:"great /грЭйт/",
             ru:"великий , greater , greatest"
             },
             {
             id:71,
-            eng:"greedy",
+            eng:"greedy /грИди/",
             ru:"жадный , greedier , greediest"
             },
             {
             id:72,
-            eng:"shiny",
+            eng:"shiny /шАйни/",
             ru:"светящийся , shinier , shiniest"
             },
             {
             id:73,
-            eng:"hairy",
+            eng:"hairy /хЭйри/",
             ru:"волосатый , hairier , hairiest"
             },
             {
             id:74,
-            eng:"handy",
-            ru:"удобный , handier , handiest"
+            eng:"cozy /кОузи/",
+            ru:"уютный , handier , handiest"
             },
             {
             id:75,
@@ -420,27 +420,27 @@ const allCardsGameFindAPair = {
             },
             {
             id:77,
-            eng:"harsh",
+            eng:"harsh /хАрш/",
             ru:"суровый , harsher , harshest"
             },
             {
             id:78,
-            eng:"healthy",
+            eng:"healthy /хЭлTHи/",
             ru:"здоровый , healthier , healthiest"
             },
             {
             id:79,
-            eng:"heavy",
+            eng:"heavy /хЭви/",
             ru:"тяжелый , heavier , heaviest"
             },
             {
             id:80,
-            eng:"high/tall",
+            eng:"/тол/ tall or high /хай/",
             ru:"высокий , higher , highest"
             },
             {
             id:81,
-            eng:"scared",
+            eng:"scared /скЭад/",
             ru:"напуганный , more , the most"
             },
             {
@@ -450,68 +450,68 @@ const allCardsGameFindAPair = {
             },
             {
             id:83,
-            eng:"humble",
+            eng:"humble /хАмбл/",
             ru:"скромный , humbler , humblest"
             },
             {
             id:84,
-            eng:"hungry",
+            eng:"hungry /хАнгри/",
             ru:"голодный , hungrier , hungriest"
             },
             {
             id:85,
-            eng:"icy",
+            eng:"icy /Айси/",
             ru:"ледяной , icier , iciest"
             },
             {
             id:86,
-            eng:"itchy",
+            eng:"itchy /Итчи/",
             ru:"зудящий , itchier , itchiest"
             },
             {
             id:87,
-            eng:"juicy",
+            eng:"juicy /джУси/",
             ru:"сочный , juicier , juiciest"
             },
             {
             id:88,
-            eng:"kind",
+            eng:"kind /кАйнд/",
             ru:"добрый , kinder , kindest"
             },
             {
             id:89,
-            eng:"large",
+            eng:"large /лАдж/",
             ru:"большой , larger , largest"
             },
             {
             id:90,
-            eng:"late",
+            eng:"late /лЭйт/",
             ru:"поздний , later , latest"
             },
             {
             id:91,
-            eng:"lazy",
+            eng:"lazy /лЭйзи/",
             ru:"ленивый , lazier , laziest"
             },
             {
             id:92,
-            eng:"light",
+            eng:"light /лАйт/",
             ru:"светлый , lighter , lightest"
             },
             {
             id:93,
-            eng:"favorite",
+            eng:"favorite /фЭйворит/",
             ru:"любимый , more , the most"
             },
             {
             id:94,
-            eng:"little",
-            ru:"маленький , littler , littlest"
+            eng:"little /лИтл/",
+            ru:"мало , less , the least"
             },
             {
             id:95,
-            eng:"lively",
-            ru:"живой , livelier , liveliest"
+            eng:"alive /элАйв/",
+            ru:"живой , more , the most"
             },
             {
             id:96,
@@ -520,37 +520,37 @@ const allCardsGameFindAPair = {
             },
             {
             id:97,
-            eng:"loud",
+            eng:"loud /лАуд/",
             ru:"громкий , louder , loudest"
             },
             {
             id:98,
-            eng:"lovely",
-            ru:"прекрасный , lovelier , loveliest"
+            eng:"drunk /дрАнк/",
+            ru:"пьяный , drunker , drunkest"
             },
             {
             id:99,
-            eng:"low",
+            eng:"low /лОу/",
             ru:"низкий , lower , lowest"
             },
             {
             id:100,
-            eng:"mad",
+            eng:"mad /мЭд/",
             ru:"безумный , madder , maddest"
             },
             {
             id:101,
-            eng:"mean",
+            eng:"mean /мин/",
             ru:"злобный , meaner , meanest"
             },
             {
             id:102,
-            eng:"messy",
+            eng:"messy /мЭси/",
             ru:"неряшливый , messier , messiest"
             },
             {
             id:103,
-            eng:"bothering",
+            eng:"bothering /бАthэрин/",
             ru:"раздражающий , more , the most"
             },
             {
@@ -560,62 +560,62 @@ const allCardsGameFindAPair = {
             },
             {
             id:105,
-            eng:"narrow",
+            eng:"narrow /нЭроу/",
             ru:"узкий , narrower , narrowest"
             },
             {
             id:106,
-            eng:"nasty",
-            ru:"мерзопакостный , nastier , nastiest"
+            eng:"nasty /нЭсти/",
+            ru:"противный , nastier , nastiest"
             },
             {
             id:107,
-            eng:"naughty",
+            eng:"naughty /нОти/",
             ru:"непослушный , naughtier , naughtiest"
             },
             {
             id:108,
-            eng:"near",
+            eng:"near /нИа/",
             ru:"ближайший , nearer , nearest"
             },
             {
             id:109,
-            eng:"neat",
+            eng:"neat /нит/",
             ru:"аккуратный , neater , neatest"
             },
             {
             id:110,
-            eng:"needy",
+            eng:"needy /нИди/",
             ru:"нуждающийся , needier , neediest"
             },
             {
             id:111,
-            eng:"nervous",
+            eng:"nervous /нЁвэс/",
             ru:"нервный , more nervous , most nervous"
             },
             {
             id:112,
-            eng:"new",
+            eng:"new /ньЮ/",
             ru:"новый , newer , newest"
             },
             {
             id:113,
-            eng:"nice",
+            eng:"nice /нАйс/",
             ru:"приятный , nicer , nicest"
             },
             {
             id:114,
-            eng:"noisy",
+            eng:"noisy /нОйзи/",
             ru:"шумный , noisier , noisiest"
             },
             {
             id:115,
-            eng:"breathtaking",
+            eng:"breathtaking /брэth тэйкин/",
             ru:"захватывающий дух , more , the most"
             },
             {
             id:116,
-            eng:"oily",
+            eng:"oily /Ойли/",
             ru:"маслянистый , oilier , oiliest"
             },
             {
@@ -625,37 +625,37 @@ const allCardsGameFindAPair = {
             },
             {
             id:118,
-            eng:"plain/simple",
+            eng:"simple or plain",
             ru:"простой , plainer , plainest"
             },
             {
             id:119,
-            eng:"polite",
+            eng:"polite /полАйт/",
             ru:"вежливый , politer , politest"
             },
             {
             id:120,
-            eng:"poor",
+            eng:"poor /пУэ/",
             ru:"бедный , poorer , poorest"
             },
             {
             id:121,
-            eng:"pretty",
+            eng:"pretty /прИти/",
             ru:"симпотный , prettier , prettiest"
             },
             {
             id:122,
-            eng:"proud",
+            eng:"proud /прАуд/",
             ru:"гордый , prouder , proudest"
             },
             {
             id:123,
-            eng:"pure",
+            eng:"pure /пьЮэ/",
             ru:"безпримесный , purer , purest"
             },
             {
             id:124,
-            eng:"quick",
+            eng:"quick куИк/",
             ru:"быстрый , quicker , quickest"
             },
             {
@@ -665,127 +665,127 @@ const allCardsGameFindAPair = {
             },
             {
             id:126,
-            eng:"rare",
+            eng:"rare/рЭа/",
             ru:"редкий , rarer , rarest"
             },
             {
             id:127,
-            eng:"raw",
+            eng:"raw /ро/",
             ru:"сырой , rawer , rawest"
             },
             {
             id:128,
-            eng:"rich",
+            eng:"rich /рич/",
             ru:"богатый , richer , richest"
             },
             {
             id:129,
-            eng:"ripe",
+            eng:"ripe /рАйп/",
             ru:"спелый , riper , ripest"
             },
             {
             id:130,
-            eng:"risky",
+            eng:"risky /рИски/",
             ru:"рискованный , riskier , riskiest"
             },
             {
             id:131,
-            eng:"spacious",
+            eng:"spacious /спЭйшэс/",
             ru:"просторный , more , the most"
             },
             {
             id:132,
-            eng:"rough",
+            eng:"rough /рАф/",
             ru:"черствый, грубый , rougher , roughest"
             },
             {
             id:133,
-            eng:"rude",
+            eng:"rude /рУд/",
             ru:"грубый в общении , ruder , rudest"
             },
             {
             id:134,
-            eng:"rusty",
+            eng:"rusty /рАсти/",
             ru:"ржавый , rustier , rustiest"
             },
             {
             id:135,
-            eng:"sad",
+            eng:"sad /сЭд/",
             ru:"грустный , sadder , saddest"
             },
             {
             id:136,
-            eng:"safe",
+            eng:"safe /сЭйф/",
             ru:"безопасный , safer , safest"
             },
             {
             id:137,
-            eng:"salty",
+            eng:"salty /сОлти/",
             ru:"соленый , saltier , saltiest"
             },
             {
             id:138,
-            eng:"sane",
+            eng:"spoiled /спОйлд/",
             ru:"здравый , saner , sanest"
             },
             {
             id:139,
-            eng:"scary",
+            eng:"scary /скЭри/",
             ru:"пугающий , scarier , scariest"
             },
             {
             id:140,
-            eng:"shallow",
-            ru:"мелкий , shallower , shallowest"
+            eng:"correct /корЭкт/",
+            ru:"верный , more , the most"
             },
             {
             id:141,
-            eng:"sharp",
+            eng:"sharp /шАрп/",
             ru:"острый , sharper , sharpest"
             },
             {
             id:142,
-            eng:"hollow",
+            eng:"hollow /хОлоу/",
             ru:"пустотелый , more , the most"
             },
             {
             id:143,
-            eng:"short",
+            eng:"short /шорт/",
             ru:"короткий, низкий , shorter , shortest"
             },
             {
             id:144,
-            eng:"shy",
+            eng:"shy шАй/",
             ru:"застенчивый , shyer , shyest"
             },
             {
             id:145,
-            eng:"silly",
+            eng:"silly /сИли/",
             ru:"глупый , sillier , silliest"
             },
             {
             id:146,
-            eng:"stupid",
+            eng:"stupid /стьЮпид/",
             ru:"тупо , more , the most"
             },
             {
             id:147,
-            eng:"sincere",
+            eng:"sincere /синсИэ/",
             ru:"искренний , sincerer , sincerest"
             },
             {
             id:148,
-            eng:"skinny",
+            eng:"skinny /скИни/",
             ru:"тощий , skinnier , skinniest"
             },
             {
             id:149,
-            eng:"sleepy",
+            eng:"sleepy /слИпи/",
             ru:"сонный , sleepier , sleepiest"
             },
             {
             id:150,
-            eng:"slim",
+            eng:"slim /слИм/",
             ru:"стройный , slimmer , slimmest"
             },
             {
@@ -795,32 +795,32 @@ const allCardsGameFindAPair = {
             },
             {
             id:152,
-            eng:"slow",
+            eng:"slow /слОу/",
             ru:"медленный , slower , slowest"
             },
             {
             id:153,
-            eng:"small",
+            eng:"small /смОл/",
             ru:"маленький , smaller , smallest"
             },
             {
             id:154,
-            eng:"smart",
+            eng:"smart /смАрт/",
             ru:"сообразительный , smarter , smartest"
             },
             {
             id:155,
-            eng:"smelly",
+            eng:"smelly /смЭли/",
             ru:"вонючий , smellier , smelliest"
             },
             {
             id:156,
-            eng:"smoky",
+            eng:"smoky /смОуки/",
             ru:"дымный , smokier , smokiest"
             },
             {
             id:157,
-            eng:"smooth",
+            eng:"smooth /смуз/",
             ru:"гладкий , smoother , smoothest"
             },
             {
@@ -830,12 +830,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:159,
-            eng:"soon",
+            eng:"soon /сун/",
             ru:"скоро , sooner , soonest"
             },
             {
             id:160,
-            eng:"vulgar",
+            eng:"vulgar /вАлгар/",
             ru:"вульгарный , more , the most"
             },
             {
@@ -845,12 +845,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:162,
-            eng:"sour",
+            eng:"sour /сАуэ/",
             ru:"кислый , sourer , sourest"
             },
             {
             id:163,
-            eng:"spicy",
+            eng:"spicy /спАйси/",
             ru:"острый , spicier , spiciest"
             },
             {
@@ -860,7 +860,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:165,
-            eng:"bloody",
+            eng:"bloody /блАди/",
             ru:"кровавый , bloodier , bloodiest"
             },
             {
@@ -870,7 +870,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:167,
-            eng:"strict",
+            eng:"strict /стрИкт/",
             ru:"строгий , stricter , strictest"
             },
             {
@@ -885,7 +885,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:170,
-            eng:"sweaty",
+            eng:"sweaty /свЭти/",
             ru:"потный , sweatier , sweatiest"
             },
             {
@@ -895,23 +895,23 @@ const allCardsGameFindAPair = {
             },
             {
             id:172,
-            eng:"fabulous",
+            eng:"fabulous /фЭбьюлэс/",
             ru:"поразительный , more , the most"
             },
             {
             id:173,
-            eng:"tan",
-            ru:"загорелый , tanner , tannest"
+            eng:"tanned /тЭнд/",
+            ru:"загорелый , more , the most"
             },
             {
             id:174,
-            eng:"tasty",
+            eng:"tasty /тЭйсти/",
             ru:"вкусный , tastier , tastiest"
             },
             {
             id:175,
-            eng:"thin/thick",
-            ru:"тонкий/толстый , thicker , thickest"
+            eng:"thin or thick",
+            ru:"тонкий/толстый , предметы , thicker, thickest"
             },
             {
             id:176,
@@ -920,12 +920,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:177,
-            eng:"thirsty",
-            ru:"испытывающий , thirstier , thirstiest"
+            eng:"thirsty /Thёсти/",
+            ru:"жаждущий , thirstier , thirstiest"
             },
             {
             id:178,
-            eng:"tiny",
+            eng:"tiny /тАйни/",
             ru:"крошечный , tinier , tiniest"
             },
             {
@@ -935,64 +935,84 @@ const allCardsGameFindAPair = {
             },
             {
             id:180,
-            eng:"/тру/ true",
+            eng:"true /тру/",
             ru:"верный , truer , truest"
             },
             {
             id:181,
-            eng:"ugly",
+            eng:"ugly /Агли/",
             ru:"уродливый , uglier , ugliest"
             },
             {
             id:182,
-            eng:"warm",
+            eng:"warm /вОм/",
             ru:"теплый , warmer , warmest"
             },
             {
             id:183,
-            eng:"weak",
+            eng:"weak /уИк/",
             ru:"слабый , weaker , weakest"
             },
             {
             id:184,
-            eng:"wealthy",
-            ru:"богатый , wealthier , wealthiest"
+            eng:"wealthy /уЭлTHи/",
+            ru:"состоятельный , wealthier , wealthiest"
             },
             {
             id:185,
-            eng:"wet",
+            eng:"wet /уЭт/",
             ru:"мокрый , wetter , wettest"
             },
             {
             id:186,
-            eng:"wide",
+            eng:"wide /уАйд/",
             ru:"широкий , wider , widest"
             },
             {
             id:187,
-            eng:"wild",
+            eng:"wild /уАйлд/",
             ru:"дикий , wilder , wildest"
             },
             {
             id:188,
-            eng:"windy",
+            eng:"windy /уИнди/",
             ru:"ветреный , windier , windiest"
             },
             {
             id:189,
-            eng:"wise",
+            eng:"wise /уАйз/",
             ru:"мудрый , wiser , wisest"
             },
             {
             id:190,
-            eng:"worthy",
+            eng:"worthy /уОрTHи/",
             ru:"достойный , worthier , worthiest"
             },
             {
             id:191,
-            eng:"young",
+            eng:"young /ян/",
             ru:"молодой , younger , youngest"
-            },			
+            },
+            {
+            id:192,
+            eng:"reliable /рилАибл/",
+            ru:"надёжный , more , the most"
+            },
+            {
+            id:193,
+            eng:"picky /пИки/",
+            ru:"придирчивый , pickier , pickiest"
+            },
+            {
+            id:194,
+            eng:"successful /саксЭсфул/",
+            ru:"успешный , more , the most"
+            },
+            {
+            id:195,
+            eng:"tricky /трИки/",
+            ru:"хитрый , trickier , trickiest"
+            },		
     ],
     xyz: [
             
