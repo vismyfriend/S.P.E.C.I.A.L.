@@ -100,8 +100,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:213,
-            eng:"broad",
-            ru:"широкий"
+            eng:"green",
+            ru:"зелёный"
             },
             {
             id:214,
@@ -235,7 +235,7 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:240,
-            eng:"expensice",
+            eng:"expensive",
             ru:"дорогой"
             },
             {
@@ -256,7 +256,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:244,
             eng:"dumb",
-            ru:"глупый"
+            ru:"болван"
             },
             {
             id:245,
@@ -405,8 +405,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:274,
-            eng:"handy",
-            ru:"удобный"
+            eng:"cozy",
+            ru:"уютный"
             },
             {
             id:275,
@@ -506,11 +506,11 @@ const allWordsForGameTypeOrWrite = {
             {
             id:294,
             eng:"little",
-            ru:"маленький"
+            ru:"мало"
             },
             {
             id:295,
-            eng:"lively",
+            eng:"alive",
             ru:"живой"
             },
             {
@@ -525,8 +525,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:298,
-            eng:"lovely",
-            ru:"прекрасный"
+            eng:"drunk",
+            ru:"пьяный"
             },
             {
             id:299,
@@ -566,7 +566,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:306,
             eng:"nasty",
-            ru:"мерзопакостный"
+            ru:"противный"
             },
             {
             id:307,
@@ -625,7 +625,7 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:318,
-            eng:"plain/simple",
+            eng:"plain or simple",
             ru:"простой"
             },
             {
@@ -735,8 +735,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:340,
-            eng:"shallow",
-            ru:"мелкий"
+            eng:"correct",
+            ru:"верный"
             },
             {
             id:341,
@@ -865,7 +865,7 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:366,
-            eng:"strange/weird",
+            eng:"strange or weird",
             ru:"странный"
             },
             {
@@ -900,7 +900,7 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:373,
-            eng:"tan",
+            eng:"tanned",
             ru:"загорелый"
             },
             {
@@ -921,7 +921,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:377,
             eng:"thirsty",
-            ru:"испытывающий"
+            ru:"жаждущий"
             },
             {
             id:378,
@@ -935,7 +935,7 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:380,
-            eng:"TRUE",
+            eng:"true /тру/",
             ru:"верный"
             },
             {
@@ -956,7 +956,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:384,
             eng:"wealthy",
-            ru:"богатый"
+            ru:"состоятельный"
             },
             {
             id:385,
@@ -992,7 +992,42 @@ const allWordsForGameTypeOrWrite = {
             id:391,
             eng:"young",
             ru:"молодой"
-            },			
+            },
+            {
+            id:392,
+            eng:"reliable",
+            ru:"надёжный"
+            },
+            {
+            id:393,
+            eng:"picky",
+            ru:"придирчивый"
+            },
+            {
+            id:394,
+            eng:"successful",
+            ru:"успешный"
+            },
+            {
+            id:395,
+            eng:"tricky",
+            ru:"хитрый"
+            },
+            {
+            id:396,
+            eng:"good",
+            ru:"хороший"
+            },
+            {
+            id:397,
+            eng:"bad",
+            ru:"плохой"
+            },
+            {
+            id:398,
+            eng:"much or many",
+            ru:"много"
+            },		
     ],
     abc: [
         {

@@ -1012,7 +1012,22 @@ const allCardsGameFindAPair = {
             id:195,
             eng:"tricky /трИки/",
             ru:"хитрый , trickier , trickiest"
-            },		
+            },
+            {
+            id:196,
+            eng:"good",
+            ru:"хороший , better , the best"
+            },
+            {
+            id:197,
+            eng:"bad /бЭд/",
+            ru:"плохой , worse , the worst"
+            },
+            {
+            id:198,
+            eng:"much or many",
+            ru:"много , more , the most"
+            },
     ],
     xyz: [
             
