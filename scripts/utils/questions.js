@@ -94,6 +94,93 @@ const allQuestionsOneDeck = {
             ru	:	"семь"	
             }	,				
     ],
+    adjquest: [
+        {
+            id:201,
+            eng:"What is more boring : to read a book or to play chess(шахматы)? ",
+            ru:"Что скучнее : играть в шахматы или читать книгу? - Hmm… I like chess. I think to read a book is boring. But it depends on a book (хотя зависит от книги)"
+            },
+            {
+            id:202,
+            eng:"Who is an awesome actor? /Осам/ awesome - офигенный",
+            ru:"Кто офигенный актёр? - I think Leo Dicaprio is an awesome actor, and you?"
+            },
+            {
+            id:203,
+            eng:"When do you usually feel angry?",
+            ru:"Когда ты обычно злишься? (чувствуешь себя злым) I am angry when I am hungry"
+            },
+            {
+            id:204,
+            eng:"Tell me three animals. The first must be big. The second must be bigger than the first. And the third is the biggest.",
+            ru:"Назови три животных, чтобы одно было больше другого. - A dog is big. A gorilla is bigger. An elephant is the biggest."
+            },
+            {
+            id:205,
+            eng:"What color is a zebra?",
+            ru:"Какого цвета зебра? A zebra is black and white. Zebra has stripes /стрАйпс/ полоски"
+            },
+            {
+            id:206,
+            eng:"What color are your eyes?",
+            ru:"Какогго цвета твои глаза? My eyes ARE blue. Or they are grey sometimes."
+            },
+            {
+            id:207,
+            eng:"What color is a mix of yellow and blue colors?",
+            ru:"Rакого цвета смесь из желтой и иней красок? It is green"
+            },
+            {
+            id:208,
+            eng:"Do you have bald people in your family?",
+            ru:"У тебя есть лысые в семье? I don't have. I only have a bald teacher Vincent."
+            },
+            {
+            id:209,
+            eng:"Is it sexy when a man is bald?",
+            ru:"Это сексуально, когда мужчина лысый? Oh yes! Of course! Vincent is bald and sexy!"
+            },
+            {
+            id:210,
+            eng:"Can you recommend me an interesting film to watch?",
+            ru:"Можете порекомендовать интересный фильм посмотреть? I recommend you to watch 'Modern family'"
+            },
+            {
+            id:211,
+            eng:"Do you think you are a brave person? (храбрый)",
+            ru:"Ты думаешь ты храбрый человек? I think I am a brave person, because I speak English with you!"
+            },
+            {
+            id:212,
+            eng:"Do you like bright or dark colors of clothes? /клОуз/ одежда",
+            ru:"Вам нравятся темные или яркие цвета в одежде?"
+            },
+            {
+            id:213,
+            eng:"What day of the week is the busiest for you? /бИзиест/",
+            ru:"Какой день недели у вас самый занятой? I am always busy. But Thursday is the busiest day!"
+            },
+            {
+            id:214,
+            eng:"Is your teacher angry when you don't do homework?",
+            ru:"YES! HE WANTS TO KILL ME when I don't do homework."
+            },
+            {
+            id:215,
+            eng:"Do you have older or younger sisters?",
+            ru:"У тебя есть сестры старше или моложе? I have an older sister and a younger brother"
+            },
+            {
+            id:216,
+            eng:"How much does an iPhone cost? Сheap or expensive?",
+            ru:"Сколько стоит айфон? It depends on a model (Это зависит от модели) The newest is expensive. Older are cheaper."
+            },
+            {
+            id:217,
+            eng:"Am I an attractive person?",
+            ru:"Я привлекательный человек? You are very attractive and smart!"
+            },			
+    ],
     compare: [
         {
             id:1,

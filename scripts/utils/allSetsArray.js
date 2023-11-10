@@ -47,7 +47,8 @@ const allSetsArray = [
     "musicCheck",
     "new_mission",
     "spanish",
-    "compare"
+    "compare",
+    "adjquest"
 
 
 ]
