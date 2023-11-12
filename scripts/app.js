@@ -3,9 +3,17 @@ import allQuestionsOneDeck from "./utils/questions.js"
 import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
 import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
+import quizQuestionsList from "./utils/QuizQData.js"
+import { QuizQ } from "./games/QuizQ.js"
+
 import { testGameBenderWordOrderGame } from "./utils/sentences.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 // наверное потому что в скобках? поэтому только один массив с данными?
+
+
+
+
+// сперва название, потом значение
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
 const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
@@ -93,6 +101,10 @@ const typeOrWriteGameButtonSkip = document.querySelector(".typeOrWriteGameButton
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
 
+
+const buttonTryAgainOneMoreTime = document.querySelector(".areAmIsQuizOneButtonOne")
+
+let currentSet = null
 let languageRu = false 
 
 // const MusicFromGoogleDriveDefault = new Audio("https://drive.google.com/file/d/1YlPN33KcfXRkw2BgHnNZVeb2z7NkiZKP/view?usp=sharing"); 
@@ -414,9 +426,15 @@ function searchSet() {
         // console.log(el.dataset.set)
         if (!filtered.includes(el.dataset.set)) {
             el.classList.add("none")
+
+        // } else if (inputSearch.value != "") {
+
         } else {
             el.classList.remove("none")
-        }
+            // visibility попробовать
+            // или другой класс сделать (например hidden или secret)
+            // если пустое поле ввода - то добавить класс
+        } 
     });
 }
 
@@ -605,8 +623,10 @@ function startGameMultipleChoice() {
     mainContainer1.classList.add("none")
     mainContainer2.classList.add("none")
     mainContainer4.classList.remove("none")
-
-    console.log("hi")
+    new QuizQ({quizAllQuestions:quizQuestionsList[currentSet]})
+    
+    // пометки слева красный кружок
+   
 }
 
 dataFromEachPopupMissionsAndSets.forEach((set) => {
@@ -617,6 +637,9 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
 
     })
 })
+
+buttonTryAgainOneMoreTime.addEventListener("click", pageReloadRefresh)
+
 
 function renderCards(lang) {
     let array = readyArray()
@@ -640,21 +663,55 @@ function renderCards(lang) {
 
 
 function getArray(set) {
+    currentSet = set
+    console.log(currentSet)
     chosenArray = null
     chooseQuestions = null
     chooseTypeOrWrite = null
-    chosenArray = allCardsGameFindAPair[set].sort(function () {
-        return Math.random() - 0.5;
-    });
-    chooseQuestions = allQuestionsOneDeck[set].sort(function () {
-        return Math.random() - 0.5;
-    });
-    chooseTypeOrWrite = allWordsForGameTypeOrWrite[set].sort(function () {
-        return Math.random() - 0.5;
-    });
+    // chosenArrayQuiz = null
 
+    chosenArray = allCardsGameFindAPair[set]?.sort(function () {
+        return Math.random() - 0.5;
+    });
+    chooseQuestions = allQuestionsOneDeck[set]?.sort(function () {
+        return Math.random() - 0.5;
+    });
+    chooseTypeOrWrite = allWordsForGameTypeOrWrite[set]?.sort(function () {
+        return Math.random() - 0.5;
+    });
 }
+// if (allCardsGameFindAPair.hasOwnProperty('set')) {
+//     chosenArray = allCardsGameFindAPair[set].sort(function () {
+//         return Math.random() - 0.5;
+//     });
+//     popupMissionsAndSetsGameFindAPair.style.display = "flex"
+// } else {
+//     popupMissionsAndSetsGameFindAPair.style.display = "none"
+//     // придумать класс и тпустить его ниже none
+// }
 
+
+// if (allQuestionsOneDeck.hasOwnProperty('set')) {
+//     chooseQuestions = allQuestionsOneDeck[set]?.sort(function () {
+//         return Math.random() - 0.5;
+//     });
+//     letsSpeak.style.display = "flex"
+// } else {
+//     letsSpeak.style.display = "none"
+// }
+
+
+// if (allWordsForGameTypeOrWrite.hasOwnProperty('set')) {
+
+//     chooseTypeOrWrite = allWordsForGameTypeOrWrite[set]?.sort(function () {
+//         return Math.random() - 0.5;
+//     })
+//     InputTypeOrWriteGame.style.display = "flex"
+// } else {
+//     InputTypeOrWriteGame.style.display = "none"
+
+// }
+// }
 
 function readyArray() {
     return chosenArray.slice(min, max)

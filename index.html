@@ -24,6 +24,7 @@
         <div class="mainContainer1">
             <!-- кнопка для приветственного аудио трека (музыка) когда её нет пропадает иконка отклчить звук -->
             <!-- <button class="helloMusicStartButton">Hello, Special Agent <br> привет, спЭшл эЙджент</button> -->
+            <!-- я ее пока закомментил, потому что надоедало каждый раз ее нажимать при входе в приложение -->
             <div class="popupMissionsAndSets">
                 <div class="starsEmoji">
                     <img src="./images/stars.png" alt="starsEmoji">
@@ -36,7 +37,8 @@
                 <ul class="popupMissionsAndSets__sets">
                     <button class="scroll-left"></button>
                     <button class="scroll-right"></button>
-                    <!-- секретный набор - чтобы его можно было через поиск найти - добавить здесь стиль none!] -->   
+                    <!-- секретный набор - чтобы его можно было через поиск найти - добавить здесь стиль none!] -->
+                    <!-- но тут проблема обнаружилась - если что-то ввели в поиск - то все секретные наборы отображаются сразу    -->
                     <li class="popupMissionsAndSets__set pink" data-set="when"> When? </li>
                     <li class="popupMissionsAndSets__set orange" data-set="technologic">Technologic</li>
                     <!-- <li class="popupMissionsAndSets__set" data-set="testOneSeven">test 1-7</li> -->
@@ -84,9 +86,9 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="musicCheck"> заблокирован </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="new_mission"> coming soon </li>
                     <li class="popupMissionsAndSets__set yellow" data-set="spanish"> spanish </li>
-                    <li class="popupMissionsAndSets__set none" data-set="testing"> ... </li>      
-                    <li class="popupMissionsAndSets__set none green" data-set="abc"> abc </li>      
-                    <li class="popupMissionsAndSets__set none green" data-set="xyz"> secret 1 </li>  
+                    <li class="popupMissionsAndSets__set none" data-set="testing"> ... </li>
+                    <li class="popupMissionsAndSets__set none green" data-set="abc"> abc </li>
+                    <li class="popupMissionsAndSets__set none green" data-set="xyz"> secret 1 </li>
                     <!-- <li class="popupMissionsAndSets__set" data-set="mission90">Миссия ZER0</li> -->
                     <!-- 
                     <li class="popupMissionsAndSets__set" data-set="mission3">Mission THREE</li>
@@ -112,13 +114,17 @@
                     <img src="./images/eyesmonkey.png">
                     <p> Find a pair </p>
                 </div>
-                <div class="popupMissionsAndSets__InputTypeOrWriteGame">
-                    <img src="./images/writeAndType.png">
-                    <p>Write / Spell</p>
-                </div>
                 <div class="popupMissionsAndSets__letsSpeak">
                     <img src="./images/mouthmonkey.png">
                     <p> Let's speak </p>
+                </div>
+                <div class="popupMissionsAndSets__multipleChoice">
+                    <img src="./images/Brain.png">
+                    <p> Test </p>
+                </div>
+                <div class="popupMissionsAndSets__InputTypeOrWriteGame">
+                    <img src="./images/writeAndType.png">
+                    <p>Write / Spell</p>
                 </div>
                 <div class="popupMissionsAndSets__BenderWordOrderGame">
                     <img src="./images/earsmonkey.png">
@@ -127,10 +133,6 @@
                 <div class="popupMissionsAndSets__slot-machine">
                     <img src="./images/earsmonkey.png">
                     <p> Slot machine</p>
-                </div>
-                <div class="popupMissionsAndSets__multipleChoice">
-                    <img src="./images/Brain.png">
-                    <p> Test </p>
                 </div>
                 <!-- раскомментировать и скопировать кнопку ниже для новой игры-->
                 <!-- <div class="popupMissionsAndSets__copyThisForNewGames">
@@ -153,6 +155,7 @@
                 </div>
             </div>
             <!-- Что такое template у Andrew уточнить-->
+            <!-- Не отображается на странице, например Карточка товара -->
             <template class="template">
                 <p class="card"></p>
             </template>
@@ -170,7 +173,8 @@
                 <button class="oneDeckButtonCheck"> Показать <br> ответ </button>
                 <button class="oneDeckButtonPrevious"> Shuffle <br>перемешать </button>
                 <button class="oneDeckButtonNext">Next card<br>Cлед.карта</button>
-                <p class="oneDeckButtonText" >Если заметите опечатку, неточность или отсутсвует перевод или ответ: PLEASE, сделайте скриншот и отправьте мне в телеграм: @vismyfriend</p>
+                <p class="oneDeckButtonText">Если заметите опечатку, неточность или отсутсвует перевод или ответ:
+                    PLEASE, сделайте скриншот и отправьте мне в телеграм: @vismyfriend</p>
             </div>
             <div class="insertANewGameHere">
                 <!-- в планах вставить сюда игру про бендера c Божьей помощью =)-->
@@ -280,7 +284,24 @@
             </div>
         </div>
         <div class="mainContainer4 none">
-            <button class="backToMainContainer1button">Coming soon - появится скоро</h1>
+            <div class="AllQuizes">
+
+
+                <button class="QuizButtons areAmIsQuizOneButtonOne none"> One more time </button>
+                <button class="QuizButtons areAmIsQuizOneButtonTwo none"> Quiz 2</button>
+
+                <div class="QuizContainer">
+                    <p class="quizQuestionRules"> Нужно ответить верно на 10 вопросов. <br> Если ответили неверно, то этот же вопрос вконце будет задан еще раз:</p>
+                    <p class="quizQuestionTask"></p>
+                    <div class="quizButtonsContainer">
+                        <!-- кнопку создадим в java s -->
+                    </div>
+
+
+                </div>
+            </div>
+
+
         </div>
 
         </div>

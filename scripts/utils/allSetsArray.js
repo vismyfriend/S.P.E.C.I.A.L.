@@ -1,3 +1,4 @@
+// Этот массив создан, чтобы поиск миссий работал
 const allSetsArray = [
     "commonVerbs",
     "technologic",
