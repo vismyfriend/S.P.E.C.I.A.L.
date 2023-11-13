@@ -62,6 +62,8 @@ export class QuizQ {
         })
 
     }
+  
+
     setEventListener(button, correct) {
 
         button.addEventListener("click", async () => {
@@ -69,17 +71,17 @@ export class QuizQ {
             if (this.currentIndex >= this.silcedQuestions.length - 1) {
                 this.scoreCounter += 1   
                 this.gameOver()
+            //    вот здесь (или в самой функции game over) нужна еще одна проверка - а то иначе он всегда верным засчитывает последний ответ, даже если там ошибка
                 button.classList.add("correct")
                 await this.timeOut(button, 25000, "correct")
                 return
             }
-
+            
             if (!correct) {
                 this.mistakesCounter += 1
                 console.log("неверных ответов",this.mistakesCounter)
+                console.log("верных ответов",this.scoreCounter)
 
-                // тут очки присуждаются или кнопки цвет меняют при правильном ответе
-                // добавляет этот же элемент в массив вконце, а pop в начало
                 button.classList.add("wrong")
 
 
@@ -87,7 +89,7 @@ export class QuizQ {
                 await this.timeOut(button, 1000, "wrong")
 
                 this.silcedQuestions.push(this.silcedQuestions[this.currentIndex])
-                // console.log(this.silcedQuestions)
+          
             } else {
                 this.scoreCounter += 1    
                 button.classList.add("correct")
@@ -104,7 +106,8 @@ export class QuizQ {
         }
         )
     }
-    gameOver() {
+    gameOver() { 
+        
         this.rules.textContent = `Congrats! /конгрЭтс Эйджент/ agent. Поздравления! Задание выполнено. (всего в этом тесте 30 разных вопросов, так что если пробовать ещё раз, то можно пытаться прорешать их все ;)   Количество ваших ошибок:  ${ this.mistakesCounter}`
         this.buttonTryAgainOneMoreTime.classList.remove("none")
     }

@@ -113,13 +113,15 @@ button {
 
 .quizButtonsContainer {
     display: grid;
+    justify-content: center;
     gap: 5px;
     font-size: 20px;
 }
 
 .quizButton {
-    width: 100px;
+    width: 200px;
     height: 40px;
+    
 }
 
 .quizButton.wrong {
