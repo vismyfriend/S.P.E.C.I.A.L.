@@ -50,7 +50,8 @@ const allSetsArray = [
     "spanish",
     "compare",
     "adjquest",
-    "anika"
+    "anika",
+    "understand"
 
 
 ]
