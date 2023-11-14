@@ -37,6 +37,158 @@ const allCardsGameFindAPair = {
             ru	:	"семь"	
             }	,				
     ],
+    anika: [
+        {
+            id:4,
+            eng:"break , broke , broken",
+            ru:"ломать"
+            },
+            {
+            id:5,
+            eng:"beat , beat , beaten",
+            ru:"бить, побить в соревновании"
+            },
+            {
+            id:6,
+            eng:"become , became , become",
+            ru:"становиться"
+            },
+            {
+            id:7,
+            eng:"begin , began , begun",
+            ru:"начинать"
+            },
+            {
+            id:8,
+            eng:"blow , blew , blown",
+            ru:"дуть"
+            },
+            {
+            id:9,
+            eng:"borrow , borrowed , borrowed",
+            ru:"брать в долг, занимать"
+            },
+            {
+            id:10,
+            eng:"build , built , built",
+            ru:"строить"
+            },
+            {
+            id:11,
+            eng:"burn , burnt , burnt",
+            ru:"сжигать, гореть"
+            },
+            {
+            id:12,
+            eng:"buy , bought , bought",
+            ru:"покупать"
+            },
+            {
+            id:13,
+            eng:"bring , brought , brought",
+            ru:"приносить"
+            },
+            {
+            id:14,
+            eng:"be , was/were , been",
+            ru:"быть"
+            },
+            {
+            id:15,
+            eng:"bite , bit , bit",
+            ru:"кусать"
+            },
+            {
+            id:16,
+            eng:"come , came , come",
+            ru:"приходить"
+            },
+            {
+            id:17,
+            eng:"choose , chose , chosen",
+            ru:"выбирать"
+            },
+            {
+            id:18,
+            eng:"catch , caught , caught",
+            ru:"ловить"
+            },
+            {
+            id:19,
+            eng:"creep , crept , crept",
+            ru:"ползать"
+            },
+            {
+            id:20,
+            eng:"cost , cost , cost",
+            ru:"стоить"
+            },
+            {
+            id:21,
+            eng:"cut , cut , cut",
+            ru:"резать"
+            },
+            {
+            id:22,
+            eng:"deal , dealt , dealt",
+            ru:"иметь дела"
+            },
+            {
+            id:23,
+            eng:"dig , dug , dug",
+            ru:"копать"
+            },
+            {
+            id:24,
+            eng:"do , did , done",
+            ru:"выполнять, делать, заниматься"
+            },
+            {
+            id:25,
+            eng:"drive , drove , driven",
+            ru:"водить"
+            },
+            {
+            id:26,
+            eng:"draw , drew , drawn",
+            ru:"рисовать"
+            },
+            {
+            id:27,
+            eng:"drink , drank , drunk",
+            ru:"пить"
+            },
+            {
+            id:28,
+            eng:"eat , ate , eaten",
+            ru:"кушать"
+            },
+            {
+            id:29,
+            eng:"fall , fell , fallen",
+            ru:"падать"
+            },
+            {
+            id:30,
+            eng:"feed , fed , fed",
+            ru:"кормить"
+            },
+            {
+            id:31,
+            eng:"feel , felt , felt",
+            ru:"чувствовать"
+            },
+            {
+            id:32,
+            eng:"fight , fought , fought",
+            ru:"сражаться"
+            },
+            {
+            id:33,
+            eng:"find , found , found",
+            ru:"находить"
+            },		
+    ],
     adjquest: [
         {
             id:1,

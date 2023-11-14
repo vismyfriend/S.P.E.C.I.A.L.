@@ -123,6 +123,9 @@ button {
     height: 40px;
     
 }
+.areAmIsQuizOneButtonOne {
+    background-color: greenyellow;
+}
 
 .quizButton.wrong {
     background-color: red;

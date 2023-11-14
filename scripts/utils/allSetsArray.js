@@ -49,7 +49,8 @@ const allSetsArray = [
     "new_mission",
     "spanish",
     "compare",
-    "adjquest"
+    "adjquest",
+    "anika"
 
 
 ]
