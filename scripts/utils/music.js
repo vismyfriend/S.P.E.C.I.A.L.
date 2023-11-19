@@ -50,6 +50,7 @@ const playList = {
     tstar: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     astart: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
     cook3: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
+    allnaughtyverbs: "https://zvukitop.com/wp-content/uploads/2021/04/zvuk-perezariadki-pistoleta-435.mp3",
 
  
     

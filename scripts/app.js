@@ -320,8 +320,8 @@ function howManyStarsScore() {
         timeToGet3StarResult = 30
         timeToGet2StarResult = 40
     } else if (chosenArray.length > 20 && chosenArray.length < 40) {
-        timeToGet5StarResult = 20
-        timeToGet4StarResult = 30
+        timeToGet5StarResult = 23
+        timeToGet4StarResult = 33
         timeToGet3StarResult = 40
         timeToGet2StarResult = 50
     } else if (chosenArray.length > 40 && chosenArray.length < 59) {
@@ -749,7 +749,7 @@ function finishGame() {
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
     popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат: ${timer.textContent} seconds`
-    popupMissionsAndSetsDescription.innerHTML = "попробуй другой набор слов или сможешь этот пройти быстрее?"
+    popupMissionsAndSetsDescription.innerHTML = "Максимальный результат - пять звёзд 🏆 попробуй ещё разок! You can do it!"
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"
     popupMissionsAndSetsSets.classList.remove("hide")
@@ -979,7 +979,7 @@ keyM.addEventListener("click", () => {
     playerInputType.value = playerInputType.value + "M"
 })
 keyDot.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "."
+    playerInputType.value = playerInputType.value + ","
     // keySoundInput?.stop()
     keySoundInput.play()
 })

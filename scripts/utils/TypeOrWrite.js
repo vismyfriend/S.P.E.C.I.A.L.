@@ -37,6 +37,563 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"семь"	
             }	,				
     ],
+    allnaughtyverbs: [
+        {
+            id:1,
+            eng:"arise",
+            ru:"возникнуть"
+            },
+            {
+            id:2,
+            eng:"awake",
+            ru:"пробудиться"
+            },
+            {
+            id:3,
+            eng:"abide",
+            ru:"соблюдать"
+            },
+            {
+            id:4,
+            eng:"break",
+            ru:"ломать"
+            },
+            {
+            id:5,
+            eng:"beat",
+            ru:"побить"
+            },
+            {
+            id:6,
+            eng:"become",
+            ru:"становиться"
+            },
+            {
+            id:7,
+            eng:"begin",
+            ru:"начинать"
+            },
+            {
+            id:8,
+            eng:"blow",
+            ru:"дуть"
+            },
+            {
+            id:9,
+            eng:"borrow",
+            ru:"брать в долг"
+            },
+            {
+            id:10,
+            eng:"build",
+            ru:"строить"
+            },
+            {
+            id:11,
+            eng:"burn",
+            ru:"сжигать, гореть"
+            },
+            {
+            id:12,
+            eng:"buy",
+            ru:"покупать"
+            },
+            {
+            id:13,
+            eng:"bring",
+            ru:"приносить"
+            },
+            {
+            id:14,
+            eng:"be",
+            ru:"быть"
+            },
+            {
+            id:15,
+            eng:"bite",
+            ru:"кусать"
+            },
+            {
+            id:16,
+            eng:"come",
+            ru:"приходить"
+            },
+            {
+            id:17,
+            eng:"choose",
+            ru:"выбирать"
+            },
+            {
+            id:18,
+            eng:"catch",
+            ru:"ловить"
+            },
+            {
+            id:19,
+            eng:"creep",
+            ru:"ползать"
+            },
+            {
+            id:20,
+            eng:"cost",
+            ru:"стоить"
+            },
+            {
+            id:21,
+            eng:"cut",
+            ru:"резать"
+            },
+            {
+            id:22,
+            eng:"deal",
+            ru:"иметь дела"
+            },
+            {
+            id:23,
+            eng:"dig",
+            ru:"копать"
+            },
+            {
+            id:24,
+            eng:"do",
+            ru:"делать"
+            },
+            {
+            id:25,
+            eng:"drive",
+            ru:"водить"
+            },
+            {
+            id:26,
+            eng:"draw",
+            ru:"рисовать"
+            },
+            {
+            id:27,
+            eng:"drink",
+            ru:"пить"
+            },
+            {
+            id:28,
+            eng:"eat",
+            ru:"кушать"
+            },
+            {
+            id:29,
+            eng:"fall",
+            ru:"падать"
+            },
+            {
+            id:30,
+            eng:"feed",
+            ru:"кормить"
+            },
+            {
+            id:31,
+            eng:"feel",
+            ru:"чувствовать"
+            },
+            {
+            id:32,
+            eng:"fight",
+            ru:"сражаться"
+            },
+            {
+            id:33,
+            eng:"find",
+            ru:"находить"
+            },
+            {
+            id:34,
+            eng:"fly",
+            ru:"летать"
+            },
+            {
+            id:35,
+            eng:"forbid",
+            ru:"запрещать"
+            },
+            {
+            id:36,
+            eng:"forget",
+            ru:"забывать"
+            },
+            {
+            id:37,
+            eng:"forgive",
+            ru:"прощать"
+            },
+            {
+            id:38,
+            eng:"freeze",
+            ru:"замерзать"
+            },
+            {
+            id:39,
+            eng:"grow",
+            ru:"расти"
+            },
+            {
+            id:40,
+            eng:"get",
+            ru:"получать"
+            },
+            {
+            id:41,
+            eng:"give",
+            ru:"давать"
+            },
+            {
+            id:42,
+            eng:"go",
+            ru:"ходить"
+            },
+            {
+            id:43,
+            eng:"have",
+            ru:"иметь"
+            },
+            {
+            id:44,
+            eng:"hear",
+            ru:"слышать"
+            },
+            {
+            id:45,
+            eng:"hide",
+            ru:"прятать"
+            },
+            {
+            id:46,
+            eng:"hit",
+            ru:"ударять"
+            },
+            {
+            id:47,
+            eng:"hurt",
+            ru:"причинять боль"
+            },
+            {
+            id:48,
+            eng:"hold",
+            ru:"держать"
+            },
+            {
+            id:49,
+            eng:"keep",
+            ru:"хранить"
+            },
+            {
+            id:50,
+            eng:"know",
+            ru:"знать"
+            },
+            {
+            id:51,
+            eng:"lead",
+            ru:"вести, приводить"
+            },
+            {
+            id:52,
+            eng:"learn",
+            ru:"изучать"
+            },
+            {
+            id:53,
+            eng:"leave",
+            ru:"покидать"
+            },
+            {
+            id:54,
+            eng:"lend",
+            ru:"давать в долг"
+            },
+            {
+            id:55,
+            eng:"let",
+            ru:"позволять"
+            },
+            {
+            id:56,
+            eng:"lose",
+            ru:"терять"
+            },
+            {
+            id:57,
+            eng:"tell a lie",
+            ru:"говорить ложь"
+            },
+            {
+            id:58,
+            eng:"lie",
+            ru:"лежать"
+            },
+            {
+            id:59,
+            eng:"make",
+            ru:"создавать"
+            },
+            {
+            id:60,
+            eng:"mean",
+            ru:"иметь ввиду"
+            },
+            {
+            id:61,
+            eng:"meet",
+            ru:"встречать(ся)"
+            },
+            {
+            id:62,
+            eng:"pay",
+            ru:"платить"
+            },
+            {
+            id:63,
+            eng:"put",
+            ru:"класть"
+            },
+            {
+            id:64,
+            eng:"read",
+            ru:"читать"
+            },
+            {
+            id:65,
+            eng:"ride",
+            ru:"ездить верхом"
+            },
+            {
+            id:66,
+            eng:"ring",
+            ru:"звенеть, звонить"
+            },
+            {
+            id:67,
+            eng:"run",
+            ru:"бегать"
+            },
+            {
+            id:68,
+            eng:"rise",
+            ru:"подниматься"
+            },
+            {
+            id:69,
+            eng:"say",
+            ru:"сказать, произнести"
+            },
+            {
+            id:70,
+            eng:"see",
+            ru:"увидеть"
+            },
+            {
+            id:71,
+            eng:"sell",
+            ru:"продавать"
+            },
+            {
+            id:72,
+            eng:"send",
+            ru:"отправлять"
+            },
+            {
+            id:73,
+            eng:"shake",
+            ru:"трясти"
+            },
+            {
+            id:74,
+            eng:"shoot",
+            ru:"стрелять"
+            },
+            {
+            id:75,
+            eng:"shut",
+            ru:"захлопнуть"
+            },
+            {
+            id:76,
+            eng:"sing",
+            ru:"петь"
+            },
+            {
+            id:77,
+            eng:"sink",
+            ru:"затонуть"
+            },
+            {
+            id:78,
+            eng:"sit",
+            ru:"сидеть"
+            },
+            {
+            id:79,
+            eng:"sleep",
+            ru:"спать"
+            },
+            {
+            id:80,
+            eng:"slide",
+            ru:"скользить"
+            },
+            {
+            id:81,
+            eng:"speak",
+            ru:"разговаривать"
+            },
+            {
+            id:82,
+            eng:"spend",
+            ru:"тратить"
+            },
+            {
+            id:83,
+            eng:"spit",
+            ru:"плеваться"
+            },
+            {
+            id:84,
+            eng:"stand",
+            ru:"встать, стоять"
+            },
+            {
+            id:85,
+            eng:"steal",
+            ru:"воровать"
+            },
+            {
+            id:86,
+            eng:"stick",
+            ru:"приклеить, застрять "
+            },
+            {
+            id:87,
+            eng:"stink",
+            ru:"вонять"
+            },
+            {
+            id:88,
+            eng:"strike",
+            ru:"ударять"
+            },
+            {
+            id:89,
+            eng:"swear",
+            ru:"клясться, материться "
+            },
+            {
+            id:90,
+            eng:"sweep",
+            ru:"подметать"
+            },
+            {
+            id:91,
+            eng:"swim",
+            ru:"плавать"
+            },
+            {
+            id:92,
+            eng:"swing",
+            ru:"качаться"
+            },
+            {
+            id:93,
+            eng:"take",
+            ru:"брать"
+            },
+            {
+            id:94,
+            eng:"teach",
+            ru:"обучать"
+            },
+            {
+            id:95,
+            eng:"tear",
+            ru:"порвать"
+            },
+            {
+            id:96,
+            eng:"tell",
+            ru:"рассказывать"
+            },
+            {
+            id:97,
+            eng:"think",
+            ru:"думать"
+            },
+            {
+            id:98,
+            eng:"throw",
+            ru:"бросать"
+            },
+            {
+            id:99,
+            eng:"understand",
+            ru:"понимать"
+            },
+            {
+            id:100,
+            eng:"wake up",
+            ru:"просыпаться"
+            },
+            {
+            id:101,
+            eng:"wear",
+            ru:"носить одежду"
+            },
+            {
+            id:102,
+            eng:"write",
+            ru:"писАть"
+            },
+            {
+            id:103,
+            eng:"weep",
+            ru:"хныкать"
+            },
+            {
+            id:104,
+            eng:"win",
+            ru:"выигрывать"
+            },
+            {
+            id:105,
+            eng:"misunderstand",
+            ru:"неправильно понять"
+            },
+            {
+            id:106,
+            eng:"misspell",
+            ru:"неправильно написать"
+            },
+            {
+            id:107,
+            eng:"mistake",
+            ru:"ошибаться"
+            },
+            {
+            id:108,
+            eng:"mishear",
+            ru:"неправильно услышать"
+            },
+            {
+            id:109,
+            eng:"oversleep",
+            ru:"проспать"
+            },
+            {
+            id:110,
+            eng:"overeat",
+            ru:"переесть "
+            },
+            {
+            id:111,
+            eng:"overpay",
+            ru:"переплатить"
+            },	
+    ],
     compare: [
         {
             id:201,
@@ -2578,6 +3135,563 @@ const allWordsForGameTypeOrWrite = {
         ru:"знать"
         },
                 
+],
+allnaughtyverbsC1: [
+    {
+        id:1,
+        eng:"arise, arose, arisen",
+        ru:"возникнуть"
+        },
+        {
+        id:2,
+        eng:"awake, awoke, awoken",
+        ru:"пробудиться"
+        },
+        {
+        id:3,
+        eng:"abide, abode, abidden",
+        ru:"соблюдать"
+        },
+        {
+        id:4,
+        eng:"break, broke, broken",
+        ru:"ломать"
+        },
+        {
+        id:5,
+        eng:"beat, beat, beaten",
+        ru:"побить"
+        },
+        {
+        id:6,
+        eng:"become, became, become",
+        ru:"становиться"
+        },
+        {
+        id:7,
+        eng:"begin, began, begun",
+        ru:"начинать"
+        },
+        {
+        id:8,
+        eng:"blow, blew, blown",
+        ru:"дуть"
+        },
+        {
+        id:9,
+        eng:"borrow, borrowed, borrowed",
+        ru:"брать в долг"
+        },
+        {
+        id:10,
+        eng:"build, built, built",
+        ru:"строить"
+        },
+        {
+        id:11,
+        eng:"burn, burnt, burnt",
+        ru:"сжигать, гореть"
+        },
+        {
+        id:12,
+        eng:"buy, bought, bought",
+        ru:"покупать"
+        },
+        {
+        id:13,
+        eng:"bring, brought, brought",
+        ru:"приносить"
+        },
+        {
+        id:14,
+        eng:"be, (was,were), been",
+        ru:"быть"
+        },
+        {
+        id:15,
+        eng:"bite, bit, bit",
+        ru:"кусать"
+        },
+        {
+        id:16,
+        eng:"come, came, come",
+        ru:"приходить"
+        },
+        {
+        id:17,
+        eng:"choose, chose, chosen",
+        ru:"выбирать"
+        },
+        {
+        id:18,
+        eng:"catch, caught, caught",
+        ru:"ловить"
+        },
+        {
+        id:19,
+        eng:"creep, crept, crept",
+        ru:"ползать"
+        },
+        {
+        id:20,
+        eng:"cost, cost, cost",
+        ru:"стоить"
+        },
+        {
+        id:21,
+        eng:"cut, cut, cut",
+        ru:"резать"
+        },
+        {
+        id:22,
+        eng:"deal, dealt, dealt",
+        ru:"иметь дела"
+        },
+        {
+        id:23,
+        eng:"dig, dug, dug",
+        ru:"копать"
+        },
+        {
+        id:24,
+        eng:"do, did, done",
+        ru:"делать"
+        },
+        {
+        id:25,
+        eng:"drive, drove, driven",
+        ru:"водить"
+        },
+        {
+        id:26,
+        eng:"draw, drew, drawn",
+        ru:"рисовать"
+        },
+        {
+        id:27,
+        eng:"drink, drank, drunk",
+        ru:"пить"
+        },
+        {
+        id:28,
+        eng:"eat, ate, eaten",
+        ru:"кушать"
+        },
+        {
+        id:29,
+        eng:"fall, fell, fallen",
+        ru:"падать"
+        },
+        {
+        id:30,
+        eng:"feed, fed, fed",
+        ru:"кормить"
+        },
+        {
+        id:31,
+        eng:"feel, felt, felt",
+        ru:"чувствовать"
+        },
+        {
+        id:32,
+        eng:"fight, fought, fought",
+        ru:"сражаться"
+        },
+        {
+        id:33,
+        eng:"find, found, found",
+        ru:"находить"
+        },
+        {
+        id:34,
+        eng:"fly, flew, flown",
+        ru:"летать"
+        },
+        {
+        id:35,
+        eng:"forbid, forbade, forbidden",
+        ru:"запрещать"
+        },
+        {
+        id:36,
+        eng:"forget, forgot, forgotten",
+        ru:"забывать"
+        },
+        {
+        id:37,
+        eng:"forgive, forgave, forgiven",
+        ru:"прощать"
+        },
+        {
+        id:38,
+        eng:"freeze, froze, frozen",
+        ru:"замерзать"
+        },
+        {
+        id:39,
+        eng:"grow, grew, grown",
+        ru:"расти"
+        },
+        {
+        id:40,
+        eng:"get, got, got",
+        ru:"получать"
+        },
+        {
+        id:41,
+        eng:"give, gave, given",
+        ru:"давать"
+        },
+        {
+        id:42,
+        eng:"go, went, gone",
+        ru:"ходить"
+        },
+        {
+        id:43,
+        eng:"have, had, had",
+        ru:"иметь"
+        },
+        {
+        id:44,
+        eng:"hear, heard, heard",
+        ru:"слышать"
+        },
+        {
+        id:45,
+        eng:"hide, hid, hidden",
+        ru:"прятать"
+        },
+        {
+        id:46,
+        eng:"hit, hit, hit",
+        ru:"ударять"
+        },
+        {
+        id:47,
+        eng:"hurt, hurt, hurt",
+        ru:"причинять боль"
+        },
+        {
+        id:48,
+        eng:"hold, held, held",
+        ru:"держать"
+        },
+        {
+        id:49,
+        eng:"keep, kept, kept",
+        ru:"хранить"
+        },
+        {
+        id:50,
+        eng:"know, knew, known",
+        ru:"знать"
+        },
+        {
+        id:51,
+        eng:"lead, led, led",
+        ru:"вести, приводить"
+        },
+        {
+        id:52,
+        eng:"learn, learnt, learnt",
+        ru:"изучать"
+        },
+        {
+        id:53,
+        eng:"leave, left, left",
+        ru:"покидать"
+        },
+        {
+        id:54,
+        eng:"lend, lent, lent",
+        ru:"давать в долг"
+        },
+        {
+        id:55,
+        eng:"let, let, let",
+        ru:"позволять"
+        },
+        {
+        id:56,
+        eng:"lose, lost, lost",
+        ru:"терять"
+        },
+        {
+        id:57,
+        eng:"tell a lie, told a lie, told a lie",
+        ru:"говорить ложь"
+        },
+        {
+        id:58,
+        eng:"lie, lay, lain",
+        ru:"лежать"
+        },
+        {
+        id:59,
+        eng:"make, made, made",
+        ru:"создавать"
+        },
+        {
+        id:60,
+        eng:"mean, meant, meant",
+        ru:"иметь ввиду"
+        },
+        {
+        id:61,
+        eng:"meet, met, met",
+        ru:"встречать(ся)"
+        },
+        {
+        id:62,
+        eng:"pay, paid, paid",
+        ru:"платить"
+        },
+        {
+        id:63,
+        eng:"put, put, put",
+        ru:"класть"
+        },
+        {
+        id:64,
+        eng:"read, read, read",
+        ru:"читать"
+        },
+        {
+        id:65,
+        eng:"ride, rode, ridden",
+        ru:"ездить верхом"
+        },
+        {
+        id:66,
+        eng:"ring, rang, rung",
+        ru:"звенеть, звонить"
+        },
+        {
+        id:67,
+        eng:"run, ran, run",
+        ru:"бегать"
+        },
+        {
+        id:68,
+        eng:"rise, rose, risen",
+        ru:"подниматься"
+        },
+        {
+        id:69,
+        eng:"say, said, said",
+        ru:"сказать, произнести"
+        },
+        {
+        id:70,
+        eng:"see, saw, seen",
+        ru:"увидеть"
+        },
+        {
+        id:71,
+        eng:"sell, sold, sold",
+        ru:"продавать"
+        },
+        {
+        id:72,
+        eng:"send, sent, sent",
+        ru:"отправлять"
+        },
+        {
+        id:73,
+        eng:"shake, shook, shaken",
+        ru:"трясти"
+        },
+        {
+        id:74,
+        eng:"shoot, shot, shot",
+        ru:"стрелять"
+        },
+        {
+        id:75,
+        eng:"shut, shut, shut",
+        ru:"захлопнуть"
+        },
+        {
+        id:76,
+        eng:"sing, sang, sung",
+        ru:"петь"
+        },
+        {
+        id:77,
+        eng:"sink, sank, sunk",
+        ru:"затонуть"
+        },
+        {
+        id:78,
+        eng:"sit, sat, sat",
+        ru:"сидеть"
+        },
+        {
+        id:79,
+        eng:"sleep, slept, slept",
+        ru:"спать"
+        },
+        {
+        id:80,
+        eng:"slide, slid, slid",
+        ru:"скользить"
+        },
+        {
+        id:81,
+        eng:"speak, spoke, spoken",
+        ru:"разговаривать"
+        },
+        {
+        id:82,
+        eng:"spend, spent, spent",
+        ru:"тратить"
+        },
+        {
+        id:83,
+        eng:"spit, spat, spat",
+        ru:"плеваться"
+        },
+        {
+        id:84,
+        eng:"stand, stood, stood",
+        ru:"встать, стоять"
+        },
+        {
+        id:85,
+        eng:"steal, stole, stolen",
+        ru:"воровать"
+        },
+        {
+        id:86,
+        eng:"stick, stuck, stuck",
+        ru:"приклеить, застрять "
+        },
+        {
+        id:87,
+        eng:"stink, stank, stunk",
+        ru:"вонять"
+        },
+        {
+        id:88,
+        eng:"strike, struck, struck",
+        ru:"ударять"
+        },
+        {
+        id:89,
+        eng:"swear, swore, sworn",
+        ru:"клясться, материться "
+        },
+        {
+        id:90,
+        eng:"sweep, swept, swept",
+        ru:"подметать"
+        },
+        {
+        id:91,
+        eng:"swim, swam, swum",
+        ru:"плавать"
+        },
+        {
+        id:92,
+        eng:"swing, swung, swung",
+        ru:"качаться"
+        },
+        {
+        id:93,
+        eng:"take, took, taken",
+        ru:"брать"
+        },
+        {
+        id:94,
+        eng:"teach, taught, taught",
+        ru:"обучать"
+        },
+        {
+        id:95,
+        eng:"tear, tore, torn",
+        ru:"порвать"
+        },
+        {
+        id:96,
+        eng:"tell, told, told",
+        ru:"рассказывать"
+        },
+        {
+        id:97,
+        eng:"think, thought, thought",
+        ru:"думать"
+        },
+        {
+        id:98,
+        eng:"throw, threw, thrown",
+        ru:"бросать"
+        },
+        {
+        id:99,
+        eng:"understand, understood, understood",
+        ru:"понимать"
+        },
+        {
+        id:100,
+        eng:"wake up, woke up, woken up",
+        ru:"просыпаться"
+        },
+        {
+        id:101,
+        eng:"wear, wore, worn",
+        ru:"носить одежду"
+        },
+        {
+        id:102,
+        eng:"write, wrote, written",
+        ru:"писАть"
+        },
+        {
+        id:103,
+        eng:"weep, wept, wept",
+        ru:"хныкать"
+        },
+        {
+        id:104,
+        eng:"win, won, won",
+        ru:"выигрывать"
+        },
+        {
+        id:105,
+        eng:"misunderstand, misunderstood, misunderstood",
+        ru:"неправильно понять"
+        },
+        {
+        id:106,
+        eng:"misspell, misspelt, misspelt",
+        ru:"неправильно написать"
+        },
+        {
+        id:107,
+        eng:"mistake, mistook, mistaken",
+        ru:"ошибаться"
+        },
+        {
+        id:108,
+        eng:"mishear, misheard, misheard",
+        ru:"неправильно услышать"
+        },
+        {
+        id:109,
+        eng:"oversleep, overslept, overslept",
+        ru:"проспать"
+        },
+        {
+        id:110,
+        eng:"overeat, overate, overeaten",
+        ru:"переесть "
+        },
+        {
+        id:111,
+        eng:"overpay, overpaid, overpaid",
+        ru:"переплатить"
+        },
 ],
     stickyVerbs1: [
         {

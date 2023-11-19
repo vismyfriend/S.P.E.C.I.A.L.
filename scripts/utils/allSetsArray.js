@@ -6,17 +6,17 @@ const allSetsArray = [
     "abc",
     "xyz",
     "testOneSeven",
-    "when",
+
     "numbers0",
-    "letters",
+    
     "questions0",
     "mission0",
     "formulas0",
     "mission2",
-    "mission1",
+    "mission1a1",
     "thirtieth",
     "stickyVerbs1",
-    "bodyAdj",
+    "bodyAdja1",
     "upperBody",
     "lowerBody",
     "affirmations1",
@@ -51,8 +51,22 @@ const allSetsArray = [
     "compare",
     "adjquest",
     "anika",
-    "understand"
-
+    "understand",
+    "allnaughtyverbs",
+    "part1bc",
+    "part2cd",
+    "part3fg",
+    "part4bg",
+    "part5hl",
+    "part6lp",
+    "part7hr",
+    "part8ss",
+    "part9tw",
+    "part10awb2",
+    "part11awc1",
+    "mission1b1time",
+    "mission2a1letters",
+    "mission2b1time",
 
 ]
 export default allSetsArray
