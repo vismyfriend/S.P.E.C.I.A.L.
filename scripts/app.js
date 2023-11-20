@@ -325,15 +325,15 @@ function howManyStarsScore() {
         timeToGet3StarResult = 40
         timeToGet2StarResult = 50
     } else if (chosenArray.length > 40 && chosenArray.length < 59) {
-        timeToGet5StarResult = 40
-        timeToGet4StarResult = 55
-        timeToGet3StarResult = 70
-        timeToGet2StarResult = 85
-    } else if (chosenArray.length > 59 && chosenArray.length) {
-        timeToGet5StarResult = 70
-        timeToGet4StarResult = 80
+        timeToGet5StarResult = 60
+        timeToGet4StarResult = 75
         timeToGet3StarResult = 90
-        timeToGet2StarResult = 100
+        timeToGet2StarResult = 155
+    } else if (chosenArray.length > 59 && chosenArray.length) {
+        timeToGet5StarResult = 90
+        timeToGet4StarResult = 115
+        timeToGet3StarResult = 135
+        timeToGet2StarResult = 170
     }
 }
 function starResult() {

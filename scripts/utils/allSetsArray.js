@@ -8,7 +8,7 @@ const allSetsArray = [
     "testOneSeven",
 
     "numbers0",
-    
+    "adjectivesa2",
     "questions0",
     "mission0",
     "formulas0",
@@ -16,7 +16,7 @@ const allSetsArray = [
     "mission1a1",
     "thirtieth",
     "stickyVerbs1",
-    "bodyAdja1",
+    "adjectivesbodya1",
     "upperBody",
     "lowerBody",
     "affirmations1",
@@ -48,7 +48,6 @@ const allSetsArray = [
     "musicCheck",
     "new_mission",
     "spanish",
-    "compare",
     "adjquest",
     "anika",
     "understand",
@@ -64,9 +63,10 @@ const allSetsArray = [
     "part9tw",
     "part10awb2",
     "part11awc1",
-    "mission1b1time",
+    "mission1a2time",
     "mission2a1letters",
-    "mission2b1time",
+    "mission2a2time",
+    "adjectivesb1compare",
 
 ]
 export default allSetsArray

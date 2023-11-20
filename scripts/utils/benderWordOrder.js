@@ -330,7 +330,7 @@ const benderWordOrderSentences = {
             eng: "A robot cannot speak English."
         },	
     ],
-    bodyAdj: [
+    adjectivesbodya1: [
         {
             id:58,
             eng:"firm/фёрм/",
