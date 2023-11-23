@@ -9704,6 +9704,371 @@ const allCardsGameFindAPair = {
             eng: "do the housework",
             ru: "заниматься домашними делами"
         },
+        {
+            id:63,
+            eng:"wake up early /Ёли/",
+            ru:"просыпаться рано"
+            },
+            {
+            id:64,
+            eng:"get up",
+            ru:"вставать"
+            },
+            {
+            id:65,
+            eng:"have a shower /шАуэ/",
+            ru:"принимать душ  “иметь душ”"
+            },
+            {
+            id:66,
+            eng:"take a shower /шАуэ/",
+            ru:"принимать душ  “взять душ”"
+            },
+            {
+            id:67,
+            eng:"brush /брАш/ teeth",
+            ru:"начищать зубы  "
+            },
+            {
+            id:68,
+            eng:"clean /клИн/ teeth",
+            ru:"чистить зубы"
+            },
+            {
+            id:69,
+            eng:"get dressed /дрЭСТ/",
+            ru:"одеваться"
+            },
+            {
+            id:70,
+            eng:"go to the kitchen",
+            ru:"идти на кухню"
+            },
+            {
+            id:71,
+            eng:"go to the bathroom /бАthрум/",
+            ru:"в уборную"
+            },
+            {
+            id:72,
+            eng:"go to the bedroom /бЭдрум/",
+            ru:"идти в спальню"
+            },
+            {
+            id:73,
+            eng:"go to the living /лИвин/ room",
+            ru:"идти в гостиную"
+            },
+            {
+            id:74,
+            eng:"have a cup of coffee or tea /тИ/",
+            ru:"пить чашечку кофе или чая"
+            },
+            {
+            id:75,
+            eng:"take a cup of tea /тИ/",
+            ru:"взять чашку чая"
+            },
+            {
+            id:76,
+            eng:"get a glass of wine /уАйн/",
+            ru:"достать бокал вина"
+            },
+            {
+            id:77,
+            eng:"drink a bottle of milk",
+            ru:"выпить бутылку молока"
+            },
+            {
+            id:78,
+            eng:"leave the house",
+            ru:"покидать дом"
+            },
+            {
+            id:79,
+            eng:"walk /вОлк/",
+            ru:"гулять"
+            },
+            {
+            id:80,
+            eng:"walk to the station",
+            ru:"гулять до станции"
+            },
+            {
+            id:81,
+            eng:"wait for something",
+            ru:"ждать чего-то"
+            },
+            {
+            id:82,
+            eng:"wait for the train",
+            ru:"ждать поезда"
+            },
+            {
+            id:83,
+            eng:"look at the phone",
+            ru:"смотреть на телефон"
+            },
+            {
+            id:84,
+            eng:"walk somewhere /сАмуЭэ/",
+            ru:"гулять где-то"
+            },
+            {
+            id:85,
+            eng:"work for a big company",
+            ru:"работать на большую компанию"
+            },
+            {
+            id:86,
+            eng:"walk to a bus stop",
+            ru:"прогуляться до остановки автобуса"
+            },
+            {
+            id:87,
+            eng:"talk to somebody",
+            ru:"говорить с кем-то"
+            },
+            {
+            id:88,
+            eng:"talk /тОк/",
+            ru:"говорить"
+            },
+            {
+            id:89,
+            eng:"talk on the phone ",
+            ru:"говорить по телефону"
+            },
+            {
+            id:90,
+            eng:"speak with somebody",
+            ru:"разговаривать с кем-то"
+            },
+            {
+            id:91,
+            eng:"write /рАйт/",
+            ru:"писАть"
+            },
+            {
+            id:92,
+            eng:"write an e-mail ",
+            ru:"писать письма"
+            },
+            {
+            id:93,
+            eng:"have meetings ",
+            ru:"иметь встречи"
+            },
+            {
+            id:94,
+            eng:"have lunch in a café /кЭфи/",
+            ru:"обедать в кафе"
+            },
+            {
+            id:95,
+            eng:"have lunch at work",
+            ru:"обедать на работе"
+            },
+            {
+            id:96,
+            eng:"work all day  /Ол дЭй/",
+            ru:"работать весь день"
+            },
+            {
+            id:97,
+            eng:"finish work day",
+            ru:"заканчивать рабочий день"
+            },
+            {
+            id:98,
+            eng:"go home ",
+            ru:"идти домой"
+            },
+            {
+            id:99,
+            eng:"cook dinner ",
+            ru:"готовить ужин"
+            },
+            {
+            id:100,
+            eng:"watch TeleVision  (TV) ",
+            ru:"смотреть телевизор"
+            },
+            {
+            id:101,
+            eng:"have dinner",
+            ru:"ужинать"
+            },
+            {
+            id:102,
+            eng:"go to bed ",
+            ru:"идти в постель"
+            },
+            {
+            id:103,
+            eng:"have dreams /дрИмз/",
+            ru:"иметь мечты"
+            },
+            {
+            id:104,
+            eng:"dream /дрИм/",
+            ru:"мечтать"
+            },
+            {
+            id:105,
+            eng:"get e-mails",
+            ru:"получать письма"
+            },
+            {
+            id:106,
+            eng:"check e-mails",
+            ru:"проверять почту"
+            },
+            {
+            id:107,
+            eng:"wait for somebody /сАмбади/",
+            ru:"ждать кого-то"
+            },
+            {
+            id:108,
+            eng:"break /брЭйк/ something",
+            ru:"ломать что-нибудь"
+            },
+            {
+            id:109,
+            eng:"beat /бит/ somebody",
+            ru:"побить кого-то"
+            },
+            {
+            id:110,
+            eng:"become /бекАм/ smarter",
+            ru:"становиться умнее"
+            },
+            {
+            id:111,
+            eng:"begin /бегИн/ a new hobby",
+            ru:"начинать новое хобби"
+            },
+            {
+            id:112,
+            eng:"blow /блОу/ balloons",
+            ru:"надувать шарики"
+            },
+            {
+            id:113,
+            eng:"borrow /бОроу/ money",
+            ru:"брать деньги в долг"
+            },
+            {
+            id:114,
+            eng:"build /билд/ something",
+            ru:"строить  что-то"
+            },
+            {
+            id:115,
+            eng:"burn /бЁрн/ something",
+            ru:"сжигать что-то"
+            },
+            {
+            id:116,
+            eng:"buy /бАй/ something",
+            ru:"покупать что-то"
+            },
+            {
+            id:117,
+            eng:"bring /брин/ food",
+            ru:"принести еду"
+            },
+            {
+            id:118,
+            eng:"bite /бАйт/ nails",
+            ru:"кусать ногти"
+            },
+            {
+            id:119,
+            eng:"come /кАм/ home",
+            ru:"приходить домой"
+            },
+            {
+            id:120,
+            eng:"choose /чУз/ a new car",
+            ru:"выбирать новую тачку"
+            },
+            {
+            id:121,
+            eng:"catch /кЭч/ something",
+            ru:"ловить что-то"
+            },
+            {
+            id:122,
+            eng:"creep /крИп/ under the table",
+            ru:"ползать под столом"
+            },
+            {
+            id:123,
+            eng:"cut /кАт/ something",
+            ru:"резать что-то"
+            },
+            {
+            id:124,
+            eng:"deal /дИл/ with Vincent",
+            ru:"иметь дела c Vincent"
+            },
+            {
+            id:125,
+            eng:"dig /диГ трЭжэ/ treasure",
+            ru:"копать сокровища"
+            },
+            {
+            id:126,
+            eng:"do /ду/ homework",
+            ru:"делать домашнюю"
+            },
+            {
+            id:127,
+            eng:"drive /дрАйв/ a car",
+            ru:"водить машину"
+            },
+            {
+            id:128,
+            eng:"draw /дрО/ pictures",
+            ru:"рисовать картинки"
+            },
+            {
+            id:129,
+            eng:"drink /дринк/ something",
+            ru:"пить что-то"
+            },
+            {
+            id:130,
+            eng:"eat /ит/ something",
+            ru:"кушать что-то"
+            },
+            {
+            id:131,
+            eng:"fall /фол/ on the floor",
+            ru:"падать на пол"
+            },
+            {
+            id:132,
+            eng:"feed /фиД/ pets",
+            ru:"кормить питомцев"
+            },
+            {
+            id:133,
+            eng:"feel /фил/ happy",
+            ru:"чувствовать себя счастливой"
+            },
+            {
+            id:134,
+            eng:"fight /фАйт/ with Vincent",
+            ru:"сражаться с тичером"
+            },
+            {
+            id:135,
+            eng:"find /фАйнд/ cool videos",
+            ru:"находить классные видео"
+            },
     ],
     numbers: [
         {
