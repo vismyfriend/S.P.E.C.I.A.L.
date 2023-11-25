@@ -21,7 +21,7 @@ export class QuizQ {
         });
     }
     silceArray(array) {
-        this.silcedQuestions = array.slice(0, 10)
+        this.silcedQuestions = array.slice(0, 3) //количество вопросов в тесте когда че там
         // 0 - c какого элемента и до какого 10 )
 
     }
@@ -63,45 +63,41 @@ export class QuizQ {
 
     }
   
-
+// if (currentIndex === this.slicedQestion.length && !correct) return
     setEventListener(button, correct) {
 
         button.addEventListener("click", async () => {
+          
+           
+            if (!correct) {
+                this.mistakesCounter += 1
+                console.log("неверных ответов", this.mistakesCounter)
+                console.log("верных ответов", this.scoreCounter)
+                button.classList.add("wrong")
+                await this.timeOut(button, 1000, "wrong")
+                this.silcedQuestions.push(this.silcedQuestions[this.currentIndex])
+           
+            } else {
+                this.scoreCounter += 1
+                button.classList.add("correct")
+                await this.timeOut(button, 700, "correct")
+             
+            }
             
-            if (this.currentIndex >= this.silcedQuestions.length - 1) {
+            this.currentIndex += 1
+
+            if (this.currentIndex >= this.silcedQuestions.length) { //когда че там//
                 this.scoreCounter += 1   
+                //    вот здесь (или в самой функции game over) нужна еще одна проверка - а то иначе он всегда верным засчитывает последний ответ, даже если там ошибка
                 this.gameOver()
-            //    вот здесь (или в самой функции game over) нужна еще одна проверка - а то иначе он всегда верным засчитывает последний ответ, даже если там ошибка
                 button.classList.add("correct")
                 await this.timeOut(button, 25000, "correct")
                 return
             }
-            
-            if (!correct) {
-                this.mistakesCounter += 1
-                console.log("неверных ответов",this.mistakesCounter)
-                console.log("верных ответов",this.scoreCounter)
-
-                button.classList.add("wrong")
-
-
-
-                await this.timeOut(button, 1000, "wrong")
-
-                this.silcedQuestions.push(this.silcedQuestions[this.currentIndex])
-          
-            } else {
-                this.scoreCounter += 1    
-                button.classList.add("correct")
-                await this.timeOut(button, 700, "correct")
-            }
-            this.currentIndex += 1
-
-
 
 
             this.showTheTask(this.silcedQuestions[this.currentIndex])
-
+            
 
         }
         )

@@ -649,7 +649,6 @@ const allCardsGameFindAPair = {
             ru:"плохой"
             },
     ],
-    
     part11awc1: [
         {
             id: 1,
@@ -14313,6 +14312,17 @@ const allCardsGameFindAPair = {
             eng: "	вот это обалденно!	",
             ru: "	/Дыс из осм/ this is awesome!	"
         },
+        {
+            id: 118,
+            eng: "I have a lot of time",
+            ru: "У меня много времени"
+        },
+            {
+            id: 119,
+            eng: "Hi, everybody! / ЭврибАди /",
+            ru: "Привет всем!"
+        },
+    
     ],
 }
 export default allCardsGameFindAPair
