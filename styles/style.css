@@ -730,9 +730,7 @@ button {
     font-size: 20px;
 }
 
-.popupMissionsAndSets__InputTypeOrWriteGame p {
-    /* color: #80FF01; */
-}
+
 
 .popupMissionsAndSets__gameFindAPair.show,
 .popupMissionsAndSets__InputTypeOrWriteGame.show,

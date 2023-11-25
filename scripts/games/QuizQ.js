@@ -14,6 +14,9 @@ export class QuizQ {
 
         this.startGame()
     }
+
+
+
     // /поэтому тут не нужно писать function
     shuffle(array) {
         return array.sort(function () {
@@ -21,7 +24,7 @@ export class QuizQ {
         });
     }
     silceArray(array) {
-        this.silcedQuestions = array.slice(0, 3) //количество вопросов в тесте когда че там
+        this.silcedQuestions = array.slice(0, 10) //количество вопросов в тесте когда че там
         // 0 - c какого элемента и до какого 10 )
 
     }
