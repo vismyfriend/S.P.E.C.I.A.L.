@@ -211,11 +211,11 @@ const quizQuesstionsList = {
             correct: false
             },
             {
-            answer: "She takes a shower in the morning.",
+            answer: "She take a shower in the morning.",
             correct: false
             },
             {
-            answer: "She brushing teeth in the morning.",
+            answer: "She brush teeth in the morning.",
             correct: false
             },
             {
@@ -662,6 +662,32 @@ const quizQuesstionsList = {
             },
             {
             answer: "I am potato",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "Как пишется 'зубная щетка'",
+            answers: [
+            {
+            answer: "tooth brush",
+            correct: true
+            },
+            {
+            answer: "tooth brash",
+            correct: false
+            },
+            {
+            answer: "teeth brash",
+            correct: false
+            },
+            {
+            answer: "teeth brush",
+            correct: false
+            },
+            {
+            answer: "teeth cleaner",
             correct: false
             },
             ]
