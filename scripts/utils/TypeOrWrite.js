@@ -8734,86 +8734,261 @@ allnaughtyverbsC1: [
 
     ],
     sara: [
-        {					
-            id	:	102	,		
-            eng	:	"You"	,
-            ru	:	"Напишите  как по-английски будет: Вы"	
-            }	,				
-            {					
-            id	:	103	,		
-            eng	:	"Your"	,
-            ru	:	"Напишите  как по-английски будет: 	Ваше, твоё	"	
-            }	,				
-            {					
-            id	:	104	,		
-            eng	:	"He"	,
-            ru	:	"Напишите  как по-английски будет: Он"	
-            }	,				
-            {					
-            id	:	105	,		
-            eng	:	"His number"	,
-            ru	:	"Напишите  как по-английски будет: Его номер	"	
-            }	,				
-            {					
-            id	:	106	,		
-            eng	:	"She"	,
-            ru	:	"Напишите  как по-английски будет: Она"	
-            }	,				
-            {					
-            id	:	107	,		
-            eng	:	"Her"	,
-            ru	:	"Напишите  как по-английски будет: Её"	
-            }	,				
-            {					
-            id	:	108	,		
-            eng	:	"I"	,
-            ru	:	"Напишите  как по-английски будет: Я"	
-            }	,				
-            {					
-            id	:	109	,		
-            eng	:	"My"	,
-            ru	:	"Напишите  как по-английски будет: мой, моё, моя, мои"	
-            }	,				
-            {					
-            id	:	110	,		
-            eng	:	"We"	,
-            ru	:	"Напишите  как по-английски будет: Мы"	
-            }	,				
-            {					
-            id	:	111	,		
-            eng	:	"Our"	,
-            ru	:	"Напишите  как по-английски будет: наш, наше, наши, наша	"	
-            }	,				
-            {					
-            id	:	112	,		
-            eng	:	"They	"	,
-            ru	:	"Напишите  как по-английски будет: Они"	
-            }	,				
-            {					
-            id	:	113	,		
-            eng	:	"Their children"	,
-            ru	:	"Напишите  как по-английски будет: Их дети"	
-            }	,				
-            {					
-            id	:	114	,		
-            eng	:	"Their child"	,
-            ru	:	"Напишите  как по-английски будет: Их ребёнок"	
-            }	,				
-            {					
-            id	:	115	,		
-            eng	:	"Their dog"	,
-            ru	:	"Напишите  как по-английски будет: Их собака"	
-            }	,				
-            {					
-            id	:	116	,		
-            eng	:	"It"	,
-            ru	:	"Напишите  как по-английски будет: Это"	
-            }	,				
-            {					
-            id	:	117	,		
-            eng	:	"This"	,
-            ru	:	"Напишите  как по-английски будет: Вот это"	
-            }	,				
+        {
+            id:1,
+            eng:"wake up",
+            ru:"просыпаться рано"
+            },
+            {
+             id:2,
+            eng:"get up",
+            ru:"вставать"
+            },
+            {
+             id:3,
+            eng:"have a shower",
+            ru:"принимать душ  “иметь душ”"
+            },
+            {
+             id:4,
+            eng:"take a shower",
+            ru:"принимать душ  “взять душ”"
+            },
+            {
+             id:5,
+            eng:"brush teeth",
+            ru:"начищать зубы  "
+            },
+            {
+             id:6,
+            eng:"clean teeth",
+            ru:"чистить зубы"
+            },
+            {
+             id:7,
+            eng:"get dressed",
+            ru:"одеваться"
+            },
+            {
+             id:8,
+            eng:"go to the kitchen",
+            ru:"идти на кухню"
+            },
+            {
+             id:9,
+            eng:"go to the bathroom",
+            ru:"идти в ванную"
+            },
+            {
+             id:10,
+            eng:"go to the bedroom",
+            ru:"идти в спальню"
+            },
+            {
+             id:11,
+            eng:"go to the living room",
+            ru:"идти в гостиную"
+            },
+            {
+             id:12,
+            eng:"have a cup of coffee or tea",
+            ru:"пить чашечку кофе или чая"
+            },
+            {
+             id:13,
+            eng:"take a cup of tea",
+            ru:"взять чашку чая"
+            },
+            {
+             id:14,
+            eng:"get a glass of wine",
+            ru:"достать бокал вина"
+            },
+            {
+             id:15,
+            eng:"drink a bottle of milk",
+            ru:"выпить бутылку молока"
+            },
+            {
+             id:16,
+            eng:"leave the house",
+            ru:"покидать дом"
+            },
+            {
+             id:17,
+            eng:"walk",
+            ru:"гулять"
+            },
+            {
+             id:18,
+            eng:"walk to the station",
+            ru:"гулять до станции"
+            },
+            {
+             id:19,
+            eng:"wait for something",
+            ru:"ждать чего-то"
+            },
+            {
+             id:20,
+            eng:"wait for the train",
+            ru:"ждать поезда"
+            },
+            {
+             id:21,
+            eng:"look at the phone",
+            ru:"смотреть на телефон"
+            },
+            {
+             id:22,
+            eng:"walk somewhere",
+            ru:"гулять где-то"
+            },
+            {
+             id:23,
+            eng:"work for a big company",
+            ru:"работать на большую компанию"
+            },
+            {
+             id:24,
+            eng:"walk to a bus stop",
+            ru:"прогуляться до остановки автобуса"
+            },
+            {
+             id:25,
+            eng:"talk to somebody",
+            ru:"говорить с кем-то"
+            },
+            {
+             id:26,
+            eng:"talk",
+            ru:"говорить"
+            },
+            {
+             id:27,
+            eng:"talk on the phone ",
+            ru:"говорить по телефону"
+            },
+            {
+             id:28,
+            eng:"speak with somebody",
+            ru:"разговаривать с кем-то"
+            },
+            {
+             id:29,
+            eng:"write",
+            ru:"писАть"
+            },
+            {
+             id:30,
+            eng:"write an e-mail ",
+            ru:"писать письма"
+            },
+            {
+             id:31,
+            eng:"have meetings ",
+            ru:"иметь встречи"
+            },
+            {
+             id:32,
+            eng:"have lunch in a café",
+            ru:"обедать в кафе"
+            },
+            {
+             id:33,
+            eng:"have lunch at work",
+            ru:"обедать на работе"
+            },
+            {
+             id:34,
+            eng:"work all day",
+            ru:"работать весь день"
+            },
+            {
+             id:35,
+            eng:"finish work day",
+            ru:"заканчивать рабочий день"
+            },
+            {
+             id:36,
+            eng:"go home ",
+            ru:"идти домой"
+            },
+            {
+             id:37,
+            eng:"cook dinner ",
+            ru:"готовить ужин"
+            },
+            {
+             id:38,
+            eng:"watch TeleVision  (TV) ",
+            ru:"смотреть телевизор"
+            },
+            {
+             id:39,
+            eng:"have dinner",
+            ru:"ужинать"
+            },
+            {
+             id:40,
+            eng:"go to bed ",
+            ru:"идти в постель"
+            },
+            {
+             id:41,
+            eng:"have dreams ",
+            ru:"иметь мечты"
+            },
+            {
+             id:42,
+            eng:"dream",
+            ru:"мечтать"
+            },
+            {
+             id:43,
+            eng:"get e-mails",
+            ru:"получать письма"
+            },
+            {
+             id:44,
+            eng:"check e-mails",
+            ru:"проверять почту"
+            },
+            {
+             id:45,
+            eng:"wait for somebody",
+            ru:"ждать кого-то"
+            },
+            {
+             id:46,
+            eng:"sing a song",
+            ru:"петь песню"
+            },
+            {
+             id:47,
+            eng:"do number one",
+            ru:"ходить 'по-маленькому' (писать)"
+            },
+            {
+             id:48,
+            eng:"do number two",
+            ru:"ходить 'по-большому' (какать)"
+            },
+            {
+             id:49,
+            eng:"feed pets",
+            ru:"кормить питомцев"
+            },
+            {
+             id:50,
+            eng:"lie for 5 mins",
+            ru:"лежать в течении 5 минут"
+            },
+            {
+             id:51,
+            eng:"oversleep",
+            ru:"проспать"
+            },	
     ],
     anika: [
         {					

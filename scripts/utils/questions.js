@@ -1191,248 +1191,258 @@ const allQuestionsOneDeck = {
     sara: [
         {
             id:1,
-            eng:"wake up early /Ёли/",
-            ru:"просыпаться рано"
+            eng:"What time do you usually wake up on Mondays?",
+            ru:"Во сколько ты обычно просыпаешься по понедельникам? I usually wake up AT 8:00 am (on Mondays)"
             },
             {
             id:2,
-            eng:"get up",
-            ru:"вставать"
+            eng:"Do you get up and wake up at the same time? Or do you lie in bed for some time?",
+            ru:"Ты сразу же встаешь, когда просыпаешься или лежишь какое-то время в кровати? I wake up, lie in bed for 10 minutes and wake up."
             },
             {
             id:3,
-            eng:"have a shower /шАуэ/",
-            ru:"принимать душ  “иметь душ”"
+            eng:"How do you usually feel after you have a shower?",
+            ru:"Как вы обычно чувствуете себя после принятия душа? I always feel great after shower!"
             },
             {
             id:4,
-            eng:"take a shower /шАуэ/",
-            ru:"принимать душ  “взять душ”"
+            eng:"What songs do you sing when you take a shower?",
+            ru:"Какие песни вы поете, когда принимаете душ? I sing songs that Vincent sends to me."
             },
             {
             id:5,
-            eng:"brush /брАш/ teeth",
-            ru:"начищать зубы  "
+            eng:"What color is your toothbrush? What is the brand of your toothpaste /пЭйст/?",
+            ru:"Какого цвета ваша зубная щетка? Какая марка вашей зубной пасты? My toothbrush is blue. I use Splat toothpaste."
             },
             {
             id:6,
-            eng:"clean /клИн/ teeth",
-            ru:"чистить зубы"
+            eng:"How many times a day do you clean your teeth?",
+            ru:"Сколько раз в день вы чистите зубы? I do it 2 times a day."
             },
             {
             id:7,
-            eng:"get dressed /дрЭСТ/",
-            ru:"одеваться"
+            eng:"Do you sometimes walk without clothes at home? /нЭйкид/ голый",
+            ru:"Бывает ли, что вы ходите по дому без одежды? Of course! I always walk naked at home."
             },
             {
             id:8,
-            eng:"go to the kitchen",
-            ru:"идти на кухню"
+            eng:"How many people can sit at the table in your kitchen?",
+            ru:"Сколько человек может сесть за стол в вашей кухне? My kitchen is small. Maybe 3 or 4 people can sit here."
             },
             {
             id:9,
-            eng:"go to the bathroom /бАthрум/",
-            ru:"в уборную"
+            eng:"Do you have candles /свечи/ in your bathroom?",
+            ru:"У вас есть свечи в ванной комнате? I have red candles. I am a romantic person."
             },
             {
             id:10,
-            eng:"go to the bedroom /бЭдрум/",
-            ru:"идти в спальню"
+            eng:"Do you watch YouTube on a bed in your bedroom before you sleep?",
+            ru:"Смотрите ли вы YouTube на кровати в вашей спальне перед сном? "
             },
             {
             id:11,
-            eng:"go to the living /лИвин/ room",
-            ru:"идти в гостиную"
+            eng:"Is your living room big? Do you have a big sofa there?",
+            ru:"Ваша гостиная большая? У вас есть большой диван там? "
             },
             {
             id:12,
-            eng:"have a cup of coffee or tea /тИ/",
-            ru:"пить чашечку кофе или чая"
+            eng:"What do you like more: tea or coffee? With or without milk? Sugar?",
+            ru:"0 "
             },
             {
             id:13,
-            eng:"take a cup of tea /тИ/",
-            ru:"взять чашку чая"
+            eng:"What is your favorite tea brand?",
+            ru:"Какая твоя любимая марка чая? "
             },
             {
             id:14,
-            eng:"get a glass of wine /уАйн/",
-            ru:"достать бокал вина"
+            eng:"When do you usually get a glass of wine?",
+            ru:"Когда обычно ты выпиваешь бокал вина? "
             },
             {
             id:15,
-            eng:"drink a bottle of milk",
-            ru:"выпить бутылку молока"
+            eng:"How often does your family buy a bottle of milk?",
+            ru:"Как часто твоя семья покупает бутылку молока? "
             },
             {
             id:16,
-            eng:"leave the house",
-            ru:"покидать дом"
+            eng:"What do people need to check before they leave the house?",
+            ru:"Что людям нужно проверить перед тем, как они уходят из дома? "
             },
             {
             id:17,
-            eng:"walk /вОлк/",
-            ru:"гулять"
+            eng:"What is the name of the nearest /нИэрест/ bus stop or a metro station to your house?",
+            ru:"Как называется ближайшая автобусная остановка или станция метро к твоему дому? "
             },
             {
             id:18,
-            eng:"walk to the station",
-            ru:"гулять до станции"
+            eng:"What or who do you usually wait for?",
+            ru:"Кого или что ты обычно ждешь? I wait for my taxi every day and I wait for my wife."
             },
             {
             id:19,
-            eng:"wait for something",
-            ru:"ждать чего-то"
+            eng:"What do you usually do when you wait in a line?",
+            ru:"Что ты обычно делаешь, когда стоишь в очереди? "
             },
             {
             id:20,
-            eng:"wait for the train",
-            ru:"ждать поезда"
+            eng:"How often do you look at your phone? How much time in a day?",
+            ru:"Как часто ты смотришь на свой телефон? Сколько времени за день? "
             },
             {
             id:21,
-            eng:"look at the phone",
-            ru:"смотреть на телефон"
+            eng:"Do you have a special place to walk and relax?",
+            ru:"У тебя есть особое место для прогулок и отдыха? "
             },
             {
             id:22,
-            eng:"walk somewhere /сАмуЭэ/",
-            ru:"гулять где-то"
+            eng:"Do you work for a big or for a small company? What is the name of the company?",
+            ru:"Ты работаешь в большой или маленькой компании? Как называется компания, в которой ты работаешь? "
             },
             {
             id:23,
-            eng:"work for a big company",
-            ru:"работать на большую компанию"
+            eng:"How often do you use a bus? Where do you usually go by bus?",
+            ru:"Как часто ты пользуешься автобусом? Куда обычно ты ездишь на автобусе? "
             },
             {
             id:24,
-            eng:"walk to a bus stop",
-            ru:"прогуляться до остановки автобуса"
+            eng:"How much time do you need to go from your home to your bus stop?",
+            ru:"Сколько времени тебе нужно, чтобы добраться от дома до автобусной остановки? "
             },
             {
             id:25,
-            eng:"talk to somebody",
-            ru:"говорить с кем-то"
+            eng:"Who do you usully talk to?",
+            ru:"C кем обычно вы разговариваете? "
             },
             {
             id:26,
-            eng:"talk /тОк/",
-            ru:"говорить"
+            eng:"What do you like to talk about?",
+            ru:"О чем вам нравится разговаривать? "
             },
             {
             id:27,
-            eng:"talk on the phone ",
-            ru:"говорить по телефону"
+            eng:"What do you like more: to text messages or to talk?",
+            ru:"Что вам нравится больше: писать сообщения или разговаривать? "
             },
             {
             id:28,
-            eng:"speak with somebody",
-            ru:"разговаривать с кем-то"
+            eng:"What is your longest talk on the phone? Personal record: how many minutes?",
+            ru:"Какой самый долгий разговор у вас был по телефону? Личный рекорд: сколько минут? "
             },
             {
             id:29,
-            eng:"write /рАйт/",
-            ru:"писАть"
+            eng:"Do you have friends who are always ready to talk about anything?",
+            ru:"У вас есть друзья, которые всегда готовы поговорить на любую тему? "
             },
             {
             id:30,
-            eng:"write an e-mail ",
-            ru:"писать письма"
+            eng:"Who do you usully speak with?",
+            ru:"С кем обычно вы разговариваете? "
             },
             {
             id:31,
-            eng:"have meetings ",
-            ru:"иметь встречи"
+            eng:"Do you like to speak and /прЭктис/ practice English?",
+            ru:"Вам нравится практиковать английский? "
             },
             {
             id:32,
-            eng:"have lunch in a café /кЭфи/",
-            ru:"обедать в кафе"
+            eng:"How often do you write e-mails?",
+            ru:"Как часто вы пишете электронные письма? "
             },
             {
             id:33,
-            eng:"have lunch at work",
-            ru:"обедать на работе"
+            eng:"Do you get spam e-mails?",
+            ru:"Получаете ли вы спам-письма? "
             },
             {
             id:34,
-            eng:"work all day  /Ол дЭй/",
-            ru:"работать весь день"
+            eng:"What is your e-mail adress? (@at .dot -dash _underscore)",
+            ru:"Какой адрес твоей электронной почты? www.vincent@konfet.net Собака/ЭТ/ точка/ДОТ/ тирэ/ДЭШ/ нижнее подчеркивание/Андэ скО/ "
             },
             {
             id:35,
-            eng:"finish work day",
-            ru:"заканчивать рабочий день"
+            eng:"How often do you have important meetings at your work?",
+            ru:"Как часто у вас важные встречи на работе? "
             },
             {
             id:36,
-            eng:"go home ",
-            ru:"идти домой"
+            eng:"Do you have an important meeting soon?",
+            ru:"У тебя будет важная встреча в скором времени? "
             },
             {
             id:37,
-            eng:"cook dinner ",
-            ru:"готовить ужин"
+            eng:"What is the name of your favorite café /кЭфи/?",
+            ru:"Как называется твое любимое кафе? "
             },
             {
             id:38,
-            eng:"watch TeleVision  (TV) ",
-            ru:"смотреть телевизор"
+            eng:"Do you usully have lunch alone or with /кОлигз/ colleagues or maybe friends?",
+            ru:"Вы обычно один обедаете или с коллегами или может друзьями? "
             },
             {
             id:39,
-            eng:"have dinner",
-            ru:"ужинать"
+            eng:"Do you sometimes take lunch from home to your job?",
+            ru:"Вы иногда берете еду с собой на работу из дома? "
             },
             {
             id:40,
-            eng:"go to bed ",
-            ru:"идти в постель"
+            eng:"How many hours a day do you usually work?",
+            ru:"Сколько часов в день вы работаете? "
             },
             {
             id:41,
-            eng:"have dreams /дрИмз/",
-            ru:"иметь мечты"
+            eng:"What is the name of your boss? Can you spell /спЭл/ his or her first name?",
+            ru:"Как зовут твоего начальника? Сможешь продиктовать имя по буквам? "
             },
             {
             id:42,
-            eng:"dream /дрИм/",
-            ru:"мечтать"
+            eng:"What time does your work start?",
+            ru:"Во сколько твой рабочий день начинается? "
             },
             {
             id:43,
-            eng:"get e-mails",
-            ru:"получать письма"
+            eng:"Is your job hard? Can a computer do your job?",
+            ru:"Твоя работа сложная? Смог бы компьютер выполнять твою работу? "
             },
             {
             id:44,
-            eng:"check e-mails",
-            ru:"проверять почту"
+            eng:"What time does your work finish?",
+            ru:"Во сколько твой рабочий день заканчивается? "
             },
             {
             id:45,
-            eng:"wait for somebody /сАмбади/",
-            ru:"ждать кого-то"
+            eng:"What street is your work in?",
+            ru:"На какой улице ваша работа? My work is in Baker Street"
             },
             {
             id:46,
-            eng:"sing a song /сИн Э сОн/",
-            ru:"петь песню"
+            eng:"What is your favorite thing to do when you get home after a busy day?",
+            ru:"Какое ваше любимое занятие, когда вы приходите с работы? "
             },
             {
             id:47,
-            eng:"do number one",
-            ru:"ходить 'по-маленькому' (писать)"
+            eng:"Do you have a comfortable /кАмфотабл/ amchair /АрмчЭа/ at your work or maybe at home?",
+            ru:"У вас на работе или дома есть удобное кресло? "
             },
             {
             id:48,
-            eng:"do number two",
-            ru:"ходить 'по-большому' (какать)"
+            eng:"Do you do number two in the morning or in the evening?",
+            ru:"Вы обычно 'по-большому' ходите утром или вечером? "
             },
             {
             id:49,
-            eng:"oversleep /оУвЭслип/",
-            ru:"проспать"
+            eng:"How many times does a usual person do number one a day?",
+            ru:"Сколько раз в день здоровый человек обычно ходит 'по-маленькому'? "
+            },
+            {
+            id:50,
+            eng:"Do you like to lie in bed for 5 minutes in the morning?",
+            ru:"Вам нравится утром 5 минут в кровати поваляться? "
+            },
+            {
+            id:51,
+            eng:"Do you sometimes oversleep important meetings?",
+            ru:"Вы можете иногда проспать что-то важное? "
             },
     ],
     anika: [

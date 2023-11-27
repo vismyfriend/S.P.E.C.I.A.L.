@@ -3145,12 +3145,12 @@ const allCardsGameFindAPair = {
     sara: [
         {
             id:1,
-            eng:"wake up early /Ёли/",
+            eng:"wake up /уЭйк ап/",
             ru:"просыпаться рано"
             },
             {
             id:2,
-            eng:"get up",
+            eng:"get up /гет ап/",
             ru:"вставать"
             },
             {
@@ -3165,12 +3165,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:5,
-            eng:"brush /брАш/ teeth",
+            eng:"brush teeth /браш/",
             ru:"начищать зубы  "
             },
             {
             id:6,
-            eng:"clean /клИн/ teeth",
+            eng:"clean teeth /клИн/ ",
             ru:"чистить зубы"
             },
             {
@@ -3180,13 +3180,13 @@ const allCardsGameFindAPair = {
             },
             {
             id:8,
-            eng:"go to the kitchen",
+            eng:"go to the kitchen ",
             ru:"идти на кухню"
             },
             {
             id:9,
             eng:"go to the bathroom /бАthрум/",
-            ru:"в уборную"
+            ru:"идти в ванную"
             },
             {
             id:10,
@@ -3195,7 +3195,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:11,
-            eng:"go to the living /лИвин/ room",
+            eng:"go to the living room /лИвин/ ",
             ru:"идти в гостиную"
             },
             {
@@ -3210,17 +3210,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:14,
-            eng:"get a glass of wine /уАйн/",
+            eng:"get a glass of wine  /уАйн/",
             ru:"достать бокал вина"
             },
             {
             id:15,
-            eng:"drink a bottle of milk",
+            eng:"drink a bottle of milk ",
             ru:"выпить бутылку молока"
             },
             {
             id:16,
-            eng:"leave the house",
+            eng:"leave the house ",
             ru:"покидать дом"
             },
             {
@@ -3230,22 +3230,22 @@ const allCardsGameFindAPair = {
             },
             {
             id:18,
-            eng:"walk to the station",
+            eng:"walk to the station ",
             ru:"гулять до станции"
             },
             {
             id:19,
-            eng:"wait for something",
+            eng:"wait for something ",
             ru:"ждать чего-то"
             },
             {
             id:20,
-            eng:"wait for the train",
+            eng:"wait for the train ",
             ru:"ждать поезда"
             },
             {
             id:21,
-            eng:"look at the phone",
+            eng:"look at the phone ",
             ru:"смотреть на телефон"
             },
             {
@@ -3255,17 +3255,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:23,
-            eng:"work for a big company",
+            eng:"work for a big company ",
             ru:"работать на большую компанию"
             },
             {
             id:24,
-            eng:"walk to a bus stop",
+            eng:"walk to a bus stop ",
             ru:"прогуляться до остановки автобуса"
             },
             {
             id:25,
-            eng:"talk to somebody",
+            eng:"talk to somebody ",
             ru:"говорить с кем-то"
             },
             {
@@ -3275,12 +3275,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:27,
-            eng:"talk on the phone ",
+            eng:"talk on the phone  ",
             ru:"говорить по телефону"
             },
             {
             id:28,
-            eng:"speak with somebody",
+            eng:"speak with somebody ",
             ru:"разговаривать с кем-то"
             },
             {
@@ -3290,12 +3290,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:30,
-            eng:"write an e-mail ",
+            eng:"write an e-mail  ",
             ru:"писать письма"
             },
             {
             id:31,
-            eng:"have meetings ",
+            eng:"have meetings  ",
             ru:"иметь встречи"
             },
             {
@@ -3305,7 +3305,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:33,
-            eng:"have lunch at work",
+            eng:"have lunch at work ",
             ru:"обедать на работе"
             },
             {
@@ -3315,37 +3315,37 @@ const allCardsGameFindAPair = {
             },
             {
             id:35,
-            eng:"finish work day",
+            eng:"finish work day ",
             ru:"заканчивать рабочий день"
             },
             {
             id:36,
-            eng:"go home ",
+            eng:"go home  ",
             ru:"идти домой"
             },
             {
             id:37,
-            eng:"cook dinner ",
+            eng:"cook dinner  ",
             ru:"готовить ужин"
             },
             {
             id:38,
-            eng:"watch TeleVision  (TV) ",
+            eng:"watch TeleVision  (TV)  ",
             ru:"смотреть телевизор"
             },
             {
             id:39,
-            eng:"have dinner",
+            eng:"have dinner ",
             ru:"ужинать"
             },
             {
             id:40,
-            eng:"go to bed ",
+            eng:"go to bed  ",
             ru:"идти в постель"
             },
             {
             id:41,
-            eng:"have dreams /дрИмз/",
+            eng:"have dreams  /дрИмз/",
             ru:"иметь мечты"
             },
             {
@@ -3355,12 +3355,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:43,
-            eng:"get e-mails",
+            eng:"get e-mails ",
             ru:"получать письма"
             },
             {
             id:44,
-            eng:"check e-mails",
+            eng:"check e-mails ",
             ru:"проверять почту"
             },
             {
@@ -3375,12 +3375,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:47,
-            eng:"do number one",
+            eng:"do number one / нАмбэ уАн /",
             ru:"ходить 'по-маленькому' (писать)"
             },
             {
             id:48,
-            eng:"do number two",
+            eng:"do number two / нАмбэ  тУ /",
             ru:"ходить 'по-большому' (какать)"
             },
             {
@@ -3388,6 +3388,11 @@ const allCardsGameFindAPair = {
             eng:"oversleep /оУвЭслип/",
             ru:"проспать"
             },
+            {
+                id:50,
+                eng:"lie for 5 mins / лай фо 5 мИнэтс /",
+                ru:"лежать в течении 5 минут"
+                },
     ],
     anika: [
         {

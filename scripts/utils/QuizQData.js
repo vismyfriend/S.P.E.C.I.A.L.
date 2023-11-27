@@ -73,15 +73,15 @@ const quizQuesstionsList = {
             quizQuestion: "They ___ my friends",
             answers: [
             {
-            answer: "are",
+            answer: "aren't",
             correct: true
             },
             {
-            answer: "am",
+            answer: "don't",
             correct: false
             },
             {
-            answer: "is",
+            answer: "doesn't",
             correct: false
             },
             {
@@ -99,691 +99,405 @@ const quizQuesstionsList = {
             quizQuestion: "She ___ a good girl",
             answers: [
             {
-            answer: "is",
+            answer: "is not",
             correct: true
             },
             {
-            answer: "am",
+            answer: "doesn't",
             correct: false
             },
             {
-            answer: "are",
+            answer: "does",
             correct: false
             },
             {
-            answer: "-",
+            answer: "my",
             correct: false
             },
             {
-            answer: "have",
+            answer: "hasn't ",
             correct: false
             },
             ]
             },
             {
             id: 3,
-            quizQuestion: "I ___ an agent",
+            quizQuestion: "I ___ agent",
             answers: [
             {
-            answer: "am not",
+            answer: "am a secret",
             correct: true
             },
             {
-            answer: "is",
+            answer: "don't a secret",
             correct: false
             },
             {
-            answer: "are",
+            answer: "amn't a secret",
             correct: false
             },
             {
-            answer: "-",
+            answer: "am",
             correct: false
             },
             {
-            answer: "amn't",
+            answer: "am not secret",
             correct: false
             },
             ]
             },
             {
             id: 4,
-            quizQuestion: "Sometimes our teachers ___ sad",
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "are",
+            answer: "I wake up at 6 AM not very often.",
             correct: true
             },
             {
-            answer: "am",
+            answer: "I waking up at 6 AM every day.",
             correct: false
             },
             {
-            answer: "is",
+            answer: "I wake up at 6 AM O'CLOCK every day.",
             correct: false
             },
             {
-            answer: "-",
+            answer: "I wake up at 6 AM yesterday.",
             correct: false
             },
             {
-            answer: "be",
+            answer: "I wake up at 6 AM right now.",
             correct: false
             },
             ]
             },
             {
             id: 5,
-            quizQuestion: "These questions ___ easy",
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "are",
+            answer: "I wake up at 6 AM every day.",
             correct: true
             },
             {
-            answer: "am",
+            answer: "I waking up at 6 AM every day.",
             correct: false
             },
             {
-            answer: "is",
+            answer: "I wake up at 6 AM yesterday.",
             correct: false
             },
             {
-            answer: "-",
+            answer: "I wake up at 6 AM tomorrow.",
             correct: false
             },
             {
-            answer: "have",
+            answer: "I am usually wake up at 6 AM ",
             correct: false
             },
             ]
             },
             {
             id: 6,
-            quizQuestion: "I ___ sleep every day",
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "-",
+            answer: "She cleans teeth in the morning.",
             correct: true
             },
             {
-            answer: "are",
+            answer: "She get a shower in the morning.",
             correct: false
             },
             {
-            answer: "am",
+            answer: "She takes a shower in the morning.",
             correct: false
             },
             {
-            answer: "have",
+            answer: "She brushing teeth in the morning.",
             correct: false
             },
             {
-            answer: "like",
+            answer: "She have a shower in the morning.",
             correct: false
             },
             ]
             },
             {
             id: 7,
-            quizQuestion: "What color ___ his eyes?",
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "are",
+            answer: "She brushes teeth in the morning.",
             correct: true
             },
             {
-            answer: "-",
+            answer: "She is brushing teeth in the morning.",
             correct: false
             },
             {
-            answer: "is",
+            answer: "She brush teeth in the morning.",
             correct: false
             },
             {
-            answer: "does",
+            answer: "She doesn't brushes teeth in the morning.",
             correct: false
             },
             {
-            answer: "have",
+            answer: "She brushes a teeth in the morning.",
             correct: false
             },
             ]
             },
             {
             id: 8,
-            quizQuestion: "My friend and I ___ super cool",
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "are",
+            answer: "I get dressed before I brush teeth.",
             correct: true
             },
             {
-            answer: "am",
+            answer: "I get dressed after I'm brushing teeth.",
             correct: false
             },
             {
-            answer: "is",
+            answer: "I get dressed and brushes teeth.",
             correct: false
             },
             {
-            answer: "has",
+            answer: "I get dressed while I brushing teeth.",
             correct: false
             },
             {
-            answer: "have",
+            answer: "I doesn'trush teeth and not dressed",
             correct: false
             },
             ]
             },
             {
             id: 9,
-            quizQuestion: "Where ___ my beer?",
+            quizQuestion: "Как произносится слово 'рано' ?",
             answers: [
             {
-            answer: "is",
+            answer: "/что-то среднее между О и Ё/",
             correct: true
             },
             {
-            answer: "am",
+            answer: "/Оли/",
             correct: false
             },
             {
-            answer: "are",
+            answer: "/Ёрли/",
             correct: false
             },
             {
-            answer: "have",
+            answer: "/Орли/",
             correct: false
             },
             {
-            answer: "drink",
+            answer: "/Ёли/",
             correct: false
             },
             ]
             },
             {
             id: 10,
-            quizQuestion: "Who ___ our teacher?",
+            quizQuestion: "How many times do you brush teeth?",
             answers: [
             {
-            answer: "is",
+            answer: "2 times",
             correct: true
             },
             {
-            answer: "am",
+            answer: "1 times",
             correct: false
             },
             {
-            answer: "are",
+            answer: "2 time",
             correct: false
             },
             {
-            answer: "am",
+            answer: "2 minutes",
             correct: false
             },
             {
-            answer: "have",
+            answer: "1 minute",
             correct: false
             },
             ]
             },
             {
             id: 11,
-            quizQuestion: "Who ___ our teachers?",
+            quizQuestion: "How long do you brush your teeth?",
             answers: [
             {
-            answer: "are",
+            answer: "2 minutes",
             correct: true
             },
             {
-            answer: "am",
+            answer: "1 times",
             correct: false
             },
             {
-            answer: "is",
+            answer: "2 time",
             correct: false
             },
             {
-            answer: "was",
+            answer: "1 minutes",
             correct: false
             },
             {
-            answer: "you",
+            answer: "1 or 2 times usually",
             correct: false
             },
             ]
             },
             {
             id: 12,
-            quizQuestion: "Why ___ they here?",
+            quizQuestion: "Что такое /бЭДрум/",
             answers: [
             {
-            answer: "are",
+            answer: "спальня",
             correct: true
             },
             {
-            answer: "am",
+            answer: "плохая комната",
             correct: false
             },
             {
-            answer: "is",
+            answer: "ванная",
             correct: false
             },
             {
-            answer: "be",
+            answer: "комната Бэтмэна",
             correct: false
             },
             {
-            answer: "do",
+            answer: "секретная комната",
             correct: false
             },
             ]
             },
             {
             id: 13,
-            quizQuestion: "Who ___ here?",
+            quizQuestion: "Как произносится bathroom?",
             answers: [
             {
-            answer: "is",
+            answer: "язык между зубов",
             correct: true
             },
             {
-            answer: "am",
+            answer: "/бэТрум/",
             correct: false
             },
             {
-            answer: "are",
+            answer: "/бэДрум/",
             correct: false
             },
             {
-            answer: "did",
+            answer: "/бэСрум/",
             correct: false
             },
             {
-            answer: "be",
+            answer: "/эФрум/",
             correct: false
             },
             ]
             },
             {
             id: 14,
-            quizQuestion: "Why ___ I here?",
+            quizQuestion: "Как написать: она спит",
             answers: [
             {
-            answer: "am",
+            answer: "she sleeps",
             correct: true
             },
             {
-            answer: "is",
+            answer: "she sleps",
             correct: false
             },
             {
-            answer: "are",
+            answer: "she slиps",
             correct: false
             },
             {
-            answer: "will",
+            answer: "she sleaps",
             correct: false
             },
             {
-            answer: "isn't",
+            answer: "she slips",
             correct: false
             },
             ]
             },
             {
             id: 15,
-            quizQuestion: "When ___ our lesson?",
+            quizQuestion: "Как по-английски 'смотреть в свой телефон'",
             answers: [
             {
-            answer: "is",
+            answer: "look at my phone",
             correct: true
             },
             {
-            answer: "am",
+            answer: "watch my phone",
             correct: false
             },
             {
-            answer: "are",
+            answer: "look in my phone",
             correct: false
             },
             {
-            answer: "do",
+            answer: "see in my phone",
             correct: false
             },
             {
-            answer: "will",
+            answer: "watch at my phone",
             correct: false
             },
             ]
             },
             {
             id: 16,
-            quizQuestion: "Everybody ___ ready.",
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "is",
+            answer: "He never smokes",
             correct: true
             },
             {
-            answer: "be",
+            answer: "He doesn't never smoke",
             correct: false
             },
             {
-            answer: "are",
+            answer: "He not smoke",
             correct: false
             },
             {
-            answer: "not",
+            answer: "He is not smoke",
             correct: false
             },
             {
-            answer: "will",
+            answer: "He is never smoke",
             correct: false
             },
             ]
             },
             {
             id: 17,
-            quizQuestion: "Everything ___ alright.",
+            quizQuestion: "She ___ a good job.",
             answers: [
             {
-            answer: "is",
+            answer: "doesn't have",
             correct: true
             },
             {
-            answer: "be",
+            answer: "haven't",
             correct: false
             },
             {
-            answer: "are",
-            correct: false
-            },
-            {
-            answer: "not",
-            correct: false
-            },
-            {
-            answer: "will",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 18,
-            quizQuestion: "Nobody ___ home.",
-            answers: [
-            {
-            answer: "is",
-            correct: true
-            },
-            {
-            answer: "be",
-            correct: false
-            },
-            {
-            answer: "are",
-            correct: false
-            },
-            {
-            answer: "not",
-            correct: false
-            },
-            {
-            answer: "will",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 19,
-            quizQuestion: "___ everything alright?",
-            answers: [
-            {
-            answer: "is",
-            correct: true
-            },
-            {
-            answer: "when",
-            correct: false
-            },
-            {
-            answer: "why",
-            correct: false
-            },
-            {
-            answer: "are",
-            correct: false
-            },
-            {
-            answer: "will",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 20,
-            quizQuestion: "Something ___ not okay…",
-            answers: [
-            {
-            answer: "is",
-            correct: true
-            },
-            {
-            answer: "isn't",
-            correct: false
-            },
-            {
-            answer: "are",
-            correct: false
-            },
-            {
-            answer: "-",
-            correct: false
-            },
-            {
-            answer: "will",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 21,
-            quizQuestion: "Who ___ you?",
-            answers: [
-            {
-            answer: "are",
-            correct: true
-            },
-            {
-            answer: "и так сойдёт!",
-            correct: false
-            },
-            {
-            answer: "is",
-            correct: false
-            },
-            {
-            answer: "do",
-            correct: false
-            },
-            {
-            answer: "-",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 22,
-            quizQuestion: "Nothing ___ wrong with my answers!",
-            answers: [
-            {
-            answer: "is",
-            correct: true
-            },
-            {
-            answer: "does",
-            correct: false
-            },
-            {
-            answer: "will",
-            correct: false
-            },
-            {
-            answer: "be",
-            correct: false
-            },
-            {
-            answer: "-",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 23,
-            quizQuestion: "Vincent ___ not a teacher, he's my friend.",
-            answers: [
-            {
-            answer: "is",
-            correct: true
-            },
-            {
-            answer: "does",
-            correct: false
-            },
-            {
-            answer: "do",
-            correct: false
-            },
-            {
-            answer: "be",
-            correct: false
-            },
-            {
-            answer: "-",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 24,
-            quizQuestion: "I ___ not lazy",
-            answers: [
-            {
-            answer: "am",
-            correct: true
-            },
-            {
-            answer: "do",
-            correct: false
-            },
-            {
-            answer: "be",
-            correct: false
-            },
-            {
-            answer: "never",
-            correct: false
-            },
-            {
-            answer: "always",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 25,
-            quizQuestion: "Today ___ a good day",
-            answers: [
-            {
-            answer: "is",
-            correct: true
-            },
-            {
-            answer: "will",
-            correct: false
-            },
-            {
-            answer: "be",
-            correct: false
-            },
-            {
-            answer: "not",
-            correct: false
-            },
-            {
-            answer: "yesterday",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 26,
-            quizQuestion: "I ___ always do my homework",
-            answers: [
-            {
-            answer: "-",
-            correct: true
-            },
-            {
-            answer: "do",
-            correct: false
-            },
-            {
-            answer: "like",
-            correct: false
-            },
-            {
-            answer: "hate",
-            correct: false
-            },
-            {
-            answer: "am",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 27,
-            quizQuestion: "I ___ have a pet.",
-            answers: [
-            {
-            answer: "don't",
-            correct: true
-            },
-            {
-            answer: "am",
-            correct: false
-            },
-            {
-            answer: "like",
-            correct: false
-            },
-            {
-            answer: "not",
-            correct: false
-            },
-            {
-            answer: "beautiful",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 28,
-            quizQuestion: "My eyes ___ blue",
-            answers: [
-            {
-            answer: "are",
-            correct: true
-            },
-            {
-            answer: "is",
-            correct: false
-            },
-            {
-            answer: "not",
+            answer: "is not have",
             correct: false
             },
             {
@@ -791,527 +505,163 @@ const quizQuesstionsList = {
             correct: false
             },
             {
-            answer: "color",
+            answer: "hasn't ",
             correct: false
             },
             ]
             },
             {
-            id: 29,
-            quizQuestion: "I ___ like English.",
+            id: 18,
+            quizQuestion: "I ___ the best teacher!",
             answers: [
             {
-            answer: "-",
+            answer: "have",
             correct: true
             },
             {
-            answer: "dont",
+            answer: "has",
             correct: false
             },
             {
-            answer: "very",
+            answer: "haven't",
             correct: false
             },
             {
-            answer: "doesn't",
+            answer: "hasn't",
             correct: false
             },
             {
-            answer: "am",
+            answer: "am have",
             correct: false
             },
             ]
             },
             {
-            id: 30,
-            quizQuestion: "Your children ___ attractive",
+            id: 19,
+            quizQuestion: "Как спросить 'Во сколько' ?",
             answers: [
             {
-            answer: "aren't",
+            answer: "What time?",
             correct: true
             },
             {
-            answer: "is",
+            answer: "How long?",
             correct: false
             },
             {
-            answer: "don't",
+            answer: "How many times?",
             correct: false
             },
             {
-            answer: "doesn't",
+            answer: "How much time?",
             correct: false
             },
             {
-            answer: "isn't",
+            answer: "When o'clock?",
             correct: false
             },
             ]
             },
             {
-            id: 31,
-            quizQuestion: "You and I ___ friends.",
+            id: 20,
+            quizQuestion: "Как произносится 'Who' ?",
             answers: [
             {
-            answer: "are",
+            answer: "/хУ/",
             correct: true
             },
             {
-            answer: "am",
+            answer: "/хО/",
             correct: false
             },
             {
-            answer: "we",
+            answer: "/У/",
             correct: false
             },
             {
-            answer: "-",
+            answer: "/вХу/",
             correct: false
             },
             {
-            answer: "good",
+            answer: "/хо хо хо/",
             correct: false
             },
             ]
             },
             {
-            id: 32,
-            quizQuestion: "It is my teacher and ___ name is Vincent.",
+            id: 21,
+            quizQuestion: "Как произносится 'Why' ?",
             answers: [
             {
-            answer: "his",
+            answer: "/уАй/",
             correct: true
             },
             {
-            answer: "her",
+            answer: "/хАй/",
             correct: false
             },
             {
-            answer: "its",
+            answer: "/хУ/",
             correct: false
             },
             {
-            answer: "it is",
+            answer: "/вХу/",
             correct: false
             },
             {
-            answer: "our",
+            answer: "/хЭzЭ/",
             correct: false
             },
             ]
             },
             {
-            id: 33,
-            quizQuestion: "It is Vincent and ___ is my teacher.",
+            id: 22,
+            quizQuestion: "Как спросить 'Как часто' ?",
             answers: [
             {
-            answer: "he",
+            answer: "How often?",
             correct: true
             },
             {
-            answer: "she",
+            answer: "How much?",
             correct: false
             },
             {
-            answer: "his",
+            answer: "How long?",
             correct: false
             },
             {
-            answer: "you",
+            answer: "When?",
             correct: false
             },
             {
-            answer: "I love",
+            answer: "How ofen?",
             correct: false
             },
             ]
             },
             {
-            id: 34,
-            quizQuestion: "What is it? ___ is love.",
+            id: 23,
+            quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "it",
+            answer: "Homework is good",
             correct: true
             },
             {
-            answer: "this is",
+            answer: "Homework not good",
             correct: false
             },
             {
-            answer: "its",
+            answer: "Homework stupid",
             correct: false
             },
             {
-            answer: "Vincent",
+            answer: "Homework doesn't bad",
             correct: false
             },
             {
-            answer: "the",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 35,
-            quizQuestion: "Two plus two is ___ .",
-            answers: [
-            {
-            answer: "four",
-            correct: true
-            },
-            {
-            answer: "for",
-            correct: false
-            },
-            {
-            answer: "fore",
-            correct: false
-            },
-            {
-            answer: "foor",
-            correct: false
-            },
-            {
-            answer: "forth",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 36,
-            quizQuestion: "___ is English.",
-            answers: [
-            {
-            answer: "it",
-            correct: true
-            },
-            {
-            answer: "its",
-            correct: false
-            },
-            {
-            answer: "this is",
-            correct: false
-            },
-            {
-            answer: "the",
-            correct: false
-            },
-            {
-            answer: "I love",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 37,
-            quizQuestion: "How are you?",
-            answers: [
-            {
-            answer: "not bad.",
-            correct: true
-            },
-            {
-            answer: "It is good.",
-            correct: false
-            },
-            {
-            answer: "I okay.",
-            correct: false
-            },
-            {
-            answer: "Чего бл%н?",
-            correct: false
-            },
-            {
-            answer: "Normal.",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 38,
-            quizQuestion: "I love ___ .",
-            answers: [
-            {
-            answer: "English",
-            correct: true
-            },
-            {
-            answer: "Eanglish",
-            correct: false
-            },
-            {
-            answer: "Inglish",
-            correct: false
-            },
-            {
-            answer: "Englis",
-            correct: false
-            },
-            {
-            answer: "is English",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 39,
-            quizQuestion: "Как по-английски ' наш ' ?",
-            answers: [
-            {
-            answer: "our",
-            correct: true
-            },
-            {
-            answer: "your",
-            correct: false
-            },
-            {
-            answer: "us",
-            correct: false
-            },
-            {
-            answer: "nash",
-            correct: false
-            },
-            {
-            answer: "aur",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 40,
-            quizQuestion: "Как по-английски ' их ' ?",
-            answers: [
-            {
-            answer: "their",
-            correct: true
-            },
-            {
-            answer: "they",
-            correct: false
-            },
-            {
-            answer: "her",
-            correct: false
-            },
-            {
-            answer: "our",
-            correct: false
-            },
-            {
-            answer: "your",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 41,
-            quizQuestion: "Как по-английски ' твой ' ?",
-            answers: [
-            {
-            answer: "your",
-            correct: true
-            },
-            {
-            answer: "their",
-            correct: false
-            },
-            {
-            answer: "her",
-            correct: false
-            },
-            {
-            answer: "his",
-            correct: false
-            },
-            {
-            answer: "yo",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 42,
-            quizQuestion: "Как по-английски ' ваш ' ?",
-            answers: [
-            {
-            answer: "your",
-            correct: true
-            },
-            {
-            answer: "her",
-            correct: false
-            },
-            {
-            answer: "their",
-            correct: false
-            },
-            {
-            answer: "them",
-            correct: false
-            },
-            {
-            answer: "us",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 43,
-            quizQuestion: "Как по-английски ' её ' ?",
-            answers: [
-            {
-            answer: "her",
-            correct: true
-            },
-            {
-            answer: "his",
-            correct: false
-            },
-            {
-            answer: "your",
-            correct: false
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "yo",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 44,
-            quizQuestion: "Как по-английски ' его собака ' ?",
-            answers: [
-            {
-            answer: "his dog",
-            correct: true
-            },
-            {
-            answer: "her dog",
-            correct: false
-            },
-            {
-            answer: "him dog",
-            correct: false
-            },
-            {
-            answer: "he dog",
-            correct: false
-            },
-            {
-            answer: "its dog",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 45,
-            quizQuestion: "Как произносится буква ' G ' ?",
-            answers: [
-            {
-            answer: "/ ДЖИ /",
-            correct: true
-            },
-            {
-            answer: "/ ДЖЭЙ /",
-            correct: false
-            },
-            {
-            answer: "/ ГЭ /",
-            correct: false
-            },
-            {
-            answer: "/ ЖЭ /",
-            correct: false
-            },
-            {
-            answer: "понятия не имею",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 46,
-            quizQuestion: "Как произносится буква ' J ' ?",
-            answers: [
-            {
-            answer: "/ ДЖЭЙ /",
-            correct: true
-            },
-            {
-            answer: "/ ДЖИ /",
-            correct: false
-            },
-            {
-            answer: "/ й /",
-            correct: false
-            },
-            {
-            answer: "английский мягкий знак",
-            correct: false
-            },
-            {
-            answer: "/ ХЭ-3Э /",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 47,
-            quizQuestion: "Как произносится буква ' i ' ?",
-            answers: [
-            {
-            answer: "/ АЙ /",
-            correct: true
-            },
-            {
-            answer: "/ УАЙ /",
-            correct: false
-            },
-            {
-            answer: "/ И /",
-            correct: false
-            },
-            {
-            answer: "/ палка с точкой /",
-            correct: false
-            },
-            {
-            answer: "/ йе /",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 48,
-            quizQuestion: "Как произносится буква ' Y ' ?",
-            answers: [
-            {
-            answer: "/ УАЙ /",
-            correct: true
-            },
-            {
-            answer: "/ АЙ /",
-            correct: false
-            },
-            {
-            answer: "/ И /",
-            correct: false
-            },
-            {
-            answer: "/ у /",
-            correct: false
-            },
-            {
-            answer: "/ йу /",
+            answer: "I am potato",
             correct: false
             },
             ]
