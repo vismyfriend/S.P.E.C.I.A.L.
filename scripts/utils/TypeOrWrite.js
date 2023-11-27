@@ -8866,7 +8866,7 @@ allnaughtyverbsC1: [
             },
             {
              id:27,
-            eng:"talk on the phone ",
+            eng:"talk on the phone",
             ru:"говорить по телефону"
             },
             {
@@ -8881,12 +8881,12 @@ allnaughtyverbsC1: [
             },
             {
              id:30,
-            eng:"write an e-mail ",
+            eng:"write an e-mail",
             ru:"писать письма"
             },
             {
              id:31,
-            eng:"have meetings ",
+            eng:"have meetings",
             ru:"иметь встречи"
             },
             {
@@ -8911,17 +8911,17 @@ allnaughtyverbsC1: [
             },
             {
              id:36,
-            eng:"go home ",
+            eng:"go home",
             ru:"идти домой"
             },
             {
              id:37,
-            eng:"cook dinner ",
+            eng:"cook dinner",
             ru:"готовить ужин"
             },
             {
              id:38,
-            eng:"watch TeleVision  (TV) ",
+            eng:"watch TeleVision  (TV)",
             ru:"смотреть телевизор"
             },
             {
@@ -8931,12 +8931,12 @@ allnaughtyverbsC1: [
             },
             {
              id:40,
-            eng:"go to bed ",
+            eng:"go to bed",
             ru:"идти в постель"
             },
             {
              id:41,
-            eng:"have dreams ",
+            eng:"have dreams",
             ru:"иметь мечты"
             },
             {
@@ -8988,7 +8988,7 @@ allnaughtyverbsC1: [
              id:51,
             eng:"oversleep",
             ru:"проспать"
-            },	
+            },
     ],
     anika: [
         {					
