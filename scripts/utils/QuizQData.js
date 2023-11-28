@@ -255,23 +255,23 @@ const quizQuesstionsList = {
             quizQuestion: "What is the correct sentence?",
             answers: [
             {
-            answer: "I get dressed before I brush teeth.",
+            answer: "I get dressed before I brush my teeth.",
             correct: true
             },
             {
-            answer: "I get dressed after I'm brushing teeth.",
+            answer: "I get dressed after I'm brushing my teeth.",
             correct: false
             },
             {
-            answer: "I get dressed and brushes teeth.",
+            answer: "I get dressed and brushes my teeth.",
             correct: false
             },
             {
-            answer: "I get dressed while I brushing teeth.",
+            answer: "I get dressed while I brushing my teeth.",
             correct: false
             },
             {
-            answer: "I doesn'trush teeth and not dressed",
+            answer: "I doesn't brush my teeth and not dressed",
             correct: false
             },
             ]
@@ -688,6 +688,32 @@ const quizQuesstionsList = {
             },
             {
             answer: "teeth cleaner",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "Vincent and I drink alcohol ___ .",
+            answers: [
+            {
+            answer: "behind the garages",
+            correct: true
+            },
+            {
+            answer: "тугеZэр",
+            correct: false
+            },
+            {
+            answer: "not",
+            correct: false
+            },
+            {
+            answer: "don't drink",
+            correct: false
+            },
+            {
+            answer: "yesterday",
             correct: false
             },
             ]

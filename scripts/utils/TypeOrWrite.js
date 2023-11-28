@@ -8740,252 +8740,252 @@ allnaughtyverbsC1: [
             ru:"просыпаться рано"
             },
             {
-             id:2,
+            id:2,
             eng:"get up",
             ru:"вставать"
             },
             {
-             id:3,
+            id:3,
             eng:"have a shower",
             ru:"принимать душ  “иметь душ”"
             },
             {
-             id:4,
+            id:4,
             eng:"take a shower",
             ru:"принимать душ  “взять душ”"
             },
             {
-             id:5,
+            id:5,
             eng:"brush teeth",
             ru:"начищать зубы  "
             },
             {
-             id:6,
+            id:6,
             eng:"clean teeth",
             ru:"чистить зубы"
             },
             {
-             id:7,
+            id:7,
             eng:"get dressed",
             ru:"одеваться"
             },
             {
-             id:8,
+            id:8,
             eng:"go to the kitchen",
             ru:"идти на кухню"
             },
             {
-             id:9,
+            id:9,
             eng:"go to the bathroom",
             ru:"идти в ванную"
             },
             {
-             id:10,
+            id:10,
             eng:"go to the bedroom",
             ru:"идти в спальню"
             },
             {
-             id:11,
+            id:11,
             eng:"go to the living room",
             ru:"идти в гостиную"
             },
             {
-             id:12,
+            id:12,
             eng:"have a cup of coffee or tea",
             ru:"пить чашечку кофе или чая"
             },
             {
-             id:13,
+            id:13,
             eng:"take a cup of tea",
             ru:"взять чашку чая"
             },
             {
-             id:14,
+            id:14,
             eng:"get a glass of wine",
             ru:"достать бокал вина"
             },
             {
-             id:15,
+            id:15,
             eng:"drink a bottle of milk",
             ru:"выпить бутылку молока"
             },
             {
-             id:16,
+            id:16,
             eng:"leave the house",
             ru:"покидать дом"
             },
             {
-             id:17,
+            id:17,
             eng:"walk",
             ru:"гулять"
             },
             {
-             id:18,
+            id:18,
             eng:"walk to the station",
             ru:"гулять до станции"
             },
             {
-             id:19,
+            id:19,
             eng:"wait for something",
             ru:"ждать чего-то"
             },
             {
-             id:20,
+            id:20,
             eng:"wait for the train",
             ru:"ждать поезда"
             },
             {
-             id:21,
+            id:21,
             eng:"look at the phone",
             ru:"смотреть на телефон"
             },
             {
-             id:22,
+            id:22,
             eng:"walk somewhere",
             ru:"гулять где-то"
             },
             {
-             id:23,
+            id:23,
             eng:"work for a big company",
             ru:"работать на большую компанию"
             },
             {
-             id:24,
+            id:24,
             eng:"walk to a bus stop",
             ru:"прогуляться до остановки автобуса"
             },
             {
-             id:25,
+            id:25,
             eng:"talk to somebody",
             ru:"говорить с кем-то"
             },
             {
-             id:26,
+            id:26,
             eng:"talk",
             ru:"говорить"
             },
             {
-             id:27,
+            id:27,
             eng:"talk on the phone",
             ru:"говорить по телефону"
             },
             {
-             id:28,
+            id:28,
             eng:"speak with somebody",
             ru:"разговаривать с кем-то"
             },
             {
-             id:29,
+            id:29,
             eng:"write",
             ru:"писАть"
             },
             {
-             id:30,
+            id:30,
             eng:"write an e-mail",
             ru:"писать письма"
             },
             {
-             id:31,
+            id:31,
             eng:"have meetings",
             ru:"иметь встречи"
             },
             {
-             id:32,
+            id:32,
             eng:"have lunch in a café",
             ru:"обедать в кафе"
             },
             {
-             id:33,
+            id:33,
             eng:"have lunch at work",
             ru:"обедать на работе"
             },
             {
-             id:34,
+            id:34,
             eng:"work all day",
             ru:"работать весь день"
             },
             {
-             id:35,
+            id:35,
             eng:"finish work day",
             ru:"заканчивать рабочий день"
             },
             {
-             id:36,
+            id:36,
             eng:"go home",
             ru:"идти домой"
             },
             {
-             id:37,
+            id:37,
             eng:"cook dinner",
             ru:"готовить ужин"
             },
             {
-             id:38,
-            eng:"watch TeleVision  (TV)",
+            id:38,
+            eng:"watch TV",
             ru:"смотреть телевизор"
             },
             {
-             id:39,
+            id:39,
             eng:"have dinner",
             ru:"ужинать"
             },
             {
-             id:40,
+            id:40,
             eng:"go to bed",
             ru:"идти в постель"
             },
             {
-             id:41,
+            id:41,
             eng:"have dreams",
             ru:"иметь мечты"
             },
             {
-             id:42,
+            id:42,
             eng:"dream",
             ru:"мечтать"
             },
             {
-             id:43,
+            id:43,
             eng:"get e-mails",
             ru:"получать письма"
             },
             {
-             id:44,
+            id:44,
             eng:"check e-mails",
             ru:"проверять почту"
             },
             {
-             id:45,
+            id:45,
             eng:"wait for somebody",
             ru:"ждать кого-то"
             },
             {
-             id:46,
+            id:46,
             eng:"sing a song",
             ru:"петь песню"
             },
             {
-             id:47,
+            id:47,
             eng:"do number one",
             ru:"ходить 'по-маленькому' (писать)"
             },
             {
-             id:48,
+            id:48,
             eng:"do number two",
             ru:"ходить 'по-большому' (какать)"
             },
             {
-             id:49,
+            id:49,
             eng:"feed pets",
             ru:"кормить питомцев"
             },
             {
-             id:50,
+            id:50,
             eng:"lie for 5 mins",
             ru:"лежать в течении 5 минут"
             },
             {
-             id:51,
+            id:51,
             eng:"oversleep",
             ru:"проспать"
             },

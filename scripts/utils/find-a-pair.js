@@ -3275,7 +3275,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:27,
-            eng:"talk on the phone  ",
+            eng:"talk on the phone ",
             ru:"говорить по телефону"
             },
             {
@@ -3290,12 +3290,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:30,
-            eng:"write an e-mail  ",
+            eng:"write an e-mail ",
             ru:"писать письма"
             },
             {
             id:31,
-            eng:"have meetings  ",
+            eng:"have meetings ",
             ru:"иметь встречи"
             },
             {
@@ -3320,17 +3320,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:36,
-            eng:"go home  ",
+            eng:"go home ",
             ru:"идти домой"
             },
             {
             id:37,
-            eng:"cook dinner  ",
+            eng:"cook dinner ",
             ru:"готовить ужин"
             },
             {
             id:38,
-            eng:"watch TeleVision  (TV)  ",
+            eng:"watch TeleVision  (TV) ",
             ru:"смотреть телевизор"
             },
             {
@@ -3340,12 +3340,12 @@ const allCardsGameFindAPair = {
             },
             {
             id:40,
-            eng:"go to bed  ",
+            eng:"go to bed ",
             ru:"идти в постель"
             },
             {
             id:41,
-            eng:"have dreams  /дрИмз/",
+            eng:"have dreams /дрИмз/",
             ru:"иметь мечты"
             },
             {
@@ -3375,24 +3375,29 @@ const allCardsGameFindAPair = {
             },
             {
             id:47,
-            eng:"do number one / нАмбэ уАн /",
+            eng:"do number one /нАмбэ уАн/",
             ru:"ходить 'по-маленькому' (писать)"
             },
             {
             id:48,
-            eng:"do number two / нАмбэ  тУ /",
+            eng:"do number two /нАмбэ тУ/",
             ru:"ходить 'по-большому' (какать)"
             },
             {
             id:49,
+            eng:"feed pets /фид пЭтс/",
+            ru:"кормить питомцев"
+            },
+            {
+            id:50,
+            eng:"lie for 5 mins /лай фо 5 мИнэтс/",
+            ru:"лежать в течении 5 минут"
+            },
+            {
+            id:51,
             eng:"oversleep /оУвЭслип/",
             ru:"проспать"
             },
-            {
-                id:50,
-                eng:"lie for 5 mins / лай фо 5 мИнэтс /",
-                ru:"лежать в течении 5 минут"
-                },
     ],
     anika: [
         {

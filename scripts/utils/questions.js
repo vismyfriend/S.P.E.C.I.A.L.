@@ -1247,7 +1247,7 @@ const allQuestionsOneDeck = {
             {
             id:12,
             eng:"What do you like more: tea or coffee? With or without milk? Sugar?",
-            ru:"0 "
+            ru:" "
             },
             {
             id:13,
@@ -1443,6 +1443,166 @@ const allQuestionsOneDeck = {
             id:51,
             eng:"Do you sometimes oversleep important meetings?",
             ru:"Вы можете иногда проспать что-то важное? "
+            },
+            {
+            id:52,
+            eng:"Do you know somebody who broke their bones?",
+            ru:"Ты знаешь кого-то кто ломал кости? "
+            },
+            {
+            id:53,
+            eng:"Tell about a situation when you broke some rules.",
+            ru:"Расскажи о случае, когда ты нарушил какие-то правила. "
+            },
+            {
+            id:54,
+            eng:"Name 3 things (that) you bought last week",
+            ru:"Назови 3 вещи, которые ты купил на прошлой неделе. "
+            },
+            {
+            id:55,
+            eng:"Name 3 things (that) people can fix",
+            ru:"Назови 3 вещи, которые люди могут починить. "
+            },
+            {
+            id:56,
+            eng:"Name 3 things (that) people can break",
+            ru:"Назови 3 вещи, которые люди могут сломать. "
+            },
+            {
+            id:57,
+            eng:"Name 3 things (that) you used yesterday",
+            ru:"Назови 3 вещи, которые ты использовал вчера. "
+            },
+            {
+            id:58,
+            eng:"Name 3 things (that) you broke ",
+            ru:"Назови 3 вещи, которые ты сломал. "
+            },
+            {
+            id:59,
+            eng:"Name 3 things (that) you changed around your house",
+            ru:"Назови 3 вещи, которые ты изменил в своем доме. "
+            },
+            {
+            id:60,
+            eng:"Name 3 things (that) people usually send by mail",
+            ru:"Назови 3 вещи, которые люди обычно отправляют по почте. "
+            },
+            {
+            id:61,
+            eng:"Name one or two things (that) you want to upgrade",
+            ru:"Назови одну или две вещи, которые ты хочешь улучшить. "
+            },
+            {
+            id:62,
+            eng:"Name 3 things (that) people can charge",
+            ru:"Назови 3 вещи, которые люди могут заряжать. "
+            },
+            {
+            id:63,
+            eng:"Point at 3 things around you and name them",
+            ru:"Укажи на 3 вещи вокруг тебя и назови их. "
+            },
+            {
+            id:64,
+            eng:"Name 3 things (that) people usually press",
+            ru:"Назови 3 вещи, которые люди обычно нажимают. "
+            },
+            {
+            id:65,
+            eng:"Name 3 things (that) people usually forget to do ",
+            ru:"Назови 3 вещи, которые люди обычно забывают сделать. "
+            },
+            {
+            id:66,
+            eng:"Name 3 movies (that) you like very much",
+            ru:"Назови 3 фильма, которые тебе очень нравятся. "
+            },
+            {
+            id:67,
+            eng:"Name 3 things (that) you cannot do at work ",
+            ru:"Назови 3 вещи, которые ты не можешь делать на работе. "
+            },
+            {
+            id:68,
+            eng:"Name 3 things (that) children usually bring home",
+            ru:"Назови 3 вещи, которые дети обычно приносят домой. "
+            },
+            {
+            id:69,
+            eng:"Name 3 words (that) you or other people usually forget how to spell ",
+            ru:"Назови 3 слова, которые ты или другие люди обычно забывают как правильно писать. "
+            },
+            {
+            id:70,
+            eng:"Name 3 things (that) people can cut",
+            ru:"Назови 3 вещи, которые люди могут резать. "
+            },
+            {
+            id:71,
+            eng:"Do you know the cobination of keys to Copy and Paste something on computer?",
+            ru:"Ты знаешь комбинацию клавиш для копирования и вставки чего-то на компьютере? "
+            },
+            {
+            id:72,
+            eng:"Name 3 things (that) people usually download from the internet",
+            ru:"Назовите 3 вещи, которые люди обычно скачивают из интернета. "
+            },
+            {
+            id:73,
+            eng:"Name one or two toys (that) you like or liked. ",
+            ru:"Назовите одну или две игрушки, которые вам нравятся или нравились. "
+            },
+            {
+            id:74,
+            eng:"Name 3 things (that) people can check ",
+            ru:"Назовите 3 вещи, которые люди могут проверить. "
+            },
+            {
+            id:75,
+            eng:"Name 3 things (that) people can write",
+            ru:"Назовите 3 вещи, которые люди могут написать. "
+            },
+            {
+            id:76,
+            eng:"Name 3 things (that) you usually plug to the electricity",
+            ru:"Назовите 3 вещи, которые вы обычно подключаете к электричеству. "
+            },
+            {
+            id:77,
+            eng:"Name 3 things (that) people can burn",
+            ru:"Назовите 3 вещи, которые люди могут сжечь. "
+            },
+            {
+            id:78,
+            eng:"How to translate 'Zip' and 'Unzip'?",
+            ru:"Как перевести на русский 'Zip' и 'Unzip'? "
+            },
+            {
+            id:79,
+            eng:"Name 3 things (that) people can lock",
+            ru:"Назовите 3 вещи, которые люди могут запереть. "
+            },
+            {
+            id:80,
+            eng:"Name 3 people (that) you usually call ",
+            ru:"Назовите 3 человека, которых вы обычно звоните. "
+            },
+            {
+            id:81,
+            eng:"Name 3 drinks (that) you like ",
+            ru:"Назовите 3 напитка, которые вам нравятся. "
+            },
+            {
+            id:82,
+            eng:"Name 3 things (that) people can pause or stop doing",
+            ru:"Назовите 3 вещи, которые люди могут поставить на паузу или прекратить делать. "
+            },
+            {
+            id:83,
+            eng:"How many light switchers do you have around your apartments?",
+            ru:"Сколько выключателей света у вас в квартире? "
             },
     ],
     anika: [
