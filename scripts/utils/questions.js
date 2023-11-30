@@ -37,6 +37,183 @@ const allQuestionsOneDeck = {
             ru	:	"семь"	
             }	,				
     ],
+    gerund: [
+        {
+            id:1,
+            eng:"Do you know anybody who is fond of doing extreme sports?",
+            ru:" "
+            },
+            {
+            id:2,
+            eng:"What do you think your teacher is fond of doing?",
+            ru:" "
+            },
+            {
+            id:3,
+            eng:"Are you fond of listening to different music or maybe only rock music?",
+            ru:" "
+            },
+            {
+            id:4,
+            eng:"Has anybody accused you of doing something wrong?",
+            ru:" "
+            },
+            {
+            id:5,
+            eng:"Have your parents accused you of not being a good child?",
+            ru:" "
+            },
+            {
+            id:6,
+            eng:"What are you tired of doing?",
+            ru:" "
+            },
+            {
+            id:7,
+            eng:"Are you tired of getting spam calls and messages?",
+            ru:" "
+            },
+            {
+            id:8,
+            eng:"Are you capable of telling lies? (If yes - ask a person to tell a lie right now)",
+            ru:" "
+            },
+            {
+            id:9,
+            eng:"Is your teacher of English capable of beating students?",
+            ru:" "
+            },
+            {
+            id:10,
+            eng:"Are you capable of opening your eyes under the water when you swim?",
+            ru:" "
+            },
+            {
+            id:11,
+            eng:"Do you have a musical track that reminds you of something when it is playing?",
+            ru:" "
+            },
+            {
+            id:12,
+            eng:"Do you dream about having a lot of money and about travelling around the world?",
+            ru:" "
+            },
+            {
+            id:13,
+            eng:"What are your 3 small dreams. Not big dreams. Don't think too much. Tell me what you want.",
+            ru:" "
+            },
+            {
+            id:14,
+            eng:"Is Vincent aware of your speaking with me right now?",
+            ru:" "
+            },
+            {
+            id:15,
+            eng:"Should the parents always be aware of what their children are doing?",
+            ru:" "
+            },
+            {
+            id:16,
+            eng:"Tell about a situation when you were a little ashamed of doing something.",
+            ru:" "
+            },
+            {
+            id:17,
+            eng:"What were you ashamed of doing in your childhood?",
+            ru:" "
+            },
+            {
+            id:18,
+            eng:"Should Vincent be ashamed of not drinking beer with you behind the garages?",
+            ru:" "
+            },
+            {
+            id:19,
+            eng:"Are you sick of getting spam calls from the banks?",
+            ru:" "
+            },
+            {
+            id:20,
+            eng:"Are you sick of making silly mistakes in English when you speak?",
+            ru:" "
+            },
+            {
+            id:21,
+            eng:"Should people be ashamed of making mistakes when they speak English?",
+            ru:" "
+            },
+            {
+            id:22,
+            eng:"What are you afraid of? What fears do you have?",
+            ru:" "
+            },
+            {
+            id:23,
+            eng:"Are you afraid of dying?",
+            ru:" "
+            },
+            {
+            id:24,
+            eng:"Are you afraid of becoming old?",
+            ru:" "
+            },
+            {
+            id:25,
+            eng:"Are you afraid of making mistakes in your life?",
+            ru:" "
+            },
+            {
+            id:26,
+            eng:"Is Vincent afraid of you? Or maybe you are afraid of him, hmmm?",
+            ru:" "
+            },
+            {
+            id:27,
+            eng:"Are you guilty of not doing homework sometimes?",
+            ru:" "
+            },
+            {
+            id:28,
+            eng:"Are you guilty of eating fast food?",
+            ru:" "
+            },
+            {
+            id:29,
+            eng:"Are you proud of speaking English with me now? You should be very proud!",
+            ru:" "
+            },
+            {
+            id:30,
+            eng:"Are you proud of your children?",
+            ru:" "
+            },
+            {
+            id:31,
+            eng:"How many ways of starting a fire do you know?",
+            ru:" "
+            },
+            {
+            id:32,
+            eng:"Please, complain to me about Vincent! What does he always do?",
+            ru:" "
+            },
+            {
+            id:33,
+            eng:"When did you complain aboutt something last time?",
+            ru:" "
+            },
+            {
+            id:34,
+            eng:"Do you have a friend who likes complaining about something?",
+            ru:" "
+            },
+            {
+            id:35,
+            eng:"How often do you complain about something?",
+            ru:" "
+            },
+    ],
     adjectivesa2: [
         {
             id:1,

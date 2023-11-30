@@ -37,6 +37,153 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"семь"	
             }	,				
     ],
+    gerund: [
+        {
+            id:1,
+            eng:"be fond of",
+            ru:"получать удовольствие от"
+            },
+            {
+            id:2,
+            eng:"be tired of",
+            ru:"устать от"
+            },
+            {
+            id:3,
+            eng:"be capable of",
+            ru:"быть способным на"
+            },
+            {
+            id:4,
+            eng:"accuse of",
+            ru:"винить в чём-лиобо"
+            },
+            {
+            id:5,
+            eng:"remind of",
+            ru:"напоминать о чем-то"
+            },
+            {
+            id:6,
+            eng:"dream of",
+            ru:"мечтать о"
+            },
+            {
+            id:7,
+            eng:"be aware of",
+            ru:"быть в курсе чего-то"
+            },
+            {
+            id:8,
+            eng:"be ashamed of",
+            ru:"стыдиться чего-то"
+            },
+            {
+            id:9,
+            eng:"be sick of",
+            ru:"достало, тошнит от"
+            },
+            {
+            id:10,
+            eng:"be afraid of",
+            ru:"бояться чего-то"
+            },
+            {
+            id:11,
+            eng:"be guilty of",
+            ru:"быть виновным в"
+            },
+            {
+            id:12,
+            eng:"be proud of",
+            ru:"гордиться чем-то"
+            },
+            {
+            id:13,
+            eng:"way of",
+            ru:"способ делания чего-то"
+            },
+            {
+            id:14,
+            eng:"risk of",
+            ru:"риск чего-то"
+            },
+            {
+            id:15,
+            eng:"habit of",
+            ru:"привычка делать что-то"
+            },
+            {
+            id:16,
+            eng:"purpose of",
+            ru:"смысл чего-то"
+            },
+            {
+            id:17,
+            eng:"hope of",
+            ru:"надежда на"
+            },
+            {
+            id:18,
+            eng:"idea of",
+            ru:"идея чего-то"
+            },
+            {
+            id:19,
+            eng:"in spite of",
+            ru:"не смотря на"
+            },
+            {
+            id:20,
+            eng:"deprive of",
+            ru:"лишить чего-то"
+            },
+            {
+            id:21,
+            eng:"think of/about",
+            ru:"думать о"
+            },
+            {
+            id:22,
+            eng:"be sure of/about",
+            ru:"быть уверенным в"
+            },
+            {
+            id:23,
+            eng:"dream about/of",
+            ru:"мечтать о"
+            },
+            {
+            id:24,
+            eng:"care about",
+            ru:"заботиться о"
+            },
+            {
+            id:25,
+            eng:"be excited about",
+            ru:"быть в восторге от"
+            },
+            {
+            id:26,
+            eng:"worry about",
+            ru:"олноваться о"
+            },
+            {
+            id:27,
+            eng:"be crazy about",
+            ru:"сходить с ума от"
+            },
+            {
+            id:28,
+            eng:"complain about",
+            ru:"жаловаться на"
+            },
+            {
+            id:29,
+            eng:"be happy about",
+            ru:"быть счастливым от того-что"
+            },
+    ],
     allnaughtyverbs: [
         {
             id:1,
