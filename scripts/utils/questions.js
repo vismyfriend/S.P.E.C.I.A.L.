@@ -50,7 +50,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:3,
-            eng:"Are you fond of listening to different music or maybe only rock music?",
+            eng:"Are you fond of listening to music? Different music or pop or maybe classical music??",
             ru:" "
             },
             {
@@ -60,7 +60,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:5,
-            eng:"Have your parents accused you of not being a good child?",
+            eng:"Have your parents accused you of not doing anything?",
             ru:" "
             },
             {
@@ -70,12 +70,12 @@ const allQuestionsOneDeck = {
             },
             {
             id:7,
-            eng:"Are you tired of getting spam calls and messages?",
+            eng:"Are you tired of getting spam calls and messages? How often do you get it?",
             ru:" "
             },
             {
             id:8,
-            eng:"Are you capable of telling lies? (If yes - ask a person to tell a lie right now)",
+            eng:"Are you capable of telling lies? (If your partners say 'yes', ask them to tell a lie right now)",
             ru:" "
             },
             {
@@ -95,7 +95,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:12,
-            eng:"Do you dream about having a lot of money and about travelling around the world?",
+            eng:"Do you dream about having a lot of money? What else do you dream of?",
             ru:" "
             },
             {
@@ -155,7 +155,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:24,
-            eng:"Are you afraid of becoming old?",
+            eng:"Are you afraid of becoming an old grumpy grandpa /ворчливый дедок/?",
             ru:" "
             },
             {
@@ -200,17 +200,182 @@ const allQuestionsOneDeck = {
             },
             {
             id:33,
-            eng:"When did you complain aboutt something last time?",
+            eng:"Tell me about  situation when you complained about something.",
             ru:" "
             },
             {
             id:34,
-            eng:"Do you have a friend who likes complaining about something?",
+            eng:"Do you have a friend who likes complaining about everything?",
             ru:" "
             },
             {
             id:35,
-            eng:"How often do you complain about something?",
+            eng:"How often do people complain about something?",
+            ru:" "
+            },
+            {
+            id:36,
+            eng:"Can you recall a time when someone's accomplishments or achievements made you feel proud and why?",
+            ru:" "
+            },
+            {
+            id:37,
+            eng:"How do you feel when someone accuses you of something without any evidence or proof?",
+            ru:" "
+            },
+            {
+            id:38,
+            eng:"What skills or talents do you think you are capable of mastering soon?",
+            ru:" "
+            },
+            {
+            id:39,
+            eng:"Would you agree to risk loosing a lot of money if there was a chance of winning a lot of money?",
+            ru:" "
+            },
+            {
+            id:40,
+            eng:"Is there a risk of making Vincent very angry, when you don't do homework?",
+            ru:" "
+            },
+            {
+            id:41,
+            eng:"I have a habit of dancing on the table. Do you have any habits?",
+            ru:" "
+            },
+            {
+            id:42,
+            eng:"What is the purpose of sleeping? ",
+            ru:" "
+            },
+            {
+            id:43,
+            eng:"What is the purpose of making a bed?",
+            ru:" "
+            },
+            {
+            id:44,
+            eng:"What is the purpose of eating vegetables?",
+            ru:" "
+            },
+            {
+            id:45,
+            eng:"What is the purpose of doing English homework?",
+            ru:" "
+            },
+            {
+            id:46,
+            eng:"Is there a hope of not catching a cold this winter?",
+            ru:" "
+            },
+            {
+            id:47,
+            eng:"Do you have a hope of winning a lot of money in a lottery?",
+            ru:" "
+            },
+            {
+            id:48,
+            eng:"What does the phrase 'the hope dies the last' mean? How do you understand this phrase?",
+            ru:" "
+            },
+            {
+            id:49,
+            eng:"I have an idea of learning another language. What do you think about this idea?",
+            ru:" "
+            },
+            {
+            id:50,
+            eng:"Did your parents deprive you of using the phone?",
+            ru:" "
+            },
+            {
+            id:51,
+            eng:"When should parents deprive their children of using the phones?",
+            ru:" "
+            },
+            {
+            id:52,
+            eng:"I think of  starting a new hobby. Can you give mesome ideas of nice hobbies?",
+            ru:" "
+            },
+            {
+            id:53,
+            eng:"How often do you think about doing homework?",
+            ru:" "
+            },
+            {
+            id:54,
+            eng:"How often do you think of changing something about your life?",
+            ru:" "
+            },
+            {
+            id:55,
+            eng:"What do people have to care about in this life?",
+            ru:" "
+            },
+            {
+            id:56,
+            eng:"Are you excited about the fact that right now we are speaking English with you?",
+            ru:" "
+            },
+            {
+            id:57,
+            eng:"I'm excited about doing my next homework. And about our lessons. What are you excited about?",
+            ru:" "
+            },
+            {
+            id:58,
+            eng:"What do you usually worry about?",
+            ru:" "
+            },
+            {
+            id:59,
+            eng:"You look like a very calm and relaxed person. Do you worry about anything?",
+            ru:" "
+            },
+            {
+            id:60,
+            eng:"Why do people worry about passing the exams?",
+            ru:" "
+            },
+            {
+            id:61,
+            eng:"Why do parents worry about their children so much?",
+            ru:" "
+            },
+            {
+            id:62,
+            eng:"I'm crazy about learning English. What are you crazy about?",
+            ru:" "
+            },
+            {
+            id:63,
+            eng:"I am not mad about learning English, but I like it very much. Are you mad about something?",
+            ru:" "
+            },
+            {
+            id:64,
+            eng:"I'm mad about dancing. What are you mad about?",
+            ru:" "
+            },
+            {
+            id:65,
+            eng:"What do you think Vincent is mad about?",
+            ru:" "
+            },
+            {
+            id:66,
+            eng:"What do you do when you are sick of something?",
+            ru:" "
+            },
+            {
+            id:67,
+            eng:"What are the small good habits you have that help you in life?",
+            ru:" "
+            },
+            {
+            id:68,
+            eng:"What is the purpose of higher education? Does it help in the future?",
             ru:" "
             },
     ],
