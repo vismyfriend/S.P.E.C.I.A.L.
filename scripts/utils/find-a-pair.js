@@ -6472,6 +6472,426 @@ const allCardsGameFindAPair = {
             eng:"De donde es nuestra gata bonita?",
             ru:"Откуда наша кошка красотка родом?"
             },
+            {
+            id:85,
+            eng:"Como estais?",
+            ru:"Как вы (много)?"
+            },
+            {
+            id:86,
+            eng:"Adonde vas, amigo(a)?",
+            ru:"Куда идешь, друг?"
+            },
+            {
+            id:87,
+            eng:"Adonde?",
+            ru:"Куда?"
+            },
+            {
+            id:88,
+            eng:"Por que?",
+            ru:"Почему?"
+            },
+            {
+            id:89,
+            eng:"Verdad?",
+            ru:"уточнить перевод"
+            },
+            {
+            id:90,
+            eng:"Adonde va mi gata?",
+            ru:"Куда моя кошка идет?"
+            },
+            {
+            id:91,
+            eng:"Va Martina al instituto hoy?",
+            ru:"Мартина идет в Институт сегодня?"
+            },
+            {
+            id:92,
+            eng:"Vamos al café?",
+            ru:"Пойдем в кафе?"
+            },
+            {
+            id:93,
+            eng:"Van al paque?",
+            ru:"Они идут в парк?"
+            },
+            {
+            id:94,
+            eng:"Aonde van?",
+            ru:"Куда они идут?"
+            },
+            {
+            id:95,
+            eng:"Como eres?",
+            ru:"Какой ты?"
+            },
+            {
+            id:96,
+            eng:"Tienes familia?",
+            ru:"Есть ли у тебя семья?"
+            },
+            {
+            id:97,
+            eng:"Es todo?",
+            ru:"Это всё?"
+            },
+            {
+            id:98,
+            eng:"Donde?",
+            ru:"Где?"
+            },
+            {
+            id:99,
+            eng:"Como?",
+            ru:"Как? Какой?"
+            },
+            {
+            id:100,
+            eng:"Quien?",
+            ru:"Кто?"
+            },
+            {
+            id:101,
+            eng:"Que?",
+            ru:"Что? Какой?"
+            },
+            {
+            id:102,
+            eng:"1",
+            ru:"uno"
+            },
+            {
+            id:103,
+            eng:"2",
+            ru:"dos"
+            },
+            {
+            id:104,
+            eng:"3",
+            ru:"tres"
+            },
+            {
+            id:105,
+            eng:"4",
+            ru:"cuatro"
+            },
+            {
+            id:106,
+            eng:"5",
+            ru:"cinco"
+            },
+            {
+            id:107,
+            eng:"6",
+            ru:"seis"
+            },
+            {
+            id:108,
+            eng:"7",
+            ru:"iete"
+            },
+            {
+            id:109,
+            eng:"8",
+            ru:"ocho"
+            },
+            {
+            id:110,
+            eng:"9",
+            ru:"nueve"
+            },
+            {
+            id:111,
+            eng:"10",
+            ru:"diez"
+            },
+            {
+            id:112,
+            eng:"11",
+            ru:"once"
+            },
+            {
+            id:113,
+            eng:"12",
+            ru:"doce"
+            },
+            {
+            id:114,
+            eng:"13",
+            ru:"trece"
+            },
+            {
+            id:115,
+            eng:"14",
+            ru:"catorce"
+            },
+            {
+            id:116,
+            eng:"15",
+            ru:"quince"
+            },
+            {
+            id:117,
+            eng:"16",
+            ru:"dieciseis"
+            },
+            {
+            id:118,
+            eng:"17",
+            ru:"diecisiete"
+            },
+            {
+            id:119,
+            eng:"18",
+            ru:"dieciocho"
+            },
+            {
+            id:120,
+            eng:"19",
+            ru:"diecinueve"
+            },
+            {
+            id:121,
+            eng:"20",
+            ru:"veinte"
+            },
+            {
+            id:122,
+            eng:"21",
+            ru:"veintiuno"
+            },
+            {
+            id:123,
+            eng:"22",
+            ru:"veintidos"
+            },
+            {
+            id:124,
+            eng:"23",
+            ru:"veintitres"
+            },
+            {
+            id:125,
+            eng:"24",
+            ru:"veinticuatro"
+            },
+            {
+            id:126,
+            eng:"25",
+            ru:"veinticinco"
+            },
+            {
+            id:127,
+            eng:"26",
+            ru:"veintiseis"
+            },
+            {
+            id:128,
+            eng:"27",
+            ru:"veintisiete"
+            },
+            {
+            id:129,
+            eng:"28",
+            ru:"veintiocho"
+            },
+            {
+            id:130,
+            eng:"29",
+            ru:"veintinueve"
+            },
+            {
+            id:131,
+            eng:"30",
+            ru:"treinta"
+            },
+            {
+            id:132,
+            eng:"Quien esta en casa?",
+            ru:"Кто находится дома?"
+            },
+            {
+            id:133,
+            eng:"Cuantas amigas tienes?",
+            ru:"Сколько у тебя подруг?"
+            },
+            {
+            id:134,
+            eng:"Como estan hoy?",
+            ru:"Как у них дела сегодня?"
+            },
+            {
+            id:135,
+            eng:"De que hablan las chicas?",
+            ru:"О чем девчонки болтают?"
+            },
+            {
+            id:136,
+            eng:"Con quien hablas?",
+            ru:"С кем разговариваешь?"
+            },
+            {
+            id:137,
+            eng:"Hablas conmigo?",
+            ru:"Ты со мной базаришь?"
+            },
+            {
+            id:138,
+            eng:"El habla contigo o no?",
+            ru:"Он с тобой разговаривает или нет?"
+            },
+            {
+            id:139,
+            eng:"Donde trabajas?",
+            ru:"Где ты работаешь?"
+            },
+            {
+            id:140,
+            eng:"Trabajas en la escuela?",
+            ru:"В школе работаешь?"
+            },
+            {
+            id:141,
+            eng:"A quien?",
+            ru:"Кому?"
+            },
+            {
+            id:142,
+            eng:"A quien visita Miguel?",
+            ru:"Кого навещает Мигель?"
+            },
+            {
+            id:143,
+            eng:"A quinen visitas hoy?",
+            ru:"Кого навестишь сегодня?"
+            },
+            {
+            id:144,
+            eng:"Por que Miguel visita su amiga?",
+            ru:"Почему Мигель навещает свою подругу?"
+            },
+            {
+            id:145,
+            eng:"You hablo espanol, y tu?",
+            ru:"Я говорю по-испански, а вы?"
+            },
+            {
+            id:146,
+            eng:"Martina es estudiante tambien?",
+            ru:"Мартина тоже студентка?"
+            },
+            {
+            id:147,
+            eng:"Pepe tampoco fuma, si?",
+            ru:"Он тоже не курит да же?"
+            },
+            {
+            id:148,
+            eng:"Como es la chica(o) de tus suenos?",
+            ru:"Какой должна быть девушка твоей мечты?"
+            },
+            {
+            id:149,
+            eng:"Cuanto cuest el cuaderno verde?",
+            ru:"Сколько стоит зеленая тетрадь?"
+            },
+            {
+            id:150,
+            eng:"Cuanto cuestan las naranjas?",
+            ru:"По чем апельсины?"
+            },
+            {
+            id:151,
+            eng:"31",
+            ru:"treinta y uno"
+            },
+            {
+            id:152,
+            eng:"42",
+            ru:"cuarents y dos"
+            },
+            {
+            id:153,
+            eng:"53",
+            ru:"cincuenta y tres"
+            },
+            {
+            id:154,
+            eng:"64",
+            ru:"sesenta y cuatro"
+            },
+            {
+            id:155,
+            eng:"75",
+            ru:"setenta y cinco"
+            },
+            {
+            id:156,
+            eng:"86",
+            ru:"ochenta y seis"
+            },
+            {
+            id:157,
+            eng:"98",
+            ru:"noventa y ocho"
+            },
+            {
+            id:158,
+            eng:"67",
+            ru:"sesenta y siete"
+            },
+            {
+            id:159,
+            eng:"79",
+            ru:"setenta y nueve"
+            },
+            {
+            id:160,
+            eng:"100",
+            ru:"ciento (cien)"
+            },
+            {
+            id:161,
+            eng:"Trabajo mucho o poco?",
+            ru:"Много работаешь или мало?"
+            },
+            {
+            id:162,
+            eng:"Tus amigos descansan mucho o poco?",
+            ru:"Твои друзья много отдыхают?"
+            },
+            {
+            id:163,
+            eng:"Tu tienes pocos amigos?",
+            ru:"У тебя мало друзей?"
+            },
+            {
+            id:164,
+            eng:"Por que hablas muy bien el espanol?",
+            ru:"Почему ты очень хорошо говоришь на испанском?"
+            },
+            {
+            id:165,
+            eng:"practico el espanol mucho?",
+            ru:"много практикуешь испанский ?"
+            },
+            {
+            id:166,
+            eng:"Por que estas muy cansado?",
+            ru:"Почему ты такой уставший?"
+            },
+            {
+            id:167,
+            eng:"Donde descansas?",
+            ru:"Где отдыхаешь?"
+            },
+            {
+            id:168,
+            eng:"Quien a escuchas?",
+            ru:"Кого ты слушаешь?"
+            },
     ],
     spanish: [
         {
