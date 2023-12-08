@@ -48,6 +48,7 @@ const allSetsArray = [
     "musicCheck",
     "new_mission",
     "spanish",
+    "loco",
     "adjquest",
     "anika",
     "understand",

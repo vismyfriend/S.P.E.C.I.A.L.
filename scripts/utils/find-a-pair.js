@@ -6051,6 +6051,428 @@ const allCardsGameFindAPair = {
         },
 
     ],
+    loco: [
+        {
+            id:1,
+            eng:"Quien eres?",
+            ru:"кто ты? Как тебя зовут?"
+            },
+            {
+            id:2,
+            eng:"Que tal?",
+            ru:"Как дела?"
+            },
+            {
+            id:3,
+            eng:"Eres loco?",
+            ru:"Ты сумасшедший?"
+            },
+            {
+            id:4,
+            eng:"Quienes sois?",
+            ru:"Кто вы (много) ?"
+            },
+            {
+            id:5,
+            eng:"Quienes son?",
+            ru:"Кто они?"
+            },
+            {
+            id:6,
+            eng:"Quien es?",
+            ru:"Кто он?"
+            },
+            {
+            id:7,
+            eng:"Que es esto?",
+            ru:"Что это?"
+            },
+            {
+            id:8,
+            eng:"Que tal el trabajo?",
+            ru:"Как твоя работа?"
+            },
+            {
+            id:9,
+            eng:"Que tal los estudios?",
+            ru:"Как учеба?"
+            },
+            {
+            id:10,
+            eng:"Donde estas?",
+            ru:"Где ты?"
+            },
+            {
+            id:11,
+            eng:"Donde esta Martina?",
+            ru:"Где Мартина?"
+            },
+            {
+            id:12,
+            eng:"Donde estais?",
+            ru:"Где вы (много) ?"
+            },
+            {
+            id:13,
+            eng:"Estas en casa?",
+            ru:"Ты дома?"
+            },
+            {
+            id:14,
+            eng:"Gabriela esta en Madrid?",
+            ru:"Габриэла вМадриде?"
+            },
+            {
+            id:15,
+            eng:"Que es el ayuntamiento?",
+            ru:"Что такое мэрия?"
+            },
+            {
+            id:16,
+            eng:"Que es el aparacmiento?",
+            ru:"Что такое парковка?"
+            },
+            {
+            id:17,
+            eng:"Donde esta tu amigo?",
+            ru:"Где твой друг?"
+            },
+            {
+            id:18,
+            eng:"Quien es ella?",
+            ru:"Кто она?"
+            },
+            {
+            id:19,
+            eng:"Quien es Gabriela?",
+            ru:"Кто такая Габриела?"
+            },
+            {
+            id:20,
+            eng:"Donde esta Madrid?",
+            ru:"Шде находится Мадрид?"
+            },
+            {
+            id:21,
+            eng:"Donde esta tu amiga?",
+            ru:"Где твоя подруга?"
+            },
+            {
+            id:22,
+            eng:"Donde esta Vilnius?",
+            ru:"Где находится Вильнюс?"
+            },
+            {
+            id:23,
+            eng:"Que tal la vida?",
+            ru:"Как жизнь?"
+            },
+            {
+            id:24,
+            eng:"Donde esta el supermercado Slata?",
+            ru:"Где супермаркет слата?"
+            },
+            {
+            id:25,
+            eng:"Estas cansado(a)?",
+            ru:"Ты устал(а)?"
+            },
+            {
+            id:26,
+            eng:"Estas triste?",
+            ru:"Тебе грустно?"
+            },
+            {
+            id:27,
+            eng:"Estas seguro(a)?",
+            ru:"Ты уверен?"
+            },
+            {
+            id:28,
+            eng:"Estas enfermo(a)?",
+            ru:"Ты болеешь?"
+            },
+            {
+            id:29,
+            eng:"Estas casado?",
+            ru:"Ты женат?"
+            },
+            {
+            id:30,
+            eng:"Donde estan todos?",
+            ru:"Где все?"
+            },
+            {
+            id:31,
+            eng:"Estas aqui?",
+            ru:"Ты здесь?"
+            },
+            {
+            id:32,
+            eng:"Estas tumbado(a)?",
+            ru:"Лежишь и валяешься?"
+            },
+            {
+            id:33,
+            eng:"Gata bonita esta cansada y tumbada?",
+            ru:"Кошка красотка уставшая лежит, валяется?"
+            },
+            {
+            id:34,
+            eng:"Tu estas contento(a)?",
+            ru:"Ты доволен?"
+            },
+            {
+            id:35,
+            eng:"Donde esta tu coche?",
+            ru:"Где твоя машина?"
+            },
+            {
+            id:36,
+            eng:"Estas en la iglesia?",
+            ru:"Вы в церкви?"
+            },
+            {
+            id:37,
+            eng:"Donde estan Miguel y Lola?",
+            ru:"Где Мигель и Лола?"
+            },
+            {
+            id:38,
+            eng:"Donde estan los boligrafos y los cuadernos?",
+            ru:"Где ручки и тетради?"
+            },
+            {
+            id:39,
+            eng:"Tu movil esta en tu bolsa?",
+            ru:"Твой мобильный в сумке?"
+            },
+            {
+            id:40,
+            eng:"De donde eres?",
+            ru:"Откуда ты?"
+            },
+            {
+            id:41,
+            eng:"De donde es?",
+            ru:"Откуда это?"
+            },
+            {
+            id:42,
+            eng:"Que es?",
+            ru:"Что это?"
+            },
+            {
+            id:43,
+            eng:"Como es?",
+            ru:"Какое это?"
+            },
+            {
+            id:44,
+            eng:"Donde esta?",
+            ru:"Где она?"
+            },
+            {
+            id:45,
+            eng:"De que es?",
+            ru:"уточнить перевод"
+            },
+            {
+            id:46,
+            eng:"Como esta?",
+            ru:"Какой он?"
+            },
+            {
+            id:47,
+            eng:"De donde es Usted?",
+            ru:"Откуда вы? (уважительно) Soy de Rusia"
+            },
+            {
+            id:48,
+            eng:"Donde esta Usted?",
+            ru:"Где вы? (уважительно) Estoy en el restaurante"
+            },
+            {
+            id:49,
+            eng:"Tienen Ustedes un perro?",
+            ru:"У вас (у многих) есть собака? (Si tenemos)"
+            },
+            {
+            id:50,
+            eng:"Tienes un perro?",
+            ru:"У тебя есть собака?"
+            },
+            {
+            id:51,
+            eng:"Tienes un gato?",
+            ru:"У тебя есть кошка?"
+            },
+            {
+            id:52,
+            eng:"Tienes una mochilla?",
+            ru:"У тебя есть рюкзак?"
+            },
+            {
+            id:53,
+            eng:"Ella tiene una grapadora y un cuaderno?",
+            ru:"У нее есть степлер и тетрадь?"
+            },
+            {
+            id:54,
+            eng:"Tenemos la gata gorda?",
+            ru:"У нас жирная кошка?"
+            },
+            {
+            id:55,
+            eng:"Tienes Usted la casa en Espana?",
+            ru:"У вас есть дом в испании?"
+            },
+            {
+            id:56,
+            eng:"Cuanto dinero tienes?",
+            ru:"Сколько у тебя денег?"
+            },
+            {
+            id:57,
+            eng:"Cuanto es?",
+            ru:"Сколько это стоит?"
+            },
+            {
+            id:58,
+            eng:"Cuanto dinero tiene Paquito?",
+            ru:"Сколько денег у Пакито?"
+            },
+            {
+            id:59,
+            eng:"Cuanta gente esta aqui?",
+            ru:"Сколько людей находится здесь?"
+            },
+            {
+            id:60,
+            eng:"Cuantos anos tienes?",
+            ru:"Сколько тебе лет?"
+            },
+            {
+            id:61,
+            eng:"Cuantas amigos tiene Jacinta?",
+            ru:"Сколько друзей у Хасинты?"
+            },
+            {
+            id:62,
+            eng:"Cuantos somos?",
+            ru:"Сколько нас?"
+            },
+            {
+            id:63,
+            eng:"Cuanta gente esta alli en la escuela?",
+            ru:"Сколько людей находится в там в школе?"
+            },
+            {
+            id:64,
+            eng:"Son de aqui?",
+            ru:"Они отсюда?"
+            },
+            {
+            id:65,
+            eng:"Estan aqui?",
+            ru:"Они здесь?"
+            },
+            {
+            id:66,
+            eng:"Tienes novio(a)?",
+            ru:"Бойфренд есть/"
+            },
+            {
+            id:67,
+            eng:"Tiene mascota tu profesora?",
+            ru:"У твоей училки есть питомец?"
+            },
+            {
+            id:68,
+            eng:"Como se dice 'страшно'?",
+            ru:"Как сказать tener mierdo?"
+            },
+            {
+            id:69,
+            eng:"Como se escribe '6'?",
+            ru:"Как пишется шесть?"
+            },
+            {
+            id:70,
+            eng:"Mas despacio por favor!",
+            ru:"Помедленнее пожалуйста"
+            },
+            {
+            id:71,
+            eng:"Que significa 'vaia'?",
+            ru:"Что значит vaia?"
+            },
+            {
+            id:72,
+            eng:"Como se  pronuncia 'шесть'?",
+            ru:"Seis"
+            },
+            {
+            id:73,
+            eng:"Cuantas gatas tienes?",
+            ru:"Сколько у тебя кошек?"
+            },
+            {
+            id:74,
+            eng:"Tienes sueno?",
+            ru:"Ты сонный?"
+            },
+            {
+            id:75,
+            eng:"Tienes el sueno?",
+            ru:"У тебя есть мечта?"
+            },
+            {
+            id:76,
+            eng:"Tienes hambre?",
+            ru:"Ты голодный?"
+            },
+            {
+            id:77,
+            eng:"Tienes miedo?",
+            ru:"Боишься? Страшно тебе?"
+            },
+            {
+            id:78,
+            eng:"Tienes frio?",
+            ru:"Тебе холодно?"
+            },
+            {
+            id:79,
+            eng:"Donde esta mi gata?",
+            ru:"Где моя кош?"
+            },
+            {
+            id:80,
+            eng:"Donde esta tu gata?",
+            ru:"Где твоя кошка?"
+            },
+            {
+            id:81,
+            eng:"Donde esta su agenda?",
+            ru:"Где его ежедневник?"
+            },
+            {
+            id:82,
+            eng:"Donde esta nuestra gata?",
+            ru:"Где наша кошка?"
+            },
+            {
+            id:83,
+            eng:"Donde esta vuestra profesora?",
+            ru:"Где ваша (вас много) училка?"
+            },
+            {
+            id:84,
+            eng:"De donde es nuestra gata bonita?",
+            ru:"Откуда наша кошка красотка родом?"
+            },
+    ],
     spanish: [
         {
             id: 1,
