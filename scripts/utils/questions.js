@@ -37,6 +37,218 @@ const allQuestionsOneDeck = {
             ru	:	"семь"	
             }	,				
     ],
+    trickyTest1: [
+        {
+            id:1,
+            eng:"When is the New Year? What date? /дэйт/",
+            ru:"Когда новый год? Какого числа? The New year is on the 31st of December."
+            },
+            {
+            id:2,
+            eng:"What date is it today?",
+            ru:"Какое сегодня число? Today is THE + число (st,nd,rd,th) of (месяц)"
+            },
+            {
+            id:3,
+            eng:"When is your birthday?",
+            ru:"Когда твой день рождения? My birthday is on the 21st of February."
+            },
+            {
+            id:4,
+            eng:"The North is 'Север' what other parts of the world do you know?",
+            ru:"The West is 'Запад' . The East 'Восток' . The South 'Юг' "
+            },
+            {
+            id:5,
+            eng:"What board games do you like to play?",
+            ru:"Какие настольные игры тебе нравятся? "
+            },
+            {
+            id:6,
+            eng:"What names of the board games do you know?",
+            ru:"Какие названия настольных игр ты знаешь? "
+            },
+            {
+            id:7,
+            eng:"Does your family have board games? What board games do you have?",
+            ru:"У тебя в семье есть настольные игры? Какие настольные игры у вас есть? "
+            },
+            {
+            id:8,
+            eng:"Does your best friend like to play board games with you?",
+            ru:"Твой лучший друг любит играть в настольные игры с тобой? "
+            },
+            {
+            id:9,
+            eng:"What names of the card games do you know?",
+            ru:"Какие названия карточных игр ты знаешь? "
+            },
+            {
+            id:10,
+            eng:"Can you play Poker?",
+            ru:"Умеешь ли ты играть в покер? "
+            },
+            {
+            id:11,
+            eng:"Does anybody in your family play musical instruments?",
+            ru:"Кто-нибудь в твоей семье играет на музыкальных инструментах? "
+            },
+            {
+            id:12,
+            eng:"Do you know somebody who plays the guitar?",
+            ru:"Ты знаешь кого-то, кто играет на гитаре? "
+            },
+            {
+            id:13,
+            eng:"Do you know somebody who plays the piano?",
+            ru:"Ты знаешь кого-то, кто играет на пианино? "
+            },
+            {
+            id:14,
+            eng:"What musical instruments do you like to listen to?",
+            ru:"Какие музыкальные инструменты тебе нравится слушать? "
+            },
+            {
+            id:15,
+            eng:"Is it difficult to play Sea Fight in English language?",
+            ru:"Трудно ли играть в 'Морской бой' на английском языке? "
+            },
+            {
+            id:16,
+            eng:"What games do you have on your phone?",
+            ru:"Какие игры у тебя есть на телефоне? "
+            },
+            {
+            id:17,
+            eng:"Does your teacher give you interesting homework or boring homework?",
+            ru:"Твой учитель задает тебе интересные или скучные домашние задания? "
+            },
+            {
+            id:18,
+            eng:"Do children now like board games or mobile phone games?",
+            ru:"Дети сейчас предпочитают настольные игры или игры на мобильных телефонах? "
+            },
+            {
+            id:19,
+            eng:"What games did you like to play when you were a small child?",
+            ru:"В какие игры тебе нравилось играть, когда ты был маленьким ребенком? "
+            },
+            {
+            id:20,
+            eng:"What day of the week is it today?",
+            ru:"Какой сегодня день недели? "
+            },
+            {
+            id:21,
+            eng:"Do you usually win or lose when you play Sea Fight?",
+            ru:"Обычно ты выигрываешь или проигрываешь, когда играешь в 'Морской бой'? "
+            },
+            {
+            id:22,
+            eng:"Does anybody in your family like to draw? /дрО/",
+            ru:"Кто-нибудь в твоей семье любит рисовать? "
+            },
+            {
+            id:23,
+            eng:"How many teeth do you have now in your mouth?",
+            ru:"Сколько зубов у тебя сейчас во рту? "
+            },
+            {
+            id:24,
+            eng:"What tattoos do you have and where?",
+            ru:"Какие татуировки у тебя есть и где они расположены? "
+            },
+            {
+            id:25,
+            eng:"Do all people have 32 teeth?",
+            ru:"У всех людей 32 зуба? "
+            },
+            {
+            id:26,
+            eng:"How many ribs (рёбра) does a man have?",
+            ru:"Сколько рёбер у человека? "
+            },
+            {
+            id:27,
+            eng:"How much memory does your phone have?",
+            ru:"Сколько памяти в твоем телефоне? "
+            },
+            {
+            id:28,
+            eng:"What is your phone number?",
+            ru:"Какой у тебя номер телефона? "
+            },
+            {
+            id:29,
+            eng:"What phone do you have? Is it AN iPhone or AN android?",
+            ru:"Какой у тебя телефон? Это iPhone или Android? "
+            },
+            {
+            id:30,
+            eng:"What color is your phone?",
+            ru:"Какого цвета твой телефон? "
+            },
+            {
+            id:31,
+            eng:"What picture do you have on the screen of your phone?",
+            ru:"Какая картинка у тебя на экране телефона? "
+            },
+            {
+            id:32,
+            eng:"Who is the youngest person in your family?",
+            ru:"Кто самый младший человек в твоей семье? "
+            },
+            {
+            id:33,
+            eng:"Who is the smartest person in your family?",
+            ru:"Кто самый умный человек в твоей семье? "
+            },
+            {
+            id:34,
+            eng:"Are you a lucky person when you play board games?",
+            ru:"Ты везучий человек, когда играешь в настольные игры "
+            },
+            {
+            id:35,
+            eng:"When is Christmas? What date?",
+            ru:"Когда Рождество? Какая дата? "
+            },
+            {
+            id:36,
+            eng:"How tall are you? How many centimetres?",
+            ru:"Какого ты роста? Сколько сантиметров? "
+            },
+            {
+            id:37,
+            eng:"Does your teacher like ice-cream?",
+            ru:"Любит ли твой учитель мороженое? "
+            },
+            {
+            id:38,
+            eng:"Does your teacher like you?",
+            ru:"Твой учитель тебя любит? "
+            },
+            {
+            id:39,
+            eng:"What musical instruments does your teacher play?",
+            ru:"На каких музыкальных инструментах играет твой учитель? "
+            },
+            {
+            id:40,
+            eng:"What present do you want to get from Santa?",
+            ru:"Какой подарок ты хочешь получить от Санты? "
+            },
+            {
+            id:41,
+            eng:"Is Santa Claus real?",
+            ru:"/сЭнта клОз/ настоящий? Реален? "
+            },
+            {
+            id:42,
+            eng:"Do you know any poems by heart? / бАй хАрт/ наизусть",
+            ru:"Ты знаешь какое-нибудь стихотворение наизусть? "
+            },			
+    ],
     gerund: [
         {
             id:1,
