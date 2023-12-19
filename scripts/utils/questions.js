@@ -247,7 +247,117 @@ const allQuestionsOneDeck = {
             id:42,
             eng:"Do you know any poems by heart? / бАй хАрт/ наизусть",
             ru:"Ты знаешь какое-нибудь стихотворение наизусть? "
-            },			
+            },
+            {
+            id:43,
+            eng:"When is the Halloween holiday?",
+            ru:"Когда празднуется Хэллоуин?  "
+            },
+            {
+            id:44,
+            eng:"What date was it yesterday?",
+            ru:"Какая дата была вчера?  "
+            },
+            {
+            id:45,
+            eng:"When is your teacher’s birthday? ",
+            ru:"Когда днюха у Винсента? "
+            },
+            {
+            id:46,
+            eng:"When is your best friend’s birthday?",
+            ru:"Когда у вашего лучшего друга день рождения?  "
+            },
+            {
+            id:47,
+            eng:"Do you remember the birthdays of your relatives?",
+            ru:"Вы помните дни рождения ваших родственников?  "
+            },
+            {
+            id:48,
+            eng:"Are you sad & upset when people forget about your b.d.?",
+            ru:"Вы грустите и расстраиваетесь, когда люди забывают ваш день рождения?  "
+            },
+            {
+            id:49,
+            eng:"What dates and names of holidays do you remember beside the New Year and Christmas?",
+            ru:"Какие даты и названия праздников вы помните помимо Нового года и Рождества? "
+            },
+            {
+            id:50,
+            eng:"How do you remember so many dates?",
+            ru:"Как вы запоминаете так много дат и чисел?  "
+            },
+            {
+            id:51,
+            eng:"What do people usually do to remember English words?",
+            ru:"Что обычно делают люди, чтобы запомнить английские слова?  "
+            },
+            {
+            id:52,
+            eng:"How to remember that spring is весна and fall is осень?",
+            ru:"Как запомнить, что spring - это ‘весна’, и ‘fall’ - это ‘осень’? "
+            },
+            {
+            id:53,
+            eng:"What seasons do you know? What season is your favorite?",
+            ru:"Какие сезоны (времена года) вы знаете? Какое время года (сезон) ваш любимый?  "
+            },
+            {
+            id:54,
+            eng:"Dec., Febr., and January are the months of what season?",
+            ru:"Декабрь, февраль и январь - это месяцы какого сезона?  "
+            },
+            {
+            id:55,
+            eng:"What months are in autumn? (autumn – осень в Британии)",
+            ru:"Какие месяцы относятся к осени? (autumn - осень в Британии)  "
+            },
+            {
+            id:56,
+            eng:"What months does fall have? (fall – осень в Америке)",
+            ru:"Какие месяцы входят в осень? (fall - осень в Америке)  "
+            },
+            {
+            id:57,
+            eng:"March, April, and May are the months of what season?",
+            ru:"Март, апрель и май - это месяцы какого сезона?  "
+            },
+            {
+            id:58,
+            eng:"June, July, and August are the months of what season?",
+            ru:"Июнь, июль и август - это месяцы какого сезона?  "
+            },
+            {
+            id:59,
+            eng:"Sept., Oct., and November are the months of what season?",
+            ru:"Сентябрь, октябрь и ноябрь - это месяцы какого сезона?  "
+            },
+            {
+            id:60,
+            eng:"What’s your favorite month of the year and why do u like it?",
+            ru:"Какой ваш любимый месяц в году и почему он вам нравится?  "
+            },
+            {
+            id:61,
+            eng:"What day of the week was yesterday?",
+            ru:"Какой день недели был вчера?  "
+            },
+            {
+            id:62,
+            eng:"What day of the week will be tomorrow?",
+            ru:"Какой день недели будет завтра?  "
+            },
+            {
+            id:63,
+            eng:"What date will be tomorrow?",
+            ru:"Какая дата будет завтра? "
+            },
+            {
+            id:64,
+            eng:"What month is the shortest?",
+            ru:"Какой месяц самый короткий? "
+            },		
     ],
     gerund: [
         {
