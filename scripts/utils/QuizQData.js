@@ -329,6 +329,268 @@ const quizQuesstionsList = {
             ]
             },
     ],
+    clothes: [
+        {
+            id: 1,
+            quizQuestion: "___ there by six o'clock.",
+            answers: [
+            {
+            answer: "be",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "will",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "What ___ you do? – I'm an engineer. And you?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "will",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "I ___ probably stay home tonight.",
+            answers: [
+            {
+            answer: "will",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "I didn't go to the meeting because I___ a headache.",
+            answers: [
+            {
+            answer: "had",
+            correct: true
+            },
+            {
+            answer: "did",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "would",
+            correct: false
+            },
+            {
+            answer: "will",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "What ___ they doing?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "will",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "___ you help him to carry it, please? It is heavy.",
+            answers: [
+            {
+            answer: "will",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "did",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "He ___ leaving next week.",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            {
+            answer: "will",
+            correct: false
+            },
+            {
+            answer: "were",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "She can't talk with you now because she ___ have time. She has to go to work now.",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "hasn't",
+            correct: false
+            },
+            {
+            answer: "haven't",
+            correct: false
+            },
+            {
+            answer: "isn't",
+            correct: false
+            },
+            {
+            answer: "won't",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Can you call me a little later? We ___ dinner now.",
+            answers: [
+            {
+            answer: "are having",
+            correct: true
+            },
+            {
+            answer: "were doing",
+            correct: false
+            },
+            {
+            answer: "are being",
+            correct: false
+            },
+            {
+            answer: "will be",
+            correct: false
+            },
+            {
+            answer: "having",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "I ___  ___ 212 letters to Santa!",
+            answers: [
+            {
+            answer: "have written",
+            correct: true
+            },
+            {
+            answer: "have writing",
+            correct: false
+            },
+            {
+            answer: "am write",
+            correct: false
+            },
+            {
+            answer: "will be",
+            correct: false
+            },
+            {
+            answer: "wrote a",
+            correct: false
+            },
+            ]
+            },
+    ],
     sara: [
         {
             id: 1,

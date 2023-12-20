@@ -359,6 +359,463 @@ const allQuestionsOneDeck = {
             ru:"Какой месяц самый короткий? "
             },		
     ],
+    clothes: [
+        {
+            id:1,
+            eng:"What color is your winter hat?",
+            ru:"Какого цвета ваша зимняя шапка?  "
+            },
+            {
+            id:2,
+            eng:"How often do you wear a wool hat?",
+            ru:"Как часто вы носите шерстяную или вязанную шапку?  "
+            },
+            {
+            id:3,
+            eng:"Do you have clothes with the hood?",
+            ru:"У вас есть одежда с капюшоном?  "
+            },
+            {
+            id:4,
+            eng:"In what sports do people need to wear a helmet?",
+            ru:"В каких видах спорта людям нужно шлем?  "
+            },
+            {
+            id:5,
+            eng:"What does a king usually have on his head?",
+            ru:"Что обычно носит король на голове? "
+            },
+            {
+            id:6,
+            eng:"What does a queen usually have on her head?",
+            ru:"Что обычно носит королева на голове?  "
+            },
+            {
+            id:7,
+            eng:"Does anybody in your family wear glasses or contact lenses? Who?",
+            ru:"Кто-нибудь из вашей семьи носит очки или контактные линзы? Кто?  "
+            },
+            {
+            id:8,
+            eng:"How many pairs of sunglasses do you have?",
+            ru:"Сколько у вас пар солнцезащитных очков?  "
+            },
+            {
+            id:9,
+            eng:"Do you like to wear a scarf?",
+            ru:"Вам нравится носить шарф?  "
+            },
+            {
+            id:10,
+            eng:"Can you tie a tie?",
+            ru:"Умеете ли вы завязывать галстук?  "
+            },
+            {
+            id:11,
+            eng:"Do you like when a man wears a tie?",
+            ru:"Вам нравится, когда мужчина носит галстук?  "
+            },
+            {
+            id:12,
+            eng:"How often do you wear a suit?",
+            ru:"Как часто вы носите костюм?  "
+            },
+            {
+            id:13,
+            eng:"Do you like to wear a shirt with a tie or without a tie?",
+            ru:"Вам нравится носить рубашку с галстуком или без галстука?  "
+            },
+            {
+            id:14,
+            eng:"How many rings are you wearing now? How many rings do you have in general?",
+            ru:"Сколько колец на вас прямо сейчас надето? Сколько колец у вас вообще есть?  "
+            },
+            {
+            id:15,
+            eng:"Do you have earings in your ears?",
+            ru:"У вас есть серьги в ушах?  "
+            },
+            {
+            id:16,
+            eng:"Is it sexy when a woman wears a tie?",
+            ru:"Считаете ли вы сексуальным, когда женщина носит галстук?  "
+            },
+            {
+            id:17,
+            eng:"Does your backpack have English words on it?",
+            ru:"На вашем рюкзаке есть английские слова?  "
+            },
+            {
+            id:18,
+            eng:"Do you wear a watch on the left or right hand?",
+            ru:"Вы носите часы на левой или правой руке?  "
+            },
+            {
+            id:19,
+            eng:"Do you have a plastic bag for other plastic bags at home?",
+            ru:"У вас есть пластиковый пакет для других пластиковых пакетов дома?  "
+            },
+            {
+            id:20,
+            eng:"Do you wear a necklace? Maybe a cross with Jesus?",
+            ru:"Вы носите что-нибудь на шее? Может быть, крестик с Иисусом?  "
+            },
+            {
+            id:21,
+            eng:"When do people usually wear mittens and gloves?",
+            ru:"Когда люди обычно носят варежки и перчатки?  "
+            },
+            {
+            id:22,
+            eng:"What are you wearing now? Tell about all clothes that are on you.",
+            ru:"Что вы сейчас носите? Что на вас надето? Расскажите о всей одежде, которая на вас.  "
+            },
+            {
+            id:23,
+            eng:"How often do you carry a backpack with you?",
+            ru:"Как часто вы носите рюкзак с собой?  "
+            },
+            {
+            id:24,
+            eng:"What is more comfortable for you: shirts or t-shirts?",
+            ru:"Что для вас удобнее: рубашки или футболки?  "
+            },
+            {
+            id:25,
+            eng:"How many white shirts do you have?",
+            ru:"Сколько у вас белых рубашек? "
+            },
+            {
+            id:26,
+            eng:"What color is your swimming suit?",
+            ru:"Какого цвета ваш купальник?  "
+            },
+            {
+            id:27,
+            eng:"Do you have a special classical suit for important meetings?",
+            ru:"У вас есть особый классический костюм для важных встреч?  "
+            },
+            {
+            id:28,
+            eng:"Where can people find a life-vest when they fly on a plane?",
+            ru:"Где люди могут найти спасательный жилет, когда летят на самолете?  "
+            },
+            {
+            id:29,
+            eng:"What color is your jacket? Do you remember the name of the brand?",
+            ru:"Какого цвета ваша куртка? Вы помните название бренда?  "
+            },
+            {
+            id:30,
+            eng:"What are your favorite clothes? You can choose only 4",
+            ru:"Какая ваша любимая одежда? Вы можете выбрать только 4.  "
+            },
+            {
+            id:31,
+            eng:"Do you have a fur coat? Do you remember the name of the animal it is made of?",
+            ru:"У вас есть шуба из меха? Вы помните, из какого животного она сделана?  "
+            },
+            {
+            id:32,
+            eng:"How many sweaters do you have?",
+            ru:"Сколько свитеров у вас есть?  "
+            },
+            {
+            id:33,
+            eng:"Is it cold in your city in winter? Do I need warm clothes if I visit you?",
+            ru:"В вашем городе холодно зимой? Мне нужна теплая одежда, если я к тебе приеду?  "
+            },
+            {
+            id:34,
+            eng:"Do you like t-shirts with pictures or without pictures?",
+            ru:"Вам нравятся футболки с картинками или без картинок?  "
+            },
+            {
+            id:35,
+            eng:"Does a woman look attractive when she weears a skirt and high heels?",
+            ru:"Женщина выглядит привлекательно, когда носит юбку и высокие каблуки?  "
+            },
+            {
+            id:36,
+            eng:"Does anybody in our class have a bra?",
+            ru:"Есть ли у кого-нибудь в нашем классе бюстгальтер?  "
+            },
+            {
+            id:37,
+            eng:"How many buttons do you have on your clothes right now?",
+            ru:"Сколько пуговиц у вас на одежде прямо сейчас?  "
+            },
+            {
+            id:38,
+            eng:"What do you say to a person whose pants are undone?",
+            ru:"Что вы говорите человеку у которого расстегнуты штаны? "
+            },
+            {
+            id:39,
+            eng:"Whaе is the English for 'собачка на молнии'?",
+            ru:"Как по-английски сказать 'zipper'? "
+            },
+            {
+            id:40,
+            eng:"How many belts do you have?",
+            ru:"Сколько у тебя ремней? "
+            },
+            {
+            id:41,
+            eng:"What color is your underwear now? Do you have it?",
+            ru:"Какого цвета нижнее бельё на вас сейчас? "
+            },
+            {
+            id:42,
+            eng:"Do you wear warm underwear in winter?",
+            ru:"Вы носите термобельё зимой? "
+            },
+            {
+            id:43,
+            eng:"Are you wearing pants now?",
+            ru:"На вас сейчас штаны надеты? "
+            },
+            {
+            id:44,
+            eng:"Do you like jeans or trousers more?",
+            ru:"Вам больше нравятся брюки или джинсы? "
+            },
+            {
+            id:45,
+            eng:"When do people wear a shirt and shorts?",
+            ru:"Когда люди обычно носят рубашку и шорты? "
+            },
+            {
+            id:46,
+            eng:"What color are your favorite shoes?",
+            ru:"Какого цвета твоя любимая обувь? "
+            },
+            {
+            id:47,
+            eng:"Does your girlfriend wear high heels?",
+            ru:"Твоя девушка носит туфли на высоком каблуке? "
+            },
+            {
+            id:48,
+            eng:"Do you like boots or sneakers more?",
+            ru:"Тебе больше нравятся сапоги или кроссовки? "
+            },
+            {
+            id:49,
+            eng:"What do you put on when you go to the GYM?",
+            ru:"Что ты надеваешь, когда идешь в спортзал? "
+            },
+            {
+            id:50,
+            eng:"What does a man wear when he goes to a restaurant?",
+            ru:"Что носит мужчина, когда идет в ресторан? "
+            },
+            {
+            id:51,
+            eng:"What do you wear when you go to a romantic dinner?",
+            ru:"Что ты надеваешь, когда идешь на романтический ужин? "
+            },
+            {
+            id:52,
+            eng:"What color are your slippers?",
+            ru:"Какого цвета твои тапочки? "
+            },
+            {
+            id:53,
+            eng:"What color are your flip-flops?",
+            ru:"Какого цвета твои шлепанцы? "
+            },
+            {
+            id:54,
+            eng:"Do you always wear the same color socks or sometimes one sock is black and one is brown?",
+            ru:"Всегда ли ты носишь одноцветные носки или иногда одна носка черная, а другая коричневая? "
+            },
+            {
+            id:55,
+            eng:"Do you like to tuck your shirt in pants or you prefer not to tuck it.",
+            ru:"Тебе нравится заправлять рубашку в брюки или ты предпочитаешь не заправлять ее? "
+            },
+            {
+            id:56,
+            eng:"How much money do people usually spend on clothes in one year?",
+            ru:"Сколько денег люди обычно тратят на одежду в год? "
+            },
+            {
+            id:57,
+            eng:"What clothes does your teacher like to wear?",
+            ru:"Какую одежду носит твой учитель? "
+            },
+            {
+            id:58,
+            eng:"How many pairs of shoes do you have?",
+            ru:"Сколько пар обуви у тебя есть? "
+            },
+            {
+            id:59,
+            eng:"Do you like shopping for new clothes?",
+            ru:"Тебе нравится ходить по магазинам за новой одеждой? "
+            },
+            {
+            id:60,
+            eng:"How often do you buy new clothes?",
+            ru:"Как часто ты покупаешь новую одежду? "
+            },
+            {
+            id:61,
+            eng:"How do you usually buy clothes? On-line or go to the shop?",
+            ru:"Как обычно ты покупаешь одежду? Онлайн или ходишь в магазин? "
+            },
+            {
+            id:62,
+            eng:"Can men wear skirts? Is it okay for you?",
+            ru:"Могут ли мужчины носить юбки? Тебе это нормально? "
+            },
+            {
+            id:63,
+            eng:"How many pairs of shorts do you have?",
+            ru:"Сколько пар шорт у тебя есть? "
+            },
+            {
+            id:64,
+            eng:"Whydo people read fashion magazines? Do you follow fashion?",
+            ru:"Почему люди читают модные журналы? Ты следишь за модой? "
+            },
+            {
+            id:65,
+            eng:"How often do you wear rings?",
+            ru:"Как часто ты носишь кольца? "
+            },
+            {
+            id:66,
+            eng:"How often do you wear bracelets?",
+            ru:"Как часто ты носишь браслеты? "
+            },
+            {
+            id:67,
+            eng:"Is it okay to wear the same clothes every day?",
+            ru:"нормально ли носить одну и туже одежду каждый день? "
+            },
+            {
+            id:68,
+            eng:"What is the best combination of colors to put on?",
+            ru:"Какая комбинация цветов одежды лучше всего выглядит? "
+            },
+            {
+            id:69,
+            eng:"Do you have any clothes from your elder brothers or sisters?",
+            ru:"У тебя есть одежда от старших братьев или сестер? "
+            },
+            {
+            id:70,
+            eng:"Do you have funny clothes? Maybe with funny pictures or words?",
+            ru:"У тебя есть забавная одежда? Может быть с забавными картинками или надписями? "
+            },
+            {
+            id:71,
+            eng:"What colors do you think look good on you?",
+            ru:"Какие цвета, по-твоему, тебе идут? "
+            },
+            {
+            id:72,
+            eng:"What colors do you think look good on your mother?",
+            ru:"Какие цвета, по-твоему, хорошо смотрятся на твоей маме? "
+            },
+            {
+            id:73,
+            eng:"Does any of your friends wear unusual color of hair?",
+            ru:"У твоих друзей кто-нибудь красит волосы в необычный цвет? "
+            },
+            {
+            id:74,
+            eng:"What size of clothes do you wear? XS, S, M, L or XL ?",
+            ru:"Какой размер одежды ты носишь? XS, S, M, L или XL? "
+            },
+            {
+            id:75,
+            eng:"What is your shoe size?",
+            ru:"Какой у тебя размер обуви? "
+            },
+            {
+            id:76,
+            eng:"What is the name of your favorite clothes shop?",
+            ru:"Как называется твой любимый магазин одежды? "
+            },
+            {
+            id:77,
+            eng:"Is your teacher a super-model?",
+            ru:"Твой учитель - супермодель? "
+            },
+            {
+            id:78,
+            eng:"Do you like long dresses or short dresses?",
+            ru:"Тебе нравятся длинные платья или короткие? "
+            },
+            {
+            id:79,
+            eng:"Is it okay for children to wear mini-skirts?",
+            ru:"Можно ли детям носить мини-юбки? "
+            },
+            {
+            id:80,
+            eng:"Can you take off your clothes now? (please, don't do it!)",
+            ru:"Ты можешь снять свою одежду сейчас? (пожалуйста, не делай это!) "
+            },
+            {
+            id:81,
+            eng:"What do you recommend me to put on if I go to a romantic dinner with Vincent?",
+            ru:"Что ты рекомендуешь мне надеть, если я пойду на романтический ужин с Винсентом? "
+            },
+            {
+            id:82,
+            eng:"Do you have tattoos? What and where is it?",
+            ru:"У тебя есть татуировки? Что и где они находятся? "
+            },
+            {
+            id:83,
+            eng:"Do you know someone with a tattoo?",
+            ru:"Ты знаешь кого-то с татуировкой? "
+            },
+            {
+            id:84,
+            eng:"Does your child have a tattoo 'I LOVE MOTHER'? Do you have this tattoo?",
+            ru:"У твоего ребенка есть татуировка 'Я ЛЮБЛЮ МАМУ'? У тебя есть такая татуировка? "
+            },
+            {
+            id:85,
+            eng:"How often do you wear make up?",
+            ru:"Как часто ты носишь макияж? "
+            },
+            {
+            id:86,
+            eng:"When is the best time to go to a shop and buy clothes?",
+            ru:"Когда лучшее время пойти в магазин и купить одежду? "
+            },
+            {
+            id:87,
+            eng:"Is it okay for men to wear earrings?",
+            ru:"Можно ли мужчинам носить серьги? "
+            },
+            {
+            id:88,
+            eng:"Do men wear make-up sometimes?",
+            ru:"Бывает ли, что мужчины наносят макияж? "
+            },
+            {
+            id:89,
+            eng:"I like your clothes! Where did you buy it?",
+            ru:"Мне нравится твоя одежда! Где ты ее купил? "
+            },
+            {
+            id:90,
+            eng:"What brands of clothes are very expensive?",
+            ru:"Какие бренды одежды очень дорогие? "
+            },
+            {
+            id:91,
+            eng:"Are you a shopaholic?",
+            ru:"Ты шопоголик? "
+            },
+    ],
     gerund: [
         {
             id:1,

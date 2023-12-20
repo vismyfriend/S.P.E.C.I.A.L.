@@ -37,6 +37,328 @@ const allWordsForGameTypeOrWrite = {
             ru	:	"семь"	
             }	,				
     ],
+    clothes: [
+        {
+            id:1,
+            eng:"a hat",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches",
+            ru:"наручные часы"
+            },
+            {
+            id:19,
+            eng:"a bag",
+            ru:"сумка"
+            },
+            {
+            id:20,
+            eng:"a purse",
+            ru:"сумочка дамская"
+            },
+            {
+            id:21,
+            eng:"a plastic bag",
+            ru:"пластиковый пакет"
+            },
+            {
+            id:22,
+            eng:"a necklace",
+            ru:"любое украшение на шее"
+            },
+            {
+            id:23,
+            eng:"mittens on a rope",
+            ru:"варежки на верёвочке"
+            },
+            {
+            id:24,
+            eng:"a top",
+            ru:"верх"
+            },
+            {
+            id:25,
+            eng:"a shirt ",
+            ru:"рубашка"
+            },
+            {
+            id:26,
+            eng:"a t-shirt ",
+            ru:"футболка"
+            },
+            {
+            id:27,
+            eng:"a suit",
+            ru:"костюм"
+            },
+            {
+            id:28,
+            eng:"a vest",
+            ru:"жилетка"
+            },
+            {
+            id:29,
+            eng:"a jacket",
+            ru:"пиджак, куртка"
+            },
+            {
+            id:30,
+            eng:"a coat",
+            ru:"пальто"
+            },
+            {
+            id:31,
+            eng:"a fur coat",
+            ru:"шуба"
+            },
+            {
+            id:32,
+            eng:"a sweater",
+            ru:"кофта, свитер"
+            },
+            {
+            id:33,
+            eng:"long sleeves",
+            ru:"длинные рукава"
+            },
+            {
+            id:34,
+            eng:"a blouse",
+            ru:"чёт женское"
+            },
+            {
+            id:35,
+            eng:"a skirt",
+            ru:"юбка"
+            },
+            {
+            id:36,
+            eng:"a bra",
+            ru:"бюстгалтер"
+            },
+            {
+            id:37,
+            eng:"straps",
+            ru:"лямки, ремешки"
+            },
+            {
+            id:38,
+            eng:"buttons",
+            ru:"пуговицы"
+            },
+            {
+            id:39,
+            eng:"a zipper",
+            ru:"собачка на молнии"
+            },
+            {
+            id:40,
+            eng:"a belt",
+            ru:"ремень"
+            },
+            {
+            id:41,
+            eng:"underwear",
+            ru:"нижн. белье"
+            },
+            {
+            id:42,
+            eng:"warm underwear ",
+            ru:"термобельё"
+            },
+            {
+            id:43,
+            eng:"pants",
+            ru:"любые штаны можно так назвать"
+            },
+            {
+            id:44,
+            eng:"under pants",
+            ru:"трусишки, трусики, трусы, плавки"
+            },
+            {
+            id:45,
+            eng:"jeans ",
+            ru:"джинсы"
+            },
+            {
+            id:46,
+            eng:"trousers",
+            ru:"брюки"
+            },
+            {
+            id:47,
+            eng:"shorts",
+            ru:"шортики"
+            },
+            {
+            id:48,
+            eng:"shoes",
+            ru:"любая обувь & конкретно туфли"
+            },
+            {
+            id:49,
+            eng:"high heels",
+            ru:"высокие каблуки (дословно пятки)"
+            },
+            {
+            id:50,
+            eng:"boots",
+            ru:"ботинки, сапоги"
+            },
+            {
+            id:51,
+            eng:"trainers or sneakers",
+            ru:"кеды, кроссовки"
+            },
+            {
+            id:52,
+            eng:"slippers",
+            ru:"тапочки и носочки"
+            },
+            {
+            id:53,
+            eng:"flip-flops",
+            ru:"шлёпки, шлёпанцы, тапки"
+            },
+            {
+            id:54,
+            eng:"socks",
+            ru:"носки"
+            },
+            {
+            id:55,
+            eng:"tuck your clothes in",
+            ru:"заправь одежду"
+            },
+            {
+            id:56,
+            eng:"clothes",
+            ru:"одежда"
+            },
+            {
+            id:57,
+            eng:"put on",
+            ru:"надевать"
+            },
+            {
+            id:58,
+            eng:"take off",
+            ru:"снимать"
+            },
+            {
+            id:59,
+            eng:"do and undo",
+            ru:"застегнуть и расстегнуть"
+            },
+            {
+            id:60,
+            eng:"carry",
+            ru:"нести в руках"
+            },
+            {
+            id:61,
+            eng:"wear",
+            ru:"носить, одевать"
+            },
+            {
+            id:62,
+            eng:"undone",
+            ru:"расстегнутый"
+            },
+            {
+            id:63,
+            eng:"your zip is undone",
+            ru:"у вас молния расстегнута"
+            },
+            {
+            id:64,
+            eng:"stockings",
+            ru:"чулки"
+            },
+    ],
     gerund: [
         {
             id:1,
