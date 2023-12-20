@@ -332,260 +332,494 @@ const quizQuesstionsList = {
     clothes: [
         {
             id: 1,
-            quizQuestion: "___ there by six o'clock.",
+            quizQuestion: "Как на английском сказать: Надеть",
             answers: [
             {
-            answer: "be",
+            answer: "put on и wear",
             correct: true
             },
             {
-            answer: "do",
+            answer: "take off",
             correct: false
             },
             {
-            answer: "have",
+            answer: "carry",
             correct: false
             },
             {
-            answer: "will",
+            answer: "wearing",
             correct: false
             },
             {
-            answer: "was",
+            answer: "on children",
             correct: false
             },
             ]
             },
             {
             id: 2,
-            quizQuestion: "What ___ you do? – I'm an engineer. And you?",
+            quizQuestion: "Как на английском сказать: Одеть",
             answers: [
             {
-            answer: "do",
+            answer: "put on и wear",
             correct: true
             },
             {
-            answer: "have",
+            answer: "put in",
             correct: false
             },
             {
-            answer: "will",
+            answer: "carry",
             correct: false
             },
             {
-            answer: "was",
+            answer: "wearing",
             correct: false
             },
             {
-            answer: "are",
+            answer: "clothes",
             correct: false
             },
             ]
             },
             {
             id: 3,
-            quizQuestion: "I ___ probably stay home tonight.",
+            quizQuestion: "Как на английском сказать: Надеть одежду",
             answers: [
             {
-            answer: "will",
+            answer: "put on clothes",
             correct: true
             },
             {
-            answer: "am",
+            answer: "wear in clothes",
             correct: false
             },
             {
-            answer: "do",
+            answer: "take off clothes",
             correct: false
             },
             {
-            answer: "have",
+            answer: "Nadya, get dressed now!",
             correct: false
             },
             {
-            answer: "was",
+            answer: "dress",
             correct: false
             },
             ]
             },
             {
             id: 4,
-            quizQuestion: "I didn't go to the meeting because I___ a headache.",
+            quizQuestion: "Как на английском сказать: Одеваться",
             answers: [
             {
-            answer: "had",
+            answer: "get dressed",
             correct: true
             },
             {
-            answer: "did",
+            answer: "take off",
             correct: false
             },
             {
-            answer: "was",
+            answer: "undress",
             correct: false
             },
             {
-            answer: "would",
+            answer: "wear clothes",
             correct: false
             },
             {
-            answer: "will",
+            answer: "putting on",
             correct: false
             },
             ]
             },
             {
             id: 5,
-            quizQuestion: "What ___ they doing?",
+            quizQuestion: "Сними эту рубаху, она грязная!",
             answers: [
             {
-            answer: "are",
+            answer: "Take off this shirt, it is dirty!",
             correct: true
             },
             {
-            answer: "do",
+            answer: "Take off this shirt, she is dirty!",
             correct: false
             },
             {
-            answer: "have",
+            answer: "Take off this shorts, they are dirty!",
             correct: false
             },
             {
-            answer: "will",
+            answer: "Take off this t-shirt, she is dirty!",
             correct: false
             },
             {
-            answer: "was",
+            answer: "Take off this t-shirt, it is dirty!",
             correct: false
             },
             ]
             },
             {
             id: 6,
-            quizQuestion: "___ you help him to carry it, please? It is heavy.",
+            quizQuestion: "Cними это сейчас же!",
             answers: [
             {
-            answer: "will",
+            answer: "Take it off, right now!",
             correct: true
             },
             {
-            answer: "have",
+            answer: "Put it on, right now!",
             correct: false
             },
             {
-            answer: "do",
+            answer: "Undo this, right now!",
             correct: false
             },
             {
-            answer: "are",
+            answer: "Take off your pants, right now!",
             correct: false
             },
             {
-            answer: "did",
+            answer: "Be naked, right now!",
             correct: false
             },
             ]
             },
             {
             id: 7,
-            quizQuestion: "He ___ leaving next week.",
+            quizQuestion: "Расстегни мой бюстгалтер",
             answers: [
             {
-            answer: "is",
+            answer: "Undo my bra",
             correct: true
             },
             {
-            answer: "does",
+            answer: "Redo my bra",
             correct: false
             },
             {
-            answer: "has",
+            answer: "Do my bra",
             correct: false
             },
             {
-            answer: "will",
+            answer: "Zip my bra",
             correct: false
             },
             {
-            answer: "were",
+            answer: "Undone my bra",
             correct: false
             },
             ]
             },
             {
             id: 8,
-            quizQuestion: "She can't talk with you now because she ___ have time. She has to go to work now.",
+            quizQuestion: "У вас молния расстегнута",
             answers: [
             {
-            answer: "doesn't",
+            answer: "Your zip is undone",
             correct: true
             },
             {
-            answer: "hasn't",
+            answer: "Your buttons are undone",
             correct: false
             },
             {
-            answer: "haven't",
+            answer: "Your zipper is out",
             correct: false
             },
             {
-            answer: "isn't",
+            answer: "Your shop is open",
             correct: false
             },
             {
-            answer: "won't",
+            answer: "I see your ding-dong",
             correct: false
             },
             ]
             },
             {
             id: 9,
-            quizQuestion: "Can you call me a little later? We ___ dinner now.",
+            quizQuestion: "Винсент! Застегни молнию!",
             answers: [
             {
-            answer: "are having",
+            answer: "Vincent, zip up your pants!",
             correct: true
             },
             {
-            answer: "were doing",
+            answer: "Vincent, I see your bottom!",
             correct: false
             },
             {
-            answer: "are being",
+            answer: "Vincent, put on your pants!",
             correct: false
             },
             {
-            answer: "will be",
+            answer: "Teacher Winston, do your buttons!",
             correct: false
             },
             {
-            answer: "having",
+            answer: "Vincent, close the storm",
             correct: false
             },
             ]
             },
             {
             id: 10,
-            quizQuestion: "I ___  ___ 212 letters to Santa!",
+            quizQuestion: "На мне надет галстук",
             answers: [
             {
-            answer: "have written",
+            answer: "I'm wearing a tie",
             correct: true
             },
             {
-            answer: "have writing",
+            answer: "I'm carrying a tie",
             correct: false
             },
             {
-            answer: "am write",
+            answer: "I'm putting on a tie",
             correct: false
             },
             {
-            answer: "will be",
+            answer: "I put on a tie",
             correct: false
             },
             {
-            answer: "wrote a",
+            answer: "I am dressing a tie",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "Как на английском сказать: Голый",
+            answers: [
+            {
+            answer: "Naked",
+            correct: true
+            },
+            {
+            answer: "Sexy",
+            correct: false
+            },
+            {
+            answer: "Nature's clothes",
+            correct: false
+            },
+            {
+            answer: "Bald",
+            correct: false
+            },
+            {
+            answer: "take off clothes",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "На мне нет макияжа",
+            answers: [
+            {
+            answer: "I'm not wearing make-up",
+            correct: true
+            },
+            {
+            answer: "I'm note make-up",
+            correct: false
+            },
+            {
+            answer: "I don't make-up",
+            correct: false
+            },
+            {
+            answer: "I doesn't make-up",
+            correct: false
+            },
+            {
+            answer: "I haven't make-up",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "На нём нет макияжа",
+            answers: [
+            {
+            answer: "He isn't wearning make-up",
+            correct: true
+            },
+            {
+            answer: "He doesn't put on make up",
+            correct: false
+            },
+            {
+            answer: "He isn't make-up",
+            correct: false
+            },
+            {
+            answer: "He hasn't make up",
+            correct: false
+            },
+            {
+            answer: "He is not having make-up",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "На ней нет помады",
+            answers: [
+            {
+            answer: "She is not wearing lipstick",
+            correct: true
+            },
+            {
+            answer: "She hasn't lipstick",
+            correct: false
+            },
+            {
+            answer: "She isn't lipstick",
+            correct: false
+            },
+            {
+            answer: "She doesn't lipstick",
+            correct: false
+            },
+            {
+            answer: "She is ugly",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Что на тебе надето?",
+            answers: [
+            {
+            answer: "What are you wearing?",
+            correct: true
+            },
+            {
+            answer: "What are you wear?",
+            correct: false
+            },
+            {
+            answer: "What do you wearing?",
+            correct: false
+            },
+            {
+            answer: "What do you put on?",
+            correct: false
+            },
+            {
+            answer: "What is on your head?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Что ты обычно носишь дома?",
+            answers: [
+            {
+            answer: "What do you wear at home?",
+            correct: true
+            },
+            {
+            answer: "What are you wearing at home?",
+            correct: false
+            },
+            {
+            answer: "What do you dress at home?",
+            correct: false
+            },
+            {
+            answer: "What do you take off at home?",
+            correct: false
+            },
+            {
+            answer: "What do you carry at home?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Тебе идёт! Тебе это подходит!",
+            answers: [
+            {
+            answer: "It looks good! It looks good on you!",
+            correct: true
+            },
+            {
+            answer: "It goes to you! It comes you!",
+            correct: false
+            },
+            {
+            answer: "It looks nothing.",
+            correct: false
+            },
+            {
+            answer: "For you it goes! Clothes go you!",
+            correct: false
+            },
+            {
+            answer: "You go! You it come!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "Как на английском сказать: Кроссовки",
+            answers: [
+            {
+            answer: "Sneakers",
+            correct: true
+            },
+            {
+            answer: "Snickers",
+            correct: false
+            },
+            {
+            answer: "Snikers",
+            correct: false
+            },
+            {
+            answer: "Crossoffkiss",
+            correct: false
+            },
+            {
+            answer: "Basketball shoes",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Как произносится слово CLOTHES ?",
+            answers: [
+            {
+            answer: "/клОуз/",
+            correct: true
+            },
+            {
+            answer: "/клОувз/",
+            correct: false
+            },
+            {
+            answer: "/клОувзс/",
+            correct: false
+            },
+            {
+            answer: "/клОус/",
+            correct: false
+            },
+            {
+            answer: "/оудежда/",
             correct: false
             },
             ]
