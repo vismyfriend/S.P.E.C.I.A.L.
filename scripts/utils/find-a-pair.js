@@ -9032,70 +9032,100 @@ const allCardsGameFindAPair = {
     ],
     naughtyVerbs: [
         {
-            id: 225,
-            eng: "ломать",
-            ru: "break , broke , broken"
-        },
-        {
-            id: 226,
-            eng: "начинать",
-            ru: "begin , began , begun"
-        },
-        {
-            id: 227,
-            eng: "дуть",
-            ru: "blow , blew , blown"
-        },
-        {
-            id: 228,
-            eng: "строить",
-            ru: "build , built , built"
-        },
-        {
-            id: 229,
-            eng: "сжигать, гореть",
-            ru: "burn , burnt , burnt"
-        },
-        {
-            id: 230,
-            eng: "покупать",
-            ru: "buy , bought , bought"
-        },
-        {
-            id: 231,
-            eng: "приносить",
-            ru: "bring , brought , brought"
-        },
-        {
-            id: 232,
-            eng: "кусать",
-            ru: "bite , bit , bit"
-        },
-        {
-            id: 233,
-            eng: "делать, выполнять",
-            ru: "do, did, done"
-        },
-        {
-            id: 234,
-            eng: "пить, выпивать",
-            ru: "drink , drank , drunk"
-        },
-        {
-            id: 235,
-            eng: "нарушать обещания",
-            ru: "Break promises"
-        },
-        {
-            id: 236,
-            eng: "могу, мог",
-            ru: "can, could"
-        },
-        {
-            id: 237,
-            eng: "Разбивать какие-то вещи",
-            ru: "Break some things"
-        },
+            id:1,
+            eng:"break  /брэйк/, broke  /броук/, broken /броукэн/",
+            ru:"ломать, сломал, сломанный"
+            },
+            {
+            id:2,
+            eng:"do      /ду/ did      /дид/, done      /дан/",
+            ru:"делаю, делал, сделано"
+            },
+            {
+            id:3,
+            eng:"buy      /бай/ bought   /бот/, bought   /бот/ ",
+            ru:"купить, купил, куплено"
+            },
+            {
+            id:4,
+            eng:"drink  /дринк/, drank  /дрэнк/, drunk  /дранк/ ",
+            ru:"пить, пил, пьян"
+            },
+            {
+            id:5,
+            eng:"kiss   , kissed   , kissed ",
+            ru:"целовать, поцеловал, поцелованный"
+            },
+            {
+            id:6,
+            eng:"study   , studied   , studied ",
+            ru:"учить, учил, выучено"
+            },
+            {
+            id:7,
+            eng:"go     /гоу/, went    /уЭнт/, gone   /ган/ ",
+            ru:"ходить, ходил, ушедший"
+            },
+            {
+            id:8,
+            eng:"be     /би/ was     /воз/, were    /вё/ ",
+            ru:"быть, был, были"
+            },
+            {
+            id:9,
+            eng:"yesterday ",
+            ru:"вчера"
+            },
+            {
+            id:10,
+            eng:"today ",
+            ru:"сегодня"
+            },
+            {
+            id:11,
+            eng:"usually ",
+            ru:"обычно"
+            },
+            {
+            id:12,
+            eng:"sometimes ",
+            ru:"иногда"
+            },
+            {
+            id:13,
+            eng:"something ",
+            ru:"что-то"
+            },
+            {
+            id:14,
+            eng:"somebody ",
+            ru:"кто-то"
+            },
+            {
+            id:15,
+            eng:"never ",
+            ru:"никогда"
+            },
+            {
+            id:16,
+            eng:"every week ",
+            ru:"каждую неделю"
+            },
+            {
+            id:17,
+            eng:"when I was young ",
+            ru:"когда я был молод"
+            },
+            {
+            id:18,
+            eng:"when we were young ",
+            ru:"когда мы были молоды"
+            },
+            {
+            id:19,
+            eng:"in the past ",
+            ru:"в прошлом"
+            },
     ],
     thirtieth: [
         {
@@ -9653,9 +9683,7 @@ const allCardsGameFindAPair = {
             ru: "	1000000	"
         },
 
-    ],
-
-    
+    ], 
     q1: [
 
         {
@@ -9745,8 +9773,6 @@ const allCardsGameFindAPair = {
         },
 
     ],
-   
-   
     cook3: [
         {
             id: 1,
@@ -10547,7 +10573,6 @@ const allCardsGameFindAPair = {
 
 
     ],
-
     seasons: [
         {
             id: 1,

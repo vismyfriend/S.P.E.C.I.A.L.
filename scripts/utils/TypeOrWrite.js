@@ -6491,120 +6491,31 @@ allnaughtyverbsC1: [
     ],
     naughtyVerbs: [
         {
-            id:239,
-            eng:"Break",
-            ru:"Ломать"
+            id:21,
+            eng:"break",
+            ru:"ломать"
             },
             {
-            id:240,
-            eng:"Begin",
-            ru:"Начинать"
+            id:22,
+            eng:"do",
+            ru:"делать"
             },
             {
-            id:241,
-            eng:"Blow",
-            ru:"Дуть"
+            id:23,
+            eng:"broke",
+            ru:"сломал"
             },
             {
-            id:242,
-            eng:"Build",
-            ru:"Строить"
+            id:24,
+            eng:"did",
+            ru:"сделал"
             },
             {
-            id:243,
-            eng:"Burn",
-            ru:"Сжигать"
-            },
-            {
-            id:244,
-            eng:"Burnt",
-            ru:"Сгорел"
-            },
-            {
-            id:245,
-            eng:"Bring",
-            ru:"Приносить"
-            },
-            {
-            id:246,
-            eng:"Bite",
-            ru:"Кусать"
-            },
-            {
-            id:247,
-            eng:"Do",
-            ru:"Делать"
-            },
-            {
-            id:248,
-            eng:"Drink",
-            ru:"Пить"
-            },
-            {
-            id:249,
-            eng:"Drank",
-            ru:"Выпил"
-            },
-            {
-            id:250,
-            eng:"Can",
-            ru:"Могу"
-            },
-            {
-            id:251,
-            eng:"Could",
-            ru:"Мог"
-            },
-            {
-            id:252,
-            eng:"Broke",
-            ru:"Сломал"
-            },
-            {
-            id:253,
-            eng:"Began",
-            ru:"Начал"
-            },
-            {
-            id:254,
-            eng:"Built",
-            ru:"Построил"
-            },
-            {
-            id:255,
-            eng:"Burnt",
-            ru:"Сжег"
-            },
-            {
-            id:256,
-            eng:"Burnt",
-            ru:"Сгорел"
-            },
-            {
-            id:257,
-            eng:"Brought",
-            ru:"Принёс"
-            },
-            {
-            id:258,
-            eng:"Did",
-            ru:"Сделал"
-            },
-            {
-            id:259,
-            eng:"Done",
-            ru:"Сделано"
-            },
-            {
-            id:260,
+            id:25,
             eng:"Drunk",
             ru:"Пьяный"
             },		
-            {
-                id:261,
-                eng:"Bit",
-                ru:"Укусил"
-                },		
+            	
     ],
     formulas0: [
         {					

@@ -9010,194 +9010,179 @@ const allQuestionsOneDeck = {
     ], 
     naughtyVerbs: [
         {
-            id:116,
-            eng:"Did you break any parts of your body?",
-            ru:"Ты ломал какие-либо части своего тела?"
-            },
-            {
-            id:117,
-            eng:"Did you break any things at home or at work?",
-            ru:"Ты ломал что-нибудь дома или на работе?"
-            },
-            {
-            id:118,
-            eng:"How do you feel if somebody breaks your things?",
-            ru:"Как ты чувствуешь себя, если кто-то ломает твои вещи?"
-            },
-            {
-            id:119,
-            eng:"If I break a screen on my phone, can you fix it?",
-            ru:"Если я сломаю экран на своем телефоне, ты можешь его починить?"
-            },
-            {
-            id:120,
-            eng:"How often does your car breaks?",
-            ru:"Как часто твоя машина ломается?"
-            },
-            {
-            id:121,
-            eng:"What things are easy to break?",
-            ru:"Какие вещи легко ломаются?"
-            },
-            {
-            id:122,
-            eng:"What's your favorite food to bite?",
-            ru:"Что тебе больше всего нравится кусать из еды?"
-            },
-            {
-            id:123,
-            eng:"Do you sometimes bite your tongue / тан / ( язык ) when you eat something?",
-            ru:"Ты иногда прикусываешь себе язык, когда ешь что-нибудь?"
-            },
-            {
-            id:124,
-            eng:"When did you bite your tongue the last time?",
-            ru:"Когда ты в последний раз прикусывал язык?"
-            },
-            {
-            id:125,
-            eng:"Do you like when children play with you and bite u?",
-            ru:"Тебе нравится, когда дети играют с тобой и кусают?"
-            },
-            {
-            id:126,
-            eng:"Do you know anybody who bites their nails?",
-            ru:"Ты знаешь кого-то, кто грызет ногти?"
-            },
-            {
-            id:127,
-            eng:"Can you bite your elbow? /Элбоу/",
-            ru:"Можешь ли ты укусить локоть?"
-            },
-            {
-            id:128,
-            eng:"What do you really want to buy?",
-            ru:"Что ты действительно хочешь купить?"
-            },
-            {
-            id:129,
-            eng:"Is any thing broken at your house now?",
-            ru:"Что-нибудь сломано у вас в доме сейчас?"
-            },
-            {
-            id:130,
+            id:1,
             eng:"When did you buy your phone? ",
-            ru:"Когда ты купил свой телефон?"
+            ru:"Когда вы купили свой телефон?  "
             },
             {
-            id:131,
+            id:2,
+            eng:"Do you like your teacher of English?",
+            ru:"Вам нравится ваша училка английского? "
+            },
+            {
+            id:3,
+            eng:"How often do you break something?",
+            ru:"Как часто вы что-то ломаете?  "
+            },
+            {
+            id:4,
+            eng:"How often does your car break?",
+            ru:"Как часто ломается ваш автомобиль?  "
+            },
+            {
+            id:5,
+            eng:"When did you kiss somebody? Who was it?",
+            ru:"Когда вы целовались? Кто это был (с кем)? "
+            },
+            {
+            id:6,
+            eng:"Does the screen on your phone break sometimes?",
+            ru:"Экран на вашем телефоне разбивается иногда?  "
+            },
+            {
+            id:7,
+            eng:"Is the screen of your phone broken now?",
+            ru:"Сломан ли сейчас экран вашего телефона?  "
+            },
+            {
+            id:8,
+            eng:"If I break a screen on my phone, can you fix it?",
+            ru:"Если я сломаю экран на своем телефоне, можете ли вы его починить?  "
+            },
+            {
+            id:9,
+            eng:"Do you know anybody who drinks vodka?",
+            ru:"Вы знаете кого-нибудь, кто пьет водку?  "
+            },
+            {
+            id:10,
+            eng:"Do you drink Vodka?",
+            ru:"Вы пьете водку?  "
+            },
+            {
+            id:11,
+            eng:"Does Vincent drink with you behind the garages?",
+            ru:"Винсент пьет с вами за гаражами? "
+            },
+            {
+            id:12,
+            eng:"When did you drink Vodka first time?",
+            ru:"Когда вы впервые попробовали водку? "
+            },
+            {
+            id:13,
+            eng:"What do you really want to buy?",
+            ru:"Что вы очень прям хотите купить?  "
+            },
+            {
+            id:14,
+            eng:"Is anything broken at your house now?",
+            ru:"Что-нибудь из вещей сломано у вас дома сейчас?  "
+            },
+            {
+            id:15,
+            eng:"When did you start to learn English?",
+            ru:"Когда вы начали изучать английский? "
+            },
+            {
+            id:16,
             eng:"Did you buy your phone or maybe somebody bought it for you?",
-            ru:"Ты купил свой телефон или, может быть, кто-то купил его для тебя?"
+            ru:"Вы купили свой телефон или, может быть, кто-то купил его для вас?  "
             },
             {
-            id:132,
-            eng:"Tell me about a time when you saved money to buy something special?",
-            ru:"Расскажи мне о случае, когда ты копил деньги, чтобы купить что-то особенное?"
+            id:17,
+            eng:"Do you smoke now?",
+            ru:"Вы курите сейчас?  "
             },
             {
-            id:133,
-            eng:"What do you have to bring with you when you go camping? ",
-            ru:"Что ты должен взять с собой, когда идешь в поход?"
+            id:18,
+            eng:"Did you smoke when you were young?",
+            ru:"Вы курили, когда были молодым?  "
             },
             {
-            id:134,
-            eng:"What do people usually bring when they come back home from other countries?",
-            ru:"Что обычно люди привозят с собой, когда возвращаются домой из других стран?"
+            id:19,
+            eng:"Do you kiss your teacher sometimes?",
+            ru:"Вы целуете своего учителя иногда? "
             },
             {
-            id:135,
-            eng:"Did you bring animals to your house from the streets?",
-            ru:"Ты приносил животных с улицы к себе домой?"
+            id:20,
+            eng:"Does your teacher kiss you after lessons?",
+            ru:"Целует ли вас ваш учитель после уроков? "
             },
             {
-            id:136,
-            eng:"Do you like to build something from LEGO?",
-            ru:"Тебе нравится что-то строить из LEGO?"
+            id:21,
+            eng:"How often does your teacher kiss you?",
+            ru:"Как часто ваш учитель вас целует? "
             },
             {
-            id:137,
-            eng:"Did you build anything?",
-            ru:"Вы что-нибудь строили?"
+            id:22,
+            eng:"Do you do homework usually?",
+            ru:"Вы обычно делаете домашнее задание? "
             },
             {
-            id:138,
-            eng:"What do you think about body-building?",
-            ru:"Что ты думаешь о бодибилдинге?"
+            id:23,
+            eng:"Did you do English homework yesterday?",
+            ru:"Вы делали английское домашнее задание вчера? "
             },
             {
-            id:139,
-            eng:"Do you want to buy or build a house for your family?",
-            ru:"Ты хочешь купить или построить дом для своей семьи?"
+            id:24,
+            eng:"Does your teacher smoke?",
+            ru:"Курит ли ваш учитель? "
             },
             {
-            id:140,
-            eng:"Did you build a house on a tree in childhood?",
-            ru:"Ты строил дом на дереве в детстве?"
+            id:25,
+            eng:"Do you like English?",
+            ru:"Вам нравится английский язык? "
             },
             {
-            id:141,
-            eng:"When was the last time you burnt a match? /мэч/ спичка",
-            ru:"Когда ты последний раз поджигал спичку?"
+            id:26,
+            eng:"Does your mother smoke?",
+            ru:"Курит ли ваша мама? "
             },
             {
-            id:142,
-            eng:"Do you like to burn marshmallows over a campfire?",
-            ru:"Тебе нравится жарить зефир над костром?"
+            id:27,
+            eng:"Does your father smoke?",
+            ru:"Курит ли ваш папа? "
             },
             {
-            id:143,
-            eng:"Can you name 5 things that people can burn?",
-            ru:"Можешь ли назвать 5 вещей, которые люди могут поджигать?"
+            id:28,
+            eng:"Did you kiss somebody yesterday?",
+            ru:"Вы целовали кого-нибудь вчера?  "
             },
             {
-            id:144,
-            eng:"Did you drink the energy drink that has a name “Burn”? If yes - Did you like it?",
-            ru:"Ты пил энергетический напиток с названием 'Burn'? Если да - тебе он понравился?"
+            id:29,
+            eng:"Did somebody kiss you yesterday?",
+            ru:"Вас кто-то целовал вчера?  "
             },
             {
-            id:145,
-            eng:"What can happen with paper when you bring it to fire? ",
-            ru:"Что может произойти с бумагой, когда ты подносишь ее к огню?"
+            id:30,
+            eng:"Did you buy food yesterday?",
+            ru:"Вы покупали еду вчера? "
             },
             {
-            id:146,
-            eng:"Did you burn anything when you cooked?",
-            ru:"Ты что-нибудь сжигал, когда готовил еду?"
+            id:31,
+            eng:"What did you drink yesterday?",
+            ru:"Что вы пили вчера?  "
             },
             {
-            id:147,
-            eng:"Do you like the atmosphere when candles burn /кЭндлz/  свечи",
-            ru:"Тебе нравится атмосфера, когда горят свечи?"
+            id:32,
+            eng:"How do you feel now?",
+            ru:"Как вы себя чувствуете сейчас?  "
             },
             {
-            id:148,
-            eng:"Is it hard for you to begin something new?",
-            ru:"Тяжело ли для тебя начинать что-то новое?"
+            id:33,
+            eng:"How are you now?",
+            ru:"Как вы сейчас? "
             },
             {
-            id:149,
-            eng:"When did you begin to learn English?",
-            ru:"Когда ты начал изучать английский?"
+            id:34,
+            eng:"How old are you?",
+            ru:"Сколько вам лет? "
             },
             {
-            id:150,
-            eng:"What hobby did you begin the last?",
-            ru:"Какое хобби ты начал последнее?"
-            },
-            {
-            id:151,
-            eng:"Do you have any special traditions to begin the year?",
-            ru:"У тебя есть какие-то особенные традиции, чтобы начать новый год?"
-            },
-            {
-            id:152,
-            eng:"Did you blow balloons for a party? What party was it?",
-            ru:"Ты надувал шарики на вечеринке? Что это была за вечеринка? На какой вечеринке это было?"
-            },
-            {
-            id:153,
-            eng:"What do we have to do, to stop the fire on a candle ? /кэндл/ свеча ",
-            ru:"Что нам нужно сделать, чтобы погасить огонь на свече?"
+            id:35,
+            eng:"When was your birthday?",
+            ru:"Когда был ваш день рождения? "
             },
     ], 
     formulas0: [
