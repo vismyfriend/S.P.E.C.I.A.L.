@@ -13,7 +13,7 @@ const allSetsArray = [
     "mission0",
     "formulas0",
     "mission2",
-    "mission1a1",
+    "m003",
     "thirtieth",
     "stickyVerbs1",
     "adjectivesbodya1",
@@ -65,9 +65,11 @@ const allSetsArray = [
     "part10awb2",
     "part11awc1",
     "mission1a2time",
-    "mission2a1letters",
+    "m004mission2a1letters",
     "mission2a2time",
     "adjectivesb1compare",
+    "m001",
+    "m002",
 
 ]
 export default allSetsArray

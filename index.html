@@ -31,21 +31,23 @@
                 </div>
                 <h3 class="popupMissionsAndSets__title">It's Nice 2 c u, S.A.</h3>
                 <p class="popupMissionsAndSets__chosen-set"></p>
+                <button class="try-again hidden"> Yes! </button>
                 <p class="popupMissionsAndSets__description">👈 choose your mission to practice 👉 <br>
-                    Выбирай миссию, чтобы тренироваться
+                    Проходи миссии, чтобы тренироваться
                 </p>
                 <ul class="popupMissionsAndSets__sets">
                     <button class="scroll-left"></button>
                     <button class="scroll-right"></button>
                     <!-- секретный набор - чтобы его можно было через поиск найти - добавить здесь стиль none!] -->
                     <!-- но тут проблема обнаружилась - если что-то ввели в поиск - то все секретные наборы отображаются сразу    -->
-                    <li class="popupMissionsAndSets__set none" data-set="testOneSeven">test 1-7</li>
+                    <li class="popupMissionsAndSets__set green" data-set="m001">Mission 001</li>
+                    <li class="popupMissionsAndSets__set green" data-set="m002">Mission 002</li>
+                    <li class="popupMissionsAndSets__set green" data-set="m003">Mission 003</li>
+                    <li class="popupMissionsAndSets__set" data-set="m004mission2a1letters">Letters A1</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="mission1a2time">Mission 1 A2</li>
                     <li class="popupMissionsAndSets__set orange" data-set="clothes">Clothes</li>
                     <li class="popupMissionsAndSets__set pink" data-set="naughtyVerbs">naughty /нОти/</li>
-                    <li class="popupMissionsAndSets__set green" data-set="mission1a1">Mission 1 A1</li>
                     <li class="popupMissionsAndSets__set green" data-set="trickyTest1">Tricky Test 1</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="mission1a2time">Mission 1 A2</li>
-                    <li class="popupMissionsAndSets__set green" data-set="mission2a1letters">Mission 2 A1</li>
                     <li class="popupMissionsAndSets__set pink" data-set="mission2a2time">Mission 2 A2 </li>
                     <li class="popupMissionsAndSets__set pink" data-set="adjectivesa2">Adjectives A2</li>
                     <li class="popupMissionsAndSets__set orange" data-set="adjectivesb1compare">Adj. Compare B1</li>
@@ -89,7 +91,8 @@
                     <li class="popupMissionsAndSets__set none" data-set="testing"> ... </li>
                     <li class="popupMissionsAndSets__set none green" data-set="abc"> abc </li>
                     <li class="popupMissionsAndSets__set none green" data-set="xyz"> secret 1 </li>
-               
+                    <li class="popupMissionsAndSets__set none" data-set="testOneSeven">test 1-7</li>
+                    
                     <!-- <li class="popupMissionsAndSets__set" data-set="mission90">Миссия ZER0</li> -->
                     <!-- 
                     <li class="popupMissionsAndSets__set" data-set="mission3">Mission THREE</li>
@@ -112,12 +115,13 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="Irregular_verbs_En_Ru"> coming soon</li> -->
                 </ul>
                 <div class="popupMissionsAndSets__gameFindAPair">
+                    
                     <img src="./images/eyesmonkey.png">
-                    <p> Homework 1</p>
+                    <p>Find a pair</p>
                 </div>
                 <div class="popupMissionsAndSets__InputTypeOrWriteGame">
                     <img src="./images/writeAndType.png">
-                    <p> Homework 2</p>
+                    <p>How do you spell it?</p>
                 </div>
                 <div class="popupMissionsAndSets__letsSpeak">
                     <img src="./images/mouthmonkey.png">
@@ -140,9 +144,8 @@
                     <img src="./images/Brain.png">
                     <p> ... </p>
                 </div> -->
-                <button class="try-again hidden"> Yes! </button>
             </div>
-            <img class="logo-special" src="./images/special logo square black and white.png" alt="Logo Special">
+            <img class="logo-special" src="./images/special logo hat square.png" alt="Logo Special">
             <img class="fryFuturamaMainScreenIntro" src="./images/FryFuturama.png" alt="FryFuturama">
             <img class="homerPicture" src="./images/Gomer.png" alt="homerPicture">
             <div class="gameFindAPair">
@@ -292,7 +295,7 @@
                 <button class="QuizButtons areAmIsQuizOneButtonTwo none"> Quiz 2</button>
 
                 <div class="QuizContainer">
-                    <p class="quizQuestionRules"> Нужно ответить верно на 10 вопросов. <br> Если ответили неверно, то этот же вопрос вконце будет задан еще раз:</p>
+                    <p class="quizQuestionRules"> Это хитренький тест от Винсента. <br> It's a tricky test from #vismyfriend. <br> Всего 10 вопросов. Читайте вслух и нажимайте на правильный ответ. <br> Начнёте заново - вопросы будут другие.</p>
                     <p class="quizQuestionTask"></p>
                     <div class="quizButtonsContainer">
                         <!-- кнопку создадим в java s -->

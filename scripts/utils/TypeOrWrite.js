@@ -10294,7 +10294,141 @@ allnaughtyverbsC1: [
             ru	:	"Напишите  как по-английски будет: Вот это"	
             }	,				
     ],
-    mission1a1: [
+    m001: [
+        {
+            id:1,
+            eng:"I",
+            ru:"я"
+            },
+            {
+            id:2,
+            eng:"you",
+            ru:"ты или вы"
+            },
+            {
+            id:3,
+            eng:"we",
+            ru:"мы"
+            },
+            {
+            id:4,
+            eng:"they",
+            ru:"они"
+            },
+            {
+            id:5,
+            eng:"he",
+            ru:"он"
+            },
+            {
+            id:6,
+            eng:"she",
+            ru:"она"
+            },
+            {
+            id:7,
+            eng:"it",
+            ru:"это"
+            },
+            {
+            id:8,
+            eng:"my",
+            ru:"мой, моя, мои, моё"
+            },
+            {
+            id:9,
+            eng:"his",
+            ru:"его"
+            },
+            {
+            id:10,
+            eng:"her",
+            ru:"её"
+            },
+            {
+            id:11,
+            eng:"our",
+            ru:"наш, наша, наше, наши"
+            },
+            {
+            id:12,
+            eng:"your",
+            ru:"твой, твоё, твоя, ваш, ваше, ваша, ваши, твои"
+            },			
+    ],
+    m002: [
+        {
+            id:30,
+            eng:"am",
+            ru:"Впиши либо ARE либо AM либо IS? I___stupid."
+            },
+            {
+            id:31,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Vincent ___ a good teacher."
+            },
+            {
+            id:32,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? He and I ___ friends."
+            },
+            {
+            id:33,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? Tom and Jerry ___ not friends."
+            },
+            {
+            id:34,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? We ___ not stupid."
+            },
+            {
+            id:35,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? My bro and my sis ___ cool."
+            },
+            {
+            id:36,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? Where ___ you?"
+            },
+            {
+            id:37,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Where ___ he from?"
+            },
+            {
+            id:38,
+            eng:"am",
+            ru:"Впиши либо ARE либо AM либо IS? I'm sorry, I ___ late"
+            },
+            {
+            id:39,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Who ___ it?"
+            },
+            {
+            id:40,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Who ___ your teacher?"
+            },
+            {
+            id:41,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? What ___ your names?"
+            },
+            {
+            id:42,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? What ___ her name?"
+            },
+            {
+            id:43,
+            eng:"am",
+            ru:"Впиши либо ARE либо AM либо IS? I___sexy and I know it."
+            },
+    ],
+    m003: [
         {					
             id	:	102	,		
             eng	:	"You"	,
@@ -10376,7 +10510,7 @@ allnaughtyverbsC1: [
             ru	:	"Напишите  как по-английски будет: Вот это"	
             }	,				
     ],
-    mission2a1letters: [
+    m004mission2a1letters: [
         {
             id:145,
             eng:"A",

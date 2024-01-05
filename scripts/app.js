@@ -552,7 +552,7 @@ function chooseSet(text, set) {
     oneDeckButtons.classList.remove("visible")
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
-    popupMissionsAndSetsDescription.textContent = "Нажимаем какое задание выполнить: 👇 "
+    popupMissionsAndSetsDescription.textContent = "Выполни все задания, чтобы пройти миссию: 👇 с чего начнём? "
     popupMissionsAndSetsSets.classList.add("hide")
     InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
@@ -598,8 +598,8 @@ function startGameFindPairs() {
     howManyTimesSkipped = 0
     pairsRemainToMatch = chosenArray.length
     foundPairs = 0
-    gameFindAPairInfo.textContent = `Нажимай слова, ищи пару:`
-    usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
+    gameFindAPairInfo.textContent = `Нажимай на столбцы, подбирай подходящую пару:`
+    usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}. Твои звёзды за задание:`
     popupMissionsAndSets.classList.add("close")
     logoSpecial.classList.add("hidden")
     gameFindAPair.classList.add("open")
@@ -743,13 +743,13 @@ function finishGame() {
     starResult()
     inputSearch.classList.remove("none")
     starsEmoji.classList.add("visible")
-    usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}`
+    usedCheatsText.textContent = `Сделай скриншот и поделись достижением с Винсентом, отправь ему фотку в телеграм. Пропущено слов: ${howManyTimesSkipped}. Получено звёзд за задание:`
     usedCheatsText.classList.add("visible")
     tryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
     popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат: ${timer.textContent} seconds`
-    popupMissionsAndSetsDescription.innerHTML = "Максимальный результат - пять звёзд 🏆 попробуй ещё разок! You can do it!"
+    popupMissionsAndSetsDescription.innerHTML = "Максимальный результат = пять звёзд 🏆 попробуй ещё раз! Try again. /эгэйн/ "
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"
     popupMissionsAndSetsSets.classList.remove("hide")
@@ -761,7 +761,7 @@ function finishGame() {
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
     chosenSet.classList.remove("show")
-    tryAgainButton.textContent = `Попробовать ещё раз! 💪 Try again! 👍`
+    tryAgainButton.textContent = `Попробовать быстрее! 💪 Try faster! 👍`
     const AudioWinner = new Audio("https://zvukitop.com/wp-content/uploads/2021/03/zvuk-tadam-na-trube.mp3");
     AudioWinner.volume = 0.06;
     AudioWinner.play()
