@@ -1,5 +1,627 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
+    m001: [
+        {
+            id: 1,
+            eng: "I /ай/",
+            ru: "я"
+        },
+        {
+            id: 2,
+            eng: "you /ю/",
+            ru: "ты или вы"
+        },
+        {
+            id: 3,
+            eng: "we /уи/",
+            ru: "мы"
+        },
+        {
+            id: 4,
+            eng: "they /дэй/",
+            ru: "они"
+        },
+        {
+            id: 5,
+            eng: "he /хи/",
+            ru: "он"
+        },
+        {
+            id: 6,
+            eng: "she /щи/",
+            ru: "она"
+        },
+        {
+            id: 7,
+            eng: "it /ит/",
+            ru: "это"
+        },
+        {
+            id: 8,
+            eng: "my /май/",
+            ru: "мой, моя, мои, моё"
+        },
+        {
+            id: 9,
+            eng: "his /хиз/",
+            ru: "его"
+        },
+        {
+            id: 10,
+            eng: "her /хё/",
+            ru: "её"
+        },
+        {
+            id: 11,
+            eng: "our /аУа/",
+            ru: "наш, наша, наше, наши"
+        },
+        {
+            id: 12,
+            eng: "your /ё/",
+            ru: "твой, твоё, твоя, ваш, ваше, ваша, ваши, твои"
+        },
+
+    ],
+    m002: [
+        {
+            id:16,
+            eng:"I",
+            ru:"am"
+            },
+            {
+            id:17,
+            eng:"he, she, it",
+            ru:"is"
+            },
+            {
+            id:18,
+            eng:"you, we, they",
+            ru:"are"
+            },
+            {
+            id:19,
+            eng:"в английских  предложениях всегда есть:",
+            ru:"глагол"
+            },
+            {
+            id:20,
+            eng:"когда в русском переводе нет глагола, добавляем:",
+            ru:"мушкетёра are, am, is"
+            },
+            {
+            id:21,
+            eng:"глагол по-английски:",
+            ru:"verb /вёрб/"
+            },
+            {
+            id:22,
+            eng:"действие по-английски:",
+            ru:"action /экшн/"
+            },
+            {
+            id:23,
+            eng:"прилагательные по-английски:",
+            ru:"adjectives / Эджэктивз / ударение на Э"
+            },
+            {
+            id:24,
+            eng:"когда в русском переводе у глагола окончание -ТЬ",
+            ru:"то в английском перед глаголом ставим 'to'"
+            },
+            {
+            id:25,
+            eng:"to sleep",
+            ru:"спаТЬ"
+            },
+            {
+            id:26,
+            eng:"to love",
+            ru:"любиТЬ"
+            },
+            {
+            id:27,
+            eng:"I want to hug you",
+            ru:"я хочу обнять вас"
+            },
+    ],
+    m003: [
+        {
+            id: 102,
+            eng: "	вы или ты	",
+            ru: "	/Ю/ you	"
+        },
+        {
+            id: 103,
+            eng: "	ваше, твоё	",
+            ru: "	/Ё/ your	"
+        },
+        {
+            id: 104,
+            eng: "	он	",
+            ru: "	/хИ/ he	"
+        },
+        {
+            id: 105,
+            eng: "	его номер	",
+            ru: "	/хиз нАмбэ/ his number	"
+        },
+        {
+            id: 106,
+            eng: "	она	",
+            ru: "	/щИ/ she варит борщИ	"
+        },
+        {
+            id: 107,
+            eng: "	её	",
+            ru: "	/хЁ/ her	"
+        },
+        {
+            id: 108,
+            eng: "	я	",
+            ru: "	/Ай/ I	"
+        },
+        {
+            id: 109,
+            eng: "	мой, моё, моя, мои	",
+            ru: "	/мАй/ my	"
+        },
+        {
+            id: 110,
+            eng: "	мы	",
+            ru: "	/уи/ we	"
+        },
+        {
+            id: 111,
+            eng: "	наш, наше, наши, наша	",
+            ru: "	/АУЭ/ our	"
+        },
+        {
+            id: 112,
+            eng: "	они	",
+            ru: "	/дЭЙ/ they	"
+        },
+        {
+            id: 113,
+            eng: "	их дети	",
+            ru: "	/дЭИР чилдрен/ their children	"
+        },
+        {
+            id: 114,
+            eng: "	их ребёнок	",
+            ru: "	/дЭИР чайлд/ their child	"
+        },
+        {
+            id: 115,
+            eng: "	их собака	",
+            ru: "	/дЭИР дог/ their dog	"
+        },
+        {
+            id: 116,
+            eng: "	это	",
+            ru: "	/ит/ it	"
+        },
+        {
+            id: 117,
+            eng: "	вот это обалденно!	",
+            ru: "	/Дыс из осм/ this is awesome!	"
+        },
+        {
+            id: 118,
+            eng: "I have a lot of time",
+            ru: "У меня много времени"
+        },
+        {
+            id: 119,
+            eng: "Hi, everybody! / ЭврибАди /",
+            ru: "Привет всем!"
+        },
+
+    ],
+    m004letters: [
+        {
+            id: 1,
+            ru: "	A	",
+            eng: "	/ эй /	"
+        },
+        {
+            id: 2,
+            ru: "	B	",
+            eng: "	/ би /	"
+        },
+        {
+            id: 3,
+            ru: "	C	",
+            eng: "	/ си /	"
+        },
+        {
+            id: 4,
+            ru: "	D	",
+            eng: "	/ ди /	"
+        },
+        {
+            id: 5,
+            ru: "	E	",
+            eng: "	/ и /	"
+        },
+        {
+            id: 6,
+            ru: "	F	",
+            eng: "	/ эф /	"
+        },
+        {
+            id: 7,
+            ru: "	G	",
+            eng: "	/ джи /	"
+        },
+        {
+            id: 8,
+            ru: "	H	",
+            eng: "	/ эйч /	"
+        },
+        {
+            id: 9,
+            ru: "	I	",
+            eng: "	/ ай /	"
+        },
+        {
+            id: 10,
+            ru: "	J	",
+            eng: "	/ джэй /	"
+        },
+        {
+            id: 11,
+            ru: "	K	",
+            eng: "	/ кей /	"
+        },
+        {
+            id: 12,
+            ru: "	L	",
+            eng: "	/ эл /	"
+        },
+        {
+            id: 13,
+            ru: "	M	",
+            eng: "	/ эм /	"
+        },
+        {
+            id: 14,
+            ru: "	N	",
+            eng: "	/ эн /	"
+        },
+        {
+            id: 15,
+            ru: "	O	",
+            eng: "	/ оу /	"
+        },
+        {
+            id: 16,
+            ru: "	P	",
+            eng: "	/ пи /	"
+        },
+        {
+            id: 17,
+            ru: "	Q	",
+            eng: "	/ кью /	"
+        },
+        {
+            id: 18,
+            ru: "	R	",
+            eng: "	/ а /	"
+        },
+        {
+            id: 19,
+            ru: "	S	",
+            eng: "	/ эс /	"
+        },
+        {
+            id: 20,
+            ru: "	T	",
+            eng: "	/ ти /	"
+        },
+        {
+            id: 21,
+            ru: "	U	",
+            eng: "	/ ю /	"
+        },
+        {
+            id: 22,
+            ru: "	V	",
+            eng: "	/ ви /	"
+        },
+        {
+            id: 23,
+            ru: "	W	",
+            eng: "	/ дабл ю /	"
+        },
+        {
+            id: 24,
+            ru: "	X	",
+            eng: "	/ экс /	"
+        },
+        {
+            id: 25,
+            ru: "	Y	",
+            eng: "	/ уай /	"
+        },
+        {
+            id: 26,
+            ru: "	Z	",
+            eng: "	/ зи (зэд) /	"
+        },
+
+
+    ],
+    numbersA1: [
+        {
+            id: 29,
+            eng: "	one	",
+            ru: "	1	"
+        },
+        {
+            id: 30,
+            eng: "	two	",
+            ru: "	2	"
+        },
+        {
+            id: 31,
+            eng: "	three	",
+            ru: "	3	"
+        },
+        {
+            id: 32,
+            eng: "	four	",
+            ru: "	4	"
+        },
+        {
+            id: 33,
+            eng: "	five	",
+            ru: "	5	"
+        },
+        {
+            id: 34,
+            eng: "	six	",
+            ru: "	6	"
+        },
+        {
+            id: 35,
+            eng: "	seven	",
+            ru: "	7	"
+        },
+        {
+            id: 36,
+            eng: "	eight	",
+            ru: "	8	"
+        },
+        {
+            id: 37,
+            eng: "	nine	",
+            ru: "	9	"
+        },
+        {
+            id: 38,
+            eng: "	ten	",
+            ru: "	10	"
+        },
+        {
+            id: 39,
+            eng: "	eleven	",
+            ru: "	11	"
+        },
+        {
+            id: 40,
+            eng: "	twelve	",
+            ru: "	12	"
+        },
+        {
+            id: 41,
+            eng: "	thirteen	",
+            ru: "	13	"
+        },
+        {
+            id: 42,
+            eng: "	fourteen	",
+            ru: "	14	"
+        },
+        {
+            id: 43,
+            eng: "	fifteen	",
+            ru: "	15	"
+        },
+        {
+            id: 44,
+            eng: "	sixteen	",
+            ru: "	16	"
+        },
+        {
+            id: 45,
+            eng: "	seventeen	",
+            ru: "	17	"
+        },
+        {
+            id: 46,
+            eng: "	eighteen	",
+            ru: "	18	"
+        },
+        {
+            id: 47,
+            eng: "	nineteen	",
+            ru: "	19	"
+        },
+        {
+            id: 48,
+            eng: "	twenty	",
+            ru: "	20	"
+        },
+        {
+            id: 49,
+            eng: "	thirty	",
+            ru: "	30	"
+        },
+        {
+            id: 50,
+            eng: "	fourty	",
+            ru: "	40	"
+        },
+        {
+            id: 51,
+            eng: "	fifty	",
+            ru: "	50	"
+        },
+        {
+            id: 52,
+            eng: "	sixty	",
+            ru: "	60	"
+        },
+        {
+            id: 53,
+            eng: "	seventy	",
+            ru: "	70	"
+        },
+        {
+            id: 54,
+            eng: "	eighty	",
+            ru: "	80	"
+        },
+        {
+            id: 55,
+            eng: "	ninety	",
+            ru: "	90	"
+        },
+        {
+            id: 56,
+            eng: "	hundred	",
+            ru: "	100	"
+        },
+        {
+            id: 57,
+            eng: "	thousand	",
+            ru: "	1000	"
+        },
+        {
+            id: 58,
+            eng: "	billion	",
+            ru: "	1000000	"
+        },
+
+    ],
+    numbersA2: [
+        {
+            id:99,
+            eng:"the first",
+            ru:"первый"
+            },
+            {
+            id:100,
+            eng:"the second",
+            ru:"второй"
+            },
+            {
+            id:101,
+            eng:"the third",
+            ru:"третий"
+            },
+            {
+            id:102,
+            eng:"the fourth",
+            ru:"четвертый"
+            },
+            {
+            id:103,
+            eng:"the fifth",
+            ru:"пятый"
+            },
+            {
+            id:104,
+            eng:"the sixth",
+            ru:"шестой"
+            },
+            {
+            id:105,
+            eng:"the eighth",
+            ru:"восьмой"
+            },
+            {
+            id:106,
+            eng:"the ninth",
+            ru:"девятый"
+            },
+            {
+            id:107,
+            eng:"the tenth",
+            ru:"десятый"
+            },
+            {
+            id:108,
+            eng:"the twelvth",
+            ru:"двенадцатый"
+            },
+            {
+            id:109,
+            eng:"the twentieth",
+            ru:"двадцатый"
+            },
+            {
+            id:110,
+            eng:"the fortieth",
+            ru:"сороковой"
+            },
+            {
+            id:111,
+            eng:"the fourteenth",
+            ru:"четырнадцатый"
+            },
+            {
+            id:112,
+            eng:"the zeroth",
+            ru:"нулевой"
+            },
+            {
+            id:113,
+            eng:"the thirtieth",
+            ru:"тринадцатый"
+            },
+            {
+            id:114,
+            eng:"the hundredth",
+            ru:"сотый"
+            },
+            {
+            id:115,
+            eng:"the thousandth",
+            ru:"тысячный"
+            },
+            {
+            id:116,
+            eng:"the twenty-first",
+            ru:"двадцать первый"
+            },
+            {
+            id:117,
+            eng:"the fifty-fifth",
+            ru:"пятьдесят пятый"
+            },
+            {
+            id:118,
+            eng:"the last",
+            ru:"последний"
+            },
+            {
+            id:119,
+            eng:"the ninety-ninth",
+            ru:"девяносто девятый"
+            },
+            {
+            id:120,
+            eng:"the eightieth",
+            ru:"восьмидесятый"
+            },
+            {
+            id:121,
+            eng:"the eighty-eighth",
+            ru:"восемьдесят восьмой"
+            },
+    ],
     testOneSeven: [
         {
             id: 1,
@@ -9127,93 +9749,6 @@ const allCardsGameFindAPair = {
             ru: "в прошлом"
         },
     ],
-    thirtieth: [
-        {
-            id: 99,
-            eng: "first",
-            ru: "первый"
-        },
-        {
-            id: 100,
-            eng: "second",
-            ru: "второй"
-        },
-        {
-            id: 101,
-            eng: "third",
-            ru: "третий"
-        },
-        {
-            id: 102,
-            eng: "fourth",
-            ru: "четвертый"
-        },
-        {
-            id: 103,
-            eng: "fifth",
-            ru: "пятый"
-        },
-        {
-            id: 104,
-            eng: "sixth",
-            ru: "шестой"
-        },
-        {
-            id: 105,
-            eng: "eighth",
-            ru: "восьмой"
-        },
-        {
-            id: 106,
-            eng: "ninth",
-            ru: "девятый"
-        },
-        {
-            id: 107,
-            eng: "tenth",
-            ru: "десятый"
-        },
-        {
-            id: 108,
-            eng: "twelvth",
-            ru: "двенадцатый"
-        },
-        {
-            id: 109,
-            eng: "twentieth",
-            ru: "двадцатый"
-        },
-        {
-            id: 110,
-            eng: "fortieth",
-            ru: "сороковой"
-        },
-        {
-            id: 111,
-            eng: "fourteenth",
-            ru: "четырнадцатый"
-        },
-        {
-            id: 112,
-            eng: "zeroth",
-            ru: "нулевой"
-        },
-        {
-            id: 113,
-            eng: "thirtieth",
-            ru: "тринадцатый"
-        },
-        {
-            id: 114,
-            eng: "hundredth",
-            ru: "сотый"
-        },
-        {
-            id: 115,
-            eng: "thousandth",
-            ru: "тысячный"
-        },
-    ],
     testing: [
         {
             id: 1,
@@ -9530,159 +10065,6 @@ const allCardsGameFindAPair = {
             eng: "	Where am I?	",
             ru: "	Где я?	"
         },
-    ],
-    numbers0: [
-        {
-            id: 29,
-            eng: "	one	",
-            ru: "	1	"
-        },
-        {
-            id: 30,
-            eng: "	two	",
-            ru: "	2	"
-        },
-        {
-            id: 31,
-            eng: "	three	",
-            ru: "	3	"
-        },
-        {
-            id: 32,
-            eng: "	four	",
-            ru: "	4	"
-        },
-        {
-            id: 33,
-            eng: "	five	",
-            ru: "	5	"
-        },
-        {
-            id: 34,
-            eng: "	six	",
-            ru: "	6	"
-        },
-        {
-            id: 35,
-            eng: "	seven	",
-            ru: "	7	"
-        },
-        {
-            id: 36,
-            eng: "	eight	",
-            ru: "	8	"
-        },
-        {
-            id: 37,
-            eng: "	nine	",
-            ru: "	9	"
-        },
-        {
-            id: 38,
-            eng: "	ten	",
-            ru: "	10	"
-        },
-        {
-            id: 39,
-            eng: "	eleven	",
-            ru: "	11	"
-        },
-        {
-            id: 40,
-            eng: "	twelve	",
-            ru: "	12	"
-        },
-        {
-            id: 41,
-            eng: "	thirteen	",
-            ru: "	13	"
-        },
-        {
-            id: 42,
-            eng: "	fourteen	",
-            ru: "	14	"
-        },
-        {
-            id: 43,
-            eng: "	fifteen	",
-            ru: "	15	"
-        },
-        {
-            id: 44,
-            eng: "	sixteen	",
-            ru: "	16	"
-        },
-        {
-            id: 45,
-            eng: "	seventeen	",
-            ru: "	17	"
-        },
-        {
-            id: 46,
-            eng: "	eighteen	",
-            ru: "	18	"
-        },
-        {
-            id: 47,
-            eng: "	nineteen	",
-            ru: "	19	"
-        },
-        {
-            id: 48,
-            eng: "	twenty	",
-            ru: "	20	"
-        },
-        {
-            id: 49,
-            eng: "	thirty	",
-            ru: "	30	"
-        },
-        {
-            id: 50,
-            eng: "	fourty	",
-            ru: "	40	"
-        },
-        {
-            id: 51,
-            eng: "	fifty	",
-            ru: "	50	"
-        },
-        {
-            id: 52,
-            eng: "	sixty	",
-            ru: "	60	"
-        },
-        {
-            id: 53,
-            eng: "	seventy	",
-            ru: "	70	"
-        },
-        {
-            id: 54,
-            eng: "	eighty	",
-            ru: "	80	"
-        },
-        {
-            id: 55,
-            eng: "	ninety	",
-            ru: "	90	"
-        },
-        {
-            id: 56,
-            eng: "	hundred	",
-            ru: "	100	"
-        },
-        {
-            id: 57,
-            eng: "	thousand	",
-            ru: "	1000	"
-        },
-        {
-            id: 58,
-            eng: "	billion	",
-            ru: "	1000000	"
-        },
-
     ],
     q1: [
 
@@ -15187,140 +15569,6 @@ const allCardsGameFindAPair = {
         },
 
     ],
-    m004mission2a1letters: [
-        {
-            id: 1,
-            ru: "	A	",
-            eng: "	/ эй /	"
-        },
-        {
-            id: 2,
-            ru: "	B	",
-            eng: "	/ би /	"
-        },
-        {
-            id: 3,
-            ru: "	C	",
-            eng: "	/ си /	"
-        },
-        {
-            id: 4,
-            ru: "	D	",
-            eng: "	/ ди /	"
-        },
-        {
-            id: 5,
-            ru: "	E	",
-            eng: "	/ и /	"
-        },
-        {
-            id: 6,
-            ru: "	F	",
-            eng: "	/ эф /	"
-        },
-        {
-            id: 7,
-            ru: "	G	",
-            eng: "	/ джи /	"
-        },
-        {
-            id: 8,
-            ru: "	H	",
-            eng: "	/ эйч /	"
-        },
-        {
-            id: 9,
-            ru: "	I	",
-            eng: "	/ ай /	"
-        },
-        {
-            id: 10,
-            ru: "	J	",
-            eng: "	/ джэй /	"
-        },
-        {
-            id: 11,
-            ru: "	K	",
-            eng: "	/ кей /	"
-        },
-        {
-            id: 12,
-            ru: "	L	",
-            eng: "	/ эл /	"
-        },
-        {
-            id: 13,
-            ru: "	M	",
-            eng: "	/ эм /	"
-        },
-        {
-            id: 14,
-            ru: "	N	",
-            eng: "	/ эн /	"
-        },
-        {
-            id: 15,
-            ru: "	O	",
-            eng: "	/ оу /	"
-        },
-        {
-            id: 16,
-            ru: "	P	",
-            eng: "	/ пи /	"
-        },
-        {
-            id: 17,
-            ru: "	Q	",
-            eng: "	/ кью /	"
-        },
-        {
-            id: 18,
-            ru: "	R	",
-            eng: "	/ а /	"
-        },
-        {
-            id: 19,
-            ru: "	S	",
-            eng: "	/ эс /	"
-        },
-        {
-            id: 20,
-            ru: "	T	",
-            eng: "	/ ти /	"
-        },
-        {
-            id: 21,
-            ru: "	U	",
-            eng: "	/ ю /	"
-        },
-        {
-            id: 22,
-            ru: "	V	",
-            eng: "	/ ви /	"
-        },
-        {
-            id: 23,
-            ru: "	W	",
-            eng: "	/ дабл ю /	"
-        },
-        {
-            id: 24,
-            ru: "	X	",
-            eng: "	/ экс /	"
-        },
-        {
-            id: 25,
-            ru: "	Y	",
-            eng: "	/ уай /	"
-        },
-        {
-            id: 26,
-            ru: "	Z	",
-            eng: "	/ зи (зэд) /	"
-        },
-
-
-    ],
     mission2a2time: [
         {
             id: 1,
@@ -15577,224 +15825,8 @@ const allCardsGameFindAPair = {
         },
 
     ],
-    m003: [
-        {
-            id: 102,
-            eng: "	вы или ты	",
-            ru: "	/Ю/ you	"
-        },
-        {
-            id: 103,
-            eng: "	ваше, твоё	",
-            ru: "	/Ё/ your	"
-        },
-        {
-            id: 104,
-            eng: "	он	",
-            ru: "	/хИ/ he	"
-        },
-        {
-            id: 105,
-            eng: "	его номер	",
-            ru: "	/хиз нАмбэ/ his number	"
-        },
-        {
-            id: 106,
-            eng: "	она	",
-            ru: "	/щИ/ she варит борщИ	"
-        },
-        {
-            id: 107,
-            eng: "	её	",
-            ru: "	/хЁ/ her	"
-        },
-        {
-            id: 108,
-            eng: "	я	",
-            ru: "	/Ай/ I	"
-        },
-        {
-            id: 109,
-            eng: "	мой, моё, моя, мои	",
-            ru: "	/мАй/ my	"
-        },
-        {
-            id: 110,
-            eng: "	мы	",
-            ru: "	/уи/ we	"
-        },
-        {
-            id: 111,
-            eng: "	наш, наше, наши, наша	",
-            ru: "	/АУЭ/ our	"
-        },
-        {
-            id: 112,
-            eng: "	они	",
-            ru: "	/дЭЙ/ they	"
-        },
-        {
-            id: 113,
-            eng: "	их дети	",
-            ru: "	/дЭИР чилдрен/ their children	"
-        },
-        {
-            id: 114,
-            eng: "	их ребёнок	",
-            ru: "	/дЭИР чайлд/ their child	"
-        },
-        {
-            id: 115,
-            eng: "	их собака	",
-            ru: "	/дЭИР дог/ their dog	"
-        },
-        {
-            id: 116,
-            eng: "	это	",
-            ru: "	/ит/ it	"
-        },
-        {
-            id: 117,
-            eng: "	вот это обалденно!	",
-            ru: "	/Дыс из осм/ this is awesome!	"
-        },
-        {
-            id: 118,
-            eng: "I have a lot of time",
-            ru: "У меня много времени"
-        },
-        {
-            id: 119,
-            eng: "Hi, everybody! / ЭврибАди /",
-            ru: "Привет всем!"
-        },
-
-    ],
-    m001: [
-        {
-            id: 1,
-            eng: "I /ай/",
-            ru: "я"
-        },
-        {
-            id: 2,
-            eng: "you /ю/",
-            ru: "ты или вы"
-        },
-        {
-            id: 3,
-            eng: "we /уи/",
-            ru: "мы"
-        },
-        {
-            id: 4,
-            eng: "they /дэй/",
-            ru: "они"
-        },
-        {
-            id: 5,
-            eng: "he /хи/",
-            ru: "он"
-        },
-        {
-            id: 6,
-            eng: "she /щи/",
-            ru: "она"
-        },
-        {
-            id: 7,
-            eng: "it /ит/",
-            ru: "это"
-        },
-        {
-            id: 8,
-            eng: "my /май/",
-            ru: "мой, моя, мои, моё"
-        },
-        {
-            id: 9,
-            eng: "his /хиз/",
-            ru: "его"
-        },
-        {
-            id: 10,
-            eng: "her /хё/",
-            ru: "её"
-        },
-        {
-            id: 11,
-            eng: "our /аУа/",
-            ru: "наш, наша, наше, наши"
-        },
-        {
-            id: 12,
-            eng: "your /ё/",
-            ru: "твой, твоё, твоя, ваш, ваше, ваша, ваши, твои"
-        },
-
-    ],
-    m002: [
-        {
-            id:16,
-            eng:"I",
-            ru:"am"
-            },
-            {
-            id:17,
-            eng:"he, she, it",
-            ru:"is"
-            },
-            {
-            id:18,
-            eng:"you, we, they",
-            ru:"are"
-            },
-            {
-            id:19,
-            eng:"в английских  предложениях всегда есть:",
-            ru:"глагол"
-            },
-            {
-            id:20,
-            eng:"когда в русском переводе нет глагола, добавляем:",
-            ru:"мушкетёра are, am, is"
-            },
-            {
-            id:21,
-            eng:"глагол по-английски:",
-            ru:"verb /вёрб/"
-            },
-            {
-            id:22,
-            eng:"действие по-английски:",
-            ru:"action /экшн/"
-            },
-            {
-            id:23,
-            eng:"прилагательные по-английски:",
-            ru:"adjectives / Эджэктивз / ударение на Э"
-            },
-            {
-            id:24,
-            eng:"когда в русском переводе у глагола окончание -ТЬ",
-            ru:"то в английском перед глаголом ставим 'to'"
-            },
-            {
-            id:25,
-            eng:"to sleep",
-            ru:"спаТЬ"
-            },
-            {
-            id:26,
-            eng:"to love",
-            ru:"любиТЬ"
-            },
-            {
-            id:27,
-            eng:"I want to hug you",
-            ru:"я хочу обнять вас"
-            },
-    ],
+  
+  
 }
 export default allCardsGameFindAPair
 

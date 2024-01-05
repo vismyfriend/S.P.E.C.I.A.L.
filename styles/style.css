@@ -531,8 +531,8 @@ button {
 
 .popupMissionsAndSets:has(.visible)::before,
 .popupMissionsAndSets:has(.visible)::after {
-    height: 35%;
-    bottom: 70px;
+    height: 40%;
+    bottom: 10px;
 }
 
 .popupMissionsAndSets::after {

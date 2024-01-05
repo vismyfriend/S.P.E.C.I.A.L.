@@ -1,5 +1,11 @@
 // Этот массив создан, чтобы поиск миссий работал
 const allSetsArray = [
+    "m001",
+    "m002",
+    "m003",
+    "m004letters",
+    "numbersA1",
+    "numbersA2",
     "commonVerbs",
     "technologic",
     "testing",
@@ -7,14 +13,11 @@ const allSetsArray = [
     "xyz",
     "testOneSeven",
     "sara",
-    "numbers0",
     "adjectivesa2",
     "questions0",
     "mission0",
     "formulas0",
     "mission2",
-    "m003",
-    "thirtieth",
     "stickyVerbs1",
     "adjectivesbodya1",
     "upperBody",
@@ -65,11 +68,9 @@ const allSetsArray = [
     "part10awb2",
     "part11awc1",
     "mission1a2time",
-    "m004mission2a1letters",
     "mission2a2time",
     "adjectivesb1compare",
-    "m001",
-    "m002",
+ 
 
 ]
 export default allSetsArray
