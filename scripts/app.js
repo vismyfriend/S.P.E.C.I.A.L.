@@ -66,7 +66,7 @@ const logoSpecial = document.querySelector(".logo-special")
 const gameFindAPair = document.querySelector(".gameFindAPair")
 const letsSpeak = document.querySelector(".popupMissionsAndSets__letsSpeak")
 const slotMachine = document.querySelector(".popupMissionsAndSets__slot-machine")
-const multipleChoice = document.querySelector(".popupMissionsAndSets__multipleChoice")
+const multipleChoiceQuiz = document.querySelector(".popupMissionsAndSets__multipleChoiceQuiz")
 const copyThisForNewGames = document.querySelector(".popupMissionsAndSets__copyThisForNewGames")
 const BenderWordOrderGameButton = document.querySelector(".popupMissionsAndSets__BenderWordOrderGame")
 const card = document.querySelector(".template").content.querySelector(".card")
@@ -325,10 +325,10 @@ function howManyStarsScore() {
         timeToGet3StarResult = 40
         timeToGet2StarResult = 50
     } else if (chosenArray.length > 40 && chosenArray.length < 59) {
-        timeToGet5StarResult = 60
-        timeToGet4StarResult = 75
+        timeToGet5StarResult = 55
+        timeToGet4StarResult = 70
         timeToGet3StarResult = 90
-        timeToGet2StarResult = 155
+        timeToGet2StarResult = 135
     } else if (chosenArray.length > 59 && chosenArray.length) {
         timeToGet5StarResult = 90
         timeToGet4StarResult = 115
@@ -557,7 +557,7 @@ function chooseSet(text, set) {
     InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
     slotMachine.classList.add("show")
-    multipleChoice.classList.add("show")
+    multipleChoiceQuiz.classList.add("show")
     copyThisForNewGames?.classList.add("show")
     // знак вопроса пропустит ошибку
     BenderWordOrderGameButton.classList.add("show")
@@ -618,7 +618,7 @@ function startGameFindPairs() {
 function startGameSlotMachine() {
     location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
 }
-function startGameMultipleChoice() {
+function startGameMultipleChoiceQuiz() {
     // location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
     mainContainer1.classList.add("none")
     mainContainer2.classList.add("none")
@@ -756,7 +756,7 @@ function finishGame() {
     InputTypeOrWriteGame.classList.remove("show")
     popupMissionsAndSetsGameFindAPair.classList.remove("show")
     slotMachine.classList.remove("show")
-    multipleChoice.classList.remove("show")
+    multipleChoiceQuiz.classList.remove("show")
     copyThisForNewGames?.classList.remove("show")
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
@@ -854,7 +854,7 @@ function backToMaincontainer1function() {
     InputTypeOrWriteGame.classList.remove("show")
     popupMissionsAndSetsGameFindAPair.classList.remove("show")
     slotMachine.classList.remove("show")
-    multipleChoice.classList.remove("show")
+    multipleChoiceQuiz.classList.remove("show")
     copyThisForNewGames?.classList.remove("show")
     // знак вопроса пропустит ошибку
     BenderWordOrderGameButton.classList.remove("show")
@@ -1010,7 +1010,7 @@ BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefr
 BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame)
 InputTypeOrWriteGame.addEventListener("click", startGameInputTypeOrWriteGame)
 slotMachine.addEventListener("click", startGameSlotMachine)
-multipleChoice.addEventListener("click", startGameMultipleChoice)
+multipleChoiceQuiz.addEventListener("click", startGameMultipleChoiceQuiz)
 popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 letsSpeak.addEventListener("click", startGameQuestions)
 gameFindAPairButtonSkipThese.addEventListener("click", nextCardsGameFindAPairCheatUsed)

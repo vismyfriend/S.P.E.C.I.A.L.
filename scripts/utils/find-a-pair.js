@@ -1,5 +1,5901 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
+    adjectivesbodya1: [
+        {
+            id: 58,
+            eng: "firm /фЁрм/",
+            ru: "Упругая, упругий"
+        },
+        {
+            id: 59,
+            eng: "Fit /фит/",
+            ru: "спортивный, атлетичный, подтянутый"
+        },
+        {
+            id: 60,
+            eng: "Slim /слИм/",
+            ru: "Стройный"
+        },
+        {
+            id: 61,
+            eng: "wide /уАйд/",
+            ru: "Широкий"
+        },
+        {
+            id: 62,
+            eng: "fat /фЭт/",
+            ru: "Жирный"
+        },
+        {
+            id: 63,
+            eng: "short /шорт/",
+            ru: "Короткий"
+        },
+        {
+            id: 64,
+            eng: "hairy /хЭйри/",
+            ru: "Волосатый"
+        },
+        {
+            id: 65,
+            eng: "muscular / мАскьюла /",
+            ru: "Мускулистый"
+        },
+        {
+            id: 66,
+            eng: "large /ладж/",
+            ru: "Крупный"
+        },
+        {
+            id: 67,
+            eng: "long /лон/",
+            ru: "Длинный"
+        },
+        {
+            id: 68,
+            eng: "pierced /пирСТ/",
+            ru: "Проколотоый"
+        },
+        {
+            id: 69,
+            eng: "crooked / крУкИд /",
+            ru: "Кривые"
+        },
+        {
+            id: 70,
+            eng: "round /рАунд/",
+            ru: "Круглый"
+        },
+        {
+            id: 71,
+            eng: "square /скуЭэ/",
+            ru: "Квадратный"
+        },
+        {
+            id: 72,
+            eng: "skinny /скИни/",
+            ru: "Тощий"
+        },
+        {
+            id: 73,
+            eng: "thick /THык/",
+            ru: "Полный"
+        },
+        {
+            id: 74,
+            eng: "thin /THын/",
+            ru: "Худой, Тонкий"
+        },
+        {
+            id: 75,
+            eng: "Big /биг/",
+            ru: "Большой"
+        },
+        {
+            id: 76,
+            eng: "Small /смОл/",
+            ru: "Маленький"
+        },
+        {
+            id: 77,
+            eng: "Upper /Аппэ/",
+            ru: "Верхний"
+        },
+        {
+            id: 78,
+            eng: "Lower /лОуэ/",
+            ru: "Нижний"
+        },
+        {
+            id: 79,
+            eng: "Overweight / ОувэУэйт /",
+            ru: "Избыток веса"
+        },
+    ],
+    upperBody: [
+        {
+            id: 1,
+            eng: "A head /э хэд/",
+            ru: "Голова"
+        },
+        {
+            id: 2,
+            eng: "An ear /эн иэ/",
+            ru: "Ухо"
+        },
+        {
+            id: 3,
+            eng: "Ears /Иаз/",
+            ru: "Уши"
+        },
+        {
+            id: 4,
+            eng: "An eye /эн Ай/",
+            ru: "Глаз"
+        },
+        {
+            id: 5,
+            eng: "Eyes /айз/",
+            ru: "Глаза"
+        },
+        {
+            id: 6,
+            eng: "A nose /э ноуз/",
+            ru: "Нос"
+        },
+        {
+            id: 7,
+            eng: "A neck /э нэк/",
+            ru: "Шея"
+        },
+        {
+            id: 8,
+            eng: "A mouth /ау/",
+            ru: "Рот"
+        },
+        {
+            id: 9,
+            eng: "Lips /липс/",
+            ru: "Губы"
+        },
+        {
+            id: 10,
+            eng: "Teeth /ти/",
+            ru: "Зубы"
+        },
+        {
+            id: 11,
+            eng: "A tooth /ту/",
+            ru: "Зуб"
+        },
+        {
+            id: 12,
+            eng: "eye-brows /ай брАуз/",
+            ru: "Брови"
+        },
+        {
+            id: 13,
+            eng: "long hair",
+            ru: "Длинные Волосы"
+        },
+        {
+            id: 14,
+            eng: "short hair",
+            ru: "Короткие Волосы"
+        },
+        {
+            id: 15,
+            eng: "straight hair /стрЭйт хЭа/",
+            ru: "Прямые Волосы"
+        },
+        {
+            id: 16,
+            eng: "wavy hair /уэйви хэа/",
+            ru: "Волнистые Волосы"
+        },
+        {
+            id: 17,
+            eng: "curly hair /кЁли хэа/",
+            ru: "Кудрявые Волосы"
+        },
+        {
+            id: 18,
+            eng: "Bald /бОлд/",
+            ru: "Лысый"
+        },
+        {
+            id: 19,
+            eng: "A beard /э бИЕд/",
+            ru: "Борода"
+        },
+        {
+            id: 20,
+            eng: "A moustache /э мАсташ/",
+            ru: "Усы"
+        },
+        {
+            id: 21,
+            eng: "A forehead /фОхэд/",
+            ru: "Лоб"
+        },
+        {
+            id: 22,
+            eng: "A tongue /тан/",
+            ru: "Язык"
+        },
+        {
+            id: 23,
+            eng: "cheeks /чикс/",
+            ru: "Щёки"
+        },
+        {
+            id: 24,
+            eng: "A chin /чин/",
+            ru: "Подбородок"
+        },
+        {
+            id: 25,
+            eng: "A fringe /фриндж/",
+            ru: "Чёлка"
+        },
+        {
+            id: 26,
+            eng: "freckles /фрЭклз/",
+            ru: "Веснушки"
+        },
+        {
+            id: 27,
+            eng: "wrinkles /ринклз/",
+            ru: "Морщинки, Складки"
+        },
+        {
+            id: 28,
+            eng: "A tattoo /татУ/",
+            ru: "Татуировка"
+        },
+    ],
+    lowerBody: [
+        {
+            id: 29,
+            eng: "Shoulders /шОулдэрз/",
+            ru: "Плечи"
+        },
+        {
+            id: 30,
+            eng: "Arms /амз/",
+            ru: "Руки"
+        },
+        {
+            id: 31,
+            eng: "An arm /эн арм/",
+            ru: "Рука"
+        },
+        {
+            id: 32,
+            eng: "a breast /э брэст/",
+            ru: "Грудь"
+        },
+        {
+            id: 33,
+            eng: "a chest /чест/",
+            ru: "Грудная Клетка"
+        },
+        {
+            id: 34,
+            eng: "A body /боди/",
+            ru: "Тело"
+        },
+        {
+            id: 35,
+            eng: "hands /хэндз/",
+            ru: "Кисти Рук"
+        },
+        {
+            id: 36,
+            eng: "belly button",
+            ru: "/Бэли Батн/ Пупок (Дословно: Кнопка На Пузе)"
+        },
+        {
+            id: 37,
+            eng: "belly",
+            ru: "Пузико"
+        },
+        {
+            id: 38,
+            eng: "tummy /тамми/",
+            ru: "Животик"
+        },
+        {
+            id: 39,
+            eng: "bottom /ботм/",
+            ru: "Попа"
+        },
+        {
+            id: 40,
+            eng: "beer belly /бИр бЭли/",
+            ru: "Пивное Пузо"
+        },
+        {
+            id: 41,
+            eng: "fingers /фИнГерз/",
+            ru: "Пальцы На Руках"
+        },
+        {
+            id: 42,
+            eng: "wrist /рист/",
+            ru: "Запястье"
+        },
+        {
+            id: 43,
+            eng: "lower back",
+            ru: "Поясница"
+        },
+        {
+            id: 44,
+            eng: "body /боди/",
+            ru: "Туловище, Тело"
+        },
+        {
+            id: 45,
+            eng: "Body parts /боди партс/",
+            ru: "Части Тела"
+        },
+        {
+            id: 46,
+            eng: "knee /ни/",
+            ru: "Колено"
+        },
+        {
+            id: 47,
+            eng: "knees /низ/",
+            ru: "Колени"
+        },
+        {
+            id: 48,
+            eng: "Legs /лэгз/",
+            ru: "Ноги"
+        },
+        {
+            id: 49,
+            eng: "a foot /фут/",
+            ru: "Ступня"
+        },
+        {
+            id: 50,
+            eng: "toes /тоУз/ ",
+            ru: "Пальцы На Ногах"
+        },
+        {
+            id: 51,
+            eng: "Hair /хЭа/",
+            ru: "Волосы"
+        },
+        {
+            id: 52,
+            eng: "Back / бЭк/",
+            ru: "Спина"
+        },
+        {
+            id: 53,
+            eng: "a scar /э скА/",
+            ru: "Шрам"
+        },
+        {
+            id: 54,
+            eng: "a birthmark /бЁthмак/",
+            ru: "Родимое Пятно"
+        },
+        {
+            id: 55,
+            eng: "a mole /э мОул/",
+            ru: "Родинка"
+        },
+        {
+            id: 56,
+            eng: "A heel /хил/",
+            ru: "Пятка"
+        },
+        {
+            id: 57,
+            eng: "Abs /Эбс/",
+            ru: "Пресс (кубики на животе)"
+        },
+    ],
+    allBodyParts: [
+        {
+            id: 1,
+            eng: "A head /э хэд/",
+            ru: "Голова"
+        },
+        {
+            id: 2,
+            eng: "An ear /эн иэ/",
+            ru: "Ухо"
+        },
+        {
+            id: 3,
+            eng: "Ears /Иаз/",
+            ru: "Уши"
+        },
+        {
+            id: 4,
+            eng: "An eye /эн Ай/",
+            ru: "Глаз"
+        },
+        {
+            id: 5,
+            eng: "Eyes /айз/",
+            ru: "Глаза"
+        },
+        {
+            id: 6,
+            eng: "A nose /э ноуз/",
+            ru: "Нос"
+        },
+        {
+            id: 7,
+            eng: "A neck /э нэк/",
+            ru: "Шея"
+        },
+        {
+            id: 8,
+            eng: "A mouth /ау/",
+            ru: "Рот"
+        },
+        {
+            id: 9,
+            eng: "Lips /липс/",
+            ru: "Губы"
+        },
+        {
+            id: 10,
+            eng: "Teeth /ти/",
+            ru: "Зубы"
+        },
+        {
+            id: 11,
+            eng: "A tooth /ту/",
+            ru: "Зуб"
+        },
+        {
+            id: 12,
+            eng: "eye-brows /ай брАуз/",
+            ru: "Брови"
+        },
+        {
+            id: 13,
+            eng: "long hair",
+            ru: "Длинные Волосы"
+        },
+        {
+            id: 14,
+            eng: "short hair",
+            ru: "Короткие Волосы"
+        },
+        {
+            id: 15,
+            eng: "straight hair /стрЭйт хЭа/",
+            ru: "Прямые Волосы"
+        },
+        {
+            id: 16,
+            eng: "wavy hair /уэйви хэа/",
+            ru: "Волнистые Волосы"
+        },
+        {
+            id: 17,
+            eng: "curly hair /кЁли хэа/",
+            ru: "Кудрявые Волосы"
+        },
+        {
+            id: 18,
+            eng: "Bald /бОлд/",
+            ru: "Лысый"
+        },
+        {
+            id: 19,
+            eng: "A beard /э бИЕд/",
+            ru: "Борода"
+        },
+        {
+            id: 20,
+            eng: "A moustache /э мАсташ/",
+            ru: "Усы"
+        },
+        {
+            id: 21,
+            eng: "A forehead /фОхэд/",
+            ru: "Лоб"
+        },
+        {
+            id: 22,
+            eng: "A tongue /тан/",
+            ru: "Язык"
+        },
+        {
+            id: 23,
+            eng: "cheeks /чикс/",
+            ru: "Щёки"
+        },
+        {
+            id: 24,
+            eng: "A chin /чин/",
+            ru: "Подбородок"
+        },
+        {
+            id: 25,
+            eng: "A fringe /фриндж/",
+            ru: "Чёлка"
+        },
+        {
+            id: 26,
+            eng: "freckles /фрЭклз/",
+            ru: "Веснушки"
+        },
+        {
+            id: 27,
+            eng: "wrinkles /ринклз/",
+            ru: "Морщинки, Складки"
+        },
+        {
+            id: 28,
+            eng: "A tattoo /татУ/",
+            ru: "Татуировка"
+        },
+        {
+            id: 29,
+            eng: "Shoulders /шОулдэрз/",
+            ru: "Плечи"
+        },
+        {
+            id: 30,
+            eng: "Arms /амз/",
+            ru: "Руки"
+        },
+        {
+            id: 31,
+            eng: "An arm /эн арм/",
+            ru: "Рука"
+        },
+        {
+            id: 32,
+            eng: "a breast /э брэст/",
+            ru: "Грудь"
+        },
+        {
+            id: 33,
+            eng: "a chest /чест/",
+            ru: "Грудная Клетка"
+        },
+        {
+            id: 34,
+            eng: "A body /боди/",
+            ru: "Тело"
+        },
+        {
+            id: 35,
+            eng: "hands /хэндз/",
+            ru: "Кисти Рук"
+        },
+        {
+            id: 36,
+            eng: "belly button",
+            ru: "/Бэли Батн/ Пупок (Дословно: Кнопка На Пузе)"
+        },
+        {
+            id: 37,
+            eng: "belly",
+            ru: "Пузико"
+        },
+        {
+            id: 38,
+            eng: "tummy /тамми/",
+            ru: "Животик"
+        },
+        {
+            id: 39,
+            eng: "bottom /ботм/",
+            ru: "Попа"
+        },
+        {
+            id: 40,
+            eng: "beer belly /бИр бЭли/",
+            ru: "Пивное Пузо"
+        },
+        {
+            id: 41,
+            eng: "fingers /фИнГерз/",
+            ru: "Пальцы На Руках"
+        },
+        {
+            id: 42,
+            eng: "wrist /рист/",
+            ru: "Запястье"
+        },
+        {
+            id: 43,
+            eng: "lower back",
+            ru: "Поясница"
+        },
+        {
+            id: 44,
+            eng: "body /боди/",
+            ru: "Туловище, Тело"
+        },
+        {
+            id: 45,
+            eng: "Body parts /боди партс/",
+            ru: "Части Тела"
+        },
+        {
+            id: 46,
+            eng: "knee /ни/",
+            ru: "Колено"
+        },
+        {
+            id: 47,
+            eng: "knees /низ/",
+            ru: "Колени"
+        },
+        {
+            id: 48,
+            eng: "Legs /лэгз/",
+            ru: "Ноги"
+        },
+        {
+            id: 49,
+            eng: "a foot /фут/",
+            ru: "Ступня"
+        },
+        {
+            id: 50,
+            eng: "toes /тоУз/ ",
+            ru: "Пальцы На Ногах"
+        },
+        {
+            id: 51,
+            eng: "Hair /хЭа/",
+            ru: "Волосы"
+        },
+        {
+            id: 52,
+            eng: "Back / бЭк/",
+            ru: "Спина"
+        },
+        {
+            id: 53,
+            eng: "a scar /э скА/",
+            ru: "Шрам"
+        },
+        {
+            id: 54,
+            eng: "a birthmark /бЁthмак/",
+            ru: "Родимое Пятно"
+        },
+        {
+            id: 55,
+            eng: "a mole /э мОул/",
+            ru: "Родинка"
+        },
+        {
+            id: 56,
+            eng: "A heel /хил/",
+            ru: "Пятка"
+        },
+        {
+            id: 57,
+            eng: "Abs /Эбс/",
+            ru: "Пресс (кубики на животе)"
+        },
+        {
+            id: 58,
+            eng: "firm/фёрм/",
+            ru: "Упругая, упругий"
+        },
+        {
+            id: 59,
+            eng: "Fit",
+            ru: "Спортивный, атлетичный, подтянутый"
+        },
+        {
+            id: 60,
+            eng: "Slim",
+            ru: "Стройный"
+        },
+        {
+            id: 61,
+            eng: "wide /уайд/",
+            ru: "Широкий"
+        },
+        {
+            id: 62,
+            eng: "fat /фэт/",
+            ru: "Жирный"
+        },
+        {
+            id: 63,
+            eng: "short /шорт/",
+            ru: "Короткий"
+        },
+        {
+            id: 64,
+            eng: "hairy /хЭйри/",
+            ru: "Волосатый"
+        },
+        {
+            id: 65,
+            eng: "muscular /мАскьюла/",
+            ru: "Мускулистый"
+        },
+        {
+            id: 66,
+            eng: "large /ладж/",
+            ru: "Крупный"
+        },
+        {
+            id: 67,
+            eng: "long /лон/",
+            ru: "Длинный"
+        },
+        {
+            id: 68,
+            eng: "pierced /пирст/",
+            ru: "Проколотоый"
+        },
+        {
+            id: 69,
+            eng: "crooked /крукИд/",
+            ru: "Кривые"
+        },
+        {
+            id: 70,
+            eng: "round /рАунд/",
+            ru: "Круглый"
+        },
+        {
+            id: 71,
+            eng: "square /скуЭэ/",
+            ru: "Квадратный"
+        },
+        {
+            id: 72,
+            eng: "skinny /скИни/",
+            ru: "Тощий"
+        },
+        {
+            id: 73,
+            eng: "thick",
+            ru: "Толстый"
+        },
+        {
+            id: 74,
+            eng: "thin",
+            ru: "Худой, Тонкий"
+        },
+        {
+            id: 75,
+            eng: "Big/биг/",
+            ru: "Большой"
+        },
+        {
+            id: 76,
+            eng: "Small/смОл/",
+            ru: "Маленький"
+        },
+    ], 
+
+
+  sara: [
+    {
+        id:1,
+        eng:"wake up /уЭйк ап/",
+        ru:"просыпаться рано"
+        },
+        {
+        id:2,
+        eng:"get up /гет ап/",
+        ru:"вставать"
+        },
+        {
+        id:3,
+        eng:"have a shower /шАуэ/",
+        ru:"принимать душ  “иметь душ”"
+        },
+        {
+        id:4,
+        eng:"take a shower /шАуэ/",
+        ru:"принимать душ  “взять душ”"
+        },
+        {
+        id:5,
+        eng:"brush teeth /браш/",
+        ru:"начищать зубы  "
+        },
+        {
+        id:6,
+        eng:"clean teeth /клИн/ ",
+        ru:"чистить зубы"
+        },
+        {
+        id:7,
+        eng:"get dressed /дрЭСТ/",
+        ru:"одеваться"
+        },
+        {
+        id:8,
+        eng:"go to the kitchen ",
+        ru:"идти на кухню"
+        },
+        {
+        id:9,
+        eng:"go to the bathroom /бАthрум/",
+        ru:"идти в ванную"
+        },
+        {
+        id:10,
+        eng:"go to the bedroom /бЭдрум/",
+        ru:"идти в спальню"
+        },
+        {
+        id:11,
+        eng:"go to the living room /лИвин/ ",
+        ru:"идти в гостиную"
+        },
+        {
+        id:12,
+        eng:"have a cup of coffee or tea /тИ/",
+        ru:"пить чашечку кофе или чая"
+        },
+        {
+        id:13,
+        eng:"take a cup of tea /тИ/",
+        ru:"взять чашку чая"
+        },
+        {
+        id:14,
+        eng:"get a glass of wine  /уАйн/",
+        ru:"достать бокал вина"
+        },
+        {
+        id:15,
+        eng:"drink a bottle of milk ",
+        ru:"выпить бутылку молока"
+        },
+        {
+        id:16,
+        eng:"leave the house ",
+        ru:"покидать дом"
+        },
+        {
+        id:17,
+        eng:"walk /вОлк/",
+        ru:"гулять"
+        },
+        {
+        id:18,
+        eng:"walk to the station ",
+        ru:"гулять до станции"
+        },
+        {
+        id:19,
+        eng:"wait for something ",
+        ru:"ждать чего-то"
+        },
+        {
+        id:20,
+        eng:"wait for the train ",
+        ru:"ждать поезда"
+        },
+        {
+        id:21,
+        eng:"look at the phone ",
+        ru:"смотреть на телефон"
+        },
+        {
+        id:22,
+        eng:"walk somewhere /сАмуЭэ/",
+        ru:"гулять где-то"
+        },
+        {
+        id:23,
+        eng:"work for a big company ",
+        ru:"работать на большую компанию"
+        },
+        {
+        id:24,
+        eng:"walk to a bus stop ",
+        ru:"прогуляться до остановки автобуса"
+        },
+        {
+        id:25,
+        eng:"talk to somebody /тОк ту сАмбади/",
+        ru:"говорить с кем-то"
+        },
+        {
+        id:26,
+        eng:"talk /тОк/",
+        ru:"говорить"
+        },
+        {
+        id:27,
+        eng:"talk on the phone ",
+        ru:"говорить по телефону"
+        },
+        {
+        id:28,
+        eng:"speak with somebody ",
+        ru:"разговаривать с кем-то"
+        },
+        {
+        id:29,
+        eng:"write /рАйт/",
+        ru:"писАть"
+        },
+        {
+        id:30,
+        eng:"write an e-mail ",
+        ru:"писать письма"
+        },
+        {
+        id:31,
+        eng:"have meetings ",
+        ru:"иметь встречи"
+        },
+        {
+        id:32,
+        eng:"have lunch in a café /кЭфи/",
+        ru:"обедать в кафе"
+        },
+        {
+        id:33,
+        eng:"have lunch at work ",
+        ru:"обедать на работе"
+        },
+        {
+        id:34,
+        eng:"work all day  /Ол дЭй/",
+        ru:"работать весь день"
+        },
+        {
+        id:35,
+        eng:"finish work day ",
+        ru:"заканчивать рабочий день"
+        },
+        {
+        id:36,
+        eng:"go home ",
+        ru:"идти домой"
+        },
+        {
+        id:37,
+        eng:"cook dinner ",
+        ru:"готовить ужин"
+        },
+        {
+        id:38,
+        eng:"watch TeleVision  (TV) /уОтч тЕлевИжн/",
+        ru:"смотреть телевизор"
+        },
+        {
+        id:39,
+        eng:"have dinner /хэв дИнэ/",
+        ru:"ужинать"
+        },
+        {
+        id:40,
+        eng:"go to bed ",
+        ru:"идти в постель"
+        },
+        {
+        id:41,
+        eng:"have dreams /дрИмз/",
+        ru:"иметь мечты"
+        },
+        {
+        id:42,
+        eng:"dream /дрИм/",
+        ru:"мечтать"
+        },
+        {
+        id:43,
+        eng:"get e-mails ",
+        ru:"получать письма"
+        },
+        {
+        id:44,
+        eng:"check e-mails ",
+        ru:"проверять почту"
+        },
+        {
+        id:45,
+        eng:"wait for somebody /уЭйт фО сАмбади/",
+        ru:"ждать кого-то"
+        },
+        {
+        id:46,
+        eng:"sing a song /сИн Э сОн/",
+        ru:"петь песню"
+        },
+        {
+        id:47,
+        eng:"do number one /нАмбэ уАн/",
+        ru:"ходить 'по-маленькому' (писать)"
+        },
+        {
+        id:48,
+        eng:"do number two /нАмбэ тУ/",
+        ru:"ходить 'по-большому' (какать)"
+        },
+        {
+        id:49,
+        eng:"feed pets /фид пЭтс/",
+        ru:"кормить питомцев"
+        },
+        {
+        id:50,
+        eng:"lie for 5 mins /лай фо 5 мИнэтс/",
+        ru:"лежать в течении 5 минут"
+        },
+        {
+        id:51,
+        eng:"oversleep /оУвЭслип/",
+        ru:"проспать"
+        },
+        {
+        id:52,
+        eng:"kiss someone /cАм уАн/",
+        ru:"целовать кого-то"
+        },
+    ],
+    verbs002: [
+        {
+            id:25,
+            eng:"talk to somebody /тОк ту сАмбади/",
+            ru:"говорить с кем-то"
+            },
+            {
+            id:26,
+            eng:"talk /тОк/",
+            ru:"говорить"
+            },
+            {
+            id:27,
+            eng:"talk on the phone ",
+            ru:"говорить по телефону"
+            },
+            {
+            id:28,
+            eng:"speak with somebody ",
+            ru:"разговаривать с кем-то"
+            },
+            {
+            id:29,
+            eng:"write /рАйт/",
+            ru:"писАть"
+            },
+            {
+            id:30,
+            eng:"write an e-mail ",
+            ru:"писать письма"
+            },
+            {
+            id:31,
+            eng:"have meetings ",
+            ru:"иметь встречи"
+            },
+            {
+            id:32,
+            eng:"have lunch in a café /кЭфи/",
+            ru:"обедать в кафе"
+            },
+            {
+            id:33,
+            eng:"have lunch at work ",
+            ru:"обедать на работе"
+            },
+            {
+            id:34,
+            eng:"work all day  /Ол дЭй/",
+            ru:"работать весь день"
+            },
+            {
+            id:35,
+            eng:"finish work day ",
+            ru:"заканчивать рабочий день"
+            },
+            {
+            id:36,
+            eng:"go home ",
+            ru:"идти домой"
+            },
+            {
+            id:37,
+            eng:"cook dinner ",
+            ru:"готовить ужин"
+            },
+            {
+            id:38,
+            eng:"watch TeleVision  (TV) /уОтч тЕлевИжн/",
+            ru:"смотреть телевизор"
+            },
+            {
+            id:39,
+            eng:"have dinner /хэв дИнэ/",
+            ru:"ужинать"
+            },
+            {
+            id:40,
+            eng:"go to bed ",
+            ru:"идти в постель"
+            },
+            {
+            id:41,
+            eng:"have dreams /дрИмз/",
+            ru:"иметь мечты"
+            },
+            {
+            id:42,
+            eng:"dream /дрИм/",
+            ru:"мечтать"
+            },
+            {
+            id:43,
+            eng:"get e-mails ",
+            ru:"получать письма"
+            },
+            {
+            id:44,
+            eng:"check e-mails ",
+            ru:"проверять почту"
+            },
+            {
+            id:45,
+            eng:"wait for somebody /уЭйт фО сАмбади/",
+            ru:"ждать кого-то"
+            },
+            {
+            id:46,
+            eng:"sing a song /сИн Э сОн/",
+            ru:"петь песню"
+            },
+            {
+            id:47,
+            eng:"do number one /нАмбэ уАн/",
+            ru:"ходить 'по-маленькому' (писать)"
+            },
+            {
+            id:48,
+            eng:"do number two /нАмбэ тУ/",
+            ru:"ходить 'по-большому' (какать)"
+            },
+            {
+            id:49,
+            eng:"feed pets /фид пЭтс/",
+            ru:"кормить питомцев"
+            },
+            {
+            id:50,
+            eng:"lie for 5 mins /лай фо 5 мИнэтс/",
+            ru:"лежать в течении 5 минут"
+            },
+            {
+            id:51,
+            eng:"oversleep /оУвЭслип/",
+            ru:"проспать"
+            },
+            {
+            id:52,
+            eng:"kiss someone /cАм уАн/",
+            ru:"целовать кого-то"
+            },
+    ],
+    verbs001: [
+        {
+            id:1,
+            eng:"wake up /уЭйк ап/",
+            ru:"просыпаться рано"
+            },
+            {
+            id:2,
+            eng:"get up /гет ап/",
+            ru:"вставать"
+            },
+            {
+            id:3,
+            eng:"have a shower /шАуэ/",
+            ru:"принимать душ  “иметь душ”"
+            },
+            {
+            id:4,
+            eng:"take a shower /шАуэ/",
+            ru:"принимать душ  “взять душ”"
+            },
+            {
+            id:5,
+            eng:"brush teeth /браш/",
+            ru:"начищать зубы  "
+            },
+            {
+            id:6,
+            eng:"clean teeth /клИн/ ",
+            ru:"чистить зубы"
+            },
+            {
+            id:7,
+            eng:"get dressed /дрЭСТ/",
+            ru:"одеваться"
+            },
+            {
+            id:8,
+            eng:"go to the kitchen ",
+            ru:"идти на кухню"
+            },
+            {
+            id:9,
+            eng:"go to the bathroom /бАthрум/",
+            ru:"идти в ванную"
+            },
+            {
+            id:10,
+            eng:"go to the bedroom /бЭдрум/",
+            ru:"идти в спальню"
+            },
+            {
+            id:11,
+            eng:"go to the living room /лИвин/ ",
+            ru:"идти в гостиную"
+            },
+            {
+            id:12,
+            eng:"have a cup of coffee or tea /тИ/",
+            ru:"пить чашечку кофе или чая"
+            },
+            {
+            id:13,
+            eng:"take a cup of tea /тИ/",
+            ru:"взять чашку чая"
+            },
+            {
+            id:14,
+            eng:"get a glass of wine  /уАйн/",
+            ru:"достать бокал вина"
+            },
+            {
+            id:15,
+            eng:"drink a bottle of milk ",
+            ru:"выпить бутылку молока"
+            },
+            {
+            id:16,
+            eng:"leave the house ",
+            ru:"покидать дом"
+            },
+            {
+            id:17,
+            eng:"walk /вОлк/",
+            ru:"гулять"
+            },
+            {
+            id:18,
+            eng:"walk to the station ",
+            ru:"гулять до станции"
+            },
+            {
+            id:19,
+            eng:"wait for something ",
+            ru:"ждать чего-то"
+            },
+            {
+            id:20,
+            eng:"wait for the train ",
+            ru:"ждать поезда"
+            },
+            {
+            id:21,
+            eng:"look at the phone ",
+            ru:"смотреть на телефон"
+            },
+            {
+            id:22,
+            eng:"walk somewhere /сАмуЭэ/",
+            ru:"гулять где-то"
+            },
+            {
+            id:23,
+            eng:"work for a big company ",
+            ru:"работать на большую компанию"
+            },
+            {
+            id:24,
+            eng:"walk to a bus stop ",
+            ru:"прогуляться до остановки автобуса"
+            },
+    ],
+  
+
+    compareadjectiveser: [
+        {
+            id:1, 
+            eng:"более  angry,  это  angrier  ",
+            ru:"the  angriest  это самый сердитый"
+            },
+            {
+            id:2,
+            eng:"более  bald,  это  balder  ",
+            ru:"the  baldest  это самый лысый"
+            },
+            {
+            id:3,
+            eng:"более  big,  это  bigger  ",
+            ru:"the  biggest  это самый большой"
+            },
+            {
+            id:4,
+            eng:"более black, это blacker ",
+            ru:"the  blackest  это самый Черный"
+            },
+            {
+            id:5,
+            eng:"более bloody, это bloodier ",
+            ru:"the  bloodiest  это самый кровавый"
+            },
+            {
+            id:6,
+            eng:"более blue, это bluer ",
+            ru:"the  bluest  это самый синий"
+            },
+            {
+            id:7,
+            eng:"более bossy, это bossier ",
+            ru:"the  bossiest  это самый властный"
+            },
+            {
+            id:8,
+            eng:"более brave, это braver ",
+            ru:"the  bravest  это самый храбрый"
+            },
+            {
+            id:9,
+            eng:"более bright, это brighter ",
+            ru:"the  brightest  это самый яркий"
+            },
+            {
+            id:10,
+            eng:"более busy, это busier ",
+            ru:"the  busiest  это самый занятой"
+            },
+            {
+            id:11,
+            eng:"более calm, это calmer ",
+            ru:"the  calmest  это самый спокойный"
+            },
+            {
+            id:12,
+            eng:"более cheap, это cheaper ",
+            ru:"the  cheapest  это самый дешевый"
+            },
+            {
+            id:13,
+            eng:"более clean, это cleaner ",
+            ru:"the  cleanest  это самый чистый"
+            },
+            {
+            id:14,
+            eng:"более close, это closer ",
+            ru:"the  closest  это самый близкий"
+            },
+            {
+            id:15,
+            eng:"более cloudy, это cloudier ",
+            ru:"the  cloudiest  это самый облачный"
+            },
+            {
+            id:16,
+            eng:"более clumsy, это clumsier ",
+            ru:"the  clumsiest  это самый неуклюжий"
+            },
+            {
+            id:17,
+            eng:"более cold, это colder ",
+            ru:"the  coldest  это самый холодный"
+            },
+            {
+            id:18,
+            eng:"более cool, это cooler ",
+            ru:"the  coolest  это самый крутой"
+            },
+            {
+            id:19,
+            eng:"более cozy, это handier ",
+            ru:"the  handiest  это самый уютный"
+            },
+            {
+            id:20,
+            eng:"более crazy, это crazier ",
+            ru:"the  craziest  это самый сумасшедший"
+            },
+            {
+            id:21,
+            eng:"более cute, это cuter ",
+            ru:"the  cutest  это самый милый"
+            },
+            {
+            id:22,
+            eng:"более dark, это darker ",
+            ru:"the  darkest  это самый темный"
+            },
+            {
+            id:23,
+            eng:"более deep, это deeper ",
+            ru:"the  deepest  это самый глубокий"
+            },
+            {
+            id:24,
+            eng:"более dirty, это dirtier ",
+            ru:"the  dirtiest  это самый грязный"
+            },
+            {
+            id:25,
+            eng:"более dry, это drier ",
+            ru:"the  driest  это самый сухой"
+            },
+            {
+            id:26,
+            eng:"более early, это earlier ",
+            ru:"the  earliest  это самый ранний"
+            },
+            {
+            id:27,
+            eng:"более easy, это easier ",
+            ru:"the  easiest  это самый легкий"
+            },
+            {
+            id:28,
+            eng:"более fast, это faster ",
+            ru:"the  fastest  это самый быстрый"
+            },
+            {
+            id:29,
+            eng:"более fat, это fatter ",
+            ru:"the  fattest  это самый жирный"
+            },
+            {
+            id:30,
+            eng:"более few, это fewer ",
+            ru:"the  fewest  это самый мало"
+            },
+            {
+            id:31,
+            eng:"более friendly, это friendlier ",
+            ru:"the  friendliest  это самый дружелюбный"
+            },
+            {
+            id:32,
+            eng:"более funny, это funnier ",
+            ru:"the  funniest  это самый смешной"
+            },
+            {
+            id:33,
+            eng:"более great, это greater ",
+            ru:"the  greatest  это самый великий"
+            },
+            {
+            id:34,
+            eng:"более greedy, это greedier ",
+            ru:"the  greediest  это самый жадный"
+            },
+            {
+            id:35,
+            eng:"более green, это greener ",
+            ru:"the  greenest  это самый зелёный"
+            },
+            {
+            id:36,
+            eng:"более hairy, это hairier ",
+            ru:"the  hairiest  это самый волосатый"
+            },
+            {
+            id:37,
+            eng:"более happy, это happier ",
+            ru:"the  happiest  это самый счастливый"
+            },
+            {
+            id:38,
+            eng:"более hard, это harder ",
+            ru:"the  hardest  это самый трудный"
+            },
+            {
+            id:39,
+            eng:"более healthy, это healthier ",
+            ru:"the  healthiest  это самый здоровый"
+            },
+            {
+            id:40,
+            eng:"более heavy, это heavier ",
+            ru:"the  heaviest  это самый тяжелый"
+            },
+            {
+            id:41,
+            eng:"более hot, это hotter ",
+            ru:"the  hottest  это самый горячий"
+            },
+            {
+            id:42,
+            eng:"более large, это larger ",
+            ru:"the  largest  это самый большой"
+            },
+            {
+            id:43,
+            eng:"более late, это later ",
+            ru:"the  latest  это самый поздний"
+            },
+            {
+            id:44,
+            eng:"более lazy, это lazier ",
+            ru:"the  laziest  это самый ленивый"
+            },
+            {
+            id:45,
+            eng:"более low, это lower ",
+            ru:"the  lowest  это самый низкий"
+            },
+            {
+            id:46,
+            eng:"более mad, это madder ",
+            ru:"the  maddest  это самый безумный"
+            },
+            {
+            id:47,
+            eng:"более nice, это nicer ",
+            ru:"the  nicest  это самый приятный"
+            },
+            {
+            id:48,
+            eng:"более sad, это sadder ",
+            ru:"the  saddest  это самый грустный"
+            },
+            {
+            id:49,
+            eng:"более safe, это safer ",
+            ru:"the  safest  это самый безопасный"
+            },
+            {
+            id:50,
+            eng:"более shitty, это shittier ",
+            ru:"the  shittiest  это самый дерьмовенький"
+            },
+            {
+            id:51,
+            eng:"более short, это shorter ",
+            ru:"the  shortest  это самый короткий, низкий"
+            },
+            {
+            id:52,
+            eng:"более shy, это shyer ",
+            ru:"the  shyest  это самый застенчивый"
+            },
+            {
+            id:53,
+            eng:"более silly, это sillier ",
+            ru:"the  silliest  это самый глупый"
+            },
+            {
+            id:54,
+            eng:"более simple, это simpler ",
+            ru:"the  plainest  это самый простой"
+            },
+            {
+            id:55,
+            eng:"более slow, это slower ",
+            ru:"the  slowest  это самый медленный"
+            },
+            {
+            id:56,
+            eng:"более small, это smaller ",
+            ru:"the  smallest  это самый маленький"
+            },
+            {
+            id:57,
+            eng:"более smart, это smarter ",
+            ru:"the  smartest  это самый сообразительный"
+            },
+            {
+            id:58,
+            eng:"более strong, это stronger ",
+            ru:"the  strongest  это самый сильный"
+            },
+            {
+            id:59,
+            eng:"более sunny, это sunnier ",
+            ru:"the  sunniest  это самый солнечный"
+            },
+            {
+            id:60,
+            eng:"более thick, это thicker ",
+            ru:"the thickest  это самый толстый"
+            },
+            {
+            id:61,
+            eng:"более thin, это thinner ",
+            ru:"the  thinnest  это самый тонкий"
+            },
+            {
+            id:62,
+            eng:"более ugly, это uglier ",
+            ru:"the  ugliest  это самый уродливый"
+            },
+            {
+            id:63,
+            eng:"более warm, это warmer ",
+            ru:"the  warmest  это самый теплый"
+            },
+            {
+            id:64,
+            eng:"более young, это younger ",
+            ru:"the  youngest  это самый молодой"
+            },
+            
+    ],
+    compareadjectivesmore: [
+        {
+            id:1, 
+            eng:"более  alive , more alive  ",
+            ru:"the  most  alive самый живой"
+            },
+            {
+            id:2,
+            eng:"более  amazing , more amazing  ",
+            ru:"the  most  amazing самый удивительный"
+            },
+            {
+            id:3,
+            eng:"более  annoying , more annoying  ",
+            ru:"the  most  annoying самый бесящий"
+            },
+            {
+            id:4,
+            eng:"более attractive , more attractive ",
+            ru:"the  most  attractive самый привлекательный"
+            },
+            {
+            id:5,
+            eng:"более awesome , more awesome ",
+            ru:"the  most  awesome самый офигенный"
+            },
+            {
+            id:6,
+            eng:"более beautiful , more beautiful ",
+            ru:"the  most  beautiful самый красивая"
+            },
+            {
+            id:7,
+            eng:"более boring , more boring ",
+            ru:"the  most  boring самый скучный"
+            },
+            {
+            id:8,
+            eng:"более bothering , more bothering ",
+            ru:"the  most  bothering самый раздражающий"
+            },
+            {
+            id:9,
+            eng:"более breathtaking , more breathtaking ",
+            ru:"the  most  breathtaking самый захватывающий дух"
+            },
+            {
+            id:10,
+            eng:"более correct , more correct ",
+            ru:"the  most  correct самый верный"
+            },
+            {
+            id:11,
+            eng:"более disgusting , more disgusting ",
+            ru:"the  most  disgusting самый отвратительный"
+            },
+            {
+            id:12,
+            eng:"более expensive , more expensive ",
+            ru:"the  most  expensive самый дорогой"
+            },
+            {
+            id:13,
+            eng:"более fabulous , more fabulous ",
+            ru:"the  most  fabulous самый поразительный"
+            },
+            {
+            id:14,
+            eng:"более fantastic , more fantastic ",
+            ru:"the  most  fantastic самый фантастичный"
+            },
+            {
+            id:15,
+            eng:"более fashionable , more fashionable ",
+            ru:"the  most  fashionable самый модный"
+            },
+            {
+            id:16,
+            eng:"более favorite , more favorite ",
+            ru:"the  most  favorite самый любимый"
+            },
+            {
+            id:17,
+            eng:"более handsome , more handsome ",
+            ru:"the  most  handsome самый красивый (муж)"
+            },
+            {
+            id:18,
+            eng:"более hollow , more hollow ",
+            ru:"the  most  hollow самый пустотелый"
+            },
+            {
+            id:19,
+            eng:"более immortal , more immortal ",
+            ru:"the  most  immortal самый бессмертный"
+            },
+            {
+            id:20,
+            eng:"более incredible , more incredible ",
+            ru:"the  most  incredible самый невероятный"
+            },
+            {
+            id:21,
+            eng:"более intelligent , more intelligent ",
+            ru:"the  most  intelligent самый образованный"
+            },
+            {
+            id:22,
+            eng:"более interesting , more interesting ",
+            ru:"the  most  interesting самый интересный"
+            },
+            {
+            id:23,
+            eng:"более legendary , more legendary ",
+            ru:"the  most  legendary самый легендарный"
+            },
+            {
+            id:24,
+            eng:"более muscular , more muscular ",
+            ru:"the  most  muscular самый мускулистый"
+            },
+            {
+            id:25,
+            eng:"более overweight , more overweight ",
+            ru:"the  most  overweight самый полноватый"
+            },
+            {
+            id:26,
+            eng:"более reliable , more reliable ",
+            ru:"the  most  reliable самый надёжный"
+            },
+            {
+            id:27,
+            eng:"более scared , more scared ",
+            ru:"the  the most  scared самый напуганный"
+            },
+            {
+            id:28,
+            eng:"более selfish , more selfish ",
+            ru:"the most  selfish самый эгоистичный"
+            },
+            {
+            id:29,
+            eng:"более shocking , more shocking ",
+            ru:"the  most  shocking самый шокирующий"
+            },
+            {
+            id:30,
+            eng:"более spacious , more spacious ",
+            ru:"the  most  spacious самый просторный"
+            },
+            {
+            id:31,
+            eng:"более special , more special ",
+            ru:"the  most  special самый особенный"
+            },
+            {
+            id:32,
+            eng:"более stupid , more stupid ",
+            ru:"the  most  stupid самый тупой"
+            },
+            {
+            id:33,
+            eng:"более successful , more successful ",
+            ru:"the  most  successful самый успешный"
+            },
+            {
+            id:34,
+            eng:"более tanned , more tanned ",
+            ru:"the  most  tanned самый загорелый"
+            },
+            {
+            id:35,
+            eng:"более vulgar , more vulgar ",
+            ru:"the  most  vulgar самый вульгарный"
+            },
+            {
+            id:36,
+            eng:"более wonderful , more wonderful ",
+            ru:"the  the most  wonderful самый замечательный"
+            },
+            {
+            id:37,
+            eng:"более evil , more evil evil ",
+            ru:"the  most  evil самый злой"
+            },
+            {
+            id:38,
+            eng:"более nervous , more nervous nervous ",
+            ru:"the  most  nervous самый нервный"
+            },
+            
+    ],
+    compareadjectivesb2: [
+        {
+            id:1, 
+            eng:"сравнительная степень для `alive`  ",
+            ru:"more  alive, the  most самый живой"
+            },
+            {
+            id:2,
+            eng:"сравнительная степень для `amazing`  ",
+            ru:"more  amazing  ,  the  most самый удивительный"
+            },
+            {
+            id:3,
+            eng:"сравнительная степень для `angry`  ",
+            ru:"angrier  angry  ,  the  angriest самый сердитый"
+            },
+            {
+            id:4,
+            eng:"сравнительная степень для `annoying` ",
+            ru:"more annoying  ,  the  most самый бесящий"
+            },
+            {
+            id:5,
+            eng:"сравнительная степень для `attractive` ",
+            ru:"more attractive  ,  the  most самый привлекательный"
+            },
+            {
+            id:6,
+            eng:"сравнительная степень для `awesome` ",
+            ru:"more awesome  ,  the  most самый офигенный"
+            },
+            {
+            id:7,
+            eng:"сравнительная степень для `bad` ",
+            ru:"worse bad  ,  the  worst самый плохой"
+            },
+            {
+            id:8,
+            eng:"сравнительная степень для `bald` ",
+            ru:"balder bald  ,  the  baldest самый лысый"
+            },
+            {
+            id:9,
+            eng:"сравнительная степень для `beautiful` ",
+            ru:"more beautiful  ,  the  most самый красивая"
+            },
+            {
+            id:10,
+            eng:"сравнительная степень для `big` ",
+            ru:"bigger big  ,  the  biggest самый большой"
+            },
+            {
+            id:11,
+            eng:"сравнительная степень для `black` ",
+            ru:"blacker black  ,  the  blackest самый Черный"
+            },
+            {
+            id:12,
+            eng:"сравнительная степень для `bloody` ",
+            ru:"bloodier bloody  ,  the  bloodiest самый кровавый"
+            },
+            {
+            id:13,
+            eng:"сравнительная степень для `blue` ",
+            ru:"bluer blue  ,  the  bluest самый синий"
+            },
+            {
+            id:14,
+            eng:"сравнительная степень для `bold` ",
+            ru:"bolder bold  ,  the  boldest самый смелый"
+            },
+            {
+            id:15,
+            eng:"сравнительная степень для `boring` ",
+            ru:"more boring  ,  the  most самый скучный"
+            },
+            {
+            id:16,
+            eng:"сравнительная степень для `bossy` ",
+            ru:"bossier bossy  ,  the  bossiest самый властный"
+            },
+            {
+            id:17,
+            eng:"сравнительная степень для `bothering` ",
+            ru:"more bothering  ,  the  most самый раздражающий"
+            },
+            {
+            id:18,
+            eng:"сравнительная степень для `brave` ",
+            ru:"braver brave  ,  the  bravest самый храбрый"
+            },
+            {
+            id:19,
+            eng:"сравнительная степень для `breathtaking` ",
+            ru:"more breathtaking  ,  the  most самый захватывающий дух"
+            },
+            {
+            id:20,
+            eng:"сравнительная степень для `bright` ",
+            ru:"brighter bright  ,  the  brightest самый яркий"
+            },
+            {
+            id:21,
+            eng:"сравнительная степень для `busy` ",
+            ru:"busier busy  ,  the  busiest самый занятой"
+            },
+            {
+            id:22,
+            eng:"сравнительная степень для `calm` ",
+            ru:"calmer calm  ,  the  calmest самый спокойный"
+            },
+            {
+            id:23,
+            eng:"сравнительная степень для `cheap` ",
+            ru:"cheaper cheap  ,  the  cheapest самый дешевый"
+            },
+            {
+            id:24,
+            eng:"сравнительная степень для `clean` ",
+            ru:"cleaner clean  ,  the  cleanest самый чистый"
+            },
+            {
+            id:25,
+            eng:"сравнительная степень для `close` ",
+            ru:"closer close  ,  the  closest самый близкий"
+            },
+            {
+            id:26,
+            eng:"сравнительная степень для `cloudy` ",
+            ru:"cloudier cloudy  ,  the  cloudiest самый облачный"
+            },
+            {
+            id:27,
+            eng:"сравнительная степень для `clumsy` ",
+            ru:"clumsier clumsy  ,  the  clumsiest самый неуклюжий"
+            },
+            {
+            id:28,
+            eng:"сравнительная степень для `cold` ",
+            ru:"colder cold  ,  the  coldest самый холодный"
+            },
+            {
+            id:29,
+            eng:"сравнительная степень для `cool` ",
+            ru:"cooler cool  ,  the  coolest самый крутой"
+            },
+            {
+            id:30,
+            eng:"сравнительная степень для `correct` ",
+            ru:"more correct  ,  the  most самый верный"
+            },
+            {
+            id:31,
+            eng:"сравнительная степень для `cozy` ",
+            ru:"handier cozy  ,  the  handiest самый уютный"
+            },
+            {
+            id:32,
+            eng:"сравнительная степень для `crazy` ",
+            ru:"crazier crazy  ,  the  craziest самый сумасшедший"
+            },
+            {
+            id:33,
+            eng:"сравнительная степень для `crispy` ",
+            ru:"crispier crispy  ,  the  crispiest самый хрустящий"
+            },
+            {
+            id:34,
+            eng:"сравнительная степень для `curly` ",
+            ru:"curlier curly  ,  the  curliest самый кудрявый"
+            },
+            {
+            id:35,
+            eng:"сравнительная степень для `cute` ",
+            ru:"cuter cute  ,  the  cutest самый милый"
+            },
+            {
+            id:36,
+            eng:"сравнительная степень для `dark` ",
+            ru:"darker dark  ,  the  darkest самый темный"
+            },
+            {
+            id:37,
+            eng:"сравнительная степень для `deadly` ",
+            ru:"deadlier deadly  ,  the  deadliest самый смертельный"
+            },
+            {
+            id:38,
+            eng:"сравнительная степень для `deep` ",
+            ru:"deeper deep  ,  the  deepest самый глубокий"
+            },
+            {
+            id:39,
+            eng:"сравнительная степень для `dirty` ",
+            ru:"dirtier dirty  ,  the  dirtiest самый грязный"
+            },
+            {
+            id:40,
+            eng:"сравнительная степень для `disgusting` ",
+            ru:"more disgusting  ,  the  most самый отвратительный"
+            },
+            {
+            id:41,
+            eng:"сравнительная степень для `drunk` ",
+            ru:"drunker drunk  ,  the  drunkest самый пьяный"
+            },
+            {
+            id:42,
+            eng:"сравнительная степень для `dry` ",
+            ru:"drier dry  ,  the  driest самый сухой"
+            },
+            {
+            id:43,
+            eng:"сравнительная степень для `dull` ",
+            ru:"duller dull  ,  the  dullest самый затупившийся"
+            },
+            {
+            id:44,
+            eng:"сравнительная степень для `dumb` ",
+            ru:"dumber dumb  ,  the  dumbest самый болван"
+            },
+            {
+            id:45,
+            eng:"сравнительная степень для `dusty` ",
+            ru:"dustier dusty  ,  the  dustiest самый пыльный"
+            },
+            {
+            id:46,
+            eng:"сравнительная степень для `early` ",
+            ru:"earlier early  ,  the  earliest самый ранний"
+            },
+            {
+            id:47,
+            eng:"сравнительная степень для `easy` ",
+            ru:"easier easy  ,  the  easiest самый легкий"
+            },
+            {
+            id:48,
+            eng:"сравнительная степень для `evil` ",
+            ru:"more evil evil  ,  the  most самый злой"
+            },
+            {
+            id:49,
+            eng:"сравнительная степень для `expensive` ",
+            ru:"more expensive  ,  the  most самый дорогой"
+            },
+            {
+            id:50,
+            eng:"сравнительная степень для `fabulous` ",
+            ru:"more fabulous  ,  the  most самый поразительный"
+            },
+            {
+            id:51,
+            eng:"сравнительная степень для `fair` ",
+            ru:"fairer fair  ,  the  fairest самый справедливый"
+            },
+            {
+            id:52,
+            eng:"сравнительная степень для `fancy` ",
+            ru:"fancier fancy  ,  the  fanciest самый изысканный"
+            },
+            {
+            id:53,
+            eng:"сравнительная степень для `fantastic` ",
+            ru:"more fantastic  ,  the  most самый фантастичный"
+            },
+            {
+            id:54,
+            eng:"сравнительная степень для `far` ",
+            ru:"farther far  ,  the  farthest самый далекий"
+            },
+            {
+            id:55,
+            eng:"сравнительная степень для `fashionable` ",
+            ru:"more fashionable  ,  the  most самый модный"
+            },
+            {
+            id:56,
+            eng:"сравнительная степень для `fast` ",
+            ru:"faster fast  ,  the  fastest самый быстрый"
+            },
+            {
+            id:57,
+            eng:"сравнительная степень для `fat` ",
+            ru:"fatter fat  ,  the  fattest самый жирный"
+            },
+            {
+            id:58,
+            eng:"сравнительная степень для `favorite` ",
+            ru:"more favorite  ,  the  most самый любимый"
+            },
+            {
+            id:59,
+            eng:"сравнительная степень для `few` ",
+            ru:"fewer few  ,  the  fewest самый мало"
+            },
+            {
+            id:60,
+            eng:"сравнительная степень для `fierce` ",
+            ru:"fiercer fierce  ,  the  fiercest самый свирепый"
+            },
+            {
+            id:61,
+            eng:"сравнительная степень для `filthy` ",
+            ru:"filthier filthy  ,  the  filthiest самый мерзкий"
+            },
+            {
+            id:62,
+            eng:"сравнительная степень для `firm` ",
+            ru:"firmer firm  ,  the  firmest самый упругий"
+            },
+            {
+            id:63,
+            eng:"сравнительная степень для `flat` ",
+            ru:"flatter flat  ,  the  flattest самый плоский"
+            },
+            {
+            id:64,
+            eng:"сравнительная степень для `fresh` ",
+            ru:"fresher fresh  ,  the  freshest самый свежий"
+            },
+            {
+            id:65,
+            eng:"сравнительная степень для `friendly` ",
+            ru:"friendlier friendly  ,  the  friendliest самый дружелюбный"
+            },
+            {
+            id:66,
+            eng:"сравнительная степень для `full` ",
+            ru:"fuller full  ,  the  fullest самый полный"
+            },
+            {
+            id:67,
+            eng:"сравнительная степень для `funny` ",
+            ru:"funnier funny  ,  the  funniest самый смешной"
+            },
+            {
+            id:68,
+            eng:"сравнительная степень для `gentle` ",
+            ru:"gentler gentle  ,  the  gentlest самый нежный"
+            },
+            {
+            id:69,
+            eng:"сравнительная степень для `gloomy` ",
+            ru:"gloomier gloomy  ,  the  gloomiest самый мрачный"
+            },
+            {
+            id:70,
+            eng:"сравнительная степень для `good` ",
+            ru:"better good  ,  the  best самый хороший"
+            },
+            {
+            id:71,
+            eng:"сравнительная степень для `great` ",
+            ru:"greater great  ,  the  greatest самый великий"
+            },
+            {
+            id:72,
+            eng:"сравнительная степень для `greedy` ",
+            ru:"greedier greedy  ,  the  greediest самый жадный"
+            },
+            {
+            id:73,
+            eng:"сравнительная степень для `greedy` ",
+            ru:"greedier greedy  ,  the greediest самый жадный"
+            },
+            {
+            id:74,
+            eng:"сравнительная степень для `green` ",
+            ru:"greener green  ,  the  greenest самый зелёный"
+            },
+            {
+            id:75,
+            eng:"сравнительная степень для `hairy` ",
+            ru:"hairier hairy  ,  the  hairiest самый волосатый"
+            },
+            {
+            id:76,
+            eng:"сравнительная степень для `handsome` ",
+            ru:"more handsome  ,  the  most самый красивый (муж)"
+            },
+            {
+            id:77,
+            eng:"сравнительная степень для `happy` ",
+            ru:"happier happy  ,  the  happiest самый счастливый"
+            },
+            {
+            id:78,
+            eng:"сравнительная степень для `hard` ",
+            ru:"harder hard  ,  the  hardest самый трудный"
+            },
+            {
+            id:79,
+            eng:"сравнительная степень для `harsh` ",
+            ru:"harsher harsh  ,  the  harshest самый суровый"
+            },
+            {
+            id:80,
+            eng:"сравнительная степень для `healthy` ",
+            ru:"healthier healthy  ,  the  healthiest самый здоровый"
+            },
+            {
+            id:81,
+            eng:"сравнительная степень для `heavy` ",
+            ru:"heavier heavy  ,  the  heaviest самый тяжелый"
+            },
+            {
+            id:82,
+            eng:"сравнительная степень для `high/tall` ",
+            ru:"higher high/tall  ,  the  highest самый высокий"
+            },
+            {
+            id:83,
+            eng:"сравнительная степень для `hollow` ",
+            ru:"more hollow  ,  the  most самый пустотелый"
+            },
+            {
+            id:84,
+            eng:"сравнительная степень для `hot` ",
+            ru:"hotter hot  ,  the  hottest самый горячий"
+            },
+            {
+            id:85,
+            eng:"сравнительная степень для `humble` ",
+            ru:"humbler humble  ,  the  humblest самый скромный"
+            },
+            {
+            id:86,
+            eng:"сравнительная степень для `hungry` ",
+            ru:"hungrier hungry  ,  the  hungriest самый голодный"
+            },
+            {
+            id:87,
+            eng:"сравнительная степень для `icy` ",
+            ru:"icier icy  ,  the  iciest самый ледяной"
+            },
+            {
+            id:88,
+            eng:"сравнительная степень для `immortal` ",
+            ru:"more immortal  ,  the  most самый бессмертный"
+            },
+            {
+            id:89,
+            eng:"сравнительная степень для `incredible` ",
+            ru:"more incredible  ,  the  most самый невероятный"
+            },
+            {
+            id:90,
+            eng:"сравнительная степень для `intelligent` ",
+            ru:"more intelligent  ,  the  most самый образованный"
+            },
+            {
+            id:91,
+            eng:"сравнительная степень для `interesting` ",
+            ru:"more interesting  ,  the  most самый интересный"
+            },
+            {
+            id:92,
+            eng:"сравнительная степень для `itchy` ",
+            ru:"itchier itchy  ,  the  itchiest самый зудящий"
+            },
+            {
+            id:93,
+            eng:"сравнительная степень для `juicy` ",
+            ru:"juicier juicy  ,  the  juiciest самый сочный"
+            },
+            {
+            id:94,
+            eng:"сравнительная степень для `kind` ",
+            ru:"kinder kind  ,  the  kindest самый добрый"
+            },
+            {
+            id:95,
+            eng:"сравнительная степень для `large` ",
+            ru:"larger large  ,  the  largest самый большой"
+            },
+            {
+            id:96,
+            eng:"сравнительная степень для `late` ",
+            ru:"later late  ,  the  latest самый поздний"
+            },
+            {
+            id:97,
+            eng:"сравнительная степень для `lazy` ",
+            ru:"lazier lazy  ,  the  laziest самый ленивый"
+            },
+            {
+            id:98,
+            eng:"сравнительная степень для `legendary` ",
+            ru:"more legendary  ,  the  most самый легендарный"
+            },
+            {
+            id:99,
+            eng:"сравнительная степень для `light` ",
+            ru:"lighter light  ,  the  lightest самый светлый"
+            },
+            {
+            id:100,
+            eng:"сравнительная степень для `little` ",
+            ru:"less little  ,  the  the least самый мало, меньше"
+            },
+            {
+            id:101,
+            eng:"сравнительная степень для `long` ",
+            ru:"longer long  ,  the  longest самый длинный"
+            },
+            {
+            id:102,
+            eng:"сравнительная степень для `loud` ",
+            ru:"louder loud  ,  the  loudest самый громкий"
+            },
+            {
+            id:103,
+            eng:"сравнительная степень для `low` ",
+            ru:"lower low  ,  the  lowest самый низкий"
+            },
+            {
+            id:104,
+            eng:"сравнительная степень для `mad` ",
+            ru:"madder mad  ,  the  maddest самый безумный"
+            },
+            {
+            id:105,
+            eng:"сравнительная степень для `muscular` ",
+            ru:"more muscular  ,  the  most самый мускулистый"
+            },
+            {
+            id:106,
+            eng:"сравнительная степень для `mean` ",
+            ru:"meaner mean  ,  the  meanest самый злобный"
+            },
+            {
+            id:107,
+            eng:"сравнительная степень для `merry` ",
+            ru:"merrier merry  ,  the  merriest самый веселый"
+            },
+            {
+            id:108,
+            eng:"сравнительная степень для `messy` ",
+            ru:"messier messy  ,  the  messiest самый неряшливый"
+            },
+            {
+            id:109,
+            eng:"сравнительная степень для `thick` ",
+            ru:"thicker thick  ,  the thickest самый толстый"
+            },
+            {
+            id:110,
+            eng:"сравнительная степень для `narrow` ",
+            ru:"narrower narrow  ,  the  narrowest самый узкий"
+            },
+            {
+            id:111,
+            eng:"сравнительная степень для `nasty` ",
+            ru:"nastier nasty  ,  the  nastiest самый противный"
+            },
+            {
+            id:112,
+            eng:"сравнительная степень для `naughty` ",
+            ru:"naughtier naughty  ,  the  naughtiest самый непослушный"
+            },
+            {
+            id:113,
+            eng:"сравнительная степень для `near` ",
+            ru:"nearer near  ,  the  nearest самый ближайший"
+            },
+            {
+            id:114,
+            eng:"сравнительная степень для `neat` ",
+            ru:"neater neat  ,  the  neatest самый аккуратный"
+            },
+            {
+            id:115,
+            eng:"сравнительная степень для `needy` ",
+            ru:"needier needy  ,  the  neediest самый нуждающийся"
+            },
+            {
+            id:116,
+            eng:"сравнительная степень для `nervous` ",
+            ru:"more nervous nervous  ,  the  most самый нервный"
+            },
+            {
+            id:117,
+            eng:"сравнительная степень для `new` ",
+            ru:"newer new  ,  the  newest самый новый"
+            },
+            {
+            id:118,
+            eng:"сравнительная степень для `nice` ",
+            ru:"nicer nice  ,  the  nicest самый приятный"
+            },
+            {
+            id:119,
+            eng:"сравнительная степень для `noisy` ",
+            ru:"noisier noisy  ,  the  noisiest самый шумный"
+            },
+            {
+            id:120,
+            eng:"сравнительная степень для `oily` ",
+            ru:"oilier oily  ,  the  oiliest самый маслянистый"
+            },
+            {
+            id:121,
+            eng:"сравнительная степень для `old` ",
+            ru:"older/elder old  ,  the  oldest/eldest самый старый"
+            },
+            {
+            id:122,
+            eng:"сравнительная степень для `overweight` ",
+            ru:"more overweight  ,  the  most самый полноватый"
+            },
+            {
+            id:123,
+            eng:"сравнительная степень для `picky` ",
+            ru:"pickier picky  ,  the  pickiest самый придирчивый"
+            },
+            {
+            id:124,
+            eng:"сравнительная степень для `simple` ",
+            ru:"simpler simple  ,  the  plainest самый простой"
+            },
+            {
+            id:125,
+            eng:"сравнительная степень для `polite` ",
+            ru:"politer polite  ,  the  politest самый вежливый"
+            },
+            {
+            id:126,
+            eng:"сравнительная степень для `poor` ",
+            ru:"poorer poor  ,  the  poorest самый бедный"
+            },
+            {
+            id:127,
+            eng:"сравнительная степень для `pretty` ",
+            ru:"prettier pretty  ,  the  prettiest самый симпотный"
+            },
+            {
+            id:128,
+            eng:"сравнительная степень для `proud` ",
+            ru:"prouder proud  ,  the  proudest самый гордый"
+            },
+            {
+            id:129,
+            eng:"сравнительная степень для `pure` ",
+            ru:"purer pure  ,  the  purest самый безпримесный"
+            },
+            {
+            id:130,
+            eng:"сравнительная степень для `quick` ",
+            ru:"quicker quick  ,  the  quickest самый быстрый"
+            },
+            {
+            id:131,
+            eng:"сравнительная степень для `quiet` ",
+            ru:"quieter quiet  ,  the  quietest самый тихий"
+            },
+            {
+            id:132,
+            eng:"сравнительная степень для `rare` ",
+            ru:"rarer rare  ,  the  rarest самый редкий"
+            },
+            {
+            id:133,
+            eng:"сравнительная степень для `raw` ",
+            ru:"rawer raw  ,  the  rawest самый сырой"
+            },
+            {
+            id:134,
+            eng:"сравнительная степень для `reliable` ",
+            ru:"more reliable  ,  the  most самый надёжный"
+            },
+            {
+            id:135,
+            eng:"сравнительная степень для `rich` ",
+            ru:"richer rich  ,  the  richest самый богатый"
+            },
+            {
+            id:136,
+            eng:"сравнительная степень для `ripe` ",
+            ru:"riper ripe  ,  the  ripest самый спелый"
+            },
+            {
+            id:137,
+            eng:"сравнительная степень для `risky` ",
+            ru:"riskier risky  ,  the  riskiest самый рискованный"
+            },
+            {
+            id:138,
+            eng:"сравнительная степень для `rough` ",
+            ru:"rougher rough  ,  the  roughest самый черствый, грубый"
+            },
+            {
+            id:139,
+            eng:"сравнительная степень для `rude` ",
+            ru:"ruder rude  ,  the  rudest самый грубый в общении"
+            },
+            {
+            id:140,
+            eng:"сравнительная степень для `rusty` ",
+            ru:"rustier rusty  ,  the  rustiest самый ржавый"
+            },
+            {
+            id:141,
+            eng:"сравнительная степень для `sad` ",
+            ru:"sadder sad  ,  the  saddest самый грустный"
+            },
+            {
+            id:142,
+            eng:"сравнительная степень для `safe` ",
+            ru:"safer safe  ,  the  safest самый безопасный"
+            },
+            {
+            id:143,
+            eng:"сравнительная степень для `salty` ",
+            ru:"saltier salty  ,  the  saltiest самый соленый"
+            },
+            {
+            id:144,
+            eng:"сравнительная степень для `sane` ",
+            ru:"saner sane  ,  the  sanest самый здравомыслящий"
+            },
+            {
+            id:145,
+            eng:"сравнительная степень для `scared` ",
+            ru:"more scared  ,  the  the most самый напуганный"
+            },
+            {
+            id:146,
+            eng:"сравнительная степень для `scary` ",
+            ru:"scarier scary  ,  the  scariest самый пугающий"
+            },
+            {
+            id:147,
+            eng:"сравнительная степень для `selfish` ",
+            ru:"more selfish  ,  the most самый эгоистичный"
+            },
+            {
+            id:148,
+            eng:"сравнительная степень для `sexy` ",
+            ru:"sexier sexy  ,  the  sexiest самый сексуальный"
+            },
+            {
+            id:149,
+            eng:"сравнительная степень для `sharp` ",
+            ru:"sharper sharp  ,  the  sharpest самый острый"
+            },
+            {
+            id:150,
+            eng:"сравнительная степень для `shiny` ",
+            ru:"shinier shiny  ,  the  shiniest самый светящийся"
+            },
+            {
+            id:151,
+            eng:"сравнительная степень для `shitty` ",
+            ru:"shittier shitty  ,  the  shittiest самый дерьмовенький"
+            },
+            {
+            id:152,
+            eng:"сравнительная степень для `shocking` ",
+            ru:"more shocking  ,  the  most самый шокирующий"
+            },
+            {
+            id:153,
+            eng:"сравнительная степень для `short` ",
+            ru:"shorter short  ,  the  shortest самый короткий, низкий"
+            },
+            {
+            id:154,
+            eng:"сравнительная степень для `shy` ",
+            ru:"shyer shy  ,  the  shyest самый застенчивый"
+            },
+            {
+            id:155,
+            eng:"сравнительная степень для `silly` ",
+            ru:"sillier silly  ,  the  silliest самый глупый"
+            },
+            {
+            id:156,
+            eng:"сравнительная степень для `sincere` ",
+            ru:"sincerer sincere  ,  the  sincerest самый искренний"
+            },
+            {
+            id:157,
+            eng:"сравнительная степень для `skinny` ",
+            ru:"skinnier skinny  ,  the  skinniest самый тощий"
+            },
+            {
+            id:158,
+            eng:"сравнительная степень для `sleepy` ",
+            ru:"sleepier sleepy  ,  the  sleepiest самый сонный"
+            },
+            {
+            id:159,
+            eng:"сравнительная степень для `slim` ",
+            ru:"slimmer slim  ,  the  slimmest самый стройный"
+            },
+            {
+            id:160,
+            eng:"сравнительная степень для `slimy` ",
+            ru:"slimier slimy  ,  the  slimiest самый слизкий"
+            },
+            {
+            id:161,
+            eng:"сравнительная степень для `slow` ",
+            ru:"slower slow  ,  the  slowest самый медленный"
+            },
+            {
+            id:162,
+            eng:"сравнительная степень для `small` ",
+            ru:"smaller small  ,  the  smallest самый маленький"
+            },
+            {
+            id:163,
+            eng:"сравнительная степень для `smart` ",
+            ru:"smarter smart  ,  the  smartest самый сообразительный"
+            },
+            {
+            id:164,
+            eng:"сравнительная степень для `smelly` ",
+            ru:"smellier smelly  ,  the  smelliest самый вонючий"
+            },
+            {
+            id:165,
+            eng:"сравнительная степень для `smoky` ",
+            ru:"smokier smoky  ,  the  smokiest самый дымный"
+            },
+            {
+            id:166,
+            eng:"сравнительная степень для `smooth` ",
+            ru:"smoother smooth  ,  the  smoothest самый гладкий"
+            },
+            {
+            id:167,
+            eng:"сравнительная степень для `soft` ",
+            ru:"softer soft  ,  the  softest самый мягкий"
+            },
+            {
+            id:168,
+            eng:"сравнительная степень для `soon` ",
+            ru:"sooner soon  ,  the  soonest самый скоро"
+            },
+            {
+            id:169,
+            eng:"сравнительная степень для `sorry` ",
+            ru:"sorrier sorry  ,  the  sorriest самый сожалеющий"
+            },
+            {
+            id:170,
+            eng:"сравнительная степень для `sour` ",
+            ru:"sourer sour  ,  the  sourest самый кислый"
+            },
+            {
+            id:171,
+            eng:"сравнительная степень для `spacious` ",
+            ru:"more spacious  ,  the  most самый просторный"
+            },
+            {
+            id:172,
+            eng:"сравнительная степень для `special` ",
+            ru:"more special  ,  the  most самый особенный"
+            },
+            {
+            id:173,
+            eng:"сравнительная степень для `spicy` ",
+            ru:"spicier spicy  ,  the  spiciest самый острый"
+            },
+            {
+            id:174,
+            eng:"сравнительная степень для `steep` ",
+            ru:"steeper steep  ,  the  steepest самый крутой (наклон)"
+            },
+            {
+            id:175,
+            eng:"сравнительная степень для `strange` ",
+            ru:"stranger strange  ,  the  strangest самый странный"
+            },
+            {
+            id:176,
+            eng:"сравнительная степень для `strict` ",
+            ru:"stricter strict  ,  the  strictest самый строгий"
+            },
+            {
+            id:177,
+            eng:"сравнительная степень для `strong` ",
+            ru:"stronger strong  ,  the  strongest самый сильный"
+            },
+            {
+            id:178,
+            eng:"сравнительная степень для `stupid` ",
+            ru:"more stupid  ,  the  most самый тупой"
+            },
+            {
+            id:179,
+            eng:"сравнительная степень для `successful` ",
+            ru:"more successful  ,  the  most самый успешный"
+            },
+            {
+            id:180,
+            eng:"сравнительная степень для `sunny` ",
+            ru:"sunnier sunny  ,  the  sunniest самый солнечный"
+            },
+            {
+            id:181,
+            eng:"сравнительная степень для `sweaty` ",
+            ru:"sweatier sweaty  ,  the  sweatiest самый потный"
+            },
+            {
+            id:182,
+            eng:"сравнительная степень для `sweet` ",
+            ru:"sweeter sweet  ,  the  sweetest самый сладкий"
+            },
+            {
+            id:183,
+            eng:"сравнительная степень для `tanned` ",
+            ru:"more tanned  ,  the  most самый загорелый"
+            },
+            {
+            id:184,
+            eng:"сравнительная степень для `tasty` ",
+            ru:"tastier tasty  ,  the  tastiest самый вкусный"
+            },
+            {
+            id:185,
+            eng:"сравнительная степень для `thin` ",
+            ru:"thicker thin  ,  the  thickest самый тонкий"
+            },
+            {
+            id:186,
+            eng:"сравнительная степень для `thirsty` ",
+            ru:"thirstier thirsty  ,  the  thirstiest самый жаждущий"
+            },
+            {
+            id:187,
+            eng:"сравнительная степень для `tiny` ",
+            ru:"tinier tiny  ,  the  tiniest самый крошечный"
+            },
+            {
+            id:188,
+            eng:"сравнительная степень для `tricky` ",
+            ru:"trickier tricky  ,  the  trickiest самый хитрый"
+            },
+            {
+            id:189,
+            eng:"сравнительная степень для `TRUE` ",
+            ru:"truer TRUE  ,  the  truest самый верный"
+            },
+            {
+            id:190,
+            eng:"сравнительная степень для `ugly` ",
+            ru:"uglier ugly  ,  the  ugliest самый уродливый"
+            },
+            {
+            id:191,
+            eng:"сравнительная степень для `vulgar` ",
+            ru:"more vulgar  ,  the  most самый вульгарный"
+            },
+            {
+            id:192,
+            eng:"сравнительная степень для `warm` ",
+            ru:"warmer warm  ,  the  warmest самый теплый"
+            },
+            {
+            id:193,
+            eng:"сравнительная степень для `weak` ",
+            ru:"weaker weak  ,  the  weakest самый слабый"
+            },
+            {
+            id:194,
+            eng:"сравнительная степень для `wealthy` ",
+            ru:"wealthier wealthy  ,  the  wealthiest самый состоятельный"
+            },
+            {
+            id:195,
+            eng:"сравнительная степень для `wet` ",
+            ru:"wetter wet  ,  the  wettest самый мокрый"
+            },
+            {
+            id:196,
+            eng:"сравнительная степень для `wide` ",
+            ru:"wider wide  ,  the  widest самый широкий"
+            },
+            {
+            id:197,
+            eng:"сравнительная степень для `wild` ",
+            ru:"wilder wild  ,  the  wildest самый дикий"
+            },
+            {
+            id:198,
+            eng:"сравнительная степень для `windy` ",
+            ru:"windier windy  ,  the  windiest самый ветреный"
+            },
+            {
+            id:199,
+            eng:"сравнительная степень для `wise` ",
+            ru:"wiser wise  ,  the  wisest самый мудрый"
+            },
+            {
+            id:200,
+            eng:"сравнительная степень для `wonderful` ",
+            ru:"more wonderful  ,  the  the most самый замечательный"
+            },
+            {
+            id:201,
+            eng:"сравнительная степень для `worthy` ",
+            ru:"worthier worthy  ,  the  worthiest самый достойный"
+            },
+            {
+            id:202,
+            eng:"сравнительная степень для `young` ",
+            ru:"younger young  ,  the  youngest самый молодой"
+            },
+            
+    ],
+    compareadjectivesb1: [
+        {
+            id:1, 
+            eng:"сравнительная степень для `alive`  ",
+            ru:"more  alive, the  most самый живой"
+            },
+            {
+            id:2,
+            eng:"сравнительная степень для `amazing`  ",
+            ru:"more  amazing  ,  the  most самый удивительный"
+            },
+            {
+            id:3,
+            eng:"сравнительная степень для `angry`  ",
+            ru:"angrier  angry  ,  the  angriest самый сердитый"
+            },
+            {
+            id:4,
+            eng:"сравнительная степень для `annoying` ",
+            ru:"more annoying  ,  the  most самый бесящий"
+            },
+            {
+            id:5,
+            eng:"сравнительная степень для `attractive` ",
+            ru:"more attractive  ,  the  most самый привлекательный"
+            },
+            {
+            id:6,
+            eng:"сравнительная степень для `awesome` ",
+            ru:"more awesome  ,  the  most самый офигенный"
+            },
+            {
+            id:7,
+            eng:"сравнительная степень для `bad` ",
+            ru:"worse bad  ,  the  worst самый плохой"
+            },
+            {
+            id:8,
+            eng:"сравнительная степень для `bald` ",
+            ru:"balder bald  ,  the  baldest самый лысый"
+            },
+            {
+            id:9,
+            eng:"сравнительная степень для `beautiful` ",
+            ru:"more beautiful  ,  the  most самый красивая"
+            },
+            {
+            id:10,
+            eng:"сравнительная степень для `big` ",
+            ru:"bigger big  ,  the  biggest самый большой"
+            },
+            {
+            id:11,
+            eng:"сравнительная степень для `black` ",
+            ru:"blacker black  ,  the  blackest самый Черный"
+            },
+            {
+            id:12,
+            eng:"сравнительная степень для `bloody` ",
+            ru:"bloodier bloody  ,  the  bloodiest самый кровавый"
+            },
+            {
+            id:13,
+            eng:"сравнительная степень для `blue` ",
+            ru:"bluer blue  ,  the  bluest самый синий"
+            },
+            {
+            id:14,
+            eng:"сравнительная степень для `bold` ",
+            ru:"bolder bold  ,  the  boldest самый смелый"
+            },
+            {
+            id:15,
+            eng:"сравнительная степень для `boring` ",
+            ru:"more boring  ,  the  most самый скучный"
+            },
+            {
+            id:16,
+            eng:"сравнительная степень для `bossy` ",
+            ru:"bossier bossy  ,  the  bossiest самый властный"
+            },
+            {
+            id:17,
+            eng:"сравнительная степень для `bothering` ",
+            ru:"more bothering  ,  the  most самый раздражающий"
+            },
+            {
+            id:18,
+            eng:"сравнительная степень для `brave` ",
+            ru:"braver brave  ,  the  bravest самый храбрый"
+            },
+            {
+            id:19,
+            eng:"сравнительная степень для `breathtaking` ",
+            ru:"more breathtaking  ,  the  most самый захватывающий дух"
+            },
+            {
+            id:20,
+            eng:"сравнительная степень для `bright` ",
+            ru:"brighter bright  ,  the  brightest самый яркий"
+            },
+            {
+            id:21,
+            eng:"сравнительная степень для `busy` ",
+            ru:"busier busy  ,  the  busiest самый занятой"
+            },
+            {
+            id:22,
+            eng:"сравнительная степень для `calm` ",
+            ru:"calmer calm  ,  the  calmest самый спокойный"
+            },
+            {
+            id:23,
+            eng:"сравнительная степень для `cheap` ",
+            ru:"cheaper cheap  ,  the  cheapest самый дешевый"
+            },
+            {
+            id:24,
+            eng:"сравнительная степень для `clean` ",
+            ru:"cleaner clean  ,  the  cleanest самый чистый"
+            },
+            {
+            id:25,
+            eng:"сравнительная степень для `close` ",
+            ru:"closer close  ,  the  closest самый близкий"
+            },
+            {
+            id:26,
+            eng:"сравнительная степень для `cloudy` ",
+            ru:"cloudier cloudy  ,  the  cloudiest самый облачный"
+            },
+            {
+            id:27,
+            eng:"сравнительная степень для `clumsy` ",
+            ru:"clumsier clumsy  ,  the  clumsiest самый неуклюжий"
+            },
+            {
+            id:28,
+            eng:"сравнительная степень для `cold` ",
+            ru:"colder cold  ,  the  coldest самый холодный"
+            },
+            {
+            id:29,
+            eng:"сравнительная степень для `cool` ",
+            ru:"cooler cool  ,  the  coolest самый крутой"
+            },
+            {
+            id:30,
+            eng:"сравнительная степень для `correct` ",
+            ru:"more correct  ,  the  most самый верный"
+            },
+            {
+            id:31,
+            eng:"сравнительная степень для `cozy` ",
+            ru:"handier cozy  ,  the  handiest самый уютный"
+            },
+            {
+            id:32,
+            eng:"сравнительная степень для `crazy` ",
+            ru:"crazier crazy  ,  the  craziest самый сумасшедший"
+            },
+            {
+            id:33,
+            eng:"сравнительная степень для `crispy` ",
+            ru:"crispier crispy  ,  the  crispiest самый хрустящий"
+            },
+            {
+            id:34,
+            eng:"сравнительная степень для `curly` ",
+            ru:"curlier curly  ,  the  curliest самый кудрявый"
+            },
+            {
+            id:35,
+            eng:"сравнительная степень для `cute` ",
+            ru:"cuter cute  ,  the  cutest самый милый"
+            },
+            {
+            id:36,
+            eng:"сравнительная степень для `dark` ",
+            ru:"darker dark  ,  the  darkest самый темный"
+            },
+            {
+            id:37,
+            eng:"сравнительная степень для `deadly` ",
+            ru:"deadlier deadly  ,  the  deadliest самый смертельный"
+            },
+            {
+            id:38,
+            eng:"сравнительная степень для `deep` ",
+            ru:"deeper deep  ,  the  deepest самый глубокий"
+            },
+            {
+            id:39,
+            eng:"сравнительная степень для `dirty` ",
+            ru:"dirtier dirty  ,  the  dirtiest самый грязный"
+            },
+            {
+            id:40,
+            eng:"сравнительная степень для `disgusting` ",
+            ru:"more disgusting  ,  the  most самый отвратительный"
+            },
+            {
+            id:41,
+            eng:"сравнительная степень для `drunk` ",
+            ru:"drunker drunk  ,  the  drunkest самый пьяный"
+            },
+            {
+            id:42,
+            eng:"сравнительная степень для `dry` ",
+            ru:"drier dry  ,  the  driest самый сухой"
+            },
+            {
+            id:43,
+            eng:"сравнительная степень для `dull` ",
+            ru:"duller dull  ,  the  dullest самый затупившийся"
+            },
+            {
+            id:44,
+            eng:"сравнительная степень для `dumb` ",
+            ru:"dumber dumb  ,  the  dumbest самый болван"
+            },
+            {
+            id:45,
+            eng:"сравнительная степень для `dusty` ",
+            ru:"dustier dusty  ,  the  dustiest самый пыльный"
+            },
+            {
+            id:46,
+            eng:"сравнительная степень для `early` ",
+            ru:"earlier early  ,  the  earliest самый ранний"
+            },
+            {
+            id:47,
+            eng:"сравнительная степень для `easy` ",
+            ru:"easier easy  ,  the  easiest самый легкий"
+            },
+            {
+            id:48,
+            eng:"сравнительная степень для `evil` ",
+            ru:"more evil evil  ,  the  most самый злой"
+            },
+            {
+            id:49,
+            eng:"сравнительная степень для `expensive` ",
+            ru:"more expensive  ,  the  most самый дорогой"
+            },
+            {
+            id:50,
+            eng:"сравнительная степень для `fabulous` ",
+            ru:"more fabulous  ,  the  most самый поразительный"
+            },
+            {
+            id:51,
+            eng:"сравнительная степень для `fair` ",
+            ru:"fairer fair  ,  the  fairest самый справедливый"
+            },
+            {
+            id:52,
+            eng:"сравнительная степень для `fancy` ",
+            ru:"fancier fancy  ,  the  fanciest самый изысканный"
+            },
+            {
+            id:53,
+            eng:"сравнительная степень для `fantastic` ",
+            ru:"more fantastic  ,  the  most самый фантастичный"
+            },
+            {
+            id:54,
+            eng:"сравнительная степень для `far` ",
+            ru:"farther far  ,  the  farthest самый далекий"
+            },
+            {
+            id:55,
+            eng:"сравнительная степень для `fashionable` ",
+            ru:"more fashionable  ,  the  most самый модный"
+            },
+            {
+            id:56,
+            eng:"сравнительная степень для `fast` ",
+            ru:"faster fast  ,  the  fastest самый быстрый"
+            },
+            {
+            id:57,
+            eng:"сравнительная степень для `fat` ",
+            ru:"fatter fat  ,  the  fattest самый жирный"
+            },
+            {
+            id:58,
+            eng:"сравнительная степень для `favorite` ",
+            ru:"more favorite  ,  the  most самый любимый"
+            },
+            {
+            id:59,
+            eng:"сравнительная степень для `few` ",
+            ru:"fewer few  ,  the  fewest самый мало"
+            },
+            {
+            id:60,
+            eng:"сравнительная степень для `fierce` ",
+            ru:"fiercer fierce  ,  the  fiercest самый свирепый"
+            },
+            {
+            id:61,
+            eng:"сравнительная степень для `filthy` ",
+            ru:"filthier filthy  ,  the  filthiest самый мерзкий"
+            },
+            {
+            id:62,
+            eng:"сравнительная степень для `firm` ",
+            ru:"firmer firm  ,  the  firmest самый упругий"
+            },
+            {
+            id:63,
+            eng:"сравнительная степень для `flat` ",
+            ru:"flatter flat  ,  the  flattest самый плоский"
+            },
+            {
+            id:64,
+            eng:"сравнительная степень для `fresh` ",
+            ru:"fresher fresh  ,  the  freshest самый свежий"
+            },
+            {
+            id:65,
+            eng:"сравнительная степень для `friendly` ",
+            ru:"friendlier friendly  ,  the  friendliest самый дружелюбный"
+            },
+            {
+            id:66,
+            eng:"сравнительная степень для `full` ",
+            ru:"fuller full  ,  the  fullest самый полный"
+            },
+            {
+            id:67,
+            eng:"сравнительная степень для `funny` ",
+            ru:"funnier funny  ,  the  funniest самый смешной"
+            },
+            {
+            id:68,
+            eng:"сравнительная степень для `gentle` ",
+            ru:"gentler gentle  ,  the  gentlest самый нежный"
+            },
+            {
+            id:69,
+            eng:"сравнительная степень для `gloomy` ",
+            ru:"gloomier gloomy  ,  the  gloomiest самый мрачный"
+            },
+            {
+            id:70,
+            eng:"сравнительная степень для `good` ",
+            ru:"better good  ,  the  best самый хороший"
+            },
+            {
+            id:71,
+            eng:"сравнительная степень для `great` ",
+            ru:"greater great  ,  the  greatest самый великий"
+            },
+            {
+            id:72,
+            eng:"сравнительная степень для `greedy` ",
+            ru:"greedier greedy  ,  the  greediest самый жадный"
+            },
+            {
+            id:73,
+            eng:"сравнительная степень для `greedy` ",
+            ru:"greedier greedy  ,  the greediest самый жадный"
+            },
+            {
+            id:74,
+            eng:"сравнительная степень для `green` ",
+            ru:"greener green  ,  the  greenest самый зелёный"
+            },
+            {
+            id:75,
+            eng:"сравнительная степень для `hairy` ",
+            ru:"hairier hairy  ,  the  hairiest самый волосатый"
+            },
+            {
+            id:76,
+            eng:"сравнительная степень для `handsome` ",
+            ru:"more handsome  ,  the  most самый красивый (муж)"
+            },
+            {
+            id:77,
+            eng:"сравнительная степень для `happy` ",
+            ru:"happier happy  ,  the  happiest самый счастливый"
+            },
+            {
+            id:78,
+            eng:"сравнительная степень для `hard` ",
+            ru:"harder hard  ,  the  hardest самый трудный"
+            },
+            {
+            id:79,
+            eng:"сравнительная степень для `harsh` ",
+            ru:"harsher harsh  ,  the  harshest самый суровый"
+            },
+            {
+            id:80,
+            eng:"сравнительная степень для `healthy` ",
+            ru:"healthier healthy  ,  the  healthiest самый здоровый"
+            },
+            {
+            id:81,
+            eng:"сравнительная степень для `heavy` ",
+            ru:"heavier heavy  ,  the  heaviest самый тяжелый"
+            },
+            {
+            id:82,
+            eng:"сравнительная степень для `high/tall` ",
+            ru:"higher high/tall  ,  the  highest самый высокий"
+            },
+            {
+            id:83,
+            eng:"сравнительная степень для `hollow` ",
+            ru:"more hollow  ,  the  most самый пустотелый"
+            },
+            {
+            id:84,
+            eng:"сравнительная степень для `hot` ",
+            ru:"hotter hot  ,  the  hottest самый горячий"
+            },
+            {
+            id:85,
+            eng:"сравнительная степень для `humble` ",
+            ru:"humbler humble  ,  the  humblest самый скромный"
+            },
+            {
+            id:86,
+            eng:"сравнительная степень для `hungry` ",
+            ru:"hungrier hungry  ,  the  hungriest самый голодный"
+            },
+            {
+            id:87,
+            eng:"сравнительная степень для `icy` ",
+            ru:"icier icy  ,  the  iciest самый ледяной"
+            },
+            {
+            id:88,
+            eng:"сравнительная степень для `immortal` ",
+            ru:"more immortal  ,  the  most самый бессмертный"
+            },
+            {
+            id:89,
+            eng:"сравнительная степень для `incredible` ",
+            ru:"more incredible  ,  the  most самый невероятный"
+            },
+            {
+            id:90,
+            eng:"сравнительная степень для `intelligent` ",
+            ru:"more intelligent  ,  the  most самый образованный"
+            },
+            {
+            id:91,
+            eng:"сравнительная степень для `interesting` ",
+            ru:"more interesting  ,  the  most самый интересный"
+            },
+            {
+            id:92,
+            eng:"сравнительная степень для `itchy` ",
+            ru:"itchier itchy  ,  the  itchiest самый зудящий"
+            },
+            {
+            id:93,
+            eng:"сравнительная степень для `juicy` ",
+            ru:"juicier juicy  ,  the  juiciest самый сочный"
+            },
+            {
+            id:94,
+            eng:"сравнительная степень для `kind` ",
+            ru:"kinder kind  ,  the  kindest самый добрый"
+            },
+            {
+            id:95,
+            eng:"сравнительная степень для `large` ",
+            ru:"larger large  ,  the  largest самый большой"
+            },
+            {
+            id:96,
+            eng:"сравнительная степень для `late` ",
+            ru:"later late  ,  the  latest самый поздний"
+            },
+            {
+            id:97,
+            eng:"сравнительная степень для `lazy` ",
+            ru:"lazier lazy  ,  the  laziest самый ленивый"
+            },
+            {
+            id:98,
+            eng:"сравнительная степень для `legendary` ",
+            ru:"more legendary  ,  the  most самый легендарный"
+            },
+            {
+            id:99,
+            eng:"сравнительная степень для `light` ",
+            ru:"lighter light  ,  the  lightest самый светлый"
+            },
+            {
+            id:100,
+            eng:"сравнительная степень для `little` ",
+            ru:"less little  ,  the  the least самый мало, меньше"
+            },
+           
+    ],
+    adjectivesb1: [
+        {
+            id:1,
+            eng:"alive /элАйв/",
+            ru:"живой"
+            },
+            {
+            id:2,
+            eng:"amazing /эмЭйзин/",
+            ru:"удивительный"
+            },
+            {
+            id:3,
+            eng:"angry /Энгри/",
+            ru:"сердитый"
+            },
+            {
+            id:4,
+            eng:"annoying /энОин/",
+            ru:"бесящий"
+            },
+            {
+            id:5,
+            eng:"attractive /этрЭктив/",
+            ru:"привлекательный"
+            },
+            {
+            id:6,
+            eng:"awesome /Осм/",
+            ru:"офигенный"
+            },
+            {
+            id:7,
+            eng:"bad /бЭд/",
+            ru:"плохой"
+            },
+            {
+            id:8,
+            eng:"bald /бОлд/",
+            ru:"лысый"
+            },
+            {
+            id:9,
+            eng:"beautiful /бьютифул/",
+            ru:"красивая"
+            },
+            {
+            id:10,
+            eng:"big /биГ/",
+            ru:"большой"
+            },
+            {
+            id:11,
+            eng:"black /блЭк/",
+            ru:"Черный"
+            },
+            {
+            id:12,
+            eng:"bloody /блАди/",
+            ru:"кровавый"
+            },
+            {
+            id:13,
+            eng:"blue /блУ/",
+            ru:"синий"
+            },
+            {
+            id:14,
+            eng:"bold /бОлд/",
+            ru:"смелый"
+            },
+            {
+            id:15,
+            eng:"boring /бОрин/",
+            ru:"скучный"
+            },
+            {
+            id:16,
+            eng:"bossy /бОсси/",
+            ru:"властный"
+            },
+            {
+            id:17,
+            eng:"bothering /бАthэрин/",
+            ru:"раздражающий"
+            },
+            {
+            id:18,
+            eng:"brave /брЭйв/",
+            ru:"храбрый"
+            },
+            {
+            id:19,
+            eng:"breathtaking /брэth тэйкин/",
+            ru:"захватывающий дух"
+            },
+            {
+            id:20,
+            eng:"bright /брАйт/",
+            ru:"яркий"
+            },
+            {
+            id:21,
+            eng:"busy /бИзи/",
+            ru:"занятой"
+            },
+            {
+            id:22,
+            eng:"calm /кам/",
+            ru:"спокойный"
+            },
+            {
+            id:23,
+            eng:"cheap /чип/",
+            ru:"дешевый"
+            },
+            {
+            id:24,
+            eng:"clean /клин/",
+            ru:"чистый"
+            },
+            {
+            id:25,
+            eng:"close /клоуС/",
+            ru:"близкий"
+            },
+            {
+            id:26,
+            eng:"cloudy /клАуди/",
+            ru:"облачный"
+            },
+            {
+            id:27,
+            eng:"clumsy /клАмзи/",
+            ru:"неуклюжий"
+            },
+            {
+            id:28,
+            eng:"cold /коУлд/",
+            ru:"холодный"
+            },
+            {
+            id:29,
+            eng:"cool /кул/",
+            ru:"крутой"
+            },
+            {
+            id:30,
+            eng:"correct /корЭкт/",
+            ru:"верный"
+            },
+            {
+            id:31,
+            eng:"cozy /кОузи/",
+            ru:"уютный"
+            },
+            {
+            id:32,
+            eng:"crazy /крЭйзи/",
+            ru:"сумасшедший"
+            },
+            {
+            id:33,
+            eng:"crispy /крИспи/",
+            ru:"хрустящий"
+            },
+            {
+            id:34,
+            eng:"curly /кёли/",
+            ru:"кудрявый"
+            },
+            {
+            id:35,
+            eng:"cute /кьЮт/",
+            ru:"милый"
+            },
+            {
+            id:36,
+            eng:"dark /дарк/",
+            ru:"темный"
+            },
+            {
+            id:37,
+            eng:"deadly /дЭдли/",
+            ru:"смертельный"
+            },
+            {
+            id:38,
+            eng:"deep /дип/",
+            ru:"глубокий"
+            },
+            {
+            id:39,
+            eng:"dirty /дёти/",
+            ru:"грязный"
+            },
+            {
+            id:40,
+            eng:"disgusting /дисгАстин/",
+            ru:"отвратительный"
+            },
+            {
+            id:41,
+            eng:"drunk /дрАнк/",
+            ru:"пьяный"
+            },
+            {
+            id:42,
+            eng:"dry /дрАй/",
+            ru:"сухой"
+            },
+            {
+            id:43,
+            eng:"dull /дал/",
+            ru:"затупившийся"
+            },
+            {
+            id:44,
+            eng:"dumb /дам/",
+            ru:"болван"
+            },
+            {
+            id:45,
+            eng:"dusty /дАсти/",
+            ru:"пыльный"
+            },
+            {
+            id:46,
+            eng:"early /ёли/",
+            ru:"ранний"
+            },
+            {
+            id:47,
+            eng:"easy /Изи/",
+            ru:"легкий"
+            },
+            {
+            id:48,
+            eng:"evil /Ивэл/",
+            ru:"злой"
+            },
+            {
+            id:49,
+            eng:"expensive /экспЭнсив/",
+            ru:"дорогой"
+            },
+            {
+            id:50,
+            eng:"fabulous /фЭбьюлэс/",
+            ru:"поразительный"
+            },
+            {
+            id:51,
+            eng:"fair /фЭа/",
+            ru:"справедливый"
+            },
+            {
+            id:52,
+            eng:"fancy /фЭнси/",
+            ru:"изысканный"
+            },
+            {
+            id:53,
+            eng:"fantastic /фэнстэстик/",
+            ru:"фантастичный"
+            },
+            {
+            id:54,
+            eng:"far /фа/",
+            ru:"далекий"
+            },
+            {
+            id:55,
+            eng:"fashionable /фЭшэнэбл/",
+            ru:"модный"
+            },
+            {
+            id:56,
+            eng:"fast /фаст/",
+            ru:"быстрый"
+            },
+            {
+            id:57,
+            eng:"fat /фэт/",
+            ru:"жирный"
+            },
+            {
+            id:58,
+            eng:"favorite /фЭйворит/",
+            ru:"любимый"
+            },
+            {
+            id:59,
+            eng:"few /фью/",
+            ru:"несколько"
+            },
+            {
+            id:60,
+            eng:"fierce /фИрс/",
+            ru:"свирепый"
+            },
+            {
+            id:61,
+            eng:"filthy /филTHи/",
+            ru:"мерзкий"
+            },
+            {
+            id:62,
+            eng:"firm /фЁрм/",
+            ru:"упругий"
+            },
+            {
+            id:63,
+            eng:"flat /флЭт/",
+            ru:"плоский"
+            },
+            {
+            id:64,
+            eng:"fresh /фрЭш/",
+            ru:"свежий"
+            },
+            {
+            id:65,
+            eng:"friendly /фрЭндли/",
+            ru:"дружелюбный"
+            },
+            {
+            id:66,
+            eng:"full /фУл/",
+            ru:"полный"
+            },
+            {
+            id:67,
+            eng:"funny /фАнни/",
+            ru:"смешной"
+            },
+            {
+            id:68,
+            eng:"gentle /джЭнтл/",
+            ru:"нежный"
+            },
+            {
+            id:69,
+            eng:"gloomy /глУми/",
+            ru:"мрачный"
+            },
+            {
+            id:70,
+            eng:"good /гуД/",
+            ru:"хороший"
+            },
+            {
+            id:71,
+            eng:"great /грЭйт/",
+            ru:"великий"
+            },
+            {
+            id:72,
+            eng:"greedy /грИди/",
+            ru:"жадный"
+            },
+            {
+            id:73,
+            eng:"greedy /грИди/",
+            ru:"жадный"
+            },
+            {
+            id:74,
+            eng:"green /грин/",
+            ru:"зелёный"
+            },
+            {
+            id:75,
+            eng:"hairy /хЭйри/",
+            ru:"волосатый"
+            },
+            {
+            id:76,
+            eng:"handsome /хЭнсам/",
+            ru:"красивый (муж)"
+            },
+            {
+            id:77,
+            eng:"happy /хЭппи/",
+            ru:"счастливый"
+            },
+            {
+            id:78,
+            eng:"hard /хАрд/",
+            ru:"трудный"
+            },
+            {
+            id:79,
+            eng:"harsh /хАрш/",
+            ru:"суровый"
+            },
+            {
+            id:80,
+            eng:"healthy /хЭлTHи/",
+            ru:"здоровый"
+            },
+            {
+            id:81,
+            eng:"heavy /хЭви/",
+            ru:"тяжелый"
+            },
+            {
+            id:82,
+            eng:"high/tall /хай/",
+            ru:"высокий"
+            },
+            {
+            id:83,
+            eng:"hollow /хОлоу/",
+            ru:"пустотелый"
+            },
+            {
+            id:84,
+            eng:"hot /хот или хат/",
+            ru:"горячий"
+            },
+            {
+            id:85,
+            eng:"humble /хАмбл/",
+            ru:"скромный"
+            },
+            {
+            id:86,
+            eng:"hungry /хАнгри/",
+            ru:"голодный"
+            },
+            {
+            id:87,
+            eng:"icy /Айси/",
+            ru:"ледяной"
+            },
+            {
+            id:88,
+            eng:"immortal /иммОртал/",
+            ru:"бессмертный"
+            },
+            {
+            id:89,
+            eng:"incredible /инкрЭдбл/",
+            ru:"невероятный"
+            },
+            {
+            id:90,
+            eng:"intelligent /интэлиджент/",
+            ru:"образованный"
+            },
+            {
+            id:91,
+            eng:"interesting /ИНтрэстин/",
+            ru:"интересный"
+            },
+            {
+            id:92,
+            eng:"itchy /Итчи/",
+            ru:"зудящий"
+            },
+            {
+            id:93,
+            eng:"juicy /джУси/",
+            ru:"сочный"
+            },
+            {
+            id:94,
+            eng:"kind /кАйнд/",
+            ru:"добрый"
+            },
+            {
+            id:95,
+            eng:"large /лАдж/",
+            ru:"большой"
+            },
+            {
+            id:96,
+            eng:"late /лЭйт/",
+            ru:"поздний"
+            },
+            {
+            id:97,
+            eng:"lazy /лЭйзи/",
+            ru:"ленивый"
+            },
+            {
+            id:98,
+            eng:"legendary /лэДЖэндэри/",
+            ru:"легендарный"
+            },
+            {
+            id:99,
+            eng:"light /лАйт/",
+            ru:"светлый"
+            },
+            {
+            id:100,
+            eng:"little /лИтл/",
+            ru:"мало"
+            },
+            {
+            id:101,
+            eng:"long /лОн/",
+            ru:"длинный"
+            },
+            {
+            id:102,
+            eng:"loud /лАуд/",
+            ru:"громкий"
+            },
+            {
+            id:103,
+            eng:"low /лОу/",
+            ru:"низкий"
+            },
+            {
+            id:104,
+            eng:"mad /мЭд/",
+            ru:"безумный"
+            },
+            {
+            id:105,
+            eng:"muscular /мАскьюла/",
+            ru:"мускулистый"
+            },
+            {
+            id:106,
+            eng:"mean /мин/",
+            ru:"злобный"
+            },
+            {
+            id:107,
+            eng:"merry /мЭри/",
+            ru:"веселый"
+            },
+            {
+            id:108,
+            eng:"messy /мЭси/",
+            ru:"неряшливый"
+            },
+            {
+            id:109,
+            eng:"much or many /мач о мэни/",
+            ru:"много"
+            },
+            {
+            id:110,
+            eng:"narrow /нЭроу/",
+            ru:"узкий"
+            },
+            {
+            id:111,
+            eng:"nasty /нЭсти/",
+            ru:"противный"
+            },
+            {
+            id:112,
+            eng:"naughty /нОти/",
+            ru:"непослушный"
+            },
+            {
+            id:113,
+            eng:"near /нИа/",
+            ru:"ближайший"
+            },
+            {
+            id:114,
+            eng:"neat /нит/",
+            ru:"аккуратный"
+            },
+            {
+            id:115,
+            eng:"needy /нИди/",
+            ru:"нуждающийся"
+            },
+            {
+            id:116,
+            eng:"nervous /нЁвэс/",
+            ru:"нервный"
+            },
+            {
+            id:117,
+            eng:"new /ньЮ/",
+            ru:"новый"
+            },
+            {
+            id:118,
+            eng:"nice /нАйс/",
+            ru:"приятный"
+            },
+            {
+            id:119,
+            eng:"noisy /нОйзи/",
+            ru:"шумный"
+            },
+            {
+            id:120,
+            eng:"oily /Ойли/",
+            ru:"маслянистый"
+            },
+            {
+            id:121,
+            eng:"old /оУлд/",
+            ru:"старый"
+            },
+            {
+            id:122,
+            eng:"overweight /ОувэУэйт/",
+            ru:"полноватый"
+            },
+            {
+            id:123,
+            eng:"picky /пИки/",
+            ru:"придирчивый"
+            },
+            {
+            id:124,
+            eng:"plain/simple /simple/",
+            ru:"простой"
+            },
+            {
+            id:125,
+            eng:"polite /полАйт/",
+            ru:"вежливый"
+            },
+            {
+            id:126,
+            eng:"poor /пУэ/",
+            ru:"бедный"
+            },
+            {
+            id:127,
+            eng:"pretty /прИти/",
+            ru:"симпотный"
+            },
+            {
+            id:128,
+            eng:"proud /прАуд/",
+            ru:"гордый"
+            },
+            {
+            id:129,
+            eng:"pure /пьЮэ/",
+            ru:"безпримесный"
+            },
+            {
+            id:130,
+            eng:"quick /квик/",
+            ru:"быстрый"
+            },
+            {
+            id:131,
+            eng:"quiet /куАйет/ /куАйет/",
+            ru:"тихий"
+            },
+            {
+            id:132,
+            eng:"rare /рЭа/",
+            ru:"редкий"
+            },
+            {
+            id:133,
+            eng:"raw /ро/",
+            ru:"сырой"
+            },
+            {
+            id:134,
+            eng:"reliable /рилАибл/",
+            ru:"надёжный"
+            },
+            {
+            id:135,
+            eng:"rich /рич/",
+            ru:"богатый"
+            },
+            {
+            id:136,
+            eng:"ripe /рАйп/",
+            ru:"спелый"
+            },
+            {
+            id:137,
+            eng:"risky /рИски/",
+            ru:"рискованный"
+            },
+            {
+            id:138,
+            eng:"rough /рАф/",
+            ru:"черствый, грубый"
+            },
+            {
+            id:139,
+            eng:"rude /рУд/",
+            ru:"грубый в общении"
+            },
+            {
+            id:140,
+            eng:"rusty /рАсти/",
+            ru:"ржавый"
+            },
+            {
+            id:141,
+            eng:"sad /сЭд/",
+            ru:"грустный"
+            },
+            {
+            id:142,
+            eng:"safe /сЭйф/",
+            ru:"безопасный"
+            },
+            {
+            id:143,
+            eng:"salty /сОлти/",
+            ru:"соленый"
+            },
+            {
+            id:144,
+            eng:"sane /сЭйн/",
+            ru:"здравомыслящий"
+            },
+            {
+            id:145,
+            eng:"scared /скЭад/",
+            ru:"напуганный"
+            },
+            {
+            id:146,
+            eng:"scary /скЭри/",
+            ru:"пугающий"
+            },
+            {
+            id:147,
+            eng:"selfish /сЭлфиш/",
+            ru:"эгоистичный"
+            },
+            {
+            id:148,
+            eng:"sexy /сэкси/",
+            ru:"сексуальный"
+            },
+            {
+            id:149,
+            eng:"sharp /шАрп/",
+            ru:"острый"
+            },
+            {
+            id:150,
+            eng:"shiny /шАйни/",
+            ru:"светящийся"
+            },
+            {
+            id:151,
+            eng:"shitty /щИти/",
+            ru:"дерьмовенький"
+            },
+            {
+            id:152,
+            eng:"shocking /шОкин/",
+            ru:"шокирующий"
+            },
+            {
+            id:153,
+            eng:"short /шорт/",
+            ru:"короткий, низкий"
+            },
+            {
+            id:154,
+            eng:"shy /шАй/",
+            ru:"застенчивый"
+            },
+            {
+            id:155,
+            eng:"silly /сИли/",
+            ru:"глупый"
+            },
+            {
+            id:156,
+            eng:"sincere /синсИэ/",
+            ru:"искренний"
+            },
+            {
+            id:157,
+            eng:"skinny /скИни/",
+            ru:"тощий"
+            },
+            {
+            id:158,
+            eng:"sleepy /слИпи/",
+            ru:"сонный"
+            },
+            {
+            id:159,
+            eng:"slim /слИм/",
+            ru:"стройный"
+            },
+            {
+            id:160,
+            eng:"slimy /слАйми/ /слАйми/",
+            ru:"слизкий"
+            },
+            {
+            id:161,
+            eng:"slow /слОу/",
+            ru:"медленный"
+            },
+            {
+            id:162,
+            eng:"small /смОл/",
+            ru:"маленький"
+            },
+            {
+            id:163,
+            eng:"smart /смАрт/",
+            ru:"сообразительный"
+            },
+            {
+            id:164,
+            eng:"smelly /смЭли/",
+            ru:"вонючий"
+            },
+            {
+            id:165,
+            eng:"smoky /смОуки/",
+            ru:"дымный"
+            },
+            {
+            id:166,
+            eng:"smooth /смуз/",
+            ru:"гладкий"
+            },
+            {
+            id:167,
+            eng:"soft /софт/",
+            ru:"мягкий"
+            },
+            {
+            id:168,
+            eng:"soon /сун/",
+            ru:"скоро"
+            },
+            {
+            id:169,
+            eng:"sorry /сори/",
+            ru:"сожалеющий"
+            },
+            {
+            id:170,
+            eng:"sour /сАуэ/",
+            ru:"кислый"
+            },
+            {
+            id:171,
+            eng:"spacious /спЭйшэс/",
+            ru:"просторный"
+            },
+            {
+            id:172,
+            eng:"special /спЭшл/",
+            ru:"особенный"
+            },
+            {
+            id:173,
+            eng:"spicy /спАйси/",
+            ru:"острый"
+            },
+            {
+            id:174,
+            eng:"steep /стИп/",
+            ru:"крутой (наклон)"
+            },
+            {
+            id:175,
+            eng:"strange/weird /weird/",
+            ru:"странный"
+            },
+            {
+            id:176,
+            eng:"strict /стрИкт/",
+            ru:"строгий"
+            },
+            {
+            id:177,
+            eng:"strong /стрОн/",
+            ru:"сильный"
+            },
+            {
+            id:178,
+            eng:"stupid /стьЮпид/",
+            ru:"тупой"
+            },
+            {
+            id:179,
+            eng:"successful /саксЭсфул/",
+            ru:"успешный"
+            },
+            {
+            id:180,
+            eng:"sunny /сАнни/",
+            ru:"солнечный"
+            },
+            {
+            id:181,
+            eng:"sweaty /свЭти/",
+            ru:"потный"
+            },
+            {
+            id:182,
+            eng:"sweet /свит/",
+            ru:"сладкий"
+            },
+            {
+            id:183,
+            eng:"tanned /тЭнд/",
+            ru:"загорелый"
+            },
+            {
+            id:184,
+            eng:"tasty /тЭйсти/",
+            ru:"вкусный"
+            },
+            {
+            id:185,
+            eng:"thin/thick /Thын Thык/",
+            ru:"тонкий/толстый"
+            },
+            {
+            id:186,
+            eng:"thirsty /Thёсти/",
+            ru:"жаждущий"
+            },
+            {
+            id:187,
+            eng:"tiny /тАйни/",
+            ru:"крошечный"
+            },
+            {
+            id:188,
+            eng:"tricky /трИки/",
+            ru:"хитрый"
+            },
+            {
+            id:189,
+            eng:"true /тру/ /тру/",
+            ru:"верный"
+            },
+            {
+            id:190,
+            eng:"ugly /Агли/",
+            ru:"уродливый"
+            },
+            {
+            id:191,
+            eng:"vulgar /вАлгар/",
+            ru:"вульгарный"
+            },
+            {
+            id:192,
+            eng:"warm /вОм/",
+            ru:"теплый"
+            },
+            {
+            id:193,
+            eng:"weak /уИк/",
+            ru:"слабый"
+            },
+            {
+            id:194,
+            eng:"wealthy /уЭлTHи/",
+            ru:"состоятельный"
+            },
+            {
+            id:195,
+            eng:"wet /уЭт/",
+            ru:"мокрый"
+            },
+            {
+            id:196,
+            eng:"wide /уАйд/",
+            ru:"широкий"
+            },
+            {
+            id:197,
+            eng:"wild /уАйлд/",
+            ru:"дикий"
+            },
+            {
+            id:198,
+            eng:"windy /уИнди/",
+            ru:"ветреный"
+            },
+            {
+            id:199,
+            eng:"wise /уАйз/",
+            ru:"мудрый"
+            },
+            {
+            id:200,
+            eng:"wonderful /уандэрфул/",
+            ru:"замечательный"
+            },
+            {
+            id:201,
+            eng:"worthy /уОрTHи/",
+            ru:"достойный"
+            },
+            {
+            id:202,
+            eng:"young /ян/",
+            ru:"молодой"
+            },
+    ],
+    adjectives09: [
+        {
+            id:179,
+            eng:"successful /саксЭсфул/",
+            ru:"успешный"
+            },
+            {
+            id:180,
+            eng:"sunny /сАнни/",
+            ru:"солнечный"
+            },
+            {
+            id:181,
+            eng:"sweaty /свЭти/",
+            ru:"потный"
+            },
+            {
+            id:182,
+            eng:"sweet /свит/",
+            ru:"сладкий"
+            },
+            {
+            id:183,
+            eng:"tanned /тЭнд/",
+            ru:"загорелый"
+            },
+            {
+            id:184,
+            eng:"tasty /тЭйсти/",
+            ru:"вкусный"
+            },
+            {
+            id:185,
+            eng:"thin/thick /Thын Thык/",
+            ru:"тонкий/толстый"
+            },
+            {
+            id:186,
+            eng:"thirsty /Thёсти/",
+            ru:"жаждущий"
+            },
+            {
+            id:187,
+            eng:"tiny /тАйни/",
+            ru:"крошечный"
+            },
+            {
+            id:188,
+            eng:"tricky /трИки/",
+            ru:"хитрый"
+            },
+            {
+            id:189,
+            eng:"true /тру/ /тру/",
+            ru:"верный"
+            },
+            {
+            id:190,
+            eng:"ugly /Агли/",
+            ru:"уродливый"
+            },
+            {
+            id:191,
+            eng:"vulgar /вАлгар/",
+            ru:"вульгарный"
+            },
+            {
+            id:192,
+            eng:"warm /вОм/",
+            ru:"теплый"
+            },
+            {
+            id:193,
+            eng:"weak /уИк/",
+            ru:"слабый"
+            },
+            {
+            id:194,
+            eng:"wealthy /уЭлTHи/",
+            ru:"состоятельный"
+            },
+            {
+            id:195,
+            eng:"wet /уЭт/",
+            ru:"мокрый"
+            },
+            {
+            id:196,
+            eng:"wide /уАйд/",
+            ru:"широкий"
+            },
+            {
+            id:197,
+            eng:"wild /уАйлд/",
+            ru:"дикий"
+            },
+            {
+            id:198,
+            eng:"windy /уИнди/",
+            ru:"ветреный"
+            },
+            {
+            id:199,
+            eng:"wise /уАйз/",
+            ru:"мудрый"
+            },
+            {
+            id:200,
+            eng:"wonderful /уандэрфул/",
+            ru:"замечательный"
+            },
+            {
+            id:201,
+            eng:"worthy /уОрTHи/",
+            ru:"достойный"
+            },
+            {
+            id:202,
+            eng:"young /ян/",
+            ru:"молодой"
+            },
+    ],
+    adjectives08: [
+        {
+            id:155,
+            eng:"silly /сИли/",
+            ru:"глупый"
+            },
+            {
+            id:156,
+            eng:"sincere /синсИэ/",
+            ru:"искренний"
+            },
+            {
+            id:157,
+            eng:"skinny /скИни/",
+            ru:"тощий"
+            },
+            {
+            id:158,
+            eng:"sleepy /слИпи/",
+            ru:"сонный"
+            },
+            {
+            id:159,
+            eng:"slim /слИм/",
+            ru:"стройный"
+            },
+            {
+            id:160,
+            eng:"slimy /слАйми/ /слАйми/",
+            ru:"слизкий"
+            },
+            {
+            id:161,
+            eng:"slow /слОу/",
+            ru:"медленный"
+            },
+            {
+            id:162,
+            eng:"small /смОл/",
+            ru:"маленький"
+            },
+            {
+            id:163,
+            eng:"smart /смАрт/",
+            ru:"сообразительный"
+            },
+            {
+            id:164,
+            eng:"smelly /смЭли/",
+            ru:"вонючий"
+            },
+            {
+            id:165,
+            eng:"smoky /смОуки/",
+            ru:"дымный"
+            },
+            {
+            id:166,
+            eng:"smooth /смуз/",
+            ru:"гладкий"
+            },
+            {
+            id:167,
+            eng:"soft /софт/",
+            ru:"мягкий"
+            },
+            {
+            id:168,
+            eng:"soon /сун/",
+            ru:"скоро"
+            },
+            {
+            id:169,
+            eng:"sorry /сори/",
+            ru:"сожалеющий"
+            },
+            {
+            id:170,
+            eng:"sour /сАуэ/",
+            ru:"кислый"
+            },
+            {
+            id:171,
+            eng:"spacious /спЭйшэс/",
+            ru:"просторный"
+            },
+            {
+            id:172,
+            eng:"special /спЭшл/",
+            ru:"особенный"
+            },
+            {
+            id:173,
+            eng:"spicy /спАйси/",
+            ru:"острый"
+            },
+            {
+            id:174,
+            eng:"steep /стИп/",
+            ru:"крутой (наклон)"
+            },
+            {
+            id:175,
+            eng:"strange/weird /weird/",
+            ru:"странный"
+            },
+            {
+            id:176,
+            eng:"strict /стрИкт/",
+            ru:"строгий"
+            },
+            {
+            id:177,
+            eng:"strong /стрОн/",
+            ru:"сильный"
+            },
+            {
+            id:178,
+            eng:"stupid /стьЮпид/",
+            ru:"тупой"
+            },
+    ],
+    adjectives07: [
+        {
+            id:131,
+            eng:"quiet /куАйет/ /куАйет/",
+            ru:"тихий"
+            },
+            {
+            id:132,
+            eng:"rare /рЭа/",
+            ru:"редкий"
+            },
+            {
+            id:133,
+            eng:"raw /ро/",
+            ru:"сырой"
+            },
+            {
+            id:134,
+            eng:"reliable /рилАибл/",
+            ru:"надёжный"
+            },
+            {
+            id:135,
+            eng:"rich /рич/",
+            ru:"богатый"
+            },
+            {
+            id:136,
+            eng:"ripe /рАйп/",
+            ru:"спелый"
+            },
+            {
+            id:137,
+            eng:"risky /рИски/",
+            ru:"рискованный"
+            },
+            {
+            id:138,
+            eng:"rough /рАф/",
+            ru:"черствый, грубый"
+            },
+            {
+            id:139,
+            eng:"rude /рУд/",
+            ru:"грубый в общении"
+            },
+            {
+            id:140,
+            eng:"rusty /рАсти/",
+            ru:"ржавый"
+            },
+            {
+            id:141,
+            eng:"sad /сЭд/",
+            ru:"грустный"
+            },
+            {
+            id:142,
+            eng:"safe /сЭйф/",
+            ru:"безопасный"
+            },
+            {
+            id:143,
+            eng:"salty /сОлти/",
+            ru:"соленый"
+            },
+            {
+            id:144,
+            eng:"sane /сЭйн/",
+            ru:"здравомыслящий"
+            },
+            {
+            id:145,
+            eng:"scared /скЭад/",
+            ru:"напуганный"
+            },
+            {
+            id:146,
+            eng:"scary /скЭри/",
+            ru:"пугающий"
+            },
+            {
+            id:147,
+            eng:"selfish /сЭлфиш/",
+            ru:"эгоистичный"
+            },
+            {
+            id:148,
+            eng:"sexy /сэкси/",
+            ru:"сексуальный"
+            },
+            {
+            id:149,
+            eng:"sharp /шАрп/",
+            ru:"острый"
+            },
+            {
+            id:150,
+            eng:"shiny /шАйни/",
+            ru:"светящийся"
+            },
+            {
+            id:151,
+            eng:"shitty /щИти/",
+            ru:"дерьмовенький"
+            },
+            {
+            id:152,
+            eng:"shocking /шОкин/",
+            ru:"шокирующий"
+            },
+            {
+            id:153,
+            eng:"short /шорт/",
+            ru:"короткий, низкий"
+            },
+            {
+            id:154,
+            eng:"shy /шАй/",
+            ru:"застенчивый"
+            },
+    ],
+    adjectives06: [
+        {
+            id:104,
+            eng:"mad /мЭд/",
+            ru:"безумный"
+            },
+            {
+            id:105,
+            eng:"muscular /мАскьюла/",
+            ru:"мускулистый"
+            },
+            {
+            id:106,
+            eng:"mean /мин/",
+            ru:"злобный"
+            },
+            {
+            id:107,
+            eng:"merry /мЭри/",
+            ru:"веселый"
+            },
+            {
+            id:108,
+            eng:"messy /мЭси/",
+            ru:"неряшливый"
+            },
+            {
+            id:109,
+            eng:"much or many /мач о мэни/",
+            ru:"много"
+            },
+            {
+            id:110,
+            eng:"narrow /нЭроу/",
+            ru:"узкий"
+            },
+            {
+            id:111,
+            eng:"nasty /нЭсти/",
+            ru:"противный"
+            },
+            {
+            id:112,
+            eng:"naughty /нОти/",
+            ru:"непослушный"
+            },
+            {
+            id:113,
+            eng:"near /нИа/",
+            ru:"ближайший"
+            },
+            {
+            id:114,
+            eng:"neat /нит/",
+            ru:"аккуратный"
+            },
+            {
+            id:115,
+            eng:"needy /нИди/",
+            ru:"нуждающийся"
+            },
+            {
+            id:116,
+            eng:"nervous /нЁвэс/",
+            ru:"нервный"
+            },
+            {
+            id:117,
+            eng:"new /ньЮ/",
+            ru:"новый"
+            },
+            {
+            id:118,
+            eng:"nice /нАйс/",
+            ru:"приятный"
+            },
+            {
+            id:119,
+            eng:"noisy /нОйзи/",
+            ru:"шумный"
+            },
+            {
+            id:120,
+            eng:"oily /Ойли/",
+            ru:"маслянистый"
+            },
+            {
+            id:121,
+            eng:"old /оУлд/",
+            ru:"старый"
+            },
+            {
+            id:122,
+            eng:"overweight /ОувэУэйт/",
+            ru:"полноватый"
+            },
+            {
+            id:123,
+            eng:"picky /пИки/",
+            ru:"придирчивый"
+            },
+            {
+            id:124,
+            eng:"plain/simple /simple/",
+            ru:"простой"
+            },
+            {
+            id:125,
+            eng:"polite /полАйт/",
+            ru:"вежливый"
+            },
+            {
+            id:126,
+            eng:"poor /пУэ/",
+            ru:"бедный"
+            },
+            {
+            id:127,
+            eng:"pretty /прИти/",
+            ru:"симпотный"
+            },
+            {
+            id:128,
+            eng:"proud /прАуд/",
+            ru:"гордый"
+            },
+            {
+            id:129,
+            eng:"pure /пьЮэ/",
+            ru:"безпримесный"
+            },
+            {
+            id:130,
+            eng:"quick /квик/",
+            ru:"быстрый"
+            },
+    ],
+    adjectives05: [
+        {
+            id:77,
+            eng:"happy /хЭппи/",
+            ru:"счастливый"
+            },
+            {
+            id:78,
+            eng:"hard /хАрд/",
+            ru:"трудный"
+            },
+            {
+            id:79,
+            eng:"harsh /хАрш/",
+            ru:"суровый"
+            },
+            {
+            id:80,
+            eng:"healthy /хЭлTHи/",
+            ru:"здоровый"
+            },
+            {
+            id:81,
+            eng:"heavy /хЭви/",
+            ru:"тяжелый"
+            },
+            {
+            id:82,
+            eng:"high/tall /хай/",
+            ru:"высокий"
+            },
+            {
+            id:83,
+            eng:"hollow /хОлоу/",
+            ru:"пустотелый"
+            },
+            {
+            id:84,
+            eng:"hot /хот или хат/",
+            ru:"горячий"
+            },
+            {
+            id:85,
+            eng:"humble /хАмбл/",
+            ru:"скромный"
+            },
+            {
+            id:86,
+            eng:"hungry /хАнгри/",
+            ru:"голодный"
+            },
+            {
+            id:87,
+            eng:"icy /Айси/",
+            ru:"ледяной"
+            },
+            {
+            id:88,
+            eng:"immortal /иммОртал/",
+            ru:"бессмертный"
+            },
+            {
+            id:89,
+            eng:"incredible /инкрЭдбл/",
+            ru:"невероятный"
+            },
+            {
+            id:90,
+            eng:"intelligent /интэлиджент/",
+            ru:"образованный"
+            },
+            {
+            id:91,
+            eng:"interesting /ИНтрэстин/",
+            ru:"интересный"
+            },
+            {
+            id:92,
+            eng:"itchy /Итчи/",
+            ru:"зудящий"
+            },
+            {
+            id:93,
+            eng:"juicy /джУси/",
+            ru:"сочный"
+            },
+            {
+            id:94,
+            eng:"kind /кАйнд/",
+            ru:"добрый"
+            },
+            {
+            id:95,
+            eng:"large /лАдж/",
+            ru:"большой"
+            },
+            {
+            id:96,
+            eng:"late /лЭйт/",
+            ru:"поздний"
+            },
+            {
+            id:97,
+            eng:"lazy /лЭйзи/",
+            ru:"ленивый"
+            },
+            {
+            id:98,
+            eng:"legendary /лэДЖэндэри/",
+            ru:"легендарный"
+            },
+            {
+            id:99,
+            eng:"light /лАйт/",
+            ru:"светлый"
+            },
+            {
+            id:100,
+            eng:"little /лИтл/",
+            ru:"мало"
+            },
+            {
+            id:101,
+            eng:"long /лОн/",
+            ru:"длинный"
+            },
+            {
+            id:102,
+            eng:"loud /лАуд/",
+            ru:"громкий"
+            },
+            {
+            id:103,
+            eng:"low /лОу/",
+            ru:"низкий"
+            },
+    ],
+    adjectives04: [
+        {
+            id:53,
+            eng:"fantastic /фэнстэстик/",
+            ru:"фантастичный"
+            },
+            {
+            id:54,
+            eng:"far /фа/",
+            ru:"далекий"
+            },
+            {
+            id:55,
+            eng:"fashionable /фЭшэнэбл/",
+            ru:"модный"
+            },
+            {
+            id:56,
+            eng:"fast /фаст/",
+            ru:"быстрый"
+            },
+            {
+            id:57,
+            eng:"fat /фэт/",
+            ru:"жирный"
+            },
+            {
+            id:58,
+            eng:"favorite /фЭйворит/",
+            ru:"любимый"
+            },
+            {
+            id:59,
+            eng:"few /фью/",
+            ru:"несколько"
+            },
+            {
+            id:60,
+            eng:"fierce /фИрс/",
+            ru:"свирепый"
+            },
+            {
+            id:61,
+            eng:"filthy /филTHи/",
+            ru:"мерзкий"
+            },
+            {
+            id:62,
+            eng:"firm /фЁрм/",
+            ru:"упругий"
+            },
+            {
+            id:63,
+            eng:"flat /флЭт/",
+            ru:"плоский"
+            },
+            {
+            id:64,
+            eng:"fresh /фрЭш/",
+            ru:"свежий"
+            },
+            {
+            id:65,
+            eng:"friendly /фрЭндли/",
+            ru:"дружелюбный"
+            },
+            {
+            id:66,
+            eng:"full /фУл/",
+            ru:"полный"
+            },
+            {
+            id:67,
+            eng:"funny /фАнни/",
+            ru:"смешной"
+            },
+            {
+            id:68,
+            eng:"gentle /джЭнтл/",
+            ru:"нежный"
+            },
+            {
+            id:69,
+            eng:"gloomy /глУми/",
+            ru:"мрачный"
+            },
+            {
+            id:70,
+            eng:"good /гуД/",
+            ru:"хороший"
+            },
+            {
+            id:71,
+            eng:"great /грЭйт/",
+            ru:"великий"
+            },
+            {
+            id:72,
+            eng:"greedy /грИди/",
+            ru:"жадный"
+            },
+            {
+            id:73,
+            eng:"greedy /грИди/",
+            ru:"жадный"
+            },
+            {
+            id:74,
+            eng:"green /грин/",
+            ru:"зелёный"
+            },
+            {
+            id:75,
+            eng:"hairy /хЭйри/",
+            ru:"волосатый"
+            },
+            {
+            id:76,
+            eng:"handsome /хЭнсам/",
+            ru:"красивый (муж)"
+            },
+    ],
+    adjectives03: [
+        {
+            id:25,
+            eng:"close /клоуС/",
+            ru:"близкий"
+            },
+            {
+            id:26,
+            eng:"cloudy /клАуди/",
+            ru:"облачный"
+            },
+            {
+            id:27,
+            eng:"clumsy /клАмзи/",
+            ru:"неуклюжий"
+            },
+            {
+            id:28,
+            eng:"cold /коУлд/",
+            ru:"холодный"
+            },
+            {
+            id:29,
+            eng:"cool /кул/",
+            ru:"крутой"
+            },
+            {
+            id:30,
+            eng:"correct /корЭкт/",
+            ru:"верный"
+            },
+            {
+            id:31,
+            eng:"cozy /кОузи/",
+            ru:"уютный"
+            },
+            {
+            id:32,
+            eng:"crazy /крЭйзи/",
+            ru:"сумасшедший"
+            },
+            {
+            id:33,
+            eng:"crispy /крИспи/",
+            ru:"хрустящий"
+            },
+            {
+            id:34,
+            eng:"curly /кёли/",
+            ru:"кудрявый"
+            },
+            {
+            id:35,
+            eng:"cute /кьЮт/",
+            ru:"милый"
+            },
+            {
+            id:36,
+            eng:"dark /дарк/",
+            ru:"темный"
+            },
+            {
+            id:37,
+            eng:"deadly /дЭдли/",
+            ru:"смертельный"
+            },
+            {
+            id:38,
+            eng:"deep /дип/",
+            ru:"глубокий"
+            },
+            {
+            id:39,
+            eng:"dirty /дёти/",
+            ru:"грязный"
+            },
+            {
+            id:40,
+            eng:"disgusting /дисгАстин/",
+            ru:"отвратительный"
+            },
+            {
+            id:41,
+            eng:"drunk /дрАнк/",
+            ru:"пьяный"
+            },
+            {
+            id:42,
+            eng:"dry /дрАй/",
+            ru:"сухой"
+            },
+            {
+            id:43,
+            eng:"dull /дал/",
+            ru:"затупившийся"
+            },
+            {
+            id:44,
+            eng:"dumb /дам/",
+            ru:"болван"
+            },
+            {
+            id:45,
+            eng:"dusty /дАсти/",
+            ru:"пыльный"
+            },
+            {
+            id:46,
+            eng:"early /ёли/",
+            ru:"ранний"
+            },
+            {
+            id:47,
+            eng:"easy /Изи/",
+            ru:"легкий"
+            },
+            {
+            id:48,
+            eng:"evil /Ивэл/",
+            ru:"злой"
+            },
+            {
+            id:49,
+            eng:"expensive /экспЭнсив/",
+            ru:"дорогой"
+            },
+            {
+            id:50,
+            eng:"fabulous /фЭбьюлэс/",
+            ru:"поразительный"
+            },
+            {
+            id:51,
+            eng:"fair /фЭа/",
+            ru:"справедливый"
+            },
+            {
+            id:52,
+            eng:"fancy /фЭнси/",
+            ru:"изысканный"
+            },
+    ],
+    adjectives02: [
+        {
+            id:1,
+            eng:"alive /элАйв/",
+            ru:"живой"
+            },
+            {
+            id:2,
+            eng:"amazing /эмЭйзин/",
+            ru:"удивительный"
+            },
+            {
+            id:3,
+            eng:"angry /Энгри/",
+            ru:"сердитый"
+            },
+            {
+            id:4,
+            eng:"annoying /энОин/",
+            ru:"бесящий"
+            },
+            {
+            id:5,
+            eng:"attractive /этрЭктив/",
+            ru:"привлекательный"
+            },
+            {
+            id:6,
+            eng:"awesome /Осм/",
+            ru:"офигенный"
+            },
+            {
+            id:7,
+            eng:"bad /бЭд/",
+            ru:"плохой"
+            },
+            {
+            id:8,
+            eng:"bald /бОлд/",
+            ru:"лысый"
+            },
+            {
+            id:9,
+            eng:"beautiful /бьютифул/",
+            ru:"красивая"
+            },
+            {
+            id:10,
+            eng:"big /биГ/",
+            ru:"большой"
+            },
+            {
+            id:11,
+            eng:"black /блЭк/",
+            ru:"Черный"
+            },
+            {
+            id:12,
+            eng:"bloody /блАди/",
+            ru:"кровавый"
+            },
+            {
+            id:13,
+            eng:"blue /блУ/",
+            ru:"синий"
+            },
+            {
+            id:14,
+            eng:"bold /бОлд/",
+            ru:"смелый"
+            },
+            {
+            id:15,
+            eng:"boring /бОрин/",
+            ru:"скучный"
+            },
+            {
+            id:16,
+            eng:"bossy /бОсси/",
+            ru:"властный"
+            },
+            {
+            id:17,
+            eng:"bothering /бАthэрин/",
+            ru:"раздражающий"
+            },
+            {
+            id:18,
+            eng:"brave /брЭйв/",
+            ru:"храбрый"
+            },
+            {
+            id:19,
+            eng:"breathtaking /брэth тэйкин/",
+            ru:"захватывающий дух"
+            },
+            {
+            id:20,
+            eng:"bright /брАйт/",
+            ru:"яркий"
+            },
+            {
+            id:21,
+            eng:"busy /бИзи/",
+            ru:"занятой"
+            },
+            {
+            id:22,
+            eng:"calm /кам/",
+            ru:"спокойный"
+            },
+            {
+            id:23,
+            eng:"cheap /чип/",
+            ru:"дешевый"
+            },
+            {
+            id:24,
+            eng:"clean /клин/",
+            ru:"чистый"
+            },
+    ],
+    adjectives01: [
+        {
+            id:1,
+            eng:"ugly /Агли/",
+            ru:"уродливый"
+            },
+            {
+            id:2,
+            eng:"big /биГ/",
+            ru:"большой"
+            },
+            {
+            id:3,
+            eng:"busy /бИзи/",
+            ru:"занятой"
+            },
+            {
+            id:4,
+            eng:"bald /бОлд/",
+            ru:"лысый"
+            },
+            {
+            id:5,
+            eng:"boring /бОрин/",
+            ru:"скучный"
+            },
+            {
+            id:6,
+            eng:"beautiful /бьютифул/",
+            ru:"красивая"
+            },
+            {
+            id:7,
+            eng:"bad /бЭд/",
+            ru:"плохой"
+            },
+            {
+            id:8,
+            eng:"green /грин/",
+            ru:"зелёный"
+            },
+            {
+            id:9,
+            eng:"great /грЭйт/",
+            ru:"великий"
+            },
+            {
+            id:10,
+            eng:"good /гуд/",
+            ru:"хороший"
+            },
+            {
+            id:11,
+            eng:"dark /дарк/",
+            ru:"темный"
+            },
+            {
+            id:12,
+            eng:"dirty /дёти/",
+            ru:"грязный"
+            },
+            {
+            id:13,
+            eng:"disgusting /дисгАстин/",
+            ru:"отвратительный"
+            },
+            {
+            id:14,
+            eng:"drunk /дрАнк/",
+            ru:"пьяный"
+            },
+            {
+            id:15,
+            eng:"early /ёли/",
+            ru:"ранний, рано"
+            },
+            {
+            id:16,
+            eng:"easy /Изи/",
+            ru:"легкий"
+            },
+            {
+            id:17,
+            eng:"interesting /ИНтрэстин/",
+            ru:"интересный"
+            },
+            {
+            id:18,
+            eng:"kind /кАйнд/",
+            ru:"добрый"
+            },
+            {
+            id:19,
+            eng:"calm /кам/",
+            ru:"спокойный"
+            },
+            {
+            id:20,
+            eng:"young /ян/",
+            ru:"молодой"
+            },
+            {
+            id:21,
+            eng:"clumsy /клАмзи/",
+            ru:"неуклюжий"
+            },
+            {
+            id:22,
+            eng:"clean /клин/",
+            ru:"чистый"
+            },
+            {
+            id:23,
+            eng:"muscular /мАскьюла/",
+            ru:"мускулистый"
+            },
+            {
+            id:24,
+            eng:"old /оУлд/",
+            ru:"старый"
+            },
+    ],
+
+    m006questions0: [
+        {
+            id:26,
+            eng:"How fast? ",
+            ru:"Как быстро?"
+            },
+            {
+            id:27,
+            eng:"With or without? ",
+            ru:"С или без?"
+            },
+            {
+            id:28,
+            eng:"Here? /хИэ/",
+            ru:"Здесь?"
+            },
+            {
+            id:29,
+            eng:"There? /дЭэ/",
+            ru:"Там?"
+            },
+            {
+            id:30,
+            eng:"How many pelmeni? ",
+            ru:"Сколько пельменей?"
+            },
+            {
+            id:31,
+            eng:"How much money? ",
+            ru:"Сколько денег?"
+            },
+            {
+            id:32,
+            eng:"How much time? ",
+            ru:"Сколько времени?"
+            },
+            {
+            id:33,
+            eng:"Where is it? ",
+            ru:"Где это?"
+            },
+            {
+            id:34,
+            eng:"Who is here? ",
+            ru:"Кто здесь?"
+            },
+            {
+            id:35,
+            eng:"Who are they? ",
+            ru:"Кто они?"
+            },
+            {
+            id:36,
+            eng:"Where am I? ",
+            ru:"Где я?"
+            },
+            {
+            id:37,
+            eng:"Who is it? /ху из ит/",
+            ru:"Кто это?"
+            },
+            {
+            id:38,
+            eng:"What is it? ",
+            ru:"Что это?"
+            },
+            {
+            id:39,
+            eng:"Who am I? /ху эм ай/",
+            ru:"Кто я?"
+            },
+            {
+            id:40,
+            eng:"Who are you? ",
+            ru:"Кто вы такой?"
+            },
+            {
+            id:41,
+            eng:"Who is she? ",
+            ru:"Кто она?"
+            },
+            {
+            id:42,
+            eng:"Who is he? ",
+            ru:"Кто он?"
+            },
+            {
+            id:43,
+            eng:"Where is he? ",
+            ru:"Где он?"
+            },
+            {
+            id:44,
+            eng:"Where is she? ",
+            ru:"Где она?"
+            },
+            {
+            id:45,
+            eng:"Why are you here? ",
+            ru:"Почему вы здесь?"
+            },
+            {
+            id:46,
+            eng:"Where is Vincent? ",
+            ru:"Где Винсент?"
+            },
+            {
+            id:47,
+            eng:"When is our lesson? ",
+            ru:"Когда будет урок?"
+            },
+            {
+            id:48,
+            eng:"When does a lesson start? ",
+            ru:"Когда начинается урок?"
+            },
+            {
+            id:49,
+            eng:"When do we start? ",
+            ru:"Когда мы начнем?"
+            },
+            {
+            id:50,
+            eng:"Where do you work? ",
+            ru:"Где ты работаешь?"
+            },
+            {
+            id:51,
+            eng:"How often do you do it? ",
+            ru:"Как часто ты делаешь это?"
+            },
+            {
+            id:52,
+            eng:"What time do we start? ",
+            ru:"Во сколько мы стартуем?"
+            },
+            {
+            id:53,
+            eng:"What time is it? ",
+            ru:"Который час? Сколько время?"
+            },
+    ],
+    m005q1: [
+
+        {
+            id:1,
+            eng:"When? /уэн/",
+            ru:"Когда?"
+            },
+            {
+            id:2,
+            eng:"Where? /уэ э/",
+            ru:"Где?"
+            },
+            {
+            id:3,
+            eng:"What? /уот/",
+            ru:"Что?"
+            },
+            {
+            id:4,
+            eng:"Why? /уай/",
+            ru:"Для чего? Зачем? Почему?"
+            },
+            {
+            id:5,
+            eng:"How? /хау/",
+            ru:"Как?"
+            },
+            {
+            id:6,
+            eng:"Who? /ху/",
+            ru:"Кто?"
+            },
+            {
+            id:7,
+            eng:"Whose? /хуз/",
+            ru:"Чей?"
+            },
+            {
+            id:8,
+            eng:"What time? /уот тайм/",
+            ru:"Во сколько?"
+            },
+            {
+            id:9,
+            eng:"What color? /уот кАла/",
+            ru:"Какого цвета?"
+            },
+            {
+            id:10,
+            eng:"What size? /уот сайз/",
+            ru:"Какого размера?"
+            },
+            {
+            id:11,
+            eng:"How old? /хау оулд/",
+            ru:"Какого возраста?"
+            },
+            {
+            id:12,
+            eng:"How far? /хау фа/",
+            ru:"Насколько далеко?"
+            },
+            {
+            id:13,
+            eng:"How often? /хау офтэн/",
+            ru:"Как часто?"
+            },
+            {
+            id:14,
+            eng:"How long? /хау лон/",
+            ru:"Как долго?"
+            },
+            {
+            id:15,
+            eng:"How tall? /хау тол/",
+            ru:"Какого роста?"
+            },
+            {
+            id:16,
+            eng:"What year? /уот йИэ/",
+            ru:"В каком году?"
+            },
+            {
+            id:17,
+            eng:"What flavor? /уот флЭйво/",
+            ru:"Какого вкуса?"
+            },
+            {
+            id:18,
+            eng:"What song? /уот сон/",
+            ru:"Что за песня?"
+            },
+            {
+            id:19,
+            eng:"What shape? /уот шэйп/",
+            ru:"Какой формы?"
+            },
+            {
+            id:20,
+            eng:"With whom? /уиTH хум/",
+            ru:"С кем?"
+            },
+            {
+            id:21,
+            eng:"Come again? /кам эгэйн/",
+            ru:"Чего, простите?"
+            },
+            {
+            id:22,
+            eng:"How come? /хау кам/",
+            ru:"Как так вышло?"
+            },
+            {
+            id:23,
+            eng:"Why the hell? /уай дэ хэл/",
+            ru:"Какого чёрта?!?"
+            },
+            {
+            id:24,
+            eng:"Here or there? /хИэ о дЭэ/",
+            ru:"Здесь или там?"
+            },
+
+    ],
+    m004numbers: [
+        {
+            id: 1,
+            ru: "1",
+            eng: "one /уан/"
+        },
+        {
+            id: 2,
+            ru: "номер два",
+            eng: "number two / нАмбэ ту/"
+        },
+        {
+            id: 3,
+            ru: "не Фри и не Сри",
+            eng: "three межзубный звук/TH/"
+        },
+        {
+            id: 4,
+            ru: "4",
+            eng: "four /фо/"
+        },
+        {
+            id: 5,
+            ru: "5 не файФ",
+            eng: "five /файВ/"
+        },
+        {
+            id: 6,
+            ru: "не сИкс и не sex",
+            eng: "six /сЫкс/"
+        },
+        {
+            id: 7,
+            ru: "7",
+            eng: "seven /cЭвн/"
+        },
+        {
+            id: 8,
+            ru: "8",
+            eng: "eight /Эйт/"
+        },
+        {
+            id: 9,
+            ru: "9",
+            eng: "nine / нАйн/"
+        },
+        {
+            id: 10,
+            ru: "10",
+            eng: "ten / тЭн/"
+        },
+        {
+            id: 11,
+            ru: "11",
+            eng: "eleven / илЭвн/"
+        },
+        {
+            id: 12,
+            ru: "12",
+            eng: "twelve / твЭлВ/"
+        },
+
+        {
+            id: 13,
+            ru: "не сЁртин и не Фёртин. Язык между зубов!",
+            eng: "thirteen межзубный звук/TH/"
+        },
+
+        {
+            id: 14,
+            ru: "тянем ударение 14 teeeeeen ",
+            eng: "foureen / фотИИИИн/"
+        },
+
+        {
+            id: 15,
+            ru: "долгий звук И 15 окончание teen",
+            eng: "fifteen / фифтИИИн/"
+        },
+        {
+            id: 16,
+            ru: "16 ударение на И",
+            eng: "sixteen / сыкстИн/"
+        },
+        {
+            id: 17,
+            ru: "20 уверенно!",
+            eng: "twenty / твЭнти/"
+        },
+        {
+            id: 17,
+            ru: "/пЭа/ ПАРА = 2",
+            eng: "a pair"
+        },
+        {
+            id: 18,
+            ru: "номера, числа",
+            eng: "numbers /нАмбэz/"
+        },
+        {
+            id: 19,
+            ru: "цифры",
+            eng: "digits /дИджитс/"
+        },
+        {
+            id: 20,
+            ru: "второй",
+            eng: "the second 2nd"
+        },
+        {
+            id: 21,
+            ru: "самый первый",
+            eng: "the first / 1st фёст/"
+        },
+        {
+            id: 22,
+            ru: "/ фром зироу ту найн/",
+            eng: "0 - 9 от ноля до девяти"
+        },
+
+
+
+    ],
+
     m001: [
         {
             id: 1,
@@ -218,7 +6114,7 @@ const allCardsGameFindAPair = {
         },
 
     ],
-    m004letters: [
+    lettersa1: [
         {
             id: 1,
             ru: "	A	",
@@ -352,313 +6248,1392 @@ const allCardsGameFindAPair = {
 
 
     ],
-    numbersA1: [
+    lettersc2: [
         {
-            id: 29,
-            eng: "	one	",
-            ru: "	1	"
-        },
-        {
-            id: 30,
-            eng: "	two	",
-            ru: "	2	"
-        },
-        {
-            id: 31,
-            eng: "	three	",
-            ru: "	3	"
-        },
-        {
-            id: 32,
-            eng: "	four	",
-            ru: "	4	"
-        },
-        {
-            id: 33,
-            eng: "	five	",
-            ru: "	5	"
-        },
-        {
-            id: 34,
-            eng: "	six	",
-            ru: "	6	"
-        },
-        {
-            id: 35,
-            eng: "	seven	",
-            ru: "	7	"
-        },
-        {
-            id: 36,
-            eng: "	eight	",
-            ru: "	8	"
-        },
-        {
-            id: 37,
-            eng: "	nine	",
-            ru: "	9	"
-        },
-        {
-            id: 38,
-            eng: "	ten	",
-            ru: "	10	"
-        },
-        {
-            id: 39,
-            eng: "	eleven	",
-            ru: "	11	"
-        },
-        {
-            id: 40,
-            eng: "	twelve	",
-            ru: "	12	"
-        },
-        {
-            id: 41,
-            eng: "	thirteen	",
-            ru: "	13	"
-        },
-        {
-            id: 42,
-            eng: "	fourteen	",
-            ru: "	14	"
-        },
-        {
-            id: 43,
-            eng: "	fifteen	",
-            ru: "	15	"
-        },
-        {
-            id: 44,
-            eng: "	sixteen	",
-            ru: "	16	"
-        },
-        {
-            id: 45,
-            eng: "	seventeen	",
-            ru: "	17	"
-        },
-        {
-            id: 46,
-            eng: "	eighteen	",
-            ru: "	18	"
-        },
-        {
-            id: 47,
-            eng: "	nineteen	",
-            ru: "	19	"
-        },
-        {
-            id: 48,
-            eng: "	twenty	",
-            ru: "	20	"
-        },
-        {
-            id: 49,
-            eng: "	thirty	",
-            ru: "	30	"
-        },
-        {
-            id: 50,
-            eng: "	fourty	",
-            ru: "	40	"
-        },
-        {
-            id: 51,
-            eng: "	fifty	",
-            ru: "	50	"
-        },
-        {
-            id: 52,
-            eng: "	sixty	",
-            ru: "	60	"
-        },
-        {
-            id: 53,
-            eng: "	seventy	",
-            ru: "	70	"
-        },
-        {
-            id: 54,
-            eng: "	eighty	",
-            ru: "	80	"
-        },
-        {
-            id: 55,
-            eng: "	ninety	",
-            ru: "	90	"
-        },
-        {
-            id: 56,
-            eng: "	hundred	",
-            ru: "	100	"
-        },
-        {
-            id: 57,
-            eng: "	thousand	",
-            ru: "	1000	"
-        },
-        {
-            id: 58,
-            eng: "	billion	",
-            ru: "	1000000	"
-        },
+            id:27,
+            eng:"H & M произносится ",
+            ru:"/эйч ЭН эм/ без Д"
+            },
+            {
+            id:28,
+            eng:"M & Ms произносится ",
+            ru:"/эм ЭН эмz/ без Д"
+            },
+            {
+            id:29,
+            eng:"G and J ",
+            ru:"/джи эн джэй/"
+            },
+            {
+            id:30,
+            eng:"Ai ",
+            ru:"/эй ай/"
+            },
+            {
+            id:31,
+            eng:"iPhone ",
+            ru:"/ай фоун/"
+            },
+            {
+            id:32,
+            eng:"D & D ",
+            ru:"/ди ЭН ди/"
+            },
+            {
+            id:33,
+            eng:"E ",
+            ru:"/ и /"
+            },
+            {
+            id:34,
+            eng:"FCUK ",
+            ru:"/эф си ю кей/"
+            },
+            {
+            id:35,
+            eng:"J and G ",
+            ru:"/джэй эн джи/"
+            },
+            {
+            id:36,
+            eng:"H ",
+            ru:"/ эйч /"
+            },
+            {
+            id:37,
+            eng:"i ",
+            ru:"/ ай /"
+            },
+            {
+            id:38,
+            eng:"Nike ",
+            ru:"/нАйки/"
+            },
+            {
+            id:39,
+            eng:"K ",
+            ru:"/ кей /"
+            },
+            {
+            id:40,
+            eng:"IDK ",
+            ru:"/ай ди кей/"
+            },
+            {
+            id:41,
+            eng:"AFK ",
+            ru:"/эй эф кей/"
+            },
+            {
+            id:42,
+            eng:"ASAP ",
+            ru:"/эй эс эй пи/"
+            },
+            {
+            id:43,
+            eng:"O ",
+            ru:"/ оу /"
+            },
+            {
+            id:44,
+            eng:"P ",
+            ru:"/ пи /"
+            },
+            {
+            id:45,
+            eng:"Q ",
+            ru:"/ кью /"
+            },
+            {
+            id:46,
+            eng:"R ",
+            ru:"/ а /"
+            },
+            {
+            id:47,
+            eng:"S ",
+            ru:"/ эс /"
+            },
+            {
+            id:48,
+            eng:"Viber ",
+            ru:"/вАйбер/"
+            },
+            {
+            id:49,
+            eng:"Message ",
+            ru:"/мЭсидж/"
+            },
+            {
+            id:50,
+            eng:"TNT ",
+            ru:"/ти ЭН ти/"
+            },
+            {
+            id:51,
+            eng:"Special ",
+            ru:"/спЭшл/"
+            },
+            {
+            id:52,
+            eng:"Cucumber ",
+            ru:"/кьЮкамбэ/ ударение на Ю"
+            },
+            {
+            id:53,
+            eng:"Action ",
+            ru:"/экшн/"
+            },
+            {
+            id:54,
+            eng:"Z ",
+            ru:"/ зи (зэд) /"
+            },
+            {
+            id:55,
+            eng:"Y ",
+            ru:"/ уай /"
+            },
+            {
+            id:56,
+            eng:"U ",
+            ru:"/ ю /"
+            },
+            {
+            id:57,
+            eng:"C u ",
+            ru:"/си ю/"
+            },
+            {
+            id:58,
+            eng:"Pacific ocean ",
+            ru:"/пэСыфиК оуШн/"
+            },
+            {
+            id:59,
+            eng:"car ",
+            ru:"/кей э а/"
+            },
+            {
+            id:60,
+            eng:"Rock and Roll ",
+            ru:"/рок ЭН рол/ без звука Д"
+            },
+            {
+            id:61,
+            eng:"KEY ключ ",
+            ru:"/кИ/ и только так произносится"
+            },
+
 
     ],
-    numbersA2: [
+    numbersAa1: [
         {
-            id:99,
-            eng:"the first",
+            id:1,
+            eng:"hundred /хАндрэд/",
+            ru:"100"
+            },
+            {
+            id:2,
+            eng:"thousand /Thаузэнд/",
+            ru:"1000"
+            },
+            {
+            id:3,
+            eng:"million /мИлион/",
+            ru:"1'000'000"
+            },
+            {
+            id:4,
+            eng:"zero /зИроу/",
+            ru:"O"
+            },
+            {
+            id:5,
+            eng:"one /уан/",
+            ru:"1"
+            },
+            {
+            id:6,
+            eng:"two /ту/",
+            ru:"2"
+            },
+            {
+            id:7,
+            eng:"three /Thри/",
+            ru:"3"
+            },
+            {
+            id:8,
+            eng:"four /фо/",
+            ru:"4"
+            },
+            {
+            id:9,
+            eng:"five /файв/",
+            ru:"5"
+            },
+            {
+            id:10,
+            eng:"six /сыкс/",
+            ru:"6"
+            },
+            {
+            id:11,
+            eng:"seven /сэвн/",
+            ru:"7"
+            },
+            {
+            id:12,
+            eng:"eight /эйт/",
+            ru:"8"
+            },
+            {
+            id:13,
+            eng:"nine /найн/",
+            ru:"9"
+            },
+            {
+            id:14,
+            eng:"ten /тэн/",
+            ru:"10"
+            },
+            {
+            id:15,
+            eng:"eleven /илэвн/",
+            ru:"11"
+            },
+            {
+            id:16,
+            eng:"twelve /туэлв/",
+            ru:"12"
+            },
+            {
+            id:17,
+            eng:"thirteen /THётИИИН/",
+            ru:"13"
+            },
+            {
+            id:18,
+            eng:"fourteen /фотИИИН/",
+            ru:"14"
+            },
+            {
+            id:19,
+            eng:"fifteen /фифтИИИН/",
+            ru:"15"
+            },
+            {
+            id:20,
+            eng:"sixteen /сыкстИИИН/",
+            ru:"16"
+            },
+            {
+            id:21,
+            eng:"seventeen /сэвнтИИИН/",
+            ru:"17"
+            },
+            {
+            id:22,
+            eng:"eighteen /эйтИИИН/",
+            ru:"18"
+            },
+            {
+            id:23,
+            eng:"nineteen /найнтИИИН/",
+            ru:"19"
+            },
+            {
+            id:24,
+            eng:"twenty /туЭнти/",
+            ru:"20"
+            },
+
+    ],
+    numbersa2: [
+        {
+            id:1,
+            eng:"a hundred-one /хАндрэд/",
+            ru:"101"
+            },
+            {
+            id:2,
+            eng:"a thousand one /Thаузэнд/",
+            ru:"1001"
+            },
+            {
+            id:3,
+            eng:"eight hundred /эйт хандрэд/",
+            ru:"800"
+            },
+            {
+            id:4,
+            eng:"eight thousand /эйт Thаузэнд/",
+            ru:"8000"
+            },
+            {
+            id:5,
+            eng:"zero /оу/",
+            ru:"O"
+            },
+            {
+            id:6,
+            eng:"three /Thри/",
+            ru:"3"
+            },
+            {
+            id:7,
+            eng:"six /сыкс/",
+            ru:"6"
+            },
+            {
+            id:8,
+            eng:"seven /сэвн/",
+            ru:"7"
+            },
+            {
+            id:9,
+            eng:"eight /эйт/",
+            ru:"8"
+            },
+            {
+            id:10,
+            eng:"sixty-nine ",
+            ru:"69"
+            },
+            {
+            id:11,
+            eng:"eleven /илэвн/",
+            ru:"11"
+            },
+            {
+            id:12,
+            eng:"twelve /туэлв/",
+            ru:"12"
+            },
+            {
+            id:13,
+            eng:"thirteen /THётИИИН/",
+            ru:"13"
+            },
+            {
+            id:14,
+            eng:"fourteen /фотИИИН/",
+            ru:"14"
+            },
+            {
+            id:15,
+            eng:"fifteen /фифтИИИН/",
+            ru:"15"
+            },
+            {
+            id:16,
+            eng:"sixteen /сыкстИИИН/",
+            ru:"16"
+            },
+            {
+            id:17,
+            eng:"seventeen /сэвнтИИИН/",
+            ru:"17"
+            },
+            {
+            id:18,
+            eng:"eighteen /эйтИИИН/",
+            ru:"18"
+            },
+            {
+            id:19,
+            eng:"nineteen /найнтИИИН/",
+            ru:"19"
+            },
+            {
+            id:20,
+            eng:"twenty /туЭнти/",
+            ru:"20"
+            },
+            {
+            id:21,
+            eng:"twenty-one ",
+            ru:"21"
+            },
+            {
+            id:22,
+            eng:"twenty-two ",
+            ru:"22"
+            },
+            {
+            id:23,
+            eng:"twenty-eight ",
+            ru:"28"
+            },
+            {
+            id:24,
+            eng:"twenty-nine ",
+            ru:"29"
+            },
+            {
+            id:25,
+            eng:"thirty-four ",
+            ru:"34"
+            },
+            {
+            id:26,
+            eng:"thirty /thЁти/",
+            ru:"30"
+            },
+            {
+            id:27,
+            eng:"forty-three ",
+            ru:"43"
+            },
+            {
+            id:28,
+            eng:"forty /фОти/",
+            ru:"40"
+            },
+            {
+            id:29,
+            eng:"twenty-four ",
+            ru:"24"
+            },
+            {
+            id:30,
+            eng:"fifty /фИфти/",
+            ru:"50"
+            },
+            {
+            id:31,
+            eng:"thirty-eight ",
+            ru:"38"
+            },
+            {
+            id:32,
+            eng:"thirty-nine ",
+            ru:"39"
+            },
+            {
+            id:33,
+            eng:"fifty-eight ",
+            ru:"58"
+            },
+            {
+            id:34,
+            eng:"fifty-nine ",
+            ru:"59"
+            },
+            {
+            id:35,
+            eng:"eighty /Эйти/",
+            ru:"80"
+            },
+            {
+            id:36,
+            eng:"ninety ",
+            ru:"90"
+            },
+    ],
+    numbersb1: [
+        {
+            id:1,
+            eng:"the first ",
             ru:"первый"
             },
             {
-            id:100,
-            eng:"the second",
+            id:2,
+            eng:"the second ",
             ru:"второй"
             },
             {
-            id:101,
-            eng:"the third",
+            id:3,
+            eng:"the third ",
             ru:"третий"
             },
             {
-            id:102,
-            eng:"the fourth",
+            id:4,
+            eng:"the fourth ",
             ru:"четвертый"
             },
             {
-            id:103,
-            eng:"the fifth",
+            id:5,
+            eng:"the fifth ",
             ru:"пятый"
             },
             {
-            id:104,
-            eng:"the sixth",
+            id:6,
+            eng:"the sixth ",
             ru:"шестой"
             },
             {
-            id:105,
-            eng:"the eighth",
+            id:7,
+            eng:"the eighth ",
             ru:"восьмой"
             },
             {
-            id:106,
-            eng:"the ninth",
+            id:8,
+            eng:"the ninth ",
             ru:"девятый"
             },
             {
-            id:107,
-            eng:"the tenth",
+            id:9,
+            eng:"the tenth ",
             ru:"десятый"
             },
             {
-            id:108,
-            eng:"the twelvth",
+            id:10,
+            eng:"the twelfth ",
             ru:"двенадцатый"
             },
             {
-            id:109,
-            eng:"the twentieth",
+            id:11,
+            eng:"the twentieth ",
             ru:"двадцатый"
             },
             {
-            id:110,
-            eng:"the fortieth",
+            id:12,
+            eng:"the fortieth ",
             ru:"сороковой"
             },
             {
-            id:111,
-            eng:"the fourteenth",
+            id:13,
+            eng:"the fourteenth ",
             ru:"четырнадцатый"
             },
             {
-            id:112,
-            eng:"the zeroth",
+            id:14,
+            eng:"the zeroth ",
             ru:"нулевой"
             },
             {
-            id:113,
-            eng:"the thirtieth",
+            id:15,
+            eng:"the thirtieth ",
             ru:"тринадцатый"
             },
             {
-            id:114,
-            eng:"the hundredth",
+            id:16,
+            eng:"the hundredth ",
             ru:"сотый"
             },
             {
-            id:115,
-            eng:"the thousandth",
+            id:17,
+            eng:"the thousandth ",
             ru:"тысячный"
             },
             {
-            id:116,
-            eng:"the twenty-first",
+            id:18,
+            eng:"the twenty-first ",
             ru:"двадцать первый"
             },
             {
-            id:117,
-            eng:"the fifty-fifth",
+            id:19,
+            eng:"the fifty-fifth ",
             ru:"пятьдесят пятый"
             },
             {
-            id:118,
-            eng:"the last",
+            id:20,
+            eng:"the last ",
             ru:"последний"
             },
             {
-            id:119,
-            eng:"the ninety-ninth",
+            id:21,
+            eng:"the ninety-ninth ",
             ru:"девяносто девятый"
             },
             {
-            id:120,
-            eng:"the eightieth",
+            id:22,
+            eng:"the eightieth ",
             ru:"восьмидесятый"
             },
             {
-            id:121,
-            eng:"the eighty-eighth",
+            id:23,
+            eng:"the eighty-eighth ",
             ru:"восемьдесят восьмой"
             },
     ],
-    testOneSeven: [
+    numbersb2: [
         {
-            id: 1,
-            eng: "one test",
-            ru: "один тест"
-        },
-        {
-            id: 2,
-            eng: "two",
-            ru: "два"
-        },
-        {
-            id: 3,
-            eng: "three",
-            ru: "три"
-        },
-        {
-            id: 4,
-            eng: "four",
-            ru: "четыре"
-        },
-        {
-            id: 5,
-            eng: "five",
-            ru: "пять"
-        },
-        {
-            id: 6,
-            eng: "six",
-            ru: "шесть"
-        },
-        {
-            id: 7,
-            eng: "seven",
-            ru: "семь"
-        },
+            id:1,
+            eng:"2 plus 14 is ",
+            ru:"sixteen"
+            },
+            {
+            id:2,
+            eng:"8 plus 12 is ",
+            ru:"twenty"
+            },
+            {
+            id:3,
+            eng:"10 plus two is ",
+            ru:"twelve"
+            },
+            {
+            id:4,
+            eng:"9 plus nine is ",
+            ru:"eighteen"
+            },
+            {
+            id:5,
+            eng:"10 plus 7 is ",
+            ru:"seventeen"
+            },
+            {
+            id:6,
+            eng:"23 minus 8 is ",
+            ru:"fifteen"
+            },
+            {
+            id:7,
+            eng:"ten plus 9 is ",
+            ru:"nineteen"
+            },
+            {
+            id:8,
+            eng:"5 plus eight is ",
+            ru:"thirteen"
+            },
+            {
+            id:9,
+            eng:"eight + three is ",
+            ru:"eleven"
+            },
+            {
+            id:10,
+            eng:"four + four is ",
+            ru:"eight "
+            },
+            {
+            id:11,
+            eng:"five + four is ",
+            ru:"nine "
+            },
+            {
+            id:12,
+            eng:"nine - two is ",
+            ru:"seven "
+            },
+            {
+            id:13,
+            eng:"9 minus 6 is ",
+            ru:"three"
+            },
+            {
+            id:14,
+            eng:"20 - ten is ",
+            ru:"thirty"
+            },
+            {
+            id:15,
+            eng:"30 + 3 is ",
+            ru:"thirty three"
+            },
+            {
+            id:16,
+            eng:"20 + 8 is ",
+            ru:"twenty eight"
+            },
+            {
+            id:17,
+            eng:"89 minus 30 is ",
+            ru:"fifty nine"
+            },
+            {
+            id:18,
+            eng:"99 minus 30 is ",
+            ru:"sixty nine"
+            },
+            {
+            id:19,
+            eng:"90 + 8 is ",
+            ru:"ninety eight"
+            },
+            {
+            id:20,
+            eng:"twelve + 88 is ",
+            ru:"a hundred"
+            },
+            {
+            id:21,
+            eng:"plus + произносится: ",
+            ru:"плас"
+            },
+            {
+            id:22,
+            eng:"minus - произносится: ",
+            ru:"майнэс"
+            },
+            {
+            id:23,
+            eng:"равно = по-английски: ",
+            ru:"is"
+            },
+            {
+            id:24,
+            eng:"20 + twelve is ",
+            ru:"thirty two"
+            },
+            {
+            id:25,
+            eng:"15 + 50 is ",
+            ru:"sixty five"
+            },
     ],
+    numbersspeak: [
+        {
+            id:1,
+            eng:"hundred /хАндрэд/",
+            ru:"100"
+            },
+            {
+            id:2,
+            eng:"thousand /Thаузэнд/",
+            ru:"1000"
+            },
+            {
+            id:3,
+            eng:"billion /бИллион/",
+            ru:"миллиард"
+            },
+            {
+            id:4,
+            eng:"million ",
+            ru:"1'000'000"
+            },
+            {
+            id:5,
+            eng:"zero /зИроу/",
+            ru:""
+            },
+            {
+            id:6,
+            eng:"one /уан/",
+            ru:"1"
+            },
+            {
+            id:7,
+            eng:"two /ту/",
+            ru:"2"
+            },
+            {
+            id:8,
+            eng:"three /Thри/",
+            ru:"3"
+            },
+            {
+            id:9,
+            eng:"four /фо/",
+            ru:"4"
+            },
+            {
+            id:10,
+            eng:"five /файв/",
+            ru:"5"
+            },
+            {
+            id:11,
+            eng:"six /сыкс/",
+            ru:"6"
+            },
+            {
+            id:12,
+            eng:"seven /сэвн/",
+            ru:"7"
+            },
+            {
+            id:13,
+            eng:"eight /эйт/",
+            ru:"8"
+            },
+            {
+            id:14,
+            eng:"nine /найн/",
+            ru:"9"
+            },
+            {
+            id:15,
+            eng:"ten /тэн/",
+            ru:"10"
+            },
+            {
+            id:16,
+            eng:"eleven /илэвн/",
+            ru:"11"
+            },
+            {
+            id:17,
+            eng:"twelve /туэлв/",
+            ru:"12"
+            },
+            {
+            id:18,
+            eng:"thirteen /THётИИИН/",
+            ru:"13"
+            },
+            {
+            id:19,
+            eng:"fourteen /фотИИИН/",
+            ru:"14"
+            },
+            {
+            id:20,
+            eng:"fifteen /фифтИИИН/",
+            ru:"15"
+            },
+            {
+            id:21,
+            eng:"sixteen /сыкстИИИН/",
+            ru:"16"
+            },
+            {
+            id:22,
+            eng:"seventeen /сэвнтИИИН/",
+            ru:"17"
+            },
+            {
+            id:23,
+            eng:"eighteen /эйтИИИН/",
+            ru:"18"
+            },
+            {
+            id:24,
+            eng:"nineteen /найнтИИИН/",
+            ru:"19"
+            },
+            {
+            id:25,
+            eng:"twenty /туЭнти/",
+            ru:"20"
+            },
+            {
+            id:26,
+            eng:"twenty-one ",
+            ru:"21"
+            },
+            {
+            id:27,
+            eng:"twenty-two ",
+            ru:"22"
+            },
+            {
+            id:28,
+            eng:"twenty-three ",
+            ru:"23"
+            },
+            {
+            id:29,
+            eng:"twenty-four ",
+            ru:"24"
+            },
+            {
+            id:30,
+            eng:"twenty-five ",
+            ru:"25"
+            },
+            {
+            id:31,
+            eng:"twenty-six ",
+            ru:"26"
+            },
+            {
+            id:32,
+            eng:"twenty-seven ",
+            ru:"27"
+            },
+            {
+            id:33,
+            eng:"twenty-eight ",
+            ru:"28"
+            },
+            {
+            id:34,
+            eng:"twenty-nine ",
+            ru:"29"
+            },
+            {
+            id:35,
+            eng:"thirty /thЁти/",
+            ru:"30"
+            },
+            {
+            id:36,
+            eng:"thirty-one ",
+            ru:"31"
+            },
+            {
+            id:37,
+            eng:"thirty-two ",
+            ru:"32"
+            },
+            {
+            id:38,
+            eng:"thirty-three ",
+            ru:"33"
+            },
+            {
+            id:39,
+            eng:"thirty-four ",
+            ru:"34"
+            },
+            {
+            id:40,
+            eng:"thirty-five ",
+            ru:"35"
+            },
+            {
+            id:41,
+            eng:"thirty-six ",
+            ru:"36"
+            },
+            {
+            id:42,
+            eng:"thirty-seven ",
+            ru:"37"
+            },
+            {
+            id:43,
+            eng:"thirty-eight ",
+            ru:"38"
+            },
+            {
+            id:44,
+            eng:"thirty-nine ",
+            ru:"39"
+            },
+            {
+            id:45,
+            eng:"forty /фОти/",
+            ru:"40"
+            },
+            {
+            id:46,
+            eng:"forty-one ",
+            ru:"41"
+            },
+            {
+            id:47,
+            eng:"forty-two ",
+            ru:"42"
+            },
+            {
+            id:48,
+            eng:"forty-three ",
+            ru:"43"
+            },
+            {
+            id:49,
+            eng:"forty-four ",
+            ru:"44"
+            },
+            {
+            id:50,
+            eng:"forty-five ",
+            ru:"45"
+            },
+            {
+            id:51,
+            eng:"forty-six ",
+            ru:"46"
+            },
+            {
+            id:52,
+            eng:"forty-seven ",
+            ru:"47"
+            },
+            {
+            id:53,
+            eng:"forty-eight ",
+            ru:"48"
+            },
+            {
+            id:54,
+            eng:"forty-nine ",
+            ru:"49"
+            },
+            {
+            id:55,
+            eng:"fifty /фИфти/",
+            ru:"50"
+            },
+            {
+            id:56,
+            eng:"fifty-one ",
+            ru:"51"
+            },
+            {
+            id:57,
+            eng:"fifty-two ",
+            ru:"52"
+            },
+            {
+            id:58,
+            eng:"fifty-three ",
+            ru:"53"
+            },
+            {
+            id:59,
+            eng:"fifty-four ",
+            ru:"54"
+            },
+            {
+            id:60,
+            eng:"fifty-five ",
+            ru:"55"
+            },
+            {
+            id:61,
+            eng:"fifty-six ",
+            ru:"56"
+            },
+            {
+            id:62,
+            eng:"fifty-seven ",
+            ru:"57"
+            },
+            {
+            id:63,
+            eng:"fifty-eight ",
+            ru:"58"
+            },
+            {
+            id:64,
+            eng:"fifty-nine ",
+            ru:"59"
+            },
+            {
+            id:65,
+            eng:"sixty /сЫксти/",
+            ru:"60"
+            },
+            {
+            id:66,
+            eng:"sixty-one ",
+            ru:"61"
+            },
+            {
+            id:67,
+            eng:"sixty-two ",
+            ru:"62"
+            },
+            {
+            id:68,
+            eng:"sixty-three ",
+            ru:"63"
+            },
+            {
+            id:69,
+            eng:"sixty-four ",
+            ru:"64"
+            },
+            {
+            id:70,
+            eng:"sixty-five ",
+            ru:"65"
+            },
+            {
+            id:71,
+            eng:"sixty-six ",
+            ru:"66"
+            },
+            {
+            id:72,
+            eng:"sixty-seven ",
+            ru:"67"
+            },
+            {
+            id:73,
+            eng:"sixty-eight ",
+            ru:"68"
+            },
+            {
+            id:74,
+            eng:"sixty-nine ",
+            ru:"69"
+            },
+            {
+            id:75,
+            eng:"seventy /сЭвнти/",
+            ru:"70"
+            },
+            {
+            id:76,
+            eng:"seventy-one ",
+            ru:"71"
+            },
+            {
+            id:77,
+            eng:"seventy-two ",
+            ru:"72"
+            },
+            {
+            id:78,
+            eng:"seventy-three ",
+            ru:"73"
+            },
+            {
+            id:79,
+            eng:"seventy-four ",
+            ru:"74"
+            },
+            {
+            id:80,
+            eng:"seventy-five ",
+            ru:"75"
+            },
+            {
+            id:81,
+            eng:"seventy-six ",
+            ru:"76"
+            },
+            {
+            id:82,
+            eng:"seventy-seven ",
+            ru:"77"
+            },
+            {
+            id:83,
+            eng:"seventy-eight ",
+            ru:"78"
+            },
+            {
+            id:84,
+            eng:"seventy-nine ",
+            ru:"79"
+            },
+            {
+            id:85,
+            eng:"eighty /Эйти/",
+            ru:"80"
+            },
+            {
+            id:86,
+            eng:"eighty-one ",
+            ru:"81"
+            },
+            {
+            id:87,
+            eng:"eighty-two ",
+            ru:"82"
+            },
+            {
+            id:88,
+            eng:"eighty-three ",
+            ru:"83"
+            },
+            {
+            id:89,
+            eng:"eighty-four ",
+            ru:"84"
+            },
+            {
+            id:90,
+            eng:"eighty-five ",
+            ru:"85"
+            },
+            {
+            id:91,
+            eng:"eighty-six ",
+            ru:"86"
+            },
+            {
+            id:92,
+            eng:"eighty-seven ",
+            ru:"87"
+            },
+            {
+            id:93,
+            eng:"eighty-eight ",
+            ru:"88"
+            },
+            {
+            id:94,
+            eng:"eighty-nine ",
+            ru:"89"
+            },
+            {
+            id:95,
+            eng:"ninety /нАйнти/",
+            ru:"90"
+            },
+            {
+            id:96,
+            eng:"ninety-one ",
+            ru:"91"
+            },
+            {
+            id:97,
+            eng:"ninety-two ",
+            ru:"92"
+            },
+            {
+            id:98,
+            eng:"ninety-three ",
+            ru:"93"
+            },
+            {
+            id:99,
+            eng:"ninety-four ",
+            ru:"94"
+            },
+            {
+            id:100,
+            eng:"ninety-five ",
+            ru:"95"
+            },
+            {
+            id:101,
+            eng:"ninety-six ",
+            ru:"96"
+            },
+            {
+            id:102,
+            eng:"ninety-seven ",
+            ru:"97"
+            },
+            {
+            id:103,
+            eng:"ninety-eight ",
+            ru:"98"
+            },
+            {
+            id:104,
+            eng:"ninety-nine ",
+            ru:"99"
+            },
+            {
+            id:105,
+            eng:"the first ",
+            ru:"первый"
+            },
+            {
+            id:106,
+            eng:"the second ",
+            ru:"второй"
+            },
+            {
+            id:107,
+            eng:"the third ",
+            ru:"третий"
+            },
+            {
+            id:108,
+            eng:"the fourth ",
+            ru:"четвертый"
+            },
+            {
+            id:109,
+            eng:"the fifth ",
+            ru:"пятый"
+            },
+            {
+            id:110,
+            eng:"the sixth ",
+            ru:"шестой"
+            },
+            {
+            id:111,
+            eng:"the eighth ",
+            ru:"восьмой"
+            },
+            {
+            id:112,
+            eng:"the ninth ",
+            ru:"девятый"
+            },
+            {
+            id:113,
+            eng:"the tenth ",
+            ru:"десятый"
+            },
+            {
+            id:114,
+            eng:"the twelfth ",
+            ru:"двенадцатый"
+            },
+            {
+            id:115,
+            eng:"the twentieth ",
+            ru:"двадцатый"
+            },
+            {
+            id:116,
+            eng:"the fortieth ",
+            ru:"сороковой"
+            },
+            {
+            id:117,
+            eng:"the fourteenth ",
+            ru:"четырнадцатый"
+            },
+            {
+            id:118,
+            eng:"the zeroth ",
+            ru:"нулевой"
+            },
+            {
+            id:119,
+            eng:"the thirtieth ",
+            ru:"тринадцатый"
+            },
+            {
+            id:120,
+            eng:"the hundredth ",
+            ru:"сотый"
+            },
+            {
+            id:121,
+            eng:"the thousandth ",
+            ru:"тысячный"
+            },
+            {
+            id:122,
+            eng:"the twenty-first ",
+            ru:"двадцать первый"
+            },
+            {
+            id:123,
+            eng:"the fifty-fifth ",
+            ru:"пятьдесят пятый"
+            },
+            {
+            id:124,
+            eng:"the last ",
+            ru:"последний"
+            },
+            {
+            id:125,
+            eng:"the ninety-ninth ",
+            ru:"девяносто девятый"
+            },
+            {
+            id:126,
+            eng:"the eightieth ",
+            ru:"восьмидесятый"
+            },
+            {
+            id:127,
+            eng:"the eighty-eighth ",
+            ru:"восемьдесят восьмой"
+            },
+            {
+            id:128,
+            eng:"a hundred-one /хАндрэд/",
+            ru:"101"
+            },
+            {
+            id:129,
+            eng:"a thousand one /Thаузэнд/",
+            ru:"1001"
+            },
+            {
+            id:130,
+            eng:"eight hundred /эйт хандрэд/",
+            ru:"800"
+            },
+            {
+            id:131,
+            eng:"eight thousand /эйт Thаузэнд/",
+            ru:"8000"
+            },
+    ],
+
     clothes: [
         {
             id: 1,
@@ -1128,618 +8103,7 @@ const allCardsGameFindAPair = {
             ru: "быть счастливым от того-что"
         },
     ],
-    adjectivesa2: [
-        {
-            id: 1,
-            eng: "boring /бОрин/",
-            ru: "скучный"
-        },
-        {
-            id: 2,
-            eng: "awesome /Осм/",
-            ru: "офигенный"
-        },
-        {
-            id: 3,
-            eng: "angry /Энгри/",
-            ru: "сердитый"
-        },
-        {
-            id: 4,
-            eng: "big",
-            ru: "большой"
-        },
-        {
-            id: 5,
-            eng: "black /блЭк/",
-            ru: "Черный"
-        },
-        {
-            id: 6,
-            eng: "blue /блУ/",
-            ru: "синий"
-        },
-        {
-            id: 7,
-            eng: "bald /бОлд/",
-            ru: "лысый"
-        },
-        {
-            id: 8,
-            eng: "bossy /бОсси/",
-            ru: "властный"
-        },
-        {
-            id: 9,
-            eng: "brave /брЭйв/",
-            ru: "храбрый"
-        },
-        {
-            id: 10,
-            eng: "interesting /ИНТрЭСтин/",
-            ru: "интересный"
-        },
-        {
-            id: 11,
-            eng: "bright /брАйт/",
-            ru: "яркий"
-        },
-        {
-            id: 12,
-            eng: "green /грин/",
-            ru: "зелёный"
-        },
-        {
-            id: 13,
-            eng: "busy /бИзи/",
-            ru: "занятой"
-        },
-        {
-            id: 14,
-            eng: "calm /кам/",
-            ru: "спокойный"
-        },
-        {
-            id: 15,
-            eng: "cheap /чип/",
-            ru: "дешевый"
-        },
-        {
-            id: 16,
-            eng: "attractive /этрЭктив/",
-            ru: "привлекательный"
-        },
-        {
-            id: 17,
-            eng: "overweight /ОувэУэйт/",
-            ru: "полноватый"
-        },
-        {
-            id: 18,
-            eng: "fashionable /фЭшэнэбл/",
-            ru: "модный"
-        },
-        {
-            id: 19,
-            eng: "clean /клин/",
-            ru: "чистый"
-        },
-        {
-            id: 20,
-            eng: "clumsy /клАмзи/",
-            ru: "неуклюжий"
-        },
-        {
-            id: 21,
-            eng: "disgusting /дисгАстин/",
-            ru: "отвратительный"
-        },
-        {
-            id: 22,
-            eng: "cold /коУлд/",
-            ru: "холодный"
-        },
-        {
-            id: 23,
-            eng: "cool /кул/",
-            ru: "крутой"
-        },
-        {
-            id: 24,
-            eng: "crazy /крЭйзи/",
-            ru: "сумасшедший"
-        },
-        {
-            id: 25,
-            eng: "beautiful",
-            ru: "красивая"
-        },
-        {
-            id: 26,
-            eng: "wonderful",
-            ru: "замечательный"
-        },
-        {
-            id: 27,
-            eng: "amazing /эмЭйзин/",
-            ru: "удивительный"
-        },
-        {
-            id: 28,
-            eng: "cute /кьЮт/",
-            ru: "милый"
-        },
-        {
-            id: 29,
-            eng: "sexy",
-            ru: "сексуальный"
-        },
-        {
-            id: 30,
-            eng: "dark",
-            ru: "темный"
-        },
-        {
-            id: 31,
-            eng: "expensive /экспЭнсив/",
-            ru: "дорогой"
-        },
-        {
-            id: 32,
-            eng: "dirty /дёти/",
-            ru: "грязный"
-        },
-        {
-            id: 33,
-            eng: "dusty /дАсти/",
-            ru: "пыльный"
-        },
-        {
-            id: 34,
-            eng: "early /ёли/",
-            ru: "ранний, рано"
-        },
-        {
-            id: 35,
-            eng: "easy /Изи/",
-            ru: "легкий"
-        },
-        {
-            id: 36,
-            eng: "fantastic",
-            ru: "фантастичный"
-        },
-        {
-            id: 37,
-            eng: "fancy /фЭнси/",
-            ru: "изысканный"
-        },
-        {
-            id: 38,
-            eng: "fast",
-            ru: "быстрый"
-        },
-        {
-            id: 39,
-            eng: "fat /фэт/",
-            ru: "жирный"
-        },
-        {
-            id: 40,
-            eng: "handsome /хЭнсам/",
-            ru: "красивый (муж)"
-        },
-        {
-            id: 41,
-            eng: "incredible /инкрЭдбл/",
-            ru: "невероятный"
-        },
-        {
-            id: 42,
-            eng: "shocking /шОкин/",
-            ru: "шокирующий"
-        },
-        {
-            id: 43,
-            eng: "fresh /фрЭш/",
-            ru: "свежий"
-        },
-        {
-            id: 44,
-            eng: "friendly /фрЭндли/",
-            ru: "дружелюбный"
-        },
-        {
-            id: 45,
-            eng: "funny /фАнни/",
-            ru: "смешной"
-        },
-        {
-            id: 46,
-            eng: "shitty /щИти/",
-            ru: "дерьмовенький"
-        },
-        {
-            id: 47,
-            eng: "great /грЭйт/",
-            ru: "великий"
-        },
-        {
-            id: 48,
-            eng: "shiny /шАйни/",
-            ru: "светящийся"
-        },
-        {
-            id: 49,
-            eng: "hairy /хЭйри/",
-            ru: "волосатый"
-        },
-        {
-            id: 50,
-            eng: "cozy /кОузи/",
-            ru: "уютный"
-        },
-        {
-            id: 51,
-            eng: "happy /хЭппи/",
-            ru: "счастливый"
-        },
-        {
-            id: 52,
-            eng: "hard /хАрд/",
-            ru: "трудный"
-        },
-        {
-            id: 53,
-            eng: "heavy /хЭви/",
-            ru: "тяжелый"
-        },
-        {
-            id: 54,
-            eng: "tall /тОл/",
-            ru: "высокий"
-        },
-        {
-            id: 55,
-            eng: "hot",
-            ru: "горячий"
-        },
-        {
-            id: 56,
-            eng: "hungry /хАнгри/",
-            ru: "голодный"
-        },
-        {
-            id: 57,
-            eng: "kind /кАйнд/",
-            ru: "добрый"
-        },
-        {
-            id: 58,
-            eng: "large /лАдж/",
-            ru: "крупный"
-        },
-        {
-            id: 59,
-            eng: "late /лЭйт/",
-            ru: "поздний, поздно"
-        },
-        {
-            id: 60,
-            eng: "lazy /лЭйзи/",
-            ru: "ленивый"
-        },
-        {
-            id: 61,
-            eng: "light /лАйт/",
-            ru: "легкий"
-        },
-        {
-            id: 62,
-            eng: "favorite /фЭйворит/",
-            ru: "любимый"
-        },
-        {
-            id: 63,
-            eng: "long /лОн/",
-            ru: "длинный"
-        },
-        {
-            id: 64,
-            eng: "loud /лАуд/",
-            ru: "громкий"
-        },
-        {
-            id: 65,
-            eng: "drunk /дрАнк/",
-            ru: "пьяный"
-        },
-        {
-            id: 66,
-            eng: "mad /мЭд/",
-            ru: "безумный"
-        },
-        {
-            id: 67,
-            eng: "messy /мЭси/",
-            ru: "неряшливый"
-        },
-        {
-            id: 68,
-            eng: "merry /мЭри/",
-            ru: "веселый"
-        },
-        {
-            id: 69,
-            eng: "nasty /нЭсти/",
-            ru: "противный"
-        },
-        {
-            id: 70,
-            eng: "naughty /нОти/",
-            ru: "непослушный"
-        },
-        {
-            id: 71,
-            eng: "neat /нит/",
-            ru: "аккуратный"
-        },
-        {
-            id: 72,
-            eng: "nervous /нЁвэс/",
-            ru: "нервный"
-        },
-        {
-            id: 73,
-            eng: "new /ньЮ/",
-            ru: "новый"
-        },
-        {
-            id: 74,
-            eng: "nice /нАйс/",
-            ru: "приятный"
-        },
-        {
-            id: 75,
-            eng: "noisy /нОйзи/",
-            ru: "шумный"
-        },
-        {
-            id: 76,
-            eng: "breathtaking /брэth тэйкин/",
-            ru: "захватывающий дух"
-        },
-        {
-            id: 77,
-            eng: "old /оУлд/",
-            ru: "старый"
-        },
-        {
-            id: 78,
-            eng: "simple /симпл/",
-            ru: "простой"
-        },
-        {
-            id: 79,
-            eng: "polite /полАйт/",
-            ru: "вежливый"
-        },
-        {
-            id: 80,
-            eng: "poor /пУэ/",
-            ru: "бедный"
-        },
-        {
-            id: 81,
-            eng: "pretty /прИти/",
-            ru: "симпотный"
-        },
-        {
-            id: 82,
-            eng: "proud /прАуд/",
-            ru: "гордый"
-        },
-        {
-            id: 83,
-            eng: "quiet /куАйет/",
-            ru: "тихий"
-        },
-        {
-            id: 84,
-            eng: "rare/рЭа/",
-            ru: "редкий"
-        },
-        {
-            id: 85,
-            eng: "rich /рич/",
-            ru: "богатый"
-        },
-        {
-            id: 86,
-            eng: "risky /рИски/",
-            ru: "рискованный"
-        },
-        {
-            id: 87,
-            eng: "rude /рУд/",
-            ru: "грубый в общении"
-        },
-        {
-            id: 88,
-            eng: "rusty /рАсти/",
-            ru: "ржавый"
-        },
-        {
-            id: 89,
-            eng: "sad /сЭд/",
-            ru: "грустный"
-        },
-        {
-            id: 90,
-            eng: "scary /скЭри/",
-            ru: "пугающий"
-        },
-        {
-            id: 91,
-            eng: "short /шорт/",
-            ru: "короткий, низкий"
-        },
-        {
-            id: 92,
-            eng: "shy /шАй/",
-            ru: "застенчивый"
-        },
-        {
-            id: 93,
-            eng: "silly /сИли/",
-            ru: "глупый"
-        },
-        {
-            id: 94,
-            eng: "stupid /стьЮпид/",
-            ru: "тупо"
-        },
-        {
-            id: 95,
-            eng: "sincere /синсИэ/",
-            ru: "искренний"
-        },
-        {
-            id: 96,
-            eng: "skinny /скИни/",
-            ru: "тощий"
-        },
-        {
-            id: 97,
-            eng: "sleepy /слИпи/",
-            ru: "сонный"
-        },
-        {
-            id: 98,
-            eng: "slim /слИм/",
-            ru: "стройный"
-        },
-        {
-            id: 99,
-            eng: "slow /слОу/",
-            ru: "медленный"
-        },
-        {
-            id: 100,
-            eng: "small /смОл/",
-            ru: "маленький"
-        },
-        {
-            id: 101,
-            eng: "smart /смАрт/",
-            ru: "сообразительный"
-        },
-        {
-            id: 102,
-            eng: "smelly /смЭли/",
-            ru: "вонючий"
-        },
-        {
-            id: 103,
-            eng: "soft",
-            ru: "мягкий"
-        },
-        {
-            id: 104,
-            eng: "weird /вИед/",
-            ru: "чудной"
-        },
-        {
-            id: 105,
-            eng: "strange",
-            ru: "странный"
-        },
-        {
-            id: 106,
-            eng: "strict /стрИкт/",
-            ru: "строгий"
-        },
-        {
-            id: 107,
-            eng: "strong /стрОн/",
-            ru: "сильный"
-        },
-        {
-            id: 108,
-            eng: "sweet",
-            ru: "сладкий"
-        },
-        {
-            id: 109,
-            eng: "tiny /тАйни/",
-            ru: "крошечный"
-        },
-        {
-            id: 110,
-            eng: "legendary /лэДЖэндэри/",
-            ru: "легендарный"
-        },
-        {
-            id: 111,
-            eng: "ugly /Агли/",
-            ru: "уродливый"
-        },
-        {
-            id: 112,
-            eng: "weak /уИк/",
-            ru: "слабый"
-        },
-        {
-            id: 113,
-            eng: "wealthy /уЭлTHи/",
-            ru: "состоятельный"
-        },
-        {
-            id: 114,
-            eng: "wet /уЭт/",
-            ru: "мокрый"
-        },
-        {
-            id: 115,
-            eng: "wild /уАйлд/",
-            ru: "дикий"
-        },
-        {
-            id: 116,
-            eng: "wise /уАйз/",
-            ru: "мудрый"
-        },
-        {
-            id: 117,
-            eng: "young /ян/",
-            ru: "молодой"
-        },
-        {
-            id: 118,
-            eng: "reliable /рилАибл/",
-            ru: "надёжный"
-        },
-        {
-            id: 119,
-            eng: "successful /саксЭсфул/",
-            ru: "успешный"
-        },
-        {
-            id: 120,
-            eng: "tricky /трИки/",
-            ru: "хитрый"
-        },
-        {
-            id: 121,
-            eng: "good",
-            ru: "хороший"
-        },
-        {
-            id: 122,
-            eng: "bad /бЭд/",
-            ru: "плохой"
-        },
-    ],
+    
     part11awc1: [
         {
             id: 1,
@@ -4233,263 +10597,7 @@ const allCardsGameFindAPair = {
             ru: "понимать"
         },
     ],
-    sara: [
-        {
-            id: 1,
-            eng: "wake up /уЭйк ап/",
-            ru: "просыпаться рано"
-        },
-        {
-            id: 2,
-            eng: "get up /гет ап/",
-            ru: "вставать"
-        },
-        {
-            id: 3,
-            eng: "have a shower /шАуэ/",
-            ru: "принимать душ  “иметь душ”"
-        },
-        {
-            id: 4,
-            eng: "take a shower /шАуэ/",
-            ru: "принимать душ  “взять душ”"
-        },
-        {
-            id: 5,
-            eng: "brush teeth /браш/",
-            ru: "начищать зубы  "
-        },
-        {
-            id: 6,
-            eng: "clean teeth /клИн/ ",
-            ru: "чистить зубы"
-        },
-        {
-            id: 7,
-            eng: "get dressed /дрЭСТ/",
-            ru: "одеваться"
-        },
-        {
-            id: 8,
-            eng: "go to the kitchen ",
-            ru: "идти на кухню"
-        },
-        {
-            id: 9,
-            eng: "go to the bathroom /бАthрум/",
-            ru: "идти в ванную"
-        },
-        {
-            id: 10,
-            eng: "go to the bedroom /бЭдрум/",
-            ru: "идти в спальню"
-        },
-        {
-            id: 11,
-            eng: "go to the living room /лИвин/ ",
-            ru: "идти в гостиную"
-        },
-        {
-            id: 12,
-            eng: "have a cup of coffee or tea /тИ/",
-            ru: "пить чашечку кофе или чая"
-        },
-        {
-            id: 13,
-            eng: "take a cup of tea /тИ/",
-            ru: "взять чашку чая"
-        },
-        {
-            id: 14,
-            eng: "get a glass of wine  /уАйн/",
-            ru: "достать бокал вина"
-        },
-        {
-            id: 15,
-            eng: "drink a bottle of milk ",
-            ru: "выпить бутылку молока"
-        },
-        {
-            id: 16,
-            eng: "leave the house ",
-            ru: "покидать дом"
-        },
-        {
-            id: 17,
-            eng: "walk /вОлк/",
-            ru: "гулять"
-        },
-        {
-            id: 18,
-            eng: "walk to the station ",
-            ru: "гулять до станции"
-        },
-        {
-            id: 19,
-            eng: "wait for something ",
-            ru: "ждать чего-то"
-        },
-        {
-            id: 20,
-            eng: "wait for the train ",
-            ru: "ждать поезда"
-        },
-        {
-            id: 21,
-            eng: "look at the phone ",
-            ru: "смотреть на телефон"
-        },
-        {
-            id: 22,
-            eng: "walk somewhere /сАмуЭэ/",
-            ru: "гулять где-то"
-        },
-        {
-            id: 23,
-            eng: "work for a big company ",
-            ru: "работать на большую компанию"
-        },
-        {
-            id: 24,
-            eng: "walk to a bus stop ",
-            ru: "прогуляться до остановки автобуса"
-        },
-        {
-            id: 25,
-            eng: "talk to somebody ",
-            ru: "говорить с кем-то"
-        },
-        {
-            id: 26,
-            eng: "talk /тОк/",
-            ru: "говорить"
-        },
-        {
-            id: 27,
-            eng: "talk on the phone ",
-            ru: "говорить по телефону"
-        },
-        {
-            id: 28,
-            eng: "speak with somebody ",
-            ru: "разговаривать с кем-то"
-        },
-        {
-            id: 29,
-            eng: "write /рАйт/",
-            ru: "писАть"
-        },
-        {
-            id: 30,
-            eng: "write an e-mail ",
-            ru: "писать письма"
-        },
-        {
-            id: 31,
-            eng: "have meetings ",
-            ru: "иметь встречи"
-        },
-        {
-            id: 32,
-            eng: "have lunch in a café /кЭфи/",
-            ru: "обедать в кафе"
-        },
-        {
-            id: 33,
-            eng: "have lunch at work ",
-            ru: "обедать на работе"
-        },
-        {
-            id: 34,
-            eng: "work all day  /Ол дЭй/",
-            ru: "работать весь день"
-        },
-        {
-            id: 35,
-            eng: "finish work day ",
-            ru: "заканчивать рабочий день"
-        },
-        {
-            id: 36,
-            eng: "go home ",
-            ru: "идти домой"
-        },
-        {
-            id: 37,
-            eng: "cook dinner ",
-            ru: "готовить ужин"
-        },
-        {
-            id: 38,
-            eng: "watch TeleVision  (TV) ",
-            ru: "смотреть телевизор"
-        },
-        {
-            id: 39,
-            eng: "have dinner ",
-            ru: "ужинать"
-        },
-        {
-            id: 40,
-            eng: "go to bed ",
-            ru: "идти в постель"
-        },
-        {
-            id: 41,
-            eng: "have dreams /дрИмз/",
-            ru: "иметь мечты"
-        },
-        {
-            id: 42,
-            eng: "dream /дрИм/",
-            ru: "мечтать"
-        },
-        {
-            id: 43,
-            eng: "get e-mails ",
-            ru: "получать письма"
-        },
-        {
-            id: 44,
-            eng: "check e-mails ",
-            ru: "проверять почту"
-        },
-        {
-            id: 45,
-            eng: "wait for somebody /сАмбади/",
-            ru: "ждать кого-то"
-        },
-        {
-            id: 46,
-            eng: "sing a song /сИн Э сОн/",
-            ru: "петь песню"
-        },
-        {
-            id: 47,
-            eng: "do number one /нАмбэ уАн/",
-            ru: "ходить 'по-маленькому' (писать)"
-        },
-        {
-            id: 48,
-            eng: "do number two /нАмбэ тУ/",
-            ru: "ходить 'по-большому' (какать)"
-        },
-        {
-            id: 49,
-            eng: "feed pets /фид пЭтс/",
-            ru: "кормить питомцев"
-        },
-        {
-            id: 50,
-            eng: "lie for 5 mins /лай фо 5 мИнэтс/",
-            ru: "лежать в течении 5 минут"
-        },
-        {
-            id: 51,
-            eng: "oversleep /оУвЭслип/",
-            ru: "проспать"
-        },
-    ],
+   
     anika: [
         {
             id: 1,
@@ -5849,1003 +11957,7 @@ const allCardsGameFindAPair = {
             ru: "много , more , the most"
         },
     ],
-    adjectivesb1compare: [
-        {
-            id: 410,
-            eng: "boring /бОрин/",
-            ru: "скучный , more , the  most"
-        },
-        {
-            id: 411,
-            eng: "awesome /Осм/",
-            ru: "офигенный , more , the  most"
-        },
-        {
-            id: 412,
-            eng: "angry /Энгри/",
-            ru: "сердитый , angrier , the  angriest"
-        },
-        {
-            id: 413,
-            eng: "big",
-            ru: "большой , bigger , the  biggest"
-        },
-        {
-            id: 414,
-            eng: "black /блЭк/",
-            ru: "Черный , blacker , the  blackest"
-        },
-        {
-            id: 415,
-            eng: "bold and bald /бОлд/",
-            ru: "смелый , bolder , the  boldest"
-        },
-        {
-            id: 416,
-            eng: "blue /блУ/",
-            ru: "синий , bluer , the  bluest"
-        },
-        {
-            id: 417,
-            eng: "bald /бОлд/",
-            ru: "лысый , balder , the  baldest"
-        },
-        {
-            id: 418,
-            eng: "bossy /бОсси/",
-            ru: "властный , bossier , the  bossiest"
-        },
-        {
-            id: 419,
-            eng: "brave /брЭйв/",
-            ru: "храбрый , braver , the  bravest"
-        },
-        {
-            id: 420,
-            eng: "interesting /ИНтрэстин/",
-            ru: "интересный , more , the  most"
-        },
-        {
-            id: 421,
-            eng: "bright /брАйт/",
-            ru: "яркий , brighter , the  brightest"
-        },
-        {
-            id: 422,
-            eng: "green /грин/",
-            ru: "зелёный , greener , the  greenest"
-        },
-        {
-            id: 423,
-            eng: "busy /бИзи/",
-            ru: "занятой , busier , the  busiest"
-        },
-        {
-            id: 424,
-            eng: "calm /кам/",
-            ru: "спокойный , calmer , the  calmest"
-        },
-        {
-            id: 425,
-            eng: "cheap /чип/",
-            ru: "дешевый , cheaper , the  cheapest"
-        },
-        {
-            id: 426,
-            eng: "attractive /этрЭктив/",
-            ru: "привлекательный , more , the  most"
-        },
-        {
-            id: 427,
-            eng: "overweight /ОувэУэйт/",
-            ru: "полноватый , more , the  most"
-        },
-        {
-            id: 428,
-            eng: "fashionable /фЭшэнэбл/",
-            ru: "модный , more , the  most"
-        },
-        {
-            id: 429,
-            eng: "clean /клин/",
-            ru: "чистый , cleaner , the  cleanest"
-        },
-        {
-            id: 430,
-            eng: "intelligent",
-            ru: "образованный , more , the  most"
-        },
-        {
-            id: 431,
-            eng: "close /клоуС/",
-            ru: "близкий , closer , the  closest"
-        },
-        {
-            id: 432,
-            eng: "cloudy /клАуди",
-            ru: "облачный , cloudier , the  cloudiest"
-        },
-        {
-            id: 433,
-            eng: "clumsy /клАмзи/",
-            ru: "неуклюжий , clumsier , the  clumsiest"
-        },
-        {
-            id: 434,
-            eng: "disgusting /дисгАстин/",
-            ru: "отвратительный , more , the  most"
-        },
-        {
-            id: 435,
-            eng: "cold /коУлд/",
-            ru: "холодный , colder , the  coldest"
-        },
-        {
-            id: 436,
-            eng: "cool /кул/",
-            ru: "крутой , cooler , the  coolest"
-        },
-        {
-            id: 437,
-            eng: "crazy /крЭйзи/",
-            ru: "сумасшедший , crazier , the  craziest"
-        },
-        {
-            id: 438,
-            eng: "beautiful",
-            ru: "красивая , more , the  most"
-        },
-        {
-            id: 439,
-            eng: "annoying /энОин/",
-            ru: "бесящий , more , the  most"
-        },
-        {
-            id: 440,
-            eng: "crispy /крИспи/",
-            ru: "хрустящий , crispier , the  crispiest"
-        },
-        {
-            id: 441,
-            eng: "wonderful",
-            ru: "замечательный , more , the  the most"
-        },
-        {
-            id: 442,
-            eng: "curly /кёли/",
-            ru: "кудрявый , curlier , the  curliest"
-        },
-        {
-            id: 443,
-            eng: "amazing /эмЭйзин/",
-            ru: "удивительный , more , the  most"
-        },
-        {
-            id: 444,
-            eng: "cute /кьЮт/",
-            ru: "милый , cuter , the  cutest"
-        },
-        {
-            id: 445,
-            eng: "sexy",
-            ru: "сексуальный , sexier , the  sexiest"
-        },
-        {
-            id: 446,
-            eng: "dark",
-            ru: "темный , darker , the  darkest"
-        },
-        {
-            id: 447,
-            eng: "deadly /дЭдли/",
-            ru: "смертельный , deadlier , the  deadliest"
-        },
-        {
-            id: 448,
-            eng: "deep /дип/",
-            ru: "глубокий , deeper , the  deepest"
-        },
-        {
-            id: 449,
-            eng: "expensive /экспЭнсив/",
-            ru: "дорогой , more , the  most"
-        },
-        {
-            id: 450,
-            eng: "dirty /дёти/",
-            ru: "грязный , dirtier , the  dirtiest"
-        },
-        {
-            id: 451,
-            eng: "dry /дрАй/",
-            ru: "сухой , drier , the  driest"
-        },
-        {
-            id: 452,
-            eng: "dull /дал/",
-            ru: "затупившийся , duller , the  dullest"
-        },
-        {
-            id: 453,
-            eng: "dumb /дам/",
-            ru: "болван , dumber , the  dumbest"
-        },
-        {
-            id: 454,
-            eng: "dusty /дАсти/",
-            ru: "пыльный , dustier , the  dustiest"
-        },
-        {
-            id: 455,
-            eng: "early /ёли/",
-            ru: "ранний , earlier , the  earliest"
-        },
-        {
-            id: 456,
-            eng: "easy /Изи/",
-            ru: "легкий , easier , the  easiest"
-        },
-        {
-            id: 457,
-            eng: "evil /Ивэл/",
-            ru: "злой , more evil , the  most"
-        },
-        {
-            id: 458,
-            eng: "fantastic",
-            ru: "фантастичный , more , the  most"
-        },
-        {
-            id: 459,
-            eng: "fair /фЭа/",
-            ru: "справедливый , fairer , the  fairest"
-        },
-        {
-            id: 460,
-            eng: "fancy /фЭнси/",
-            ru: "изысканный , fancier , the  fanciest"
-        },
-        {
-            id: 461,
-            eng: "far",
-            ru: "далекий , farther , the  farthest"
-        },
-        {
-            id: 462,
-            eng: "fast",
-            ru: "быстрый , faster , the  fastest"
-        },
-        {
-            id: 463,
-            eng: "fat /фэт/",
-            ru: "жирный , fatter , the  fattest"
-        },
-        {
-            id: 464,
-            eng: "few /фью/",
-            ru: "несколько , fewer , the  fewest"
-        },
-        {
-            id: 465,
-            eng: "fierce /фИрс/",
-            ru: "свирепый , fiercer , the  fiercest"
-        },
-        {
-            id: 466,
-            eng: "filthy /филTHи/",
-            ru: "мерзкий , filthier , the  filthiest"
-        },
-        {
-            id: 467,
-            eng: "handsome /хЭнсам/",
-            ru: "красивый (муж) , more , the  most"
-        },
-        {
-            id: 468,
-            eng: "firm /фЁрм/",
-            ru: "упругий , firmer , the  firmest"
-        },
-        {
-            id: 469,
-            eng: "incredible /инкрЭдбл/",
-            ru: "невероятный , more , the  most"
-        },
-        {
-            id: 470,
-            eng: "shocking /шОкин/",
-            ru: "шокирующий , more , the  most"
-        },
-        {
-            id: 471,
-            eng: "flat /флЭт/",
-            ru: "плоский , flatter , the  flattest"
-        },
-        {
-            id: 472,
-            eng: "fresh /фрЭш/",
-            ru: "свежий , fresher , the  freshest"
-        },
-        {
-            id: 473,
-            eng: "friendly /фрЭндли/",
-            ru: "дружелюбный , friendlier , the  friendliest"
-        },
-        {
-            id: 474,
-            eng: "full /фУл/",
-            ru: "полный , fuller , the  fullest"
-        },
-        {
-            id: 475,
-            eng: "funny /фАнни/",
-            ru: "смешной , funnier , the  funniest"
-        },
-        {
-            id: 476,
-            eng: "gentle /джЭнтл/",
-            ru: "нежный , gentler , the  gentlest"
-        },
-        {
-            id: 477,
-            eng: "gloomy /глУми/",
-            ru: "мрачный , gloomier , the  gloomiest"
-        },
-        {
-            id: 478,
-            eng: "shitty /щИти/",
-            ru: "дерьмовенький , shittier , the  shittiest"
-        },
-        {
-            id: 479,
-            eng: "great /грЭйт/",
-            ru: "великий , greater , the  greatest"
-        },
-        {
-            id: 480,
-            eng: "greedy /грИди/",
-            ru: "жадный , greedier , the  greediest"
-        },
-        {
-            id: 481,
-            eng: "shiny /шАйни/",
-            ru: "светящийся , shinier , the  shiniest"
-        },
-        {
-            id: 482,
-            eng: "hairy /хЭйри/",
-            ru: "волосатый , hairier , the  hairiest"
-        },
-        {
-            id: 483,
-            eng: "cozy /кОузи/",
-            ru: "уютный , handier , the  handiest"
-        },
-        {
-            id: 484,
-            eng: "happy /хЭппи/",
-            ru: "счастливый , happier , the  happiest"
-        },
-        {
-            id: 485,
-            eng: "hard /хАрд/",
-            ru: "трудный , harder , the  hardest"
-        },
-        {
-            id: 486,
-            eng: "harsh /хАрш/",
-            ru: "суровый , harsher , the  harshest"
-        },
-        {
-            id: 487,
-            eng: "healthy /хЭлTHи/",
-            ru: "здоровый , healthier , the  healthiest"
-        },
-        {
-            id: 488,
-            eng: "heavy /хЭви/",
-            ru: "тяжелый , heavier , the  heaviest"
-        },
-        {
-            id: 489,
-            eng: "high /хай/",
-            ru: "высокий , higher , the  highest"
-        },
-        {
-            id: 490,
-            eng: "scared /скЭад/",
-            ru: "напуганный , more , the  the most"
-        },
-        {
-            id: 491,
-            eng: "hot",
-            ru: "горячий , hotter , the  hottest"
-        },
-        {
-            id: 492,
-            eng: "humble /хАмбл/",
-            ru: "скромный , humbler , the  humblest"
-        },
-        {
-            id: 493,
-            eng: "hungry /хАнгри/",
-            ru: "голодный , hungrier , the  hungriest"
-        },
-        {
-            id: 494,
-            eng: "icy /Айси/",
-            ru: "ледяной , icier , the  iciest"
-        },
-        {
-            id: 495,
-            eng: "itchy /Итчи/",
-            ru: "зудящий , itchier , the  itchiest"
-        },
-        {
-            id: 496,
-            eng: "juicy /джУси/",
-            ru: "сочный , juicier , the  juiciest"
-        },
-        {
-            id: 497,
-            eng: "kind /кАйнд/",
-            ru: "добрый , kinder , the  kindest"
-        },
-        {
-            id: 498,
-            eng: "large /лАдж/",
-            ru: "большой , larger , the  largest"
-        },
-        {
-            id: 499,
-            eng: "late /лЭйт/",
-            ru: "поздний , later , the  latest"
-        },
-        {
-            id: 500,
-            eng: "lazy /лЭйзи/",
-            ru: "ленивый , lazier , the  laziest"
-        },
-        {
-            id: 501,
-            eng: "light /лАйт/",
-            ru: "светлый , lighter , the  lightest"
-        },
-        {
-            id: 502,
-            eng: "favorite /фЭйворит/",
-            ru: "любимый , more , the  most"
-        },
-        {
-            id: 503,
-            eng: "little /лИтл/",
-            ru: "мало , less , the  the least"
-        },
-        {
-            id: 504,
-            eng: "alive /элАйв/",
-            ru: "живой , more , the  most"
-        },
-        {
-            id: 505,
-            eng: "long /лОн/",
-            ru: "длинный , longer , the  longest"
-        },
-        {
-            id: 506,
-            eng: "loud /лАуд/",
-            ru: "громкий , louder , the  loudest"
-        },
-        {
-            id: 507,
-            eng: "drunk /дрАнк/",
-            ru: "пьяный , drunker , the  drunkest"
-        },
-        {
-            id: 508,
-            eng: "low /лОу/",
-            ru: "низкий , lower , the  lowest"
-        },
-        {
-            id: 509,
-            eng: "mad /мЭд/",
-            ru: "безумный , madder , the  maddest"
-        },
-        {
-            id: 510,
-            eng: "mean /мин/",
-            ru: "злобный , meaner , the  meanest"
-        },
-        {
-            id: 511,
-            eng: "messy /мЭси/",
-            ru: "неряшливый , messier , the  messiest"
-        },
-        {
-            id: 512,
-            eng: "bothering /бАthэрин/",
-            ru: "раздражающий , more , the  most"
-        },
-        {
-            id: 513,
-            eng: "merry /мЭри/",
-            ru: "веселый , merrier , the  merriest"
-        },
-        {
-            id: 514,
-            eng: "narrow /нЭроу/",
-            ru: "узкий , narrower , the  narrowest"
-        },
-        {
-            id: 515,
-            eng: "nasty /нЭсти/",
-            ru: "противный , nastier , the  nastiest"
-        },
-        {
-            id: 516,
-            eng: "naughty /нОти/",
-            ru: "непослушный , naughtier , the  naughtiest"
-        },
-        {
-            id: 517,
-            eng: "near /нИа/",
-            ru: "ближайший , nearer , the  nearest"
-        },
-        {
-            id: 518,
-            eng: "neat /нит/",
-            ru: "аккуратный , neater , the  neatest"
-        },
-        {
-            id: 519,
-            eng: "needy /нИди/",
-            ru: "нуждающийся , needier , the  neediest"
-        },
-        {
-            id: 520,
-            eng: "nervous /нЁвэс/",
-            ru: "нервный , more nervous , the  most"
-        },
-        {
-            id: 521,
-            eng: "new /ньЮ/",
-            ru: "новый , newer , the  newest"
-        },
-        {
-            id: 522,
-            eng: "nice /нАйс/",
-            ru: "приятный , nicer , the  nicest"
-        },
-        {
-            id: 523,
-            eng: "noisy /нОйзи/",
-            ru: "шумный , noisier , the  noisiest"
-        },
-        {
-            id: 524,
-            eng: "breathtaking /брэth тэйкин/",
-            ru: "захватывающий дух , more , the  most"
-        },
-        {
-            id: 525,
-            eng: "oily /Ойли/",
-            ru: "маслянистый , oilier , the  oiliest"
-        },
-        {
-            id: 526,
-            eng: "old /оУлд/",
-            ru: "старый , older/elder , the  oldest/eldest"
-        },
-        {
-            id: 527,
-            eng: "simple or plain",
-            ru: "простой , plainer , the  plainest"
-        },
-        {
-            id: 528,
-            eng: "polite /полАйт/",
-            ru: "вежливый , politer , the  politest"
-        },
-        {
-            id: 529,
-            eng: "poor /пУэ/",
-            ru: "бедный , poorer , the  poorest"
-        },
-        {
-            id: 530,
-            eng: "pretty /прИти/",
-            ru: "симпотный , prettier , the  prettiest"
-        },
-        {
-            id: 531,
-            eng: "proud /прАуд/",
-            ru: "гордый , prouder , the  proudest"
-        },
-        {
-            id: 532,
-            eng: "pure /пьЮэ/",
-            ru: "безпримесный , purer , the  purest"
-        },
-        {
-            id: 533,
-            eng: "quick куИк/",
-            ru: "быстрый , quicker , the  quickest"
-        },
-        {
-            id: 534,
-            eng: "quiet /куАйет/",
-            ru: "тихий , quieter , the  quietest"
-        },
-        {
-            id: 535,
-            eng: "rare/рЭа/",
-            ru: "редкий , rarer , the  rarest"
-        },
-        {
-            id: 536,
-            eng: "raw /ро/",
-            ru: "сырой , rawer , the  rawest"
-        },
-        {
-            id: 537,
-            eng: "rich /рич/",
-            ru: "богатый , richer , the  richest"
-        },
-        {
-            id: 538,
-            eng: "ripe /рАйп/",
-            ru: "спелый , riper , the  ripest"
-        },
-        {
-            id: 539,
-            eng: "risky /рИски/",
-            ru: "рискованный , riskier , the  riskiest"
-        },
-        {
-            id: 540,
-            eng: "spacious /спЭйшэс/",
-            ru: "просторный , more , the  most"
-        },
-        {
-            id: 541,
-            eng: "rough /рАф/",
-            ru: "черствый, грубый , rougher , the  roughest"
-        },
-        {
-            id: 542,
-            eng: "rude /рУд/",
-            ru: "грубый в общении , ruder , the  rudest"
-        },
-        {
-            id: 543,
-            eng: "rusty /рАсти/",
-            ru: "ржавый , rustier , the  rustiest"
-        },
-        {
-            id: 544,
-            eng: "sad /сЭд/",
-            ru: "грустный , sadder , the  saddest"
-        },
-        {
-            id: 545,
-            eng: "safe /сЭйф/",
-            ru: "безопасный , safer , the  safest"
-        },
-        {
-            id: 546,
-            eng: "salty /сОлти/",
-            ru: "соленый , saltier , the  saltiest"
-        },
-        {
-            id: 547,
-            eng: "spoiled /спОйлд/",
-            ru: "здравомыслящий , more , the most"
-        },
-        {
-            id: 548,
-            eng: "scary /скЭри/",
-            ru: "пугающий , scarier , the  scariest"
-        },
-        {
-            id: 549,
-            eng: "correct /корЭкт/",
-            ru: "верный , more , the  most"
-        },
-        {
-            id: 550,
-            eng: "sharp /шАрп/",
-            ru: "острый , sharper , the  sharpest"
-        },
-        {
-            id: 551,
-            eng: "hollow /хОлоу/",
-            ru: "пустотелый , more , the  most"
-        },
-        {
-            id: 552,
-            eng: "short /шорт/",
-            ru: "короткий, низкий , shorter , the  shortest"
-        },
-        {
-            id: 553,
-            eng: "shy /шАй/",
-            ru: "застенчивый , shyer , the  shyest"
-        },
-        {
-            id: 554,
-            eng: "silly /сИли/",
-            ru: "глупый , sillier , the  silliest"
-        },
-        {
-            id: 555,
-            eng: "stupid /стьЮпид/",
-            ru: "тупо , more , the  most"
-        },
-        {
-            id: 556,
-            eng: "sincere /синсИэ/",
-            ru: "искренний , sincerer , the  sincerest"
-        },
-        {
-            id: 557,
-            eng: "skinny /скИни/",
-            ru: "тощий , skinnier , the  skinniest"
-        },
-        {
-            id: 558,
-            eng: "sleepy /слИпи/",
-            ru: "сонный , sleepier , the  sleepiest"
-        },
-        {
-            id: 559,
-            eng: "slim /слИм/",
-            ru: "стройный , slimmer , the  slimmest"
-        },
-        {
-            id: 560,
-            eng: "slimy /слАйми/",
-            ru: "слизкий , slimier , the  slimiest"
-        },
-        {
-            id: 561,
-            eng: "slow /слОу/",
-            ru: "медленный , slower , the  slowest"
-        },
-        {
-            id: 562,
-            eng: "small /смОл/",
-            ru: "маленький , smaller , the  smallest"
-        },
-        {
-            id: 563,
-            eng: "smart /смАрт/",
-            ru: "сообразительный , smarter , the  smartest"
-        },
-        {
-            id: 564,
-            eng: "smelly /смЭли/",
-            ru: "вонючий , smellier , the  smelliest"
-        },
-        {
-            id: 565,
-            eng: "smoky /смОуки/",
-            ru: "дымный , smokier , the  smokiest"
-        },
-        {
-            id: 566,
-            eng: "smooth /смуз/",
-            ru: "гладкий , smoother , the  smoothest"
-        },
-        {
-            id: 567,
-            eng: "soft",
-            ru: "мягкий , softer , the  softest"
-        },
-        {
-            id: 568,
-            eng: "soon /сун/",
-            ru: "скоро , sooner , the  soonest"
-        },
-        {
-            id: 569,
-            eng: "vulgar /вАлгар/",
-            ru: "вульгарный , more , the  most"
-        },
-        {
-            id: 570,
-            eng: "sorry",
-            ru: "сожалеющий , sorrier , the  sorriest"
-        },
-        {
-            id: 571,
-            eng: "sour /сАуэ/",
-            ru: "кислый , sourer , the  sourest"
-        },
-        {
-            id: 572,
-            eng: "spicy /спАйси/",
-            ru: "острый , spicier , the  spiciest"
-        },
-        {
-            id: 573,
-            eng: "steep /стИп/",
-            ru: "крутой (наклон) , steeper , the  steepest"
-        },
-        {
-            id: 574,
-            eng: "bloody /блАди/",
-            ru: "кровавый , bloodier , the  bloodiest"
-        },
-        {
-            id: 575,
-            eng: "strange/weird",
-            ru: "странный , stranger , the  strangest"
-        },
-        {
-            id: 576,
-            eng: "strict /стрИкт/",
-            ru: "строгий , stricter , the  strictest"
-        },
-        {
-            id: 577,
-            eng: "strong /стрОн/",
-            ru: "сильный , stronger , the  strongest"
-        },
-        {
-            id: 578,
-            eng: "sunny /сАнни/",
-            ru: "солнечный , sunnier , the  sunniest"
-        },
-        {
-            id: 579,
-            eng: "sweaty /свЭти/",
-            ru: "потный , sweatier , the  sweatiest"
-        },
-        {
-            id: 580,
-            eng: "sweet",
-            ru: "сладкий , sweeter , the  sweetest"
-        },
-        {
-            id: 581,
-            eng: "fabulous /фЭбьюлэс/",
-            ru: "поразительный , more , the  most"
-        },
-        {
-            id: 582,
-            eng: "tanned /тЭнд/",
-            ru: "загорелый , more , the  most"
-        },
-        {
-            id: 583,
-            eng: "tasty /тЭйсти/",
-            ru: "вкусный , tastier , the  tastiest"
-        },
-        {
-            id: 584,
-            eng: "thin or thick",
-            ru: "тонкий/толстый , thicker , the  thickest"
-        },
-        {
-            id: 585,
-            eng: "immortal",
-            ru: "бессмертный , more , the  most"
-        },
-        {
-            id: 586,
-            eng: "thirsty /Thёсти/",
-            ru: "жаждущий , thirstier , the  thirstiest"
-        },
-        {
-            id: 587,
-            eng: "tiny /тАйни/",
-            ru: "крошечный , tinier , the  tiniest"
-        },
-        {
-            id: 588,
-            eng: "legendary /лэДЖэндэри/",
-            ru: "легендарный , more , the  most"
-        },
-        {
-            id: 589,
-            eng: "true /тру/",
-            ru: "верный , truer , the  truest"
-        },
-        {
-            id: 590,
-            eng: "ugly /Агли/",
-            ru: "уродливый , uglier , the  ugliest"
-        },
-        {
-            id: 591,
-            eng: "warm /вОм/",
-            ru: "теплый , warmer , the  warmest"
-        },
-        {
-            id: 592,
-            eng: "weak /уИк/",
-            ru: "слабый , weaker , the  weakest"
-        },
-        {
-            id: 593,
-            eng: "wealthy /уЭлTHи/",
-            ru: "состоятельный , wealthier , the  wealthiest"
-        },
-        {
-            id: 594,
-            eng: "wet /уЭт/",
-            ru: "мокрый , wetter , the  wettest"
-        },
-        {
-            id: 595,
-            eng: "wide /уАйд/",
-            ru: "широкий , wider , the  widest"
-        },
-        {
-            id: 596,
-            eng: "wild /уАйлд/",
-            ru: "дикий , wilder , the  wildest"
-        },
-        {
-            id: 597,
-            eng: "windy /уИнди/",
-            ru: "ветреный , windier , the  windiest"
-        },
-        {
-            id: 598,
-            eng: "wise /уАйз/",
-            ru: "мудрый , wiser , the  wisest"
-        },
-        {
-            id: 599,
-            eng: "worthy /уОрTHи/",
-            ru: "достойный , worthier , the  worthiest"
-        },
-        {
-            id: 600,
-            eng: "young /ян/",
-            ru: "молодой , younger , the  youngest"
-        },
-        {
-            id: 601,
-            eng: "reliable /рилАибл/",
-            ru: "надёжный , more , the  most"
-        },
-        {
-            id: 602,
-            eng: "picky /пИки/",
-            ru: "придирчивый , pickier , the  pickiest"
-        },
-        {
-            id: 603,
-            eng: "successful /саксЭсфул/",
-            ru: "успешный , more , the  most"
-        },
-        {
-            id: 604,
-            eng: "tricky /трИки/",
-            ru: "хитрый , trickier , the  trickiest"
-        },
-        {
-            id: 605,
-            eng: "good",
-            ru: "хороший , better , the  best"
-        },
-        {
-            id: 606,
-            eng: "bad /бЭд/",
-            ru: "плохой , worse , the  worst"
-        },
-        {
-            id: 607,
-            eng: "much or many",
-            ru: "много , more , the  most"
-        },
-        {
-            id: 608,
-            eng: "special /спЭшл/",
-            ru: "особенный , more , the  most"
-        },
-    ],
+  
     xyz: [
 
         {
@@ -8605,789 +13717,7 @@ const allCardsGameFindAPair = {
             ru: "Never give up"
         },
     ],
-    adjectivesbodya1: [
-        {
-            id: 58,
-            eng: "firm /фЁрм/",
-            ru: "Упругая, упругий"
-        },
-        {
-            id: 59,
-            eng: "Fit /фит/",
-            ru: "спортивный, атлетичный, подтянутый"
-        },
-        {
-            id: 60,
-            eng: "Slim /слИм/",
-            ru: "Стройный"
-        },
-        {
-            id: 61,
-            eng: "wide /уАйд/",
-            ru: "Широкий"
-        },
-        {
-            id: 62,
-            eng: "fat /фЭт/",
-            ru: "Жирный"
-        },
-        {
-            id: 63,
-            eng: "short /шорт/",
-            ru: "Короткий"
-        },
-        {
-            id: 64,
-            eng: "hairy /хЭйри/",
-            ru: "Волосатый"
-        },
-        {
-            id: 65,
-            eng: "muscular / мАскьюла /",
-            ru: "Мускулистый"
-        },
-        {
-            id: 66,
-            eng: "large /ладж/",
-            ru: "Крупный"
-        },
-        {
-            id: 67,
-            eng: "long /лон/",
-            ru: "Длинный"
-        },
-        {
-            id: 68,
-            eng: "pierced /пирСТ/",
-            ru: "Проколотоый"
-        },
-        {
-            id: 69,
-            eng: "crooked / крУкИд /",
-            ru: "Кривые"
-        },
-        {
-            id: 70,
-            eng: "round /рАунд/",
-            ru: "Круглый"
-        },
-        {
-            id: 71,
-            eng: "square /скуЭэ/",
-            ru: "Квадратный"
-        },
-        {
-            id: 72,
-            eng: "skinny /скИни/",
-            ru: "Тощий"
-        },
-        {
-            id: 73,
-            eng: "thick /THык/",
-            ru: "Полный"
-        },
-        {
-            id: 74,
-            eng: "thin /THын/",
-            ru: "Худой, Тонкий"
-        },
-        {
-            id: 75,
-            eng: "Big /биг/",
-            ru: "Большой"
-        },
-        {
-            id: 76,
-            eng: "Small /смОл/",
-            ru: "Маленький"
-        },
-        {
-            id: 77,
-            eng: "Upper /Аппэ/",
-            ru: "Верхний"
-        },
-        {
-            id: 78,
-            eng: "Lower /лОуэ/",
-            ru: "Нижний"
-        },
-        {
-            id: 79,
-            eng: "Overweight / ОувэУэйт /",
-            ru: "Избыток веса"
-        },
-    ],
-    upperBody: [
-        {
-            id: 1,
-            eng: "A head /э хэд/",
-            ru: "Голова"
-        },
-        {
-            id: 2,
-            eng: "An ear /эн иэ/",
-            ru: "Ухо"
-        },
-        {
-            id: 3,
-            eng: "Ears /Иаз/",
-            ru: "Уши"
-        },
-        {
-            id: 4,
-            eng: "An eye /эн Ай/",
-            ru: "Глаз"
-        },
-        {
-            id: 5,
-            eng: "Eyes /айз/",
-            ru: "Глаза"
-        },
-        {
-            id: 6,
-            eng: "A nose /э ноуз/",
-            ru: "Нос"
-        },
-        {
-            id: 7,
-            eng: "A neck /э нэк/",
-            ru: "Шея"
-        },
-        {
-            id: 8,
-            eng: "A mouth /ау/",
-            ru: "Рот"
-        },
-        {
-            id: 9,
-            eng: "Lips /липс/",
-            ru: "Губы"
-        },
-        {
-            id: 10,
-            eng: "Teeth /ти/",
-            ru: "Зубы"
-        },
-        {
-            id: 11,
-            eng: "A tooth /ту/",
-            ru: "Зуб"
-        },
-        {
-            id: 12,
-            eng: "eye-brows /ай брАуз/",
-            ru: "Брови"
-        },
-        {
-            id: 13,
-            eng: "long hair",
-            ru: "Длинные Волосы"
-        },
-        {
-            id: 14,
-            eng: "short hair",
-            ru: "Короткие Волосы"
-        },
-        {
-            id: 15,
-            eng: "straight hair /стрЭйт хЭа/",
-            ru: "Прямые Волосы"
-        },
-        {
-            id: 16,
-            eng: "wavy hair /уэйви хэа/",
-            ru: "Волнистые Волосы"
-        },
-        {
-            id: 17,
-            eng: "curly hair /кЁли хэа/",
-            ru: "Кудрявые Волосы"
-        },
-        {
-            id: 18,
-            eng: "Bald /бОлд/",
-            ru: "Лысый"
-        },
-        {
-            id: 19,
-            eng: "A beard /э бИЕд/",
-            ru: "Борода"
-        },
-        {
-            id: 20,
-            eng: "A moustache /э мАсташ/",
-            ru: "Усы"
-        },
-        {
-            id: 21,
-            eng: "A forehead /фОхэд/",
-            ru: "Лоб"
-        },
-        {
-            id: 22,
-            eng: "A tongue /тан/",
-            ru: "Язык"
-        },
-        {
-            id: 23,
-            eng: "cheeks /чикс/",
-            ru: "Щёки"
-        },
-        {
-            id: 24,
-            eng: "A chin /чин/",
-            ru: "Подбородок"
-        },
-        {
-            id: 25,
-            eng: "A fringe /фриндж/",
-            ru: "Чёлка"
-        },
-        {
-            id: 26,
-            eng: "freckles /фрЭклз/",
-            ru: "Веснушки"
-        },
-        {
-            id: 27,
-            eng: "wrinkles /ринклз/",
-            ru: "Морщинки, Складки"
-        },
-        {
-            id: 28,
-            eng: "A tattoo /татУ/",
-            ru: "Татуировка"
-        },
-    ],
-    lowerBody: [
-        {
-            id: 29,
-            eng: "Shoulders /шОулдэрз/",
-            ru: "Плечи"
-        },
-        {
-            id: 30,
-            eng: "Arms /амз/",
-            ru: "Руки"
-        },
-        {
-            id: 31,
-            eng: "An arm /эн арм/",
-            ru: "Рука"
-        },
-        {
-            id: 32,
-            eng: "a breast /э брэст/",
-            ru: "Грудь"
-        },
-        {
-            id: 33,
-            eng: "a chest /чест/",
-            ru: "Грудная Клетка"
-        },
-        {
-            id: 34,
-            eng: "A body /боди/",
-            ru: "Тело"
-        },
-        {
-            id: 35,
-            eng: "hands /хэндз/",
-            ru: "Кисти Рук"
-        },
-        {
-            id: 36,
-            eng: "belly button",
-            ru: "/Бэли Батн/ Пупок (Дословно: Кнопка На Пузе)"
-        },
-        {
-            id: 37,
-            eng: "belly",
-            ru: "Пузико"
-        },
-        {
-            id: 38,
-            eng: "tummy /тамми/",
-            ru: "Животик"
-        },
-        {
-            id: 39,
-            eng: "bottom /ботм/",
-            ru: "Попа"
-        },
-        {
-            id: 40,
-            eng: "beer belly /бИр бЭли/",
-            ru: "Пивное Пузо"
-        },
-        {
-            id: 41,
-            eng: "fingers /фИнГерз/",
-            ru: "Пальцы На Руках"
-        },
-        {
-            id: 42,
-            eng: "wrist /рист/",
-            ru: "Запястье"
-        },
-        {
-            id: 43,
-            eng: "lower back",
-            ru: "Поясница"
-        },
-        {
-            id: 44,
-            eng: "body /боди/",
-            ru: "Туловище, Тело"
-        },
-        {
-            id: 45,
-            eng: "Body parts /боди партс/",
-            ru: "Части Тела"
-        },
-        {
-            id: 46,
-            eng: "knee /ни/",
-            ru: "Колено"
-        },
-        {
-            id: 47,
-            eng: "knees /низ/",
-            ru: "Колени"
-        },
-        {
-            id: 48,
-            eng: "Legs /лэгз/",
-            ru: "Ноги"
-        },
-        {
-            id: 49,
-            eng: "a foot /фут/",
-            ru: "Ступня"
-        },
-        {
-            id: 50,
-            eng: "toes /тоУз/ ",
-            ru: "Пальцы На Ногах"
-        },
-        {
-            id: 51,
-            eng: "Hair /хЭа/",
-            ru: "Волосы"
-        },
-        {
-            id: 52,
-            eng: "Back / бЭк/",
-            ru: "Спина"
-        },
-        {
-            id: 53,
-            eng: "a scar /э скА/",
-            ru: "Шрам"
-        },
-        {
-            id: 54,
-            eng: "a birthmark /бЁthмак/",
-            ru: "Родимое Пятно"
-        },
-        {
-            id: 55,
-            eng: "a mole /э мОул/",
-            ru: "Родинка"
-        },
-        {
-            id: 56,
-            eng: "A heel /хил/",
-            ru: "Пятка"
-        },
-        {
-            id: 57,
-            eng: "Abs /Эбс/",
-            ru: "Пресс (кубики на животе)"
-        },
-    ],
-    allBodyParts: [
-        {
-            id: 1,
-            eng: "A head /э хэд/",
-            ru: "Голова"
-        },
-        {
-            id: 2,
-            eng: "An ear /эн иэ/",
-            ru: "Ухо"
-        },
-        {
-            id: 3,
-            eng: "Ears /Иаз/",
-            ru: "Уши"
-        },
-        {
-            id: 4,
-            eng: "An eye /эн Ай/",
-            ru: "Глаз"
-        },
-        {
-            id: 5,
-            eng: "Eyes /айз/",
-            ru: "Глаза"
-        },
-        {
-            id: 6,
-            eng: "A nose /э ноуз/",
-            ru: "Нос"
-        },
-        {
-            id: 7,
-            eng: "A neck /э нэк/",
-            ru: "Шея"
-        },
-        {
-            id: 8,
-            eng: "A mouth /ау/",
-            ru: "Рот"
-        },
-        {
-            id: 9,
-            eng: "Lips /липс/",
-            ru: "Губы"
-        },
-        {
-            id: 10,
-            eng: "Teeth /ти/",
-            ru: "Зубы"
-        },
-        {
-            id: 11,
-            eng: "A tooth /ту/",
-            ru: "Зуб"
-        },
-        {
-            id: 12,
-            eng: "eye-brows /ай брАуз/",
-            ru: "Брови"
-        },
-        {
-            id: 13,
-            eng: "long hair",
-            ru: "Длинные Волосы"
-        },
-        {
-            id: 14,
-            eng: "short hair",
-            ru: "Короткие Волосы"
-        },
-        {
-            id: 15,
-            eng: "straight hair /стрЭйт хЭа/",
-            ru: "Прямые Волосы"
-        },
-        {
-            id: 16,
-            eng: "wavy hair /уэйви хэа/",
-            ru: "Волнистые Волосы"
-        },
-        {
-            id: 17,
-            eng: "curly hair /кЁли хэа/",
-            ru: "Кудрявые Волосы"
-        },
-        {
-            id: 18,
-            eng: "Bald /бОлд/",
-            ru: "Лысый"
-        },
-        {
-            id: 19,
-            eng: "A beard /э бИЕд/",
-            ru: "Борода"
-        },
-        {
-            id: 20,
-            eng: "A moustache /э мАсташ/",
-            ru: "Усы"
-        },
-        {
-            id: 21,
-            eng: "A forehead /фОхэд/",
-            ru: "Лоб"
-        },
-        {
-            id: 22,
-            eng: "A tongue /тан/",
-            ru: "Язык"
-        },
-        {
-            id: 23,
-            eng: "cheeks /чикс/",
-            ru: "Щёки"
-        },
-        {
-            id: 24,
-            eng: "A chin /чин/",
-            ru: "Подбородок"
-        },
-        {
-            id: 25,
-            eng: "A fringe /фриндж/",
-            ru: "Чёлка"
-        },
-        {
-            id: 26,
-            eng: "freckles /фрЭклз/",
-            ru: "Веснушки"
-        },
-        {
-            id: 27,
-            eng: "wrinkles /ринклз/",
-            ru: "Морщинки, Складки"
-        },
-        {
-            id: 28,
-            eng: "A tattoo /татУ/",
-            ru: "Татуировка"
-        },
-        {
-            id: 29,
-            eng: "Shoulders /шОулдэрз/",
-            ru: "Плечи"
-        },
-        {
-            id: 30,
-            eng: "Arms /амз/",
-            ru: "Руки"
-        },
-        {
-            id: 31,
-            eng: "An arm /эн арм/",
-            ru: "Рука"
-        },
-        {
-            id: 32,
-            eng: "a breast /э брэст/",
-            ru: "Грудь"
-        },
-        {
-            id: 33,
-            eng: "a chest /чест/",
-            ru: "Грудная Клетка"
-        },
-        {
-            id: 34,
-            eng: "A body /боди/",
-            ru: "Тело"
-        },
-        {
-            id: 35,
-            eng: "hands /хэндз/",
-            ru: "Кисти Рук"
-        },
-        {
-            id: 36,
-            eng: "belly button",
-            ru: "/Бэли Батн/ Пупок (Дословно: Кнопка На Пузе)"
-        },
-        {
-            id: 37,
-            eng: "belly",
-            ru: "Пузико"
-        },
-        {
-            id: 38,
-            eng: "tummy /тамми/",
-            ru: "Животик"
-        },
-        {
-            id: 39,
-            eng: "bottom /ботм/",
-            ru: "Попа"
-        },
-        {
-            id: 40,
-            eng: "beer belly /бИр бЭли/",
-            ru: "Пивное Пузо"
-        },
-        {
-            id: 41,
-            eng: "fingers /фИнГерз/",
-            ru: "Пальцы На Руках"
-        },
-        {
-            id: 42,
-            eng: "wrist /рист/",
-            ru: "Запястье"
-        },
-        {
-            id: 43,
-            eng: "lower back",
-            ru: "Поясница"
-        },
-        {
-            id: 44,
-            eng: "body /боди/",
-            ru: "Туловище, Тело"
-        },
-        {
-            id: 45,
-            eng: "Body parts /боди партс/",
-            ru: "Части Тела"
-        },
-        {
-            id: 46,
-            eng: "knee /ни/",
-            ru: "Колено"
-        },
-        {
-            id: 47,
-            eng: "knees /низ/",
-            ru: "Колени"
-        },
-        {
-            id: 48,
-            eng: "Legs /лэгз/",
-            ru: "Ноги"
-        },
-        {
-            id: 49,
-            eng: "a foot /фут/",
-            ru: "Ступня"
-        },
-        {
-            id: 50,
-            eng: "toes /тоУз/ ",
-            ru: "Пальцы На Ногах"
-        },
-        {
-            id: 51,
-            eng: "Hair /хЭа/",
-            ru: "Волосы"
-        },
-        {
-            id: 52,
-            eng: "Back / бЭк/",
-            ru: "Спина"
-        },
-        {
-            id: 53,
-            eng: "a scar /э скА/",
-            ru: "Шрам"
-        },
-        {
-            id: 54,
-            eng: "a birthmark /бЁthмак/",
-            ru: "Родимое Пятно"
-        },
-        {
-            id: 55,
-            eng: "a mole /э мОул/",
-            ru: "Родинка"
-        },
-        {
-            id: 56,
-            eng: "A heel /хил/",
-            ru: "Пятка"
-        },
-        {
-            id: 57,
-            eng: "Abs /Эбс/",
-            ru: "Пресс (кубики на животе)"
-        },
-        {
-            id: 58,
-            eng: "firm/фёрм/",
-            ru: "Упругая, упругий"
-        },
-        {
-            id: 59,
-            eng: "Fit",
-            ru: "Спортивный, атлетичный, подтянутый"
-        },
-        {
-            id: 60,
-            eng: "Slim",
-            ru: "Стройный"
-        },
-        {
-            id: 61,
-            eng: "wide /уайд/",
-            ru: "Широкий"
-        },
-        {
-            id: 62,
-            eng: "fat /фэт/",
-            ru: "Жирный"
-        },
-        {
-            id: 63,
-            eng: "short /шорт/",
-            ru: "Короткий"
-        },
-        {
-            id: 64,
-            eng: "hairy /хЭйри/",
-            ru: "Волосатый"
-        },
-        {
-            id: 65,
-            eng: "muscular /мАскьюла/",
-            ru: "Мускулистый"
-        },
-        {
-            id: 66,
-            eng: "large /ладж/",
-            ru: "Крупный"
-        },
-        {
-            id: 67,
-            eng: "long /лон/",
-            ru: "Длинный"
-        },
-        {
-            id: 68,
-            eng: "pierced /пирст/",
-            ru: "Проколотоый"
-        },
-        {
-            id: 69,
-            eng: "crooked /крукИд/",
-            ru: "Кривые"
-        },
-        {
-            id: 70,
-            eng: "round /рАунд/",
-            ru: "Круглый"
-        },
-        {
-            id: 71,
-            eng: "square /скуЭэ/",
-            ru: "Квадратный"
-        },
-        {
-            id: 72,
-            eng: "skinny /скИни/",
-            ru: "Тощий"
-        },
-        {
-            id: 73,
-            eng: "thick",
-            ru: "Толстый"
-        },
-        {
-            id: 74,
-            eng: "thin",
-            ru: "Худой, Тонкий"
-        },
-        {
-            id: 75,
-            eng: "Big/биг/",
-            ru: "Большой"
-        },
-        {
-            id: 76,
-            eng: "Small/смОл/",
-            ru: "Маленький"
-        },
-    ],
+
     affirmations1: [
         {
             id: 1,
@@ -9787,374 +14117,7 @@ const allCardsGameFindAPair = {
             eng: " id 7 eng "
         },
     ],
-    formulas0: [
-        {
-            id: 78,
-            eng: "	2 plus 14 is	",
-            ru: "	sixteen	"
-        },
-        {
-            id: 79,
-            eng: "	8 plus 12 is	",
-            ru: "	twenty	"
-        },
-        {
-            id: 80,
-            eng: "	10 plus two is	",
-            ru: "	twelve	"
-        },
-        {
-            id: 81,
-            eng: "	9 plus nine is	",
-            ru: "	eighteen	"
-        },
-        {
-            id: 82,
-            eng: "	10 plus 7 is	",
-            ru: "	seventeen	"
-        },
-        {
-            id: 83,
-            eng: "	23 minus 8 is	",
-            ru: "	fifteen	"
-        },
-        {
-            id: 84,
-            eng: "	ten plus 9 is	",
-            ru: "	nineteen	"
-        },
-        {
-            id: 85,
-            eng: "	5 plus eight is	",
-            ru: "	thirteen	"
-        },
-        {
-            id: 86,
-            eng: "	eight + three is	",
-            ru: "	eleven	"
-        },
-        {
-            id: 87,
-            eng: "	four + four is	",
-            ru: "	eight 	"
-        },
-        {
-            id: 88,
-            eng: "	five + four is	",
-            ru: "	nine 	"
-        },
-        {
-            id: 89,
-            eng: "	nine - two is	",
-            ru: "	seven 	"
-        },
-        {
-            id: 90,
-            eng: "	9 minus 6 is	",
-            ru: "	three	"
-        },
-        {
-            id: 91,
-            eng: "	20 - ten is	",
-            ru: "	thirty	"
-        },
-        {
-            id: 92,
-            eng: "	30 + 3 is	",
-            ru: "	thirty three	"
-        },
-        {
-            id: 93,
-            eng: "	20 + 8 is	",
-            ru: "	twenty eight	"
-        },
-        {
-            id: 94,
-            eng: "	89 minus 30 is	",
-            ru: "	fifty nine	"
-        },
-        {
-            id: 95,
-            eng: "	99 minus 30 is	",
-            ru: "	sixty nine	"
-        },
-        {
-            id: 96,
-            eng: "	90 + 8 is	",
-            ru: "	ninety eight	"
-        },
-        {
-            id: 97,
-            eng: "	twelve + 88 is	",
-            ru: "	a hundred	"
-        },
-        {
-            id: 98,
-            eng: "	plus + произносится:	",
-            ru: "	плас	"
-        },
-        {
-            id: 99,
-            eng: "	minus - произносится:	",
-            ru: "	майнэс	"
-        },
-        {
-            id: 100,
-            eng: "	равно = по-английски:	",
-            ru: "	is	"
-        },
-        {
-            id: 101,
-            eng: "	20 + twelve is	",
-            ru: "	thirty two	"
-        },
-        {
-            id: 102,
-            eng: "	15 + 50 is	",
-            ru: "	sixty five	"
-        },
-    ],
-    questions0: [
-        {
-            id: 1,
-            eng: "	When? /уэн/	",
-            ru: "	Когда?	"
-        },
-        {
-            id: 2,
-            eng: "	Where? /уэ э/	",
-            ru: "	Где?	"
-        },
-        {
-            id: 3,
-            eng: "	What? /уот/	",
-            ru: "	Что?	"
-        },
-        {
-            id: 4,
-            eng: "	Why? /уай/	",
-            ru: "	Для чего? Зачем? Почему?	"
-        },
-        {
-            id: 5,
-            eng: "	How? /хау/	",
-            ru: "	Как?	"
-        },
-        {
-            id: 6,
-            eng: "	Who? /ху/	",
-            ru: "	Кто?	"
-        },
-        {
-            id: 7,
-            eng: "	Whose? /хуз/	",
-            ru: "	Чей?	"
-        },
-        {
-            id: 8,
-            eng: "	What time?	",
-            ru: "	Во сколько?	"
-        },
-        {
-            id: 9,
-            eng: "	What color?	",
-            ru: "	Какого цвета?	"
-        },
-        {
-            id: 10,
-            eng: "	What size?	",
-            ru: "	Какого размера?	"
-        },
-        {
-            id: 11,
-            eng: "	How many pelmeni?	",
-            ru: "	Сколько пельменей?	"
-        },
-        {
-            id: 12,
-            eng: "	How much money?	",
-            ru: "	Сколько денег?	"
-        },
-        {
-            id: 13,
-            eng: "	How old?	",
-            ru: "	Какого возраста?	"
-        },
-        {
-            id: 14,
-            eng: "	How far?	",
-            ru: "	Насколько далеко?	"
-        },
-        {
-            id: 15,
-            eng: "	How often?	",
-            ru: "	Как часто?	"
-        },
-        {
-            id: 16,
-            eng: "	How long?	",
-            ru: "	Как долго?	"
-        },
-        {
-            id: 17,
-            eng: "	How tall?	",
-            ru: "	Какого роста?	"
-        },
-        {
-            id: 18,
-            eng: "	What year?	",
-            ru: "	Какого года?	"
-        },
-        {
-            id: 19,
-            eng: "	What flavor?	",
-            ru: "	Какого вкуса?	"
-        },
-        {
-            id: 20,
-            eng: "	What song?	",
-            ru: "	Что за песня?	"
-        },
-        {
-            id: 21,
-            eng: "	What shape??	",
-            ru: "	Какой формы?	"
-        },
-        {
-            id: 22,
-            eng: "	With whom?	",
-            ru: "	С кем?	"
-        },
-        {
-            id: 23,
-            eng: "	How much time?	",
-            ru: "	Сколько времени?	"
-        },
-        {
-            id: 24,
-            eng: "	Come again?	",
-            ru: "	Чего, простите?	"
-        },
-        {
-            id: 25,
-            eng: "	How come?	",
-            ru: "	Как так вышло?	"
-        },
-        {
-            id: 26,
-            eng: "	Why the hell?	",
-            ru: "	Какого чёрта?!?	"
-        },
-        {
-            id: 27,
-            eng: "	Where is it?	",
-            ru: "	Где это?	"
-        },
-        {
-            id: 28,
-            eng: "	Who is here?	",
-            ru: "	Кто здесь?	"
-        },
-        {
-            id: 29,
-            eng: "	Who are they?	",
-            ru: "	Кто они?	"
-        },
-        {
-            id: 30,
-            eng: "	Where am I?	",
-            ru: "	Где я?	"
-        },
-    ],
-    q1: [
 
-        {
-            id: 1,
-            eng: "	when	",
-            ru: "	когда	"
-        },
-        {
-            id: 2,
-            eng: "	why	",
-            ru: "	почему, зачем, для чего	"
-        },
-        {
-            id: 3,
-            eng: "	what time	",
-            ru: "	во сколько	"
-        },
-        {
-            id: 4,
-            eng: "	where",
-            ru: "	где	"
-        },
-        {
-            id: 5,
-            eng: "	whose	",
-            ru: "	чей	"
-        },
-        {
-            id: 6,
-            eng: "	how	",
-            ru: "	как	"
-        },
-        {
-            id: 7,
-            eng: "	what	",
-            ru: "	какой, что	"
-        },
-        {
-            id: 8,
-            eng: "	what color	",
-            ru: "	какого цвета	"
-        },
-        {
-            id: 9,
-            eng: "	what size	",
-            ru: "	какого размера	"
-        },
-        {
-            id: 10,
-            eng: "	what car	",
-            ru: "	какая машина	"
-        },
-        {
-            id: 11,
-            eng: "	Who	",
-            ru: "	кто, кого	"
-        },
-        {
-            id: 12,
-            eng: "	How often	",
-            ru: "	как часто	"
-        },
-        {
-            id: 13,
-            eng: "	How long	",
-            ru: "	как долго	"
-        },
-        {
-            id: 14,
-            eng: "	How fast	",
-            ru: "	как быстро	"
-        },
-        {
-            id: 15,
-            eng: "	How many pelmenis	",
-            ru: "	сколько пельменей	"
-        },
-        {
-            id: 16,
-            eng: "	How much money	",
-            ru: "	сколько денег	"
-        },
-        {
-            id: 17,
-            eng: "	with or without	",
-            ru: "	с или без	"
-        },
-
-    ],
     cook3: [
         {
             id: 1,
@@ -10602,161 +14565,8 @@ const allCardsGameFindAPair = {
             ru: "	главный повар	"
         },
     ],
-    mission90: [
-        {
-            id: 1,
-            ru: "и потом сюда 2",
-            eng: "1 Нажми сюда	"
-        },
-        {
-            id: 2,
-            ru: "Привет!",
-            eng: "Hi!"
-        },
-        {
-            id: 3,
-            ru: "= six",
-            eng: "2 + 2 + 2 is ="
-        },
-        {
-            id: 4,
-            ru: "...eight",
-            eng: "восемь на английском это..."
-        },
-        {
-            id: 5,
-            ru: "You can do it!",
-            eng: "Ты справишься!"
-        },
-        {
-            id: 6,
-            ru: "Отличная работа агент!",
-            eng: "Great job, agent!"
-        },
-    ],
-    mission0: [
-        {
-            id: 1,
-            ru: "1",
-            eng: "one /уан/"
-        },
-        {
-            id: 2,
-            ru: "номер два",
-            eng: "number two / нАмбэ ту/"
-        },
-        {
-            id: 3,
-            ru: "не Фри и не Сри",
-            eng: "three межзубный звук/TH/"
-        },
-        {
-            id: 4,
-            ru: "4",
-            eng: "four /фо/"
-        },
-        {
-            id: 5,
-            ru: "5 не файФ",
-            eng: "five /файВ/"
-        },
-        {
-            id: 6,
-            ru: "не сИкс и не sex",
-            eng: "six /сЫкс/"
-        },
-        {
-            id: 7,
-            ru: "7",
-            eng: "seven /cЭвн/"
-        },
-        {
-            id: 8,
-            ru: "8",
-            eng: "eight /Эйт/"
-        },
-        {
-            id: 9,
-            ru: "9",
-            eng: "nine / нАйн/"
-        },
-        {
-            id: 10,
-            ru: "10",
-            eng: "ten / тЭн/"
-        },
-        {
-            id: 11,
-            ru: "11",
-            eng: "eleven / илЭвн/"
-        },
-        {
-            id: 12,
-            ru: "12",
-            eng: "twelve / твЭлВ/"
-        },
 
-        {
-            id: 13,
-            ru: "не сЁртин и не Фёртин. Язык между зубов!",
-            eng: "thirteen межзубный звук/TH/"
-        },
-
-        {
-            id: 14,
-            ru: "тянем ударение 14 teeeeeen ",
-            eng: "foureen / фотИИИИн/"
-        },
-
-        {
-            id: 15,
-            ru: "долгий звук И 15 окончание teen",
-            eng: "fifteen / фифтИИИн/"
-        },
-        {
-            id: 16,
-            ru: "16 ударение на И",
-            eng: "sixteen / сыкстИн/"
-        },
-        {
-            id: 17,
-            ru: "20 уверенно!",
-            eng: "twenty / твЭнти/"
-        },
-        {
-            id: 17,
-            ru: "/пЭа/ ПАРА = 2",
-            eng: "a pair"
-        },
-        {
-            id: 18,
-            ru: "номера, числа",
-            eng: "numbers /нАмбэz/"
-        },
-        {
-            id: 19,
-            ru: "цифры",
-            eng: "digits /дИджитс/"
-        },
-        {
-            id: 20,
-            ru: "второй",
-            eng: "the second 2nd"
-        },
-        {
-            id: 21,
-            ru: "самый первый",
-            eng: "the first / 1st фёст/"
-        },
-        {
-            id: 22,
-            ru: "/ фром зироу ту найн/",
-            eng: "0 - 9 от ноля до девяти"
-        },
-
-
-
-    ],
+  
     mission2: [
         {
             id: 1,
@@ -11164,7 +14974,7 @@ const allCardsGameFindAPair = {
         {
             id: 9,
             eng: "bring the children to school",
-            ru: "отвести детей в школу"
+            ru: "привести детей в школу"
         },
         {
             id: 10,
@@ -11797,43 +15607,7 @@ const allCardsGameFindAPair = {
             ru: "находить классные видео"
         },
     ],
-    numbers: [
-        {
-            id: 301,
-            ru: "	один	",
-            eng: "	one	"
-        },
-        {
-            id: 302,
-            ru: "	два	",
-            eng: "	two	"
-        },
-        {
-            id: 303,
-            ru: "	три	",
-            eng: "	three	"
-        },
-        {
-            id: 304,
-            ru: "	четыре	",
-            eng: "	four	"
-        },
-        {
-            id: 305,
-            ru: "	пять	",
-            eng: "	five	"
-        },
-        {
-            id: 306,
-            ru: "	шесть	",
-            eng: "	six	"
-        },
-        {
-            id: 307,
-            ru: "	семь	",
-            eng: "	seven	"
-        },
-    ],
+  
     Irregular_verbs_1_form: [
         {
             id: 1001,

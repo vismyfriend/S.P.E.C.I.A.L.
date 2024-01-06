@@ -1,22 +1,47 @@
 // Этот массив создан, чтобы поиск миссий работал
 const allSetsArray = [
-    "m001",
-    "m002",
+
+
+    "verbs002",
+    "verbs001",
+    "sara",
+
+    "compareadjectiveser",
+    "compareadjectivesmore",
+    "compareadjectivesb2",
+    "compareadjectivesb1",
+    "adjectivesb1",
+    "adjectives09",
+    "adjectives08",
+    "adjectives07",
+    "adjectives06",
+    "adjectives05",
+    "adjectives04",
+    "adjectives03",
+    "adjectives02",
+    "adjectives01",
+    "questions001",
+    "m006questions0",
+    "m005q1",
+    "m004numbers",
     "m003",
-    "m004letters",
-    "numbersA1",
-    "numbersA2",
+    "m002",
+    "m001",
+    "lettersa1",
+    "lettersc2",
+    "numbersa1",
+    "numbersa2",
+    "numbersb1",
+    "numbersb2",
+    "numbersspeak",
+   
     "commonVerbs",
     "technologic",
-    "testing",
+ 
     "abc",
     "xyz",
-    "testOneSeven",
-    "sara",
-    "adjectivesa2",
-    "questions0",
-    "mission0",
-    "formulas0",
+
+   
     "mission2",
     "stickyVerbs1",
     "adjectivesbodya1",
@@ -25,7 +50,7 @@ const allSetsArray = [
     "affirmations1",
     "naughtyVerbs",
     "affirmations2",
-    "q1",
+    
     "time",
     "bm",
     "ac",
@@ -47,9 +72,6 @@ const allSetsArray = [
     "tstar",
     "astar",
     "cook3",
-    "musicCheck",
-    "musicCheck",
-    "new_mission",
     "spanish",
     "loco",
     "adjquest",
@@ -69,7 +91,8 @@ const allSetsArray = [
     "part11awc1",
     "mission1a2time",
     "mission2a2time",
-    "adjectivesb1compare",
+    "blockedSet",
+   
  
 
 ]
