@@ -4,547 +4,6 @@ const allCardsGameFindAPair = {
     clothes03: [
         {
             id:43,
-            eng:"Как по-английски сказать ` любые штаны можно так назвать ` ?",
-            ru:"What is the Russian for ` PANTS /пЭнтс/ ` ? "
-            },
-            {
-            id:44,
-            eng:"Как по-английски сказать ` трусишки, трусики, трусы, плавки ` ?",
-            ru:"What is the Russian for ` UNDER PANTS /пЭнтс/ ` ? "
-            },
-            {
-            id:45,
-            eng:"Как по-английски сказать ` джинсы ` ?",
-            ru:"What is the Russian for ` JEANS   ` ? "
-            },
-            {
-            id:46,
-            eng:"Как по-английски сказать ` брюки ` ?",
-            ru:"What is the Russian for ` TROUSERS /трАуzэz/ ` ? "
-            },
-            {
-            id:47,
-            eng:"Как по-английски сказать ` шортики ` ?",
-            ru:"What is the Russian for ` SHORTS /шортс/ ` ? "
-            },
-            {
-            id:48,
-            eng:"Как по-английски сказать ` любая обувь & конкретно туфли ` ?",
-            ru:"What is the Russian for ` SHOES /шуз/ ` ? "
-            },
-            {
-            id:49,
-            eng:"Как по-английски сказать ` высокие каблуки (дословно пятки) ` ?",
-            ru:"What is the Russian for ` HIGH HEELS /хай хилз/ ` ? "
-            },
-            {
-            id:50,
-            eng:"Как по-английски сказать ` ботинки, сапоги ` ?",
-            ru:"What is the Russian for ` BOOTS /бутс/ ` ? "
-            },
-            {
-            id:51,
-            eng:"Как по-английски сказать ` кеды, кроссовки ` ?",
-            ru:"What is the Russian for ` TRAINERS OR SNEAKERS  ` ? "
-            },
-            {
-            id:52,
-            eng:"Как по-английски сказать ` тапочки и носочки ` ?",
-            ru:"What is the Russian for ` SLIPPERS /слиперз/ ` ? "
-            },
-            {
-            id:53,
-            eng:"Как по-английски сказать ` шлёпки, шлёпанцы, тапки ` ?",
-            ru:"What is the Russian for ` FLIP-FLOPS  ` ? "
-            },
-            {
-            id:54,
-            eng:"Как по-английски сказать ` носки ` ?",
-            ru:"What is the Russian for ` SOCKS  ` ? "
-            },
-            {
-            id:55,
-            eng:"Как по-английски сказать ` заправь одежду ` ?",
-            ru:"What is the Russian for ` TUCK YOUR CLOTHES IN /так/ ` ? "
-            },
-            {
-            id:56,
-            eng:"Как по-английски сказать ` одежда ` ?",
-            ru:"What is the Russian for ` CLOTHES /клОуз/ ` ? "
-            },
-            {
-            id:57,
-            eng:"Как по-английски сказать ` надевать ` ?",
-            ru:"What is the Russian for ` PUT ON  ` ? "
-            },
-            {
-            id:58,
-            eng:"Как по-английски сказать ` снимать ` ?",
-            ru:"What is the Russian for ` TAKE OFF  ` ? "
-            },
-            {
-            id:59,
-            eng:"Как по-английски сказать ` застегнуть и расстегнуть ` ?",
-            ru:"What is the Russian for ` DO AND UNDO  ` ? "
-            },
-            {
-            id:60,
-            eng:"Как по-английски сказать ` нести в руках ` ?",
-            ru:"What is the Russian for ` CARRY /кЭри/ ` ? "
-            },
-            {
-            id:61,
-            eng:"Как по-английски сказать ` носить, одевать ` ?",
-            ru:"What is the Russian for ` WEAR /уЭэ/ ` ? "
-            },
-            {
-            id:62,
-            eng:"Как по-английски сказать ` расстегнутый ` ?",
-            ru:"What is the Russian for ` UNDONE /андАн/ ` ? "
-            },
-            {
-            id:63,
-            eng:"Как по-английски сказать ` у вас молния расстегнута ` ?",
-            ru:"What is the Russian for ` YOUR ZIP IS UNDONE  ` ? "
-            },
-            {
-            id:64,
-            eng:"Как по-английски сказать ` чулки ` ?",
-            ru:"What is the Russian for ` STOCKINGS /стокингз/ ` ? "
-            },
-            {
-            id:65,
-            eng:"Как по-английски сказать ` пижама ` ?",
-            ru:"What is the Russian for ` PYJAMAS /пижАмас/ ` ? "
-            },
-    ],
-    clothes02: [
-        {
-            id:19,
-            eng:"Как по-английски сказать ` сумка ` ?",
-            ru:"What is the Russian for ` A BAG /бЭг/ ` ? "
-            },
-            {
-            id:20,
-            eng:"Как по-английски сказать ` сумочка дамская ` ?",
-            ru:"What is the Russian for ` A PURSE /пёс/ ` ? "
-            },
-            {
-            id:21,
-            eng:"Как по-английски сказать ` пластиковый пакет ` ?",
-            ru:"What is the Russian for ` A PLASTIC BAG /плЭстик бЭг/ ` ? "
-            },
-            {
-            id:22,
-            eng:"Как по-английски сказать ` любое украшение на шее ` ?",
-            ru:"What is the Russian for ` A NECKLACE /нЭклэс/ ` ? "
-            },
-            {
-            id:23,
-            eng:"Как по-английски сказать ` варежки на верёвочке ` ?",
-            ru:"What is the Russian for ` MITTENS ON A ROPE /рОУП/ ` ? "
-            },
-            {
-            id:24,
-            eng:"Как по-английски сказать ` верх ` ?",
-            ru:"What is the Russian for ` A TOP  ` ? "
-            },
-            {
-            id:25,
-            eng:"Как по-английски сказать ` рубашка ` ?",
-            ru:"What is the Russian for ` A SHIRT  /щёрт/ ` ? "
-            },
-            {
-            id:26,
-            eng:"Как по-английски сказать ` футболка ` ?",
-            ru:"What is the Russian for ` A T-SHIRT  /ти-щёрт/ ` ? "
-            },
-            {
-            id:27,
-            eng:"Как по-английски сказать ` костюм ` ?",
-            ru:"What is the Russian for ` A SUIT /сют/ ` ? "
-            },
-            {
-            id:28,
-            eng:"Как по-английски сказать ` жилетка ` ?",
-            ru:"What is the Russian for ` A VEST  ` ? "
-            },
-            {
-            id:29,
-            eng:"Как по-английски сказать ` пиджак, куртка ` ?",
-            ru:"What is the Russian for ` A JACKET  ` ? "
-            },
-            {
-            id:30,
-            eng:"Как по-английски сказать ` пальто ` ?",
-            ru:"What is the Russian for ` A COAT /кОут/ ` ? "
-            },
-            {
-            id:31,
-            eng:"Как по-английски сказать ` шуба ` ?",
-            ru:"What is the Russian for ` A FUR COAT /фё коут/ ` ? "
-            },
-            {
-            id:32,
-            eng:"Как по-английски сказать ` кофта, свитер ` ?",
-            ru:"What is the Russian for ` A SWEATER  ` ? "
-            },
-            {
-            id:33,
-            eng:"Как по-английски сказать ` длинные рукава ` ?",
-            ru:"What is the Russian for ` LONG SLEEVES  ` ? "
-            },
-            {
-            id:34,
-            eng:"Как по-английски сказать ` чёт женское ` ?",
-            ru:"What is the Russian for ` A BLOUSE /блАуз/ ` ? "
-            },
-            {
-            id:35,
-            eng:"Как по-английски сказать ` юбка ` ?",
-            ru:"What is the Russian for ` A SKIRT /скёрт/ ` ? "
-            },
-            {
-            id:36,
-            eng:"Как по-английски сказать ` бюстгалтер ` ?",
-            ru:"What is the Russian for ` A BRA  ` ? "
-            },
-            {
-            id:37,
-            eng:"Как по-английски сказать ` лямки, ремешки ` ?",
-            ru:"What is the Russian for ` STRAPS /стрЭпс/ ` ? "
-            },
-            {
-            id:38,
-            eng:"Как по-английски сказать ` пуговицы ` ?",
-            ru:"What is the Russian for ` BUTTONS /батэнз/ ` ? "
-            },
-            {
-            id:39,
-            eng:"Как по-английски сказать ` собачка на молнии ` ?",
-            ru:"What is the Russian for ` A ZIPPER  ` ? "
-            },
-            {
-            id:40,
-            eng:"Как по-английски сказать ` ремень ` ?",
-            ru:"What is the Russian for ` A BELT /бэлт/ ` ? "
-            },
-            {
-            id:41,
-            eng:"Как по-английски сказать ` нижн. белье ` ?",
-            ru:"What is the Russian for ` UNDERWEAR /АндэуЭэ/ ` ? "
-            },
-            {
-            id:42,
-            eng:"Как по-английски сказать ` термобельё ` ?",
-            ru:"What is the Russian for ` WARM UNDERWEAR  /уОм АндэуЭэ/ ` ? "
-            },
-    ],
-    clothes01: [
-        {
-            id:1,
-            eng:"a hat /хЭт/",
-            ru:"головной убор, шапка, шляпа"
-            },
-            {
-            id:2,
-            eng:"a wool hat /вул/",
-            ru:"шерстянная вязанная шапка"
-            },
-            {
-            id:3,
-            eng:"a hood /худ/",
-            ru:"капюшон"
-            },
-            {
-            id:4,
-            eng:"a helmet /хЭлмэт/",
-            ru:"шлем"
-            },
-            {
-            id:5,
-            eng:"a crown /крАун/",
-            ru:"корона"
-            },
-            {
-            id:6,
-            eng:"a cap /кЭп/",
-            ru:"кепка"
-            },
-            {
-            id:7,
-            eng:"sunglasses ",
-            ru:"солнцезащитные очкм"
-            },
-            {
-            id:8,
-            eng:"lenses /лЭнzЭz/",
-            ru:"линзы"
-            },
-            {
-            id:9,
-            eng:"a scarf /скаф/",
-            ru:"шарф"
-            },
-            {
-            id:10,
-            eng:"a tie /тАй/",
-            ru:"галстук"
-            },
-            {
-            id:11,
-            eng:"a bow /бАу/",
-            ru:"бант, галстук-бабочка"
-            },
-            {
-            id:12,
-            eng:"glasses ",
-            ru:"очки"
-            },
-            {
-            id:13,
-            eng:"accessories /эксЭсориз/",
-            ru:"аксессуары"
-            },
-            {
-            id:14,
-            eng:"a ring /э ринг/",
-            ru:"кольцо"
-            },
-            {
-            id:15,
-            eng:"an earring /иЭринг/",
-            ru:"серьга"
-            },
-            {
-            id:16,
-            eng:"a bracelet /рЭйслет/",
-            ru:"браслет"
-            },
-            {
-            id:17,
-            eng:"a backpack /бЭкпэк/",
-            ru:"рюкзак"
-            },
-            {
-            id:18,
-            eng:"watches /уОчез/",
-            ru:"наручные часы"
-            },
-    ],
-    questions111clothes: [
-        {
-            id:1,
-            eng:"a hat /хЭт/",
-            ru:"головной убор, шапка, шляпа"
-            },
-            {
-            id:2,
-            eng:"a wool hat /вул/",
-            ru:"шерстянная вязанная шапка"
-            },
-            {
-            id:3,
-            eng:"a hood /худ/",
-            ru:"капюшон"
-            },
-            {
-            id:4,
-            eng:"a helmet /хЭлмэт/",
-            ru:"шлем"
-            },
-            {
-            id:5,
-            eng:"a crown /крАун/",
-            ru:"корона"
-            },
-            {
-            id:6,
-            eng:"a cap /кЭп/",
-            ru:"кепка"
-            },
-            {
-            id:7,
-            eng:"sunglasses ",
-            ru:"солнцезащитные очкм"
-            },
-            {
-            id:8,
-            eng:"lenses /лЭнzЭz/",
-            ru:"линзы"
-            },
-            {
-            id:9,
-            eng:"a scarf /скаф/",
-            ru:"шарф"
-            },
-            {
-            id:10,
-            eng:"a tie /тАй/",
-            ru:"галстук"
-            },
-            {
-            id:11,
-            eng:"a bow /бАу/",
-            ru:"бант, галстук-бабочка"
-            },
-            {
-            id:12,
-            eng:"glasses ",
-            ru:"очки"
-            },
-            {
-            id:13,
-            eng:"accessories /эксЭсориз/",
-            ru:"аксессуары"
-            },
-            {
-            id:14,
-            eng:"a ring /э ринг/",
-            ru:"кольцо"
-            },
-            {
-            id:15,
-            eng:"an earring /иЭринг/",
-            ru:"серьга"
-            },
-            {
-            id:16,
-            eng:"a bracelet /рЭйслет/",
-            ru:"браслет"
-            },
-            {
-            id:17,
-            eng:"a backpack /бЭкпэк/",
-            ru:"рюкзак"
-            },
-            {
-            id:18,
-            eng:"watches /уОчез/",
-            ru:"наручные часы"
-            },
-            {
-            id:19,
-            eng:"a bag /бЭг/",
-            ru:"сумка"
-            },
-            {
-            id:20,
-            eng:"a purse /пёс/",
-            ru:"сумочка дамская"
-            },
-            {
-            id:21,
-            eng:"a plastic bag /плЭстик бЭг/",
-            ru:"пластиковый пакет"
-            },
-            {
-            id:22,
-            eng:"a necklace /нЭклэс/",
-            ru:"любое украшение на шее"
-            },
-            {
-            id:23,
-            eng:"mittens on a rope /рОУП/",
-            ru:"варежки на верёвочке"
-            },
-            {
-            id:24,
-            eng:"a top ",
-            ru:"верх"
-            },
-            {
-            id:25,
-            eng:"a shirt  /щёрт/",
-            ru:"рубашка"
-            },
-            {
-            id:26,
-            eng:"a t-shirt  /ти-щёрт/",
-            ru:"футболка"
-            },
-            {
-            id:27,
-            eng:"a suit /сют/",
-            ru:"костюм"
-            },
-            {
-            id:28,
-            eng:"a vest ",
-            ru:"жилетка"
-            },
-            {
-            id:29,
-            eng:"a jacket ",
-            ru:"пиджак, куртка"
-            },
-            {
-            id:30,
-            eng:"a coat /кОут/",
-            ru:"пальто"
-            },
-            {
-            id:31,
-            eng:"a fur coat /фё коут/",
-            ru:"шуба"
-            },
-            {
-            id:32,
-            eng:"a sweater ",
-            ru:"кофта, свитер"
-            },
-            {
-            id:33,
-            eng:"long sleeves ",
-            ru:"длинные рукава"
-            },
-            {
-            id:34,
-            eng:"a blouse /блАуз/",
-            ru:"чёт женское"
-            },
-            {
-            id:35,
-            eng:"a skirt /скёрт/",
-            ru:"юбка"
-            },
-            {
-            id:36,
-            eng:"a bra ",
-            ru:"бюстгалтер"
-            },
-            {
-            id:37,
-            eng:"straps /стрЭпс/",
-            ru:"лямки, ремешки"
-            },
-            {
-            id:38,
-            eng:"buttons /батэнз/",
-            ru:"пуговицы"
-            },
-            {
-            id:39,
-            eng:"a zipper ",
-            ru:"собачка на молнии"
-            },
-            {
-            id:40,
-            eng:"a belt /бэлт/",
-            ru:"ремень"
-            },
-            {
-            id:41,
-            eng:"underwear /АндэуЭэ/",
-            ru:"нижн. белье"
-            },
-            {
-            id:42,
-            eng:"warm underwear  /уОм АндэуЭэ/",
-            ru:"термобельё"
-            },
-            {
-            id:43,
             eng:"pants /пЭнтс/",
             ru:"любые штаны можно так назвать"
             },
@@ -656,6 +115,548 @@ const allCardsGameFindAPair = {
             {
             id:65,
             eng:"pyjamas /пижАмас/",
+            ru:"пижама"
+            },
+    ],
+    clothes02: [
+        
+            {
+                id:19,
+                eng:"a bag /бЭг/",
+                ru:"сумка"
+                },
+                {
+                id:20,
+                eng:"a purse /пёс/",
+                ru:"сумочка дамская"
+                },
+                {
+                id:21,
+                eng:"a plastic bag /плЭстик бЭг/",
+                ru:"пластиковый пакет"
+                },
+                {
+                id:22,
+                eng:"a necklace /нЭклэс/",
+                ru:"любое украшение на шее"
+                },
+                {
+                id:23,
+                eng:"mittens on a rope /рОУП/",
+                ru:"варежки на верёвочке"
+                },
+                {
+                id:24,
+                eng:"a top ",
+                ru:"верх"
+                },
+                {
+                id:25,
+                eng:"a shirt  /щёрт/",
+                ru:"рубашка"
+                },
+                {
+                id:26,
+                eng:"a t-shirt  /ти-щёрт/",
+                ru:"футболка"
+                },
+                {
+                id:27,
+                eng:"a suit /сют/",
+                ru:"костюм"
+                },
+                {
+                id:28,
+                eng:"a vest ",
+                ru:"жилетка"
+                },
+                {
+                id:29,
+                eng:"a jacket ",
+                ru:"пиджак, куртка"
+                },
+                {
+                id:30,
+                eng:"a coat /кОут/",
+                ru:"пальто"
+                },
+                {
+                id:31,
+                eng:"a fur coat /фё коут/",
+                ru:"шуба"
+                },
+                {
+                id:32,
+                eng:"a sweater / суЭтэ /",
+                ru:"кофта, свитер"
+                },
+                {
+                id:33,
+                eng:"long sleeves ",
+                ru:"длинные рукава"
+                },
+                {
+                id:34,
+                eng:"a blouse /блАуз/",
+                ru:"блузка"
+                },
+                {
+                id:35,
+                eng:"a skirt /скёрт/",
+                ru:"юбка"
+                },
+                {
+                id:36,
+                eng:"a bra / бра /",
+                ru:"бюстгалтер"
+                },
+                {
+                id:37,
+                eng:"straps /стрЭпс/",
+                ru:"лямки, ремешки"
+                },
+                {
+                id:38,
+                eng:"buttons /батэнз/",
+                ru:"пуговицы"
+                },
+                {
+                id:39,
+                eng:"a zipper ",
+                ru:"собачка на молнии"
+                },
+                {
+                id:40,
+                eng:"a belt /бэлт/",
+                ru:"ремень"
+                },
+                {
+                id:41,
+                eng:"underwear /АндэуЭэ/",
+                ru:"нижн. белье"
+                },
+                {
+                id:42,
+                eng:"warm underwear  /уОм АндэуЭэ/",
+                ru:"термобельё"
+                },
+    ],
+    clothes01: [
+        {
+            id:1,
+            eng:"a hat /хЭт/",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat /вул/",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood /худ/",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet /хЭлмэт/",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown /крАун/",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap /кЭп/",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses ",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses /лЭнzЭz/",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf /скаф/",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie /тАй/",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow /бАу/",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses ",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories /эксЭсориз/",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring /э ринг/",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring /иЭринг/",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet /рЭйслет/",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack /бЭкпэк/",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches /уОчез/",
+            ru:"наручные часы"
+            },
+    ],
+    questions111clothes: [
+        {
+            id:1,
+            eng:"a hat / хэт /",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat / вул /",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood / худ /",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet / хЭлмэт /",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown / крАун /",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap / кЭп /",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses / сан гласэз /",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses / лЭнzЭz /",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf / скаф /",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie / тАй /",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow / бАу /",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses / гласэz  /",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories / эксЭсориз /",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring / э ринг /",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring / иЭринг /",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet / рЭйслет /",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack / бЭкпэк /",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches / уОчез /",
+            ru:"наручные часы"
+            },
+            {
+            id:19,
+            eng:"a bag / бЭг /",
+            ru:"сумка"
+            },
+            {
+            id:20,
+            eng:"a purse / пёс /",
+            ru:"сумочка дамская"
+            },
+            {
+            id:21,
+            eng:"a plastic bag / плЭстик бЭг /",
+            ru:"пластиковый пакет"
+            },
+            {
+            id:22,
+            eng:"a necklace / нЭклэс /",
+            ru:"любое украшение на шее"
+            },
+            {
+            id:23,
+            eng:"mittens on a rope / рОУП /",
+            ru:"варежки на верёвочке"
+            },
+            {
+            id:24,
+            eng:"a top ",
+            ru:"верх"
+            },
+            {
+            id:25,
+            eng:"a shirt  / щёрт /",
+            ru:"рубашка"
+            },
+            {
+            id:26,
+            eng:"a t-shirt  / ти-щёрт /",
+            ru:"футболка"
+            },
+            {
+            id:27,
+            eng:"a suit / сют /",
+            ru:"костюм"
+            },
+            {
+            id:28,
+            eng:"a vest ",
+            ru:"жилетка"
+            },
+            {
+            id:29,
+            eng:"a jacket ",
+            ru:"пиджак, куртка"
+            },
+            {
+            id:30,
+            eng:"a coat / кОут /",
+            ru:"пальто"
+            },
+            {
+            id:31,
+            eng:"a fur coat / фё коут /",
+            ru:"шуба"
+            },
+            {
+            id:32,
+            eng:"a sweater /  суЭтэ  /",
+            ru:"кофта, свитер"
+            },
+            {
+            id:33,
+            eng:"long sleeves ",
+            ru:"длинные рукава"
+            },
+            {
+            id:34,
+            eng:"a blouse / блАуз /",
+            ru:"блузка"
+            },
+            {
+            id:35,
+            eng:"a skirt / скёрт /",
+            ru:"юбка"
+            },
+            {
+            id:36,
+            eng:"a bra /  бра  /",
+            ru:"бюстгалтер"
+            },
+            {
+            id:37,
+            eng:"straps / стрЭпс /",
+            ru:"лямки, ремешки"
+            },
+            {
+            id:38,
+            eng:"buttons / батэнз /",
+            ru:"пуговицы"
+            },
+            {
+            id:39,
+            eng:"a zipper ",
+            ru:"собачка на молнии"
+            },
+            {
+            id:40,
+            eng:"a belt / бэлт /",
+            ru:"ремень"
+            },
+            {
+            id:41,
+            eng:"underwear / АндэуЭэ /",
+            ru:"нижн. белье"
+            },
+            {
+            id:42,
+            eng:"warm underwear  / уОм АндэуЭэ /",
+            ru:"термобельё"
+            },
+            {
+            id:43,
+            eng:"pants / пЭнтс /",
+            ru:"любые штаны можно так назвать"
+            },
+            {
+            id:44,
+            eng:"under pants / пЭнтс /",
+            ru:"трусишки, трусики, трусы, плавки"
+            },
+            {
+            id:45,
+            eng:"jeans  ",
+            ru:"джинсы"
+            },
+            {
+            id:46,
+            eng:"trousers / трАуzэz /",
+            ru:"брюки"
+            },
+            {
+            id:47,
+            eng:"shorts / шортс /",
+            ru:"шортики"
+            },
+            {
+            id:48,
+            eng:"shoes / шуз /",
+            ru:"любая обувь & конкретно туфли"
+            },
+            {
+            id:49,
+            eng:"high heels / хай хилз /",
+            ru:"высокие каблуки (дословно пятки)"
+            },
+            {
+            id:50,
+            eng:"boots / бутс /",
+            ru:"ботинки, сапоги"
+            },
+            {
+            id:51,
+            eng:"trainers or sneakers ",
+            ru:"кеды, кроссовки"
+            },
+            {
+            id:52,
+            eng:"slippers / слиперз /",
+            ru:"тапочки и носочки"
+            },
+            {
+            id:53,
+            eng:"flip-flops ",
+            ru:"шлёпки, шлёпанцы, тапки"
+            },
+            {
+            id:54,
+            eng:"socks ",
+            ru:"носки"
+            },
+            {
+            id:55,
+            eng:"tuck your clothes in / так /",
+            ru:"заправь одежду"
+            },
+            {
+            id:56,
+            eng:"clothes / клОуз /",
+            ru:"одежда"
+            },
+            {
+            id:57,
+            eng:"put on ",
+            ru:"надевать"
+            },
+            {
+            id:58,
+            eng:"take off ",
+            ru:"снимать"
+            },
+            {
+            id:59,
+            eng:"do and undo ",
+            ru:"застегнуть и расстегнуть"
+            },
+            {
+            id:60,
+            eng:"carry / кЭри /",
+            ru:"нести в руках"
+            },
+            {
+            id:61,
+            eng:"wear / уЭэ /",
+            ru:"носить, одевать"
+            },
+            {
+            id:62,
+            eng:"undone / андАн /",
+            ru:"расстегнутый"
+            },
+            {
+            id:63,
+            eng:"your zip is undone ",
+            ru:"у вас молния расстегнута"
+            },
+            {
+            id:64,
+            eng:"stockings / стокингз /",
+            ru:"чулки"
+            },
+            {
+            id:65,
+            eng:"pyjamas / пижАмас /",
             ru:"пижама"
             },
     ],

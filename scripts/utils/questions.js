@@ -791,142 +791,142 @@ const allQuestionsOneDeck = {
         {
             id:1,
             eng:"Как по-английски сказать ` головной убор, шапка, шляпа ` ?",
-            ru:"What is the Russian for ` A HAT /хЭт/ ` ? "
+            ru:"What is the Russian for ` A HAT / хэт / ` ? "
             },
             {
             id:2,
-            eng:"Как по-английски сказать ` шерстянная вязанная шапка ` ?",
-            ru:"What is the Russian for ` A WOOL HAT /вул/ ` ? "
+            eng:"What is the English for ` шерстянная вязанная шапка ` ?",
+            ru:"How do you translate ` A WOOL HAT / вул / ` ? "
             },
             {
             id:3,
-            eng:"Как по-английски сказать ` капюшон ` ?",
-            ru:"What is the Russian for ` A HOOD /худ/ ` ? "
+            eng:"How do you say ` капюшон ` in English?",
+            ru:"Как переводится ` A HOOD / худ / ` на русском? "
             },
             {
             id:4,
-            eng:"Как по-английски сказать ` шлем ` ?",
-            ru:"What is the Russian for ` A HELMET /хЭлмэт/ ` ? "
+            eng:"How do you translate into English ` шлем ` ?",
+            ru:"Translate into Russian: ` A HELMET / хЭлмэт / ` "
             },
             {
             id:5,
             eng:"Как по-английски сказать ` корона ` ?",
-            ru:"What is the Russian for ` A CROWN /крАун/ ` ? "
+            ru:"What is the Russian for ` A CROWN / крАун / ` ? "
             },
             {
             id:6,
-            eng:"Как по-английски сказать ` кепка ` ?",
-            ru:"What is the Russian for ` A CAP /кЭп/ ` ? "
+            eng:"What is the English for ` кепка ` ?",
+            ru:"How do you translate ` A CAP / кЭп / ` ? "
             },
             {
             id:7,
-            eng:"Как по-английски сказать ` солнцезащитные очкм ` ?",
-            ru:"What is the Russian for ` SUNGLASSES  ` ? "
+            eng:"How do you say ` солнцезащитные очкм ` in English?",
+            ru:"Как переводится ` SUNGLASSES / сан гласэз / ` на русском? "
             },
             {
             id:8,
-            eng:"Как по-английски сказать ` линзы ` ?",
-            ru:"What is the Russian for ` LENSES /лЭнzЭz/ ` ? "
+            eng:"How do you translate into English ` линзы ` ?",
+            ru:"Translate into Russian: ` LENSES / лЭнzЭz / ` "
             },
             {
             id:9,
             eng:"Как по-английски сказать ` шарф ` ?",
-            ru:"What is the Russian for ` A SCARF /скаф/ ` ? "
+            ru:"What is the Russian for ` A SCARF / скаф / ` ? "
             },
             {
             id:10,
-            eng:"Как по-английски сказать ` галстук ` ?",
-            ru:"What is the Russian for ` A TIE /тАй/ ` ? "
+            eng:"What is the English for ` галстук ` ?",
+            ru:"How do you translate ` A TIE / тАй / ` ? "
             },
             {
             id:11,
-            eng:"Как по-английски сказать ` бант, галстук-бабочка ` ?",
-            ru:"What is the Russian for ` A BOW /бАу/ ` ? "
+            eng:"How do you say ` бант, галстук-бабочка ` in English?",
+            ru:"Как переводится ` A BOW / бАу / ` на русском? "
             },
             {
             id:12,
-            eng:"Как по-английски сказать ` очки ` ?",
-            ru:"What is the Russian for ` GLASSES  ` ? "
+            eng:"How do you translate into English ` очки ` ?",
+            ru:"Translate into Russian: ` GLASSES / гласэz  / ` "
             },
             {
             id:13,
             eng:"Как по-английски сказать ` аксессуары ` ?",
-            ru:"What is the Russian for ` ACCESSORIES /эксЭсориз/ ` ? "
+            ru:"What is the Russian for ` ACCESSORIES / эксЭсориз / ` ? "
             },
             {
             id:14,
-            eng:"Как по-английски сказать ` кольцо ` ?",
-            ru:"What is the Russian for ` A RING /э ринг/ ` ? "
+            eng:"What is the English for ` кольцо ` ?",
+            ru:"How do you translate ` A RING / э ринг / ` ? "
             },
             {
             id:15,
-            eng:"Как по-английски сказать ` серьга ` ?",
-            ru:"What is the Russian for ` AN EARRING /иЭринг/ ` ? "
+            eng:"How do you say ` серьга ` in English?",
+            ru:"Как переводится ` AN EARRING / иЭринг / ` на русском? "
             },
             {
             id:16,
-            eng:"Как по-английски сказать ` браслет ` ?",
-            ru:"What is the Russian for ` A BRACELET /рЭйслет/ ` ? "
+            eng:"How do you translate into English ` браслет ` ?",
+            ru:"Translate into Russian: ` A BRACELET / рЭйслет / ` "
             },
             {
             id:17,
             eng:"Как по-английски сказать ` рюкзак ` ?",
-            ru:"What is the Russian for ` A BACKPACK /бЭкпэк/ ` ? "
+            ru:"What is the Russian for ` A BACKPACK / бЭкпэк / ` ? "
             },
             {
             id:18,
-            eng:"Как по-английски сказать ` наручные часы ` ?",
-            ru:"What is the Russian for ` WATCHES /уОчез/ ` ? "
+            eng:"What is the English for ` наручные часы ` ?",
+            ru:"How do you translate ` WATCHES / уОчез / ` ? "
             },
             {
             id:19,
-            eng:"Как по-английски сказать ` сумка ` ?",
-            ru:"What is the Russian for ` A BAG /бЭг/ ` ? "
+            eng:"How do you say ` сумка ` in English?",
+            ru:"Как переводится ` A BAG / бЭг / ` на русском? "
             },
             {
             id:20,
-            eng:"Как по-английски сказать ` сумочка дамская ` ?",
-            ru:"What is the Russian for ` A PURSE /пёс/ ` ? "
+            eng:"How do you translate into English ` сумочка дамская ` ?",
+            ru:"Translate into Russian: ` A PURSE / пёс / ` "
             },
             {
             id:21,
             eng:"Как по-английски сказать ` пластиковый пакет ` ?",
-            ru:"What is the Russian for ` A PLASTIC BAG /плЭстик бЭг/ ` ? "
+            ru:"What is the Russian for ` A PLASTIC BAG / плЭстик бЭг / ` ? "
             },
             {
             id:22,
-            eng:"Как по-английски сказать ` любое украшение на шее ` ?",
-            ru:"What is the Russian for ` A NECKLACE /нЭклэс/ ` ? "
+            eng:"What is the English for ` любое украшение на шее ` ?",
+            ru:"How do you translate ` A NECKLACE / нЭклэс / ` ? "
             },
             {
             id:23,
-            eng:"Как по-английски сказать ` варежки на верёвочке ` ?",
-            ru:"What is the Russian for ` MITTENS ON A ROPE /рОУП/ ` ? "
+            eng:"How do you say ` варежки на верёвочке ` in English?",
+            ru:"Как переводится ` MITTENS ON A ROPE / рОУП / ` на русском? "
             },
             {
             id:24,
-            eng:"Как по-английски сказать ` верх ` ?",
-            ru:"What is the Russian for ` A TOP  ` ? "
+            eng:"How do you translate into English ` верх ` ?",
+            ru:"Translate into Russian: ` A TOP  ` "
             },
             {
             id:25,
             eng:"Как по-английски сказать ` рубашка ` ?",
-            ru:"What is the Russian for ` A SHIRT  /щёрт/ ` ? "
+            ru:"What is the Russian for ` A SHIRT  / щёрт / ` ? "
             },
             {
             id:26,
-            eng:"Как по-английски сказать ` футболка ` ?",
-            ru:"What is the Russian for ` A T-SHIRT  /ти-щёрт/ ` ? "
+            eng:"What is the English for ` футболка ` ?",
+            ru:"How do you translate ` A T-SHIRT  / ти-щёрт / ` ? "
             },
             {
             id:27,
-            eng:"Как по-английски сказать ` костюм ` ?",
-            ru:"What is the Russian for ` A SUIT /сют/ ` ? "
+            eng:"How do you say ` костюм ` in English?",
+            ru:"Как переводится ` A SUIT / сют / ` на русском? "
             },
             {
             id:28,
-            eng:"Как по-английски сказать ` жилетка ` ?",
-            ru:"What is the Russian for ` A VEST  ` ? "
+            eng:"How do you translate into English ` жилетка ` ?",
+            ru:"Translate into Russian: ` A VEST  ` "
             },
             {
             id:29,
@@ -935,18 +935,18 @@ const allQuestionsOneDeck = {
             },
             {
             id:30,
-            eng:"Как по-английски сказать ` пальто ` ?",
-            ru:"What is the Russian for ` A COAT /кОут/ ` ? "
+            eng:"What is the English for ` пальто ` ?",
+            ru:"How do you translate ` A COAT / кОут / ` ? "
             },
             {
             id:31,
-            eng:"Как по-английски сказать ` шуба ` ?",
-            ru:"What is the Russian for ` A FUR COAT /фё коут/ ` ? "
+            eng:"How do you say ` шуба ` in English?",
+            ru:"Как переводится ` A FUR COAT / фё коут / ` на русском? "
             },
             {
             id:32,
-            eng:"Как по-английски сказать ` кофта, свитер ` ?",
-            ru:"What is the Russian for ` A SWEATER  ` ? "
+            eng:"How do you translate into English ` кофта, свитер ` ?",
+            ru:"Translate into Russian: ` A SWEATER /  суЭтэ  / ` "
             },
             {
             id:33,
@@ -955,58 +955,58 @@ const allQuestionsOneDeck = {
             },
             {
             id:34,
-            eng:"Как по-английски сказать ` чёт женское ` ?",
-            ru:"What is the Russian for ` A BLOUSE /блАуз/ ` ? "
+            eng:"What is the English for ` блузка ` ?",
+            ru:"How do you translate ` A BLOUSE / блАуз / ` ? "
             },
             {
             id:35,
-            eng:"Как по-английски сказать ` юбка ` ?",
-            ru:"What is the Russian for ` A SKIRT /скёрт/ ` ? "
+            eng:"How do you say ` юбка ` in English?",
+            ru:"Как переводится ` A SKIRT / скёрт / ` на русском? "
             },
             {
             id:36,
-            eng:"Как по-английски сказать ` бюстгалтер ` ?",
-            ru:"What is the Russian for ` A BRA  ` ? "
+            eng:"How do you translate into English ` бюстгалтер ` ?",
+            ru:"Translate into Russian: ` A BRA /  бра  / ` "
             },
             {
             id:37,
             eng:"Как по-английски сказать ` лямки, ремешки ` ?",
-            ru:"What is the Russian for ` STRAPS /стрЭпс/ ` ? "
+            ru:"What is the Russian for ` STRAPS / стрЭпс / ` ? "
             },
             {
             id:38,
-            eng:"Как по-английски сказать ` пуговицы ` ?",
-            ru:"What is the Russian for ` BUTTONS /батэнз/ ` ? "
+            eng:"What is the English for ` пуговицы ` ?",
+            ru:"How do you translate ` BUTTONS / батэнз / ` ? "
             },
             {
             id:39,
-            eng:"Как по-английски сказать ` собачка на молнии ` ?",
-            ru:"What is the Russian for ` A ZIPPER  ` ? "
+            eng:"How do you say ` собачка на молнии ` in English?",
+            ru:"Как переводится ` A ZIPPER  ` на русском? "
             },
             {
             id:40,
-            eng:"Как по-английски сказать ` ремень ` ?",
-            ru:"What is the Russian for ` A BELT /бэлт/ ` ? "
+            eng:"How do you translate into English ` ремень ` ?",
+            ru:"Translate into Russian: ` A BELT / бэлт / ` "
             },
             {
             id:41,
             eng:"Как по-английски сказать ` нижн. белье ` ?",
-            ru:"What is the Russian for ` UNDERWEAR /АндэуЭэ/ ` ? "
+            ru:"What is the Russian for ` UNDERWEAR / АндэуЭэ / ` ? "
             },
             {
             id:42,
-            eng:"Как по-английски сказать ` термобельё ` ?",
-            ru:"What is the Russian for ` WARM UNDERWEAR  /уОм АндэуЭэ/ ` ? "
+            eng:"What is the English for ` термобельё ` ?",
+            ru:"How do you translate ` WARM UNDERWEAR  / уОм АндэуЭэ / ` ? "
             },
             {
             id:43,
-            eng:"Как по-английски сказать ` любые штаны можно так назвать ` ?",
-            ru:"What is the Russian for ` PANTS /пЭнтс/ ` ? "
+            eng:"How do you say ` любые штаны можно так назвать ` in English?",
+            ru:"Как переводится ` PANTS / пЭнтс / ` на русском? "
             },
             {
             id:44,
-            eng:"Как по-английски сказать ` трусишки, трусики, трусы, плавки ` ?",
-            ru:"What is the Russian for ` UNDER PANTS /пЭнтс/ ` ? "
+            eng:"How do you translate into English ` трусишки, трусики, трусы, плавки ` ?",
+            ru:"Translate into Russian: ` UNDER PANTS / пЭнтс / ` "
             },
             {
             id:45,
@@ -1015,38 +1015,38 @@ const allQuestionsOneDeck = {
             },
             {
             id:46,
-            eng:"Как по-английски сказать ` брюки ` ?",
-            ru:"What is the Russian for ` TROUSERS /трАуzэz/ ` ? "
+            eng:"What is the English for ` брюки ` ?",
+            ru:"How do you translate ` TROUSERS / трАуzэz / ` ? "
             },
             {
             id:47,
-            eng:"Как по-английски сказать ` шортики ` ?",
-            ru:"What is the Russian for ` SHORTS /шортс/ ` ? "
+            eng:"How do you say ` шортики ` in English?",
+            ru:"Как переводится ` SHORTS / шортс / ` на русском? "
             },
             {
             id:48,
-            eng:"Как по-английски сказать ` любая обувь & конкретно туфли ` ?",
-            ru:"What is the Russian for ` SHOES /шуз/ ` ? "
+            eng:"How do you translate into English ` любая обувь & конкретно туфли ` ?",
+            ru:"Translate into Russian: ` SHOES / шуз / ` "
             },
             {
             id:49,
             eng:"Как по-английски сказать ` высокие каблуки (дословно пятки) ` ?",
-            ru:"What is the Russian for ` HIGH HEELS /хай хилз/ ` ? "
+            ru:"What is the Russian for ` HIGH HEELS / хай хилз / ` ? "
             },
             {
             id:50,
-            eng:"Как по-английски сказать ` ботинки, сапоги ` ?",
-            ru:"What is the Russian for ` BOOTS /бутс/ ` ? "
+            eng:"What is the English for ` ботинки, сапоги ` ?",
+            ru:"How do you translate ` BOOTS / бутс / ` ? "
             },
             {
             id:51,
-            eng:"Как по-английски сказать ` кеды, кроссовки ` ?",
-            ru:"What is the Russian for ` TRAINERS OR SNEAKERS  ` ? "
+            eng:"How do you say ` кеды, кроссовки ` in English?",
+            ru:"Как переводится ` TRAINERS OR SNEAKERS  ` на русском? "
             },
             {
             id:52,
-            eng:"Как по-английски сказать ` тапочки и носочки ` ?",
-            ru:"What is the Russian for ` SLIPPERS /слиперз/ ` ? "
+            eng:"How do you translate into English ` тапочки и носочки ` ?",
+            ru:"Translate into Russian: ` SLIPPERS / слиперз / ` "
             },
             {
             id:53,
@@ -1055,18 +1055,18 @@ const allQuestionsOneDeck = {
             },
             {
             id:54,
-            eng:"Как по-английски сказать ` носки ` ?",
-            ru:"What is the Russian for ` SOCKS  ` ? "
+            eng:"What is the English for ` носки ` ?",
+            ru:"How do you translate ` SOCKS  ` ? "
             },
             {
             id:55,
-            eng:"Как по-английски сказать ` заправь одежду ` ?",
-            ru:"What is the Russian for ` TUCK YOUR CLOTHES IN /так/ ` ? "
+            eng:"How do you say ` заправь одежду ` in English?",
+            ru:"Как переводится ` TUCK YOUR CLOTHES IN / так / ` на русском? "
             },
             {
             id:56,
-            eng:"Как по-английски сказать ` одежда ` ?",
-            ru:"What is the Russian for ` CLOTHES /клОуз/ ` ? "
+            eng:"How do you translate into English ` одежда ` ?",
+            ru:"Translate into Russian: ` CLOTHES / клОуз / ` "
             },
             {
             id:57,
@@ -1075,43 +1075,43 @@ const allQuestionsOneDeck = {
             },
             {
             id:58,
-            eng:"Как по-английски сказать ` снимать ` ?",
-            ru:"What is the Russian for ` TAKE OFF  ` ? "
+            eng:"What is the English for ` снимать ` ?",
+            ru:"How do you translate ` TAKE OFF  ` ? "
             },
             {
             id:59,
-            eng:"Как по-английски сказать ` застегнуть и расстегнуть ` ?",
-            ru:"What is the Russian for ` DO AND UNDO  ` ? "
+            eng:"How do you say ` застегнуть и расстегнуть ` in English?",
+            ru:"Как переводится ` DO AND UNDO  ` на русском? "
             },
             {
             id:60,
-            eng:"Как по-английски сказать ` нести в руках ` ?",
-            ru:"What is the Russian for ` CARRY /кЭри/ ` ? "
+            eng:"How do you translate into English ` нести в руках ` ?",
+            ru:"Translate into Russian: ` CARRY / кЭри / ` "
             },
             {
             id:61,
             eng:"Как по-английски сказать ` носить, одевать ` ?",
-            ru:"What is the Russian for ` WEAR /уЭэ/ ` ? "
+            ru:"What is the Russian for ` WEAR / уЭэ / ` ? "
             },
             {
             id:62,
-            eng:"Как по-английски сказать ` расстегнутый ` ?",
-            ru:"What is the Russian for ` UNDONE /андАн/ ` ? "
+            eng:"What is the English for ` расстегнутый ` ?",
+            ru:"How do you translate ` UNDONE / андАн / ` ? "
             },
             {
             id:63,
-            eng:"Как по-английски сказать ` у вас молния расстегнута ` ?",
-            ru:"What is the Russian for ` YOUR ZIP IS UNDONE  ` ? "
+            eng:"How do you say ` у вас молния расстегнута ` in English?",
+            ru:"Как переводится ` YOUR ZIP IS UNDONE  ` на русском? "
             },
             {
             id:64,
-            eng:"Как по-английски сказать ` чулки ` ?",
-            ru:"What is the Russian for ` STOCKINGS /стокингз/ ` ? "
+            eng:"How do you translate into English ` чулки ` ?",
+            ru:"Translate into Russian: ` STOCKINGS / стокингз / ` "
             },
             {
             id:65,
             eng:"Как по-английски сказать ` пижама ` ?",
-            ru:"What is the Russian for ` PYJAMAS /пижАмас/ ` ? "
+            ru:"What is the Russian for ` PYJAMAS / пижАмас / ` ? "
             },
             {
             id:66,
