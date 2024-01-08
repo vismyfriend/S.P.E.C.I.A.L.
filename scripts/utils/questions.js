@@ -790,783 +790,783 @@ const allQuestionsOneDeck = {
     questions111clothes: [
         {
             id:1,
-            eng:"Как по-английски сказать ` головной убор, шапка, шляпа ` ?",
-            ru:"What is the Russian for ` A HAT / хэт / ` ? "
+            eng:"Как по-английски сказать ` головной убор, шапка, шляпа` ?",
+            ru:"What is the Russian for ` A HAT / хэт /` ?"
             },
             {
             id:2,
-            eng:"What is the English for ` шерстянная вязанная шапка ` ?",
-            ru:"How do you translate ` A WOOL HAT / вул / ` ? "
+            eng:"What is the English for ` шерстянная вязанная шапка` ?",
+            ru:"How do you translate ` A WOOL HAT / вул /` ?"
             },
             {
             id:3,
-            eng:"How do you say ` капюшон ` in English?",
-            ru:"Как переводится ` A HOOD / худ / ` на русском? "
+            eng:"How do you say ` капюшон ` in English ?",
+            ru:"Как переводится `A HOOD / худ /` на русском?"
             },
             {
             id:4,
-            eng:"How do you translate into English ` шлем ` ?",
-            ru:"Translate into Russian: ` A HELMET / хЭлмэт / ` "
+            eng:"How do you translate into English ` шлем` ?",
+            ru:"Translate into Russian: `A HELMET / хЭлмэт / `"
             },
             {
             id:5,
-            eng:"Как по-английски сказать ` корона ` ?",
-            ru:"What is the Russian for ` A CROWN / крАун / ` ? "
+            eng:"Как по-английски сказать ` корона` ?",
+            ru:"What is the Russian for ` A CROWN / крАун /` ?"
             },
             {
             id:6,
-            eng:"What is the English for ` кепка ` ?",
-            ru:"How do you translate ` A CAP / кЭп / ` ? "
+            eng:"What is the English for ` кепка` ?",
+            ru:"How do you translate ` A CAP / кЭп /` ?"
             },
             {
             id:7,
-            eng:"How do you say ` солнцезащитные очкм ` in English?",
-            ru:"Как переводится ` SUNGLASSES / сан гласэз / ` на русском? "
+            eng:"How do you say ` солнцезащитные очкм ` in English ?",
+            ru:"Как переводится `SUNGLASSES / сан гласэз /` на русском?"
             },
             {
             id:8,
-            eng:"How do you translate into English ` линзы ` ?",
-            ru:"Translate into Russian: ` LENSES / лЭнzЭz / ` "
+            eng:"How do you translate into English ` линзы` ?",
+            ru:"Translate into Russian: `LENSES / лЭнzЭz / `"
             },
             {
             id:9,
-            eng:"Как по-английски сказать ` шарф ` ?",
-            ru:"What is the Russian for ` A SCARF / скаф / ` ? "
+            eng:"Как по-английски сказать ` шарф` ?",
+            ru:"What is the Russian for ` A SCARF / скаф /` ?"
             },
             {
             id:10,
-            eng:"What is the English for ` галстук ` ?",
-            ru:"How do you translate ` A TIE / тАй / ` ? "
+            eng:"What is the English for ` галстук` ?",
+            ru:"How do you translate ` A TIE / тАй /` ?"
             },
             {
             id:11,
-            eng:"How do you say ` бант, галстук-бабочка ` in English?",
-            ru:"Как переводится ` A BOW / бАу / ` на русском? "
+            eng:"How do you say ` бант, галстук-бабочка ` in English ?",
+            ru:"Как переводится `A BOW / бАу /` на русском?"
             },
             {
             id:12,
-            eng:"How do you translate into English ` очки ` ?",
-            ru:"Translate into Russian: ` GLASSES / гласэz  / ` "
+            eng:"How do you translate into English ` очки` ?",
+            ru:"Translate into Russian: `GLASSES / гласэz  / `"
             },
             {
             id:13,
-            eng:"Как по-английски сказать ` аксессуары ` ?",
-            ru:"What is the Russian for ` ACCESSORIES / эксЭсориз / ` ? "
+            eng:"Как по-английски сказать ` аксессуары` ?",
+            ru:"What is the Russian for ` ACCESSORIES / эксЭсориз /` ?"
             },
             {
             id:14,
-            eng:"What is the English for ` кольцо ` ?",
-            ru:"How do you translate ` A RING / э ринг / ` ? "
+            eng:"What is the English for ` кольцо` ?",
+            ru:"How do you translate ` A RING / э ринг /` ?"
             },
             {
             id:15,
-            eng:"How do you say ` серьга ` in English?",
-            ru:"Как переводится ` AN EARRING / иЭринг / ` на русском? "
+            eng:"How do you say ` серьга ` in English ?",
+            ru:"Как переводится `AN EARRING / иЭринг /` на русском?"
             },
             {
             id:16,
-            eng:"How do you translate into English ` браслет ` ?",
-            ru:"Translate into Russian: ` A BRACELET / рЭйслет / ` "
+            eng:"How do you translate into English ` браслет` ?",
+            ru:"Translate into Russian: `A BRACELET / рЭйслет / `"
             },
             {
             id:17,
-            eng:"Как по-английски сказать ` рюкзак ` ?",
-            ru:"What is the Russian for ` A BACKPACK / бЭкпэк / ` ? "
+            eng:"Как по-английски сказать ` рюкзак` ?",
+            ru:"What is the Russian for ` A BACKPACK / бЭкпэк /` ?"
             },
             {
             id:18,
-            eng:"What is the English for ` наручные часы ` ?",
-            ru:"How do you translate ` WATCHES / уОчез / ` ? "
+            eng:"What is the English for ` наручные часы` ?",
+            ru:"How do you translate ` WATCHES / уОчез /` ?"
             },
             {
             id:19,
-            eng:"How do you say ` сумка ` in English?",
-            ru:"Как переводится ` A BAG / бЭг / ` на русском? "
+            eng:"How do you say ` сумка ` in English ?",
+            ru:"Как переводится `A BAG / бЭг /` на русском?"
             },
             {
             id:20,
-            eng:"How do you translate into English ` сумочка дамская ` ?",
-            ru:"Translate into Russian: ` A PURSE / пёс / ` "
+            eng:"How do you translate into English ` сумочка дамская` ?",
+            ru:"Translate into Russian: `A PURSE / пёс / `"
             },
             {
             id:21,
-            eng:"Как по-английски сказать ` пластиковый пакет ` ?",
-            ru:"What is the Russian for ` A PLASTIC BAG / плЭстик бЭг / ` ? "
+            eng:"Как по-английски сказать ` пластиковый пакет` ?",
+            ru:"What is the Russian for ` A PLASTIC BAG / плЭстик бЭг /` ?"
             },
             {
             id:22,
-            eng:"What is the English for ` любое украшение на шее ` ?",
-            ru:"How do you translate ` A NECKLACE / нЭклэс / ` ? "
+            eng:"What is the English for ` любое украшение на шее` ?",
+            ru:"How do you translate ` A NECKLACE / нЭклэс /` ?"
             },
             {
             id:23,
-            eng:"How do you say ` варежки на верёвочке ` in English?",
-            ru:"Как переводится ` MITTENS ON A ROPE / рОУП / ` на русском? "
+            eng:"How do you say ` варежки на верёвочке ` in English ?",
+            ru:"Как переводится `MITTENS ON A ROPE / рОУП /` на русском?"
             },
             {
             id:24,
-            eng:"How do you translate into English ` верх ` ?",
-            ru:"Translate into Russian: ` A TOP  ` "
+            eng:"How do you translate into English ` верх` ?",
+            ru:"Translate into Russian: `A TOP  `"
             },
             {
             id:25,
-            eng:"Как по-английски сказать ` рубашка ` ?",
-            ru:"What is the Russian for ` A SHIRT  / щёрт / ` ? "
+            eng:"Как по-английски сказать ` рубашка` ?",
+            ru:"What is the Russian for ` A SHIRT  / щёрт /` ?"
             },
             {
             id:26,
-            eng:"What is the English for ` футболка ` ?",
-            ru:"How do you translate ` A T-SHIRT  / ти-щёрт / ` ? "
+            eng:"What is the English for ` футболка` ?",
+            ru:"How do you translate ` A T-SHIRT  / ти-щёрт /` ?"
             },
             {
             id:27,
-            eng:"How do you say ` костюм ` in English?",
-            ru:"Как переводится ` A SUIT / сют / ` на русском? "
+            eng:"How do you say ` костюм ` in English ?",
+            ru:"Как переводится `A SUIT / сют /` на русском?"
             },
             {
             id:28,
-            eng:"How do you translate into English ` жилетка ` ?",
-            ru:"Translate into Russian: ` A VEST  ` "
+            eng:"How do you translate into English ` жилетка` ?",
+            ru:"Translate into Russian: `A VEST  `"
             },
             {
             id:29,
-            eng:"Как по-английски сказать ` пиджак, куртка ` ?",
-            ru:"What is the Russian for ` A JACKET  ` ? "
+            eng:"Как по-английски сказать ` пиджак, куртка` ?",
+            ru:"What is the Russian for ` A JACKET ` ?"
             },
             {
             id:30,
-            eng:"What is the English for ` пальто ` ?",
-            ru:"How do you translate ` A COAT / кОут / ` ? "
+            eng:"What is the English for ` пальто` ?",
+            ru:"How do you translate ` A COAT / кОут /` ?"
             },
             {
             id:31,
-            eng:"How do you say ` шуба ` in English?",
-            ru:"Как переводится ` A FUR COAT / фё коут / ` на русском? "
+            eng:"How do you say ` шуба ` in English ?",
+            ru:"Как переводится `A FUR COAT / фё коут /` на русском?"
             },
             {
             id:32,
-            eng:"How do you translate into English ` кофта, свитер ` ?",
-            ru:"Translate into Russian: ` A SWEATER /  суЭтэ  / ` "
+            eng:"How do you translate into English ` кофта, свитер` ?",
+            ru:"Translate into Russian: `A SWEATER /  суЭтэ  / `"
             },
             {
             id:33,
-            eng:"Как по-английски сказать ` длинные рукава ` ?",
-            ru:"What is the Russian for ` LONG SLEEVES  ` ? "
+            eng:"Как по-английски сказать ` длинные рукава` ?",
+            ru:"What is the Russian for ` LONG SLEEVES ` ?"
             },
             {
             id:34,
-            eng:"What is the English for ` блузка ` ?",
-            ru:"How do you translate ` A BLOUSE / блАуз / ` ? "
+            eng:"What is the English for ` блузка` ?",
+            ru:"How do you translate ` A BLOUSE / блАуз /` ?"
             },
             {
             id:35,
-            eng:"How do you say ` юбка ` in English?",
-            ru:"Как переводится ` A SKIRT / скёрт / ` на русском? "
+            eng:"How do you say ` юбка ` in English ?",
+            ru:"Как переводится `A SKIRT / скёрт /` на русском?"
             },
             {
             id:36,
-            eng:"How do you translate into English ` бюстгалтер ` ?",
-            ru:"Translate into Russian: ` A BRA /  бра  / ` "
+            eng:"How do you translate into English ` бюстгалтер` ?",
+            ru:"Translate into Russian: `A BRA /  бра  / `"
             },
             {
             id:37,
-            eng:"Как по-английски сказать ` лямки, ремешки ` ?",
-            ru:"What is the Russian for ` STRAPS / стрЭпс / ` ? "
+            eng:"Как по-английски сказать ` лямки, ремешки` ?",
+            ru:"What is the Russian for ` STRAPS / стрЭпс /` ?"
             },
             {
             id:38,
-            eng:"What is the English for ` пуговицы ` ?",
-            ru:"How do you translate ` BUTTONS / батэнз / ` ? "
+            eng:"What is the English for ` пуговицы` ?",
+            ru:"How do you translate ` BUTTONS / батэнз /` ?"
             },
             {
             id:39,
-            eng:"How do you say ` собачка на молнии ` in English?",
-            ru:"Как переводится ` A ZIPPER  ` на русском? "
+            eng:"How do you say ` собачка на молнии ` in English ?",
+            ru:"Как переводится `A ZIPPER ` на русском?"
             },
             {
             id:40,
-            eng:"How do you translate into English ` ремень ` ?",
-            ru:"Translate into Russian: ` A BELT / бэлт / ` "
+            eng:"How do you translate into English ` ремень` ?",
+            ru:"Translate into Russian: `A BELT / бэлт / `"
             },
             {
             id:41,
-            eng:"Как по-английски сказать ` нижн. белье ` ?",
-            ru:"What is the Russian for ` UNDERWEAR / АндэуЭэ / ` ? "
+            eng:"Как по-английски сказать ` нижн. белье` ?",
+            ru:"What is the Russian for ` UNDERWEAR / АндэуЭэ /` ?"
             },
             {
             id:42,
-            eng:"What is the English for ` термобельё ` ?",
-            ru:"How do you translate ` WARM UNDERWEAR  / уОм АндэуЭэ / ` ? "
+            eng:"What is the English for ` термобельё` ?",
+            ru:"How do you translate ` WARM UNDERWEAR  / уОм АндэуЭэ /` ?"
             },
             {
             id:43,
-            eng:"How do you say ` любые штаны можно так назвать ` in English?",
-            ru:"Как переводится ` PANTS / пЭнтс / ` на русском? "
+            eng:"How do you say ` любые штаны можно так назвать ` in English ?",
+            ru:"Как переводится `PANTS / пЭнтс /` на русском?"
             },
             {
             id:44,
-            eng:"How do you translate into English ` трусишки, трусики, трусы, плавки ` ?",
-            ru:"Translate into Russian: ` UNDER PANTS / пЭнтс / ` "
+            eng:"How do you translate into English ` трусишки, трусики, трусы, плавки` ?",
+            ru:"Translate into Russian: `UNDER PANTS / пЭнтс / `"
             },
             {
             id:45,
-            eng:"Как по-английски сказать ` джинсы ` ?",
-            ru:"What is the Russian for ` JEANS   ` ? "
+            eng:"Как по-английски сказать ` джинсы` ?",
+            ru:"What is the Russian for ` JEANS  ` ?"
             },
             {
             id:46,
-            eng:"What is the English for ` брюки ` ?",
-            ru:"How do you translate ` TROUSERS / трАуzэz / ` ? "
+            eng:"What is the English for ` брюки` ?",
+            ru:"How do you translate ` TROUSERS / трАуzэz /` ?"
             },
             {
             id:47,
-            eng:"How do you say ` шортики ` in English?",
-            ru:"Как переводится ` SHORTS / шортс / ` на русском? "
+            eng:"How do you say ` шортики ` in English ?",
+            ru:"Как переводится `SHORTS / шортс /` на русском?"
             },
             {
             id:48,
-            eng:"How do you translate into English ` любая обувь & конкретно туфли ` ?",
-            ru:"Translate into Russian: ` SHOES / шуз / ` "
+            eng:"How do you translate into English ` любая обувь & конкретно туфли` ?",
+            ru:"Translate into Russian: `SHOES / шуз / `"
             },
             {
             id:49,
-            eng:"Как по-английски сказать ` высокие каблуки (дословно пятки) ` ?",
-            ru:"What is the Russian for ` HIGH HEELS / хай хилз / ` ? "
+            eng:"Как по-английски сказать ` высокие каблуки (дословно пятки)` ?",
+            ru:"What is the Russian for ` HIGH HEELS / хай хилз /` ?"
             },
             {
             id:50,
-            eng:"What is the English for ` ботинки, сапоги ` ?",
-            ru:"How do you translate ` BOOTS / бутс / ` ? "
+            eng:"What is the English for ` ботинки, сапоги` ?",
+            ru:"How do you translate ` BOOTS / бутс /` ?"
             },
             {
             id:51,
-            eng:"How do you say ` кеды, кроссовки ` in English?",
-            ru:"Как переводится ` TRAINERS OR SNEAKERS  ` на русском? "
+            eng:"How do you say ` кеды, кроссовки ` in English ?",
+            ru:"Как переводится `TRAINERS OR SNEAKERS ` на русском?"
             },
             {
             id:52,
-            eng:"How do you translate into English ` тапочки и носочки ` ?",
-            ru:"Translate into Russian: ` SLIPPERS / слиперз / ` "
+            eng:"How do you translate into English ` тапочки и носочки` ?",
+            ru:"Translate into Russian: `SLIPPERS / слиперз / `"
             },
             {
             id:53,
-            eng:"Как по-английски сказать ` шлёпки, шлёпанцы, тапки ` ?",
-            ru:"What is the Russian for ` FLIP-FLOPS  ` ? "
+            eng:"Как по-английски сказать ` шлёпки, шлёпанцы, тапки` ?",
+            ru:"What is the Russian for ` FLIP-FLOPS ` ?"
             },
             {
             id:54,
-            eng:"What is the English for ` носки ` ?",
-            ru:"How do you translate ` SOCKS  ` ? "
+            eng:"What is the English for ` носки` ?",
+            ru:"How do you translate ` SOCKS ` ?"
             },
             {
             id:55,
-            eng:"How do you say ` заправь одежду ` in English?",
-            ru:"Как переводится ` TUCK YOUR CLOTHES IN / так / ` на русском? "
+            eng:"How do you say ` заправь одежду ` in English ?",
+            ru:"Как переводится `TUCK YOUR CLOTHES IN / так /` на русском?"
             },
             {
             id:56,
-            eng:"How do you translate into English ` одежда ` ?",
-            ru:"Translate into Russian: ` CLOTHES / клОуз / ` "
+            eng:"How do you translate into English ` одежда` ?",
+            ru:"Translate into Russian: `CLOTHES / клОуз / `"
             },
             {
             id:57,
-            eng:"Как по-английски сказать ` надевать ` ?",
-            ru:"What is the Russian for ` PUT ON  ` ? "
+            eng:"Как по-английски сказать ` надевать` ?",
+            ru:"What is the Russian for ` PUT ON ` ?"
             },
             {
             id:58,
-            eng:"What is the English for ` снимать ` ?",
-            ru:"How do you translate ` TAKE OFF  ` ? "
+            eng:"What is the English for ` снимать` ?",
+            ru:"How do you translate ` TAKE OFF ` ?"
             },
             {
             id:59,
-            eng:"How do you say ` застегнуть и расстегнуть ` in English?",
-            ru:"Как переводится ` DO AND UNDO  ` на русском? "
+            eng:"How do you say ` застегнуть и расстегнуть ` in English ?",
+            ru:"Как переводится `DO AND UNDO ` на русском?"
             },
             {
             id:60,
-            eng:"How do you translate into English ` нести в руках ` ?",
-            ru:"Translate into Russian: ` CARRY / кЭри / ` "
+            eng:"How do you translate into English ` нести в руках` ?",
+            ru:"Translate into Russian: `CARRY / кЭри / `"
             },
             {
             id:61,
-            eng:"Как по-английски сказать ` носить, одевать ` ?",
-            ru:"What is the Russian for ` WEAR / уЭэ / ` ? "
+            eng:"Как по-английски сказать ` носить, одевать` ?",
+            ru:"What is the Russian for ` WEAR / уЭэ /` ?"
             },
             {
             id:62,
-            eng:"What is the English for ` расстегнутый ` ?",
-            ru:"How do you translate ` UNDONE / андАн / ` ? "
+            eng:"What is the English for ` расстегнутый` ?",
+            ru:"How do you translate ` UNDONE / андАн /` ?"
             },
             {
             id:63,
-            eng:"How do you say ` у вас молния расстегнута ` in English?",
-            ru:"Как переводится ` YOUR ZIP IS UNDONE  ` на русском? "
+            eng:"How do you say ` у вас молния расстегнута ` in English ?",
+            ru:"Как переводится `YOUR ZIP IS UNDONE ` на русском?"
             },
             {
             id:64,
-            eng:"How do you translate into English ` чулки ` ?",
-            ru:"Translate into Russian: ` STOCKINGS / стокингз / ` "
+            eng:"How do you translate into English ` чулки` ?",
+            ru:"Translate into Russian: `STOCKINGS / стокингз / `"
             },
             {
             id:65,
-            eng:"Как по-английски сказать ` пижама ` ?",
-            ru:"What is the Russian for ` PYJAMAS / пижАмас / ` ? "
+            eng:"Как по-английски сказать ` пижама` ?",
+            ru:"What is the Russian for ` PYJAMAS / пижАмас /` ?"
             },
             {
             id:66,
             eng:"What color is your winter hat?",
-            ru:"Какого цвета ваша зимняя шапка?  "
+            ru:"Какого цвета ваша зимняя шапка? "
             },
             {
             id:67,
             eng:"How often do you wear a wool hat?",
-            ru:"Как часто вы носите шерстяную или вязанную шапку?  "
+            ru:"Как часто вы носите шерстяную или вязанную шапку? "
             },
             {
             id:68,
             eng:"Do you have clothes with the hood?",
-            ru:"У вас есть одежда с капюшоном?  "
+            ru:"У вас есть одежда с капюшоном? "
             },
             {
             id:69,
             eng:"In what sports do people need to wear a helmet?",
-            ru:"В каких видах спорта людям нужно шлем?  "
+            ru:"В каких видах спорта людям нужно шлем? "
             },
             {
             id:70,
             eng:"What does a king usually have on his head?",
-            ru:"Что обычно носит король на голове? "
+            ru:"Что обычно носит король на голове?"
             },
             {
             id:71,
             eng:"What does a queen usually have on her head?",
-            ru:"Что обычно носит королева на голове?  "
+            ru:"Что обычно носит королева на голове? "
             },
             {
             id:72,
             eng:"Does anybody in your family wear glasses or contact lenses? Who?",
-            ru:"Кто-нибудь из вашей семьи носит очки или контактные линзы? Кто?  "
+            ru:"Кто-нибудь из вашей семьи носит очки или контактные линзы? Кто? "
             },
             {
             id:73,
             eng:"How many pairs of sunglasses do you have?",
-            ru:"Сколько у вас пар солнцезащитных очков?  "
+            ru:"Сколько у вас пар солнцезащитных очков? "
             },
             {
             id:74,
             eng:"Do you like to wear a scarf?",
-            ru:"Вам нравится носить шарф?  "
+            ru:"Вам нравится носить шарф? "
             },
             {
             id:75,
             eng:"Can you tie a tie?",
-            ru:"Умеете ли вы завязывать галстук?  "
+            ru:"Умеете ли вы завязывать галстук? "
             },
             {
             id:76,
             eng:"Do you like when a man wears a tie?",
-            ru:"Вам нравится, когда мужчина носит галстук?  "
+            ru:"Вам нравится, когда мужчина носит галстук? "
             },
             {
             id:77,
             eng:"How often do you wear a suit?",
-            ru:"Как часто вы носите костюм?  "
+            ru:"Как часто вы носите костюм? "
             },
             {
             id:78,
             eng:"Do you like to wear a shirt with a tie or without a tie?",
-            ru:"Вам нравится носить рубашку с галстуком или без галстука?  "
+            ru:"Вам нравится носить рубашку с галстуком или без галстука? "
             },
             {
             id:79,
             eng:"How many rings are you wearing now? How many rings do you have in general?",
-            ru:"Сколько колец на вас прямо сейчас надето? Сколько колец у вас вообще есть?  "
+            ru:"Сколько колец на вас прямо сейчас надето? Сколько колец у вас вообще есть? "
             },
             {
             id:80,
             eng:"Do you have earings in your ears?",
-            ru:"У вас есть серьги в ушах?  "
+            ru:"У вас есть серьги в ушах? "
             },
             {
             id:81,
             eng:"Is it sexy when a woman wears a tie?",
-            ru:"Считаете ли вы сексуальным, когда женщина носит галстук?  "
+            ru:"Считаете ли вы сексуальным, когда женщина носит галстук? "
             },
             {
             id:82,
             eng:"Does your backpack have English words on it?",
-            ru:"На вашем рюкзаке есть английские слова?  "
+            ru:"На вашем рюкзаке есть английские слова? "
             },
             {
             id:83,
             eng:"Do you wear a watch on the left or right hand?",
-            ru:"Вы носите часы на левой или правой руке?  "
+            ru:"Вы носите часы на левой или правой руке? "
             },
             {
             id:84,
             eng:"Do you have a plastic bag for other plastic bags at home?",
-            ru:"У вас есть пластиковый пакет для других пластиковых пакетов дома?  "
+            ru:"У вас есть пластиковый пакет для других пластиковых пакетов дома? "
             },
             {
             id:85,
             eng:"Do you wear a necklace? Maybe a cross with Jesus?",
-            ru:"Вы носите что-нибудь на шее? Может быть, крестик с Иисусом?  "
+            ru:"Вы носите что-нибудь на шее? Может быть, крестик с Иисусом? "
             },
             {
             id:86,
             eng:"When do people usually wear mittens and gloves?",
-            ru:"Когда люди обычно носят варежки и перчатки?  "
+            ru:"Когда люди обычно носят варежки и перчатки? "
             },
             {
             id:87,
             eng:"What are you wearing now? Tell about all clothes that are on you.",
-            ru:"Что вы сейчас носите? Что на вас надето? Расскажите о всей одежде, которая на вас.  "
+            ru:"Что вы сейчас носите? Что на вас надето? Расскажите о всей одежде, которая на вас. "
             },
             {
             id:88,
             eng:"How often do you carry a backpack with you?",
-            ru:"Как часто вы носите рюкзак с собой?  "
+            ru:"Как часто вы носите рюкзак с собой? "
             },
             {
             id:89,
             eng:"What is more comfortable for you: shirts or t-shirts?",
-            ru:"Что для вас удобнее: рубашки или футболки?  "
+            ru:"Что для вас удобнее: рубашки или футболки? "
             },
             {
             id:90,
             eng:"How many white shirts do you have?",
-            ru:"Сколько у вас белых рубашек? "
+            ru:"Сколько у вас белых рубашек?"
             },
             {
             id:91,
             eng:"What color is your swimming suit?",
-            ru:"Какого цвета ваш купальник?  "
+            ru:"Какого цвета ваш купальник? "
             },
             {
             id:92,
             eng:"Do you have a special classical suit for important meetings?",
-            ru:"У вас есть особый классический костюм для важных встреч?  "
+            ru:"У вас есть особый классический костюм для важных встреч? "
             },
             {
             id:93,
             eng:"Where can people find a life-vest when they fly on a plane?",
-            ru:"Где люди могут найти спасательный жилет, когда летят на самолете?  "
+            ru:"Где люди могут найти спасательный жилет, когда летят на самолете? "
             },
             {
             id:94,
             eng:"What color is your jacket? Do you remember the name of the brand?",
-            ru:"Какого цвета ваша куртка? Вы помните название бренда?  "
+            ru:"Какого цвета ваша куртка? Вы помните название бренда? "
             },
             {
             id:95,
             eng:"What are your favorite clothes? You can choose only 4",
-            ru:"Какая ваша любимая одежда? Вы можете выбрать только 4.  "
+            ru:"Какая ваша любимая одежда? Вы можете выбрать только 4. "
             },
             {
             id:96,
             eng:"Do you have a fur coat? Do you remember the name of the animal it is made of?",
-            ru:"У вас есть шуба из меха? Вы помните, из какого животного она сделана?  "
+            ru:"У вас есть шуба из меха? Вы помните, из какого животного она сделана? "
             },
             {
             id:97,
             eng:"How many sweaters do you have?",
-            ru:"Сколько свитеров у вас есть?  "
+            ru:"Сколько свитеров у вас есть? "
             },
             {
             id:98,
             eng:"Is it cold in your city in winter? Do I need warm clothes if I visit you?",
-            ru:"В вашем городе холодно зимой? Мне нужна теплая одежда, если я к тебе приеду?  "
+            ru:"В вашем городе холодно зимой? Мне нужна теплая одежда, если я к тебе приеду? "
             },
             {
             id:99,
             eng:"Do you like t-shirts with pictures or without pictures?",
-            ru:"Вам нравятся футболки с картинками или без картинок?  "
+            ru:"Вам нравятся футболки с картинками или без картинок? "
             },
             {
             id:100,
             eng:"Does a woman look attractive when she weears a skirt and high heels?",
-            ru:"Женщина выглядит привлекательно, когда носит юбку и высокие каблуки?  "
+            ru:"Женщина выглядит привлекательно, когда носит юбку и высокие каблуки? "
             },
             {
             id:101,
             eng:"Does anybody in our class have a bra?",
-            ru:"Есть ли у кого-нибудь в нашем классе бюстгальтер?  "
+            ru:"Есть ли у кого-нибудь в нашем классе бюстгальтер? "
             },
             {
             id:102,
             eng:"How many buttons do you have on your clothes right now?",
-            ru:"Сколько пуговиц у вас на одежде прямо сейчас?  "
+            ru:"Сколько пуговиц у вас на одежде прямо сейчас? "
             },
             {
             id:103,
             eng:"What do you say to a person whose pants are undone?",
-            ru:"Что вы говорите человеку у которого расстегнуты штаны? "
+            ru:"Что вы говорите человеку у которого расстегнуты штаны?"
             },
             {
             id:104,
             eng:"Whaе is the English for 'собачка на молнии'?",
-            ru:"Как по-английски сказать 'zipper'? "
+            ru:"Как по-английски сказать 'zipper'?"
             },
             {
             id:105,
             eng:"How many belts do you have?",
-            ru:"Сколько у тебя ремней? "
+            ru:"Сколько у тебя ремней?"
             },
             {
             id:106,
             eng:"What color is your underwear now? Do you have it?",
-            ru:"Какого цвета нижнее бельё на вас сейчас? "
+            ru:"Какого цвета нижнее бельё на вас сейчас?"
             },
             {
             id:107,
             eng:"Do you wear warm underwear in winter?",
-            ru:"Вы носите термобельё зимой? "
+            ru:"Вы носите термобельё зимой?"
             },
             {
             id:108,
             eng:"Are you wearing pants now?",
-            ru:"На вас сейчас штаны надеты? "
+            ru:"На вас сейчас штаны надеты?"
             },
             {
             id:109,
             eng:"Do you like jeans or trousers more?",
-            ru:"Вам больше нравятся брюки или джинсы? "
+            ru:"Вам больше нравятся брюки или джинсы?"
             },
             {
             id:110,
             eng:"When do people wear a shirt and shorts?",
-            ru:"Когда люди обычно носят рубашку и шорты? "
+            ru:"Когда люди обычно носят рубашку и шорты?"
             },
             {
             id:111,
             eng:"What color are your favorite shoes?",
-            ru:"Какого цвета твоя любимая обувь? "
+            ru:"Какого цвета твоя любимая обувь?"
             },
             {
             id:112,
             eng:"Does your girlfriend wear high heels?",
-            ru:"Твоя девушка носит туфли на высоком каблуке? "
+            ru:"Твоя девушка носит туфли на высоком каблуке?"
             },
             {
             id:113,
             eng:"Do you like boots or sneakers more?",
-            ru:"Тебе больше нравятся сапоги или кроссовки? "
+            ru:"Тебе больше нравятся сапоги или кроссовки?"
             },
             {
             id:114,
             eng:"What do you put on when you go to the GYM?",
-            ru:"Что ты надеваешь, когда идешь в спортзал? "
+            ru:"Что ты надеваешь, когда идешь в спортзал?"
             },
             {
             id:115,
             eng:"What does a man wear when he goes to a restaurant?",
-            ru:"Что носит мужчина, когда идет в ресторан? "
+            ru:"Что носит мужчина, когда идет в ресторан?"
             },
             {
             id:116,
             eng:"What do you wear when you go to a romantic dinner?",
-            ru:"Что ты надеваешь, когда идешь на романтический ужин? "
+            ru:"Что ты надеваешь, когда идешь на романтический ужин?"
             },
             {
             id:117,
             eng:"What color are your slippers?",
-            ru:"Какого цвета твои тапочки? "
+            ru:"Какого цвета твои тапочки?"
             },
             {
             id:118,
             eng:"What color are your flip-flops?",
-            ru:"Какого цвета твои шлепанцы? "
+            ru:"Какого цвета твои шлепанцы?"
             },
             {
             id:119,
             eng:"Do you always wear the same color socks or sometimes one sock is black and one is brown?",
-            ru:"Всегда ли ты носишь одноцветные носки или иногда одна носка черная, а другая коричневая? "
+            ru:"Всегда ли ты носишь одноцветные носки или иногда одна носка черная, а другая коричневая?"
             },
             {
             id:120,
             eng:"Do you like to tuck your shirt in pants or you prefer not to tuck it.",
-            ru:"Тебе нравится заправлять рубашку в брюки или ты предпочитаешь не заправлять ее? "
+            ru:"Тебе нравится заправлять рубашку в брюки или ты предпочитаешь не заправлять ее?"
             },
             {
             id:121,
             eng:"How much money do people usually spend on clothes in one year?",
-            ru:"Сколько денег люди обычно тратят на одежду в год? "
+            ru:"Сколько денег люди обычно тратят на одежду в год?"
             },
             {
             id:122,
             eng:"What clothes does your teacher like to wear?",
-            ru:"Какую одежду носит твой учитель? "
+            ru:"Какую одежду носит твой учитель?"
             },
             {
             id:123,
             eng:"How many pairs of shoes do you have?",
-            ru:"Сколько пар обуви у тебя есть? "
+            ru:"Сколько пар обуви у тебя есть?"
             },
             {
             id:124,
             eng:"Do you like shopping for new clothes?",
-            ru:"Тебе нравится ходить по магазинам за новой одеждой? "
+            ru:"Тебе нравится ходить по магазинам за новой одеждой?"
             },
             {
             id:125,
             eng:"How often do you buy new clothes?",
-            ru:"Как часто ты покупаешь новую одежду? "
+            ru:"Как часто ты покупаешь новую одежду?"
             },
             {
             id:126,
             eng:"How do you usually buy clothes? On-line or go to the shop?",
-            ru:"Как обычно ты покупаешь одежду? Онлайн или ходишь в магазин? "
+            ru:"Как обычно ты покупаешь одежду? Онлайн или ходишь в магазин?"
             },
             {
             id:127,
             eng:"Can men wear skirts? Is it okay for you?",
-            ru:"Могут ли мужчины носить юбки? Тебе это нормально? "
+            ru:"Могут ли мужчины носить юбки? Тебе это нормально?"
             },
             {
             id:128,
             eng:"How many pairs of shorts do you have?",
-            ru:"Сколько пар шорт у тебя есть? "
+            ru:"Сколько пар шорт у тебя есть?"
             },
             {
             id:129,
             eng:"Whydo people read fashion magazines? Do you follow fashion?",
-            ru:"Почему люди читают модные журналы? Ты следишь за модой? "
+            ru:"Почему люди читают модные журналы? Ты следишь за модой?"
             },
             {
             id:130,
             eng:"How often do you wear rings?",
-            ru:"Как часто ты носишь кольца? "
+            ru:"Как часто ты носишь кольца?"
             },
             {
             id:131,
             eng:"How often do you wear bracelets?",
-            ru:"Как часто ты носишь браслеты? "
+            ru:"Как часто ты носишь браслеты?"
             },
             {
             id:132,
             eng:"Is it okay to wear the same clothes every day?",
-            ru:"нормально ли носить одну и туже одежду каждый день? "
+            ru:"нормально ли носить одну и туже одежду каждый день?"
             },
             {
             id:133,
             eng:"What is the best combination of colors to put on?",
-            ru:"Какая комбинация цветов одежды лучше всего выглядит? "
+            ru:"Какая комбинация цветов одежды лучше всего выглядит?"
             },
             {
             id:134,
             eng:"Do you have any clothes from your elder brothers or sisters?",
-            ru:"У тебя есть одежда от старших братьев или сестер? "
+            ru:"У тебя есть одежда от старших братьев или сестер?"
             },
             {
             id:135,
             eng:"Do you have funny clothes? Maybe with funny pictures or words?",
-            ru:"У тебя есть забавная одежда? Может быть с забавными картинками или надписями? "
+            ru:"У тебя есть забавная одежда? Может быть с забавными картинками или надписями?"
             },
             {
             id:136,
             eng:"What colors do you think look good on you?",
-            ru:"Какие цвета, по-твоему, тебе идут? "
+            ru:"Какие цвета, по-твоему, тебе идут?"
             },
             {
             id:137,
             eng:"What colors do you think look good on your mother?",
-            ru:"Какие цвета, по-твоему, хорошо смотрятся на твоей маме? "
+            ru:"Какие цвета, по-твоему, хорошо смотрятся на твоей маме?"
             },
             {
             id:138,
             eng:"Does any of your friends wear unusual color of hair?",
-            ru:"У твоих друзей кто-нибудь красит волосы в необычный цвет? "
+            ru:"У твоих друзей кто-нибудь красит волосы в необычный цвет?"
             },
             {
             id:139,
             eng:"What size of clothes do you wear? XS, S, M, L or XL ?",
-            ru:"Какой размер одежды ты носишь? XS, S, M, L или XL? "
+            ru:"Какой размер одежды ты носишь? XS, S, M, L или XL?"
             },
             {
             id:140,
             eng:"What is your shoe size?",
-            ru:"Какой у тебя размер обуви? "
+            ru:"Какой у тебя размер обуви?"
             },
             {
             id:141,
             eng:"What is the name of your favorite clothes shop?",
-            ru:"Как называется твой любимый магазин одежды? "
+            ru:"Как называется твой любимый магазин одежды?"
             },
             {
             id:142,
             eng:"Is your teacher a super-model?",
-            ru:"Твой учитель - супермодель? "
+            ru:"Твой учитель - супермодель?"
             },
             {
             id:143,
             eng:"Do you like long dresses or short dresses?",
-            ru:"Тебе нравятся длинные платья или короткие? "
+            ru:"Тебе нравятся длинные платья или короткие?"
             },
             {
             id:144,
             eng:"Is it okay for children to wear mini-skirts?",
-            ru:"Можно ли детям носить мини-юбки? "
+            ru:"Можно ли детям носить мини-юбки?"
             },
             {
             id:145,
             eng:"Can you take off your clothes now? (please, don't do it!)",
-            ru:"Ты можешь снять свою одежду сейчас? (пожалуйста, не делай это!) "
+            ru:"Ты можешь снять свою одежду сейчас? (пожалуйста, не делай это!)"
             },
             {
             id:146,
             eng:"What do you recommend me to put on if I go to a romantic dinner with Vincent?",
-            ru:"Что ты рекомендуешь мне надеть, если я пойду на романтический ужин с Винсентом? "
+            ru:"Что ты рекомендуешь мне надеть, если я пойду на романтический ужин с Винсентом?"
             },
             {
             id:147,
             eng:"Do you have tattoos? What and where is it?",
-            ru:"У тебя есть татуировки? Что и где они находятся? "
+            ru:"У тебя есть татуировки? Что и где они находятся?"
             },
             {
             id:148,
             eng:"Do you know someone with a tattoo?",
-            ru:"Ты знаешь кого-то с татуировкой? "
+            ru:"Ты знаешь кого-то с татуировкой?"
             },
             {
             id:149,
             eng:"Does your child have a tattoo 'I LOVE MOTHER'? Do you have this tattoo?",
-            ru:"У твоего ребенка есть татуировка 'Я ЛЮБЛЮ МАМУ'? У тебя есть такая татуировка? "
+            ru:"У твоего ребенка есть татуировка 'Я ЛЮБЛЮ МАМУ'? У тебя есть такая татуировка?"
             },
             {
             id:150,
             eng:"How often do you wear make up?",
-            ru:"Как часто ты носишь макияж? "
+            ru:"Как часто ты носишь макияж?"
             },
             {
             id:151,
             eng:"When is the best time to go to a shop and buy clothes?",
-            ru:"Когда лучшее время пойти в магазин и купить одежду? "
+            ru:"Когда лучшее время пойти в магазин и купить одежду?"
             },
             {
             id:152,
             eng:"Is it okay for men to wear earrings?",
-            ru:"Можно ли мужчинам носить серьги? "
+            ru:"Можно ли мужчинам носить серьги?"
             },
             {
             id:153,
             eng:"Do men wear make-up sometimes?",
-            ru:"Бывает ли, что мужчины наносят макияж? "
+            ru:"Бывает ли, что мужчины наносят макияж?"
             },
             {
             id:154,
             eng:"I like your clothes! Where did you buy it?",
-            ru:"Мне нравится твоя одежда! Где ты ее купил? "
+            ru:"Мне нравится твоя одежда! Где ты ее купил?"
             },
             {
             id:155,
             eng:"What brands of clothes are very expensive?",
-            ru:"Какие бренды одежды очень дорогие? "
+            ru:"Какие бренды одежды очень дорогие?"
             },
             {
             id:156,
             eng:"Are you a shopaholic?",
-            ru:"Ты шопоголик? "
+            ru:"Ты шопоголик?"
             },
     ],
 
