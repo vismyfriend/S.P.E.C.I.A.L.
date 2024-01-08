@@ -1,5 +1,1534 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
+
+    clothes03: [
+        {
+            id:1,
+            eng:"a hat /хЭт/",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat /вул/",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood /худ/",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet /хЭлмэт/",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown /крАун/",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap /кЭп/",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses ",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses /лЭнzЭz/",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf /скаф/",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie /тАй/",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow /бАу/",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses ",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories /эксЭсориз/",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring /э ринг/",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring /иЭринг/",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet /рЭйслет/",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack /бЭкпэк/",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches /уОчез/",
+            ru:"наручные часы"
+            },
+    ],
+    clothes02: [
+        {
+            id:1,
+            eng:"a hat /хЭт/",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat /вул/",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood /худ/",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet /хЭлмэт/",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown /крАун/",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap /кЭп/",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses ",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses /лЭнzЭz/",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf /скаф/",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie /тАй/",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow /бАу/",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses ",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories /эксЭсориз/",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring /э ринг/",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring /иЭринг/",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet /рЭйслет/",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack /бЭкпэк/",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches /уОчез/",
+            ru:"наручные часы"
+            },
+    ],
+    clothes01: [
+        {
+            id:1,
+            eng:"a hat /хЭт/",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat /вул/",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood /худ/",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet /хЭлмэт/",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown /крАун/",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap /кЭп/",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses ",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses /лЭнzЭz/",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf /скаф/",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie /тАй/",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow /бАу/",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses ",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories /эксЭсориз/",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring /э ринг/",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring /иЭринг/",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet /рЭйслет/",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack /бЭкпэк/",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches /уОчез/",
+            ru:"наручные часы"
+            },
+    ],
+    clothes: [
+        {
+            id: 1,
+            eng: "a hat ",
+            ru: "головной убор, шапка, шляпа"
+        },
+        {
+            id: 2,
+            eng: "a wool hat /вул/",
+            ru: "шерстянная вязанная шапка"
+        },
+        {
+            id: 3,
+            eng: "a hood /худ/",
+            ru: "капюшон"
+        },
+        {
+            id: 4,
+            eng: "a helmet ",
+            ru: "шлем"
+        },
+        {
+            id: 5,
+            eng: "a crown /крАун/",
+            ru: "корона"
+        },
+        {
+            id: 6,
+            eng: "a cap /кЭп/",
+            ru: "кепка"
+        },
+        {
+            id: 7,
+            eng: "sunglasses ",
+            ru: "солнцезащитные очкм"
+        },
+        {
+            id: 8,
+            eng: "lenses ",
+            ru: "линзы"
+        },
+        {
+            id: 9,
+            eng: "a scarf /скаф/",
+            ru: "шарф"
+        },
+        {
+            id: 10,
+            eng: "a tie /тАй/",
+            ru: "галстук"
+        },
+        {
+            id: 11,
+            eng: "a bow /бАу/",
+            ru: "бант, галстук-бабочка"
+        },
+        {
+            id: 12,
+            eng: "glasses ",
+            ru: "очки"
+        },
+        {
+            id: 13,
+            eng: "accessories /эксЭсориз/",
+            ru: "аксессуары"
+        },
+        {
+            id: 14,
+            eng: "a ring ",
+            ru: "кольцо"
+        },
+        {
+            id: 15,
+            eng: "an earring /иЭринг/",
+            ru: "серьга"
+        },
+        {
+            id: 16,
+            eng: "a bracelet /рЭйслет/",
+            ru: "браслет"
+        },
+        {
+            id: 17,
+            eng: "a backpack /бЭкпэк/",
+            ru: "рюкзак"
+        },
+        {
+            id: 18,
+            eng: "watches /уОчез/",
+            ru: "наручные часы"
+        },
+        {
+            id: 19,
+            eng: "a bag /бЭг/",
+            ru: "сумка"
+        },
+        {
+            id: 20,
+            eng: "a purse /пёс/",
+            ru: "сумочка дамская"
+        },
+        {
+            id: 21,
+            eng: "a plastic bag ",
+            ru: "пластиковый пакет"
+        },
+        {
+            id: 22,
+            eng: "a necklace /нЭклэс/",
+            ru: "любое украшение на шее"
+        },
+        {
+            id: 23,
+            eng: "mittens on a rope /рОУП/",
+            ru: "варежки на верёвочке"
+        },
+        {
+            id: 24,
+            eng: "a top ",
+            ru: "верх"
+        },
+        {
+            id: 25,
+            eng: "a shirt  /щёрт/",
+            ru: "рубашка"
+        },
+        {
+            id: 26,
+            eng: "a t-shirt  /ти-щёрт/",
+            ru: "футболка"
+        },
+        {
+            id: 27,
+            eng: "a suit /сют/",
+            ru: "костюм"
+        },
+        {
+            id: 28,
+            eng: "a vest ",
+            ru: "жилетка"
+        },
+        {
+            id: 29,
+            eng: "a jacket ",
+            ru: "пиджак, куртка"
+        },
+        {
+            id: 30,
+            eng: "a coat /кОут/",
+            ru: "пальто"
+        },
+        {
+            id: 31,
+            eng: "a fur coat /фё коут/",
+            ru: "шуба"
+        },
+        {
+            id: 32,
+            eng: "a sweater ",
+            ru: "кофта, свитер"
+        },
+        {
+            id: 33,
+            eng: "long sleeves ",
+            ru: "длинные рукава"
+        },
+        {
+            id: 34,
+            eng: "a blouse /блАуз/",
+            ru: "чёт женское"
+        },
+        {
+            id: 35,
+            eng: "a skirt /скёрт/",
+            ru: "юбка"
+        },
+        {
+            id: 36,
+            eng: "a bra ",
+            ru: "бюстгалтер"
+        },
+        {
+            id: 37,
+            eng: "straps /стрЭпс/",
+            ru: "лямки, ремешки"
+        },
+        {
+            id: 38,
+            eng: "buttons /батэнз/",
+            ru: "пуговицы"
+        },
+        {
+            id: 39,
+            eng: "a zipper ",
+            ru: "собачка на молнии"
+        },
+        {
+            id: 40,
+            eng: "a belt /бэлт/",
+            ru: "ремень"
+        },
+        {
+            id: 41,
+            eng: "underwear /АндэуЭэ/",
+            ru: "нижн. белье"
+        },
+        {
+            id: 42,
+            eng: "warm underwear  /уОм АндэуЭэ/",
+            ru: "термобельё"
+        },
+        {
+            id: 43,
+            eng: "pants /пЭнтс/",
+            ru: "любые штаны можно так назвать"
+        },
+        {
+            id: 44,
+            eng: "under pants /пЭнтс/",
+            ru: "трусишки, трусики, трусы, плавки"
+        },
+        {
+            id: 45,
+            eng: "jeans  ",
+            ru: "джинсы"
+        },
+        {
+            id: 46,
+            eng: "trousers /трАуzэz/",
+            ru: "брюки"
+        },
+        {
+            id: 47,
+            eng: "shorts /шортс/",
+            ru: "шортики"
+        },
+        {
+            id: 48,
+            eng: "shoes /шуз/",
+            ru: "любая обувь & конкретно туфли"
+        },
+        {
+            id: 49,
+            eng: "high heels /хай хилз/",
+            ru: "высокие каблуки (дословно пятки)"
+        },
+        {
+            id: 50,
+            eng: "boots /бутс/",
+            ru: "ботинки, сапоги"
+        },
+        {
+            id: 51,
+            eng: "trainers or sneakers ",
+            ru: "кеды, кроссовки"
+        },
+        {
+            id: 52,
+            eng: "slippers /слиперз/",
+            ru: "тапочки и носочки"
+        },
+        {
+            id: 53,
+            eng: "flip-flops ",
+            ru: "шлёпки, шлёпанцы, тапки"
+        },
+        {
+            id: 54,
+            eng: "socks ",
+            ru: "носки"
+        },
+        {
+            id: 55,
+            eng: "tuck your clothes in /так/",
+            ru: "заправь одежду"
+        },
+        {
+            id: 56,
+            eng: "clothes /клОуз/",
+            ru: "одежда"
+        },
+        {
+            id: 57,
+            eng: "put on ",
+            ru: "надевать"
+        },
+        {
+            id: 58,
+            eng: "take off ",
+            ru: "снимать"
+        },
+        {
+            id: 59,
+            eng: "do and undo ",
+            ru: "застегнуть и расстегнуть"
+        },
+        {
+            id: 60,
+            eng: "carry /кЭри/",
+            ru: "нести в руках"
+        },
+        {
+            id: 61,
+            eng: "wear /уЭэ/",
+            ru: "носить, одевать"
+        },
+        {
+            id: 62,
+            eng: "undone ",
+            ru: "расстегнутый"
+        },
+        {
+            id: 63,
+            eng: "your zip is undone ",
+            ru: "у вас молния расстегнута"
+        },
+        {
+            id: 64,
+            eng: "stockings /стокингз/",
+            ru: "чулки"
+        },
+    ],
+
+    mission2a2time: [
+        {
+            id: 1,
+            eng: "	at 14:30	",
+            ru: "	at half past two PM	"
+        },
+        {
+            id: 2,
+            eng: "	at 13:15	",
+            ru: "	at a quarter past one PM	"
+        },
+        {
+            id: 3,
+            eng: "	at 13:00	",
+            ru: "	at one PM	"
+        },
+        {
+            id: 4,
+            eng: "	at 00:00	",
+            ru: "	at twelve AM at midnight	"
+        },
+        {
+            id: 5,
+            eng: "	at 12:00	",
+            ru: "	at twelve PM at noon	"
+        },
+        {
+            id: 6,
+            eng: "	at 13:58	",
+            ru: "	at two to two PM	"
+        },
+        {
+            id: 7,
+            eng: "	at 21:00	",
+            ru: "	at nine PM	"
+        },
+        {
+            id: 8,
+            eng: "	at 23:30	",
+            ru: "	at half past eleven PM	"
+        },
+        {
+            id: 9,
+            eng: "	at 23:45	",
+            ru: "	at a quarter to midnight	"
+        },
+        {
+            id: 10,
+            eng: "	at 23:15	",
+            ru: "	at a quarter past eleven PM	"
+        },
+        {
+            id: 11,
+            eng: "	at 13:13	",
+            ru: "	at thirteen past one PM	"
+        },
+        {
+            id: 12,
+            eng: "	at 13:30	",
+            ru: "	at half past one PM	"
+        },
+        {
+            id: 13,
+            eng: "	at 01:30	",
+            ru: "	at half past one AM	"
+        },
+        {
+            id: 14,
+            eng: "	at 02:30	",
+            ru: "	at half past two AM	"
+        },
+        {
+            id: 15,
+            eng: "	at 01:15	",
+            ru: "	at a quarter past one AM	"
+        },
+        {
+            id: 16,
+            eng: "	at 01:00	",
+            ru: "	at one AM	"
+        },
+        {
+            id: 17,
+            eng: "	at 19:00	",
+            ru: "	at seven PM	"
+        },
+
+    ],
+    mission1a2time: [
+        {
+            id: 1,
+            ru: "	В полночь я сплю!	",
+            eng: "	I sleep at midnight!	"
+        },
+        {
+            id: 2,
+            ru: "	Это обалденное утро!	",
+            eng: "	It is an awesome morning!	"
+        },
+        {
+            id: 3,
+            ru: "	Добрый день.	",
+            eng: "	Good afternoon.	"
+        },
+        {
+            id: 4,
+            ru: "	Хорошего вам вечера	",
+            eng: "	Have a nice evening	"
+        },
+        {
+            id: 5,
+            ru: "	ноль часов, ноль минут	",
+            eng: "	00:00AM "
+        },
+        {
+            id: 6,
+            ru: "	двенадцать часов дня	",
+            eng: "	twelve pm	"
+        },
+        {
+            id: 7,
+            ru: "	двенадцать часов ночи	",
+            eng: "	12 am	"
+        },
+        {
+            id: 8,
+            ru: "	в полночь	",
+            eng: "	at midnight	"
+        },
+        {
+            id: 9,
+            ru: "	днем	",
+            eng: "	in the afternoon	"
+        },
+        {
+            id: 10,
+            ru: "	утром	",
+            eng: "	in the morning	"
+        },
+        {
+            id: 11,
+            ru: "	вечером	",
+            eng: "	in the evening	"
+        },
+        {
+            id: 12,
+            ru: "	ночью	",
+            eng: "	at night	"
+        },
+        {
+            id: 13,
+            ru: "	в полдень	",
+            eng: "	at noon	"
+        },
+        {
+            id: 14,
+            ru: "	пол второго	",
+            eng: "	half past one	"
+        },
+        {
+            id: 15,
+            ru: "	пол девятого	",
+            eng: "	half past eight	"
+        },
+        {
+            id: 16,
+            ru: "	пол деcятого	",
+            eng: "	half past nine	"
+        },
+        {
+            id: 17,
+            ru: "	eleven thirty	",
+            eng: "	half past eleven	"
+        },
+        {
+            id: 18,
+            ru: "	без 20 девять	",
+            eng: "	twenty to nine	"
+        },
+        {
+            id: 19,
+            ru: "	без пятнадцати четыре	",
+            eng: "	a quarter to four	"
+        },
+        {
+            id: 20,
+            ru: "	без двух минут час	",
+            eng: "	two minutes to two	"
+        },
+        {
+            id: 21,
+            ru: "	пятнадцать минут пятого	",
+            eng: "	a quarter past four	"
+        },
+        {
+            id: 22,
+            ru: "	пятнадцать пятнадцать	",
+            eng: "	it is three fifteen	"
+        },
+        {
+            id: 23,
+            ru: "	Двадцать ноль ноль	",
+            eng: "	it is 8 PM	"
+        },
+        {
+            id: 24,
+            ru: "	Десять ноль одна	",
+            eng: "	ten o one (Или one past ten)	"
+        },
+        {
+            id: 25,
+            ru: "	Восемь часов, тринадцать минут	",
+            eng: "	thirteen past eight	"
+        },
+        {
+            id: 26,
+            ru: "	Приходите в 2 часа	",
+            eng: "	Come at 2 o'clock	"
+        },
+        {
+            id: 27,
+            ru: "	Перезвоните после обеда",
+            eng: "	call back after lunch	"
+        },
+        {
+            id: 28,
+            ru: "	До обеда пожалуйста сделайте это	",
+            eng: "	do it before lunch, please	"
+        },
+        {
+            id: 29,
+            ru: "	Через 10 минут	",
+            eng: "	in 10 minutes	"
+        },
+        {
+            id: 30,
+            ru: "	в 10 часов и 10 минут	",
+            eng: "	at Ten Ten (Или at ten past ten)	"
+        },
+        {
+            id: 31,
+            ru: "	в 10 часов	",
+            eng: "	at ten o'clock	"
+        },
+        {
+            id: 32,
+            ru: "	через 2 часа	",
+            eng: "	in two hours	"
+        },
+        {
+            id: 33,
+            ru: "	60 минут это один час	",
+            eng: "	60 minutes…. it is an hour	"
+        },
+
+    ],
+    t: [
+        {
+            id: 1,
+            ru: "	В полночь я сплю!	",
+            eng: "	I sleep at midnight!	"
+        },
+        {
+            id: 2,
+            ru: "	Это обалденное утро!	",
+            eng: "	It is an awesome morning!	"
+        },
+        {
+            id: 3,
+            ru: "	Добрый день.	",
+            eng: "	Good afternoon.	"
+        },
+        {
+            id: 4,
+            ru: "	Хорошего вам вечера	",
+            eng: "	Have a nice evening	"
+        },
+        {
+            id: 5,
+            ru: "	ноль часов, ноль минут	",
+            eng: "	00:00AM "
+        },
+        {
+            id: 6,
+            ru: "	двенадцать часов дня	",
+            eng: "	twelve pm	"
+        },
+        {
+            id: 7,
+            ru: "	двенадцать часов ночи	",
+            eng: "	12 am	"
+        },
+        {
+            id: 8,
+            ru: "	в полночь	",
+            eng: "	at midnight	"
+        },
+        {
+            id: 9,
+            ru: "	днем	",
+            eng: "	in the afternoon	"
+        },
+        {
+            id: 10,
+            ru: "	утром	",
+            eng: "	in the morning	"
+        },
+        {
+            id: 11,
+            ru: "	вечером	",
+            eng: "	in the evening	"
+        },
+        {
+            id: 12,
+            ru: "	ночью	",
+            eng: "	at night	"
+        },
+        {
+            id: 13,
+            ru: "	в полдень	",
+            eng: "	at noon	"
+        },
+        {
+            id: 14,
+            ru: "	пол второго	",
+            eng: "	half past one	"
+        },
+        {
+            id: 15,
+            ru: "	пол девятого	",
+            eng: "	half past eight	"
+        },
+        {
+            id: 16,
+            ru: "	пол деcятого	",
+            eng: "	half past nine	"
+        },
+        {
+            id: 17,
+            ru: "	eleven thirty	",
+            eng: "	half past eleven	"
+        },
+        {
+            id: 18,
+            ru: "	без 20 девять	",
+            eng: "	twenty to nine	"
+        },
+        {
+            id: 19,
+            ru: "	без пятнадцати четыре	",
+            eng: "	a quarter to four	"
+        },
+        {
+            id: 20,
+            ru: "	без двух минут час	",
+            eng: "	two minutes to two	"
+        },
+        {
+            id: 21,
+            ru: "	пятнадцать минут пятого	",
+            eng: "	a quarter past four	"
+        },
+        {
+            id: 22,
+            ru: "	пятнадцать пятнадцать	",
+            eng: "	it is three fifteen	"
+        },
+        {
+            id: 23,
+            ru: "	Двадцать ноль ноль	",
+            eng: "	it is 8 PM	"
+        },
+        {
+            id: 24,
+            ru: "	Десять ноль одна	",
+            eng: "	ten o one (Или one past ten)	"
+        },
+        {
+            id: 25,
+            ru: "	Восемь часов, тринадцать минут	",
+            eng: "	thirteen past eight	"
+        },
+        {
+            id: 26,
+            ru: "	Приходите в 2 часа	",
+            eng: "	Come at 2 o'clock	"
+        },
+        {
+            id: 27,
+            ru: "	Перезвоните после обеда",
+            eng: "	call back after lunch	"
+        },
+        {
+            id: 28,
+            ru: "	До обеда пожалуйста сделайте это	",
+            eng: "	do it before lunch, please	"
+        },
+        {
+            id: 29,
+            ru: "	Через 10 минут	",
+            eng: "	in 10 minutes	"
+        },
+        {
+            id: 30,
+            ru: "	в 10 часов и 10 минут	",
+            eng: "	at Ten Ten (Или at ten past ten)	"
+        },
+        {
+            id: 31,
+            ru: "	в 10 часов	",
+            eng: "	at ten o'clock	"
+        },
+        {
+            id: 32,
+            ru: "	через 2 часа	",
+            eng: "	in two hours	"
+        },
+        {
+            id: 33,
+            ru: "	60 минут это один час	",
+            eng: "	60 minutes…. it is an hour	"
+        },
+
+    ],
+  
+    travel: [
+        {
+            id: 1,
+            ru: "	Какую страну ты хочешь посетить и почему?	",
+            eng: "	What country do you want to Visit and why?	"
+        },
+        {
+            id: 2,
+            ru: "	Какую страну ты НЕ хочешь посетить?	",
+            eng: "	What country don't you want to Visit? Why?	"
+        },
+        {
+            id: 3,
+            ru: "	Антананариво - столица какой страны?	",
+            eng: "	Antananarivo is a capital of what country?	"
+        },
+        {
+            id: 4,
+            ru: "	Африка - это страна?	",
+            eng: "	Is Africa a country? 	"
+        },
+        {
+            id: 5,
+            ru: "	Сколько стран в Африке ты знаешь?	",
+            eng: "	How many countries in Africa do you know?	"
+        },
+        {
+            id: 6,
+            ru: "	Какая страна известна своими Кенгуру?	",
+            eng: "	What country is famous for its kangaroo?	"
+        },
+        {
+            id: 7,
+            ru: "	Какая страна известна своими винами?	",
+            eng: "	What country is famous for its wine?	"
+        },
+        {
+            id: 8,
+            ru: "	Какая страна известна своей популяцией?	",
+            eng: "	What country is famous for its population?	"
+        },
+        {
+            id: 9,
+            ru: "	Какая страна находится близко к твоей стране?	",
+            eng: "	What country is very close to your country?	"
+        },
+        {
+            id: 10,
+            ru: "	Какие страны посетила твоя семья?	",
+            eng: "	What countries did your family visit?	"
+        },
+        {
+            id: 11,
+            ru: "	Какой лучший способ путешествовать?	",
+            eng: "	What is the best way to travel?	"
+        },
+        {
+            id: 12,
+            ru: "	Сможешь назвать 2 страны на букву Z?	",
+            eng: "	Can you name 2 countries beginning with Z ?	"
+        },
+        {
+            id: 13,
+            ru: "	Сможешь назвать 3 страны на букву R?	",
+            eng: "	Can you name 3 countries beginning with R ?	"
+        },
+        {
+            id: 14,
+            ru: "	Знаешь что-нибудь про Северную Корею?	",
+            eng: "	Do you know anything about North Korea?	"
+        },
+        {
+            id: 15,
+            ru: "	Какая самая большая о площади страна?	",
+            eng: "	What is the biggest country in the world?	"
+        },
+        {
+            id: 16,
+            ru: "	Сколько текущих президентов ты сможешь назвать?	",
+            eng: "	How many current presidents can you name?	"
+        },
+        {
+            id: 17,
+            ru: "	Вы бы согласились выйти замуж за иностранца?	",
+            eng: "	Would you agree to marry a foreigner?	"
+        },
+        {
+            id: 18,
+            ru: "	Вы бы согласились съесть легушачьи лапки?	",
+            eng: "	Would you agree to eat frog legs in France?	"
+        },
+        {
+            id: 19,
+            ru: "	Вы бы попробовали наркотики в Амстердаме?	",
+            eng: "	Would you try drugs in Amsterdam?	"
+        },
+        {
+            id: 20,
+            ru: "	Вы бы согласились поехать вокруг света на машине?	",
+            eng: "	Would you agree to travel around the world by car?	"
+        },
+        {
+            id: 21,
+            ru: "	Вы знаете какие-нибудь интересные факты о странах?	",
+            eng: "	Do u know any interesting facts about any country? 	"
+        },
+
+    ],
+
+    m009: [
+        {
+            id: 1,
+            ru: "красивый",
+            eng: "handsome /хЭнсам/"
+        },
+        {
+            id: 2,
+            ru: "все (ударение на Э)",
+            eng: "everybody /Эврибади/"
+        },
+        {
+            id: 3,
+            ru: "Все люди",
+            eng: "all people /ол пипл/"
+        },
+        {
+            id: 4,
+            ru: "ставим is, если нет глагола",
+            eng: "после it,he,she"
+        },
+        {
+            id: 5,
+            ru: "ставим ARE, если нет глагола",
+            eng: "после you,we,they"
+        },
+        {
+            id: 6,
+            ru: " I am a secret agent",
+            eng: " Я - секретный агент"
+        },
+        {
+            id: 7,
+            ru: " Винсент мой друг",
+            eng: " Vismyfriend"
+        },
+        {
+            id: 8,
+            ru: " Я особенная",
+            eng: " I'm special"
+        },
+        {
+            id: 9,
+            ru: " I am special /спэшл/",
+            eng: " Я особенный"
+        },
+        {
+            id: 10,
+            ru: " You are special! /ю а спэшл/",
+            eng: " Вы - особенные!"
+        },
+        {
+            id: 11,
+            ru: " Я не ленивая z4dniцa",
+            eng: " I'm not a lazzy bOttom!"
+        },
+
+
+    ],
+
+    m008: [
+        {
+            id:33,
+            eng:"his /хиз/",
+            ru:"его"
+            },
+            {
+            id:34,
+            eng:"her /хё/",
+            ru:"её"
+            },
+            {
+            id:35,
+            eng:"our /аУа/",
+            ru:"наш, наша, наше, наши"
+            },
+            {
+            id:36,
+            eng:"I am ",
+            ru:"a student"
+            },
+            {
+            id:37,
+            eng:"we are ",
+            ru:"students"
+            },
+            {
+            id:38,
+            eng:"she is ",
+            ru:"my friend"
+            },
+            {
+            id:39,
+            eng:"в английских  предложениях всегда есть глагол: ",
+            ru:"либо мушкетёр Are,Am,is либо глагол действие "
+            },
+            {
+            id:40,
+            eng:"are, am, is ",
+            ru:"ставим когда нет глагола в русском переводе"
+            },
+            {
+            id:41,
+            eng:"I sleep 8 hours ",
+            ru:"я сплю восемь часов"
+            },
+            {
+            id:42,
+            eng:"he sleeps 9 hours ",
+            ru:"он спит 9 часов"
+            },
+            {
+            id:43,
+            eng:"прилагательные по-английски: ",
+            ru:"adjectives /Эджэктивз/ ударение на Э"
+            },
+            {
+            id:44,
+            eng:"когда в русском переводе у глагола окончание -ТЬ ",
+            ru:"в английском перед глаголом ставим 'to'"
+            },
+            {
+            id:45,
+            eng:"to sing a song ",
+            ru:"петь песню"
+            },
+            {
+            id:46,
+            eng:"we sing a song ",
+            ru:"мы поём песни"
+            },
+            {
+            id:47,
+            eng:"I want to hug you ",
+            ru:"я хочу обнять вас"
+            },
+            {
+            id:48,
+            eng:"I am smart ",
+            ru:"я сообразительная"
+            },
+            {
+            id:49,
+            eng:"I study English ",
+            ru:"я учу английский"
+            },
+            {
+            id:50,
+            eng:"I ",
+            ru:"am not ugly"
+            },
+            {
+            id:51,
+            eng:"I smoke ",
+            ru:"я курю"
+            },
+            {
+            id:52,
+            eng:"I don't smoke ",
+            ru:"я не курю"
+            },
+            {
+            id:53,
+            eng:"I am not silly ",
+            ru:"я не глуп"
+            },
+            {
+            id:54,
+            eng:"I drink with Vincent ",
+            ru:"я пью с Винченто"
+            },
+            {
+            id:55,
+            eng:"I don't drink tea with sugar ",
+            ru:"я непью чай с сахаром"
+            },
+            {
+            id:56,
+            eng:"I am here ",
+            ru:"я здесь"
+            },
+            {
+            id:57,
+            eng:"I am not here ",
+            ru:"меня здесь нет"
+            },
+            {
+            id:58,
+            eng:"I like Vincent ",
+            ru:"мне нравится вИнсент"
+            },
+            {
+            id:59,
+            eng:"I don't like Vincent ",
+            ru:"мне не нравится вИнсент"
+            },
+            {
+            id:60,
+            eng:"I have a cat ",
+            ru:"у меня есть кошка"
+            },
+            {
+            id:61,
+            eng:"I don't have a dog ",
+            ru:"у меня нет собаки"
+            },
+            {
+            id:62,
+            eng:"I have blue eyes ",
+            ru:"у меня голубые глаза"
+            },
+            {
+            id:63,
+            eng:"I don't have green eyes ",
+            ru:"у меня не зеленые глаза"
+            },
+            {
+            id:64,
+            eng:"I want to speak English ",
+            ru:"я хочу разговаривать на инглише"
+            },
+            {
+            id:65,
+            eng:"I want to hug you ",
+            ru:"хочу обнять тебя"
+            },
+            {
+            id:66,
+            eng:"We don't ",
+            ru:"live together /лив тугедэ/ живём вместе"
+            },
+            {
+            id:67,
+            eng:"He doesn't ",
+            ru:"live with me живёт со мной"
+            },
+
+
+    ],
+    m007: [
+        {
+            id:1,
+            eng:"every day / эври дэй /",
+            ru:"каждый день"
+            },
+            {
+            id:2,
+            eng:"usually / южали /",
+            ru:"обычно"
+            },
+            {
+            id:3,
+            eng:"usual / южал /",
+            ru:"обыный (прилагательное)"
+            },
+            {
+            id:4,
+            eng:"never /нЭвэ /",
+            ru:"никогда"
+            },
+            {
+            id:5,
+            eng:"sometimes / самтаймЗ /",
+            ru:"иногда"
+            },
+            {
+            id:6,
+            eng:"from time to time / фром тайм ту тайм/",
+            ru:"от времени к времени"
+            },
+            {
+            id:7,
+            eng:"not often / нат офэн /",
+            ru:"не часто"
+            },
+            {
+            id:8,
+            eng:"often /офэн или офтен/",
+            ru:"часто"
+            },
+            {
+            id:9,
+            eng:"not very often / нат вэри офтэн/",
+            ru:"не очень часто"
+            },
+            {
+            id:10,
+            eng:"once a day / уАнс э дэй /",
+            ru:"раз в день"
+            },
+            {
+            id:11,
+            eng:"once a week / уАнс э уик/",
+            ru:"раз в неделю"
+            },
+            {
+            id:12,
+            eng:"once a year / уАнс э Йиэ/",
+            ru:"раз в год"
+            },
+            {
+            id:13,
+            eng:"twice a day / твайс э дэй/",
+            ru:"дважды в день"
+            },
+            {
+            id:14,
+            eng:"twice a week / твайс э уик/",
+            ru:"дважды в неделю"
+            },
+            {
+            id:15,
+            eng:"every week / Эври уик/",
+            ru:"каждую неделю"
+            },
+            {
+            id:16,
+            eng:"once a month / уАнс э мАнth/",
+            ru:"раз в месяц"
+            },
+            {
+            id:17,
+            eng:"two times a month / ту таймz э мАнth/",
+            ru:"два раза в месяц"
+            },
+            {
+            id:18,
+            eng:"two times in life / ту таймz ин лАЙф/",
+            ru:"два раза за жизнь"
+            },
+            {
+            id:19,
+            eng:"three times a year / thри таймz э Йиэ/",
+            ru:"три раза в год"
+            },
+            {
+            id:20,
+            eng:"five days a week / файВ дэйz э уик/",
+            ru:"пять днеййй в неделю"
+            },
+            {
+            id:21,
+            eng:"every month / эври мАнth/",
+            ru:"каждый месяц"
+            },
+            {
+            id:22,
+            eng:"on Mondays / он мАндэйz/",
+            ru:"по понедельникам"
+            },
+            {
+            id:23,
+            eng:"on Tuesdays / он тьЮсдэйz/",
+            ru:"по вторникам"
+            },
+            {
+            id:24,
+            eng:"on Wednesdays / он уЭнсдэйz/",
+            ru:"по средам"
+            },
+            {
+            id:25,
+            eng:"on Thursdays / он thОсдэйz/",
+            ru:"по четвергам"
+            },
+            {
+            id:26,
+            eng:"on Fridays / он фрАйдэйz/",
+            ru:"по пятницам"
+            },
+            {
+            id:27,
+            eng:"on Saturdays / он сАтэдэйz/",
+            ru:"по субботам"
+            },
+            {
+            id:28,
+            eng:"on Sundays / он сАндэйz/",
+            ru:"по воскресеньям"
+            },
+            {
+            id:29,
+            eng:"every Wednesday / эври уЭнсдэй/",
+            ru:"каждую среду"
+            },
+            {
+            id:30,
+            eng:"seldom, rarely / сэлдом рЭАли/",
+            ru:"редко, изредка"
+            },
+
+
+    ],
+
+
     adjectivesbodya1: [
         {
             id: 58,
@@ -5506,8 +7035,316 @@ const allCardsGameFindAPair = {
             },
     ],
 
+    questions001: [
+        {
+            id:1,
+            eng:"When? /уэн/",
+            ru:"Когда?"
+            },
+            {
+            id:2,
+            eng:"Where? /уэ э/",
+            ru:"Где?"
+            },
+            {
+            id:3,
+            eng:"What? /уот/",
+            ru:"Что?"
+            },
+            {
+            id:4,
+            eng:"Why? /уай/",
+            ru:"Для чего? Зачем? Почему?"
+            },
+            {
+            id:5,
+            eng:"How? /хау/",
+            ru:"Как?"
+            },
+            {
+            id:6,
+            eng:"Who? /ху/",
+            ru:"Кто?"
+            },
+            {
+            id:7,
+            eng:"Whose? /хуз/",
+            ru:"Чей?"
+            },
+            {
+            id:8,
+            eng:"What time? /уот тайм/",
+            ru:"Во сколько?"
+            },
+            {
+            id:9,
+            eng:"What color? /уот кАла/",
+            ru:"Какого цвета?"
+            },
+            {
+            id:10,
+            eng:"What size? /уот сайз/",
+            ru:"Какого размера?"
+            },
+            {
+            id:11,
+            eng:"How old? /хау оулд/",
+            ru:"Какого возраста?"
+            },
+            {
+            id:12,
+            eng:"How far? /хау фа/",
+            ru:"Насколько далеко?"
+            },
+            {
+            id:13,
+            eng:"How often? /хау офтэн/",
+            ru:"Как часто?"
+            },
+            {
+            id:14,
+            eng:"How long? /хау лон/",
+            ru:"Как долго?"
+            },
+            {
+            id:15,
+            eng:"How tall? /хау тол/",
+            ru:"Какого роста?"
+            },
+            {
+            id:16,
+            eng:"What year? /уот йИэ/",
+            ru:"В каком году?"
+            },
+            {
+            id:17,
+            eng:"What flavor? /уот флЭйво/",
+            ru:"Какого вкуса?"
+            },
+            {
+            id:18,
+            eng:"What song? /уот сон/",
+            ru:"Что за песня?"
+            },
+            {
+            id:19,
+            eng:"What shape? /уот шэйп/",
+            ru:"Какой формы?"
+            },
+            {
+            id:20,
+            eng:"With whom? /уиTH хум/",
+            ru:"С кем?"
+            },
+            {
+            id:21,
+            eng:"Come again? /кам эгэйн/",
+            ru:"Чего, простите?"
+            },
+            {
+            id:22,
+            eng:"How come? /хау кам/",
+            ru:"Как так вышло?"
+            },
+            {
+            id:23,
+            eng:"Why the hell? /уай дэ хэл/",
+            ru:"Какого чёрта?!?"
+            },
+            {
+            id:24,
+            eng:"Here or there? /хИэ о дЭэ/",
+            ru:"Здесь или там?"
+            },
+            {
+            id:25,
+            eng:"What car? ",
+            ru:"Какая машина?"
+            },
+            {
+            id:26,
+            eng:"How fast? ",
+            ru:"Как быстро?"
+            },
+            {
+            id:27,
+            eng:"With or without? ",
+            ru:"С или без?"
+            },
+            {
+            id:28,
+            eng:"Here? /хИэ/",
+            ru:"Здесь?"
+            },
+            {
+            id:29,
+            eng:"There? /дЭэ/",
+            ru:"Там?"
+            },
+            {
+            id:30,
+            eng:"How many pelmenis? /хАу мЭни/",
+            ru:"Сколько пельменей?"
+            },
+            {
+            id:31,
+            eng:"How much money is it? /хау мАч мАни/",
+            ru:"Сколько денег это стоит?"
+            },
+            {
+            id:32,
+            eng:"How much time? ",
+            ru:"Сколько времени?"
+            },
+            {
+            id:33,
+            eng:"Where is it? /уЭэ из ит/",
+            ru:"Где это?"
+            },
+            {
+            id:34,
+            eng:"Who is here? /ху из хИэ/",
+            ru:"Кто здесь?"
+            },
+            {
+            id:35,
+            eng:"Who are they? /ху а дэй/",
+            ru:"Кто они?"
+            },
+            {
+            id:36,
+            eng:"Where am I? ",
+            ru:"Где я?"
+            },
+            {
+            id:37,
+            eng:"Who is it? /ху из ит/",
+            ru:"Кто это?"
+            },
+            {
+            id:38,
+            eng:"What is it? ",
+            ru:"Что это?"
+            },
+            {
+            id:39,
+            eng:"Who am I? /ху эм ай/",
+            ru:"Кто я?"
+            },
+            {
+            id:40,
+            eng:"Who are you? ",
+            ru:"Кто вы такой?"
+            },
+            {
+            id:41,
+            eng:"Who is she? ",
+            ru:"Кто она?"
+            },
+            {
+            id:42,
+            eng:"Who is he? ",
+            ru:"Кто он?"
+            },
+            {
+            id:43,
+            eng:"Where is he? ",
+            ru:"Где он?"
+            },
+            {
+            id:44,
+            eng:"Where is she? ",
+            ru:"Где она?"
+            },
+            {
+            id:45,
+            eng:"Why are you here? ",
+            ru:"Почему вы здесь?"
+            },
+            {
+            id:46,
+            eng:"Where is Vincent? ",
+            ru:"Где Винсент?"
+            },
+            {
+            id:47,
+            eng:"When is our lesson? ",
+            ru:"Когда будет урок?"
+            },
+            {
+            id:48,
+            eng:"When does a lesson start? ",
+            ru:"Когда начинается урок?"
+            },
+            {
+            id:49,
+            eng:"When do we start? ",
+            ru:"Когда мы начнем?"
+            },
+            {
+            id:50,
+            eng:"Where do you work? ",
+            ru:"Где ты работаешь?"
+            },
+            {
+            id:51,
+            eng:"How often do you do it? ",
+            ru:"Как часто ты делаешь это?"
+            },
+            {
+            id:52,
+            eng:"What time do we start? ",
+            ru:"Во сколько мы стартуем?"
+            },
+            {
+            id:53,
+            eng:"What time is it? ",
+            ru:"Который час? Сколько время?"
+            },
+            {
+            id:54,
+            eng:"How are you? ",
+            ru:"Как ты?"
+            },
+            {
+            id:55,
+            eng:"Where are you from? ",
+            ru:"Откуда ты родом?"
+            },
+            {
+            id:56,
+            eng:"Where do you live? ",
+            ru:"Где ты живешь?"
+            },
+            {
+            id:57,
+            eng:"What is your phone number? ",
+            ru:"Какой твой номер телефона?"
+            },
+            {
+            id:58,
+            eng:"What is your house number? ",
+            ru:"Какой номер твоего дома?"
+            },
+            {
+            id:59,
+            eng:"What color are your eyes? ",
+            ru:"Какого цвета ваши глаза?"
+            },
+            {
+            id:60,
+            eng:"What is your favorite color? ",
+            ru:"Какой твой любимый цвет?"
+            },
+    ],
+
     m006questions0: [
         {
+            id:25,
+            eng:"What car? ",
+            ru:"Какая машина?"
+            },
+            {
             id:26,
             eng:"How fast? ",
             ru:"Как быстро?"
@@ -5534,8 +7371,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:31,
-            eng:"How much money? ",
-            ru:"Сколько денег?"
+            eng:"How much money is it? ",
+            ru:"Сколько денег это стоит?"
             },
             {
             id:32,
@@ -5646,6 +7483,11 @@ const allCardsGameFindAPair = {
             id:53,
             eng:"What time is it? ",
             ru:"Который час? Сколько время?"
+            },
+            {
+            id:54,
+            eng:"How are you? ",
+            ru:"Как ты?"
             },
     ],
     m005q1: [
@@ -5962,63 +7804,88 @@ const allCardsGameFindAPair = {
     m002: [
         {
             id:16,
-            eng:"I",
-            ru:"am"
+            eng:"I ",
+            ru:"am + прилагательное"
             },
             {
             id:17,
-            eng:"he, she, it",
-            ru:"is"
+            eng:"he, she, it ",
+            ru:"is + прилагательное"
             },
             {
             id:18,
-            eng:"you, we, they",
-            ru:"are"
+            eng:"you, we, they ",
+            ru:"are + прилагательное"
             },
             {
             id:19,
-            eng:"в английских  предложениях всегда есть:",
-            ru:"глагол"
+            eng:"в английских  предложениях всегда есть: ",
+            ru:"глагол:  либо are, am, is  либо обычный"
             },
             {
             id:20,
-            eng:"когда в русском переводе нет глагола, добавляем:",
-            ru:"мушкетёра are, am, is"
+            ru:"добавляем если в русском переводе нет глагола",
+            eng:"are , am , is"
             },
             {
             id:21,
-            eng:"глагол по-английски:",
-            ru:"verb /вёрб/"
+            eng:"глагол по-английски: ",
+            ru:"verb / вёрб /"
             },
             {
             id:22,
-            eng:"действие по-английски:",
-            ru:"action /экшн/"
+            eng:"действие по-английски: ",
+            ru:"action / экшн /"
             },
             {
             id:23,
-            eng:"прилагательные по-английски:",
-            ru:"adjectives / Эджэктивз / ударение на Э"
+            eng:"прилагательные по-английски: ",
+            ru:"adjectives / Эджэктивз / ударение на Э"
             },
             {
             id:24,
-            eng:"когда в русском переводе у глагола окончание -ТЬ",
-            ru:"то в английском перед глаголом ставим 'to'"
+            eng:"когда в русском переводе у глагола окончание -ТЬ ",
+            ru:"в английском перед глаголом ставим 'to'"
             },
             {
             id:25,
-            eng:"to sleep",
+            eng:"to sleep ",
             ru:"спаТЬ"
             },
             {
             id:26,
-            eng:"to love",
+            eng:"to love ",
             ru:"любиТЬ"
             },
             {
             id:27,
-            eng:"I want to hug you",
-            ru:"я хочу обнять вас"
+            eng:"I want to hug you ",
+            ru:"я хочу обнять вас"
+            },
+            {
+            id:28,
+            eng:"to drink / ту дринк /",
+            ru:"пиТЬ"
+            },
+            {
+            id:29,
+            eng:"to dance / ту дЭнс /",
+            ru:"танцеваТЬ"
+            },
+            {
+            id:30,
+            eng:"to sing / ту син /",
+            ru:"пеТЬ"
+            },
+            {
+            id:31,
+            eng:"to do / ту ду /",
+            ru:"делаТЬ"
+            },
+            {
+            id:32,
+            eng:"I do homework ",
+            ru:"я делаю домаху я выполняю домашку"
             },
     ],
     m003: [
@@ -6427,7 +8294,7 @@ const allCardsGameFindAPair = {
 
 
     ],
-    numbersAa1: [
+    numbersa1: [
         {
             id:1,
             eng:"hundred /хАндрэд/",
@@ -7633,329 +9500,7 @@ const allCardsGameFindAPair = {
             ru:"8000"
             },
     ],
-
-    clothes: [
-        {
-            id: 1,
-            eng: "a hat ",
-            ru: "головной убор, шапка, шляпа"
-        },
-        {
-            id: 2,
-            eng: "a wool hat /вул/",
-            ru: "шерстянная вязанная шапка"
-        },
-        {
-            id: 3,
-            eng: "a hood /худ/",
-            ru: "капюшон"
-        },
-        {
-            id: 4,
-            eng: "a helmet ",
-            ru: "шлем"
-        },
-        {
-            id: 5,
-            eng: "a crown /крАун/",
-            ru: "корона"
-        },
-        {
-            id: 6,
-            eng: "a cap /кЭп/",
-            ru: "кепка"
-        },
-        {
-            id: 7,
-            eng: "sunglasses ",
-            ru: "солнцезащитные очкм"
-        },
-        {
-            id: 8,
-            eng: "lenses ",
-            ru: "линзы"
-        },
-        {
-            id: 9,
-            eng: "a scarf /скаф/",
-            ru: "шарф"
-        },
-        {
-            id: 10,
-            eng: "a tie /тАй/",
-            ru: "галстук"
-        },
-        {
-            id: 11,
-            eng: "a bow /бАу/",
-            ru: "бант, галстук-бабочка"
-        },
-        {
-            id: 12,
-            eng: "glasses ",
-            ru: "очки"
-        },
-        {
-            id: 13,
-            eng: "accessories /эксЭсориз/",
-            ru: "аксессуары"
-        },
-        {
-            id: 14,
-            eng: "a ring ",
-            ru: "кольцо"
-        },
-        {
-            id: 15,
-            eng: "an earring /иЭринг/",
-            ru: "серьга"
-        },
-        {
-            id: 16,
-            eng: "a bracelet /рЭйслет/",
-            ru: "браслет"
-        },
-        {
-            id: 17,
-            eng: "a backpack /бЭкпэк/",
-            ru: "рюкзак"
-        },
-        {
-            id: 18,
-            eng: "watches /уОчез/",
-            ru: "наручные часы"
-        },
-        {
-            id: 19,
-            eng: "a bag /бЭг/",
-            ru: "сумка"
-        },
-        {
-            id: 20,
-            eng: "a purse /пёс/",
-            ru: "сумочка дамская"
-        },
-        {
-            id: 21,
-            eng: "a plastic bag ",
-            ru: "пластиковый пакет"
-        },
-        {
-            id: 22,
-            eng: "a necklace /нЭклэс/",
-            ru: "любое украшение на шее"
-        },
-        {
-            id: 23,
-            eng: "mittens on a rope /рОУП/",
-            ru: "варежки на верёвочке"
-        },
-        {
-            id: 24,
-            eng: "a top ",
-            ru: "верх"
-        },
-        {
-            id: 25,
-            eng: "a shirt  /щёрт/",
-            ru: "рубашка"
-        },
-        {
-            id: 26,
-            eng: "a t-shirt  /ти-щёрт/",
-            ru: "футболка"
-        },
-        {
-            id: 27,
-            eng: "a suit /сют/",
-            ru: "костюм"
-        },
-        {
-            id: 28,
-            eng: "a vest ",
-            ru: "жилетка"
-        },
-        {
-            id: 29,
-            eng: "a jacket ",
-            ru: "пиджак, куртка"
-        },
-        {
-            id: 30,
-            eng: "a coat /кОут/",
-            ru: "пальто"
-        },
-        {
-            id: 31,
-            eng: "a fur coat /фё коут/",
-            ru: "шуба"
-        },
-        {
-            id: 32,
-            eng: "a sweater ",
-            ru: "кофта, свитер"
-        },
-        {
-            id: 33,
-            eng: "long sleeves ",
-            ru: "длинные рукава"
-        },
-        {
-            id: 34,
-            eng: "a blouse /блАуз/",
-            ru: "чёт женское"
-        },
-        {
-            id: 35,
-            eng: "a skirt /скёрт/",
-            ru: "юбка"
-        },
-        {
-            id: 36,
-            eng: "a bra ",
-            ru: "бюстгалтер"
-        },
-        {
-            id: 37,
-            eng: "straps /стрЭпс/",
-            ru: "лямки, ремешки"
-        },
-        {
-            id: 38,
-            eng: "buttons /батэнз/",
-            ru: "пуговицы"
-        },
-        {
-            id: 39,
-            eng: "a zipper ",
-            ru: "собачка на молнии"
-        },
-        {
-            id: 40,
-            eng: "a belt /бэлт/",
-            ru: "ремень"
-        },
-        {
-            id: 41,
-            eng: "underwear /АндэуЭэ/",
-            ru: "нижн. белье"
-        },
-        {
-            id: 42,
-            eng: "warm underwear  /уОм АндэуЭэ/",
-            ru: "термобельё"
-        },
-        {
-            id: 43,
-            eng: "pants /пЭнтс/",
-            ru: "любые штаны можно так назвать"
-        },
-        {
-            id: 44,
-            eng: "under pants /пЭнтс/",
-            ru: "трусишки, трусики, трусы, плавки"
-        },
-        {
-            id: 45,
-            eng: "jeans  ",
-            ru: "джинсы"
-        },
-        {
-            id: 46,
-            eng: "trousers /трАуzэz/",
-            ru: "брюки"
-        },
-        {
-            id: 47,
-            eng: "shorts /шортс/",
-            ru: "шортики"
-        },
-        {
-            id: 48,
-            eng: "shoes /шуз/",
-            ru: "любая обувь & конкретно туфли"
-        },
-        {
-            id: 49,
-            eng: "high heels /хай хилз/",
-            ru: "высокие каблуки (дословно пятки)"
-        },
-        {
-            id: 50,
-            eng: "boots /бутс/",
-            ru: "ботинки, сапоги"
-        },
-        {
-            id: 51,
-            eng: "trainers or sneakers ",
-            ru: "кеды, кроссовки"
-        },
-        {
-            id: 52,
-            eng: "slippers /слиперз/",
-            ru: "тапочки и носочки"
-        },
-        {
-            id: 53,
-            eng: "flip-flops ",
-            ru: "шлёпки, шлёпанцы, тапки"
-        },
-        {
-            id: 54,
-            eng: "socks ",
-            ru: "носки"
-        },
-        {
-            id: 55,
-            eng: "tuck your clothes in /так/",
-            ru: "заправь одежду"
-        },
-        {
-            id: 56,
-            eng: "clothes /клОуз/",
-            ru: "одежда"
-        },
-        {
-            id: 57,
-            eng: "put on ",
-            ru: "надевать"
-        },
-        {
-            id: 58,
-            eng: "take off ",
-            ru: "снимать"
-        },
-        {
-            id: 59,
-            eng: "do and undo ",
-            ru: "застегнуть и расстегнуть"
-        },
-        {
-            id: 60,
-            eng: "carry /кЭри/",
-            ru: "нести в руках"
-        },
-        {
-            id: 61,
-            eng: "wear /уЭэ/",
-            ru: "носить, одевать"
-        },
-        {
-            id: 62,
-            eng: "undone ",
-            ru: "расстегнутый"
-        },
-        {
-            id: 63,
-            eng: "your zip is undone ",
-            ru: "у вас молния расстегнута"
-        },
-        {
-            id: 64,
-            eng: "stockings /стокингз/",
-            ru: "чулки"
-        },
-    ],
+   
     gerund: [
         {
             id: 1,
@@ -14567,204 +16112,8 @@ const allCardsGameFindAPair = {
     ],
 
   
-    mission2: [
-        {
-            id: 1,
-            ru: "	...Эйт	",
-            eng: "	8...	"
-        },
-        {
-            id: 2,
-            ru: "	..eight	",
-            eng: "	восемь..	"
-        },
-        {
-            id: 3,
-            ru: "	...твэлв	",
-            eng: "	12...	"
-        },
-        {
-            id: 4,
-            ru: "	...твэнти	",
-            eng: "	20...	"
-        },
-        {
-            id: 5,
-            ru: "	..is 12	",
-            eng: "	six plus six..	"
-        },
-        {
-            id: 6,
-            ru: "	is twenty 20	",
-            eng: "	Ten plus ten	"
-        },
-        {
-            id: 7,
-            ru: "	..is sixteen	",
-            eng: "	Eight plus eight..	"
-        },
-        {
-            id: 8,
-            ru: "	..is nine	",
-            eng: "	one plus eight..	"
-        },
-        {
-            id: 9,
-            ru: "	....12	",
-            eng: "	твЭлв....	"
-        },
-        {
-            id: 10,
-            ru: "	Десять	",
-            eng: "	Ten	"
-        },
-        {
-            id: 11,
-            ru: "	Одиннадцать	",
-            eng: "	Eleven	"
-        },
-        {
-            id: 12,
-            ru: "	(Двенадцать)	",
-            eng: "	(Twelve)	"
-        },
-        {
-            id: 13,
-            ru: "	Тринадцать	",
-            eng: "	Thirteen	"
-        },
-        {
-            id: 14,
-            ru: "	Четырнадцать	",
-            eng: "	Fourteen	"
-        },
-        {
-            id: 15,
-            ru: "	Пятнадцать	",
-            eng: "	Fifteen	"
-        },
-        {
-            id: 16,
-            ru: "	Шестнадцать	",
-            eng: "	Sixteen	"
-        },
-        {
-            id: 17,
-            ru: "	Семнадцать	",
-            eng: "	Seventeen	"
-        },
-        {
-            id: 18,
-            ru: "	Восемнадцать	",
-            eng: "	Eighteen	"
-        },
-        {
-            id: 19,
-            ru: "	Девятнадцать	",
-            eng: "	Nineteen	"
-        },
-        {
-            id: 20,
-            ru: "	Двадцать	",
-            eng: "	Twenty	"
-        },
-        {
-            id: 21,
-            ru: "	Двадцать один	",
-            eng: "	Twenty-one	"
-        },
-        {
-            id: 22,
-            ru: "	Двадцать два	",
-            eng: "	Twenty-two	"
-        },
-        {
-            id: 23,
-            ru: "	Тридцать	",
-            eng: "	Thirty	"
-        },
-        {
-            id: 24,
-            ru: "	Тридцать три	",
-            eng: "	Thirty-three	"
-        },
-        {
-            id: 25,
-            ru: "	Сорок	",
-            eng: "	Forty	"
-        },
-        {
-            id: 26,
-            ru: "	Пятьдесят пять	",
-            eng: "	Fifty-five /фИфти файВ/	"
-        },
-        {
-            id: 27,
-            ru: " /э хАндрэд хАнгри хУлигэнz/ 100 голодных хулиганов",
-            eng: " a hundred hungry hooligans "
-        },
-
-
-    ],
-    mission3: [
-        {
-            id: 1,
-            ru: "красивый",
-            eng: "handsome /хЭнсам/"
-        },
-        {
-            id: 2,
-            ru: "все (ударение на Э)",
-            eng: "everybody /Эврибади/"
-        },
-        {
-            id: 3,
-            ru: "Все люди",
-            eng: "all people /ол пипл/"
-        },
-        {
-            id: 4,
-            ru: "ставим is, если нет глагола",
-            eng: "после it,he,she"
-        },
-        {
-            id: 5,
-            ru: "ставим ARE, если нет глагола",
-            eng: "после you,we,they"
-        },
-        {
-            id: 6,
-            ru: " I am a secret agent",
-            eng: " Я - секретный агент"
-        },
-        {
-            id: 7,
-            ru: " Винсент мой друг",
-            eng: " Vismyfriend"
-        },
-        {
-            id: 8,
-            ru: " Я особенная",
-            eng: " I'm special"
-        },
-        {
-            id: 9,
-            ru: " I am special /спэшл/",
-            eng: " Я особенный"
-        },
-        {
-            id: 10,
-            ru: " You are special! /ю а спэшл/",
-            eng: " Особенные вы!"
-        },
-        {
-            id: 11,
-            ru: " Я не ленивая z4dniцa",
-            eng: " I'm not a lazzy bOttom!"
-        },
-
-
-    ],
+  
+  
     seasons: [
         {
             id: 1,
@@ -19235,371 +20584,8 @@ const allCardsGameFindAPair = {
         },
 
     ],
-    travel: [
-        {
-            id: 1,
-            ru: "	Какую страну ты хочешь посетить и почему?	",
-            eng: "	What country do you want to Visit and why?	"
-        },
-        {
-            id: 2,
-            ru: "	Какую страну ты НЕ хочешь посещать и почему?	",
-            eng: "	What country do you not want to Visit? Why?	"
-        },
-        {
-            id: 3,
-            ru: "	Антананариво - столица какой страны?	",
-            eng: "	Antananarivo is a capital of what country?	"
-        },
-        {
-            id: 4,
-            ru: "	Африка - это страна?	",
-            eng: "	Is Africa a country? 	"
-        },
-        {
-            id: 5,
-            ru: "	Сколько стран в Африке ты знаешь?	",
-            eng: "	How many countries in Africa do you know?	"
-        },
-        {
-            id: 6,
-            ru: "	Какая страна известна своими Кенгуру?	",
-            eng: "	What country is famous for its kangaroo?	"
-        },
-        {
-            id: 7,
-            ru: "	Какая страна известна своими винами?	",
-            eng: "	What country is famous for its wine?	"
-        },
-        {
-            id: 8,
-            ru: "	Какая страна известна своей популяцией (густонаселенностью)?	",
-            eng: "	What country is famous for its population?	"
-        },
-        {
-            id: 9,
-            ru: "	Какая страна находится близко к твоей стране?	",
-            eng: "	What country is very close to your country?	"
-        },
-        {
-            id: 10,
-            ru: "	Какие страны посетила твоя семья?	",
-            eng: "	What countries did your family visit?	"
-        },
-        {
-            id: 11,
-            ru: "	Какой лучший способ путешествовать?	",
-            eng: "	What is the best way to travel?	"
-        },
-        {
-            id: 12,
-            ru: "	Сможешь назвать 2 страны начинающихся с буквы Z?	",
-            eng: "	Can you name 2 countries beginning with Z ?	"
-        },
-        {
-            id: 13,
-            ru: "	Сможешь назвать 3 страны начинающихся с буквы R?	",
-            eng: "	Can you name 3 countries beginning with R ?	"
-        },
-        {
-            id: 14,
-            ru: "	Знаешь что-нибудь про Северную Корею?	",
-            eng: "	Do you know anything about North Korea?	"
-        },
-        {
-            id: 15,
-            ru: "	Какая самая большая о площади страна?	",
-            eng: "	What is the biggest country in the world?	"
-        },
-        {
-            id: 16,
-            ru: "	Сколько текущих президентов ты сможешь назвать?	",
-            eng: "	How many current presidents can you name?	"
-        },
-        {
-            id: 17,
-            ru: "	Вы бы согласились выйти замуж за иностранца?	",
-            eng: "	Would you agree to marry a foreigner?	"
-        },
-        {
-            id: 18,
-            ru: "	Вы бы согласились съесть легушачьи лапки?	",
-            eng: "	Would you agree to eat frog legs in France?	"
-        },
-        {
-            id: 19,
-            ru: "	Вы бы согласились попробовать наркотики в Амстердаме?	",
-            eng: "	Would you agree to try drugs in Amsterdam?	"
-        },
-        {
-            id: 20,
-            ru: "	Вы бы согласились поехать вокруг света на машине?	",
-            eng: "	Would you agree to travel around the world by car?	"
-        },
-        {
-            id: 21,
-            ru: "	Вы знаете какие-нибудь интересные факты о странах?	",
-            eng: "	Do u know any interesting facts about any country? 	"
-        },
-
-    ],
-    mission2a2time: [
-        {
-            id: 1,
-            eng: "	at 14:30	",
-            ru: "	at half past two PM	"
-        },
-        {
-            id: 2,
-            eng: "	at 13:15	",
-            ru: "	at a quarter past one PM	"
-        },
-        {
-            id: 3,
-            eng: "	at 13:00	",
-            ru: "	at one PM	"
-        },
-        {
-            id: 4,
-            eng: "	at 00:00	",
-            ru: "	at twelve AM at midnight	"
-        },
-        {
-            id: 5,
-            eng: "	at 12:00	",
-            ru: "	at twelve PM at noon	"
-        },
-        {
-            id: 6,
-            eng: "	at 13:58	",
-            ru: "	at two to two PM	"
-        },
-        {
-            id: 7,
-            eng: "	at 21:00	",
-            ru: "	at nine PM	"
-        },
-        {
-            id: 8,
-            eng: "	at 23:30	",
-            ru: "	at half past eleven PM	"
-        },
-        {
-            id: 9,
-            eng: "	at 23:45	",
-            ru: "	at a quarter to midnight	"
-        },
-        {
-            id: 10,
-            eng: "	at 23:15	",
-            ru: "	at a quarter past eleven PM	"
-        },
-        {
-            id: 11,
-            eng: "	at 13:13	",
-            ru: "	at thirteen past one PM	"
-        },
-        {
-            id: 12,
-            eng: "	at 13:30	",
-            ru: "	at half past one PM	"
-        },
-        {
-            id: 13,
-            eng: "	at 01:30	",
-            ru: "	at half past one AM	"
-        },
-        {
-            id: 14,
-            eng: "	at 02:30	",
-            ru: "	at half past two AM	"
-        },
-        {
-            id: 15,
-            eng: "	at 01:15	",
-            ru: "	at a quarter past one AM	"
-        },
-        {
-            id: 16,
-            eng: "	at 01:00	",
-            ru: "	at one AM	"
-        },
-        {
-            id: 17,
-            eng: "	at 19:00	",
-            ru: "	at seven PM	"
-        },
-
-    ],
-    mission1a2time: [
-        {
-            id: 1,
-            ru: "	В полночь я сплю!	",
-            eng: "	I sleep at midnight!	"
-        },
-        {
-            id: 2,
-            ru: "	Это обалденное утро!	",
-            eng: "	It is an awesome morning!	"
-        },
-        {
-            id: 3,
-            ru: "	Добрый день.	",
-            eng: "	Good afternoon.	"
-        },
-        {
-            id: 4,
-            ru: "	Хорошего вам вечера	",
-            eng: "	Have a nice evening	"
-        },
-        {
-            id: 5,
-            ru: "	ноль часов, ноль минут	",
-            eng: "	00:00AM "
-        },
-        {
-            id: 6,
-            ru: "	двенадцать часов дня	",
-            eng: "	twelve pm	"
-        },
-        {
-            id: 7,
-            ru: "	двенадцать часов ночи	",
-            eng: "	12 am	"
-        },
-        {
-            id: 8,
-            ru: "	в полночь	",
-            eng: "	at midnight	"
-        },
-        {
-            id: 9,
-            ru: "	днем	",
-            eng: "	in the afternoon	"
-        },
-        {
-            id: 10,
-            ru: "	утром	",
-            eng: "	in the morning	"
-        },
-        {
-            id: 11,
-            ru: "	вечером	",
-            eng: "	in the evening	"
-        },
-        {
-            id: 12,
-            ru: "	ночью	",
-            eng: "	at night	"
-        },
-        {
-            id: 13,
-            ru: "	в полдень	",
-            eng: "	at noon	"
-        },
-        {
-            id: 14,
-            ru: "	пол второго	",
-            eng: "	half past one	"
-        },
-        {
-            id: 15,
-            ru: "	пол девятого	",
-            eng: "	half past eight	"
-        },
-        {
-            id: 16,
-            ru: "	пол деcятого	",
-            eng: "	half past nine	"
-        },
-        {
-            id: 17,
-            ru: "	eleven thirty	",
-            eng: "	half past eleven	"
-        },
-        {
-            id: 18,
-            ru: "	без 20 девять	",
-            eng: "	twenty to nine	"
-        },
-        {
-            id: 19,
-            ru: "	без пятнадцати четыре	",
-            eng: "	a quarter to four	"
-        },
-        {
-            id: 20,
-            ru: "	без двух минут час	",
-            eng: "	two minutes to two	"
-        },
-        {
-            id: 21,
-            ru: "	пятнадцать минут пятого	",
-            eng: "	a quarter past four	"
-        },
-        {
-            id: 22,
-            ru: "	пятнадцать пятнадцать	",
-            eng: "	it is three fifteen	"
-        },
-        {
-            id: 23,
-            ru: "	Двадцать ноль ноль	",
-            eng: "	it is 8 PM	"
-        },
-        {
-            id: 24,
-            ru: "	Десять ноль одна	",
-            eng: "	ten o one (Или one past ten)	"
-        },
-        {
-            id: 25,
-            ru: "	Восемь часов, тринадцать минут	",
-            eng: "	thirteen past eight	"
-        },
-        {
-            id: 26,
-            ru: "	Приходите в 2 часа	",
-            eng: "	Come at 2 o'clock	"
-        },
-        {
-            id: 27,
-            ru: "	Перезвоните после обеда",
-            eng: "	call back after lunch	"
-        },
-        {
-            id: 28,
-            ru: "	До обеда пожалуйста сделайте это	",
-            eng: "	do it before lunch, please	"
-        },
-        {
-            id: 29,
-            ru: "	Через 10 минут	",
-            eng: "	in 10 minutes	"
-        },
-        {
-            id: 30,
-            ru: "	в 10 часов и 10 минут	",
-            eng: "	at Ten Ten (Или at ten past ten)	"
-        },
-        {
-            id: 31,
-            ru: "	в 10 часов	",
-            eng: "	at ten o'clock	"
-        },
-        {
-            id: 32,
-            ru: "	через 2 часа	",
-            eng: "	in two hours	"
-        },
-        {
-            id: 33,
-            ru: "	60 минут это один час	",
-            eng: "	60 minutes…. it is an hour	"
-        },
-
-    ],
   
+
   
 }
 export default allCardsGameFindAPair

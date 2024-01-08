@@ -1,5 +1,1102 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allWordsForGameTypeOrWrite = {
+    clothes03: [
+        {
+            id:1,
+            eng:"a hat /хЭт/",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat /вул/",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood /худ/",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet /хЭлмэт/",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown /крАун/",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap /кЭп/",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses ",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses /лЭнzЭz/",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf /скаф/",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie /тАй/",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow /бАу/",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses ",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories /эксЭсориз/",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring /э ринг/",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring /иЭринг/",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet /рЭйслет/",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack /бЭкпэк/",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches /уОчез/",
+            ru:"наручные часы"
+            },
+    ],
+    clothes02: [
+        {
+            id:1,
+            eng:"a hat /хЭт/",
+            ru:"головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat /вул/",
+            ru:"шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood /худ/",
+            ru:"капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet /хЭлмэт/",
+            ru:"шлем"
+            },
+            {
+            id:5,
+            eng:"a crown /крАун/",
+            ru:"корона"
+            },
+            {
+            id:6,
+            eng:"a cap /кЭп/",
+            ru:"кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses ",
+            ru:"солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses /лЭнzЭz/",
+            ru:"линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf /скаф/",
+            ru:"шарф"
+            },
+            {
+            id:10,
+            eng:"a tie /тАй/",
+            ru:"галстук"
+            },
+            {
+            id:11,
+            eng:"a bow /бАу/",
+            ru:"бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses ",
+            ru:"очки"
+            },
+            {
+            id:13,
+            eng:"accessories /эксЭсориз/",
+            ru:"аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring /э ринг/",
+            ru:"кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring /иЭринг/",
+            ru:"серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet /рЭйслет/",
+            ru:"браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack /бЭкпэк/",
+            ru:"рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches /уОчез/",
+            ru:"наручные часы"
+            },
+    ],
+
+    clothes01: [
+        {
+            id:1,
+            eng:"a hat",
+            ru:"Как на английском языке написать :  головной убор, шапка, шляпа"
+            },
+            {
+            id:2,
+            eng:"a wool hat",
+            ru:"Как на английском языке написать :  шерстянная вязанная шапка"
+            },
+            {
+            id:3,
+            eng:"a hood",
+            ru:"Как на английском языке написать :  капюшон"
+            },
+            {
+            id:4,
+            eng:"a helmet",
+            ru:"Как на английском языке написать :  шлем"
+            },
+            {
+            id:5,
+            eng:"a crown",
+            ru:"Как на английском языке написать :  корона"
+            },
+            {
+            id:6,
+            eng:"a cap",
+            ru:"Как на английском языке написать :  кепка"
+            },
+            {
+            id:7,
+            eng:"sunglasses",
+            ru:"Как на английском языке написать :  солнцезащитные очкм"
+            },
+            {
+            id:8,
+            eng:"lenses",
+            ru:"Как на английском языке написать :  линзы"
+            },
+            {
+            id:9,
+            eng:"a scarf",
+            ru:"Как на английском языке написать :  шарф"
+            },
+            {
+            id:10,
+            eng:"a tie",
+            ru:"Как на английском языке написать :  галстук"
+            },
+            {
+            id:11,
+            eng:"a bow",
+            ru:"Как на английском языке написать :  бант, галстук-бабочка"
+            },
+            {
+            id:12,
+            eng:"glasses",
+            ru:"Как на английском языке написать :  очки"
+            },
+            {
+            id:13,
+            eng:"accessories",
+            ru:"Как на английском языке написать :  аксессуары"
+            },
+            {
+            id:14,
+            eng:"a ring",
+            ru:"Как на английском языке написать :  кольцо"
+            },
+            {
+            id:15,
+            eng:"an earring",
+            ru:"Как на английском языке написать :  серьга"
+            },
+            {
+            id:16,
+            eng:"a bracelet",
+            ru:"Как на английском языке написать :  браслет"
+            },
+            {
+            id:17,
+            eng:"a backpack",
+            ru:"Как на английском языке написать :  рюкзак"
+            },
+            {
+            id:18,
+            eng:"watches",
+            ru:"Как на английском языке написать :  наручные часы"
+            },
+    ],
+    clothes: [
+        {
+            id: 1,
+            eng: "a hat",
+            ru: "головной убор, шапка, шляпа"
+        },
+        {
+            id: 2,
+            eng: "a wool hat",
+            ru: "шерстянная вязанная шапка"
+        },
+        {
+            id: 3,
+            eng: "a hood",
+            ru: "капюшон"
+        },
+        {
+            id: 4,
+            eng: "a helmet",
+            ru: "шлем"
+        },
+        {
+            id: 5,
+            eng: "a crown",
+            ru: "корона"
+        },
+        {
+            id: 6,
+            eng: "a cap",
+            ru: "кепка"
+        },
+        {
+            id: 7,
+            eng: "sunglasses",
+            ru: "солнцезащитные очкм"
+        },
+        {
+            id: 8,
+            eng: "lenses",
+            ru: "линзы"
+        },
+        {
+            id: 9,
+            eng: "a scarf",
+            ru: "шарф"
+        },
+        {
+            id: 10,
+            eng: "a tie",
+            ru: "галстук"
+        },
+        {
+            id: 11,
+            eng: "a bow",
+            ru: "бант, галстук-бабочка"
+        },
+        {
+            id: 12,
+            eng: "glasses",
+            ru: "очки"
+        },
+        {
+            id: 13,
+            eng: "accessories",
+            ru: "аксессуары"
+        },
+        {
+            id: 14,
+            eng: "a ring",
+            ru: "кольцо"
+        },
+        {
+            id: 15,
+            eng: "an earring",
+            ru: "серьга"
+        },
+        {
+            id: 16,
+            eng: "a bracelet",
+            ru: "браслет"
+        },
+        {
+            id: 17,
+            eng: "a backpack",
+            ru: "рюкзак"
+        },
+        {
+            id: 18,
+            eng: "watches",
+            ru: "наручные часы"
+        },
+        {
+            id: 19,
+            eng: "a bag",
+            ru: "сумка"
+        },
+        {
+            id: 20,
+            eng: "a purse",
+            ru: "сумочка дамская"
+        },
+        {
+            id: 21,
+            eng: "a plastic bag",
+            ru: "пластиковый пакет"
+        },
+        {
+            id: 22,
+            eng: "a necklace",
+            ru: "любое украшение на шее"
+        },
+        {
+            id: 23,
+            eng: "mittens on a rope",
+            ru: "варежки на верёвочке"
+        },
+        {
+            id: 24,
+            eng: "a top",
+            ru: "верх"
+        },
+        {
+            id: 25,
+            eng: "a shirt ",
+            ru: "рубашка"
+        },
+        {
+            id: 26,
+            eng: "a t-shirt ",
+            ru: "футболка"
+        },
+        {
+            id: 27,
+            eng: "a suit",
+            ru: "костюм"
+        },
+        {
+            id: 28,
+            eng: "a vest",
+            ru: "жилетка"
+        },
+        {
+            id: 29,
+            eng: "a jacket",
+            ru: "пиджак, куртка"
+        },
+        {
+            id: 30,
+            eng: "a coat",
+            ru: "пальто"
+        },
+        {
+            id: 31,
+            eng: "a fur coat",
+            ru: "шуба"
+        },
+        {
+            id: 32,
+            eng: "a sweater",
+            ru: "кофта, свитер"
+        },
+        {
+            id: 33,
+            eng: "long sleeves",
+            ru: "длинные рукава"
+        },
+        {
+            id: 34,
+            eng: "a blouse",
+            ru: "чёт женское"
+        },
+        {
+            id: 35,
+            eng: "a skirt",
+            ru: "юбка"
+        },
+        {
+            id: 36,
+            eng: "a bra",
+            ru: "бюстгалтер"
+        },
+        {
+            id: 37,
+            eng: "straps",
+            ru: "лямки, ремешки"
+        },
+        {
+            id: 38,
+            eng: "buttons",
+            ru: "пуговицы"
+        },
+        {
+            id: 39,
+            eng: "a zipper",
+            ru: "собачка на молнии"
+        },
+        {
+            id: 40,
+            eng: "a belt",
+            ru: "ремень"
+        },
+        {
+            id: 41,
+            eng: "underwear",
+            ru: "нижн. белье"
+        },
+        {
+            id: 42,
+            eng: "warm underwear ",
+            ru: "термобельё"
+        },
+        {
+            id: 43,
+            eng: "pants",
+            ru: "любые штаны можно так назвать"
+        },
+        {
+            id: 44,
+            eng: "under pants",
+            ru: "трусишки, трусики, трусы, плавки"
+        },
+        {
+            id: 45,
+            eng: "jeans ",
+            ru: "джинсы"
+        },
+        {
+            id: 46,
+            eng: "trousers",
+            ru: "брюки"
+        },
+        {
+            id: 47,
+            eng: "shorts",
+            ru: "шортики"
+        },
+        {
+            id: 48,
+            eng: "shoes",
+            ru: "любая обувь & конкретно туфли"
+        },
+        {
+            id: 49,
+            eng: "high heels",
+            ru: "высокие каблуки (дословно пятки)"
+        },
+        {
+            id: 50,
+            eng: "boots",
+            ru: "ботинки, сапоги"
+        },
+        {
+            id: 51,
+            eng: "trainers or sneakers",
+            ru: "кеды, кроссовки"
+        },
+        {
+            id: 52,
+            eng: "slippers",
+            ru: "тапочки и носочки"
+        },
+        {
+            id: 53,
+            eng: "flip-flops",
+            ru: "шлёпки, шлёпанцы, тапки"
+        },
+        {
+            id: 54,
+            eng: "socks",
+            ru: "носки"
+        },
+        {
+            id: 55,
+            eng: "tuck your clothes in",
+            ru: "заправь одежду"
+        },
+        {
+            id: 56,
+            eng: "clothes",
+            ru: "одежда"
+        },
+        {
+            id: 57,
+            eng: "put on",
+            ru: "надевать"
+        },
+        {
+            id: 58,
+            eng: "take off",
+            ru: "снимать"
+        },
+        {
+            id: 59,
+            eng: "do and undo",
+            ru: "застегнуть и расстегнуть"
+        },
+        {
+            id: 60,
+            eng: "carry",
+            ru: "нести в руках"
+        },
+        {
+            id: 61,
+            eng: "wear",
+            ru: "носить, одевать"
+        },
+        {
+            id: 62,
+            eng: "undone",
+            ru: "расстегнутый"
+        },
+        {
+            id: 63,
+            eng: "your zip is undone",
+            ru: "у вас молния расстегнута"
+        },
+        {
+            id: 64,
+            eng: "stockings",
+            ru: "чулки"
+        },
+    ],
+
+    travel: [
+        {
+            id: 1,
+            ru: "	Какую страну ты хочешь посетить и почему?	",
+            eng: "	What country do you want to Visit and why?	"
+        },
+        {
+            id: 2,
+            ru: "	Какую страну ты НЕ хочешь посещать и почему?	",
+            eng: "	What country do you not want to Visit? Why?	"
+        },
+        {
+            id: 3,
+            ru: "	Антананариво - столица какой страны?	",
+            eng: "	Antananarivo is a capital of what country?	"
+        },
+        {
+            id: 4,
+            ru: "	Африка - это страна?	",
+            eng: "	Is Africa a country? 	"
+        },
+        {
+            id: 5,
+            ru: "	Сколько стран в Африке ты знаешь?	",
+            eng: "	How many countries in Africa do you know?	"
+        },
+        {
+            id: 6,
+            ru: "	Какая страна известна своими Кенгуру?	",
+            eng: "	What country is famous for its kangaroo?	"
+        },
+        {
+            id: 7,
+            ru: "	Какая страна известна своими винами?	",
+            eng: "	What country is famous for its wine?	"
+        },
+        {
+            id: 8,
+            ru: "	Какая страна известна своей популяцией (густонаселенностью)?	",
+            eng: "	What country is famous for its population?	"
+        },
+        {
+            id: 9,
+            ru: "	Какая страна находится близко к твоей стране?	",
+            eng: "	What country is very close to your country?	"
+        },
+        {
+            id: 10,
+            ru: "	Какие страны посетила твоя семья?	",
+            eng: "	What countries did your family visit?	"
+        },
+        {
+            id: 11,
+            ru: "	Какой лучший способ путешествовать?	",
+            eng: "	What is the best way to travel?	"
+        },
+        {
+            id: 12,
+            ru: "	Сможешь назвать 2 страны начинающихся с буквы Z?	",
+            eng: "	Can you name 2 countries beginning with Z ?	"
+        },
+        {
+            id: 13,
+            ru: "	Сможешь назвать 3 страны начинающихся с буквы R?	",
+            eng: "	Can you name 3 countries beginning with R ?	"
+        },
+        {
+            id: 14,
+            ru: "	Знаешь что-нибудь про Северную Корею?	",
+            eng: "	Do you know anything about North Korea?	"
+        },
+        {
+            id: 15,
+            ru: "	Какая самая большая о площади страна?	",
+            eng: "	What is the biggest country in the world?	"
+        },
+        {
+            id: 16,
+            ru: "	Сколько текущих президентов ты сможешь назвать?	",
+            eng: "	How many current presidents can you name?	"
+        },
+        {
+            id: 17,
+            ru: "	Вы бы согласились выйти замуж за иностранца?	",
+            eng: "	Would you agree to marry a foreigner?	"
+        },
+        {
+            id: 18,
+            ru: "	Вы бы согласились съесть легушачьи лапки?	",
+            eng: "	Would you agree to eat frog legs in France?	"
+        },
+        {
+            id: 19,
+            ru: "	Вы бы согласились попробовать наркотики в Амстердаме?	",
+            eng: "	Would you agree to try drugs in Amsterdam?	"
+        },
+        {
+            id: 20,
+            ru: "	Вы бы согласились поехать вокруг света на машине?	",
+            eng: "	Would you agree to travel around the world by car?	"
+        },
+        {
+            id: 21,
+            ru: "	Вы знаете какие-нибудь интересные факты о странах?	",
+            eng: "	Do u know any interesting facts about any country? 	"
+        },
+
+    ],
+
+    m009: [
+        {
+            id:52,
+            eng:"am",
+            ru:"Впиши либо ARE либо AM либо IS? I___stupid."
+            },
+            {
+            id:53,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Vincent ___ a good teacher."
+            },
+            {
+            id:54,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? He and I ___ friends."
+            },
+            {
+            id:55,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? Tom and Jerry ___ not friends."
+            },
+            {
+            id:56,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? We ___ not stupid."
+            },
+            {
+            id:57,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? My bro and my sis ___ cool."
+            },
+            {
+            id:58,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? Where ___ you?"
+            },
+            {
+            id:59,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Where ___ he from?"
+            },
+            {
+            id:60,
+            eng:"am",
+            ru:"Впиши либо ARE либо AM либо IS? I'm sorry, I ___ late"
+            },
+            {
+            id:61,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Who ___ it?"
+            },
+            {
+            id:62,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? Who ___ your teacher?"
+            },
+            {
+            id:63,
+            eng:"are",
+            ru:"Впиши либо ARE либо AM либо IS? What ___ your names?"
+            },
+            {
+            id:64,
+            eng:"is",
+            ru:"Впиши либо ARE либо AM либо IS? What ___ her name?"
+            },
+            {
+            id:65,
+            eng:"am",
+            ru:"Впиши либо ARE либо AM либо IS? I___sexy and I know it."
+            },
+            {
+            id:66,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? I___ n't drink vodka"
+            },
+            {
+            id:67,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? He___ n't drink black coffee"
+            },
+            {
+            id:68,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? My friends ___ n't study English"
+            },
+            {
+            id:69,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? My best friend ___ n't smoke, but my friend drinks a lot!"
+            },
+            {
+            id:70,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? Vincent___ n't kiss me after lessons"
+            },
+            {
+            id:71,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? My cat___ n't sleep 8 hours. It sleeps 15 hours"
+            },
+            {
+            id:72,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? Vincent always asks me: ___ you understand me? usually I understand him"
+            },
+            {
+            id:73,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? ___ your teacher like you? I think he likes you very much."
+            },
+            {
+            id:74,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? When Vincent is hungry he eats burgers. But he___ n't eat fries (картошка фри)"
+            },
+            {
+            id:75,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? ___ anybody in your family play musical instruments?"
+            },
+            {
+            id:76,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? When I was a child I liked games. But now I ___ n't play often."
+            },
+            {
+            id:77,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? Why___he help you?"
+            },
+            {
+            id:78,
+            eng:"am",
+            ru:"Am или is или are или do или does? _____ I your friend?"
+            },
+            {
+            id:79,
+            eng:"do",
+            ru:"Am или is или are или do или does? _____ I study English?"
+            },
+            {
+            id:80,
+            eng:"does",
+            ru:"Am или is или are или do или does? _____ Vincent teach you?"
+            },
+            {
+            id:81,
+            eng:"is",
+            ru:"Am или is или are или do или does? _____ Vincent your teacher?"
+            },
+            {
+            id:82,
+            eng:"are",
+            ru:"Am или is или are или do или does? Where_____ you?"
+            },
+            {
+            id:83,
+            eng:"am",
+            ru:"Am или is или are или do или does? I_____ a very smart person because I do homework"
+            },
+            {
+            id:84,
+            eng:"do",
+            ru:"Am или is или are или do или does? Where _____ you live?"
+            },
+            {
+            id:85,
+            eng:"does",
+            ru:"Am или is или are или do или does? Where_____ your girlfriend work?"
+            },
+
+
+    ],
+    m008: [
+        {
+            id:66,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? I___ n't drink vodka"
+            },
+            {
+            id:67,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? He___ n't drink black coffee"
+            },
+            {
+            id:68,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? My friends ___ n't study English"
+            },
+            {
+            id:69,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? My best friend ___ n't smoke, but my friend drinks a lot!"
+            },
+            {
+            id:70,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? Vincent___ n't kiss me after lessons"
+            },
+            {
+            id:71,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? My cat___ n't sleep 8 hours. It sleeps 15 hours"
+            },
+            {
+            id:72,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? Vincent always asks me: ___ you understand me? usually I understand him"
+            },
+            {
+            id:73,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? ___ your teacher like you? I think he likes you very much."
+            },
+            {
+            id:74,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? When Vincent is hungry he eats burgers. But he___ n't eat fries (картошка фри)"
+            },
+            {
+            id:75,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? ___ anybody in your family play musical instruments?"
+            },
+            {
+            id:76,
+            eng:"do",
+            ru:"Впиши либо DO либо DOES? When I was a child I liked games. But now I ___ n't play often."
+            },
+            {
+            id:77,
+            eng:"does",
+            ru:"Впиши либо DO либо DOES? Why___he help you?"
+            },
+    ],
+    m007: [
+        {
+            id:1,
+            eng:"every day",
+            ru:"Как на английском языке написать :  каждый день"
+            },
+            {
+            id:2,
+            eng:"usually",
+            ru:"Как на английском языке написать :  обычно"
+            },
+            {
+            id:3,
+            eng:"usual",
+            ru:"Как на английском языке написать :  обыный (прилагательное)"
+            },
+            {
+            id:4,
+            eng:"never",
+            ru:"Как на английском языке написать :  никогда"
+            },
+            {
+            id:5,
+            eng:"sometimes",
+            ru:"Как на английском языке написать :  иногда"
+            },
+            {
+            id:6,
+            eng:"from time to time",
+            ru:"Как на английском языке написать :  от времени к времени"
+            },
+            {
+            id:7,
+            eng:"not often",
+            ru:"Как на английском языке написать :  не часто"
+            },
+            {
+            id:8,
+            eng:"often",
+            ru:"Как на английском языке написать :  часто"
+            },
+            {
+            id:9,
+            eng:"not very often",
+            ru:"Как на английском языке написать :  не очень часто"
+            },
+            {
+            id:10,
+            eng:"once a day",
+            ru:"Как на английском языке написать :  раз в день"
+            },
+            {
+            id:11,
+            eng:"once a week",
+            ru:"Как на английском языке написать :  раз в неделю"
+            },
+            {
+            id:12,
+            eng:"once a year",
+            ru:"Как на английском языке написать :  раз в год"
+            },
+            {
+            id:13,
+            eng:"twice a day",
+            ru:"Как на английском языке написать :  дважды в день"
+            },
+            {
+            id:14,
+            eng:"twice a week",
+            ru:"Как на английском языке написать :  дважды в неделю"
+            },
+            {
+            id:15,
+            eng:"every week",
+            ru:"Как на английском языке написать :  каждую неделю"
+            },
+            {
+            id:16,
+            eng:"once a month",
+            ru:"Как на английском языке написать :  раз в месяц"
+            },
+            {
+            id:17,
+            eng:"two times a month",
+            ru:"Как на английском языке написать :  два раза в месяц"
+            },
+            {
+            id:18,
+            eng:"two times in life",
+            ru:"Как на английском языке написать :  два раза за жизнь"
+            },
+            {
+            id:19,
+            eng:"three times a year",
+            ru:"Как на английском языке написать :  три раза в год"
+            },
+            {
+            id:20,
+            eng:"five days a week",
+            ru:"Как на английском языке написать :  пять днеййй в неделю"
+            },
+            {
+            id:21,
+            eng:"every month",
+            ru:"Как на английском языке написать :  каждый месяц"
+            },
+            {
+            id:22,
+            eng:"on Mondays",
+            ru:"Как на английском языке написать :  по понедельникам"
+            },
+            {
+            id:23,
+            eng:"on Tuesdays",
+            ru:"Как на английском языке написать :  по вторникам"
+            },
+            {
+            id:24,
+            eng:"on Wednesdays",
+            ru:"Как на английском языке написать :  по средам"
+            },
+            {
+            id:25,
+            eng:"on Thursdays",
+            ru:"Как на английском языке написать :  по четвергам"
+            },
+            {
+            id:26,
+            eng:"on Fridays",
+            ru:"Как на английском языке написать :  по пятницам"
+            },
+            {
+            id:27,
+            eng:"on Saturdays",
+            ru:"Как на английском языке написать :  по субботам"
+            },
+            {
+            id:28,
+            eng:"on Sundays",
+            ru:"Как на английском языке написать :  по воскресеньям"
+            },
+            {
+            id:29,
+            eng:"every Wednesday",
+            ru:"Как на английском языке написать :  каждую среду"
+            },
+            {
+            id:30,
+            eng:"seldom, rarely",
+            ru:"Как на английском языке написать :  редко, изредка"
+            },
+    ],
 
     sara: [
         {
@@ -4792,328 +5889,7 @@ const allWordsForGameTypeOrWrite = {
             },
     ],
 
-    clothes: [
-        {
-            id: 1,
-            eng: "a hat",
-            ru: "головной убор, шапка, шляпа"
-        },
-        {
-            id: 2,
-            eng: "a wool hat",
-            ru: "шерстянная вязанная шапка"
-        },
-        {
-            id: 3,
-            eng: "a hood",
-            ru: "капюшон"
-        },
-        {
-            id: 4,
-            eng: "a helmet",
-            ru: "шлем"
-        },
-        {
-            id: 5,
-            eng: "a crown",
-            ru: "корона"
-        },
-        {
-            id: 6,
-            eng: "a cap",
-            ru: "кепка"
-        },
-        {
-            id: 7,
-            eng: "sunglasses",
-            ru: "солнцезащитные очкм"
-        },
-        {
-            id: 8,
-            eng: "lenses",
-            ru: "линзы"
-        },
-        {
-            id: 9,
-            eng: "a scarf",
-            ru: "шарф"
-        },
-        {
-            id: 10,
-            eng: "a tie",
-            ru: "галстук"
-        },
-        {
-            id: 11,
-            eng: "a bow",
-            ru: "бант, галстук-бабочка"
-        },
-        {
-            id: 12,
-            eng: "glasses",
-            ru: "очки"
-        },
-        {
-            id: 13,
-            eng: "accessories",
-            ru: "аксессуары"
-        },
-        {
-            id: 14,
-            eng: "a ring",
-            ru: "кольцо"
-        },
-        {
-            id: 15,
-            eng: "an earring",
-            ru: "серьга"
-        },
-        {
-            id: 16,
-            eng: "a bracelet",
-            ru: "браслет"
-        },
-        {
-            id: 17,
-            eng: "a backpack",
-            ru: "рюкзак"
-        },
-        {
-            id: 18,
-            eng: "watches",
-            ru: "наручные часы"
-        },
-        {
-            id: 19,
-            eng: "a bag",
-            ru: "сумка"
-        },
-        {
-            id: 20,
-            eng: "a purse",
-            ru: "сумочка дамская"
-        },
-        {
-            id: 21,
-            eng: "a plastic bag",
-            ru: "пластиковый пакет"
-        },
-        {
-            id: 22,
-            eng: "a necklace",
-            ru: "любое украшение на шее"
-        },
-        {
-            id: 23,
-            eng: "mittens on a rope",
-            ru: "варежки на верёвочке"
-        },
-        {
-            id: 24,
-            eng: "a top",
-            ru: "верх"
-        },
-        {
-            id: 25,
-            eng: "a shirt ",
-            ru: "рубашка"
-        },
-        {
-            id: 26,
-            eng: "a t-shirt ",
-            ru: "футболка"
-        },
-        {
-            id: 27,
-            eng: "a suit",
-            ru: "костюм"
-        },
-        {
-            id: 28,
-            eng: "a vest",
-            ru: "жилетка"
-        },
-        {
-            id: 29,
-            eng: "a jacket",
-            ru: "пиджак, куртка"
-        },
-        {
-            id: 30,
-            eng: "a coat",
-            ru: "пальто"
-        },
-        {
-            id: 31,
-            eng: "a fur coat",
-            ru: "шуба"
-        },
-        {
-            id: 32,
-            eng: "a sweater",
-            ru: "кофта, свитер"
-        },
-        {
-            id: 33,
-            eng: "long sleeves",
-            ru: "длинные рукава"
-        },
-        {
-            id: 34,
-            eng: "a blouse",
-            ru: "чёт женское"
-        },
-        {
-            id: 35,
-            eng: "a skirt",
-            ru: "юбка"
-        },
-        {
-            id: 36,
-            eng: "a bra",
-            ru: "бюстгалтер"
-        },
-        {
-            id: 37,
-            eng: "straps",
-            ru: "лямки, ремешки"
-        },
-        {
-            id: 38,
-            eng: "buttons",
-            ru: "пуговицы"
-        },
-        {
-            id: 39,
-            eng: "a zipper",
-            ru: "собачка на молнии"
-        },
-        {
-            id: 40,
-            eng: "a belt",
-            ru: "ремень"
-        },
-        {
-            id: 41,
-            eng: "underwear",
-            ru: "нижн. белье"
-        },
-        {
-            id: 42,
-            eng: "warm underwear ",
-            ru: "термобельё"
-        },
-        {
-            id: 43,
-            eng: "pants",
-            ru: "любые штаны можно так назвать"
-        },
-        {
-            id: 44,
-            eng: "under pants",
-            ru: "трусишки, трусики, трусы, плавки"
-        },
-        {
-            id: 45,
-            eng: "jeans ",
-            ru: "джинсы"
-        },
-        {
-            id: 46,
-            eng: "trousers",
-            ru: "брюки"
-        },
-        {
-            id: 47,
-            eng: "shorts",
-            ru: "шортики"
-        },
-        {
-            id: 48,
-            eng: "shoes",
-            ru: "любая обувь & конкретно туфли"
-        },
-        {
-            id: 49,
-            eng: "high heels",
-            ru: "высокие каблуки (дословно пятки)"
-        },
-        {
-            id: 50,
-            eng: "boots",
-            ru: "ботинки, сапоги"
-        },
-        {
-            id: 51,
-            eng: "trainers or sneakers",
-            ru: "кеды, кроссовки"
-        },
-        {
-            id: 52,
-            eng: "slippers",
-            ru: "тапочки и носочки"
-        },
-        {
-            id: 53,
-            eng: "flip-flops",
-            ru: "шлёпки, шлёпанцы, тапки"
-        },
-        {
-            id: 54,
-            eng: "socks",
-            ru: "носки"
-        },
-        {
-            id: 55,
-            eng: "tuck your clothes in",
-            ru: "заправь одежду"
-        },
-        {
-            id: 56,
-            eng: "clothes",
-            ru: "одежда"
-        },
-        {
-            id: 57,
-            eng: "put on",
-            ru: "надевать"
-        },
-        {
-            id: 58,
-            eng: "take off",
-            ru: "снимать"
-        },
-        {
-            id: 59,
-            eng: "do and undo",
-            ru: "застегнуть и расстегнуть"
-        },
-        {
-            id: 60,
-            eng: "carry",
-            ru: "нести в руках"
-        },
-        {
-            id: 61,
-            eng: "wear",
-            ru: "носить, одевать"
-        },
-        {
-            id: 62,
-            eng: "undone",
-            ru: "расстегнутый"
-        },
-        {
-            id: 63,
-            eng: "your zip is undone",
-            ru: "у вас молния расстегнута"
-        },
-        {
-            id: 64,
-            eng: "stockings",
-            ru: "чулки"
-        },
-    ],
+  
     gerund: [
         {
             id: 1,
@@ -12021,205 +12797,8 @@ const allWordsForGameTypeOrWrite = {
     ],
    
 
-    mission2: [
-        {
-            id: 1,
-            ru: "	...Эйт	",
-            eng: "	8...	"
-        },
-        {
-            id: 2,
-            ru: "	..eight	",
-            eng: "	восемь..	"
-        },
-        {
-            id: 3,
-            ru: "	...твэлв	",
-            eng: "	12...	"
-        },
-        {
-            id: 4,
-            ru: "	...твэнти	",
-            eng: "	20...	"
-        },
-        {
-            id: 5,
-            ru: "	..is 12	",
-            eng: "	six plus six..	"
-        },
-        {
-            id: 6,
-            ru: "	is twenty 20	",
-            eng: "	Ten plus ten	"
-        },
-        {
-            id: 7,
-            ru: "	..is sixteen	",
-            eng: "	Eight plus eight..	"
-        },
-        {
-            id: 8,
-            ru: "	..is nine	",
-            eng: "	one plus eight..	"
-        },
-        {
-            id: 9,
-            ru: "	....12	",
-            eng: "	твЭлв....	"
-        },
-        {
-            id: 10,
-            ru: "	Десять	",
-            eng: "	Ten	"
-        },
-        {
-            id: 11,
-            ru: "	Одиннадцать	",
-            eng: "	Eleven	"
-        },
-        {
-            id: 12,
-            ru: "	(Двенадцать)	",
-            eng: "	(Twelve)	"
-        },
-        {
-            id: 13,
-            ru: "	Тринадцать	",
-            eng: "	Thirteen	"
-        },
-        {
-            id: 14,
-            ru: "	Четырнадцать	",
-            eng: "	Fourteen	"
-        },
-        {
-            id: 15,
-            ru: "	Пятнадцать	",
-            eng: "	Fifteen	"
-        },
-        {
-            id: 16,
-            ru: "	Шестнадцать	",
-            eng: "	Sixteen	"
-        },
-        {
-            id: 17,
-            ru: "	Семнадцать	",
-            eng: "	Seventeen	"
-        },
-        {
-            id: 18,
-            ru: "	Восемнадцать	",
-            eng: "	Eighteen	"
-        },
-        {
-            id: 19,
-            ru: "	Девятнадцать	",
-            eng: "	Nineteen	"
-        },
-        {
-            id: 20,
-            ru: "	Двадцать	",
-            eng: "	Twenty	"
-        },
-        {
-            id: 21,
-            ru: "	Двадцать один	",
-            eng: "	Twenty-one	"
-        },
-        {
-            id: 22,
-            ru: "	Двадцать два	",
-            eng: "	Twenty-two	"
-        },
-        {
-            id: 23,
-            ru: "	Тридцать	",
-            eng: "	Thirty	"
-        },
-        {
-            id: 24,
-            ru: "	Тридцать три	",
-            eng: "	Thirty-three	"
-        },
-        {
-            id: 25,
-            ru: "	Сорок	",
-            eng: "	Forty	"
-        },
-        {
-            id: 26,
-            ru: "	Пятьдесят пять	",
-            eng: "	Fifty-five /фИфти файВ/	"
-        },
-        {
-            id: 27,
-            ru: " /э хАндрэд хАнгри хУлигэнz/ 100 голодных хулиганов",
-            eng: " a hundred hungry hooligans "
-        },
 
-
-    ],
-    mission3: [
-        {
-            id: 1,
-            ru: "красивый",
-            eng: "handsome /хЭнсам/"
-        },
-        {
-            id: 2,
-            ru: "все (ударение на Э)",
-            eng: "everybody /Эврибади/"
-        },
-        {
-            id: 3,
-            ru: "Все люди",
-            eng: "all people /ол пипл/"
-        },
-        {
-            id: 4,
-            ru: "ставим is, если нет глагола",
-            eng: "после it,he,she"
-        },
-        {
-            id: 5,
-            ru: "ставим ARE, если нет глагола",
-            eng: "после you,we,they"
-        },
-        {
-            id: 6,
-            ru: " I am a secret agent",
-            eng: " Я - секретный агент"
-        },
-        {
-            id: 7,
-            ru: " Винсент мой друг",
-            eng: " Vismyfriend"
-        },
-        {
-            id: 8,
-            ru: " Я особенная",
-            eng: " I'm special"
-        },
-        {
-            id: 9,
-            ru: " I am special /спэшл/",
-            eng: " Я особенный"
-        },
-        {
-            id: 10,
-            ru: " You are special! /ю а спэшл/",
-            eng: " Особенные вы!"
-        },
-        {
-            id: 11,
-            ru: " Я не ленивая z4dniцa",
-            eng: " I'm not a lazzy bOttom!"
-        },
-
-
-    ],
-  
+    
     anika: [
         {
             id: 102,
@@ -16407,114 +16986,7 @@ const allWordsForGameTypeOrWrite = {
         },
 
     ],
-    travel: [
-        {
-            id: 1,
-            ru: "	Какую страну ты хочешь посетить и почему?	",
-            eng: "	What country do you want to Visit and why?	"
-        },
-        {
-            id: 2,
-            ru: "	Какую страну ты НЕ хочешь посещать и почему?	",
-            eng: "	What country do you not want to Visit? Why?	"
-        },
-        {
-            id: 3,
-            ru: "	Антананариво - столица какой страны?	",
-            eng: "	Antananarivo is a capital of what country?	"
-        },
-        {
-            id: 4,
-            ru: "	Африка - это страна?	",
-            eng: "	Is Africa a country? 	"
-        },
-        {
-            id: 5,
-            ru: "	Сколько стран в Африке ты знаешь?	",
-            eng: "	How many countries in Africa do you know?	"
-        },
-        {
-            id: 6,
-            ru: "	Какая страна известна своими Кенгуру?	",
-            eng: "	What country is famous for its kangaroo?	"
-        },
-        {
-            id: 7,
-            ru: "	Какая страна известна своими винами?	",
-            eng: "	What country is famous for its wine?	"
-        },
-        {
-            id: 8,
-            ru: "	Какая страна известна своей популяцией (густонаселенностью)?	",
-            eng: "	What country is famous for its population?	"
-        },
-        {
-            id: 9,
-            ru: "	Какая страна находится близко к твоей стране?	",
-            eng: "	What country is very close to your country?	"
-        },
-        {
-            id: 10,
-            ru: "	Какие страны посетила твоя семья?	",
-            eng: "	What countries did your family visit?	"
-        },
-        {
-            id: 11,
-            ru: "	Какой лучший способ путешествовать?	",
-            eng: "	What is the best way to travel?	"
-        },
-        {
-            id: 12,
-            ru: "	Сможешь назвать 2 страны начинающихся с буквы Z?	",
-            eng: "	Can you name 2 countries beginning with Z ?	"
-        },
-        {
-            id: 13,
-            ru: "	Сможешь назвать 3 страны начинающихся с буквы R?	",
-            eng: "	Can you name 3 countries beginning with R ?	"
-        },
-        {
-            id: 14,
-            ru: "	Знаешь что-нибудь про Северную Корею?	",
-            eng: "	Do you know anything about North Korea?	"
-        },
-        {
-            id: 15,
-            ru: "	Какая самая большая о площади страна?	",
-            eng: "	What is the biggest country in the world?	"
-        },
-        {
-            id: 16,
-            ru: "	Сколько текущих президентов ты сможешь назвать?	",
-            eng: "	How many current presidents can you name?	"
-        },
-        {
-            id: 17,
-            ru: "	Вы бы согласились выйти замуж за иностранца?	",
-            eng: "	Would you agree to marry a foreigner?	"
-        },
-        {
-            id: 18,
-            ru: "	Вы бы согласились съесть легушачьи лапки?	",
-            eng: "	Would you agree to eat frog legs in France?	"
-        },
-        {
-            id: 19,
-            ru: "	Вы бы согласились попробовать наркотики в Амстердаме?	",
-            eng: "	Would you agree to try drugs in Amsterdam?	"
-        },
-        {
-            id: 20,
-            ru: "	Вы бы согласились поехать вокруг света на машине?	",
-            eng: "	Would you agree to travel around the world by car?	"
-        },
-        {
-            id: 21,
-            ru: "	Вы знаете какие-нибудь интересные факты о странах?	",
-            eng: "	Do u know any interesting facts about any country? 	"
-        },
-
-    ],
+   
     when: [
         {
             id: 1,

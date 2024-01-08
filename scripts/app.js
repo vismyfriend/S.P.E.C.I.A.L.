@@ -308,32 +308,42 @@ let timeToGet2StarResult = 75
 
 function howManyStarsScore() {
 
-    if (chosenArray.length < 12) {
+    if (chosenArray.length < 13) {
         timeToGet5StarResult = 9
         timeToGet4StarResult = 12
         timeToGet3StarResult = 18
         timeToGet2StarResult = 22
 
-    } else if (chosenArray.length > 12 && chosenArray.length < 20) {
+    } else if (chosenArray.length > 12 && chosenArray.length < 19) {
         timeToGet5StarResult = 15
         timeToGet4StarResult = 20
         timeToGet3StarResult = 30
         timeToGet2StarResult = 40
-    } else if (chosenArray.length > 20 && chosenArray.length < 40) {
+    } else if (chosenArray.length > 18 && chosenArray.length < 25) {
         timeToGet5StarResult = 23
-        timeToGet4StarResult = 33
+        timeToGet4StarResult = 32
         timeToGet3StarResult = 40
         timeToGet2StarResult = 50
-    } else if (chosenArray.length > 40 && chosenArray.length < 59) {
-        timeToGet5StarResult = 55
-        timeToGet4StarResult = 70
-        timeToGet3StarResult = 90
-        timeToGet2StarResult = 135
-    } else if (chosenArray.length > 59 && chosenArray.length) {
-        timeToGet5StarResult = 90
-        timeToGet4StarResult = 115
-        timeToGet3StarResult = 135
-        timeToGet2StarResult = 170
+    } else if (chosenArray.length > 24 && chosenArray.length < 31) {
+        timeToGet5StarResult = 30
+        timeToGet4StarResult = 45
+        timeToGet3StarResult = 51
+        timeToGet2StarResult = 62
+    } else if (chosenArray.length > 30 && chosenArray.length < 37) {
+        timeToGet5StarResult = 40
+        timeToGet4StarResult = 50
+        timeToGet3StarResult = 70
+        timeToGet2StarResult = 90
+    } else if (chosenArray.length > 36 && chosenArray.length < 44) {
+        timeToGet5StarResult = 51
+        timeToGet4StarResult = 65
+        timeToGet3StarResult = 85
+        timeToGet2StarResult = 100
+    } else if (chosenArray.length > 43 && chosenArray.length) {
+        timeToGet5StarResult = 120
+        timeToGet4StarResult = 150
+        timeToGet3StarResult = 190
+        timeToGet2StarResult = 240
     }
 }
 function starResult() {
@@ -379,6 +389,7 @@ function shuffleDecks() {
     questionNumber = 0
     cardForSpeakingGame.classList.remove("AnOpenCard")
     cardForSpeakingGame.style.border = 'none';
+    switchPlayerInCardGameQuestions1()
 }
 function shuffleTypeOrWrite() {
     chooseTypeOrWrite = chooseTypeOrWrite.sort(function () {
@@ -457,7 +468,21 @@ function switchLanguage() {
     // cardForSpeakingGame.style.border = "solid 4px rgb(128, 255, 1)";
 }
 
-oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
+function switchPlayerInCardGameQuestions1() {
+    
+    oneDeckButtonSwitch.textContent = ("Player 1")
+}
+function switchPlayerInCardGameQuestions2() {
+    
+    oneDeckButtonSwitch.textContent = ("Player 2")
+}
+// oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
+
+oneDeckButtonSwitch.addEventListener("click", () => {
+    switchLanguage()
+    switchPlayerInCardGameQuestions2()
+    
+})
 
 cardForSpeakingGame.addEventListener("click", () => {
     const AudioNextQuestionCard = new Audio("https://zvukitop.com/wp-content/uploads/2021/06/klik-myshki-9.mp3");
@@ -588,6 +613,9 @@ function startGameQuestions() {
 }
 
 function startGameFindPairs() {
+    console.log("arrayLength - количество пар слов",chosenArray.length)
+    howManyStarsScore()
+    console.log("время на 5 звезд <",timeToGet5StarResult)
     // replaceHeaderButton1()
     renderCards("ru")
     renderCards("eng")
