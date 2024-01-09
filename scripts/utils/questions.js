@@ -1,6 +1,6 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
-    technologic3: [
+    technologic3b1: [
         {
             id:1,
             eng:"Как по-английски сказать ` Купи` ?",
@@ -297,7 +297,7 @@ const allQuestionsOneDeck = {
             ru:"Как переводится `SING A SONG / син э сон /` на русском?"
             },
     ],
-    technologic2: [
+    technologic2a2: [
         {
             id:25,
             eng:"Как по-английски сказать ` Сожги` ?",
@@ -419,7 +419,7 @@ const allQuestionsOneDeck = {
             ru:"Translate into Russian: `FORMAT / формАт / `"
             },
     ],
-    technologic1: [
+    technologic1a1: [
         {
             id:1,
             eng:"Как по-английски сказать ` Купи` ?",
@@ -544,7 +544,7 @@ const allQuestionsOneDeck = {
 
 
 
-    santalapfart3: [
+    santalapfart3c1: [
         {
             id:1,
             eng:"Как по-английски сказать ` мама приготовила бобы` ?",
@@ -837,7 +837,7 @@ const allQuestionsOneDeck = {
                     ru:"Тебе нравится еда с бобами (фсолью)?"
                     },
     ],
-    santalapfart2: [
+    santalapfart2b2: [
         {
             id:24,
             eng:"How do you translate ` просить чего-то` ?",
@@ -1004,7 +1004,7 @@ const allQuestionsOneDeck = {
                 ru:"Сколько рождественских или новогодних песен ты знаешь?"
                 },
     ],
-    santalapfart1: [
+    santalapfart1b1: [
         {
             id:1,
             eng:"Как по-английски сказать ` мама приготовила бобы` ?",
@@ -1958,7 +1958,7 @@ const allQuestionsOneDeck = {
                 ru:"Вы носите часы на левой или правой руке?  "
                 },
     ],
-    questions111clothes: [
+    questions111clothesb1: [
         {
             id:1,
             eng:"Как по-английски сказать ` головной убор, шапка, шляпа` ?",

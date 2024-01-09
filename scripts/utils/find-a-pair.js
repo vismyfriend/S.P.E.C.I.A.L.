@@ -2,7 +2,7 @@
 const allCardsGameFindAPair = {
 
 
-    technologic3: [
+    technologic3b1: [
         {
             id:1,
             eng:"Buy / бАй /",
@@ -299,7 +299,7 @@ const allCardsGameFindAPair = {
             ru:"Петь песню"
             },
     ],
-    technologic2: [
+    technologic2a2: [
         {
             id:25,
             eng:"Burn / бёрн /",
@@ -421,7 +421,7 @@ const allCardsGameFindAPair = {
             ru:"Отформатируй"
             },
     ],
-    technologic1: [
+    technologic1a1: [
         {
             id:1,
             eng:"Buy / бАй /",
@@ -544,7 +544,7 @@ const allCardsGameFindAPair = {
             },
     ],
 
-    santalapfart3: [
+    santalapfart3c1: [
         {
             id:1,
             eng:"mom made beans / мам мэйд бинз /",
@@ -776,7 +776,7 @@ const allCardsGameFindAPair = {
             ru:"выложился на максимум, сделал всё в своих силах"
             },
     ],
-    santalapfart2: [
+    santalapfart2b2: [
         {
             id:24,
             eng:"ask for something ",
@@ -893,7 +893,7 @@ const allCardsGameFindAPair = {
             ru:"выложился на максимум, сделал всё в своих силах"
             },
     ],
-    santalapfart1: [
+    santalapfart1b1: [
         {
             id:1,
             eng:"mom made beans / мам мэйд бинз /",
@@ -1343,7 +1343,7 @@ const allCardsGameFindAPair = {
             ru:"наручные часы"
             },
     ],
-    questions111clothes: [
+    questions111clothesb1: [
         
         {
         

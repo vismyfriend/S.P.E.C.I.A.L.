@@ -616,7 +616,7 @@ function startGameQuestions() {
 
     // спросить у Andrew как делать перенос строки в Java? <br> работает только в HTML
     // ${<br/>}
-    usedCheatsText.textContent = `Если заметите опечатку, ошибку или если что-то съехало в тексте или какая-то идея придет вам в голову как еще улучшить или чего-то добавить, убрать в приложении : PLEASE, сделайте скриншот и отправьте мне в телеграм: @vismyfriend`
+    usedCheatsText.textContent = `Если заметите опечатку, ошибку, если что-то съехало в тексте или какая-то идея придет вам в голову как еще улучшить или чего-то добавить, убрать в приложении : PLEASE, сделайте скриншот и отправьте мне в телеграм: @vismyfriend`
     // usedCheatsText.textContent = `нажимай на карту из колоды и читай вслух:`
     usedCheatsText.classList.add("visible")
     oneDeckButtonText.classList.add("visible")

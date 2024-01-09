@@ -1,6 +1,6 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allWordsForGameTypeOrWrite = {
-    technologic3: [
+    technologic3b1: [
         {
             id:1,
             eng:"Buy",
@@ -297,7 +297,7 @@ const allWordsForGameTypeOrWrite = {
             ru:"Как на английском языке написать :  Петь песню"
             },
     ],
-    technologic2: [
+    technologic2a2: [
     
             {
             id:25,
@@ -420,7 +420,7 @@ const allWordsForGameTypeOrWrite = {
             ru:"Как на английском языке написать :  Отформатируй"
             },
     ],
-    technologic1: [
+    technologic1a1: [
         {
             id:1,
             eng:"Buy",
@@ -876,7 +876,7 @@ const allWordsForGameTypeOrWrite = {
             ru:"Как на английском языке написать :  наручные часы"
             },
     ],
-    questions111clothes: [
+    questions111clothesb1: [
         {
             id:1,
             eng:"a hat",

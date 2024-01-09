@@ -1,5 +1,658 @@
 // добавляем константу с данными - с массивом // Здесь задания для теста или квиза (QuizQ) с выбором ответов
 const quizQuesstionsList = {
+
+    sara: [
+        {
+            id: 1,
+            quizQuestion: "They ___ my friends",
+            answers: [
+                {
+                    answer: "aren't",
+                    correct: true
+                },
+                {
+                    answer: "don't",
+                    correct: false
+                },
+                {
+                    answer: "doesn't",
+                    correct: false
+                },
+                {
+                    answer: "-",
+                    correct: false
+                },
+                {
+                    answer: "be",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 2,
+            quizQuestion: "She ___ a good girl",
+            answers: [
+                {
+                    answer: "is not",
+                    correct: true
+                },
+                {
+                    answer: "doesn't",
+                    correct: false
+                },
+                {
+                    answer: "does",
+                    correct: false
+                },
+                {
+                    answer: "my",
+                    correct: false
+                },
+                {
+                    answer: "hasn't ",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 3,
+            quizQuestion: "I ___ agent",
+            answers: [
+                {
+                    answer: "am a secret",
+                    correct: true
+                },
+                {
+                    answer: "don't a secret",
+                    correct: false
+                },
+                {
+                    answer: "amn't a secret",
+                    correct: false
+                },
+                {
+                    answer: "am",
+                    correct: false
+                },
+                {
+                    answer: "am not secret",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 4,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "I wake up at 6 AM not very often.",
+                    correct: true
+                },
+                {
+                    answer: "I waking up at 6 AM every day.",
+                    correct: false
+                },
+                {
+                    answer: "I wake up at 6 AM O'CLOCK every day.",
+                    correct: false
+                },
+                {
+                    answer: "I wake up at 6 AM yesterday.",
+                    correct: false
+                },
+                {
+                    answer: "I wake up at 6 AM right now.",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 5,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "I wake up at 6 AM every day.",
+                    correct: true
+                },
+                {
+                    answer: "I waking up at 6 AM every day.",
+                    correct: false
+                },
+                {
+                    answer: "I wake up at 6 AM yesterday.",
+                    correct: false
+                },
+                {
+                    answer: "I wake up at 6 AM tomorrow.",
+                    correct: false
+                },
+                {
+                    answer: "I am usually wake up at 6 AM ",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 6,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "She cleans teeth in the morning.",
+                    correct: true
+                },
+                {
+                    answer: "She get a shower in the morning.",
+                    correct: false
+                },
+                {
+                    answer: "She take a shower in the morning.",
+                    correct: false
+                },
+                {
+                    answer: "She brush teeth in the morning.",
+                    correct: false
+                },
+                {
+                    answer: "She have a shower in the morning.",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 7,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "She brushes teeth in the morning.",
+                    correct: true
+                },
+                {
+                    answer: "She is brushing teeth in the morning.",
+                    correct: false
+                },
+                {
+                    answer: "She brush teeth in the morning.",
+                    correct: false
+                },
+                {
+                    answer: "She doesn't brushes teeth in the morning.",
+                    correct: false
+                },
+                {
+                    answer: "She brushes a teeth in the morning.",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 8,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "I get dressed before I brush my teeth.",
+                    correct: true
+                },
+                {
+                    answer: "I get dressed after I'm brushing my teeth.",
+                    correct: false
+                },
+                {
+                    answer: "I get dressed and brushes my teeth.",
+                    correct: false
+                },
+                {
+                    answer: "I get dressed while I brushing my teeth.",
+                    correct: false
+                },
+                {
+                    answer: "I doesn't brush my teeth and not dressed",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 9,
+            quizQuestion: "Как произносится слово 'рано' ?",
+            answers: [
+                {
+                    answer: "/что-то среднее между О и Ё/",
+                    correct: true
+                },
+                {
+                    answer: "/Оли/",
+                    correct: false
+                },
+                {
+                    answer: "/Ёрли/",
+                    correct: false
+                },
+                {
+                    answer: "/Орли/",
+                    correct: false
+                },
+                {
+                    answer: "/Ёли/",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 10,
+            quizQuestion: "How many times do you brush teeth?",
+            answers: [
+                {
+                    answer: "2 times",
+                    correct: true
+                },
+                {
+                    answer: "1 times",
+                    correct: false
+                },
+                {
+                    answer: "2 time",
+                    correct: false
+                },
+                {
+                    answer: "2 minutes",
+                    correct: false
+                },
+                {
+                    answer: "1 minute",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 11,
+            quizQuestion: "How long do you brush your teeth?",
+            answers: [
+                {
+                    answer: "2 minutes",
+                    correct: true
+                },
+                {
+                    answer: "1 times",
+                    correct: false
+                },
+                {
+                    answer: "2 time",
+                    correct: false
+                },
+                {
+                    answer: "1 minutes",
+                    correct: false
+                },
+                {
+                    answer: "1 or 2 times usually",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 12,
+            quizQuestion: "Что такое /бЭДрум/",
+            answers: [
+                {
+                    answer: "спальня",
+                    correct: true
+                },
+                {
+                    answer: "плохая комната",
+                    correct: false
+                },
+                {
+                    answer: "ванная",
+                    correct: false
+                },
+                {
+                    answer: "комната Бэтмэна",
+                    correct: false
+                },
+                {
+                    answer: "секретная комната",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 13,
+            quizQuestion: "Как произносится bathroom?",
+            answers: [
+                {
+                    answer: "язык между зубов",
+                    correct: true
+                },
+                {
+                    answer: "/бэТрум/",
+                    correct: false
+                },
+                {
+                    answer: "/бэДрум/",
+                    correct: false
+                },
+                {
+                    answer: "/бэСрум/",
+                    correct: false
+                },
+                {
+                    answer: "/эФрум/",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 14,
+            quizQuestion: "Как написать: она спит",
+            answers: [
+                {
+                    answer: "she sleeps",
+                    correct: true
+                },
+                {
+                    answer: "she sleps",
+                    correct: false
+                },
+                {
+                    answer: "she slиps",
+                    correct: false
+                },
+                {
+                    answer: "she sleaps",
+                    correct: false
+                },
+                {
+                    answer: "she slips",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 15,
+            quizQuestion: "Как по-английски 'смотреть в свой телефон'",
+            answers: [
+                {
+                    answer: "look at my phone",
+                    correct: true
+                },
+                {
+                    answer: "watch my phone",
+                    correct: false
+                },
+                {
+                    answer: "look in my phone",
+                    correct: false
+                },
+                {
+                    answer: "see in my phone",
+                    correct: false
+                },
+                {
+                    answer: "watch at my phone",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 16,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "He never smokes",
+                    correct: true
+                },
+                {
+                    answer: "He doesn't never smoke",
+                    correct: false
+                },
+                {
+                    answer: "He not smoke",
+                    correct: false
+                },
+                {
+                    answer: "He is not smoke",
+                    correct: false
+                },
+                {
+                    answer: "He is never smoke",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 17,
+            quizQuestion: "She ___ a good job.",
+            answers: [
+                {
+                    answer: "doesn't have",
+                    correct: true
+                },
+                {
+                    answer: "haven't",
+                    correct: false
+                },
+                {
+                    answer: "is not have",
+                    correct: false
+                },
+                {
+                    answer: "have",
+                    correct: false
+                },
+                {
+                    answer: "hasn't ",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 18,
+            quizQuestion: "I ___ the best teacher!",
+            answers: [
+                {
+                    answer: "have",
+                    correct: true
+                },
+                {
+                    answer: "has",
+                    correct: false
+                },
+                {
+                    answer: "haven't",
+                    correct: false
+                },
+                {
+                    answer: "hasn't",
+                    correct: false
+                },
+                {
+                    answer: "am have",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 19,
+            quizQuestion: "Как спросить 'Во сколько' ?",
+            answers: [
+                {
+                    answer: "What time?",
+                    correct: true
+                },
+                {
+                    answer: "How long?",
+                    correct: false
+                },
+                {
+                    answer: "How many times?",
+                    correct: false
+                },
+                {
+                    answer: "How much time?",
+                    correct: false
+                },
+                {
+                    answer: "When o'clock?",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 20,
+            quizQuestion: "Как произносится 'Who' ?",
+            answers: [
+                {
+                    answer: "/хУ/",
+                    correct: true
+                },
+                {
+                    answer: "/хО/",
+                    correct: false
+                },
+                {
+                    answer: "/У/",
+                    correct: false
+                },
+                {
+                    answer: "/вХу/",
+                    correct: false
+                },
+                {
+                    answer: "/хо хо хо/",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 21,
+            quizQuestion: "Как произносится 'Why' ?",
+            answers: [
+                {
+                    answer: "/уАй/",
+                    correct: true
+                },
+                {
+                    answer: "/хАй/",
+                    correct: false
+                },
+                {
+                    answer: "/хУ/",
+                    correct: false
+                },
+                {
+                    answer: "/вХу/",
+                    correct: false
+                },
+                {
+                    answer: "/хЭzЭ/",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 22,
+            quizQuestion: "Как спросить 'Как часто' ?",
+            answers: [
+                {
+                    answer: "How often?",
+                    correct: true
+                },
+                {
+                    answer: "How much?",
+                    correct: false
+                },
+                {
+                    answer: "How long?",
+                    correct: false
+                },
+                {
+                    answer: "When?",
+                    correct: false
+                },
+                {
+                    answer: "How ofen?",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 23,
+            quizQuestion: "What is the correct sentence?",
+            answers: [
+                {
+                    answer: "Homework is good",
+                    correct: true
+                },
+                {
+                    answer: "Homework not good",
+                    correct: false
+                },
+                {
+                    answer: "Homework stupid",
+                    correct: false
+                },
+                {
+                    answer: "Homework doesn't bad",
+                    correct: false
+                },
+                {
+                    answer: "I am potato",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 24,
+            quizQuestion: "Как пишется 'зубная щетка'",
+            answers: [
+                {
+                    answer: "tooth brush",
+                    correct: true
+                },
+                {
+                    answer: "tooth brash",
+                    correct: false
+                },
+                {
+                    answer: "teeth brash",
+                    correct: false
+                },
+                {
+                    answer: "teeth brush",
+                    correct: false
+                },
+                {
+                    answer: "teeth cleaner",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 25,
+            quizQuestion: "Vincent and I drink alcohol ___ .",
+            answers: [
+                {
+                    answer: "behind the garages",
+                    correct: true
+                },
+                {
+                    answer: "тугеZэр",
+                    correct: false
+                },
+                {
+                    answer: "not",
+                    correct: false
+                },
+                {
+                    answer: "don't drink",
+                    correct: false
+                },
+                {
+                    answer: "yesterday",
+                    correct: false
+                },
+            ]
+        },
+    ],
     m004numbers: [
         {
             id: 18,
@@ -9190,7 +9843,7 @@ const quizQuesstionsList = {
             ]
         },
     ],
-    clothes: [
+    questions111clothesb1: [
         {
             id: 1,
             quizQuestion: "Как на английском сказать: Надеть",
@@ -9686,658 +10339,7 @@ const quizQuesstionsList = {
             ]
         },
     ],
-    sara: [
-        {
-            id: 1,
-            quizQuestion: "They ___ my friends",
-            answers: [
-                {
-                    answer: "aren't",
-                    correct: true
-                },
-                {
-                    answer: "don't",
-                    correct: false
-                },
-                {
-                    answer: "doesn't",
-                    correct: false
-                },
-                {
-                    answer: "-",
-                    correct: false
-                },
-                {
-                    answer: "be",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 2,
-            quizQuestion: "She ___ a good girl",
-            answers: [
-                {
-                    answer: "is not",
-                    correct: true
-                },
-                {
-                    answer: "doesn't",
-                    correct: false
-                },
-                {
-                    answer: "does",
-                    correct: false
-                },
-                {
-                    answer: "my",
-                    correct: false
-                },
-                {
-                    answer: "hasn't ",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 3,
-            quizQuestion: "I ___ agent",
-            answers: [
-                {
-                    answer: "am a secret",
-                    correct: true
-                },
-                {
-                    answer: "don't a secret",
-                    correct: false
-                },
-                {
-                    answer: "amn't a secret",
-                    correct: false
-                },
-                {
-                    answer: "am",
-                    correct: false
-                },
-                {
-                    answer: "am not secret",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 4,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "I wake up at 6 AM not very often.",
-                    correct: true
-                },
-                {
-                    answer: "I waking up at 6 AM every day.",
-                    correct: false
-                },
-                {
-                    answer: "I wake up at 6 AM O'CLOCK every day.",
-                    correct: false
-                },
-                {
-                    answer: "I wake up at 6 AM yesterday.",
-                    correct: false
-                },
-                {
-                    answer: "I wake up at 6 AM right now.",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 5,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "I wake up at 6 AM every day.",
-                    correct: true
-                },
-                {
-                    answer: "I waking up at 6 AM every day.",
-                    correct: false
-                },
-                {
-                    answer: "I wake up at 6 AM yesterday.",
-                    correct: false
-                },
-                {
-                    answer: "I wake up at 6 AM tomorrow.",
-                    correct: false
-                },
-                {
-                    answer: "I am usually wake up at 6 AM ",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 6,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "She cleans teeth in the morning.",
-                    correct: true
-                },
-                {
-                    answer: "She get a shower in the morning.",
-                    correct: false
-                },
-                {
-                    answer: "She take a shower in the morning.",
-                    correct: false
-                },
-                {
-                    answer: "She brush teeth in the morning.",
-                    correct: false
-                },
-                {
-                    answer: "She have a shower in the morning.",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 7,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "She brushes teeth in the morning.",
-                    correct: true
-                },
-                {
-                    answer: "She is brushing teeth in the morning.",
-                    correct: false
-                },
-                {
-                    answer: "She brush teeth in the morning.",
-                    correct: false
-                },
-                {
-                    answer: "She doesn't brushes teeth in the morning.",
-                    correct: false
-                },
-                {
-                    answer: "She brushes a teeth in the morning.",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 8,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "I get dressed before I brush my teeth.",
-                    correct: true
-                },
-                {
-                    answer: "I get dressed after I'm brushing my teeth.",
-                    correct: false
-                },
-                {
-                    answer: "I get dressed and brushes my teeth.",
-                    correct: false
-                },
-                {
-                    answer: "I get dressed while I brushing my teeth.",
-                    correct: false
-                },
-                {
-                    answer: "I doesn't brush my teeth and not dressed",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 9,
-            quizQuestion: "Как произносится слово 'рано' ?",
-            answers: [
-                {
-                    answer: "/что-то среднее между О и Ё/",
-                    correct: true
-                },
-                {
-                    answer: "/Оли/",
-                    correct: false
-                },
-                {
-                    answer: "/Ёрли/",
-                    correct: false
-                },
-                {
-                    answer: "/Орли/",
-                    correct: false
-                },
-                {
-                    answer: "/Ёли/",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 10,
-            quizQuestion: "How many times do you brush teeth?",
-            answers: [
-                {
-                    answer: "2 times",
-                    correct: true
-                },
-                {
-                    answer: "1 times",
-                    correct: false
-                },
-                {
-                    answer: "2 time",
-                    correct: false
-                },
-                {
-                    answer: "2 minutes",
-                    correct: false
-                },
-                {
-                    answer: "1 minute",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 11,
-            quizQuestion: "How long do you brush your teeth?",
-            answers: [
-                {
-                    answer: "2 minutes",
-                    correct: true
-                },
-                {
-                    answer: "1 times",
-                    correct: false
-                },
-                {
-                    answer: "2 time",
-                    correct: false
-                },
-                {
-                    answer: "1 minutes",
-                    correct: false
-                },
-                {
-                    answer: "1 or 2 times usually",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 12,
-            quizQuestion: "Что такое /бЭДрум/",
-            answers: [
-                {
-                    answer: "спальня",
-                    correct: true
-                },
-                {
-                    answer: "плохая комната",
-                    correct: false
-                },
-                {
-                    answer: "ванная",
-                    correct: false
-                },
-                {
-                    answer: "комната Бэтмэна",
-                    correct: false
-                },
-                {
-                    answer: "секретная комната",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 13,
-            quizQuestion: "Как произносится bathroom?",
-            answers: [
-                {
-                    answer: "язык между зубов",
-                    correct: true
-                },
-                {
-                    answer: "/бэТрум/",
-                    correct: false
-                },
-                {
-                    answer: "/бэДрум/",
-                    correct: false
-                },
-                {
-                    answer: "/бэСрум/",
-                    correct: false
-                },
-                {
-                    answer: "/эФрум/",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 14,
-            quizQuestion: "Как написать: она спит",
-            answers: [
-                {
-                    answer: "she sleeps",
-                    correct: true
-                },
-                {
-                    answer: "she sleps",
-                    correct: false
-                },
-                {
-                    answer: "she slиps",
-                    correct: false
-                },
-                {
-                    answer: "she sleaps",
-                    correct: false
-                },
-                {
-                    answer: "she slips",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 15,
-            quizQuestion: "Как по-английски 'смотреть в свой телефон'",
-            answers: [
-                {
-                    answer: "look at my phone",
-                    correct: true
-                },
-                {
-                    answer: "watch my phone",
-                    correct: false
-                },
-                {
-                    answer: "look in my phone",
-                    correct: false
-                },
-                {
-                    answer: "see in my phone",
-                    correct: false
-                },
-                {
-                    answer: "watch at my phone",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 16,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "He never smokes",
-                    correct: true
-                },
-                {
-                    answer: "He doesn't never smoke",
-                    correct: false
-                },
-                {
-                    answer: "He not smoke",
-                    correct: false
-                },
-                {
-                    answer: "He is not smoke",
-                    correct: false
-                },
-                {
-                    answer: "He is never smoke",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 17,
-            quizQuestion: "She ___ a good job.",
-            answers: [
-                {
-                    answer: "doesn't have",
-                    correct: true
-                },
-                {
-                    answer: "haven't",
-                    correct: false
-                },
-                {
-                    answer: "is not have",
-                    correct: false
-                },
-                {
-                    answer: "have",
-                    correct: false
-                },
-                {
-                    answer: "hasn't ",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 18,
-            quizQuestion: "I ___ the best teacher!",
-            answers: [
-                {
-                    answer: "have",
-                    correct: true
-                },
-                {
-                    answer: "has",
-                    correct: false
-                },
-                {
-                    answer: "haven't",
-                    correct: false
-                },
-                {
-                    answer: "hasn't",
-                    correct: false
-                },
-                {
-                    answer: "am have",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 19,
-            quizQuestion: "Как спросить 'Во сколько' ?",
-            answers: [
-                {
-                    answer: "What time?",
-                    correct: true
-                },
-                {
-                    answer: "How long?",
-                    correct: false
-                },
-                {
-                    answer: "How many times?",
-                    correct: false
-                },
-                {
-                    answer: "How much time?",
-                    correct: false
-                },
-                {
-                    answer: "When o'clock?",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 20,
-            quizQuestion: "Как произносится 'Who' ?",
-            answers: [
-                {
-                    answer: "/хУ/",
-                    correct: true
-                },
-                {
-                    answer: "/хО/",
-                    correct: false
-                },
-                {
-                    answer: "/У/",
-                    correct: false
-                },
-                {
-                    answer: "/вХу/",
-                    correct: false
-                },
-                {
-                    answer: "/хо хо хо/",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 21,
-            quizQuestion: "Как произносится 'Why' ?",
-            answers: [
-                {
-                    answer: "/уАй/",
-                    correct: true
-                },
-                {
-                    answer: "/хАй/",
-                    correct: false
-                },
-                {
-                    answer: "/хУ/",
-                    correct: false
-                },
-                {
-                    answer: "/вХу/",
-                    correct: false
-                },
-                {
-                    answer: "/хЭzЭ/",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 22,
-            quizQuestion: "Как спросить 'Как часто' ?",
-            answers: [
-                {
-                    answer: "How often?",
-                    correct: true
-                },
-                {
-                    answer: "How much?",
-                    correct: false
-                },
-                {
-                    answer: "How long?",
-                    correct: false
-                },
-                {
-                    answer: "When?",
-                    correct: false
-                },
-                {
-                    answer: "How ofen?",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 23,
-            quizQuestion: "What is the correct sentence?",
-            answers: [
-                {
-                    answer: "Homework is good",
-                    correct: true
-                },
-                {
-                    answer: "Homework not good",
-                    correct: false
-                },
-                {
-                    answer: "Homework stupid",
-                    correct: false
-                },
-                {
-                    answer: "Homework doesn't bad",
-                    correct: false
-                },
-                {
-                    answer: "I am potato",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 24,
-            quizQuestion: "Как пишется 'зубная щетка'",
-            answers: [
-                {
-                    answer: "tooth brush",
-                    correct: true
-                },
-                {
-                    answer: "tooth brash",
-                    correct: false
-                },
-                {
-                    answer: "teeth brash",
-                    correct: false
-                },
-                {
-                    answer: "teeth brush",
-                    correct: false
-                },
-                {
-                    answer: "teeth cleaner",
-                    correct: false
-                },
-            ]
-        },
-        {
-            id: 25,
-            quizQuestion: "Vincent and I drink alcohol ___ .",
-            answers: [
-                {
-                    answer: "behind the garages",
-                    correct: true
-                },
-                {
-                    answer: "тугеZэр",
-                    correct: false
-                },
-                {
-                    answer: "not",
-                    correct: false
-                },
-                {
-                    answer: "don't drink",
-                    correct: false
-                },
-                {
-                    answer: "yesterday",
-                    correct: false
-                },
-            ]
-        },
-    ],
+   
     anika: [
         {
             id: 1,
