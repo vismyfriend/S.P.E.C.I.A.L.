@@ -1,5 +1,431 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+
+    santafart42: [
+        {
+            id:1,
+            eng:"Как по-английски сказать ` мама приготовила бобы` ?",
+            ru:"What is the Russian for ` MOM MADE BEANS / мам мэйд бинз /` ?"
+            },
+            {
+            id:2,
+            eng:"What is the English for ` их` ?",
+            ru:"How do you translate ` ‘EM = THEM / эм = дэм /` ?"
+            },
+            {
+            id:3,
+            eng:"How do you say ` накинь, надень своё пальто ` in English ?",
+            ru:"Как переводится `GET YOUR COAT ON ` на русском?"
+            },
+            {
+            id:4,
+            eng:"How do you translate ` большой магазин` ?",
+            ru:"Translate into Russian: `MALL / мол / `"
+            },
+            {
+            id:5,
+            eng:"Как по-английски сказать ` всё о чем я мог думать` ?",
+            ru:"What is the Russian for ` ALL I COULD THINK OF / ол ай куд /` ?"
+            },
+            {
+            id:6,
+            eng:"What is the English for ` как не сделать это` ?",
+            ru:"How do you translate ` HOW NOT TO DO IT / хау нат ту ду ит /` ?"
+            },
+            {
+            id:7,
+            eng:"How do you say ` нарезать сыр ( пукнуть ) ` in English ?",
+            ru:"Как переводится `CUT THE CHEESE ( TO FART ) ` на русском?"
+            },
+            {
+            id:8,
+            eng:"How do you translate ` в то время как, пока` ?",
+            ru:"Translate into Russian: `WHILE / уйал / `"
+            },
+            {
+            id:9,
+            eng:"Как по-английски сказать ` ждать кого-то` ?",
+            ru:"What is the Russian for ` WAIT FOR SOMEONE ` ?"
+            },
+            {
+            id:10,
+            eng:"What is the English for ` я бы взорвался` ?",
+            ru:"How do you translate ` I'D EXPLODE / айд эксплОуд /` ?"
+            },
+            {
+            id:11,
+            eng:"How do you say ` газовый пузырь  ` in English ?",
+            ru:"Как переводится `THE GAS BUBBLE  / дэ гэс бабл /` на русском?"
+            },
+            {
+            id:12,
+            eng:"How do you translate ` нарастал, становился больше` ?",
+            ru:"Translate into Russian: `GREW BIGGER  / грУ бигэ / `"
+            },
+            {
+            id:13,
+            eng:"Как по-английски сказать ` с каждым словом` ?",
+            ru:"What is the Russian for ` WITH EVERY WORD ` ?"
+            },
+            {
+            id:14,
+            eng:"What is the English for ` выложился на максимум, сделал всё в своих силах` ?",
+            ru:"How do you translate ` TRIED MY BEST  / трайд май бэст /` ?"
+            },
+            {
+            id:15,
+            eng:"How do you say ` прятать под, скрывать под ` in English ?",
+            ru:"Как переводится `HIDE UNDER  / хайд андэ /` на русском?"
+            },
+            {
+            id:16,
+            eng:"How do you translate ` думал` ?",
+            ru:"Translate into Russian: `THOUGHT  / thot / `"
+            },
+            {
+            id:17,
+            eng:"Как по-английски сказать ` я был в ударе, справлялся` ?",
+            ru:"What is the Russian for ` I WAS DOING SWELL ` ?"
+            },
+            {
+            id:18,
+            eng:"What is the English for ` колени, коленки` ?",
+            ru:"How do you translate ` KNEES, LAPS / нис , лэпс /` ?"
+            },
+            {
+            id:19,
+            eng:"How do you say ` вонять (отстой, стрёмный) ` in English ?",
+            ru:"Как переводится `STINK / стинк /` на русском?"
+            },
+            {
+            id:20,
+            eng:"How do you translate ` что за запах?` ?",
+            ru:"Translate into Russian: `WHAT'S THAT SMELL? / смЭл / `"
+            },
+            {
+            id:21,
+            eng:"Как по-английски сказать ` ничего под` ?",
+            ru:"What is the Russian for ` NOTHING UNDER / наthЫн андэ /` ?"
+            },
+            {
+            id:22,
+            eng:"What is the English for ` ёлка` ?",
+            ru:"How do you translate ` CHRISTMAS TREE / крисмас три /` ?"
+            },
+            {
+            id:23,
+            eng:"How do you say ` бейсбольная бита ` in English ?",
+            ru:"Как переводится `A BASEBALL BAT / бэйсбол бэт /` на русском?"
+            },
+            {
+            id:24,
+            eng:"How do you translate ` просить чего-то` ?",
+            ru:"Translate into Russian: `ASK FOR SOMETHING  `"
+            },
+            {
+            id:25,
+            eng:"Как по-английски сказать ` коньки` ?",
+            ru:"What is the Russian for ` ICE SKATES / айс скейтс /` ?"
+            },
+            {
+            id:26,
+            eng:"What is the English for ` ничего из того` ?",
+            ru:"How do you translate ` NONE OF THAT / нан ов дэт /` ?"
+            },
+            {
+            id:27,
+            eng:"How do you say ` много вещей ` in English ?",
+            ru:"Как переводится `A LOT OF THINGS ` на русском?"
+            },
+            {
+            id:28,
+            eng:"How do you translate ` позволить выскользнуть, вырваться` ?",
+            ru:"Translate into Russian: `LET SLIP OUT / лэт слип аут / `"
+            },
+            {
+            id:29,
+            eng:"Как по-английски сказать ` в канун рождества, ночь перед рождеством` ?",
+            ru:"What is the Russian for ` ON CHRISTMAS EVE  / он крисмас ив /` ?"
+            },
+            {
+            id:30,
+            eng:"What is the English for ` улизнул, выкрался из дома` ?",
+            ru:"How do you translate ` SNUCK OUT OF HOME / снАк аут ов хоум /` ?"
+            },
+            {
+            id:31,
+            eng:"How do you say ` без звука ` in English ?",
+            ru:"Как переводится `WITHOUT A SOUND ` на русском?"
+            },
+            {
+            id:32,
+            eng:"How do you translate ` зал, гостиная` ?",
+            ru:"Translate into Russian: `LIVING ROOM  / ливин рум / `"
+            },
+            {
+            id:33,
+            eng:"Как по-английски сказать ` осмотреться` ?",
+            ru:"What is the Russian for ` TAKE A LOOK AROUND ` ?"
+            },
+            {
+            id:34,
+            eng:"What is the English for ` наполнен подарками` ?",
+            ru:"How do you translate ` FULL OF PRESENTS  / фул ов прэзэнтс /` ?"
+            },
+            {
+            id:35,
+            eng:"How do you say ` куча ` in English ?",
+            ru:"Как переводится `A PILE  / э пАйл /` на русском?"
+            },
+            {
+            id:36,
+            eng:"How do you translate ` развернуться` ?",
+            ru:"Translate into Russian: `TURN AROUND / тёрн эрАунд / `"
+            },
+            {
+            id:37,
+            eng:"Как по-английски сказать ` такая великая сила` ?",
+            ru:"What is the Russian for ` SUCH GREAT FORCE  / сач грэйт форс /` ?"
+            },
+            {
+            id:38,
+            eng:"What is the English for ` почти свалилась` ?",
+            ru:"How do you translate ` ALMOST CAME DOWN / олмост кем даун /` ?"
+            },
+            {
+            id:39,
+            eng:"How do you say ` дорожить моментом ` in English ?",
+            ru:"Как переводится `CHERISH A MOMENT / чЕриш э моУмэнт /` на русском?"
+            },
+            {
+            id:40,
+            eng:"How do you translate ` она осознала` ?",
+            ru:"Translate into Russian: `SHE REALIZED / щи риалАйзд / `"
+            },
+            {
+            id:41,
+            eng:"Как по-английски сказать ` даже святой Николай` ?",
+            ru:"What is the Russian for ` EVEN SAINT NICK / ивн сЭйнт ник /` ?"
+            },
+            {
+            id:42,
+            eng:"What is the English for ` порой, от времени к времени` ?",
+            ru:"How do you translate ` NOW AND THEN / нау эн дэн /` ?"
+            },
+    ],
+    santafart23: [
+        {
+            id:1,
+            eng:"Как по-английски сказать ` мама приготовила бобы` ?",
+            ru:"What is the Russian for ` MOM MADE BEANS / мам мэйд бинз /` ?"
+            },
+            {
+            id:2,
+            eng:"What is the English for ` их` ?",
+            ru:"How do you translate ` ‘EM = THEM / эм = дэм /` ?"
+            },
+            {
+            id:3,
+            eng:"How do you say ` накинь, надень своё пальто ` in English ?",
+            ru:"Как переводится `GET YOUR COAT ON ` на русском?"
+            },
+            {
+            id:4,
+            eng:"How do you translate ` большой магазин` ?",
+            ru:"Translate into Russian: `MALL / мол / `"
+            },
+            {
+            id:5,
+            eng:"Как по-английски сказать ` всё о чем я мог думать` ?",
+            ru:"What is the Russian for ` ALL I COULD THINK OF / ол ай куд /` ?"
+            },
+            {
+            id:6,
+            eng:"What is the English for ` как не сделать это` ?",
+            ru:"How do you translate ` HOW NOT TO DO IT / хау нат ту ду ит /` ?"
+            },
+            {
+            id:7,
+            eng:"How do you say ` нарезать сыр ( пукнуть ) ` in English ?",
+            ru:"Как переводится `CUT THE CHEESE ( TO FART ) ` на русском?"
+            },
+            {
+            id:8,
+            eng:"How do you translate ` в то время как, пока` ?",
+            ru:"Translate into Russian: `WHILE / уйал / `"
+            },
+            {
+            id:9,
+            eng:"Как по-английски сказать ` ждать кого-то` ?",
+            ru:"What is the Russian for ` WAIT FOR SOMEONE ` ?"
+            },
+            {
+            id:10,
+            eng:"What is the English for ` я бы взорвался` ?",
+            ru:"How do you translate ` I'D EXPLODE / айд эксплОуд /` ?"
+            },
+            {
+            id:11,
+            eng:"How do you say ` газовый пузырь  ` in English ?",
+            ru:"Как переводится `THE GAS BUBBLE  / дэ гэс бабл /` на русском?"
+            },
+            {
+            id:12,
+            eng:"How do you translate ` нарастал, становился больше` ?",
+            ru:"Translate into Russian: `GREW BIGGER  / грУ бигэ / `"
+            },
+            {
+            id:13,
+            eng:"Как по-английски сказать ` с каждым словом` ?",
+            ru:"What is the Russian for ` WITH EVERY WORD ` ?"
+            },
+            {
+            id:14,
+            eng:"What is the English for ` выложился на максимум, сделал всё в своих силах` ?",
+            ru:"How do you translate ` TRIED MY BEST  / трайд май бэст /` ?"
+            },
+            {
+            id:15,
+            eng:"How do you say ` прятать под, скрывать под ` in English ?",
+            ru:"Как переводится `HIDE UNDER  / хайд андэ /` на русском?"
+            },
+            {
+            id:16,
+            eng:"How do you translate ` думал` ?",
+            ru:"Translate into Russian: `THOUGHT  / thot / `"
+            },
+            {
+            id:17,
+            eng:"Как по-английски сказать ` я был в ударе, справлялся` ?",
+            ru:"What is the Russian for ` I WAS DOING SWELL ` ?"
+            },
+            {
+            id:18,
+            eng:"What is the English for ` колени, коленки` ?",
+            ru:"How do you translate ` KNEES, LAPS / нис , лэпс /` ?"
+            },
+            {
+            id:19,
+            eng:"How do you say ` вонять (отстой, стрёмный) ` in English ?",
+            ru:"Как переводится `STINK / стинк /` на русском?"
+            },
+            {
+            id:20,
+            eng:"How do you translate ` что за запах?` ?",
+            ru:"Translate into Russian: `WHAT'S THAT SMELL? / смЭл / `"
+            },
+            {
+            id:21,
+            eng:"Как по-английски сказать ` ничего под` ?",
+            ru:"What is the Russian for ` NOTHING UNDER / наthЫн андэ /` ?"
+            },
+            {
+            id:22,
+            eng:"What is the English for ` ёлка` ?",
+            ru:"How do you translate ` CHRISTMAS TREE / крисмас три /` ?"
+            },
+            {
+            id:23,
+            eng:"How do you say ` бейсбольная бита ` in English ?",
+            ru:"Как переводится `A BASEBALL BAT / бэйсбол бэт /` на русском?"
+            },
+            {
+            id:24,
+            eng:"How do you translate ` просить чего-то` ?",
+            ru:"Translate into Russian: `ASK FOR SOMETHING  `"
+            },
+            {
+            id:25,
+            eng:"Как по-английски сказать ` коньки` ?",
+            ru:"What is the Russian for ` ICE SKATES / айс скейтс /` ?"
+            },
+            {
+            id:26,
+            eng:"What is the English for ` ничего из того` ?",
+            ru:"How do you translate ` NONE OF THAT / нан ов дэт /` ?"
+            },
+            {
+            id:27,
+            eng:"How do you say ` много вещей ` in English ?",
+            ru:"Как переводится `A LOT OF THINGS ` на русском?"
+            },
+            {
+            id:28,
+            eng:"How do you translate ` позволить выскользнуть, вырваться` ?",
+            ru:"Translate into Russian: `LET SLIP OUT / лэт слип аут / `"
+            },
+            {
+            id:29,
+            eng:"Как по-английски сказать ` в канун рождества, ночь перед рождеством` ?",
+            ru:"What is the Russian for ` ON CHRISTMAS EVE  / он крисмас ив /` ?"
+            },
+            {
+            id:30,
+            eng:"What is the English for ` улизнул, выкрался из дома` ?",
+            ru:"How do you translate ` SNUCK OUT OF HOME / снАк аут ов хоум /` ?"
+            },
+            {
+            id:31,
+            eng:"How do you say ` без звука ` in English ?",
+            ru:"Как переводится `WITHOUT A SOUND ` на русском?"
+            },
+            {
+            id:32,
+            eng:"How do you translate ` зал, гостиная` ?",
+            ru:"Translate into Russian: `LIVING ROOM  / ливин рум / `"
+            },
+            {
+            id:33,
+            eng:"Как по-английски сказать ` осмотреться` ?",
+            ru:"What is the Russian for ` TAKE A LOOK AROUND ` ?"
+            },
+            {
+            id:34,
+            eng:"What is the English for ` наполнен подарками` ?",
+            ru:"How do you translate ` FULL OF PRESENTS  / фул ов прэзэнтс /` ?"
+            },
+            {
+            id:35,
+            eng:"How do you say ` куча ` in English ?",
+            ru:"Как переводится `A PILE  / э пАйл /` на русском?"
+            },
+            {
+            id:36,
+            eng:"How do you translate ` развернуться` ?",
+            ru:"Translate into Russian: `TURN AROUND / тёрн эрАунд / `"
+            },
+            {
+            id:37,
+            eng:"Как по-английски сказать ` такая великая сила` ?",
+            ru:"What is the Russian for ` SUCH GREAT FORCE  / сач грэйт форс /` ?"
+            },
+            {
+            id:38,
+            eng:"What is the English for ` почти свалилась` ?",
+            ru:"How do you translate ` ALMOST CAME DOWN / олмост кем даун /` ?"
+            },
+            {
+            id:39,
+            eng:"How do you say ` дорожить моментом ` in English ?",
+            ru:"Как переводится `CHERISH A MOMENT / чЕриш э моУмэнт /` на русском?"
+            },
+            {
+            id:40,
+            eng:"How do you translate ` она осознала` ?",
+            ru:"Translate into Russian: `SHE REALIZED / щи риалАйзд / `"
+            },
+            {
+            id:41,
+            eng:"Как по-английски сказать ` даже святой Николай` ?",
+            ru:"What is the Russian for ` EVEN SAINT NICK / ивн сЭйнт ник /` ?"
+            },
+            {
+            id:42,
+            eng:"What is the English for ` порой, от времени к времени` ?",
+            ru:"How do you translate ` NOW AND THEN / нау эн дэн /` ?"
+            },
+    ],
+
     clothes03: [
         {
             id:43,
@@ -805,7 +1231,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:4,
-            eng:"How do you translate into English ` шлем` ?",
+            eng:"How do you translate ` шлем` ?",
             ru:"Translate into Russian: `A HELMET / хЭлмэт / `"
             },
             {
@@ -825,7 +1251,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:8,
-            eng:"How do you translate into English ` линзы` ?",
+            eng:"How do you translate ` линзы` ?",
             ru:"Translate into Russian: `LENSES / лЭнzЭz / `"
             },
             {
@@ -845,7 +1271,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:12,
-            eng:"How do you translate into English ` очки` ?",
+            eng:"How do you translate ` очки` ?",
             ru:"Translate into Russian: `GLASSES / гласэz  / `"
             },
             {
@@ -865,7 +1291,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:16,
-            eng:"How do you translate into English ` браслет` ?",
+            eng:"How do you translate ` браслет` ?",
             ru:"Translate into Russian: `A BRACELET / рЭйслет / `"
             },
             {
@@ -885,7 +1311,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:20,
-            eng:"How do you translate into English ` сумочка дамская` ?",
+            eng:"How do you translate ` сумочка дамская` ?",
             ru:"Translate into Russian: `A PURSE / пёс / `"
             },
             {
@@ -905,7 +1331,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:24,
-            eng:"How do you translate into English ` верх` ?",
+            eng:"How do you translate ` верх` ?",
             ru:"Translate into Russian: `A TOP  `"
             },
             {
@@ -925,7 +1351,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:28,
-            eng:"How do you translate into English ` жилетка` ?",
+            eng:"How do you translate ` жилетка` ?",
             ru:"Translate into Russian: `A VEST  `"
             },
             {
@@ -945,7 +1371,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:32,
-            eng:"How do you translate into English ` кофта, свитер` ?",
+            eng:"How do you translate ` кофта, свитер` ?",
             ru:"Translate into Russian: `A SWEATER /  суЭтэ  / `"
             },
             {
@@ -965,7 +1391,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:36,
-            eng:"How do you translate into English ` бюстгалтер` ?",
+            eng:"How do you translate ` бюстгалтер` ?",
             ru:"Translate into Russian: `A BRA /  бра  / `"
             },
             {
@@ -985,7 +1411,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:40,
-            eng:"How do you translate into English ` ремень` ?",
+            eng:"How do you translate ` ремень` ?",
             ru:"Translate into Russian: `A BELT / бэлт / `"
             },
             {
@@ -1005,7 +1431,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:44,
-            eng:"How do you translate into English ` трусишки, трусики, трусы, плавки` ?",
+            eng:"How do you translate ` трусишки, трусики, трусы, плавки` ?",
             ru:"Translate into Russian: `UNDER PANTS / пЭнтс / `"
             },
             {
@@ -1025,7 +1451,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:48,
-            eng:"How do you translate into English ` любая обувь & конкретно туфли` ?",
+            eng:"How do you translate ` любая обувь & конкретно туфли` ?",
             ru:"Translate into Russian: `SHOES / шуз / `"
             },
             {
@@ -1045,7 +1471,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:52,
-            eng:"How do you translate into English ` тапочки и носочки` ?",
+            eng:"How do you translate ` тапочки и носочки` ?",
             ru:"Translate into Russian: `SLIPPERS / слиперз / `"
             },
             {
@@ -1065,7 +1491,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:56,
-            eng:"How do you translate into English ` одежда` ?",
+            eng:"How do you translate ` одежда` ?",
             ru:"Translate into Russian: `CLOTHES / клОуз / `"
             },
             {
@@ -1085,7 +1511,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:60,
-            eng:"How do you translate into English ` нести в руках` ?",
+            eng:"How do you translate ` нести в руках` ?",
             ru:"Translate into Russian: `CARRY / кЭри / `"
             },
             {
@@ -1105,7 +1531,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:64,
-            eng:"How do you translate into English ` чулки` ?",
+            eng:"How do you translate ` чулки` ?",
             ru:"Translate into Russian: `STOCKINGS / стокингз / `"
             },
             {

@@ -1,6 +1,335 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
 
+    santafart42: [
+        {
+            id:1,
+            eng:"mom made beans / мам мэйд бинз /",
+            ru:"мама приготовила бобы"
+            },
+            {
+            id:2,
+            eng:"‘em = them / эм = дэм /",
+            ru:"их"
+            },
+            {
+            id:3,
+            eng:"get your coat on ",
+            ru:"накинь, надень своё пальто"
+            },
+            {
+            id:4,
+            eng:"mall / мол /",
+            ru:"большой магазин"
+            },
+            {
+            id:5,
+            eng:"all I could think of / ол ай куд /",
+            ru:"всё о чем я мог думать"
+            },
+            {
+            id:6,
+            eng:"how not to do it / хау нат ту ду ит /",
+            ru:"как не сделать это"
+            },
+            {
+            id:7,
+            eng:"cut the cheese ( to fart ) ",
+            ru:"нарезать сыр ( пукнуть )"
+            },
+            {
+            id:8,
+            eng:"while / уйал /",
+            ru:"в то время как, пока"
+            },
+            {
+            id:9,
+            eng:"wait for someone ",
+            ru:"ждать кого-то"
+            },
+            {
+            id:10,
+            eng:"I'd explode / айд эксплОуд /",
+            ru:"я бы взорвался"
+            },
+            {
+            id:11,
+            eng:"the gas bubble  / дэ гэс бабл /",
+            ru:"газовый пузырь "
+            },
+            {
+            id:12,
+            eng:"grew bigger  / грУ бигэ /",
+            ru:"нарастал, становился больше"
+            },
+            {
+            id:13,
+            eng:"with every word ",
+            ru:"с каждым словом"
+            },
+            {
+            id:14,
+            eng:"tried my best  / трайд май бэст /",
+            ru:"выложился на максимум, сделал всё в своих силах"
+            },
+            {
+            id:15,
+            eng:"hide under  / хайд андэ /",
+            ru:"прятать под, скрывать под"
+            },
+            {
+            id:16,
+            eng:"thought  / thot /",
+            ru:"думал"
+            },
+            {
+            id:17,
+            eng:"I was doing swell ",
+            ru:"я был в ударе, справлялся"
+            },
+            {
+            id:18,
+            eng:"knees, laps / нис , лэпс /",
+            ru:"колени, коленки"
+            },
+            {
+            id:19,
+            eng:"stink / стинк /",
+            ru:"вонять (отстой, стрёмный)"
+            },
+            {
+            id:20,
+            eng:"What's that smell? / смЭл /",
+            ru:"что за запах?"
+            },
+            {
+            id:21,
+            eng:"nothing under / наthЫн андэ /",
+            ru:"ничего под"
+            },
+            {
+            id:22,
+            eng:"Christmas tree / крисмас три /",
+            ru:"ёлка"
+            },
+            {
+            id:23,
+            eng:"a baseball bat / бэйсбол бэт /",
+            ru:"бейсбольная бита"
+            },
+            {
+            id:24,
+            eng:"ask for something ",
+            ru:"просить чего-то"
+            },
+            {
+            id:25,
+            eng:"ice skates / айс скейтс /",
+            ru:"коньки"
+            },
+            {
+            id:26,
+            eng:"none of that / нан ов дэт /",
+            ru:"ничего из того"
+            },
+            {
+            id:27,
+            eng:"a lot of things ",
+            ru:"много вещей"
+            },
+            {
+            id:28,
+            eng:"let slip out / лэт слип аут /",
+            ru:"позволить выскользнуть, вырваться"
+            },
+            {
+            id:29,
+            eng:"On Christmas Eve  / он крисмас ив /",
+            ru:"в канун рождества, ночь перед рождеством"
+            },
+            {
+            id:30,
+            eng:"snuck out of home / снАк аут ов хоум /",
+            ru:"улизнул, выкрался из дома"
+            },
+            {
+            id:31,
+            eng:"without a sound ",
+            ru:"без звука"
+            },
+            {
+            id:32,
+            eng:"living room  / ливин рум /",
+            ru:"зал, гостиная"
+            },
+            {
+            id:33,
+            eng:"take a look around ",
+            ru:"осмотреться"
+            },
+            {
+            id:34,
+            eng:"full of presents  / фул ов прэзэнтс /",
+            ru:"наполнен подарками"
+            },
+            {
+            id:35,
+            eng:"a pile  / э пАйл /",
+            ru:"куча"
+            },
+            {
+            id:36,
+            eng:"turn around / тёрн эрАунд /",
+            ru:"развернуться"
+            },
+            {
+            id:37,
+            eng:"such great force  / сач грэйт форс /",
+            ru:"такая великая сила"
+            },
+            {
+            id:38,
+            eng:"almost came down / олмост кем даун /",
+            ru:"почти свалилась"
+            },
+            {
+            id:39,
+            eng:"cherish a moment / чЕриш э моУмэнт /",
+            ru:"дорожить моментом"
+            },
+            {
+            id:40,
+            eng:"she realized / щи риалАйзд /",
+            ru:"она осознала"
+            },
+            {
+            id:41,
+            eng:"even Saint Nick / ивн сЭйнт ник /",
+            ru:"даже святой Николай"
+            },
+            {
+            id:42,
+            eng:"now and then / нау эн дэн /",
+            ru:"порой, от времени к времени"
+            },
+    ],
+    santafart23: [
+        {
+            id:1,
+            eng:"mom made beans / мам мэйд бинз /",
+            ru:"мама приготовила бобы"
+            },
+            {
+            id:2,
+            eng:"‘em = them / эм = дэм /",
+            ru:"их"
+            },
+            {
+            id:3,
+            eng:"get your coat on ",
+            ru:"накинь, надень своё пальто"
+            },
+            {
+            id:4,
+            eng:"mall / мол /",
+            ru:"большой магазин"
+            },
+            {
+            id:5,
+            eng:"all I could think of / ол ай куд /",
+            ru:"всё о чем я мог думать"
+            },
+            {
+            id:6,
+            eng:"how not to do it / хау нат ту ду ит /",
+            ru:"как не сделать это"
+            },
+            {
+            id:7,
+            eng:"cut the cheese ( to fart ) ",
+            ru:"нарезать сыр ( пукнуть )"
+            },
+            {
+            id:8,
+            eng:"while / уйал /",
+            ru:"в то время как, пока"
+            },
+            {
+            id:9,
+            eng:"wait for someone ",
+            ru:"ждать кого-то"
+            },
+            {
+            id:10,
+            eng:"I'd explode / айд эксплОуд /",
+            ru:"я бы взорвался"
+            },
+            {
+            id:11,
+            eng:"the gas bubble  / дэ гэс бабл /",
+            ru:"газовый пузырь "
+            },
+            {
+            id:12,
+            eng:"grew bigger  / грУ бигэ /",
+            ru:"нарастал, становился больше"
+            },
+            {
+            id:13,
+            eng:"with every word ",
+            ru:"с каждым словом"
+            },
+            {
+            id:14,
+            eng:"tried my best  / трайд май бэст /",
+            ru:"выложился на максимум, сделал всё в своих силах"
+            },
+            {
+            id:15,
+            eng:"hide under  / хайд андэ /",
+            ru:"прятать под, скрывать под"
+            },
+            {
+            id:16,
+            eng:"thought  / thot /",
+            ru:"думал"
+            },
+            {
+            id:17,
+            eng:"I was doing swell ",
+            ru:"я был в ударе, справлялся"
+            },
+            {
+            id:18,
+            eng:"knees, laps / нис , лэпс /",
+            ru:"колени, коленки"
+            },
+            {
+            id:19,
+            eng:"stink / стинк /",
+            ru:"вонять (отстой, стрёмный)"
+            },
+            {
+            id:20,
+            eng:"What's that smell? / смЭл /",
+            ru:"что за запах?"
+            },
+            {
+            id:21,
+            eng:"nothing under / наthЫн андэ /",
+            ru:"ничего под"
+            },
+            {
+            id:22,
+            eng:"Christmas tree / крисмас три /",
+            ru:"ёлка"
+            },
+            {
+            id:23,
+            eng:"a baseball bat / бэйсбол бэт /",
+            ru:"бейсбольная бита"
+            },
+    ],
     clothes03: [
         {
             id:43,
@@ -334,7 +663,9 @@ const allCardsGameFindAPair = {
             },
     ],
     questions111clothes: [
+        
         {
+        
             id:1,
             eng:"a hat / хэт /",
             ru:"головной убор, шапка, шляпа"
