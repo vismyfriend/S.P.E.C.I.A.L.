@@ -320,30 +320,30 @@ function howManyStarsScore() {
         timeToGet3StarResult = 30
         timeToGet2StarResult = 40
     } else if (chosenArray.length > 18 && chosenArray.length < 25) {
-        timeToGet5StarResult = 23
-        timeToGet4StarResult = 32
-        timeToGet3StarResult = 40
-        timeToGet2StarResult = 50
+        timeToGet5StarResult = 27
+        timeToGet4StarResult = 31
+        timeToGet3StarResult = 35
+        timeToGet2StarResult = 43
     } else if (chosenArray.length > 24 && chosenArray.length < 31) {
-        timeToGet5StarResult = 30
-        timeToGet4StarResult = 45
-        timeToGet3StarResult = 51
-        timeToGet2StarResult = 62
+        timeToGet5StarResult = 35
+        timeToGet4StarResult = 44
+        timeToGet3StarResult = 52
+        timeToGet2StarResult = 70
     } else if (chosenArray.length > 30 && chosenArray.length < 37) {
-        timeToGet5StarResult = 40
-        timeToGet4StarResult = 50
+        timeToGet5StarResult = 42
+        timeToGet4StarResult = 51
         timeToGet3StarResult = 70
         timeToGet2StarResult = 90
     } else if (chosenArray.length > 36 && chosenArray.length < 44) {
-        timeToGet5StarResult = 51
+        timeToGet5StarResult = 55
         timeToGet4StarResult = 65
         timeToGet3StarResult = 85
         timeToGet2StarResult = 100
     } else if (chosenArray.length > 43 && chosenArray.length) {
-        timeToGet5StarResult = 120
-        timeToGet4StarResult = 150
-        timeToGet3StarResult = 190
-        timeToGet2StarResult = 240
+        timeToGet5StarResult = 85
+        timeToGet4StarResult = 100
+        timeToGet3StarResult = 120
+        timeToGet2StarResult = 150
     }
 }
 function starResult() {
@@ -570,7 +570,7 @@ function startGameBenderWordOrderGame() {
 function chooseSet(text, set) {
     fryFuturamaMainScreenIntro.classList.add("noshow")
     inputSearch.classList.add("none")
-    inputSearch.value = ""
+    // inputSearch.value = ""
     searchSet()
     logoSpecial.classList.add("hidden")
     tryAgainButton.classList.add("hidden")
