@@ -402,7 +402,15 @@ function shuffleTypeOrWrite() {
 // let theValueOnTheTopCardGameQuestions = null
 // let theValueOnTheBottomCardGameQuestions = null 
 
+function previousQuestion() {
+console.log("прошлый вопрос", value.ru)
+questionNumber = questionNumber - 2
+getquestions()
+}
+
 function getquestions() {
+    usedCheatsText.textContent = `1 )  Прочитай молча то, что написано на карточке. 2 ) После этого уверенно и разборчиво, без спешки постарайся вслух ПО ПАМЯТИ задать этот вопрос. 3 ) Нужен перевод? - нажми на размытый текст. 4 ) Спрашивайте по 1 - 3 вопроса друг друга по очереди, если вопрос повторился - повезло !!! НЕ пропускайте вопросы! Тренируйтесь несколько раз спрашивать одно и тоже и отвечать. It's life) `
+
     if (questionNumber < chooseQuestions.length) {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
@@ -419,7 +427,7 @@ function getquestions() {
 
         // console.log(theValueOnTheTopCardGameQuestions)
         // console.log(theValueOnTheBottomCardGameQuestions)
-
+    
     } else {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         cardForSpeakingGame.style.border = 'none';
@@ -455,12 +463,16 @@ bottomOfTheCard1Value.addEventListener("click", (event) => {
     event.stopPropagation()
 })
 
-oneDeckButtonCheck.addEventListener("click", (event) => {
-    bottomOfTheCard1Value.classList.toggle("Unblur")
-    event.stopPropagation()
+oneDeckButtonCheck.addEventListener("click", () => {
+    previousQuestion()
 })
+// oneDeckButtonCheck.addEventListener("click", (event) => {
+//     bottomOfTheCard1Value.classList.toggle("Unblur")
+//     event.stopPropagation()
+// })
 
 function switchLanguage() {
+    getquestions()
     // cardForSpeakingGame.classList.add("column-reverse")
     languageRu = !languageRu
     topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
@@ -470,11 +482,12 @@ function switchLanguage() {
 
 function switchPlayerInCardGameQuestions1() {
     
-    oneDeckButtonSwitch.textContent = ("Player 1")
+    oneDeckButtonSwitch.textContent = (" Chosen  player 1 ")
+
 }
 function switchPlayerInCardGameQuestions2() {
     
-    oneDeckButtonSwitch.textContent = ("Player 2")
+    oneDeckButtonSwitch.textContent = (" Chosen  player 2 ")
 }
 // oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
 
@@ -603,7 +616,8 @@ function startGameQuestions() {
 
     // спросить у Andrew как делать перенос строки в Java? <br> работает только в HTML
     // ${<br/>}
-    usedCheatsText.textContent = `нажимай на карточку и читай вслух:`
+    usedCheatsText.textContent = `Если заметите опечатку, ошибку или если что-то съехало в тексте или какая-то идея придет вам в голову как еще улучшить или чего-то добавить, убрать в приложении : PLEASE, сделайте скриншот и отправьте мне в телеграм: @vismyfriend`
+    // usedCheatsText.textContent = `нажимай на карту из колоды и читай вслух:`
     usedCheatsText.classList.add("visible")
     oneDeckButtonText.classList.add("visible")
     popupMissionsAndSets.classList.add("close")

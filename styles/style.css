@@ -76,11 +76,14 @@
 
 .usedCheatsText.visible {
     display: block;
+    margin: 0 0 5px;
+
 
 }
 
 .oneDeckButtonText.visible {
     display: block;
+    
 
 }
 
@@ -149,27 +152,33 @@ button {
 
 
 .oneDeckButtonCheck {
-    width: 100px;
-    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
+    border-radius: 26px;
+    width: 110px;
+    /* height: 40px; */
+    background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #f999d4;
 }
 
 .backToMainContainer1button {
-    width: 100px;
+    width: 110px;
+    border-radius: 26px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
 }
 
 .oneDeckButtonNext {
-    width: 100px;
+    width: 110px;
+    border-radius: 26px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #80FF01;
 }
 
 .oneDeckButtonSwitch {
-    width: 100px;
+    width: 110px;
+    border-radius: 26px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
 }
 
 .oneDeckButtonPrevious {
-    width: 100px;
+    border-radius: 26px;
+    width: 110px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
 }
 
@@ -815,6 +824,7 @@ button {
 .gameFindAPair-info {
     color: #7BE7FF;
     text-align: center;
+    margin: auto;
 }
 
 .gameFindAPair.open {
@@ -834,7 +844,8 @@ button {
 .oneDeckButtons {
     display: none;
     justify-content: center;
-    gap: 20px;
+    gap: 11px;
+    row-gap: 5px;
     margin: 22.2px 0 0 0;
 }
 
@@ -1028,13 +1039,13 @@ button {
 
 .oneDeckOfCards.AnOpenCard {
     animation: card-flip 0.4s ease forwards;
-    background-image: none;
     background-color: white;
     height: 300px;
     border-radius: 10px;
     box-shadow: 0 0 5px 0 #000;
     width: 70%;
     margin: 0 auto;
+    background-image: none;
 }
 
 .oneDeckOfCards.AnOpenCard .oneDeckOfCards__topOfTheCard1,
@@ -1276,6 +1287,10 @@ button {
     margin: 0;
     padding: 0;
 }
+/* .deckOfCardsPicture {
+    z-index: -2;
+    
+} */
 
 
 

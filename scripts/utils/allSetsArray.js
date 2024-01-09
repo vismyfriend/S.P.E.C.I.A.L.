@@ -1,6 +1,10 @@
 // Этот массив создан, чтобы поиск миссий работал
 const allSetsArray = [
 
+    "technologic3",
+    "technologic2",
+    "technologic1",
+    
     "santalapfart3",
     "santalapfart2",
     "santalapfart1",
