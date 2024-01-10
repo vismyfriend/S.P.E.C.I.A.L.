@@ -2745,213 +2745,213 @@ const allQuestionsOneDeck = {
     questions003: [
         {
             id:1,
-            eng:"Задай любой вопрос When… What… Where… DO, DOES или AM, IS, ARE или DID или WILL или WAS, WERE + кто + всё остальное",
-            ru:"Задай любой вопрос When… What… Where… DO, DOES, AM, IS, ARE,DID, WILL + кто + весь остальной смысл"
+            eng:"Ask me any question",
+            ru:"Задай мне любой вопрос"
             },
             {
             id:2,
-            eng:"спроси: What is your name? ( Как тебя зовут ? )",
-            ru:"спроси: What is your name? ( Как тебя зовут ? )"
+            eng:"Ask me anything",
+            ru:"Спросите меня что-угодно"
             },
             {
             id:3,
-            eng:"Give a compliment to your partner ( I like your … , you look very good!)",
-            ru:"Сделай любой комплимент собеседнику"
+            eng:"Can you tell me a complimet?",
+            ru:"Можете сделать мне комплимент?"
             },
             {
             id:4,
-            eng:"Задай напарнику вопрос: ` Do you watch YouTube videos? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
-            ru:"Ask this question in English ` Вы смотрите видео на ютюбе? `"
+            eng:"Do you watch YouTube videos?",
+            ru:"Вы смотрите видео на ютюбе?"
             },
             {
             id:5,
-            eng:"Ask this question in English ` Вы смотрите фильмы в интернете? `",
-            ru:"Задай напарнику вопрос: ` Do you watch movies on the internet? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            eng:"Do you watch movies on the internet?",
+            ru:"Вы смотрите фильмы в интернете?"
             },
             {
             id:6,
-            eng:"Спроси ` Do you have TikTok on your phone? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
-            ru:"Спроси по-английски ` У вас есть ТикТок на телефоне? `"
+            eng:"Do you have TikTok on your phone?",
+            ru:"У вас есть ТикТок на телефоне?"
             },
             {
             id:7,
-            eng:"Спроси по-английски ` У вас есть инстаграм? `",
-            ru:"Спроси ` Do you have Instagram? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            eng:"Do you have Instagram?",
+            ru:"У вас есть инстаграм?"
             },
             {
             id:8,
-            eng:"Задай напарнику вопрос: ` Do you smoke? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
-            ru:"Ask this question in English ` Вы курите? `"
+            eng:"Do you smoke?",
+            ru:"Вы курите?"
             },
             {
             id:9,
-            eng:"Ask this question in English ` Вы выпиваете алкоголь? `",
-            ru:"Задай напарнику вопрос: ` Do you drink alcohol? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            eng:"Do you drink alcohol?",
+            ru:"Вы выпиваете алкоголь?"
             },
             {
             id:10,
-            eng:"Спроси ` Are you hungry now? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
-            ru:"Спроси по-английски ` Вы голодны сейчас? `"
+            eng:"Are you hungry now?",
+            ru:"Вы голодны сейчас?"
             },
             {
             id:11,
-            eng:"Спроси по-английски ` Вы хороший или плохой ученик? `",
-            ru:"Спроси ` Are you a good or a bad student? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            eng:"Are you a good or a bad student?",
+            ru:"Вы хороший или плохой ученик?"
             },
             {
             id:12,
-            eng:"Задай напарнику вопрос: ` Is Vincent your friend? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
-            ru:"Ask this question in English ` Винсент ваш друг? `"
+            eng:"Is Vincent your friend?",
+            ru:"Винсент ваш друг?"
             },
             {
             id:13,
-            eng:"Ask this question in English ` Ваша училка тупица? `",
-            ru:"Задай напарнику вопрос: ` Is your teacher stupid? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            eng:"Is your teacher stupid?",
+            ru:"Ваша училка тупица?"
             },
             {
             id:14,
-            eng:"Спроси ` Do you have a pet? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
-            ru:"Спроси по-английски ` У вас есть домашнее животное (питомец) ? `"
+            eng:"Do you have a pet?",
+            ru:"У вас есть домашнее животное (питомец) ?"
             },
             {
             id:15,
-            eng:"Спроси по-английски ` У вас есть татуировки? `",
-            ru:"Спроси ` Do you have tattoos? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            eng:"Do you have tattoos? What tattoos? Where do you have them?",
+            ru:"У вас есть татуировки? Что за тату? Где они у вас?"
             },
             {
             id:16,
-            eng:"Задай напарнику вопрос: ` How often do you do English homework? `",
-            ru:"Ask this question in English ` Как часто вы делаете домашку по английскому? `"
+            eng:"How often do you do English homework?",
+            ru:"Как часто вы делаете домашку по английскому?"
             },
             {
             id:17,
-            eng:"Ask this question in English ` Какого цвета ваши глаза? `",
-            ru:"Задай напарнику вопрос: ` What color are your eyes? `"
+            eng:"What color are your eyes? ( правильный ответ my eyes are + сразу цвет ) Вообще не нужно говорить слово color при ответе.",
+            ru:"Какого цвета ваши глаза?"
             },
             {
             id:18,
-            eng:"Спроси ` What is your favorite film? `",
-            ru:"Спроси по-английски ` Какой ваш любимый фильм? `"
+            eng:"What is your favorite film?",
+            ru:"Какой ваш любимый фильм?"
             },
             {
             id:19,
-            eng:"Спроси по-английски ` Кто ваш лучший друг? `",
-            ru:"Спроси ` Who is your best friend? `"
+            eng:"Who is your best friend?",
+            ru:"Кто ваш лучший друг?"
             },
             {
             id:20,
-            eng:"Задай напарнику вопрос: ` What is your favorite color? `",
-            ru:"Ask this question in English ` Какой ваш любимый цвет? `"
+            eng:"What is your favorite color?  ( правильный ответ my favorite color is + цвет )",
+            ru:"Какой ваш любимый цвет? Если несколько цветов, то тогда my favorite colors are blue, black and pink"
             },
             {
             id:21,
-            eng:"Ask this question in English ` Какая марка машины вам нравится больше всего? `",
-            ru:"Задай напарнику вопрос: ` What is your favorite car brand? `"
+            eng:"What is your favorite car brand? Пример ответа: май фЭйфорит ка брэнд из Би Эм Дабл Ю",
+            ru:"Какая марка машины вам нравится больше всего?"
             },
             {
             id:22,
-            eng:"Спроси ` With whom do you live? `",
-            ru:"Спроси по-английски ` С кем вы проживаете? `"
+            eng:"With whom do you live? (Этот же вопрос можно задать так: Who do you live with?",
+            ru:"С кем вы проживаете? пример ответа : I live with my 98 cats"
             },
             {
             id:23,
-            eng:"Спроси по-английски ` Какое у вас счастливое число? `",
-            ru:"Спроси ` What is your lucky number and why? `"
+            eng:"What is your lucky number and why?",
+            ru:"Какое у вас счастливое число?"
             },
             {
             id:24,
-            eng:"Задай напарнику вопрос: ` Is everything good with you? How is your life? `",
-            ru:"Ask this question in English ` У тебя всё хорошо? `"
+            eng:"Is everything good with you? How is your life?",
+            ru:"У тебя всё хорошо? С тобой всё норм?"
             },
             {
             id:25,
-            eng:"Ask this question in English ` Какой номер вашей квартиры? `",
-            ru:"Задай напарнику вопрос: ` What is the number of your apartment? `"
+            eng:"What is the number of your apartment? ( или flat синоним )",
+            ru:"Какой номер вашей квартиры?"
             },
             {
             id:26,
-            eng:"Спроси ` What is your ZIP CODE? (почтовый индекс?) `",
-            ru:"Спроси по-английски ` Какой у вас почтовый индекс (ZIP CODE?) `"
+            eng:"What is your ZIP CODE? (почтовый индекс?)",
+            ru:"Какой у вас почтовый индекс (ZIP CODE?)"
             },
             {
             id:27,
-            eng:"Спроси по-английски ` У Винсента сегодня какого цвета кепка? `",
-            ru:"Спроси ` What color cap does Vincent have today? `"
+            eng:"What color cap does Vincent have today?",
+            ru:"У Винсента сегодня какого цвета кепка?"
             },
             {
             id:28,
-            eng:"Задай напарнику вопрос: ` What time is it now on your watch? `",
-            ru:"Ask this question in English ` Сколько времени у вас на часах сейчас? `"
+            eng:"What time is it now on your watch?",
+            ru:"Сколько времени у вас на часах сейчас?"
             },
             {
             id:29,
-            eng:"Ask this question in English ` Как вы? `",
-            ru:"Задай напарнику вопрос: ` How are you? `"
+            eng:"How are you?",
+            ru:"Как вы?"
             },
             {
             id:30,
-            eng:"Спроси ` How is your life? `",
-            ru:"Спроси по-английски ` Как ваша жизнь? `"
+            eng:"How is your life?",
+            ru:"Как ваша жизнь?"
             },
             {
             id:31,
-            eng:"Спроси по-английски ` Как ваша неделя? `",
-            ru:"Спроси ` How is your week? `"
+            eng:"How is your week?",
+            ru:"Как ваша неделя?"
             },
             {
             id:32,
-            eng:"Задай напарнику вопрос: ` Where are you now? `",
-            ru:"Ask this question in English ` Где вы сейчас? `"
+            eng:"Where are you now?",
+            ru:"Где вы сейчас?"
             },
             {
             id:33,
-            eng:"Ask this question in English ` Откуда вы родом? `",
-            ru:"Задай напарнику вопрос: ` Where are you from? `"
+            eng:"Where are you from?",
+            ru:"Откуда вы родом?"
             },
             {
             id:34,
-            eng:"Спроси ` How old are  you? `",
-            ru:"Спроси по-английски ` Сколько вам лет? `"
+            eng:"How old are  you?",
+            ru:"Сколько вам лет?"
             },
             {
             id:35,
-            eng:"Спроси по-английски ` Какой ваш номер телефона? `",
-            ru:"Спроси ` What is your phone number? `"
+            eng:"What is your phone number?",
+            ru:"Какой ваш номер телефона?"
             },
             {
             id:36,
-            eng:"Задай напарнику вопрос: ` What is your house number? `",
-            ru:"Ask this question in English ` Какой номер вашего дома? `"
+            eng:"What is your house number?",
+            ru:"Какой номер вашего дома?"
             },
             {
             id:37,
-            eng:"Ask this question in English ` Какой номер вашей машины? `",
-            ru:"Задай напарнику вопрос: ` What is your car number? `"
+            eng:"What is your car number?",
+            ru:"Какой номер вашей машины?"
             },
             {
             id:38,
-            eng:"Спроси ` What is your mother's name? `",
-            ru:"Спроси по-английски ` Как зовут вашу маму? `"
+            eng:"What is your mother's name?",
+            ru:"Как зовут вашу маму?"
             },
             {
             id:39,
-            eng:"Спроси по-английски ` Какое имя у вашего отца? `",
-            ru:"Спроси ` What is your father's name? `"
+            eng:"What is your father's name?",
+            ru:"Какое имя у вашего отца?"
             },
             {
             id:40,
-            eng:"Задай напарнику вопрос: ` What is your shoe size? `",
-            ru:"Ask this question in English ` Какой у вас размер обуви? `"
+            eng:"What is your shoe size?",
+            ru:"Какой у вас размер обуви?"
             },
             {
             id:41,
-            eng:"Ask this question in English ` Английский легкий или трудный для вас? `",
-            ru:"Задай напарнику вопрос: ` Is English hard or easy for you? `"
+            eng:"Is English hard or easy for you?",
+            ru:"Английский легкий или трудный для вас?"
             },
             {
             id:42,
-            eng:"Спроси ` What music do you like? `",
-            ru:"Спроси по-английски ` Какая музыка тебе нравится? `"
+            eng:"What music do you like?",
+            ru:"Какая музыка тебе нравится?"
             },
             {
             id:43,
@@ -3050,103 +3050,118 @@ const allQuestionsOneDeck = {
             },
             {
             id:62,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эн Ай Кей И `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: NIKE"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эн Ай Кей И `",
+            ru:"NIKE"
             },
             {
             id:63,
-            eng:"Попроси напарника произнести по буквам слово. Can you spell: PASSPORT",
-            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Пи Эй Эс Эс Пи Оу А Ти `"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Пи Эй Эс Эс Пи Оу А Ти `",
+            ru:"PASSPORT"
             },
             {
             id:64,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` А Ю Эс Эс Ай Эй `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: RUSSIA"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` А Ю Эс Эс Ай Эй `",
+            ru:"RUSSIA"
             },
             {
             id:65,
-            eng:"Попроси напарника произнести по буквам слово. Can you spell: FRANCE",
-            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эф А Эй Эн Си И `"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эф А Эй Эн Си И `",
+            ru:"FRANCE"
             },
             {
             id:66,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` И Эн Джи Эл Эй Эн Ди `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: ENGLAND"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` И Эн Джи Эл Эй Эн Ди `",
+            ru:"ENGLAND"
             },
             {
             id:67,
-            eng:"Попроси напарника произнести по буквам слово. Can you spell: MERCEDES",
-            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эм И А Си И Ди И Эс - Би И Эн Зи `"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эм И А Си И Ди И Эс - Би И Эн Зи `",
+            ru:"MERCEDES"
             },
             {
             id:68,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эй Ю Ди Ай `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: AUDI"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эй Ю Ди Ай `",
+            ru:"AUDI"
             },
             {
             id:69,
-            eng:"Попроси напарника произнести по буквам слово. Can you spell: VOLVO",
-            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Ви Оу Эл Ви Оу `"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Ви Оу Эл Ви Оу `",
+            ru:"VOLVO"
             },
             {
             id:70,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: VOLKSWAGEN"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
+            ru:"VOLKSWAGEN"
             },
             {
             id:71,
-            eng:"Попроси напарника произнести по буквам слово. Can you spell: BMW",
-            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Би Эм Дабл Ю `"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Би Эм Дабл Ю `",
+            ru:"BMW"
             },
             {
             id:72,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Кей Эй Эн Джи Эй А Оу Оу `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: KANGAROO"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Кей Эй Эн Джи Эй А Оу Оу `",
+            ru:"KANGAROO"
             },
             {
             id:73,
-            eng:"Попроси напарника произнести по буквам слово. Can you spell: JOKER",
-            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Джей Оу Кей И А `"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Джей Оу Кей И А `",
+            ru:"JOKER"
             },
             {
             id:74,
-            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эм Ай Эн И Си А Эй Эф Ти `",
-            ru:"Попроси напарника произнести по буквам слово. Can you spell: MINECRAFT"
+            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эм Ай Эн И Си А Эй Эф Ти `",
+            ru:"MINECRAFT"
             },
             {
             id:75,
             eng:"Are you the only child in family? Or do you have brothers or sisters?",
-            ru:"Do you have brothers or sisters? Или ты единственный ребенок в семье?"
+            ru:"Ты единственный ребенок в семье или у тебя есть братья или сестры?"
             },
             {
             id:76,
             eng:"When is your birthday?",
-            ru:"When is your birthday?"
+            ru:"Когда твой день рождения?"
             },
             {
             id:77,
-            eng:"What color is your phone?",
-            ru:"What color is your phone?"
+            eng:"What color is your mobile phone? / мобАйл фОУн / ?",
+            ru:"Какого цвета твой мобильный телефон?"
             },
             {
             id:78,
-            eng:"Спроси - можно ли на английском языке говорить: I haven't a dog. (правильный ответ - НЕЛЬЗЯ)",
+            eng:"Можно ли на английском языке говорить: I haven't a dog. (правильный ответ - НЕЛЬЗЯ)",
             ru:"I haven't a job. Спроси - можно ли на английском языке так говорить?  (правильный ответ - НЕЛЬЗЯ)"
             },
             {
             id:79,
-            eng:"Спроси: Чему равняется Nine плас Seven ? ответ: сыкстИИИН / ударение не на Ы, а на И/",
-            ru:"Спроси: Чему равняется Nine плас Nine ? ответ: эйтИИИН / ударение не на Э, а на И/"
+            eng:"Чему равняется Nine плас Seven ? ответ: сыкстИИИН / ударение не на Ы, а на И/",
+            ru:"Hello, father!"
             },
             {
             id:80,
-            eng:"Спроси: Чему равняется twelve мАйнэc four ? ответ: it is eight / эйт /",
-            ru:"Спроси: Чему равняется eleven плас nine ? ответ: it is twenty 20"
+            eng:"Чему равняется twelve мАйнэc four ? ответ: it is eight / эйт /",
+            ru:"Нажав сюда вы нашли секретную карту! Вам сегодня приснится голенький Винсентик"
             },
             {
             id:81,
-            eng:"Спроси: Чему равняется four плас five ? ответ: it is nine / найн /",
-            ru:"Спроси: Чему равняется five плас ten ? ответ: it is фифтИн / ударение только вторую И /"
+            eng:"Чему равняется four плас five ? ответ: it is nine / найн /",
+            ru:"Интересно, что вы пытались увидеть нажав сюда…"
+            },
+            {
+            id:82,
+            eng:"Чему равняется Nine плас Nine ? ответ: эйтИИИН / ударение не на Э, а на И/",
+            ru:"Здесь могла быть ваша реклама LOL Винсент тот ещё шутник"
+            },
+            {
+            id:83,
+            eng:"Чему равняется eleven плас nine ? ответ: it is twenty 20",
+            ru:"Хммм…. И что по вашему должно быть здесь написано?"
+            },
+            {
+            id:84,
+            eng:"Чему равняется five плас ten ? ответ: it is фифтИн / ударение только вторую И /",
+            ru:"Тут без калькулятора не разобраться"
             },
     ],
     travel: [
