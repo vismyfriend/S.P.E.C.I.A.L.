@@ -1958,6 +1958,7 @@ const allQuestionsOneDeck = {
                 ru:"Вы носите часы на левой или правой руке?  "
                 },
     ],
+   
     questions111clothesb1: [
         {
             id:1,
@@ -2741,7 +2742,378 @@ const allQuestionsOneDeck = {
             },
     ],
 
-
+    questions003: [
+        {
+            id:1,
+            eng:"Задай любой вопрос When… What… Where… DO, DOES или AM, IS, ARE или DID или WILL или WAS, WERE + кто + всё остальное",
+            ru:"Задай любой вопрос When… What… Where… DO, DOES, AM, IS, ARE,DID, WILL + кто + весь остальной смысл"
+            },
+            {
+            id:2,
+            eng:"спроси: What is your name? ( Как тебя зовут ? )",
+            ru:"спроси: What is your name? ( Как тебя зовут ? )"
+            },
+            {
+            id:3,
+            eng:"Give a compliment to your partner ( I like your … , you look very good!)",
+            ru:"Сделай любой комплимент собеседнику"
+            },
+            {
+            id:4,
+            eng:"Задай напарнику вопрос: ` Do you watch YouTube videos? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
+            ru:"Ask this question in English ` Вы смотрите видео на ютюбе? `"
+            },
+            {
+            id:5,
+            eng:"Ask this question in English ` Вы смотрите фильмы в интернете? `",
+            ru:"Задай напарнику вопрос: ` Do you watch movies on the internet? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            },
+            {
+            id:6,
+            eng:"Спроси ` Do you have TikTok on your phone? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
+            ru:"Спроси по-английски ` У вас есть ТикТок на телефоне? `"
+            },
+            {
+            id:7,
+            eng:"Спроси по-английски ` У вас есть инстаграм? `",
+            ru:"Спроси ` Do you have Instagram? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            },
+            {
+            id:8,
+            eng:"Задай напарнику вопрос: ` Do you smoke? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
+            ru:"Ask this question in English ` Вы курите? `"
+            },
+            {
+            id:9,
+            eng:"Ask this question in English ` Вы выпиваете алкоголь? `",
+            ru:"Задай напарнику вопрос: ` Do you drink alcohol? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            },
+            {
+            id:10,
+            eng:"Спроси ` Are you hungry now? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
+            ru:"Спроси по-английски ` Вы голодны сейчас? `"
+            },
+            {
+            id:11,
+            eng:"Спроси по-английски ` Вы хороший или плохой ученик? `",
+            ru:"Спроси ` Are you a good or a bad student? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            },
+            {
+            id:12,
+            eng:"Задай напарнику вопрос: ` Is Vincent your friend? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
+            ru:"Ask this question in English ` Винсент ваш друг? `"
+            },
+            {
+            id:13,
+            eng:"Ask this question in English ` Ваша училка тупица? `",
+            ru:"Задай напарнику вопрос: ` Is your teacher stupid? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            },
+            {
+            id:14,
+            eng:"Спроси ` Do you have a pet? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…",
+            ru:"Спроси по-английски ` У вас есть домашнее животное (питомец) ? `"
+            },
+            {
+            id:15,
+            eng:"Спроси по-английски ` У вас есть татуировки? `",
+            ru:"Спроси ` Do you have tattoos? ` + затем любой доп. вопрос: When... What... Where... How... How often... How long…"
+            },
+            {
+            id:16,
+            eng:"Задай напарнику вопрос: ` How often do you do English homework? `",
+            ru:"Ask this question in English ` Как часто вы делаете домашку по английскому? `"
+            },
+            {
+            id:17,
+            eng:"Ask this question in English ` Какого цвета ваши глаза? `",
+            ru:"Задай напарнику вопрос: ` What color are your eyes? `"
+            },
+            {
+            id:18,
+            eng:"Спроси ` What is your favorite film? `",
+            ru:"Спроси по-английски ` Какой ваш любимый фильм? `"
+            },
+            {
+            id:19,
+            eng:"Спроси по-английски ` Кто ваш лучший друг? `",
+            ru:"Спроси ` Who is your best friend? `"
+            },
+            {
+            id:20,
+            eng:"Задай напарнику вопрос: ` What is your favorite color? `",
+            ru:"Ask this question in English ` Какой ваш любимый цвет? `"
+            },
+            {
+            id:21,
+            eng:"Ask this question in English ` Какая марка машины вам нравится больше всего? `",
+            ru:"Задай напарнику вопрос: ` What is your favorite car brand? `"
+            },
+            {
+            id:22,
+            eng:"Спроси ` With whom do you live? `",
+            ru:"Спроси по-английски ` С кем вы проживаете? `"
+            },
+            {
+            id:23,
+            eng:"Спроси по-английски ` Какое у вас счастливое число? `",
+            ru:"Спроси ` What is your lucky number and why? `"
+            },
+            {
+            id:24,
+            eng:"Задай напарнику вопрос: ` Is everything good with you? How is your life? `",
+            ru:"Ask this question in English ` У тебя всё хорошо? `"
+            },
+            {
+            id:25,
+            eng:"Ask this question in English ` Какой номер вашей квартиры? `",
+            ru:"Задай напарнику вопрос: ` What is the number of your apartment? `"
+            },
+            {
+            id:26,
+            eng:"Спроси ` What is your ZIP CODE? (почтовый индекс?) `",
+            ru:"Спроси по-английски ` Какой у вас почтовый индекс (ZIP CODE?) `"
+            },
+            {
+            id:27,
+            eng:"Спроси по-английски ` У Винсента сегодня какого цвета кепка? `",
+            ru:"Спроси ` What color cap does Vincent have today? `"
+            },
+            {
+            id:28,
+            eng:"Задай напарнику вопрос: ` What time is it now on your watch? `",
+            ru:"Ask this question in English ` Сколько времени у вас на часах сейчас? `"
+            },
+            {
+            id:29,
+            eng:"Ask this question in English ` Как вы? `",
+            ru:"Задай напарнику вопрос: ` How are you? `"
+            },
+            {
+            id:30,
+            eng:"Спроси ` How is your life? `",
+            ru:"Спроси по-английски ` Как ваша жизнь? `"
+            },
+            {
+            id:31,
+            eng:"Спроси по-английски ` Как ваша неделя? `",
+            ru:"Спроси ` How is your week? `"
+            },
+            {
+            id:32,
+            eng:"Задай напарнику вопрос: ` Where are you now? `",
+            ru:"Ask this question in English ` Где вы сейчас? `"
+            },
+            {
+            id:33,
+            eng:"Ask this question in English ` Откуда вы родом? `",
+            ru:"Задай напарнику вопрос: ` Where are you from? `"
+            },
+            {
+            id:34,
+            eng:"Спроси ` How old are  you? `",
+            ru:"Спроси по-английски ` Сколько вам лет? `"
+            },
+            {
+            id:35,
+            eng:"Спроси по-английски ` Какой ваш номер телефона? `",
+            ru:"Спроси ` What is your phone number? `"
+            },
+            {
+            id:36,
+            eng:"Задай напарнику вопрос: ` What is your house number? `",
+            ru:"Ask this question in English ` Какой номер вашего дома? `"
+            },
+            {
+            id:37,
+            eng:"Ask this question in English ` Какой номер вашей машины? `",
+            ru:"Задай напарнику вопрос: ` What is your car number? `"
+            },
+            {
+            id:38,
+            eng:"Спроси ` What is your mother's name? `",
+            ru:"Спроси по-английски ` Как зовут вашу маму? `"
+            },
+            {
+            id:39,
+            eng:"Спроси по-английски ` Какое имя у вашего отца? `",
+            ru:"Спроси ` What is your father's name? `"
+            },
+            {
+            id:40,
+            eng:"Задай напарнику вопрос: ` What is your shoe size? `",
+            ru:"Ask this question in English ` Какой у вас размер обуви? `"
+            },
+            {
+            id:41,
+            eng:"Ask this question in English ` Английский легкий или трудный для вас? `",
+            ru:"Задай напарнику вопрос: ` Is English hard or easy for you? `"
+            },
+            {
+            id:42,
+            eng:"Спроси ` What music do you like? `",
+            ru:"Спроси по-английски ` Какая музыка тебе нравится? `"
+            },
+            {
+            id:43,
+            eng:"Как по-английски сказать ` просыпаться рано ` ?",
+            ru:"What is the Russian for ` WAKE UP ` ?"
+            },
+            {
+            id:44,
+            eng:"How do you say ` иметь душ (мыться в душе) ` in English?",
+            ru:"Как будет ` HAVE A SHOWER ` на русском?"
+            },
+            {
+            id:45,
+            eng:"How do you say ` работать на большую компанию ` in English?",
+            ru:"Как будет ` WORK FOR A BIG COMPANY ` на русском?"
+            },
+            {
+            id:46,
+            eng:"How do you say ` одеваться ` in English?",
+            ru:"Как будет ` GET DRESSED ` на русском?"
+            },
+            {
+            id:47,
+            eng:"How do you translate into English ` идти на кухню ` ?",
+            ru:"Как переводится ` GO TO THE KITCHEN ` ?"
+            },
+            {
+            id:48,
+            eng:"Как по-английски сказать ` идти в ванную ` ?",
+            ru:"What is the Russian for ` GO TO THE BATHROOM ` ?"
+            },
+            {
+            id:49,
+            eng:"How do you translate into English ` обедать в кафе ` ?",
+            ru:"Как переводится ` HAVE LUNCH IN A CAFÉ ` ?"
+            },
+            {
+            id:50,
+            eng:"Как по-английски сказать ` обедать на работе ` ?",
+            ru:"What is the Russian for ` HAVE LUNCH AT WORK ` ?"
+            },
+            {
+            id:51,
+            eng:"What is the English for ` работать весь день ` ?",
+            ru:"How do you translate ` WORK ALL DAY ` ?"
+            },
+            {
+            id:52,
+            eng:"How do you say ` заканчивать рабочий день ` in English?",
+            ru:"Как будет ` FINISH WORK DAY ` на русском?"
+            },
+            {
+            id:53,
+            eng:"How do you translate into English ` идти домой ` ?",
+            ru:"Как переводится ` GO HOME ` ?"
+            },
+            {
+            id:54,
+            eng:"Как по-английски сказать ` готовить ужин ` ?",
+            ru:"What is the Russian for ` COOK DINNER ` ?"
+            },
+            {
+            id:55,
+            eng:"What is the English for ` мечтать ` ?",
+            ru:"How do you translate ` DREAM ` ?"
+            },
+            {
+            id:56,
+            eng:"What is the English for ` петь песню ` ?",
+            ru:"How do you translate ` SING A SONG ` ?"
+            },
+            {
+            id:57,
+            eng:"How do you say ` ходить 'по-маленькому' (пИсать) ` in English?",
+            ru:"Как будет ` DO NUMBER ONE ` на русском?"
+            },
+            {
+            id:58,
+            eng:"How do you translate into English ` ходить 'по-большому' (какать) ` ?",
+            ru:"Как переводится ` DO NUMBER TWO ` ?"
+            },
+            {
+            id:59,
+            eng:"Как по-английски сказать ` кормить питомцев ` ?",
+            ru:"What is the Russian for ` FEED PETS ` ?"
+            },
+            {
+            id:60,
+            eng:"How do you translate into English ` муж и жена ` ?",
+            ru:"Как переводится ` A husband and and wife ` ?"
+            },
+            {
+            id:61,
+            eng:"Задай напарнику вопрос: ` Do you have good memory? `",
+            ru:"Ask this question in English ` У тебя хорошая память? `"
+            },
+            {
+            id:62,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эн Ай Кей И `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: NIKE"
+            },
+            {
+            id:63,
+            eng:"Попроси напарника произнести по буквам слово. Can you spell: PASSPORT",
+            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Пи Эй Эс Эс Пи Оу А Ти `"
+            },
+            {
+            id:64,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` А Ю Эс Эс Ай Эй `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: RUSSIA"
+            },
+            {
+            id:65,
+            eng:"Попроси напарника произнести по буквам слово. Can you spell: FRANCE",
+            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эф А Эй Эн Си И `"
+            },
+            {
+            id:66,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` И Эн Джи Эл Эй Эн Ди `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: ENGLAND"
+            },
+            {
+            id:67,
+            eng:"Попроси напарника произнести по буквам слово. Can you spell: MERCEDES",
+            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эм И А Си И Ди И Эс - Би И Эн Зи `"
+            },
+            {
+            id:68,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эй Ю Ди Ай `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: AUDI"
+            },
+            {
+            id:69,
+            eng:"Попроси напарника произнести по буквам слово. Can you spell: VOLVO",
+            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Ви Оу Эл Ви Оу `"
+            },
+            {
+            id:70,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: VOLKSWAGEN"
+            },
+            {
+            id:71,
+            eng:"Попроси напарника произнести по буквам слово. Can you spell: BMW",
+            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Би Эм Дабл Ю `"
+            },
+            {
+            id:72,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Кей Эй Эн Джи Эй А Оу Оу `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: KANGAROO"
+            },
+            {
+            id:73,
+            eng:"Попроси напарника произнести по буквам слово. Can you spell: JOKER",
+            ru:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Джей Оу Кей И А `"
+            },
+            {
+            id:74,
+            eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эм Ай Эн И Си А Эй Эф Ти `",
+            ru:"Попроси напарника произнести по буквам слово. Can you spell: MINECRAFT"
+            },
+    ],
     travel: [
         {
             id: 1,

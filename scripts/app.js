@@ -790,7 +790,7 @@ function finishGame() {
     tryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
-    popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат: ${timer.textContent} seconds`
+    popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат ${timer.textContent} seconds`
     popupMissionsAndSetsDescription.innerHTML = "Максимальный результат = пять звёзд 🏆 попробуй ещё раз! Try again."
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"

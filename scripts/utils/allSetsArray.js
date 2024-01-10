@@ -14,6 +14,8 @@ const allSetsArray = [
     "clothes02",
     "clothes01",
 
+    "questions003",
+
     "m009",
     "m008",
     "m007",
