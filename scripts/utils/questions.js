@@ -3113,6 +3113,41 @@ const allQuestionsOneDeck = {
             eng:"Я произнесу слово по буквам. Попробуй догадаться, что это за слово. Are you ready ? ` Эм Ай Эн И Си А Эй Эф Ти `",
             ru:"Попроси напарника произнести по буквам слово. Can you spell: MINECRAFT"
             },
+            {
+            id:75,
+            eng:"Are you the only child in family? Or do you have brothers or sisters?",
+            ru:"Do you have brothers or sisters? Или ты единственный ребенок в семье?"
+            },
+            {
+            id:76,
+            eng:"When is your birthday?",
+            ru:"When is your birthday?"
+            },
+            {
+            id:77,
+            eng:"What color is your phone?",
+            ru:"What color is your phone?"
+            },
+            {
+            id:78,
+            eng:"Спроси - можно ли на английском языке говорить: I haven't a dog. (правильный ответ - НЕЛЬЗЯ)",
+            ru:"I haven't a job. Спроси - можно ли на английском языке так говорить?  (правильный ответ - НЕЛЬЗЯ)"
+            },
+            {
+            id:79,
+            eng:"Спроси: Чему равняется Nine плас Seven ? ответ: сыкстИИИН / ударение не на Ы, а на И/",
+            ru:"Спроси: Чему равняется Nine плас Nine ? ответ: эйтИИИН / ударение не на Э, а на И/"
+            },
+            {
+            id:80,
+            eng:"Спроси: Чему равняется twelve мАйнэc four ? ответ: it is eight / эйт /",
+            ru:"Спроси: Чему равняется eleven плас nine ? ответ: it is twenty 20"
+            },
+            {
+            id:81,
+            eng:"Спроси: Чему равняется four плас five ? ответ: it is nine / найн /",
+            ru:"Спроси: Чему равняется five плас ten ? ответ: it is фифтИн / ударение только вторую И /"
+            },
     ],
     travel: [
         {
