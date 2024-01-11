@@ -409,7 +409,7 @@ getquestions()
 }
 
 function getquestions() {
-    usedCheatsText.textContent = `1 )  Прочитай молча то, что написано на карточке. 2 ) После этого уверенно и разборчиво, без спешки постарайся вслух ПО ПАМЯТИ задать этот вопрос. 3 ) Нужен перевод? - нажми на размытый текст. 4 ) Спрашивайте по 1 - 3 вопроса друг друга по очереди, если вопрос повторился - повезло !!! НЕ пропускайте вопросы! Тренируйтесь несколько раз спрашивать одно и тоже и отвечать. It's life) `
+    usedCheatsText.textContent = `1 )  Молча сперва прочитай вопрос на карточке . 2 ) Затем уверенно и разборчиво задай его вслух. 3 ) Нужен перевод? - нажми на размытый текст. 4 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
 
     if (questionNumber < chooseQuestions.length) {
         cardForSpeakingGame.classList.remove("AnOpenCard")
@@ -420,7 +420,8 @@ function getquestions() {
         bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
-        oneDeckButtonText.classList.remove("visible")
+        // oneDeckButtonText.classList.remove("visible")
+        oneDeckButtonText.textContent = "Быстро спросили, чётко ответили. Автоматизм практикуем, не тормозим, помогаем друг другу"
 
         // theValueOnTheTopCardGameQuestions = value.eng
         //  theValueOnTheBottomCardGameQuestions = value.ru
@@ -487,7 +488,7 @@ function switchPlayerInCardGameQuestions1() {
 }
 function switchPlayerInCardGameQuestions2() {
     
-    oneDeckButtonSwitch.textContent = (" Chosen  player 2 ")
+    oneDeckButtonSwitch.textContent = ("I'm sorry What? Ask again, plz.")
 }
 // oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
 

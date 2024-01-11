@@ -1,5 +1,7 @@
 // Этот массив создан, чтобы поиск миссий работал
 const allSetsArray = [
+    "чтотакоеto",
+    "PRESENTSIMPLE",
 
     "technologic3b1",
     "technologic2a2",
