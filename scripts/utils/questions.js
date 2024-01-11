@@ -2824,57 +2824,57 @@ const allQuestionsOneDeck = {
             },
             {
             id:4,
-            eng:"Do you watch YouTube videos?",
+            eng:"Do you watch YouTube videos? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Вы смотрите видео на ютюбе?"
             },
             {
             id:5,
-            eng:"Do you watch movies on the internet?",
+            eng:"Do you watch movies on the internet? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Вы смотрите фильмы в интернете?"
             },
             {
             id:6,
-            eng:"Do you have TikTok on your phone?",
+            eng:"Do you have TikTok on your phone? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"У вас есть ТикТок на телефоне?"
             },
             {
             id:7,
-            eng:"Do you have Instagram?",
+            eng:"Do you have Instagram? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"У вас есть инстаграм?"
             },
             {
             id:8,
-            eng:"Do you smoke?",
+            eng:"Do you smoke? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Вы курите?"
             },
             {
             id:9,
-            eng:"Do you drink alcohol?",
+            eng:"Do you drink alcohol? / Элкохол / + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Вы выпиваете алкоголь?"
             },
             {
             id:10,
-            eng:"Are you hungry now? / а ю хАнГри нАу /",
+            eng:"Are you hungry now? / а ю хАнГри нАу / + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Вы голодны сейчас?"
             },
             {
             id:11,
-            eng:"Are you a good or a bad student?",
+            eng:"Are you a good or a bad student? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Вы хороший или плохой ученик?"
             },
             {
             id:12,
-            eng:"Is Vincent your friend?",
+            eng:"Is Vincent your friend? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Винсент ваш друг?"
             },
             {
             id:13,
-            eng:"Is your teacher stupid? / стьюпид /",
+            eng:"Is your teacher stupid? / стьюпид / + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"Ваша училка тупица?"
             },
             {
             id:14,
-            eng:"Do you have a pet?",
+            eng:"Do you have a pet? + потом ещё доп. вопрос When… Where… How often… What… ",
             ru:"У вас есть домашнее животное (питомец) ?"
             },
             {
