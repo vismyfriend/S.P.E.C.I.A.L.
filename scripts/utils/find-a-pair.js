@@ -552,8 +552,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:2,
-            eng:"‘em = them / эм = дэм /",
-            ru:"их"
+            eng:" ‘em = them / эм = дэм /",
+            ru:"их (сокращённо)"
             },
             {
             id:3,
@@ -567,8 +567,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:5,
-            eng:"all I could think of / ол ай куд /",
-            ru:"всё о чем я мог думать"
+            eng:"could / куд /",
+            ru:"мог"
             },
             {
             id:6,
@@ -577,8 +577,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:7,
-            eng:"cut the cheese ( слэнг ) ",
-            ru:"пукнуть ( фразеологизм )"
+            eng:"cut the cheese ( на слэнге ) ",
+            ru:"пёрнуть, пукнуть ( идиома )"
             },
             {
             id:8,
@@ -592,8 +592,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:10,
-            eng:"I'd explode / айд эксплОуд /",
-            ru:"я бы взорвался"
+            eng:"I'd или I would / аЙд или Ай вУд /",
+            ru:"я бы "
             },
             {
             id:11,
@@ -603,7 +603,7 @@ const allCardsGameFindAPair = {
             {
             id:12,
             eng:"grew bigger  / грУ бигэ /",
-            ru:"нарастал, становился больше"
+            ru:"нарастал, увеличивался"
             },
             {
             id:13,
@@ -613,41 +613,41 @@ const allCardsGameFindAPair = {
             {
             id:14,
             eng:"tried my best  / трайд май бэст /",
-            ru:"выложился на максимум, сделал всё в своих силах"
+            ru:"выложился по максимуму"
             },
             {
             id:15,
-            eng:"hide under  / хайд андэ /",
-            ru:"прятать под, скрывать под"
+            eng:"hide  / хайд /",
+            ru:"прятать, скрывать"
             },
             {
             id:16,
-            eng:"thought  / thot /",
+            eng:"thought  / thОт /",
             ru:"думал"
             },
             {
             id:17,
             eng:"I was doing swell / воз дуин свэл /",
-            ru:"я был в ударе, справлялся"
+            ru:"у меня хорошо получалось"
             },
             {
             id:18,
-            eng:"knees, laps / нис , лэпс /",
-            ru:"колени, коленки"
+            eng:"knees и laps / нис , лэпс /",
+            ru:"коленки и колени"
             },
             {
             id:19,
-            eng:"stink / стинк /",
+            eng:"stink (на слэнге) / стинк /",
             ru:"вонять (отстой, стрёмный)"
             },
             {
             id:20,
-            eng:"what's that smell? / смЭл /",
-            ru:"что за запах?"
+            eng:"what's the smell? / уОтс дэ смЭл /",
+            ru:"что за запах? чем пахнет?"
             },
             {
             id:21,
-            eng:"nothing under / наthЫн андэ /",
+            eng:"nothing under / наthЫн Андэ /",
             ru:"ничего под"
             },
             {
@@ -683,7 +683,7 @@ const allCardsGameFindAPair = {
             {
             id:28,
             eng:"let slip out / лэт слип аут /",
-            ru:"позволить выскользнуть, вырваться"
+            ru:"позволить вырваться"
             },
             {
             id:29,
@@ -693,7 +693,7 @@ const allCardsGameFindAPair = {
             {
             id:30,
             eng:"snuck out of home / снАк аут ов хоум /",
-            ru:"улизнул, выкрался из дома"
+            ru:"выкрался из дома"
             },
             {
             id:31,
@@ -762,17 +762,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:44,
-            eng:"what's that smell? / смЭл /",
-            ru:"что за запах?"
-            },
-            {
-            id:45,
             eng:"all I could think of / ол ай куд /",
             ru:"всё о чем я мог думать"
             },
             {
+            id:45,
+            eng:"I'd explode / айд эксплОуд /",
+            ru:"я бы взорвался"
+            },
+            {
             id:46,
-            eng:"tried his best / трайд хиз бэст /",
+            eng:"tried his best  / трайд хиз бэст /",
             ru:"выложился на максимум, сделал всё в своих силах"
             },
     ],
@@ -800,7 +800,7 @@ const allCardsGameFindAPair = {
             {
             id:28,
             eng:"let slip out / лэт слип аут /",
-            ru:"позволить выскользнуть, вырваться"
+            ru:"позволить вырваться"
             },
             {
             id:29,
@@ -810,7 +810,7 @@ const allCardsGameFindAPair = {
             {
             id:30,
             eng:"snuck out of home / снАк аут ов хоум /",
-            ru:"улизнул, выкрался из дома"
+            ru:"выкрался из дома"
             },
             {
             id:31,
@@ -879,17 +879,17 @@ const allCardsGameFindAPair = {
             },
             {
             id:44,
-            eng:"what's that smell? / смЭл /",
-            ru:"что за запах?"
-            },
-            {
-            id:45,
             eng:"all I could think of / ол ай куд /",
             ru:"всё о чем я мог думать"
             },
             {
+            id:45,
+            eng:"I'd explode / айд эксплОуд /",
+            ru:"я бы взорвался"
+            },
+            {
             id:46,
-            eng:"tried his best / трайд хиз бэст /",
+            eng:"tried his best  / трайд хиз бэст /",
             ru:"выложился на максимум, сделал всё в своих силах"
             },
     ],
@@ -901,8 +901,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:2,
-            eng:"‘em = them / эм = дэм /",
-            ru:"их"
+            eng:" ‘em = them / эм = дэм /",
+            ru:"их (сокращённо)"
             },
             {
             id:3,
@@ -916,8 +916,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:5,
-            eng:"all I could think of / ол ай куд /",
-            ru:"всё о чем я мог думать"
+            eng:"could / куд /",
+            ru:"мог"
             },
             {
             id:6,
@@ -926,8 +926,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:7,
-            eng:"cut the cheese ( слэнг ) ",
-            ru:"пукнуть ( фразеологизм )"
+            eng:"cut the cheese ( на слэнге ) ",
+            ru:"пёрнуть, пукнуть ( идиома )"
             },
             {
             id:8,
@@ -941,8 +941,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:10,
-            eng:"I'd explode / айд эксплОуд /",
-            ru:"я бы взорвался"
+            eng:"I'd или I would / аЙд или Ай вУд /",
+            ru:"я бы "
             },
             {
             id:11,
@@ -952,7 +952,7 @@ const allCardsGameFindAPair = {
             {
             id:12,
             eng:"grew bigger  / грУ бигэ /",
-            ru:"нарастал, становился больше"
+            ru:"нарастал, увеличивался"
             },
             {
             id:13,
@@ -962,41 +962,41 @@ const allCardsGameFindAPair = {
             {
             id:14,
             eng:"tried my best  / трайд май бэст /",
-            ru:"выложился на максимум, сделал всё в своих силах"
+            ru:"выложился по максимуму"
             },
             {
             id:15,
-            eng:"hide under  / хайд андэ /",
-            ru:"прятать под, скрывать под"
+            eng:"hide  / хайд /",
+            ru:"прятать, скрывать"
             },
             {
             id:16,
-            eng:"thought  / thot /",
+            eng:"thought  / thОт /",
             ru:"думал"
             },
             {
             id:17,
             eng:"I was doing swell / воз дуин свэл /",
-            ru:"я был в ударе, справлялся"
+            ru:"у меня хорошо получалось"
             },
             {
             id:18,
-            eng:"knees, laps / нис , лэпс /",
-            ru:"колени, коленки"
+            eng:"knees и laps / нис , лэпс /",
+            ru:"коленки и колени"
             },
             {
             id:19,
-            eng:"stink / стинк /",
+            eng:"stink (на слэнге) / стинк /",
             ru:"вонять (отстой, стрёмный)"
             },
             {
             id:20,
-            eng:"what's that smell? / смЭл /",
-            ru:"что за запах?"
+            eng:"what's the smell? / уОтс дэ смЭл /",
+            ru:"что за запах? чем пахнет?"
             },
             {
             id:21,
-            eng:"nothing under / наthЫн андэ /",
+            eng:"nothing under / наthЫн Андэ /",
             ru:"ничего под"
             },
             {

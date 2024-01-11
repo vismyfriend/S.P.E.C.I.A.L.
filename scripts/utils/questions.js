@@ -547,578 +547,617 @@ const allQuestionsOneDeck = {
     santalapfart3c1: [
         {
             id:1,
-            eng:"Как по-английски сказать ` мама приготовила бобы` ?",
-            ru:"What is the Russian for ` MOM MADE BEANS / мам мэйд бинз /` ?"
+            eng:"How do you say: ` мама приготовила бобы `",
+            ru:"MOM MADE BEANS / мам мэйд бинз /"
             },
             {
             id:2,
-            eng:"What is the English for ` их` ?",
-            ru:"How do you translate ` ‘EM = THEM / эм = дэм /` ?"
+            eng:"What is the English for: ` их (сокращённо) `",
+            ru:" ‘EM = THEM / эм = дэм /"
             },
             {
             id:3,
-            eng:"How do you say ` накинь, надень своё пальто ` in English ?",
-            ru:"Как переводится `GET YOUR COAT ON ` на русском?"
+            eng:"What's the English for: ` накинь, надень своё пальто `",
+            ru:"GET YOUR COAT ON "
             },
             {
             id:4,
-            eng:"How do you translate ` большой магазин` ?",
-            ru:"Translate into Russian: `MALL / мол / `"
+            eng:"Как сказать: ` большой магазин `",
+            ru:"MALL / мол /"
             },
             {
             id:5,
-            eng:"Как по-английски сказать ` всё о чем я мог думать` ?",
-            ru:"What is the Russian for ` ALL I COULD THINK OF / ол ай куд /` ?"
+            eng:"Как переводится: ` could `",
+            ru:"МОГ / куд /"
             },
             {
             id:6,
-            eng:"What is the English for ` как не забыть` ?",
-            ru:"How do you translate ` HOW NOT TO FORGET / хау нат ту фогет /` ?"
+            eng:"How do you translate: ` как не забыть `",
+            ru:"HOW NOT TO FORGET / хау нат ту фогет /"
             },
             {
             id:7,
-            eng:"How do you say ` пукнуть ( фразеологизм ) ` in English ?",
-            ru:"Как переводится `CUT THE CHEESE ( СЛЭНГ ) ` на русском?"
+            eng:"What's the Russian for: ` cut the cheese ( на слэнге )  `",
+            ru:"ПЁРНУТЬ, ПУКНУТЬ ( ИДИОМА ) "
             },
             {
             id:8,
-            eng:"How do you translate ` в то время как, пока` ?",
-            ru:"Translate into Russian: `WHILE / уйал / `"
+            eng:"Can you translate: ` while / уйал / `",
+            ru:"В ТО ВРЕМЯ КАК, ПОКА / уйал /"
             },
             {
             id:9,
-            eng:"Как по-английски сказать ` ждать кого-то` ?",
-            ru:"What is the Russian for ` WAIT FOR SOMEONE ` ?"
+            eng:"How do you say: ` ждать кого-то `",
+            ru:"WAIT FOR SOMEONE "
             },
             {
             id:10,
-            eng:"What is the English for ` я бы взорвался` ?",
-            ru:"How do you translate ` I'D EXPLODE / айд эксплОуд /` ?"
+            eng:"What is the English for: ` я бы  `",
+            ru:"I'D ИЛИ I WOULD / аЙд или Ай вУд /"
             },
             {
             id:11,
-            eng:"How do you say ` газовый пузырь  ` in English ?",
-            ru:"Как переводится `THE GAS BUBBLE  / дэ гэс бабл /` на русском?"
+            eng:"What's the English for: ` газовый пузырь  `",
+            ru:"THE GAS BUBBLE  / дэ гэс бабл /"
             },
             {
             id:12,
-            eng:"How do you translate ` нарастал, становился больше` ?",
-            ru:"Translate into Russian: `GREW BIGGER  / грУ бигэ / `"
+            eng:"Как сказать: ` нарастал, увеличивался `",
+            ru:"GREW BIGGER  / грУ бигэ /"
             },
             {
             id:13,
-            eng:"Как по-английски сказать ` с каждым словом` ?",
-            ru:"What is the Russian for ` WITH EVERY WORD ` ?"
+            eng:"Как переводится: ` with every word `",
+            ru:"С КАЖДЫМ СЛОВОМ "
             },
             {
             id:14,
-            eng:"What is the English for ` выложился на максимум, сделал всё в своих силах` ?",
-            ru:"How do you translate ` TRIED MY BEST  / трайд май бэст /` ?"
+            eng:"How do you translate: ` выложился по максимуму `",
+            ru:"TRIED MY BEST  / трайд май бэст /"
             },
             {
             id:15,
-            eng:"How do you say ` прятать под, скрывать под ` in English ?",
-            ru:"Как переводится `HIDE UNDER  / хайд андэ /` на русском?"
+            eng:"What's the Russian for: ` hide  / хайд / `",
+            ru:"ПРЯТАТЬ, СКРЫВАТЬ / хайд /"
             },
             {
             id:16,
-            eng:"How do you translate ` думал` ?",
-            ru:"Translate into Russian: `THOUGHT  / thot / `"
+            eng:"Can you translate: ` thought  / thОт / `",
+            ru:"ДУМАЛ / thОт /"
             },
             {
             id:17,
-            eng:"Как по-английски сказать ` я был в ударе, справлялся` ?",
-            ru:"What is the Russian for ` I WAS DOING SWELL / воз дуин свэл /` ?"
+            eng:"How do you say: ` у меня хорошо получалось `",
+            ru:"I WAS DOING SWELL / воз дуин свэл /"
             },
             {
             id:18,
-            eng:"What is the English for ` колени, коленки` ?",
-            ru:"How do you translate ` KNEES, LAPS / нис , лэпс /` ?"
+            eng:"What is the English for: ` коленки и колени `",
+            ru:"KNEES И LAPS / нис , лэпс /"
             },
             {
             id:19,
-            eng:"How do you say ` вонять (отстой, стрёмный) ` in English ?",
-            ru:"Как переводится `STINK / стинк /` на русском?"
+            eng:"What's the English for: ` вонять (отстой, стрёмный) `",
+            ru:"STINK (НА СЛЭНГЕ) / стинк /"
             },
             {
             id:20,
-            eng:"How do you translate ` что за запах?` ?",
-            ru:"Translate into Russian: `WHAT'S THAT SMELL? / смЭл / `"
+            eng:"Как сказать: ` что за запах? чем пахнет? `",
+            ru:"WHAT'S THE SMELL? / уОтс дэ смЭл /"
             },
             {
             id:21,
-            eng:"Как по-английски сказать ` ничего под` ?",
-            ru:"What is the Russian for ` NOTHING UNDER / наthЫн андэ /` ?"
+            eng:"Как переводится: ` nothing under `",
+            ru:"НИЧЕГО ПОД / наthЫн Андэ /"
             },
             {
             id:22,
-            eng:"What is the English for ` ёлка` ?",
-            ru:"How do you translate ` CHRISTMAS TREE / крисмас три /` ?"
+            eng:"How do you translate: ` ёлка `",
+            ru:"CHRISTMAS TREE / крисмас три /"
             },
             {
             id:23,
-            eng:"How do you say ` бейсбольная бита ` in English ?",
-            ru:"Как переводится `A BASEBALL BAT / бэйсбол бэт /` на русском?"
+            eng:"What's the Russian for: ` a baseball bat / бэйсбол бэт / `",
+            ru:"БЕЙСБОЛЬНАЯ БИТА / бэйсбол бэт /"
             },
-        {
+            {
             id:24,
-            eng:"How do you translate ` просить чего-то` ?",
-            ru:"Translate into Russian: `ASK FOR SOMETHING  `"
+            eng:"Can you translate: ` ask for something  `",
+            ru:"ПРОСИТЬ ЧЕГО-ТО "
             },
             {
             id:25,
-            eng:"Как по-английски сказать ` коньки` ?",
-            ru:"What is the Russian for ` ICE SKATES / айс скейтс /` ?"
+            eng:"How do you say: ` коньки `",
+            ru:"ICE SKATES / айс скейтс /"
             },
             {
             id:26,
-            eng:"What is the English for ` ничего из этого` ?",
-            ru:"How do you translate ` NONE OF THESE / нАн ов дыZ /` ?"
+            eng:"What is the English for: ` ничего из этого `",
+            ru:"NONE OF THESE / нАн ов дыZ /"
             },
             {
             id:27,
-            eng:"How do you say ` много вещей ` in English ?",
-            ru:"Как переводится `A LOT OF THINGS ` на русском?"
+            eng:"What's the English for: ` много вещей `",
+            ru:"A LOT OF THINGS "
             },
             {
             id:28,
-            eng:"How do you translate ` позволить выскользнуть, вырваться` ?",
-            ru:"Translate into Russian: `LET SLIP OUT / лэт слип аут / `"
+            eng:"Как сказать: ` позволить вырваться `",
+            ru:"LET SLIP OUT / лэт слип аут /"
             },
             {
             id:29,
-            eng:"Как по-английски сказать ` в канун рождества, ночь перед рождеством` ?",
-            ru:"What is the Russian for ` ON CHRISTMAS EVE  / он крисмас ив /` ?"
+            eng:"Как переводится: ` On Christmas Eve  `",
+            ru:"В КАНУН РОЖДЕСТВА, НОЧЬ ПЕРЕД РОЖДЕСТВОМ / он крисмас ив /"
             },
             {
             id:30,
-            eng:"What is the English for ` улизнул, выкрался из дома` ?",
-            ru:"How do you translate ` SNUCK OUT OF HOME / снАк аут ов хоум /` ?"
+            eng:"How do you translate: ` выкрался из дома `",
+            ru:"SNUCK OUT OF HOME / снАк аут ов хоум /"
             },
             {
             id:31,
-            eng:"How do you say ` без звука ` in English ?",
-            ru:"Как переводится `WITHOUT A SOUND ` на русском?"
+            eng:"What's the Russian for: ` without a sound  `",
+            ru:"БЕЗ ЗВУКА "
             },
             {
             id:32,
-            eng:"How do you translate ` зал, гостиная` ?",
-            ru:"Translate into Russian: `LIVING ROOM  / ливин рум / `"
+            eng:"Can you translate: ` living room  / ливин рум / `",
+            ru:"ЗАЛ, ГОСТИНАЯ / ливин рум /"
             },
             {
             id:33,
-            eng:"Как по-английски сказать ` осмотреться` ?",
-            ru:"What is the Russian for ` TAKE A LOOK AROUND ` ?"
+            eng:"How do you say: ` осмотреться `",
+            ru:"TAKE A LOOK AROUND "
             },
             {
             id:34,
-            eng:"What is the English for ` наполнен подарками` ?",
-            ru:"How do you translate ` FULL OF PRESENTS  / фул ов прэзэнтс /` ?"
+            eng:"What is the English for: ` наполнен подарками `",
+            ru:"FULL OF PRESENTS  / фул ов прэзэнтс /"
             },
             {
             id:35,
-            eng:"How do you say ` куча ` in English ?",
-            ru:"Как переводится `A PILE  / э пАйл /` на русском?"
+            eng:"What's the English for: ` куча `",
+            ru:"A PILE  / э пАйл /"
             },
             {
             id:36,
-            eng:"How do you translate ` развернуться` ?",
-            ru:"Translate into Russian: `TURN AROUND / тёрн эрАунд / `"
+            eng:"Как сказать: ` развернуться `",
+            ru:"TURN AROUND / тёрн эрАунд /"
             },
             {
             id:37,
-            eng:"Как по-английски сказать ` такая великая сила` ?",
-            ru:"What is the Russian for ` SUCH GREAT FORCE  / сач грэйт форс /` ?"
+            eng:"Как переводится: ` such great force  `",
+            ru:"ТАКАЯ ВЕЛИКАЯ СИЛА / сач грэйт форс /"
             },
             {
             id:38,
-            eng:"What is the English for ` почти свалилась` ?",
-            ru:"How do you translate ` ALMOST CAME DOWN / олмост кем даун /` ?"
+            eng:"How do you translate: ` почти свалилась `",
+            ru:"ALMOST CAME DOWN / олмост кем даун /"
             },
             {
             id:39,
-            eng:"How do you say ` дорожить моментом ` in English ?",
-            ru:"Как переводится `CHERISH A MOMENT / чЕриш э моУмэнт /` на русском?"
+            eng:"What's the Russian for: ` cherish a moment / чЕриш э моУмэнт / `",
+            ru:"ДОРОЖИТЬ МОМЕНТОМ / чЕриш э моУмэнт /"
             },
             {
             id:40,
-            eng:"How do you translate ` она осознала` ?",
-            ru:"Translate into Russian: `SHE REALIZED / щи риалАйзд / `"
+            eng:"Can you translate: ` she realized / щи риалАйзд / `",
+            ru:"ОНА ОСОЗНАЛА / щи риалАйзд /"
             },
             {
             id:41,
-            eng:"Как по-английски сказать ` даже святой Николай` ?",
-            ru:"What is the Russian for ` EVEN SAINT NICK / ивн сЭйнт ник /` ?"
+            eng:"How do you say: ` даже святой Николай `",
+            ru:"EVEN SAINT NICK / ивн сЭйнт ник /"
             },
             {
             id:42,
-            eng:"What is the English for ` порой, бывает (синоним иногда)` ?",
-            ru:"How do you translate ` NOW AND THEN / нау эн дэн /` ?"
+            eng:"What is the English for: ` порой, бывает (синоним иногда) `",
+            ru:"NOW AND THEN / нау эн дэн /"
             },
             {
             id:43,
-            eng:"How do you say ` пукнуть ` in English ?",
-            ru:"Как переводится `FART / фарт /` на русском?"
+            eng:"What's the English for: ` пукнуть `",
+            ru:"FART / фарт /"
             },
             {
             id:44,
-            eng:"How do you translate ` что за запах?` ?",
-            ru:"Translate into Russian: `WHAT'S THAT SMELL? / смЭл / `"
+            eng:"Как сказать: ` всё о чем я мог думать `",
+            ru:"ALL I COULD THINK OF / ол ай куд /"
             },
             {
             id:45,
-            eng:"Как по-английски сказать ` всё о чем я мог думать` ?",
-            ru:"What is the Russian for ` ALL I COULD THINK OF / ол ай куд /` ?"
+            eng:"Как переводится: ` I'd explode `",
+            ru:"Я БЫ ВЗОРВАЛСЯ / айд эксплОуд /"
             },
             {
             id:46,
-            eng:"What is the English for ` выложился на максимум, сделал всё в своих силах` ?",
-            ru:"How do you translate ` TRIED HIS или MY или HER BEST  / трайд май бэст /` ?"
+            eng:"How do you translate: ` выложился на максимум, сделал всё в своих силах `",
+            ru:"TRIED HIS BEST  / трайд хиз бэст /"
             },
             {
-                id:47,
-                eng:"Do you believe in Santa and do you believe in Father Frost (Дед Мороз)?",
-                ru:"Вы верите в Santa /сЭнта клОz/и деда Мороза (Father Frost) ?"
-                },
-                {
-                id:48,
-                eng:"Where does Santa /сЭнта клОz/ live?",
-                ru:"Где Santa /сЭнта клОz/ живет?"
-                },
-                {
-                id:49,
-                eng:"What transport does Santa /сЭнта клОz/ use? What animals?",
-                ru:"Какой транспорт использует сЭнта клОz?"
-                },
-                {
-                id:50,
-                eng:"What animals does Father Frost (Дедушка Мороз) use? And what transport?",
-                ru:"Какой транспорт использует Father Frost(дед мороз)?"
-                },
-                {
-                id:51,
-                eng:"How many reindeer does Santa /сЭнта клОz/ have?",
-                ru:"Сколько северных оленей у сЭнты?"
-                },
-                {
-                id:52,
-                eng:"How many horses does Father Frost (Дедушка Мороз) have?",
-                ru:"Сколько лошадей у Father Frost (дедуля Мороз)"
-                },
-                {
-                id:53,
-                eng:"How well can you skate on ice skates? Can you skate fast?",
-                ru:"Как хорошо ты катаешься на коньках? Можешь катиться очень быстро?"
-                },
-                {
-                id:54,
-                eng:"Do you like one big present under the Christmas tree or a pile of small presents?",
-                ru:"Тебе нравится один больлшой подарок под елкой или куча маленьких подарков?"
-                },
-                {
-                id:55,
-                eng:"Do you try to do your best when you do homework or not?",
-                ru:"Ты пытаешься делать все, что в твоих силах и выкладываться по-максимуму, когда делаешь домашку?"
-                },
-                {
-                id:56,
-                eng:"How many Christmas and New Year songs do you know?",
-                ru:"Сколько рождественских или новогодних песен ты знаешь?"
-                },
-
-                    {
-                    id:57,
-                    eng:"Is this true or is it a stereotype that people fart after they eat beans?",
-                    ru:"Это правда или стереотип, что люди пукают, после того как поедят бобы(фасоль)?"
-                    },
-                    {
-                    id:58,
-                    eng:"Do you like food with beans?",
-                    ru:"Тебе нравится еда с бобами (фсолью)?"
-                    },
+            id:47,
+            eng:"Do you believe in Santa and do you believe in Father Frost (Дед Мороз)?",
+            ru:"Вы верите в Santa /сЭнта клОz/и деда Мороза (Father Frost) ?"
+            },
+            {
+            id:48,
+            eng:"Where does Santa /сЭнта клОz/ live?",
+            ru:"Где Santa /сЭнта клОz/ живет?"
+            },
+            {
+            id:49,
+            eng:"What animals does Santa /сЭнта клОz/ have? (ответ: Reindeers - северные олени)",
+            ru:"у сЭнта клОz какие животные тянут санки Sleigh / слэй / санки"
+            },
+            {
+            id:50,
+            eng:"Does Father Frost have a deer? (у Дедушки Мороза) есть олень?",
+            ru:"He doesn't have a deer. He has Snow Maiden / сноу мЭйдн / снегурочка"
+            },
+            {
+            id:51,
+            eng:"How many reindeer does Santa /сЭнта клОz/ have?",
+            ru:"Сколько северных оленей у сЭнты?"
+            },
+            {
+            id:52,
+            eng:"How many horses does Father Frost (Дедушка Мороз) have?",
+            ru:"Сколько лошадей у Father Frost (дедуля Мороз)"
+            },
+            {
+            id:53,
+            eng:"How well can you skate on ice skates? Can you skate fast?",
+            ru:"Как хорошо ты катаешься на коньках? Можешь катиться очень быстро?"
+            },
+            {
+            id:54,
+            eng:"Do you like one big present under the Christmas tree or a pile / пайл / of small presents?",
+            ru:"Тебе нравится один больлшой подарок под елкой или куча маленьких подарков?"
+            },
+            {
+            id:55,
+            eng:"Do you try to do your best when you do homework or not?",
+            ru:"Ты пытаешься делать все, что в твоих силах и выкладываться по-максимуму, когда делаешь домашку?"
+            },
+            {
+            id:56,
+            eng:"How many Christmas and New Year songs do you know?",
+            ru:"Сколько рождественских или новогодних песен ты знаешь?"
+            },
+            {
+            id:57,
+            eng:"Is this true or is it a stereotype that people fart after they eat beans?",
+            ru:"Это правда или стереотип, что люди пукают, после того как поедят бобовых?"
+            },
+            {
+            id:58,
+            eng:"Do you like food with beans?",
+            ru:"Тебе нравится еда с бобами (фсолью)?"
+            },
+            {
+            id:59,
+            eng:"What presents do you want to get for next Christmas?",
+            ru:"Какие подарки хочешь на следующее рождество?"
+            },
+            {
+            id:60,
+            eng:"Do you remember your presents from last Christmas? Tell about them.",
+            ru:"Помнишь свои подарки с прошлого рождества? Расскажи о них."
+            },
+            {
+            id:61,
+            eng:"What presents do you usually give to your family?",
+            ru:"Какие подарки ты обычно даришь своей семье?"
+            },
     ],
     santalapfart2b2: [
         {
             id:24,
-            eng:"How do you translate ` просить чего-то` ?",
-            ru:"Translate into Russian: `ASK FOR SOMETHING  `"
+            eng:"Can you translate: ` ask for something  `",
+            ru:"ПРОСИТЬ ЧЕГО-ТО "
             },
             {
             id:25,
-            eng:"Как по-английски сказать ` коньки` ?",
-            ru:"What is the Russian for ` ICE SKATES / айс скейтс /` ?"
+            eng:"How do you say: ` коньки `",
+            ru:"ICE SKATES / айс скейтс /"
             },
             {
             id:26,
-            eng:"What is the English for ` ничего из этого` ?",
-            ru:"How do you translate ` NONE OF THESE / нАн ов дыZ /` ?"
+            eng:"What is the English for: ` ничего из этого `",
+            ru:"NONE OF THESE / нАн ов дыZ /"
             },
             {
             id:27,
-            eng:"How do you say ` много вещей ` in English ?",
-            ru:"Как переводится `A LOT OF THINGS ` на русском?"
+            eng:"What's the English for: ` много вещей `",
+            ru:"A LOT OF THINGS "
             },
             {
             id:28,
-            eng:"How do you translate ` позволить выскользнуть, вырваться` ?",
-            ru:"Translate into Russian: `LET SLIP OUT / лэт слип аут / `"
+            eng:"Как сказать: ` позволить вырваться `",
+            ru:"LET SLIP OUT / лэт слип аут /"
             },
             {
             id:29,
-            eng:"Как по-английски сказать ` в канун рождества, ночь перед рождеством` ?",
-            ru:"What is the Russian for ` ON CHRISTMAS EVE  / он крисмас ив /` ?"
+            eng:"Как переводится: ` On Christmas Eve  `",
+            ru:"В КАНУН РОЖДЕСТВА, НОЧЬ ПЕРЕД РОЖДЕСТВОМ / он крисмас ив /"
             },
             {
             id:30,
-            eng:"What is the English for ` улизнул, выкрался из дома` ?",
-            ru:"How do you translate ` SNUCK OUT OF HOME / снАк аут ов хоум /` ?"
+            eng:"How do you translate: ` выкрался из дома `",
+            ru:"SNUCK OUT OF HOME / снАк аут ов хоум /"
             },
             {
             id:31,
-            eng:"How do you say ` без звука ` in English ?",
-            ru:"Как переводится `WITHOUT A SOUND ` на русском?"
+            eng:"What's the Russian for: ` without a sound  `",
+            ru:"БЕЗ ЗВУКА "
             },
             {
             id:32,
-            eng:"How do you translate ` зал, гостиная` ?",
-            ru:"Translate into Russian: `LIVING ROOM  / ливин рум / `"
+            eng:"Can you translate: ` living room  / ливин рум / `",
+            ru:"ЗАЛ, ГОСТИНАЯ / ливин рум /"
             },
             {
             id:33,
-            eng:"Как по-английски сказать ` осмотреться` ?",
-            ru:"What is the Russian for ` TAKE A LOOK AROUND ` ?"
+            eng:"How do you say: ` осмотреться `",
+            ru:"TAKE A LOOK AROUND "
             },
             {
             id:34,
-            eng:"What is the English for ` наполнен подарками` ?",
-            ru:"How do you translate ` FULL OF PRESENTS  / фул ов прэзэнтс /` ?"
+            eng:"What is the English for: ` наполнен подарками `",
+            ru:"FULL OF PRESENTS  / фул ов прэзэнтс /"
             },
             {
             id:35,
-            eng:"How do you say ` куча ` in English ?",
-            ru:"Как переводится `A PILE  / э пАйл /` на русском?"
+            eng:"What's the English for: ` куча `",
+            ru:"A PILE  / э пАйл /"
             },
             {
             id:36,
-            eng:"How do you translate ` развернуться` ?",
-            ru:"Translate into Russian: `TURN AROUND / тёрн эрАунд / `"
+            eng:"Как сказать: ` развернуться `",
+            ru:"TURN AROUND / тёрн эрАунд /"
             },
             {
             id:37,
-            eng:"Как по-английски сказать ` такая великая сила` ?",
-            ru:"What is the Russian for ` SUCH GREAT FORCE  / сач грэйт форс /` ?"
+            eng:"Как переводится: ` such great force  `",
+            ru:"ТАКАЯ ВЕЛИКАЯ СИЛА / сач грэйт форс /"
             },
             {
             id:38,
-            eng:"What is the English for ` почти свалилась` ?",
-            ru:"How do you translate ` ALMOST CAME DOWN / олмост кем даун /` ?"
+            eng:"How do you translate: ` почти свалилась `",
+            ru:"ALMOST CAME DOWN / олмост кем даун /"
             },
             {
             id:39,
-            eng:"How do you say ` дорожить моментом ` in English ?",
-            ru:"Как переводится `CHERISH A MOMENT / чЕриш э моУмэнт /` на русском?"
+            eng:"What's the Russian for: ` cherish a moment / чЕриш э моУмэнт / `",
+            ru:"ДОРОЖИТЬ МОМЕНТОМ / чЕриш э моУмэнт /"
             },
             {
             id:40,
-            eng:"How do you translate ` она осознала` ?",
-            ru:"Translate into Russian: `SHE REALIZED / щи риалАйзд / `"
+            eng:"Can you translate: ` she realized / щи риалАйзд / `",
+            ru:"ОНА ОСОЗНАЛА / щи риалАйзд /"
             },
             {
             id:41,
-            eng:"Как по-английски сказать ` даже святой Николай` ?",
-            ru:"What is the Russian for ` EVEN SAINT NICK / ивн сЭйнт ник /` ?"
+            eng:"How do you say: ` даже святой Николай `",
+            ru:"EVEN SAINT NICK / ивн сЭйнт ник /"
             },
             {
             id:42,
-            eng:"What is the English for ` порой, бывает (синоним иногда)` ?",
-            ru:"How do you translate ` NOW AND THEN / нау эн дэн /` ?"
+            eng:"What is the English for: ` порой, бывает (синоним иногда) `",
+            ru:"NOW AND THEN / нау эн дэн /"
             },
             {
             id:43,
-            eng:"How do you say ` пукнуть ` in English ?",
-            ru:"Как переводится `FART / фарт /` на русском?"
+            eng:"What's the English for: ` пукнуть `",
+            ru:"FART / фарт /"
             },
             {
             id:44,
-            eng:"How do you translate ` что за запах?` ?",
-            ru:"Translate into Russian: `WHAT'S THAT SMELL? / смЭл / `"
+            eng:"Как сказать: ` всё о чем я мог думать `",
+            ru:"ALL I COULD THINK OF / ол ай куд /"
             },
             {
             id:45,
-            eng:"Как по-английски сказать ` всё о чем я мог думать` ?",
-            ru:"What is the Russian for ` ALL I COULD THINK OF / ол ай куд /` ?"
+            eng:"Как переводится: ` I'd explode `",
+            ru:"Я БЫ ВЗОРВАЛСЯ / айд эксплОуд /"
             },
             {
             id:46,
-            eng:"What is the English for ` выложился на максимум, сделал всё в своих силах` ?",
-            ru:"How do you translate ` TRIED HIS или MY или HER BEST  / трайд май бэст /` ?"
+            eng:"How do you translate: ` выложился на максимум, сделал всё в своих силах `",
+            ru:"TRIED HIS BEST  / трайд хиз бэст /"
+            },
+        {
+            id:47,
+            eng:"Do you believe in Santa and do you believe in Father Frost (Дед Мороз)?",
+            ru:"Вы верите в Santa /сЭнта клОz/и деда Мороза (Father Frost) ?"
             },
             {
-                id:47,
-                eng:"Do you believe in Santa and do you believe in Father Frost (Дед Мороз)?",
-                ru:"Вы верите в Santa /сЭнта клОz/и деда Мороза (Father Frost) ?"
-                },
-                {
-                id:48,
-                eng:"Where does Santa /сЭнта клОz/ live?",
-                ru:"Где Santa /сЭнта клОz/ живет?"
-                },
-                {
-                id:49,
-                eng:"What transport does Santa /сЭнта клОz/ use? What animals?",
-                ru:"Какой транспорт использует сЭнта клОz?"
-                },
-                {
-                id:50,
-                eng:"What animals does Father Frost (Дедушка Мороз) use? And what transport?",
-                ru:"Какой транспорт использует Father Frost(дед мороз)?"
-                },
-                {
-                id:51,
-                eng:"How many reindeer does Santa /сЭнта клОz/ have?",
-                ru:"Сколько северных оленей у сЭнты?"
-                },
-                {
-                id:52,
-                eng:"How many horses does Father Frost (Дедушка Мороз) have?",
-                ru:"Сколько лошадей у Father Frost (дедуля Мороз)"
-                },
-                {
-                id:53,
-                eng:"How well can you skate on ice skates? Can you skate fast?",
-                ru:"Как хорошо ты катаешься на коньках? Можешь катиться очень быстро?"
-                },
-                {
-                id:54,
-                eng:"Do you like one big present under the Christmas tree or a pile of small presents?",
-                ru:"Тебе нравится один больлшой подарок под елкой или куча маленьких подарков?"
-                },
-                {
-                id:55,
-                eng:"Do you try to do your best when you do homework or not?",
-                ru:"Ты пытаешься делать все, что в твоих силах и выкладываться по-максимуму, когда делаешь домашку?"
-                },
-                {
-                id:56,
-                eng:"How many Christmas and New Year songs do you know?",
-                ru:"Сколько рождественских или новогодних песен ты знаешь?"
-                },
+            id:48,
+            eng:"Where does Santa /сЭнта клОz/ live?",
+            ru:"Где Santa /сЭнта клОz/ живет?"
+            },
+            {
+            id:49,
+            eng:"What animals does Santa /сЭнта клОz/ have? (ответ: Reindeers - северные олени)",
+            ru:"у сЭнта клОz какие животные тянут санки Sleigh / слэй / санки"
+            },
+            {
+            id:50,
+            eng:"Does Father Frost have a deer? (у Дедушки Мороза) есть олень?",
+            ru:"He doesn't have a deer. He has Snow Maiden / сноу мЭйдн / снегурочка"
+            },
+            {
+            id:51,
+            eng:"How many reindeer does Santa /сЭнта клОz/ have?",
+            ru:"Сколько северных оленей у сЭнты?"
+            },
+            {
+            id:52,
+            eng:"How many horses does Father Frost (Дедушка Мороз) have?",
+            ru:"Сколько лошадей у Father Frost (дедуля Мороз)"
+            },
+            {
+            id:53,
+            eng:"How well can you skate on ice skates? Can you skate fast?",
+            ru:"Как хорошо ты катаешься на коньках? Можешь катиться очень быстро?"
+            },
+            {
+            id:54,
+            eng:"Do you like one big present under the Christmas tree or a pile / пайл / of small presents?",
+            ru:"Тебе нравится один больлшой подарок под елкой или куча маленьких подарков?"
+            },
+            {
+            id:55,
+            eng:"Do you try to do your best when you do homework or not?",
+            ru:"Ты пытаешься делать все, что в твоих силах и выкладываться по-максимуму, когда делаешь домашку?"
+            },
+            {
+            id:56,
+            eng:"How many Christmas and New Year songs do you know?",
+            ru:"Сколько рождественских или новогодних песен ты знаешь?"
+            },
+            {
+            id:57,
+            eng:"Is this true or is it a stereotype that people fart after they eat beans?",
+            ru:"Это правда или стереотип, что люди пукают, после того как поедят бобовых?"
+            },
+            {
+            id:58,
+            eng:"Do you like food with beans?",
+            ru:"Тебе нравится еда с бобами (фсолью)?"
+            },
+            {
+            id:59,
+            eng:"What presents do you want to get for next Christmas?",
+            ru:"Какие подарки хочешь на следующее рождество?"
+            },
+            {
+            id:60,
+            eng:"Do you remember your presents from last Christmas? Tell about them.",
+            ru:"Помнишь свои подарки с прошлого рождества? Расскажи о них."
+            },
+            {
+            id:61,
+            eng:"What presents do you usually give to your family?",
+            ru:"Какие подарки ты обычно даришь своей семье?"
+            },
     ],
     santalapfart1b1: [
         {
             id:1,
-            eng:"Как по-английски сказать ` мама приготовила бобы` ?",
-            ru:"What is the Russian for ` MOM MADE BEANS / мам мэйд бинз /` ?"
+            eng:"How do you say: ` мама приготовила бобы `",
+            ru:"MOM MADE BEANS / мам мэйд бинз /"
             },
             {
             id:2,
-            eng:"What is the English for ` их` ?",
-            ru:"How do you translate ` ‘EM = THEM / эм = дэм /` ?"
+            eng:"What is the English for: ` их (сокращённо) `",
+            ru:" ‘EM = THEM / эм = дэм /"
             },
             {
             id:3,
-            eng:"How do you say ` накинь, надень своё пальто ` in English ?",
-            ru:"Как переводится `GET YOUR COAT ON ` на русском?"
+            eng:"What's the English for: ` накинь, надень своё пальто `",
+            ru:"GET YOUR COAT ON "
             },
             {
             id:4,
-            eng:"How do you translate ` большой магазин` ?",
-            ru:"Translate into Russian: `MALL / мол / `"
+            eng:"Как сказать: ` большой магазин `",
+            ru:"MALL / мол /"
             },
             {
             id:5,
-            eng:"Как по-английски сказать ` всё о чем я мог думать` ?",
-            ru:"What is the Russian for ` ALL I COULD THINK OF / ол ай куд /` ?"
+            eng:"Как переводится: ` could `",
+            ru:"МОГ / куд /"
             },
             {
             id:6,
-            eng:"What is the English for ` как не забыть` ?",
-            ru:"How do you translate ` HOW NOT TO FORGET / хау нат ту фогет /` ?"
+            eng:"How do you translate: ` как не забыть `",
+            ru:"HOW NOT TO FORGET / хау нат ту фогет /"
             },
             {
             id:7,
-            eng:"How do you say ` пукнуть ( фразеологизм ) ` in English ?",
-            ru:"Как переводится `CUT THE CHEESE ( СЛЭНГ ) ` на русском?"
+            eng:"What's the Russian for: ` cut the cheese ( на слэнге )  `",
+            ru:"ПЁРНУТЬ, ПУКНУТЬ ( ИДИОМА ) "
             },
             {
             id:8,
-            eng:"How do you translate ` в то время как, пока` ?",
-            ru:"Translate into Russian: `WHILE / уйал / `"
+            eng:"Can you translate: ` while / уйал / `",
+            ru:"В ТО ВРЕМЯ КАК, ПОКА / уйал /"
             },
             {
             id:9,
-            eng:"Как по-английски сказать ` ждать кого-то` ?",
-            ru:"What is the Russian for ` WAIT FOR SOMEONE ` ?"
+            eng:"How do you say: ` ждать кого-то `",
+            ru:"WAIT FOR SOMEONE "
             },
             {
             id:10,
-            eng:"What is the English for ` я бы взорвался` ?",
-            ru:"How do you translate ` I'D EXPLODE / айд эксплОуд /` ?"
+            eng:"What is the English for: ` я бы  `",
+            ru:"I'D ИЛИ I WOULD / аЙд или Ай вУд /"
             },
             {
             id:11,
-            eng:"How do you say ` газовый пузырь  ` in English ?",
-            ru:"Как переводится `THE GAS BUBBLE  / дэ гэс бабл /` на русском?"
+            eng:"What's the English for: ` газовый пузырь  `",
+            ru:"THE GAS BUBBLE  / дэ гэс бабл /"
             },
             {
             id:12,
-            eng:"How do you translate ` нарастал, становился больше` ?",
-            ru:"Translate into Russian: `GREW BIGGER  / грУ бигэ / `"
+            eng:"Как сказать: ` нарастал, увеличивался `",
+            ru:"GREW BIGGER  / грУ бигэ /"
             },
             {
             id:13,
-            eng:"Как по-английски сказать ` с каждым словом` ?",
-            ru:"What is the Russian for ` WITH EVERY WORD ` ?"
+            eng:"Как переводится: ` with every word `",
+            ru:"С КАЖДЫМ СЛОВОМ "
             },
             {
             id:14,
-            eng:"What is the English for ` выложился на максимум, сделал всё в своих силах` ?",
-            ru:"How do you translate ` TRIED MY BEST  / трайд май бэст /` ?"
+            eng:"How do you translate: ` выложился по максимуму `",
+            ru:"TRIED MY BEST  / трайд май бэст /"
             },
             {
             id:15,
-            eng:"How do you say ` прятать под, скрывать под ` in English ?",
-            ru:"Как переводится `HIDE UNDER  / хайд андэ /` на русском?"
+            eng:"What's the Russian for: ` hide  / хайд / `",
+            ru:"ПРЯТАТЬ, СКРЫВАТЬ / хайд /"
             },
             {
             id:16,
-            eng:"How do you translate ` думал` ?",
-            ru:"Translate into Russian: `THOUGHT  / thot / `"
+            eng:"Can you translate: ` thought  / thОт / `",
+            ru:"ДУМАЛ / thОт /"
             },
             {
             id:17,
-            eng:"Как по-английски сказать ` я был в ударе, справлялся` ?",
-            ru:"What is the Russian for ` I WAS DOING SWELL / воз дуин свэл /` ?"
+            eng:"How do you say: ` у меня хорошо получалось `",
+            ru:"I WAS DOING SWELL / воз дуин свэл /"
             },
             {
             id:18,
-            eng:"What is the English for ` колени, коленки` ?",
-            ru:"How do you translate ` KNEES, LAPS / нис , лэпс /` ?"
+            eng:"What is the English for: ` коленки и колени `",
+            ru:"KNEES И LAPS / нис , лэпс /"
             },
             {
             id:19,
-            eng:"How do you say ` вонять (отстой, стрёмный) ` in English ?",
-            ru:"Как переводится `STINK / стинк /` на русском?"
+            eng:"What's the English for: ` вонять (отстой, стрёмный) `",
+            ru:"STINK (НА СЛЭНГЕ) / стинк /"
             },
             {
             id:20,
-            eng:"How do you translate ` что за запах?` ?",
-            ru:"Translate into Russian: `WHAT'S THAT SMELL? / смЭл / `"
+            eng:"Как сказать: ` что за запах? чем пахнет? `",
+            ru:"WHAT'S THE SMELL? / уОтс дэ смЭл /"
             },
             {
             id:21,
-            eng:"Как по-английски сказать ` ничего под` ?",
-            ru:"What is the Russian for ` NOTHING UNDER / наthЫн андэ /` ?"
+            eng:"Как переводится: ` nothing under `",
+            ru:"НИЧЕГО ПОД / наthЫн Андэ /"
             },
             {
             id:22,
-            eng:"What is the English for ` ёлка` ?",
-            ru:"How do you translate ` CHRISTMAS TREE / крисмас три /` ?"
+            eng:"How do you translate: ` ёлка `",
+            ru:"CHRISTMAS TREE / крисмас три /"
             },
             {
             id:23,
-            eng:"How do you say ` бейсбольная бита ` in English ?",
-            ru:"Как переводится `A BASEBALL BAT / бэйсбол бэт /` на русском?"
+            eng:"What's the Russian for: ` a baseball bat / бэйсбол бэт / `",
+            ru:"БЕЙСБОЛЬНАЯ БИТА / бэйсбол бэт /"
             },
             {
                 id:47,
@@ -1132,13 +1171,13 @@ const allQuestionsOneDeck = {
                 },
                 {
                 id:49,
-                eng:"What transport does Santa /сЭнта клОz/ use? What animals?",
-                ru:"Какой транспорт использует сЭнта клОz?"
+                eng:"What animals does Santa /сЭнта клОz/ have? (ответ: Reindeers - северные олени)",
+                ru:"у сЭнта клОz какие животные тянут санки Sleigh / слэй / санки"
                 },
                 {
                 id:50,
-                eng:"What animals does Father Frost (Дедушка Мороз) use? And what transport?",
-                ru:"Какой транспорт использует Father Frost(дед мороз)?"
+                eng:"Does Father Frost have a deer? (у Дедушки Мороза) есть олень?",
+                ru:"He doesn't have a deer. He has Snow Maiden / сноу мЭйдн / снегурочка"
                 },
                 {
                 id:51,
@@ -1157,7 +1196,7 @@ const allQuestionsOneDeck = {
                 },
                 {
                 id:54,
-                eng:"Do you like one big present under the Christmas tree or a pile of small presents?",
+                eng:"Do you like one big present under the Christmas tree or a pile / пайл / of small presents?",
                 ru:"Тебе нравится один больлшой подарок под елкой или куча маленьких подарков?"
                 },
                 {
@@ -1169,6 +1208,31 @@ const allQuestionsOneDeck = {
                 id:56,
                 eng:"How many Christmas and New Year songs do you know?",
                 ru:"Сколько рождественских или новогодних песен ты знаешь?"
+                },
+                {
+                id:57,
+                eng:"Is this true or is it a stereotype that people fart after they eat beans?",
+                ru:"Это правда или стереотип, что люди пукают, после того как поедят бобовых?"
+                },
+                {
+                id:58,
+                eng:"Do you like food with beans?",
+                ru:"Тебе нравится еда с бобами (фсолью)?"
+                },
+                {
+                id:59,
+                eng:"What presents do you want to get for next Christmas?",
+                ru:"Какие подарки хочешь на следующее рождество?"
+                },
+                {
+                id:60,
+                eng:"Do you remember your presents from last Christmas? Tell about them.",
+                ru:"Помнишь свои подарки с прошлого рождества? Расскажи о них."
+                },
+                {
+                id:61,
+                eng:"What presents do you usually give to your family?",
+                ru:"Какие подарки ты обычно даришь своей семье?"
                 },
     ],
     clothes03: [
@@ -2745,12 +2809,12 @@ const allQuestionsOneDeck = {
     questions003: [
         {
             id:1,
-            eng:"Ask me any question",
-            ru:"Задай мне любой вопрос"
+            eng:"Ask me any question / аск ми эни куэсченz /",
+            ru:"Задайте мне любой вопрос"
             },
             {
             id:2,
-            eng:"Ask me anything",
+            eng:"Ask me anything / аск ми эниTHын /",
             ru:"Спросите меня что-угодно"
             },
             {
@@ -2790,7 +2854,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:10,
-            eng:"Are you hungry now?",
+            eng:"Are you hungry now? / а ю хАнГри нАу /",
             ru:"Вы голодны сейчас?"
             },
             {
@@ -2805,7 +2869,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:13,
-            eng:"Is your teacher stupid?",
+            eng:"Is your teacher stupid? / стьюпид /",
             ru:"Ваша училка тупица?"
             },
             {
@@ -2830,7 +2894,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:18,
-            eng:"What is your favorite film?",
+            eng:"What is your favorite film? / фэйворит /",
             ru:"Какой ваш любимый фильм?"
             },
             {
@@ -2875,7 +2939,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:27,
-            eng:"What color cap does Vincent have today?",
+            eng:"What color cap / кэп / does Vincent have today?",
             ru:"У Винсента сегодня какого цвета кепка?"
             },
             {
@@ -2890,7 +2954,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:30,
-            eng:"How is your life?",
+            eng:"How is your life? / лайф /",
             ru:"Как ваша жизнь?"
             },
             {
@@ -2900,7 +2964,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:32,
-            eng:"Where are you now?",
+            eng:"Where are you now? / нау /",
             ru:"Где вы сейчас?"
             },
             {
@@ -2940,7 +3004,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:40,
-            eng:"What is your shoe size?",
+            eng:"What is your shoe size? / шу сайз /",
             ru:"Какой у вас размер обуви?"
             },
             {
@@ -2955,213 +3019,353 @@ const allQuestionsOneDeck = {
             },
             {
             id:43,
-            eng:"Как по-английски сказать ` просыпаться рано ` ?",
-            ru:"What is the Russian for ` WAKE UP ` ?"
+            eng:"Are you home now?",
+            ru:"Вы дома сейчас?"
             },
             {
             id:44,
-            eng:"How do you say ` иметь душ (мыться в душе) ` in English?",
-            ru:"Как будет ` HAVE A SHOWER ` на русском?"
-            },
-            {
-            id:45,
-            eng:"How do you say ` работать на большую компанию ` in English?",
-            ru:"Как будет ` WORK FOR A BIG COMPANY ` на русском?"
-            },
-            {
-            id:46,
-            eng:"How do you say ` одеваться ` in English?",
-            ru:"Как будет ` GET DRESSED ` на русском?"
-            },
-            {
-            id:47,
-            eng:"How do you translate into English ` идти на кухню ` ?",
-            ru:"Как переводится ` GO TO THE KITCHEN ` ?"
-            },
-            {
-            id:48,
-            eng:"Как по-английски сказать ` идти в ванную ` ?",
-            ru:"What is the Russian for ` GO TO THE BATHROOM ` ?"
-            },
-            {
-            id:49,
-            eng:"How do you translate into English ` обедать в кафе ` ?",
-            ru:"Как переводится ` HAVE LUNCH IN A CAFÉ ` ?"
-            },
-            {
-            id:50,
-            eng:"Как по-английски сказать ` обедать на работе ` ?",
-            ru:"What is the Russian for ` HAVE LUNCH AT WORK ` ?"
-            },
-            {
-            id:51,
-            eng:"What is the English for ` работать весь день ` ?",
-            ru:"How do you translate ` WORK ALL DAY ` ?"
-            },
-            {
-            id:52,
-            eng:"How do you say ` заканчивать рабочий день ` in English?",
-            ru:"Как будет ` FINISH WORK DAY ` на русском?"
-            },
-            {
-            id:53,
-            eng:"How do you translate into English ` идти домой ` ?",
-            ru:"Как переводится ` GO HOME ` ?"
-            },
-            {
-            id:54,
-            eng:"Как по-английски сказать ` готовить ужин ` ?",
-            ru:"What is the Russian for ` COOK DINNER ` ?"
-            },
-            {
-            id:55,
-            eng:"What is the English for ` мечтать ` ?",
-            ru:"How do you translate ` DREAM ` ?"
-            },
-            {
-            id:56,
-            eng:"What is the English for ` петь песню ` ?",
-            ru:"How do you translate ` SING A SONG ` ?"
-            },
-            {
-            id:57,
-            eng:"How do you say ` ходить 'по-маленькому' (пИсать) ` in English?",
-            ru:"Как будет ` DO NUMBER ONE ` на русском?"
-            },
-            {
-            id:58,
-            eng:"How do you translate into English ` ходить 'по-большому' (какать) ` ?",
-            ru:"Как переводится ` DO NUMBER TWO ` ?"
-            },
-            {
-            id:59,
-            eng:"Как по-английски сказать ` кормить питомцев ` ?",
-            ru:"What is the Russian for ` FEED PETS ` ?"
-            },
-            {
-            id:60,
-            eng:"How do you translate into English ` муж и жена ` ?",
-            ru:"Как переводится ` A husband and and wife ` ?"
-            },
-            {
-            id:61,
-            eng:"Задай напарнику вопрос: ` Do you have good memory? `",
-            ru:"Ask this question in English ` У тебя хорошая память? `"
-            },
-            {
-            id:62,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эн Ай Кей И `",
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эн Ай Кей И `",
             ru:"NIKE"
             },
             {
-            id:63,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Пи Эй Эс Эс Пи Оу А Ти `",
+            id:45,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Пи Эй Эс Эс Пи Оу А Ти `",
             ru:"PASSPORT"
             },
             {
-            id:64,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` А Ю Эс Эс Ай Эй `",
+            id:46,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` А Ю Эс Эс Ай Эй `",
             ru:"RUSSIA"
             },
             {
-            id:65,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эф А Эй Эн Си И `",
+            id:47,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эф А Эй Эн Си И `",
             ru:"FRANCE"
             },
             {
-            id:66,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` И Эн Джи Эл Эй Эн Ди `",
+            id:48,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` И Эн Джи Эл Эй Эн Ди `",
             ru:"ENGLAND"
             },
             {
-            id:67,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эм И А Си И Ди И Эс - Би И Эн Зи `",
+            id:49,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эм И А Си И Ди И Эс - Би И Эн Зи `",
             ru:"MERCEDES"
             },
             {
-            id:68,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эй Ю Ди Ай `",
+            id:50,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эй Ю Ди Ай `",
             ru:"AUDI"
             },
             {
-            id:69,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Ви Оу Эл Ви Оу `",
+            id:51,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Ви Оу Эл Ви Оу `",
             ru:"VOLVO"
             },
             {
-            id:70,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
+            id:52,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
             ru:"VOLKSWAGEN"
             },
             {
-            id:71,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Би Эм Дабл Ю `",
+            id:53,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Би Эм Дабл Ю `",
             ru:"BMW"
             },
             {
-            id:72,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Кей Эй Эн Джи Эй А Оу Оу `",
+            id:54,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Кей Эй Эн Джи Эй А Оу Оу `",
             ru:"KANGAROO"
             },
             {
-            id:73,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Джей Оу Кей И А `",
+            id:55,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Джей Оу Кей И А `",
             ru:"JOKER"
             },
             {
-            id:74,
-            eng:"I will spell one word я произнесу слово по буквам догадайся что это за слово готов? ` Эм Ай Эн И Си А Эй Эф Ти `",
+            id:56,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эм Ай Эн И Си А Эй Эф Ти `",
             ru:"MINECRAFT"
             },
             {
-            id:75,
+            id:57,
             eng:"Are you the only child in family? Or do you have brothers or sisters?",
             ru:"Ты единственный ребенок в семье или у тебя есть братья или сестры?"
             },
             {
-            id:76,
+            id:58,
             eng:"When is your birthday?",
             ru:"Когда твой день рождения?"
             },
             {
-            id:77,
+            id:59,
             eng:"What color is your mobile phone? / мобАйл фОУн / ?",
             ru:"Какого цвета твой мобильный телефон?"
             },
             {
-            id:78,
+            id:60,
             eng:"Можно ли на английском языке говорить: I haven't a dog. (правильный ответ - НЕЛЬЗЯ)",
             ru:"I haven't a job. Спроси - можно ли на английском языке так говорить?  (правильный ответ - НЕЛЬЗЯ)"
             },
             {
-            id:79,
+            id:61,
             eng:"Чему равняется Nine плас Seven ? ответ: сыкстИИИН / ударение не на Ы, а на И/",
             ru:"Hello, father!"
             },
             {
-            id:80,
+            id:62,
             eng:"Чему равняется twelve мАйнэc four ? ответ: it is eight / эйт /",
             ru:"Нажав сюда вы нашли секретную карту! Вам сегодня приснится голенький Винсентик"
             },
             {
-            id:81,
+            id:63,
             eng:"Чему равняется four плас five ? ответ: it is nine / найн /",
             ru:"Интересно, что вы пытались увидеть нажав сюда…"
             },
             {
-            id:82,
+            id:64,
             eng:"Чему равняется Nine плас Nine ? ответ: эйтИИИН / ударение не на Э, а на И/",
             ru:"Здесь могла быть ваша реклама LOL Винсент тот ещё шутник"
             },
             {
-            id:83,
+            id:65,
             eng:"Чему равняется eleven плас nine ? ответ: it is twenty 20",
             ru:"Хммм…. И что по вашему должно быть здесь написано?"
             },
             {
-            id:84,
+            id:66,
             eng:"Чему равняется five плас ten ? ответ: it is фифтИн / ударение только вторую И /",
             ru:"Тут без калькулятора не разобраться"
+            },
+            {
+            id:67,
+            eng:"How do you say: ` рано `",
+            ru:"EARLY / ёли /"
+            },
+            {
+            id:68,
+            eng:"How do you say: ` просыпаться рано или вставать рано `",
+            ru:"WAKE UP EARLY / уэйк ап ёли / или get up тоже можно"
+            },
+            {
+            id:69,
+            eng:"What's the English for: ` мыться в душе `",
+            ru:"HAVE A SHOWER / шАуэ / или синоним TAKE A SHOWER"
+            },
+            {
+            id:70,
+            eng:"Как переводится: ` brush teeth `",
+            ru:"BRUSH TEETH / браш / или CLEAN TEETH / клИн /"
+            },
+            {
+            id:71,
+            eng:"Как переводится: ` brush teeth `",
+            ru:"BRUSH TEETH / браш / или CLEAN TEETH / клИн /"
+            },
+            {
+            id:72,
+            eng:"How do you say: ` гулять `",
+            ru:"WALK / вОлк /"
+            },
+            {
+            id:73,
+            eng:"Как сказать: ` ждать поезда `",
+            ru:"WAIT FOR THE TRAIN "
+            },
+            {
+            id:74,
+            eng:"Как переводится: ` look at the phone `",
+            ru:"СМОТРЕТЬ НА ТЕЛЕФОН "
+            },
+            {
+            id:75,
+            eng:"What's the Russian for: ` work for a big company  `",
+            ru:"РАБОТАТЬ НА БОЛЬШУЮ КОМПАНИЮ "
+            },
+            {
+            id:76,
+            eng:"Can you translate: ` walk to a bus stop  `",
+            ru:"ПРОГУЛЯТЬСЯ ДО ОСТАНОВКИ АВТОБУСА "
+            },
+            {
+            id:77,
+            eng:"How do you say: ` говорить с кем-то `",
+            ru:"TALK TO SOMEBODY / тОк ту сАмбади /"
+            },
+            {
+            id:78,
+            eng:"What's the English for: ` говорить по телефону `",
+            ru:"TALK ON THE PHONE "
+            },
+            {
+            id:79,
+            eng:"Как сказать: ` разговаривать с кем-то `",
+            ru:"SPEAK WITH SOMEBODY "
+            },
+            {
+            id:80,
+            eng:"Can you translate: ` have lunch in a café / кЭфи / `",
+            ru:"ОБЕДАТЬ В КАФЕ / кЭфи /"
+            },
+            {
+            id:81,
+            eng:"How do you say: ` обедать на работе `",
+            ru:"HAVE LUNCH AT WORK "
+            },
+            {
+            id:82,
+            eng:"What is the English for: ` работать весь день `",
+            ru:"WORK ALL DAY / Ол дЭй /"
+            },
+            {
+            id:83,
+            eng:"Как сказать: ` идти домой `",
+            ru:"GO HOME "
+            },
+            {
+            id:84,
+            eng:"Как переводится: ` cook dinner `",
+            ru:"ГОТОВИТЬ УЖИН "
+            },
+            {
+            id:85,
+            eng:"How do you translate: ` смотреть телевизор `",
+            ru:"WATCH TELEVISION  (TV) / уОтч тЕлевИжн /"
+            },
+            {
+            id:86,
+            eng:"What's the Russian for: ` have dinner / хэв дИнэ / `",
+            ru:"УЖИНАТЬ / хэв дИнэ /"
+            },
+            {
+            id:87,
+            eng:"What is the English for: ` мечтать `",
+            ru:"DREAM / дрИм /"
+            },
+            {
+            id:88,
+            eng:"Как переводится: ` wait for somebody `",
+            ru:"ЖДАТЬ КОГО-ТО / уЭйт фО сАмбади /"
+            },
+            {
+            id:89,
+            eng:"How do you translate: ` петь песню `",
+            ru:"SING A SONG / сИн Э сОн /"
+            },
+            {
+            id:90,
+            eng:"What's the Russian for: ` do number one / нАмбэ уАн / `",
+            ru:"ХОДИТЬ 'ПО-МАЛЕНЬКОМУ' (ПИСАТЬ) / нАмбэ уАн /"
+            },
+            {
+            id:91,
+            eng:"Can you translate: ` do number two / нАмбэ тУ / `",
+            ru:"ХОДИТЬ 'ПО-БОЛЬШОМУ' (КАКАТЬ) / нАмбэ тУ /"
+            },
+            {
+            id:92,
+            eng:"How do you say: ` кормить питомцев `",
+            ru:"FEED PETS / фид пЭтс /"
+            },
+            {
+            id:93,
+            eng:"Can you translate: ` go to the kitchen  `",
+            ru:"ИДТИ НА КУХНЮ "
+            },
+            {
+            id:94,
+            eng:"How do you say: ` идти в ванную `",
+            ru:"GO TO THE BATHROOM / бАthрум /"
+            },
+            {
+            id:95,
+            eng:"What is the English for: ` идти в спальню `",
+            ru:"GO TO THE BEDROOM / бЭдрум /"
+            },
+            {
+            id:96,
+            eng:"What's the English for: ` идти в гостиную `",
+            ru:"GO TO THE LIVING ROOM / лИвин /"
+            },
+            {
+            id:97,
+            eng:"Как сказать: ` пить чашечку кофе или чая `",
+            ru:"HAVE A CUP OF COFFEE OR TEA / тИ /"
+            },
+            {
+            id:98,
+            eng:"How do you usually feel after you have a shower?",
+            ru:"Как вы обычно чувствуете себя после принятия душа?"
+            },
+            {
+            id:99,
+            eng:"What songs do you sing when you take a shower?",
+            ru:"Какие песни вы поете, когда принимаете душ?"
+            },
+            {
+            id:100,
+            eng:"What color is your toothbrush? What is the brand of your toothpaste /пЭйст/?",
+            ru:"Какого цвета ваша зубная щетка? Какая марка вашей зубной пасты?"
+            },
+            {
+            id:101,
+            eng:"How many times a day do you clean your teeth?",
+            ru:"Сколько раз в день вы чистите зубы?"
+            },
+            {
+            id:102,
+            eng:"Do you sometimes walk without clothes at home? /нЭйкид/ голый",
+            ru:"Бывает ли, что вы ходите по дому без одежды?"
+            },
+            {
+            id:103,
+            eng:"How many people can sit at the table in your kitchen?",
+            ru:"Сколько человек может сесть за стол в вашей кухне?"
+            },
+            {
+            id:104,
+            eng:"Do you have candles /свечи/ in your bathroom?",
+            ru:"У вас есть свечи в ванной комнате?"
+            },
+            {
+            id:105,
+            eng:"What time do you usually wake up on Mondays?",
+            ru:"Во сколько ты обычно просыпаешься по понедельникам?"
+            },
+            {
+            id:106,
+            eng:"Is your living room big? Do you have a big sofa there?",
+            ru:"Ваша гостиная большая? У вас есть большой диван там?"
+            },
+            {
+            id:107,
+            eng:"What do you like more: tea or coffee? With or without milk? Sugar/щуга/?",
+            ru:"Что вам нравится больше? Чай или Кофе? С сахаром или без?"
+            },
+            {
+            id:108,
+            eng:"What is your favorite tea brand?",
+            ru:"Какая твоя любимая марка чая?"
+            },
+            {
+            id:109,
+            eng:"What time does your work start?",
+            ru:"Во сколько твой рабочий день начинается?"
+            },
+            {
+            id:110,
+            eng:"What time does your work finish?",
+            ru:"Во сколько твой рабочий день заканчивается?"
+            },
+            {
+            id:111,
+            eng:"What street is your work in?",
+            ru:"На какой улице ваша работа?"
+            },
+            {
+            id:112,
+            eng:"How many light switchers /лайт свичерз/ do you have around your apartments?",
+            ru:"Сколько выключателей света у вас в квартире? (примерно по-английски ABOUT) I have about 10 light switchers, and you?"
             },
     ],
     travel: [
