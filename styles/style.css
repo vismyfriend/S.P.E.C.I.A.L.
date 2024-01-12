@@ -2,8 +2,7 @@
 @import url(../vendor/normalize.css);
 @import url(https://fonts.googleapis.com/css?family=Neucha:regular);
 
-.headerPageReoad,
-.backToChoosingTheMissions {
+.headerPageReoad {
     margin: 8px auto;
     width: 316px;
     text-align: end;
@@ -12,7 +11,24 @@
  
     
 }
-
+.clickTest {
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    color: #37393a;
+    
+}
+.backToChoosingTheMissions {
+    position: absolute;
+    /* display: flex; */
+    align-items: center;
+    top: 5px;
+    margin: 8px auto;
+    width: 316px;
+    /* text-align: end; */
+    color: #515254;
+    
+}
 .headerPageReoad.visible,
 .backToChoosingTheMissions.visible {
     display: block;
@@ -97,7 +113,8 @@
 
 }
 
-.oneDeckButtonText.visible {
+.oneDeckButtonText.visible,
+.gameTwoCardDecksButtonText.visible {
     display: block;
     
 
@@ -112,7 +129,8 @@
 } */
 
 .usedCheatsText,
-.oneDeckButtonText {
+.oneDeckButtonText,
+.gameTwoCardDecksText {
     color: #7BE7FF;
     display: none;
     text-align: center;
@@ -166,13 +184,15 @@ button {
 
 
 
-.oneDeckButtons.visible {
+.oneDeckButtons.visible,
+.gameTwoCardDeckss.visible {
     display: flex;
     flex-wrap: wrap;
 }
 
 
-.oneDeckButtonCheck {
+.oneDeckButtonCheck,
+.gameTwoCardDecksCheck {
     border-radius: 26px;
     width: 110px;
     /* height: 40px; */
@@ -185,19 +205,22 @@ button {
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
 }
 
-.oneDeckButtonNext {
+.oneDeckButtonNext,
+.gameTwoCardDecksNext {
     width: 110px;
     border-radius: 26px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #80FF01;
 }
 
-.oneDeckButtonSwitch {
+.oneDeckButtonSwitch,
+.gameTwoCardDecksSwitch {
     width: 110px;
     border-radius: 26px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
 }
 
-.oneDeckButtonPrevious {
+.oneDeckButtonPrevious,
+.gameTwoCardDecksPrevious {
     border-radius: 26px;
     width: 110px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
@@ -863,7 +886,8 @@ button {
     width: 36.6%;
 }
 
-.oneDeckButtons {
+.oneDeckButtons,
+.gameTwoCardDecks {
     display: none;
     justify-content: center;
     gap: 11px;
@@ -1002,6 +1026,12 @@ button {
     display: none;
 }
 
+/* Начало стилей для новой игры */
+.gameLieToMe {
+    color: #00BCD4;
+}
+
+/* конец стилей для новой игры */
 
 
 .oneDeckOfCards {
