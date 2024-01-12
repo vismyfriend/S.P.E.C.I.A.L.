@@ -2208,6 +2208,98 @@ const allCardsGameFindAPair = {
 
     ],
 
+
+
+    PRESENTSIMPLE: [
+        
+        {
+            id:1,
+            eng:"present       simple       tense        ",
+            ru:"настоящее      простое       время       "
+            },
+            {
+            id:2,
+            eng:"времена в грамматике ",
+            ru:"читаются tenses / тэнсиz /"
+            },
+            {
+            id:3,
+            eng:"time / тайм /",
+            ru:"время ( о часах , минутах )"
+            },
+            {
+            id:4,
+            eng:"после it, he, she окончание S ",
+            ru:"глаголам пиши verb + s"
+            },
+            {
+            id:5,
+            eng:"после you we they и I ",
+            ru:"глагол без окончания S"
+            },
+            {
+            id:6,
+            eng:"everyday actions / эвридэй экшенz /",
+            ru:"ежедневные дела"
+            },
+            {
+            id:7,
+            eng:"daily routine / дЭйли рутИн /",
+            ru:"дневная рутина"
+            },
+            {
+            id:8,
+            eng:"чтобы       задать       вопрос        ",
+            ru:"добавляем DOES или DO вперёд"
+            },
+            {
+            id:9,
+            eng:"чтобы       сказать       отрицание ",
+            ru:"после DOES или DO ставим not и глагол без S"
+            },
+            {
+            id:10,
+            eng:"окончание S после глагола ставится только ",
+            ru:"в утвердительных предложениях"
+            },
+            {
+            id:11,
+            eng:"I like Vincent ",
+            ru:"мне нравится Винсент"
+            },
+            {
+            id:12,
+            eng:"Vincent likeS me ",
+            ru:"я нравлюсь Винсенту"
+            },
+            {
+            id:13,
+            eng:"I love English ",
+            ru:"я люблю английский"
+            },
+            {
+            id:14,
+            eng:"English loves me ",
+            ru:"английский любит меня"
+            },
+            {
+            id:15,
+            eng:"I don't have a cat ",
+            ru:"у меня нет кошки"
+            },
+            {
+            id:16,
+            eng:"they don't have any problems ",
+            ru:"у них нет никаких проблем"
+            },
+            {
+            id:17,
+            eng:"       he        doesn't have pets ",
+            ru:"у него нет домашних животных"
+            },
+
+
+    ],
     m009: [
         {
             id: 1,

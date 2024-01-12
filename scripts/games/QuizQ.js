@@ -7,12 +7,15 @@ export class QuizQ {
         this.rules = document.querySelector(".quizQuestionRules")
         this.buttonContainer = document.querySelector(".quizButtonsContainer")
         this.buttonTryAgainOneMoreTime = document.querySelector(".areAmIsQuizOneButtonOne")
+        this.logoRedCap = document.querySelector(".redCap")
+
         this.currentIndex = 0
         this.scoreCounter = 0
         this.mistakesCounter = 0
 
 
         this.startGame()
+        this.anotherVariantMultipleChoiceQuiz()
     }
 
 
@@ -31,6 +34,8 @@ export class QuizQ {
     startGame() {
         this.silceArray(this.shuffle(this.quizAllQuestions))
         this.showTheTask(this.quizAllQuestions[this.currentIndex])
+        this.buttonContainer.classList.remove("none")
+        this.task.classList.remove("none")
       
         
     }
@@ -94,7 +99,8 @@ export class QuizQ {
                 //    вот здесь (или в самой функции game over) нужна еще одна проверка - а то иначе он всегда верным засчитывает последний ответ, даже если там ошибка
                 this.gameOver()
                 button.classList.add("correct")
-                await this.timeOut(button, 25000, "correct")
+                // await this.timeOut(button, 25000, "correct")
+                await this.timeOut(button, 700, "correct")
                 return
             }
 
@@ -107,9 +113,29 @@ export class QuizQ {
     }
     gameOver() { 
         
-        this.rules.textContent = ` 🏆 Задание выполнено! Количество ошибок или "Ой, да я случайно не туда ткнул : ${ this.mistakesCounter} " можешь пройти другие варианты теста, некоторые вопросы будут отличаться 🔎 `
+        this.rules.textContent = ` 🏆 Quiz пройден! Сделай скриншот и отправь в наш чат. Vincent, я случайно не туда ткнул : ${ this.mistakesCounter} раз(а)`
         this.buttonTryAgainOneMoreTime.classList.remove("none")
         this.rules.classList.add("yellow")
+        this.buttonContainer.classList.add("none")
+        this.task.classList.add("none")
+        this.logoRedCap.classList.remove("none")
+
+    }
+
+   
+    anotherVariantMultipleChoiceQuiz() {
+        this.buttonTryAgainOneMoreTime.addEventListener("click", () => {
+            this.rules.textContent = `Всего 10 вопросов. Only 10 questions. Читай всё английское вслух.`
+            this.buttonTryAgainOneMoreTime.classList.add("none")
+            this.rules.classList.remove("yellow")
+            this.rules.classList.add("green")
+            this.currentIndex = 0
+        this.scoreCounter = 0
+        this.mistakesCounter = 0
+            this.startGame()
+            this.logoRedCap.classList.add("none")
+        
+        })
     }
 
    

@@ -53,7 +53,7 @@ const keyM = document.querySelector(".keyM")
 const keyDot = document.querySelector(".keyDot")
 const keyDel = document.querySelector(".keyDel")
 const keySpaceBar = document.querySelector(".keySpaceBar")
-const inputSearch = document.querySelector(".input.search")
+const inputSearch = document.querySelector(".input2.search")
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")
 const popupMissionsAndSetsSets = document.querySelector(".popupMissionsAndSets__sets")
 const chosenSet = document.querySelector(".popupMissionsAndSets__chosen-set")
@@ -681,7 +681,9 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
     })
 })
 
-buttonTryAgainOneMoreTime.addEventListener("click", pageReloadRefresh)
+
+// buttonTryAgainOneMoreTime.addEventListener("click", pageReloadRefresh)
+// buttonTryAgainOneMoreTime.addEventListener("click", startGameMultipleChoiceQuiz)
 
 
 function renderCards(lang) {
@@ -786,12 +788,13 @@ function finishGame() {
     starResult()
     inputSearch.classList.remove("none")
     starsEmoji.classList.add("visible")
-    usedCheatsText.textContent = `Сделай скриншот и поделись достижением с Винсентом, отправь ему фотку в телеграм. Пропущено слов: ${howManyTimesSkipped}. Получено звёзд за задание:`
+    usedCheatsText.textContent = `Сделай скриншот и отправь фотку в наш чат. Share your achievement with Vincent.  ${howManyTimesSkipped}MG Mission ${chosenSet.textContent} `
     usedCheatsText.classList.add("visible")
     tryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
-    popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат ${timer.textContent} seconds`
+    popupMissionsAndSetsTitle.textContent = `Результат ${timer.textContent} seconds`
+    // popupMissionsAndSetsTitle.textContent = `Mission ${chosenSet.textContent} результат ${timer.textContent} seconds`
     popupMissionsAndSetsDescription.innerHTML = "Максимальный результат = пять звёзд 🏆 попробуй ещё раз! Try again."
     timeMiliseconds.textContent = "00"
     timeSeconds.textContent = "00"

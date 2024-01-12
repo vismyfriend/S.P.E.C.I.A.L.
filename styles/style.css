@@ -9,6 +9,8 @@
     text-align: end;
     color: #515254;
     padding-top: 5px;
+ 
+    
 }
 
 .headerPageReoad.visible,
@@ -53,8 +55,9 @@
     align-items: center;
 }
 
-.input {
 
+.input {
+    display: none;
     border-radius: 1rem;
     margin: 3px;
     padding: .3rem;
@@ -62,6 +65,19 @@
     color: #31df0e;
     opacity: .8;
     text-align: center;
+}
+.input2 {
+
+    border-radius: 1rem;
+    margin: 18px 31px;
+    padding: 0.3rem;
+    background: rgba(255, 250, 240, 0.096);
+    box-shadow: 0px -2px 6px 1px #dddddd;
+    color: #31df0e;
+    opacity: .6;
+    text-align: center;
+    /* position: relative; */
+    width: 230px;
 }
 
 /* .icon {
@@ -128,6 +144,11 @@ button {
 }
 .areAmIsQuizOneButtonOne {
     background-color: greenyellow;
+    margin: 0 52px;
+    height: 63px;
+    border-radius: 41px;
+    width: 203px;
+    font-size: 19px;
 }
 
 .quizButton.wrong {
@@ -518,7 +539,7 @@ button {
     border-radius: 35px;
     color: #ffffff;
     position: relative;
-    margin: 50px 0;
+    /* margin: 50px 0; */
 }
 
 .popupMissionsAndSets::before {
@@ -652,7 +673,8 @@ button {
     -ms-grid-rows: 46px 15px 46px;
     grid-template-rows: 46px 46px 46px;
     grid-auto-flow: column;
-    padding: 20px 10px;
+    /* padding: 20px 10px; */
+    padding: 73px 10px 20px;
     list-style: none;
     margin-left: 10px;
     margin-right: 10px;
@@ -970,6 +992,12 @@ button {
     padding: 0;
 }
 
+
+.redCap {
+    top: 260px;
+    left: calc(50% - 100px);
+}
+
 .logo-special.hidden {
     display: none;
 }
@@ -1276,17 +1304,7 @@ button {
 }
 
 
-.logo-special {
-    z-index: -2;
-    position: fixed;
-    bottom: 1px;
-    /* left: calc(50% - 170px);
-    height: 200px; */
-    left: calc(50% - 150px);
-    height: 200px;
-    margin: 0;
-    padding: 0;
-}
+
 /* .deckOfCardsPicture {
     z-index: -2;
     

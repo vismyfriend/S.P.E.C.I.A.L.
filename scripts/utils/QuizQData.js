@@ -867,7 +867,7 @@ const quizQuesstionsList = {
             quizQuestion: "Как произносится 90 по-английски?",
             answers: [
             {
-            answer: "/найти/",
+            answer: "/найнди/",
             correct: true
             },
             {
