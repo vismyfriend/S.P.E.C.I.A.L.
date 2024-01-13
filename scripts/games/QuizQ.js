@@ -3,9 +3,9 @@ export class QuizQ {
     constructor(data) {
         this.quizAllQuestions = data.quizAllQuestions
         this.silcedQuestions = null
-        this.task = document.querySelector(".quizQuestionTask")
-        this.rules = document.querySelector(".quizQuestionRules")
-        this.buttonContainer = document.querySelector(".quizButtonsContainer")
+        this.task = document.querySelector(".gameTrickyQuizTask")
+        this.rules = document.querySelector(".gameTrickyQuizRules")
+        this.AnswersButtonsContainer = document.querySelector(".gameTrickyQuizAnswersButtons")
         this.buttonTryAgainOneMoreTime = document.querySelector(".areAmIsQuizOneButtonOne")
         this.logoRedCap = document.querySelector(".redCap")
         this.currentIndex = 0
@@ -30,24 +30,24 @@ export class QuizQ {
     startGame() {
         this.silceArray(this.shuffle(this.quizAllQuestions))
         this.showTheTask(this.quizAllQuestions[this.currentIndex])
-        this.buttonContainer.classList.remove("none")
+        this.AnswersButtonsContainer.classList.remove("none")
         this.task.classList.remove("none")
     }
 
     showTheTask(data) {
         this.task.textContent = data.quizQuestion
         const shuffeledAnswers = this.shuffle(data.answers)
-        this.buttonContainer.innerHTML = ""
+        this.AnswersButtonsContainer.innerHTML = ""
         shuffeledAnswers.map((answer, index) => {
             // можно было не передавать индекс
             const button = this.createButton(answer)
-            this.buttonContainer.append(button)
+            this.AnswersButtonsContainer.append(button)
         })
     }
 
     createButton(data) {
         const button = document.createElement("button")
-        button.classList.add("quizButton")
+        button.classList.add("gameTrickyQuizButton")
         button.textContent = data.answer
         this.setEventListener(button, data.correct)
         return button
@@ -55,10 +55,10 @@ export class QuizQ {
 
     timeOut(button, time, deletedClass) {
         return new Promise((resolve) => {
-            this.buttonContainer.classList.add("blockedForSomeTime")
+            this.AnswersButtonsContainer.classList.add("blockedForSomeTime")
             setTimeout(() => {
                 button.classList.remove(deletedClass)
-                this.buttonContainer.classList.remove("blockedForSomeTime")
+                this.AnswersButtonsContainer.classList.remove("blockedForSomeTime")
                 resolve()
             }, time)
         })
@@ -100,7 +100,7 @@ export class QuizQ {
         this.rules.textContent = ` 🏆 Quiz пройден! Сделай скриншот и отправь в наш чат. Vincent, я случайно не туда ткнул : ${this.mistakesCounter} раз(а)`
         this.buttonTryAgainOneMoreTime.classList.remove("none")
         this.rules.classList.add("yellow")
-        this.buttonContainer.classList.add("none")
+        this.AnswersButtonsContainer.classList.add("none")
         this.task.classList.add("none")
         this.logoRedCap.classList.remove("none")
     }

@@ -4,6 +4,7 @@ import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
 import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
 import quizQuestionsList from "./utils/QuizQData.js"
+// уточнить, что там с опечаткой написано что экспортировать в файле снизу, но все равно работает)
 import { QuizQ } from "./games/QuizQ.js"
 import gameTwoDecksListData from "./utils/gameTwoDecksData.js"
 import { gameTwoDecks } from "./games/gameTwoDecks.js"
@@ -53,10 +54,8 @@ const cardForSpeakingGame = document.querySelector(".oneDeckOfCards_cardForSpeak
 const topOfTheCard1Value = cardForSpeakingGame.querySelector(".oneDeckOfCards__topOfTheCard1Value")
 const bottomOfTheCard1Value = cardForSpeakingGame.querySelector(".oneDeckOfCards__bottomOfTheCard1Value")
 
-const mainContainer1 = document.querySelector(".mainContainer1")
-const mainContainer2 = document.querySelector(".mainContainer2")
-const mainContainer3 = document.querySelector(".mainContainer3")
-const mainContainer4 = document.querySelector(".mainContainer4")
+const gameTypeOrWrite = document.querySelector(".gameTypeOrWrite")
+const gameTrickyQuiz = document.querySelector(".gameTrickyQuiz")
 
 const mainContainer5gameTwoCardDecks = document.querySelector(".mainContainer5gameTwoCardDecks")
 
@@ -83,15 +82,15 @@ function getArray(set) {
 }
 
 //проходим по всем наборам, которые создали в index.html
+
 dataFromEachPopupMissionsAndSets.forEach((set) => {
     set.addEventListener("click", (evt) => {
         chooseSet(evt.target.textContent, evt.target.dataset.set)
         getArray(evt.target.dataset.set)
         //уточнить тут все - что такое evt.target
         chooseSong(evt.target.dataset.set)
-        console.log("SET - это весь элемент из HTML =", set)
-        console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
-
+        // console.log("SET - это весь элемент из HTML =", set)
+        // console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
     })
 })
 
@@ -99,14 +98,15 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
 
 function chooseSet(textTheNameOfTheChosenSet, set) {
     chosenSet.textContent = textTheNameOfTheChosenSet
+    console.log("название миссии=",textTheNameOfTheChosenSet)
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
     popupMissionsAndSetsDescription.textContent = "Выполни все задания, чтобы пройти миссию: 👇 с чего начнём? "
     fryFuturamaMainScreenIntro.classList.add("noshow")
-    inputSearch.classList.add("none")
-    // inputSearch.value = ""
+    userSearchesForMission.classList.add("none")
+    // userSearchesForMission.value = ""
     logoSpecial.classList.add("hidden")
-    tryAgainButton.classList.add("hidden")
+    gameFindPairsTryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")
     popupMissionsAndSetsSets.classList.add("hide")
     InputTypeOrWriteGame.classList.add("show")
@@ -120,21 +120,25 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     chosenSet.classList.add("show")
     usedCheatsText.classList.remove("visible")
     starsEmoji.classList.remove("visible")
-    searchSet()
+    userSearchesForMissionSet()
 }
 
+
+
+
 // ниже поиск набора по буквам поиск набора по буквам поиск набора по буквам поиск набора по буквам поиск набора по буквам
+// уточнить почему здесь обращение к двух классам и как это и зачем, можно ли одним? почему здесь двумя лучше
+const userSearchesForMission = document.querySelector(".userInput.userSearchesForMission")
 
-const inputSearch = document.querySelector(".input2.search")
+userSearchesForMission.addEventListener("input", () => userSearchesForMissionSet())
 
-function searchSet() {
-    let filtered = allSetsArray.filter(el => el.includes(inputSearch.value.toLowerCase()))
+function userSearchesForMissionSet() {
     let allSetsInHTML = document.querySelectorAll(".popupMissionsAndSets__set")
+    let filtered = allSetsArray.filter(el => el.includes(userSearchesForMission.value.toLowerCase()))
     allSetsInHTML.forEach(el => {
-        // console.log(el.dataset.set)
         if (!filtered.includes(el.dataset.set)) {
             el.classList.add("none")
-            // } else if (inputSearch.value != "") {
+            // } else if (userSearchesForMission.value != "") {
         } else {
             el.classList.remove("none")
             // visibility попробовать
@@ -144,17 +148,18 @@ function searchSet() {
     });
 }
 
-inputSearch.addEventListener("input", () => searchSet())
+
 
 
 
 // ниже игра quiz test multiple choice ниже игра quiz test multiple choice ниже игра quiz test multiple choice ниже игра quiz test multiple choice
+const mainContainerIntroAnd2games = document.querySelector(".mainContainerIntroAnd2games")
 const multipleChoiceQuiz = document.querySelector(".popupMissionsAndSets__multipleChoiceQuiz")
 function startGameMultipleChoiceQuiz() {
     // location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
-    mainContainer1.classList.add("none")
-    mainContainer2.classList.add("none")
-    mainContainer4.classList.remove("none")
+    mainContainerIntroAnd2games.classList.add("none")
+    gameBender.classList.add("none")
+    gameTrickyQuiz.classList.remove("none")
     new QuizQ({ quizAllQuestions: quizQuestionsList[currentSet] })
 }
 multipleChoiceQuiz.addEventListener("click", startGameMultipleChoiceQuiz)
@@ -162,8 +167,8 @@ multipleChoiceQuiz.addEventListener("click", startGameMultipleChoiceQuiz)
 
 
 
-// ниже все для игры find pairs find a pair ниже все для игры find pairs find a pair ниже все для игры find pairs find a pair
 
+// ниже все для игры find pairs find a pair ниже все для игры find pairs find a pair ниже все для игры find pairs find a pair
 // уточнить про такой адрес ниже что это и как это
 const card = document.querySelector(".template").content.querySelector(".card")
 const gameFindAPair = document.querySelector(".gameFindAPair")
@@ -176,7 +181,7 @@ const usedCheatsText = document.querySelector(".usedCheatsText")
 const timer = document.querySelector(".timer")
 const timeSeconds = document.getElementById("seconds")
 const timeMiliseconds = document.getElementById("tens")
-const tryAgainButton = document.querySelector(".try-again")
+const gameFindPairsTryAgainButton = document.querySelector(".gameFindPairsButtonTry-again")
 let selectCard = null
 let chosenArray = null
 let chooseQuestions = null
@@ -193,6 +198,8 @@ let pairsRemainToMatch = 0
 let value = null
 let questionNumber = 0
 let typeOrWriteNumber = 0
+
+popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 
 function startGameFindPairs() {
     console.log("arrayLength - количество пар слов", chosenArray.length)
@@ -276,11 +283,11 @@ function nextCards() {
 function finishGame() {
     clearInterval(interval)
     starResult()
-    inputSearch.classList.remove("none")
+    userSearchesForMission.classList.remove("none")
     starsEmoji.classList.add("visible")
     usedCheatsText.textContent = `Сделай скриншот и отправь фотку в наш чат. Share your achievement with Vincent.  ${howManyTimesSkipped}MG Mission ${chosenSet.textContent} `
     usedCheatsText.classList.add("visible")
-    tryAgainButton.classList.remove("hidden")
+    gameFindPairsTryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
     gameFindAPair.classList.remove("open")
     popupMissionsAndSetsTitle.textContent = `Результат ${timer.textContent} seconds`
@@ -297,7 +304,7 @@ function finishGame() {
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
     chosenSet.classList.remove("show")
-    tryAgainButton.textContent = `Попробовать быстрее! 💪 Try faster! 👍`
+    gameFindPairsTryAgainButton.textContent = `Попробовать быстрее! 💪 Try faster! 👍`
     const AudioWinner = new Audio("https://zvukitop.com/wp-content/uploads/2021/03/zvuk-tadam-na-trube.mp3");
     AudioWinner.volume = 0.06;
     AudioWinner.play()
@@ -378,7 +385,6 @@ function starResult() {
 }
 //выше  функция для высвечивания результата и количество звезд
 
-
 function startTimer() {
     tens++;
     if (tens <= 9) {
@@ -397,6 +403,7 @@ function startTimer() {
         timeSeconds.textContent = seconds;
     }
 }
+
 function nextCardsGameFindAPairCheatUsed() {
     gameFindAPairContainer.innerHTML = ""
     howManyTimesSkipped++;
@@ -413,21 +420,33 @@ function nextCardsGameFindAPairCheatUsed() {
     }
 }
 
+gameFindAPairButtonSkipThese.addEventListener("click", nextCardsGameFindAPairCheatUsed)
+gameFindPairsTryAgainButton.addEventListener("click", startGameFindPairs)
+gameFindAPairButtonBackToMissions.addEventListener("click", () => {
+    pageReloadRefresh()
+})
+gameFindAPairButtonNotUsed.addEventListener("click", () => {
+    console.log("зачем ты сюда нажал?")
+})
+
 // выше все для игры find pairs find a pair
 
 
 
-// ниже все для игры questions let's speak ask me ниже все для игры questions let's speak ask me ниже все для игры questions let's speak ask me
 
+
+// ниже все для игры questions let's speak ask me ниже все для игры questions let's speak ask me ниже все для игры questions let's speak ask me
 const letsSpeak = document.querySelector(".popupMissionsAndSets__letsSpeak")
 
 let languageRu = false
+
+letsSpeak.addEventListener("click", startGameQuestions)
 
 function startGameQuestions() {
     // replaceHeaderButton1()
     oneDeckButtons.classList.add("visible")
     fryFuturamaMainScreenIntro.classList.add("noshow")
-    inputSearch.classList.add("none")
+    userSearchesForMission.classList.add("none")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
     // спросить уточнить как делать перенос строки в Java? <br> работает только в HTML ( /n тоже не работает) ${<br/>}
@@ -440,6 +459,8 @@ function startGameQuestions() {
     cardForSpeakingGame.classList.remove("hiddenDeck")
     interval = setInterval(startTimer, 10);
 }
+
+oneDeckButtonPrevious.addEventListener("click", shuffleDecks, startGameQuestions)
 
 function shuffleDecks() {
     chooseQuestions = chooseQuestions.sort(function () {
@@ -458,7 +479,8 @@ function previousQuestion() {
 }
 
 function getquestions() {
-    usedCheatsText.textContent = `1 )  Молча сперва прочитай вопрос на карточке . 2 ) Затем уверенно и разборчиво задай его вслух. 3 ) Нужен перевод? - нажми на размытый текст. 4 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
+    usedCheatsText.textContent = `1 )  Молча сперва прочитай вопрос на карточке . 2 ) Затем уверенно и разборчиво задай его вслух. 3 ) Нужен перевод? - нажми на размытый текст. 
+    4 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
     if (questionNumber < chooseQuestions.length) {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
@@ -525,16 +547,27 @@ oneDeckButtonNext.addEventListener("click", () => {
 // выше все для игры questions let's speak ask me
 
 
-// ниже игра слот машина slot machine 
 
+
+
+
+// ниже игра слот машина slot machine 
 const slotMachine = document.querySelector(".popupMissionsAndSets__slot-machine")
+
+slotMachine.addEventListener("click", startGameSlotMachine)
 
 function startGameSlotMachine() {
     location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
 }
-// выше ссылка на игру
+// выше ссылка на игру slot machine 
+
+
+
+
+
 
 // ниже все для игры BenderWordOrderGame
+const gameBender = document.querySelector(".gameBender")
 const BenderWordOrderGameButton = document.querySelector(".popupMissionsAndSets__BenderWordOrderGame")
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
 const wordGameBenderWordOrderGame = document.querySelector(".BenderWordOrderGameTemplate").content.querySelector(".BenderWordOrderGameWord")
@@ -559,11 +592,16 @@ let lifeGameBenderWordOrderGame = 5
 // уменьшая жизни принудительно изменить width
 let n = -1
 
+// раньше на отдельной ссылке была игра, закоментил, чтобы не забыть как ссылки вставлять
+// function startGameRobotBender() {
+//     location.href = "https://vismyfriend.github.io/Bender/"
+// }
+
 function startGameBenderWordOrderGame() {
-    mainContainer1.classList.add("none")
-    mainContainer2.classList.remove("none")
-    inputSearch.classList.add("none")
-    mainContainer4.classList.add("none")
+    mainContainerIntroAnd2games.classList.add("none")
+    gameBender.classList.remove("none")
+    userSearchesForMission.classList.add("none")
+    gameTrickyQuiz.classList.add("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
 }
 
@@ -671,38 +709,14 @@ cheatGameBenderWordOrderGame.addEventListener("click", () => {
     }, 4000)
     // милисекунды 
 })
-
 renderWordsGameBenderWordOrderGame()
-
 // выше все для игры BenderWordOrderGame
 
 
 
 
-// заметки мои:
 
-// function startGameRobotBender() {
-//     location.href = "https://vismyfriend.github.io/Bender/"
-// }
-
-// быстрая проверка от Мохиндерсюрэж
-// alert(1) 
-// alert("чёт не то =) ") 
-
-
-// Мохиндэр explained!
-
-// function calcPlus(x, y) {
-//     console.log(x + y)
-//     return x + y
-// }
-// console.log(calcPlus(15, 20))
-
-// пометки слева красный кружок
-
-
-// ниже spelling game правописание
-
+// ниже spelling game TypeOrWrite правописание скоро возможно заменю ее на бомбу игру про взрывчатку
 const InputTypeOrWriteGame = document.querySelector(".popupMissionsAndSets__InputTypeOrWriteGame")
 const typeOrWriteGameButtonIDK = document.querySelector(".typeOrWriteGameButtonIDK")
 const typeOrWriteGameButtonSkip = document.querySelector(".typeOrWriteGameButtonSkip")
@@ -711,23 +725,23 @@ const playerInputType = document.querySelector(".playerInputType")
 const typeOrWriteGameButtonCompare = document.querySelector(".typeOrWriteGameButtonCompare")
 
 function startGameInputTypeOrWriteGame() {
-    mainContainer1.classList.add("none")
-    mainContainer2.classList.add("none")
-    mainContainer3.classList.remove("none")
-    mainContainer4.classList.add("none")
-    inputSearch.classList.add("none")
+    mainContainerIntroAnd2games.classList.add("none")
+    gameBender.classList.add("none")
+    gameTypeOrWrite.classList.remove("none")
+    gameTrickyQuiz.classList.add("none")
+    userSearchesForMission.classList.add("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
     value = chooseTypeOrWrite[typeOrWriteNumber]
     inputTitleEng.textContent = value.ru
     typeOrWriteGameButtonCompare.addEventListener("click", compareInput)
 }
 
-
 InputTypeOrWriteGame.addEventListener("click", startGameInputTypeOrWriteGame)
 
 function nextWordToTranslate(inputPlaceholder) {
     typeOrWriteNumber = typeOrWriteNumber + 1
     value = chooseTypeOrWrite[typeOrWriteNumber]
+    
     if (value) {
         inputPlaceholder.innerHTML = value.ru
     } else {
@@ -893,96 +907,21 @@ keyDel.addEventListener("click", () => {
 // выше spelling game правописание
 
 
-// ниже все для игры two decks ниже все для игры two decks ниже все для игры two decks ниже все для игры two decks ниже все для игры two decks 
-
-// clickTest.addEventListener("click",startGameTwoDecks())
 
 
-function startGameTwoDecks() {
-    mainContainer1.classList.add("none")
-    mainContainer2.classList.add("none")
-    mainContainer4.classList.add("none")
-    mainContainer5gameTwoCardDecks.classList.remove("none")
-    new gameTwoDecks({ gameTwoCardDecks: gameTwoDecksListData[currentSet] })
+
+// функция перезагрузка страницы
+function pageReloadRefresh() {
+    location.reload()
 }
-
-// пока не работают идеи ниже уточнить ока не работают идеи ниже уточнить ока не работают идеи ниже уточнить ока не работают идеи ниже уточнить
-
-const backToMainContainer1button = document.querySelector(".backToMainContainer1button")
-const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
-
-function backToMaincontainer1function() {
-    mainContainer1.classList.remove("none")
-    mainContainer2.classList.add("none")
-    inputSearch.classList.add("none")
-    popupMissionsAndSetsSets.classList.remove("hide")
-    mainContainer4.classList.add("none")
-    // body.classList.add("BenderWordOrderGameBackgroundPicture")
-    inputSearch.classList.remove("none")
-    inputSearch.value = ""
-    logoSpecial.classList.remove("hidden")
-    tryAgainButton.classList.add("hidden")
-    oneDeckButtons.classList.remove("visible")
-    popupMissionsAndSetsTitle.textContent = "👈 Choose the set 👉"
-    popupMissionsAndSetsTitle.classList.remove("greyText")
-    popupMissionsAndSetsDescription.textContent = "Выбирай набор слов для тренировки"
-    // popupMissionsAndSetsSets.classList.add("hide")
-    InputTypeOrWriteGame.classList.remove("show")
-    popupMissionsAndSetsGameFindAPair.classList.remove("show")
-    slotMachine.classList.remove("show")
-    multipleChoiceQuiz.classList.remove("show")
-    copyThisForNewGames?.classList.remove("show")
-    // знак вопроса пропустит ошибку
-    BenderWordOrderGameButton.classList.remove("show")
-    letsSpeak.classList.remove("show")
-    chosenSet.classList.remove("show")
-    // chosenSet.textContent = text
-    usedCheatsText.classList.remove("visible")
-    starsEmoji.classList.remove("visible")
-}
-
-function backToChoosingTheTask() {
-    mainContainer1.classList.remove("none")
-    mainContainer2.classList.add("none")
-    inputSearch.classList.add("none")
-    // popupMissionsAndSetsSets.classList.add("hide")
-    mainContainer4.classList.add("none")
-    console.log("hi")
-}
-
-
-
-
-
-
-slotMachine.addEventListener("click", startGameSlotMachine)
-popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
-letsSpeak.addEventListener("click", startGameQuestions)
-gameFindAPairButtonSkipThese.addEventListener("click", nextCardsGameFindAPairCheatUsed)
-tryAgainButton.addEventListener("click", startGameFindPairs)
-foundPairs = 0
-howManyTimesSkipped = 0
-gameFindAPairButtonNotUsed.addEventListener("click", () => {
-})
-
-
-gameFindAPairButtonBackToMissions.addEventListener("click", () => {
-    pageReloadRefresh()
-})
-
-oneDeckButtonPrevious.addEventListener("click", shuffleDecks, startGameQuestions)
 
 // скроллинг и прокрутка (уточнить, проверить нужно ли это вообще теперь)
-
 const scrollLeft = document.querySelector(".scroll-left")
 const scrollRight = document.querySelector(".scroll-right")
-
-
 
 function scroll(direction) {
     popupMissionsAndSetsSets.scrollBy(direction, 0)
 }
-
 
 if (isTouch()) {
     scrollLeft.addEventListener("touchstart", () => {
@@ -1028,10 +967,79 @@ if (isTouch()) {
 // выше скроллинг и прокрутка (уточнить, проверить нужно ли это вообще теперь)
 
 
+
+
+
+// новая игра ниже все для игры two decks ниже все для игры two decks ниже все для игры two decks ниже все для игры two decks ниже все для игры two decks 
+
+// clickTest.addEventListener("click",startGameTwoDecks())
+function startGameTwoDecks() {
+    mainContainerIntroAnd2games.classList.add("none")
+    gameBender.classList.add("none")
+    gameTrickyQuiz.classList.add("none")
+    mainContainer5gameTwoCardDecks.classList.remove("none")
+    new gameTwoDecks({ gameTwoCardDecks: gameTwoDecksListData[currentSet] })
+}
+
+// новая игра выше все для игры two decks
+
+
+
+
+
+// пока не работают идеи ниже уточнить пока не работают идеи ниже уточнить пока не работают идеи ниже уточнить ока не работают идеи ниже уточнить
+
+const backTomainContainerIntroAnd2gamesbutton = document.querySelector(".backTomainContainerIntroAnd2gamesbutton")
+const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
+
+function backTomainContainerIntroAnd2gamesfunction() {
+    mainContainerIntroAnd2games.classList.remove("none")
+    gameBender.classList.add("none")
+    userSearchesForMission.classList.add("none")
+    popupMissionsAndSetsSets.classList.remove("hide")
+    gameTrickyQuiz.classList.add("none")
+    // body.classList.add("BenderWordOrderGameBackgroundPicture")
+    userSearchesForMission.classList.remove("none")
+    userSearchesForMission.value = ""
+    logoSpecial.classList.remove("hidden")
+    gameFindPairsTryAgainButton.classList.add("hidden")
+    oneDeckButtons.classList.remove("visible")
+    popupMissionsAndSetsTitle.textContent = "👈 Choose the set 👉"
+    popupMissionsAndSetsTitle.classList.remove("greyText")
+    popupMissionsAndSetsDescription.textContent = "Выбирай набор слов для тренировки"
+    // popupMissionsAndSetsSets.classList.add("hide")
+    InputTypeOrWriteGame.classList.remove("show")
+    popupMissionsAndSetsGameFindAPair.classList.remove("show")
+    slotMachine.classList.remove("show")
+    multipleChoiceQuiz.classList.remove("show")
+    copyThisForNewGames?.classList.remove("show")
+    // знак вопроса пропустит ошибку
+    BenderWordOrderGameButton.classList.remove("show")
+    letsSpeak.classList.remove("show")
+    chosenSet.classList.remove("show")
+    // chosenSet.textContent = text
+    usedCheatsText.classList.remove("visible")
+    starsEmoji.classList.remove("visible")
+}
+
+function backToChoosingTheTask() {
+    mainContainerIntroAnd2games.classList.remove("none")
+    gameBender.classList.add("none")
+    userSearchesForMission.classList.add("none")
+    // popupMissionsAndSetsSets.classList.add("hide")
+    gameTrickyQuiz.classList.add("none")
+    console.log("hi")
+}
+
+
+
+
+
+
 //ниже все, что связано с аудио, не все работает, уточнить
 
 // const MusicFromGoogleDriveDefault = new Audio("https://drive.google.com/file/d/1YlPN33KcfXRkw2BgHnNZVeb2z7NkiZKP/view?usp=sharing"); 
-// wtf пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java
+// уточнить пока не понятно как сделать так чтобы можно было константе присваивать трек разный в java
 const keySoundInput = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/najatie-na-klaviaturu-iphone.mp3");
 keySoundInput.volume = 0.08
 const keySoundInputOk = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/zvuk-oplaty-apple-pay.mp3");
@@ -1042,9 +1050,7 @@ const missionMusicBackgroundIconButton = document.querySelector(".missionMusicBa
 const helloMusicStartButton = document.querySelector(".helloMusicStartButton")
 const audio = document.querySelector(".audio")
 const missionMusicBackground = document.querySelector(".missionMusicBackground")
-
 const audioTest = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/hello-zvuk-111.mp3");
-
 const audiomissionMusicBackground = new Audio("https://audio.jukehost.co.uk/wDqy560srBF4ZvgkwI8wAqNcgK9I0cW0");
 
 function helloMusicStartButtonInvisible() {
@@ -1058,6 +1064,7 @@ function helloMusicStartButtonInvisible() {
     // audioIconOnOffTrack = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/hello-zvuk-111.mp3");
     // missionMusicBackgroundIconButton.classList.add("off")
 }
+
 helloMusicStartButton.addEventListener("click", helloMusicStartButtonInvisible)
 
 const audioIconOnOffTrack = new Audio("https://audio.jukehost.co.uk/JHNeJtC076ydQwBp3vBmLGiMTMpExydO");
@@ -1119,7 +1126,21 @@ function missionBackgroundMusicOnOff() {
 }
 // выше все, что связано с музыкой и аудио
 
-// перезагрузка страницы
-function pageReloadRefresh() {
-    location.reload()
-}
+
+
+// заметки мои:
+
+// быстрая проверка от Мохиндерсюрэж
+// alert(1) 
+// alert("чёт не то =) ") 
+
+
+// Мохиндэр explained!
+
+// function calcPlus(x, y) {
+//     console.log(x + y)
+//     return x + y
+// }
+// console.log(calcPlus(15, 20))
+
+// пометки слева красный кружок

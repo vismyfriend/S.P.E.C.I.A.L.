@@ -2,22 +2,38 @@
 @import url(../vendor/normalize.css);
 @import url(https://fonts.googleapis.com/css?family=Neucha:regular);
 
+.body {
+    margin: 0 auto;
+    height: 100vh;
+    background-position: 72% 0;
+    background-size: cover;
+    font-family: neucha;
+    color: #000000;
+    background-color: #000000;
+    width: 310px;
+    user-select: none;
+}
+/* для всех кнопок базовый дизайн (стили) устанавливаем, поэтому без точки здесь. Дополнительные стили уже у нужных кнопок отдельно пропишем*/
+
+button {
+    border-radius: 20px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.header {
+    display: flex;
+    cursor: pointer;
+}
+
 .headerPageReoad {
     margin: 8px auto;
     width: 316px;
     text-align: end;
     color: #515254;
     padding-top: 5px;
- 
-    
 }
-.clickTest {
-    bottom: 0;
-    right: 0;
-    position: absolute;
-    color: #37393a;
-    
-}
+
 .backToChoosingTheMissions {
     position: absolute;
     /* display: flex; */
@@ -27,22 +43,65 @@
     width: 316px;
     /* text-align: end; */
     color: #515254;
-    
 }
+
 .headerPageReoad.visible,
 .backToChoosingTheMissions.visible {
     display: block;
-
-
 }
 
-.quizQuestionTask {
+.mainContainerIntroAnd2games.none {
+    display: none;
+}
+
+.gameBender {
+    margin-top: 15px;
+}
+
+.gameBender.none {
+    display: none;
+}
+
+.gameTypeOrWrite {
+    position: relative;
+    margin-top: 15px;
+    height: 95vh;
+}
+
+.gameTypeOrWrite.none {
+    display: none;
+}
+
+.gameTrickyQuiz.none {
+    display: none;
+}
+
+.usedCheatsText.visible {
+    display: block;
+    margin: 0 0 5px;
+}
+
+.usedCheatsText {
+    display: none;
+    color: #7BE7FF;
+    text-align: center;
+}
+
+.usedCheatsText,
+.oneDeckButtonText,
+.gameTwoCardDecksText {
+    color: #7BE7FF;
+    display: none;
+    text-align: center;
+}
+
+.gameTrickyQuizTask {
     color: white;
     font-size: 25px;
     text-align: center;
 }
 
-.quizQuestionRules {
+.gameTrickyQuizRules {
     color: rgb(0, 162, 255);
     font-size: 20px;
     text-align: center;
@@ -60,30 +119,15 @@
     display: block;
 }
 
-.header {
-    display: flex;
-    cursor: pointer;
-}
 
-.search {
+
+.userSearchesForMission {
     position: absolute;
     display: flex;
     align-items: center;
 }
 
-
-.input {
-    display: none;
-    border-radius: 1rem;
-    margin: 3px;
-    padding: .3rem;
-    background: rgba(255, 250, 240, 0.096);
-    color: #31df0e;
-    opacity: .8;
-    text-align: center;
-}
-.input2 {
-
+.userInput {
     border-radius: 1rem;
     margin: 18px 31px;
     padding: 0.3rem;
@@ -96,70 +140,23 @@
     width: 230px;
 }
 
-/* .icon {
-    height: 2rem;
-    position: absolute;
-    font-size: 2rem;
-    padding: 0 1rem;
-    display: flex;
-    color: var(--greyDark);
-    transition: .3s ease;
-} */
-
-.usedCheatsText.visible {
-    display: block;
-    margin: 0 0 5px;
-
-
-}
-
 .oneDeckButtonText.visible,
 .gameTwoCardDecksButtonText.visible {
     display: block;
-    
-
 }
 
-/* .column-reverse {
-    display: flex;
-    flex-direction: column-reverse;
-}
-.column-reverse div:nth-child(1) {
-    border-bottom: dashed 1px #000;
-} */
-
-.usedCheatsText,
-.oneDeckButtonText,
-.gameTwoCardDecksText {
-    color: #7BE7FF;
-    display: none;
-    text-align: center;
-}
-
-.usedCheatsText {
-    color: #7BE7FF;
-    display: none;
-    text-align: center;
-}
-
-button {
-    border-radius: 20px;
-    color: #000000;
-    cursor: pointer;
-}
-
-.quizButtonsContainer {
+.gameTrickyQuizAnswersButtons {
     display: grid;
     justify-content: center;
     gap: 5px;
     font-size: 20px;
 }
 
-.quizButton {
+.gameTrickyQuizButton {
     width: 280px;
     height: 55px;
-    
 }
+
 .areAmIsQuizOneButtonOne {
     background-color: greenyellow;
     margin: 0 52px;
@@ -169,7 +166,7 @@ button {
     font-size: 19px;
 }
 
-.quizButton.wrong {
+.gameTrickyQuizButton.wrong {
     background-color: red;
 }
 
@@ -178,18 +175,15 @@ button {
     /* чтобы нельзя было нажимать */
 }
 
-.quizButton.correct {
+.gameTrickyQuizButton.correct {
     background-color: greenyellow;
 }
-
-
 
 .oneDeckButtons.visible,
 .gameTwoCardDeckss.visible {
     display: flex;
     flex-wrap: wrap;
 }
-
 
 .oneDeckButtonCheck,
 .gameTwoCardDecksCheck {
@@ -199,7 +193,7 @@ button {
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #f999d4;
 }
 
-.backToMainContainer1button {
+.backTomainContainerIntroAnd2gamesbutton {
     width: 110px;
     border-radius: 26px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
@@ -235,7 +229,6 @@ button {
 }
 
 .typeOrWriteGameButtonSkip {
-
     font-size: 20px;
     color: #000000;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -253,41 +246,9 @@ button {
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #FFF27B;
 }
 
-.body {
-    margin: 0 auto;
-    height: 100vh;
-    background-position: 72% 0;
-    background-size: cover;
-    font-family: neucha;
-    color: #000000;
-    background-color: #000000;
-    width: 310px;
-    user-select: none;
-}
-
-.mainContainer1.none {
-    display: none;
-}
-
-/* ниже стили новой игры (BenderWordOrderGame) */
-
-.mainContainer2.none {
-    display: none;
-}
-
-
-.mainContainer2 {
-    margin-top: 15px;
-}
-
-.mainContainer4.none {
-    display: none;
-}
-
 .body.BenderWordOrderGameBackgroundPicture {
     background-image: url(../images/background.png);
 }
-
 
 .BenderWordOrderGameContainer-one {
     background: #98bcd7;
@@ -329,7 +290,8 @@ button {
     /* 31px одно сердце = одна жизнь */
 }
 
-.BenderWordOrderGameTask-eng {
+.BenderWordOrderGameTask-eng,
+.inputTitleEng {
     margin: 20px 0 0;
     font-weight: 400;
     font-size: 20px;
@@ -401,7 +363,8 @@ button {
     color: white;
 }
 
-.BenderWordOrderGameButtons {
+.BenderWordOrderGameButtons,
+.typeOrWriteGameButtons {
     margin: 10px 0 0 0;
     display: flex;
     justify-content: space-evenly;
@@ -513,16 +476,6 @@ button {
     /* нельзя никак взаимодействовать */
 }
 
-.mainContainer3.none {
-    display: none;
-}
-
-.mainContainer3 {
-    position: relative;
-    margin-top: 15px;
-    height: 95vh;
-}
-
 .typeOrWriteGameMainScreen {
     background: #98bcd7;
     border: 15px solid #F4F5FF;
@@ -545,8 +498,6 @@ button {
     height: 29px;
     margin: 35px 0 0 0;
 }
-
-/* выше стили новой игры (InputTypeOrWriteGame) */
 
 .popupMissionsAndSets.close {
     -webkit-transform: scale(0);
@@ -600,32 +551,6 @@ button {
     right: 6px;
 }
 
-
-.try-again {
-    background: #80FF01;
-    color: #000000;
-    border-radius: 30px;
-    margin: 0 auto;
-    height: 65px;
-    width: 215px;
-    font-size: 20px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-shadow: 0 2px 6px 1px #000000;
-    box-shadow: 0 0px 6px 3px white;
-}
-
-.try-again.hidden {
-    display: none;
-}
-
 .popupMissionsAndSets__description {
     margin: 5px 10px;
     height: 42px;
@@ -658,35 +583,6 @@ button {
     cursor: pointer;
 }
 
-.comingSoon {
-    color: #a2a3a6ab;
-    box-shadow: 0 2px 6px 1px#a2a3a6ab;
-}
-
-.green {
-    color: #80FF01;
-}
-
-.pink {
-    color: #ff61f7;
-}
-
-.red {
-    color: #990033;
-}
-
-.blue {
-    color: #6ca7fa;
-}
-
-.yellow {
-    color: yellow;
-}
-
-.orange {
-    color: orange;
-}
-
 .popupMissionsAndSets__sets {
     overflow-x: scroll;
     gap: 15px 10px;
@@ -706,7 +602,6 @@ button {
 .popupMissionsAndSets__sets.hide {
     display: none;
 }
-
 
 .popupMissionsAndSets__title {
     text-align: center;
@@ -784,8 +679,6 @@ button {
     font-size: 20px;
 }
 
-
-
 .popupMissionsAndSets__gameFindAPair.show,
 .popupMissionsAndSets__InputTypeOrWriteGame.show,
 .popupMissionsAndSets__letsSpeak.show,
@@ -816,6 +709,60 @@ button {
     justify-content: center;
     -webkit-box-shadow: 0 2px 6px 1px #000000;
     box-shadow: 0 2px 6px 1px #ffffff;
+}
+
+.gameFindPairsButtonTry-again {
+    background: #80FF01;
+    color: #000000;
+    border-radius: 30px;
+    margin: 0 auto;
+    height: 65px;
+    width: 215px;
+    font-size: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-shadow: 0 2px 6px 1px #000000;
+    box-shadow: 0 0px 6px 3px white;
+}
+
+.gameFindPairsButtonTry-again.hidden {
+    display: none;
+}
+
+.comingSoon {
+    color: #a2a3a6ab;
+    box-shadow: 0 2px 6px 1px#a2a3a6ab;
+}
+
+.green {
+    color: #80FF01;
+}
+
+.pink {
+    color: #ff61f7;
+}
+
+.red {
+    color: #990033;
+}
+
+.blue {
+    color: #6ca7fa;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.orange {
+    color: orange;
 }
 
 .gameFindAPair {
@@ -869,7 +816,6 @@ button {
 .gameFindAPair-info {
     color: #7BE7FF;
     text-align: center;
-
 }
 
 .gameFindAPair.open {
@@ -1016,23 +962,20 @@ button {
     padding: 0;
 }
 
-
 .redCap {
     top: 260px;
     left: calc(50% - 100px);
+    z-index: -2;
+    position: fixed;
+    bottom: 1px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
 }
 
 .logo-special.hidden {
     display: none;
 }
-
-/* Начало стилей для новой игры */
-.gameLieToMe {
-    color: #00BCD4;
-}
-
-/* конец стилей для новой игры */
-
 
 .oneDeckOfCards {
     background-image: url(../images/cards.png);
@@ -1081,7 +1024,6 @@ button {
     height: 100%;
     align-items: center;
     justify-content: center;
-
 }
 
 .oneDeckOfCards__bottomOfTheCard1Value.Unblur {
@@ -1184,7 +1126,6 @@ button {
 .audioIconOnOff.visible,
 .audioIconOnOff.off.visible {
     visibility: visible;
-
 }
 
 .audioIcon.off:after {
@@ -1241,14 +1182,9 @@ button {
     margin-bottom: 28px;
 }
 
-.none {
-    display: none;
-}
-
 .secretSet {
     display: none;
 }
-
 
 .InfoUpdate {
     color: #6ca7fa;
@@ -1299,16 +1235,37 @@ button {
 }
 
 
+.clickTest {
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    color: #37393a;
+}
+
+/* Начало стилей для новой игры */
+.gameLieToMe {
+    color: #00BCD4;
+}
+
+/* конец стилей для новой игры */
+
+
+
+/* //создал класс none, чтобы некоторые элементы изначально были сразу скрыты */
+/* можно м наоборот просто у каждого элемента в стилях прописать display: none  */
+/* поставил его в самоый конец, а ты были проблемы какие-то и иногда что-то не скрывалось (userSearchesForMission) */
+.none {
+    display: none;
+}
+
 
 @keyframes card-flip {
     from {
         transform: rotateX(0d);
     }
-
     50% {
         transform: rotateX(90deg);
     }
-
     to {
         transform: rotateX(0deg);
     }
@@ -1326,22 +1283,11 @@ button {
     .BenderWordOrderGameContainer-one {
         margin: 0 4px;
     }
-
     .BenderWordOrderGameContainer-mistake.show {
         left: 0;
         margin: 0 10px;
     }
 }
-
-
-
-/* .deckOfCardsPicture {
-    z-index: -2;
-    
-} */
-
-
-
 
 /* @media screen and (min-width: 700px) {
     .fryFuturamaMainScreenIntro {
@@ -1352,11 +1298,12 @@ button {
 } */
 @media screen and (min-height: 800px) {
     .fryFuturamaMainScreenIntro {
-       
+
         width: 245px;
-       
+
     }
 }
+
 /*
 @media screen and (max-width: 700px) {
     .homerPicture {

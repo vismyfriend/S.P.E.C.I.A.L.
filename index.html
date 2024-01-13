@@ -13,15 +13,14 @@
 
 <body class="body">
     <header class="header">
-        <div class="searchMission">
-            <input type="text" class="search input" placeholder=" 🔎 find mission...">
+        <div class="headerContainer1">
             <p class="headerPageReoad"> отменить ❌ </p>
             <p class="backToChoosingTheMissions none"> другое задание 👈 </p>
         </div>
     </header>
     <p class="usedCheatsText">нажимай на карточку <br> и читай вопрос вслух</p>
     <main class="main">
-        <div class="mainContainer1">
+        <div class="mainContainerIntroAnd2games">
             <!-- кнопка для приветственного аудио трека (музыка) когда её нет пропадает иконка отклчить звук -->
             <!-- <button class="helloMusicStartButton">Hello, Special Agent <br> привет, спЭшл эЙджент</button> -->
             <!-- я ее пока закомментил, потому что надоедало каждый раз ее нажимать при входе в приложение -->
@@ -32,11 +31,11 @@
                 <!-- <h3 class="popupMissionsAndSets__title">It's Nice 2 c u, S.A.</h3> -->
                 <h3 class="popupMissionsAndSets__title">S.P.E.C.I.A.L agent</h3>
                 <p class="popupMissionsAndSets__chosen-set"></p>
-                <button class="try-again hidden"> Yes! </button>
+                <button class="gameFindPairsButtonTry-again hidden"> Yes! </button>
                 <p class="popupMissionsAndSets__description">👈 choose your mission to practice 👉 <br>
                     Выбирай миссию, чтобы тренироваться
                 </p>
-                <input type="text" class="search input2" placeholder=" 🔎 find mission...">
+                <input type="text" class="userSearchesForMission userInput" placeholder=" 🔎 find mission...">
                 <ul class="popupMissionsAndSets__sets">
                     <button class="scroll-left"></button>
                     <button class="scroll-right"></button>
@@ -53,7 +52,8 @@
                     <li class="popupMissionsAndSets__set" data-set="numbersb2">Numbers B2</li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> заблокирован </li>
                     <li class="popupMissionsAndSets__set" data-set="numbersspeak">Numbers Speak</li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю</li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю
+                    </li>
                     <li class="popupMissionsAndSets__set blue" data-set="m004numbers">Mission 004</li>
                     <li class="popupMissionsAndSets__set blue" data-set="m005q1"> Mission 005 </li>
                     <li class="popupMissionsAndSets__set blue" data-set="m006questions0">Mission 006</li>
@@ -66,14 +66,16 @@
                     <li class="popupMissionsAndSets__set blue" data-set="m007">Mission 007</li>
                     <li class="popupMissionsAndSets__set blue" data-set="m008">Mission 008</li>
                     <li class="popupMissionsAndSets__set blue" data-set="m009">Mission 009</li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="PRESENTSIMPLE">     доступ по       паролю </li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="PRESENTSIMPLE">     доступ по
+                              паролю </li>
                     <li class="popupMissionsAndSets__set" data-set="questions003">Questions 003</li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="чтотакоеto"> заблокирован </li>
                     <li class="popupMissionsAndSets__set orange" data-set="adjectives03">Adjectives 03</li>
                     <li class="popupMissionsAndSets__set orange" data-set="adjectives04">Adjectives 04</li>
                     <li class="popupMissionsAndSets__set orange" data-set="adjectives05">Adjectives 05</li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">new words </li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю </li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю
+                    </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">грамматика </li>
                     <li class="popupMissionsAndSets__set yellow" data-set="compareadjectivesmore">MORE + adj</li>
                     <li class="popupMissionsAndSets__set yellow" data-set="compareadjectiveser">adject. +ER</li>
@@ -84,9 +86,11 @@
                     <li class="popupMissionsAndSets__set orange" data-set="adjectives09">Adjectives 09</li>
                     <li class="popupMissionsAndSets__set yellow" data-set="adjectivesb1">Adjectives B1</li>
                     <li class="popupMissionsAndSets__set pink" data-set="compareadjectivesb2">Adjectives B2</li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю </li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю
+                    </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю </li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю
+                    </li>
                     <li class="popupMissionsAndSets__set green" data-set="clothes01">Clothes01</li>
                     <li class="popupMissionsAndSets__set green" data-set="clothes02">Clothes02</li>
                     <li class="popupMissionsAndSets__set green" data-set="clothes03">Clothes03</li>
@@ -97,8 +101,10 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю </li>
-                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю </li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю
+                    </li>
+                    <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet">     доступ по       паролю
+                    </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="blockedSet"> ... </li>
@@ -238,9 +244,6 @@
                 <button class="oneDeckButtonSwitch">Come again? <br>Repeat please?</button>
                 <p class="oneDeckButtonText"> Чтобы начать нажимай на колоду карт и читай синий текст</p>
             </div>
-            <div class="insertANewGameHere">
-                <!-- в планах вставить сюда игру про бендера c Божьей помощью =)-->
-            </div>
             <!-- добавляем фоновую музыку на старте - строчкой ниже создается монстр трэк неотключаемый даже 
                 при закрытии браузера поэтому закоменчу пока-->
             <!-- <audio class="missionMusicBackground" src="./audio/mission background musicVolume50.mp3" autoplay loop></audio> -->
@@ -252,7 +255,7 @@
             <button class="audioIconOnOff"></button>
             <button class="missionMusicBackgroundIconButton"></button>
         </div>
-        <div class="mainContainer2 none">
+        <div class="gameBender none">
             <div class="BenderWordOrderGameContainer-mistake">
                 <h3 class="BenderWordOrderGameTask-eng">Oops! Упс, минус жизька</h3>
                 <p class="BenderWordOrderGameTask-ru-mistake">Без паники, Агент... Сравни ответы и порядок слов, <br>
@@ -299,12 +302,12 @@
         <template class="BenderWordOrderGameTemplate">
             <li class="BenderWordOrderGameWord"></li>
         </template>
-        <div class="mainContainer3 none">
+        <div class="gameTypeOrWrite none">
             <div class="typeOrWriteGameMainScreen">
-                <h3 class="BenderWordOrderGameTask-eng inputTitleEng"> Если очень хочется выполнить это задание, то
+                <h3 class="inputTitleEng"> Если очень хочется выполнить это задание, то
                     сделай скриншот этого экрана и отправь Винсенту в сообщении в телеграм.</h3>
-                <input class="playerInputType" type="text" placeholder="Жду твоего скриншота!">
-                <div class="BenderWordOrderGameButtons">
+                <input class="playerInputType" type="text" placeholder="введи английский перевод">
+                <div class="typeOrWriteGameButtons">
                     <button class="typeOrWriteGameButtonSkip">skip пропустить</button>
                     <button class="typeOrWriteGameButtonIDK">a hint подсказка</button>
                     <button class="typeOrWriteGameButtonCompare">Ok, next</button>
@@ -345,20 +348,19 @@
                 <div class="key keyDel key-span-3">del←</div>
             </div>
         </div>
-        <div class="mainContainer4 none">
-            <div class="AllQuizes">
-                <button class="QuizButtons areAmIsQuizOneButtonTwo none"> Quiz 2</button>
-                <div class="QuizContainer">
-                    <p class="quizQuestionRules"> Это хитренький кВИз от ВИнсента. <br> It's a tricky quiz from
-                        #vismyfriend. <br> Читайте вслух и нажимайте на правильный ответ.</p>
-                    <button class="QuizButtons areAmIsQuizOneButtonOne none"> Do another variant сделать другой
-                        вариант</button>
-                    <p class="quizQuestionTask"></p>
-                    <div class="quizButtonsContainer">
-                        <!-- кнопку создадим в java s -->
-                    </div>
-                    <img class="logo-special redCap none" src="./images/special logo red.png" alt="Logo Special">
+        <div class="gameTrickyQuiz none">
+            <!-- уточнить зачем мы создавали эту кнопку, она же ничего не делает -->
+            <button class="gameTrickyQuizButtons areAmIsQuizOneButtonTwo none"> Quiz 2</button>
+            <div class="gameTrickyQuizContainer">
+                <p class="gameTrickyQuizRules"> Это хитренький кВИз от ВИнсента. <br> It's a tricky quiz from
+                    #vismyfriend. <br> Читайте вслух и нажимайте на правильный ответ.</p>
+                <button class="gameTrickyQuizButtons areAmIsQuizOneButtonOne none"> Do another variant сделать другой
+                    вариант</button>
+                <p class="gameTrickyQuizTask"></p>
+                <div class="gameTrickyQuizAnswersButtons">
+                    <!-- кнопку создадим в java s -->
                 </div>
+                <img class="redCap none" src="./images/special logo red.png" alt="Logo Special Red cap">
             </div>
         </div>
         <p class="clickTest">v.0.2.01 </p>
@@ -389,4 +391,5 @@
     </main>
     <script type="module" src="./scripts/app.js"></script>
 </body>
+
 </html>
