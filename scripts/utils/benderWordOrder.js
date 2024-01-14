@@ -1,4 +1,22 @@
 const benderWordOrderSentences = {
+    clothes03: [
+        {
+            id:1,
+            eng:"pants /пЭнтс/",
+            ru:"любые штаны можно так назвать"
+            },
+            {
+            id:2,
+            eng:"under pants /пЭнтс/",
+            ru:"трусишки, трусики, трусы, плавки"
+            },
+            {
+            id:3,
+            eng:"это",
+            ru:"джинсы это очень круто"
+            },
+    ],
+
     testOneSeven: [
         {
             ru: "Я не робот.",

@@ -4,12 +4,10 @@ import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
 import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
 import quizQuestionsList from "./utils/QuizQData.js"
-// уточнить, что там с опечаткой написано что экспортировать в файле снизу, но все равно работает)
+// там с опечаткой написано что экспортировать в файле снизу, но все равно работает) default export решает!
 import { QuizQ } from "./games/QuizQ.js"
 import gameTwoDecksListData from "./utils/gameTwoDecksData.js"
 import { gameTwoDecks } from "./games/gameTwoDecks.js"
-// уточнить про новые предложения в игре бендера как добавить разные предложения
-import { testGameBenderWordOrderGame } from "./utils/sentences.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 
 
@@ -18,7 +16,6 @@ const logoSpecial = document.querySelector(".logo-special")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
-// уточнить про знак вопроса - проверка которая пропустит ошибку. а тут в чем может быть ошибка? не зря же поставил я сюда этот знак или зря?
 headerPageReoad?.addEventListener("click", pageReloadRefresh)
 
 const gameLieToMe = document.querySelector(".gameLieToMe")
@@ -42,7 +39,6 @@ const popupMissionsAndSetsTitle = document.querySelector(".popupMissionsAndSets_
 const popupMissionsAndSetsDescription = document.querySelector(".popupMissionsAndSets__description")
 const popupMissionsAndSetsGameFindAPair = document.querySelector(".popupMissionsAndSets__gameFindAPair")
 
-// уточнить у Егорчика как скрыть те игры которых пока нет у наборов
 const copyThisForNewGames = document.querySelector(".popupMissionsAndSets__copyThisForNewGames")
 
 const oneDeckButtonText = document.querySelector(".oneDeckButtonText")
@@ -79,6 +75,21 @@ function getArray(set) {
     chooseTypeOrWrite = allWordsForGameTypeOrWrite[set]?.sort(function () {
         return Math.random() - 0.5;
     });
+    benderWordOrderSentences[set]?.sort(function () {
+        return Math.random() - 0.5;
+    });
+    renderWordsGameBenderWordOrderGame()
+
+}
+
+function doWeHaveThisGame(set) {
+    // если он не находит набор, то скрываем кнопку с игрой
+    if (!allCardsGameFindAPair[set]) popupMissionsAndSetsGameFindAPair.classList.remove("show")
+    if (!allWordsForGameTypeOrWrite[set]) InputTypeOrWriteGame.classList.remove("show")
+    if (!allQuestionsOneDeck[set]) letsSpeak.classList.remove("show")
+    if (!quizQuestionsList[set]) multipleChoiceQuiz.classList.remove("show")
+    if (!benderWordOrderSentences[set]) BenderWordOrderGameButton.classList.remove("show")
+   
 }
 
 //проходим по всем наборам, которые создали в index.html
@@ -89,14 +100,16 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
         getArray(evt.target.dataset.set)
         //уточнить тут все - что такое evt.target
         chooseSong(evt.target.dataset.set)
-        // console.log("SET - это весь элемент из HTML =", set)
-        // console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
+        console.log("SET - это весь элемент из HTML =", set)
+        console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
+
     })
 })
 
 // уточнить, что означает textTheNameOfTheChosenSet в скобках - это аргумент или параметр и разница в чем? Для чего это нужно?
 
 function chooseSet(textTheNameOfTheChosenSet, set) {
+    console.log(set)
     chosenSet.textContent = textTheNameOfTheChosenSet
     console.log("название миссии=",textTheNameOfTheChosenSet)
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
@@ -121,13 +134,16 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     usedCheatsText.classList.remove("visible")
     starsEmoji.classList.remove("visible")
     userSearchesForMissionSet()
+    // проверка есть ли такая игра вконце всегда
+    doWeHaveThisGame(set)
+    slotMachine.classList.remove("show")
 }
 
 
 
 
 // ниже поиск набора по буквам поиск набора по буквам поиск набора по буквам поиск набора по буквам поиск набора по буквам
-// уточнить почему здесь обращение к двух классам и как это и зачем, можно ли одним? почему здесь двумя лучше
+
 const userSearchesForMission = document.querySelector(".userInput.userSearchesForMission")
 
 userSearchesForMission.addEventListener("input", () => userSearchesForMissionSet())
@@ -479,8 +495,8 @@ function previousQuestion() {
 }
 
 function getquestions() {
-    usedCheatsText.textContent = `1 )  Молча сперва прочитай вопрос на карточке . 2 ) Затем уверенно и разборчиво задай его вслух. 3 ) Нужен перевод? - нажми на размытый текст. 
-    4 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
+    usedCheatsText.textContent = `1 ) Ты читаешь, собеседник отвечает / выполняет. 2 ) Нужен перевод? - нажми на размытый текст. 
+    3 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
     if (questionNumber < chooseQuestions.length) {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
@@ -510,7 +526,7 @@ oneDeckButtonCheck.addEventListener("click", () => {
 function switchLanguage() {
     getquestions()
     // cardForSpeakingGame.classList.add("column-reverse") уточнить что такое
-    // и уточнить как ниже читается код =!
+    // и уточнить как ниже читается код =! (Не равен самому себе)
     languageRu = !languageRu
     topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
     bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
@@ -608,11 +624,15 @@ function startGameBenderWordOrderGame() {
 BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
 BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame)
 
+
+// передаем set чтобы bender понимал в каком он наборе
 function renderWordsGameBenderWordOrderGame() {
     n = n + 1
     // console.log(life)
-    const sentenceGameBenderWordOrderGame = testGameBenderWordOrderGame[n].eng
+    // const sentenceGameBenderWordOrderGame = testGameBenderWordOrderGame[n].eng
+    const sentenceGameBenderWordOrderGame = benderWordOrderSentences[currentSet][n].eng
     // функция будет принимать предложение и перемешивать слова в нем
+    console.log(sentenceGameBenderWordOrderGame)
     let shuffleSentenceGameBenderWordOrderGame = sentenceGameBenderWordOrderGame.split(' ').sort(function () {
         return Math.random() - 0.5;
     });
@@ -631,10 +651,10 @@ function renderWordsGameBenderWordOrderGame() {
                         // console.log("ok")
                         scoreGameBenderWordOrderGame += 1
                         // score = score + 1
-                        pointsGameBenderWordOrderGame.textContent = `верно:  ${scoreGameBenderWordOrderGame} / ${testGameBenderWordOrderGame.length}`
+                        pointsGameBenderWordOrderGame.textContent = `верно:  ${scoreGameBenderWordOrderGame} / ${benderWordOrderSentences[currentSet].length}`
                         nextSentenceGameBenderWordOrderGame()
                     } else {
-                        russianHintMistakeGameBenderWordOrderGame.textContent = testGameBenderWordOrderGame[n].ru
+                        russianHintMistakeGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
                         correctAnswerGameBenderWordOrderGame.textContent = sentenceGameBenderWordOrderGame
                         userAnswerGameBenderWordOrderGame.textContent = inputSentenceGameBenderWordOrderGame.textContent
                         userAnswerGameBenderWordOrderGame.classList.add("wrong")
@@ -660,7 +680,7 @@ function gameOverGameBenderWordOrderGame() {
 function nextSentenceGameBenderWordOrderGame() {
     wordsContainerGameBenderWordOrderGame.innerHTML = ""
     inputSentenceGameBenderWordOrderGame.textContent = ""
-    if (n === testGameBenderWordOrderGame.length - 1) {
+    if (n === benderWordOrderSentences[currentSet].length - 1) {
         gameOverGameBenderWordOrderGame()
     } else {
         renderWordsGameBenderWordOrderGame()
@@ -696,20 +716,20 @@ screenshotGameBenderWordOrderGame.addEventListener("click", () => {
 })
 
 hintGameBenderWordOrderGame.addEventListener("click", () => {
-    russianHintGameBenderWordOrderGame.textContent = testGameBenderWordOrderGame[n].ru
+    russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     setTimeout(() => {
         russianHintGameBenderWordOrderGame.textContent = "нажми 👆 на эту кнопку, если не можешь догадаться какое предложение можно составить из предложенных слов"
     }, 4000)
 })
 
 cheatGameBenderWordOrderGame.addEventListener("click", () => {
-    russianHintGameBenderWordOrderGame.textContent = testGameBenderWordOrderGame[n].eng
+    russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].eng
     setTimeout(() => {
         russianHintGameBenderWordOrderGame.textContent = "нажми 👆 на эту кнопку, если не можешь догадаться какое предложение можно составить из предложенных слов"
     }, 4000)
     // милисекунды 
 })
-renderWordsGameBenderWordOrderGame()
+
 // выше все для игры BenderWordOrderGame
 
 
