@@ -114,7 +114,7 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     console.log("название миссии=",textTheNameOfTheChosenSet)
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
-    popupMissionsAndSetsDescription.textContent = "Выполни все задания, чтобы пройти миссию: 👇 с чего начнём? "
+    popupMissionsAndSetsDescription.textContent = "Чтобы пройти миссию выполни tasks задания 👇 "
     fryFuturamaMainScreenIntro.classList.add("noshow")
     userSearchesForMission.classList.add("none")
     // userSearchesForMission.value = ""

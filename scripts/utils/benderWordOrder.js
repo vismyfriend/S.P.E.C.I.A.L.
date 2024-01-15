@@ -1,19 +1,70 @@
 const benderWordOrderSentences = {
-    clothes03: [
+
+    m005: [
         {
             id:1,
-            eng:"pants /пЭнтс/",
-            ru:"любые штаны можно так назвать"
+            eng:"we are good friends",
+            ru:"мы хорошие друзья"
             },
             {
             id:2,
-            eng:"under pants /пЭнтс/",
-            ru:"трусишки, трусики, трусы, плавки"
+            eng:"Vincent is my teacher",
+            ru:"Винсент мой учитель"
             },
             {
             id:3,
-            eng:"это",
-            ru:"джинсы это очень круто"
+            eng:"Vincent is not a teacher he is my friend",
+            ru:"Винсент не учитель, он мой друг"
+            },
+            {
+            id:4,
+            eng:"where are you from ?",
+            ru:"откуда вы родом?"
+            },
+            {
+            id:5,
+            eng:"how are you today ?",
+            ru:"как вы сегодня себя чувствуете?"
+            },
+            {
+            id:6,
+            eng:"I am not a stupid student",
+            ru:"я не тупой студент"
+            },
+            {
+            id:7,
+            eng:"are you stupid ?",
+            ru:"ты тупица?"
+            },
+            {
+            id:8,
+            eng:"you are very slow !",
+            ru:"вы очень медленная"
+            },
+            {
+            id:9,
+            eng:"I am not fat",
+            ru:"я не жирная"
+            },
+            {
+            id:10,
+            eng:"you are my buddy",
+            ru:"вы мой приятель"
+            },
+            {
+            id:11,
+            eng:"it is their dog",
+            ru:"это их собака"
+            },
+            {
+            id:12,
+            eng:"their cat is ugly",
+            ru:"их кошка уродлива"
+            },
+            {
+            id:13,
+            eng:"our cat is always hungry",
+            ru:"наша кошка всегда голодная"
             },
     ],
 

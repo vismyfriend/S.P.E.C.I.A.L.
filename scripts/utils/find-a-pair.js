@@ -544,238 +544,7 @@ const allCardsGameFindAPair = {
             },
     ],
 
-    santalapfart3c1: [
-        {
-            id:1,
-            eng:"mom made beans / мам мэйд бинз /",
-            ru:"мама приготовила бобы"
-            },
-            {
-            id:2,
-            eng:" ‘em = them / эм = дэм /",
-            ru:"их (сокращённо)"
-            },
-            {
-            id:3,
-            eng:"get your coat on ",
-            ru:"накинь, надень своё пальто"
-            },
-            {
-            id:4,
-            eng:"mall / мол /",
-            ru:"большой магазин"
-            },
-            {
-            id:5,
-            eng:"could / куд /",
-            ru:"мог"
-            },
-            {
-            id:6,
-            eng:"how not to forget / хау нат ту фогет /",
-            ru:"как не забыть"
-            },
-            {
-            id:7,
-            eng:"cut the cheese ( на слэнге ) ",
-            ru:"пёрнуть, пукнуть ( идиома )"
-            },
-            {
-            id:8,
-            eng:"while / уйал /",
-            ru:"в то время как, пока"
-            },
-            {
-            id:9,
-            eng:"wait for someone ",
-            ru:"ждать кого-то"
-            },
-            {
-            id:10,
-            eng:"I'd или I would / аЙд или Ай вУд /",
-            ru:"я бы "
-            },
-            {
-            id:11,
-            eng:"the gas bubble  / дэ гэс бабл /",
-            ru:"газовый пузырь "
-            },
-            {
-            id:12,
-            eng:"grew bigger  / грУ бигэ /",
-            ru:"нарастал, увеличивался"
-            },
-            {
-            id:13,
-            eng:"with every word ",
-            ru:"с каждым словом"
-            },
-            {
-            id:14,
-            eng:"tried my best  / трайд май бэст /",
-            ru:"выложился по максимуму"
-            },
-            {
-            id:15,
-            eng:"hide  / хайд /",
-            ru:"прятать, скрывать"
-            },
-            {
-            id:16,
-            eng:"thought  / thОт /",
-            ru:"думал"
-            },
-            {
-            id:17,
-            eng:"I was doing swell / воз дуин свэл /",
-            ru:"у меня хорошо получалось"
-            },
-            {
-            id:18,
-            eng:"knees и laps / нис , лэпс /",
-            ru:"коленки и колени"
-            },
-            {
-            id:19,
-            eng:"stink (на слэнге) / стинк /",
-            ru:"вонять (отстой, стрёмный)"
-            },
-            {
-            id:20,
-            eng:"what's the smell? / уОтс дэ смЭл /",
-            ru:"что за запах? чем пахнет?"
-            },
-            {
-            id:21,
-            eng:"nothing under / наthЫн Андэ /",
-            ru:"ничего под"
-            },
-            {
-            id:22,
-            eng:"Christmas tree / крисмас три /",
-            ru:"ёлка"
-            },
-            {
-            id:23,
-            eng:"a baseball bat / бэйсбол бэт /",
-            ru:"бейсбольная бита"
-            },
-            {
-            id:24,
-            eng:"ask for something ",
-            ru:"просить чего-то"
-            },
-            {
-            id:25,
-            eng:"ice skates / айс скейтс /",
-            ru:"коньки"
-            },
-            {
-            id:26,
-            eng:"none of these / нАн ов дыZ /",
-            ru:"ничего из этого"
-            },
-            {
-            id:27,
-            eng:"a lot of things ",
-            ru:"много вещей"
-            },
-            {
-            id:28,
-            eng:"let slip out / лэт слип аут /",
-            ru:"позволить вырваться"
-            },
-            {
-            id:29,
-            eng:"On Christmas Eve  / он крисмас ив /",
-            ru:"сочельник -  ночь перед  рождеством"
-            },
-            {
-            id:30,
-            eng:"snuck out of home / снАк аут ов хоум /",
-            ru:"выкрался из дома"
-            },
-            {
-            id:31,
-            eng:"without a sound ",
-            ru:"без звука"
-            },
-            {
-            id:32,
-            eng:"living room  / ливин рум /",
-            ru:"зал, гостиная"
-            },
-            {
-            id:33,
-            eng:"take a look around ",
-            ru:"осмотреться"
-            },
-            {
-            id:34,
-            eng:"full of presents  / фул ов прэзэнтс /",
-            ru:"наполнен подарками"
-            },
-            {
-            id:35,
-            eng:"a pile  / э пАйл /",
-            ru:"куча"
-            },
-            {
-            id:36,
-            eng:"turn around / тёрн эрАунд /",
-            ru:"развернуться"
-            },
-            {
-            id:37,
-            eng:"such great force  / сач грэйт форс /",
-            ru:"такая великая сила"
-            },
-            {
-            id:38,
-            eng:"almost came down / олмост кем даун /",
-            ru:"почти свалилась"
-            },
-            {
-            id:39,
-            eng:"cherish a moment / чЕриш э моУмэнт /",
-            ru:"дорожить моментом"
-            },
-            {
-            id:40,
-            eng:"she realized / щи риалАйзд /",
-            ru:"она осознала"
-            },
-            {
-            id:41,
-            eng:"even Saint Nick / ивн сЭйнт ник /",
-            ru:"даже святой Николай"
-            },
-            {
-            id:42,
-            eng:"now and then / нау эн дэн /",
-            ru:"порой, бывает (синоним иногда)"
-            },
-            {
-            id:43,
-            eng:"fart / фарт /",
-            ru:"пукнуть"
-            },
-            {
-            id:44,
-            eng:"all I could think of / ол ай куд /",
-            ru:"всё о чем я мог думать"
-            },
-            {
-            id:45,
-            eng:"I'd explode / айд эксплОуд /",
-            ru:"я бы взорвался"
-            },
-            {
-            id:46,
-            eng:"tried his best  / трайд хиз бэст /",
-            ru:"выложился на максимум, сделал всё в своих силах"
-            },
-    ],
+
     santalapfart2b2: [
         {
             id:24,
@@ -901,7 +670,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:2,
-            eng:" ‘em = them / эм = дэм /",
+            eng:"them = 'em / эм = дэм /",
             ru:"их (сокращённо)"
             },
             {
@@ -2300,246 +2069,8 @@ const allCardsGameFindAPair = {
 
 
     ],
-    m009: [
-        {
-            id: 1,
-            ru: "красивый",
-            eng: "handsome /хЭнсам/"
-        },
-        {
-            id: 2,
-            ru: "все (ударение на Э)",
-            eng: "everybody /Эврибади/"
-        },
-        {
-            id: 3,
-            ru: "Все люди",
-            eng: "all people /ол пипл/"
-        },
-        {
-            id: 4,
-            ru: "ставим is, если нет глагола",
-            eng: "после it,he,she"
-        },
-        {
-            id: 5,
-            ru: "ставим ARE, если нет глагола",
-            eng: "после you,we,they"
-        },
-        {
-            id: 6,
-            ru: " I am a secret agent",
-            eng: " Я - секретный агент"
-        },
-        {
-            id: 7,
-            ru: " Винсент мой друг",
-            eng: " Vismyfriend"
-        },
-        {
-            id: 8,
-            ru: " Я особенная",
-            eng: " I'm special"
-        },
-        {
-            id: 9,
-            ru: " I am special /спэшл/",
-            eng: " Я особенный"
-        },
-        {
-            id: 10,
-            ru: " You are special! /ю а спэшл/",
-            eng: " Вы - особенные!"
-        },
-        {
-            id: 11,
-            ru: " Я не ленивая z4dniцa",
-            eng: " I'm not a lazzy bOttom!"
-        },
 
-
-    ],
-
-    m008: [
-        {
-            id:33,
-            eng:"his /хиз/",
-            ru:"его"
-            },
-            {
-            id:34,
-            eng:"her /хё/",
-            ru:"её"
-            },
-            {
-            id:35,
-            eng:"our /аУа/",
-            ru:"наш, наша, наше, наши"
-            },
-            {
-            id:36,
-            eng:"I am ",
-            ru:"a student"
-            },
-            {
-            id:37,
-            eng:"we are ",
-            ru:"students"
-            },
-            {
-            id:38,
-            eng:"she is ",
-            ru:"my friend"
-            },
-            {
-            id:39,
-            eng:"в английских  предложениях всегда есть глагол: ",
-            ru:"либо мушкетёр Are,Am,is либо глагол действие "
-            },
-            {
-            id:40,
-            eng:"are, am, is ",
-            ru:"ставим когда нет глагола в русском переводе"
-            },
-            {
-            id:41,
-            eng:"I sleep 8 hours ",
-            ru:"я сплю восемь часов"
-            },
-            {
-            id:42,
-            eng:"he sleeps 9 hours ",
-            ru:"он спит 9 часов"
-            },
-            {
-            id:43,
-            eng:"прилагательные по-английски: ",
-            ru:"adjectives /Эджэктивз/ ударение на Э"
-            },
-            {
-            id:44,
-            eng:"когда в русском переводе у глагола окончание -ТЬ ",
-            ru:"в английском перед глаголом ставим 'to'"
-            },
-            {
-            id:45,
-            eng:"to sing a song ",
-            ru:"петь песню"
-            },
-            {
-            id:46,
-            eng:"we sing a song ",
-            ru:"мы поём песни"
-            },
-            {
-            id:47,
-            eng:"I want to hug you ",
-            ru:"я хочу обнять вас"
-            },
-            {
-            id:48,
-            eng:"I am smart ",
-            ru:"я сообразительная"
-            },
-            {
-            id:49,
-            eng:"I study English ",
-            ru:"я учу английский"
-            },
-            {
-            id:50,
-            eng:"I ",
-            ru:"am not ugly"
-            },
-            {
-            id:51,
-            eng:"I smoke ",
-            ru:"я курю"
-            },
-            {
-            id:52,
-            eng:"I don't smoke ",
-            ru:"я не курю"
-            },
-            {
-            id:53,
-            eng:"I am not silly ",
-            ru:"я не глуп"
-            },
-            {
-            id:54,
-            eng:"I drink with Vincent ",
-            ru:"я пью с Винченто"
-            },
-            {
-            id:55,
-            eng:"I don't drink tea with sugar ",
-            ru:"я непью чай с сахаром"
-            },
-            {
-            id:56,
-            eng:"I am here ",
-            ru:"я здесь"
-            },
-            {
-            id:57,
-            eng:"I am not here ",
-            ru:"меня здесь нет"
-            },
-            {
-            id:58,
-            eng:"I like Vincent ",
-            ru:"мне нравится вИнсент"
-            },
-            {
-            id:59,
-            eng:"I don't like Vincent ",
-            ru:"мне не нравится вИнсент"
-            },
-            {
-            id:60,
-            eng:"I have a cat ",
-            ru:"у меня есть кошка"
-            },
-            {
-            id:61,
-            eng:"I don't have a dog ",
-            ru:"у меня нет собаки"
-            },
-            {
-            id:62,
-            eng:"I have blue eyes ",
-            ru:"у меня голубые глаза"
-            },
-            {
-            id:63,
-            eng:"I don't have green eyes ",
-            ru:"у меня не зеленые глаза"
-            },
-            {
-            id:64,
-            eng:"I want to speak English ",
-            ru:"я хочу разговаривать на инглише"
-            },
-            {
-            id:65,
-            eng:"I want to hug you ",
-            ru:"хочу обнять тебя"
-            },
-            {
-            id:66,
-            eng:"We don't ",
-            ru:"live together /лив тугедэ/ живём вместе"
-            },
-            {
-            id:67,
-            eng:"He doesn't ",
-            ru:"live with me живёт со мной"
-            },
-
-
-    ],
-    m007: [
+    m010: [
         {
             id:1,
             eng:"every day / эври дэй /",
@@ -8201,586 +7732,241 @@ const allCardsGameFindAPair = {
             },
     ],
 
-    questions001: [
+    m009questions0: [
         {
-            id:1,
-            eng:"When? /уэн/",
-            ru:"Когда?"
-            },
-            {
-            id:2,
-            eng:"Where? /уэ э/",
-            ru:"Где?"
-            },
-            {
-            id:3,
-            eng:"What? /уот/",
-            ru:"Что?"
-            },
-            {
-            id:4,
-            eng:"Why? /уай/",
-            ru:"Для чего? Зачем? Почему?"
-            },
-            {
-            id:5,
-            eng:"How? /хау/",
-            ru:"Как?"
-            },
-            {
-            id:6,
-            eng:"Who? /ху/",
-            ru:"Кто?"
-            },
-            {
-            id:7,
-            eng:"Whose? /хуз/",
-            ru:"Чей?"
-            },
-            {
-            id:8,
-            eng:"What time? /уот тайм/",
-            ru:"Во сколько?"
-            },
-            {
-            id:9,
-            eng:"What color? /уот кАла/",
-            ru:"Какого цвета?"
-            },
-            {
-            id:10,
-            eng:"What size? /уот сайз/",
-            ru:"Какого размера?"
-            },
-            {
-            id:11,
-            eng:"How old? /хау оулд/",
-            ru:"Какого возраста?"
-            },
-            {
-            id:12,
-            eng:"How far? /хау фа/",
-            ru:"Насколько далеко?"
-            },
-            {
-            id:13,
-            eng:"How often? /хау офтэн/",
-            ru:"Как часто?"
-            },
-            {
-            id:14,
-            eng:"How long? /хау лон/",
-            ru:"Как долго?"
-            },
-            {
-            id:15,
-            eng:"How tall? /хау тол/",
-            ru:"Какого роста?"
-            },
-            {
-            id:16,
-            eng:"What year? /уот йИэ/",
-            ru:"В каком году?"
-            },
-            {
-            id:17,
-            eng:"What flavor? /уот флЭйво/",
-            ru:"Какого вкуса?"
-            },
-            {
-            id:18,
-            eng:"What song? /уот сон/",
-            ru:"Что за песня?"
-            },
-            {
-            id:19,
-            eng:"What shape? /уот шэйп/",
-            ru:"Какой формы?"
-            },
-            {
-            id:20,
-            eng:"With whom? /уиTH хум/",
-            ru:"С кем?"
-            },
-            {
-            id:21,
-            eng:"Come again? /кам эгэйн/",
-            ru:"Чего, простите?"
-            },
-            {
-            id:22,
-            eng:"How come? /хау кам/",
-            ru:"Как так вышло?"
-            },
-            {
-            id:23,
-            eng:"Why the hell? /уай дэ хэл/",
-            ru:"Какого чёрта?!?"
-            },
-            {
             id:24,
-            eng:"Here or there? /хИэ о дЭэ/",
-            ru:"Здесь или там?"
-            },
-            {
-            id:25,
-            eng:"What car? ",
+            eng:"What car? / уОт ка /",
             ru:"Какая машина?"
             },
             {
-            id:26,
-            eng:"How fast? ",
+            id:25,
+            eng:"How fast? / хАу фаст /",
             ru:"Как быстро?"
             },
             {
-            id:27,
+            id:26,
             eng:"With or without? ",
             ru:"С или без?"
             },
             {
-            id:28,
-            eng:"Here? /хИэ/",
-            ru:"Здесь?"
-            },
-            {
-            id:29,
-            eng:"There? /дЭэ/",
-            ru:"Там?"
-            },
-            {
-            id:30,
-            eng:"How many pelmenis? /хАу мЭни/",
-            ru:"Сколько пельменей?"
-            },
-            {
-            id:31,
-            eng:"How much money is it? /хау мАч мАни/",
-            ru:"Сколько денег это стоит?"
-            },
-            {
-            id:32,
-            eng:"How much time? ",
-            ru:"Сколько времени?"
-            },
-            {
-            id:33,
-            eng:"Where is it? /уЭэ из ит/",
-            ru:"Где это?"
-            },
-            {
-            id:34,
-            eng:"Who is here? /ху из хИэ/",
-            ru:"Кто здесь?"
-            },
-            {
-            id:35,
-            eng:"Who are they? /ху а дэй/",
-            ru:"Кто они?"
-            },
-            {
-            id:36,
-            eng:"Where am I? ",
-            ru:"Где я?"
-            },
-            {
-            id:37,
-            eng:"Who is it? /ху из ит/",
-            ru:"Кто это?"
-            },
-            {
-            id:38,
-            eng:"What is it? ",
-            ru:"Что это?"
-            },
-            {
-            id:39,
-            eng:"Who am I? /ху эм ай/",
-            ru:"Кто я?"
-            },
-            {
-            id:40,
-            eng:"Who are you? ",
-            ru:"Кто вы такой?"
-            },
-            {
-            id:41,
-            eng:"Who is she? ",
-            ru:"Кто она?"
-            },
-            {
-            id:42,
-            eng:"Who is he? ",
-            ru:"Кто он?"
-            },
-            {
-            id:43,
-            eng:"Where is he? ",
-            ru:"Где он?"
-            },
-            {
-            id:44,
-            eng:"Where is she? ",
-            ru:"Где она?"
-            },
-            {
-            id:45,
-            eng:"Why are you here? ",
-            ru:"Почему вы здесь?"
-            },
-            {
-            id:46,
-            eng:"Where is Vincent? ",
-            ru:"Где Винсент?"
-            },
-            {
-            id:47,
-            eng:"When is our lesson? ",
-            ru:"Когда будет урок?"
-            },
-            {
-            id:48,
-            eng:"When does a lesson start? ",
-            ru:"Когда начинается урок?"
-            },
-            {
-            id:49,
-            eng:"When do we start? ",
-            ru:"Когда мы начнем?"
-            },
-            {
-            id:50,
-            eng:"Where do you work? ",
-            ru:"Где ты работаешь?"
-            },
-            {
-            id:51,
-            eng:"How often do you do it? ",
-            ru:"Как часто ты делаешь это?"
-            },
-            {
-            id:52,
-            eng:"What time do we start? ",
-            ru:"Во сколько мы стартуем?"
-            },
-            {
-            id:53,
-            eng:"What time is it? ",
-            ru:"Который час? Сколько время?"
-            },
-            {
-            id:54,
-            eng:"How are you? ",
-            ru:"Как ты?"
-            },
-            {
-            id:55,
-            eng:"Where are you from? ",
-            ru:"Откуда ты родом?"
-            },
-            {
-            id:56,
-            eng:"Where do you live? ",
-            ru:"Где ты живешь?"
-            },
-            {
-            id:57,
-            eng:"What is your phone number? ",
-            ru:"Какой твой номер телефона?"
-            },
-            {
-            id:58,
-            eng:"What is your house number? ",
-            ru:"Какой номер твоего дома?"
-            },
-            {
-            id:59,
-            eng:"What color are your eyes? ",
-            ru:"Какого цвета ваши глаза?"
-            },
-            {
-            id:60,
-            eng:"What is your favorite color? ",
-            ru:"Какой твой любимый цвет?"
-            },
-    ],
-
-    m006questions0: [
-        {
-            id:25,
-            eng:"What car? ",
-            ru:"Какая машина?"
-            },
-            {
-            id:26,
-            eng:"How fast? ",
-            ru:"Как быстро?"
-            },
-            {
             id:27,
-            eng:"With or without? ",
-            ru:"С или без?"
-            },
-            {
-            id:28,
-            eng:"Here? /хИэ/",
+            eng:"Here? / хИэ /",
             ru:"Здесь?"
             },
             {
-            id:29,
-            eng:"There? /дЭэ/",
+            id:28,
+            eng:"There? / дЭэ /",
             ru:"Там?"
             },
             {
+            id:29,
+            eng:"How about … ? / хАу эбАут /",
+            ru:"Как насчет … ?"
+            },
+            {
             id:30,
-            eng:"How many pelmeni? ",
-            ru:"Сколько пельменей?"
+            eng:"What do you think about this? ",
+            ru:"Что ты об этом думаешь?"
             },
             {
             id:31,
-            eng:"How much money is it? ",
-            ru:"Сколько денег это стоит?"
+            eng:"How many pelmenis? / мЭни /",
+            ru:"Сколько пельменей?"
             },
             {
             id:32,
-            eng:"How much time? ",
-            ru:"Сколько времени?"
+            eng:"How much money is it? / мАч мАни /",
+            ru:"Сколько денег это стоит?"
             },
             {
             id:33,
-            eng:"Where is it? ",
-            ru:"Где это?"
+            eng:"How much time? / мАч тайм /",
+            ru:"Сколько времени?"
             },
             {
             id:34,
-            eng:"Who is here? ",
-            ru:"Кто здесь?"
+            eng:"Where is it? / уЭэ из ит /",
+            ru:"Где это?"
             },
             {
             id:35,
-            eng:"Who are they? ",
-            ru:"Кто они?"
+            eng:"Who is here? / ху из хИэ /",
+            ru:"Кто здесь?"
             },
             {
             id:36,
-            eng:"Where am I? ",
-            ru:"Где я?"
+            eng:"Who are they? / ху а дэй /",
+            ru:"Кто они?"
             },
             {
             id:37,
-            eng:"Who is it? /ху из ит/",
-            ru:"Кто это?"
+            eng:"Where am I? / уЭэ эм ай /",
+            ru:"Где я?"
             },
             {
             id:38,
-            eng:"What is it? ",
-            ru:"Что это?"
+            eng:"Who is it? / ху из ит /",
+            ru:"Кто это?"
             },
             {
             id:39,
-            eng:"Who am I? /ху эм ай/",
-            ru:"Кто я?"
+            eng:"What is it? / уОт из ит /",
+            ru:"Что это?"
             },
             {
             id:40,
-            eng:"Who are you? ",
-            ru:"Кто вы такой?"
+            eng:"Who am I? / ху эм ай /",
+            ru:"Кто я?"
             },
             {
             id:41,
+            eng:"Who are you? / ху а ю /",
+            ru:"Кто вы такой?"
+            },
+            {
+            id:42,
             eng:"Who is she? ",
             ru:"Кто она?"
             },
             {
-            id:42,
-            eng:"Who is he? ",
+            id:43,
+            eng:"Who is he? / ху из хИ /",
             ru:"Кто он?"
             },
             {
-            id:43,
+            id:44,
             eng:"Where is he? ",
             ru:"Где он?"
             },
             {
-            id:44,
+            id:45,
             eng:"Where is she? ",
             ru:"Где она?"
             },
             {
-            id:45,
-            eng:"Why are you here? ",
+            id:46,
+            eng:"Why are you here? / уАй а ю хИэ /",
             ru:"Почему вы здесь?"
             },
-            {
-            id:46,
-            eng:"Where is Vincent? ",
-            ru:"Где Винсент?"
-            },
-            {
-            id:47,
-            eng:"When is our lesson? ",
-            ru:"Когда будет урок?"
-            },
-            {
-            id:48,
-            eng:"When does a lesson start? ",
-            ru:"Когда начинается урок?"
-            },
-            {
-            id:49,
-            eng:"When do we start? ",
-            ru:"Когда мы начнем?"
-            },
-            {
-            id:50,
-            eng:"Where do you work? ",
-            ru:"Где ты работаешь?"
-            },
-            {
-            id:51,
-            eng:"How often do you do it? ",
-            ru:"Как часто ты делаешь это?"
-            },
-            {
-            id:52,
-            eng:"What time do we start? ",
-            ru:"Во сколько мы стартуем?"
-            },
-            {
-            id:53,
-            eng:"What time is it? ",
-            ru:"Который час? Сколько время?"
-            },
-            {
-            id:54,
-            eng:"How are you? ",
-            ru:"Как ты?"
-            },
     ],
-    m005q1: [
-
+    m008q1: [
         {
             id:1,
-            eng:"When? /уэн/",
+            eng:"When? / уэн /",
             ru:"Когда?"
             },
             {
             id:2,
-            eng:"Where? /уэ э/",
+            eng:"Where? / уэ э /",
             ru:"Где?"
             },
             {
             id:3,
-            eng:"What? /уот/",
+            eng:"What? / уот /",
             ru:"Что?"
             },
             {
             id:4,
-            eng:"Why? /уай/",
+            eng:"Why? / уай /",
             ru:"Для чего? Зачем? Почему?"
             },
             {
             id:5,
-            eng:"How? /хау/",
+            eng:"How? / хау /",
             ru:"Как?"
             },
             {
             id:6,
-            eng:"Who? /ху/",
+            eng:"Who? / ху /",
             ru:"Кто?"
             },
             {
             id:7,
-            eng:"Whose? /хуз/",
+            eng:"Whose? / хуз /",
             ru:"Чей?"
             },
             {
             id:8,
-            eng:"What time? /уот тайм/",
+            eng:"What time?         / уот тайм /",
             ru:"Во сколько?"
             },
             {
             id:9,
-            eng:"What color? /уот кАла/",
+            eng:"What color? / уот кАла /",
             ru:"Какого цвета?"
             },
             {
             id:10,
-            eng:"What size? /уот сайз/",
+            eng:"What size? / уот сайз /",
             ru:"Какого размера?"
             },
             {
             id:11,
-            eng:"How old? /хау оулд/",
+            eng:"How old? / хау оулд /",
             ru:"Какого возраста?"
             },
             {
             id:12,
-            eng:"How far? /хау фа/",
+            eng:"How far? / хау фа /",
             ru:"Насколько далеко?"
             },
             {
             id:13,
-            eng:"How often? /хау офтэн/",
+            eng:"How often? / хау офтэн /",
             ru:"Как часто?"
             },
             {
             id:14,
-            eng:"How long? /хау лон/",
+            eng:"How long? / хау лон /",
             ru:"Как долго?"
             },
             {
             id:15,
-            eng:"How tall? /хау тол/",
+            eng:"How tall? / хау тол /",
             ru:"Какого роста?"
             },
             {
             id:16,
-            eng:"What year? /уот йИэ/",
+            eng:"What year? / уот йИэ /",
             ru:"В каком году?"
             },
             {
             id:17,
-            eng:"What flavor? /уот флЭйво/",
+            eng:"What flavor? / уот флЭйво /",
             ru:"Какого вкуса?"
             },
             {
             id:18,
-            eng:"What song? /уот сон/",
+            eng:"What song? / уот сон /",
             ru:"Что за песня?"
             },
             {
             id:19,
-            eng:"What shape? /уот шэйп/",
+            eng:"What shape? / уот шэйп /",
             ru:"Какой формы?"
             },
             {
             id:20,
-            eng:"With whom? /уиTH хум/",
+            eng:"With whom? / уиTH хум /",
             ru:"С кем?"
             },
             {
             id:21,
-            eng:"Come again? /кам эгэйн/",
+            eng:"Come again? / кам эгэйн /",
             ru:"Чего, простите?"
             },
             {
             id:22,
-            eng:"How come? /хау кам/",
+            eng:"How come? / хау кам /",
             ru:"Как так вышло?"
             },
             {
             id:23,
-            eng:"Why the hell? /уай дэ хэл/",
-            ru:"Какого чёрта?!?"
+            eng:"What about … ? / уОт эбАут /",
+            ru:"Что на счет … ?"
             },
-            {
-            id:24,
-            eng:"Here or there? /хИэ о дЭэ/",
-            ru:"Здесь или там?"
-            },
-
     ],
-    m004numbers: [
+    numbersIntro12: [
         {
             id: 1,
             ru: "1",
@@ -8967,7 +8153,8 @@ const allCardsGameFindAPair = {
             },
 
     ],
-    m002: [
+   
+    m004: [
         {
             id:1,
             eng:"I am clever / клЭвэ /",
@@ -9059,7 +8246,7 @@ const allCardsGameFindAPair = {
             ru:"наш, наша, наше, наши"
             },
     ],
-    m003: [
+    m007: [
         {
             id:1,
             eng:"I ",
