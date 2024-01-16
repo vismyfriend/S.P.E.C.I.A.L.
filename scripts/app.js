@@ -237,7 +237,7 @@ function startGameFindPairs() {
     logoSpecial.classList.add("hidden")
     gameFindAPair.classList.add("open")
     interval = setInterval(startTimer, 10);
-    audioTest.play()
+    // audioTest.play()
     console.log(audioTest)
     missionMusicBackground.volume = 0;
     missionMusicBackgroundIconButton.classList.add("off")
