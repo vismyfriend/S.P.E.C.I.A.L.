@@ -237,7 +237,8 @@ function startGameFindPairs() {
     logoSpecial.classList.add("hidden")
     gameFindAPair.classList.add("open")
     interval = setInterval(startTimer, 10);
-    audio.play()
+    audioTest.play()
+    console.log(audioTest)
     missionMusicBackground.volume = 0;
     missionMusicBackgroundIconButton.classList.add("off")
     missionMusicBackgroundIconButton.classList.add("hidden")
@@ -1070,8 +1071,10 @@ const missionMusicBackgroundIconButton = document.querySelector(".missionMusicBa
 const helloMusicStartButton = document.querySelector(".helloMusicStartButton")
 const audio = document.querySelector(".audio")
 const missionMusicBackground = document.querySelector(".missionMusicBackground")
-const audioTest = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/hello-zvuk-111.mp3");
-const audiomissionMusicBackground = new Audio("https://audio.jukehost.co.uk/wDqy560srBF4ZvgkwI8wAqNcgK9I0cW0");
+// const audioTest = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/hello-zvuk-111.mp3");
+const audioTest = new Audio("./audio/SantaB1.mp3");
+// const audioTest = document.querySelector(".audio")
+// const audiomissionMusicBackground = new Audio("https://audio.jukehost.co.uk/wDqy560srBF4ZvgkwI8wAqNcgK9I0cW0");
 
 function helloMusicStartButtonInvisible() {
     // const audiomissionMusicBackground = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/hello-zvuk-111.mp3");
