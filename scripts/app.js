@@ -620,6 +620,7 @@ function startGameBenderWordOrderGame() {
     userSearchesForMission.classList.add("none")
     gameTrickyQuiz.classList.add("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
+    // russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
 }
 
 BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
@@ -628,7 +629,9 @@ BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame
 
 // передаем set чтобы bender понимал в каком он наборе
 function renderWordsGameBenderWordOrderGame() {
+    
     n = n + 1
+    russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     // console.log(life)
     // const sentenceGameBenderWordOrderGame = testGameBenderWordOrderGame[n].eng
     const sentenceGameBenderWordOrderGame = benderWordOrderSentences[currentSet][n].eng
@@ -656,8 +659,8 @@ function renderWordsGameBenderWordOrderGame() {
                         nextSentenceGameBenderWordOrderGame()
                     } else {
                         russianHintMistakeGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
-                        correctAnswerGameBenderWordOrderGame.textContent = sentenceGameBenderWordOrderGame
-                        userAnswerGameBenderWordOrderGame.textContent = inputSentenceGameBenderWordOrderGame.textContent
+                        correctAnswerGameBenderWordOrderGame.textContent = `${sentenceGameBenderWordOrderGame} - вариант Бендэра`
+                        userAnswerGameBenderWordOrderGame.textContent = `${inputSentenceGameBenderWordOrderGame.textContent} - ваш вариант`
                         userAnswerGameBenderWordOrderGame.classList.add("wrong")
                         containerMistakeGameBenderWordOrderGame.classList.add("show")
                         lifeGameBenderWordOrderGame = lifeGameBenderWordOrderGame - 1
@@ -719,14 +722,14 @@ screenshotGameBenderWordOrderGame.addEventListener("click", () => {
 hintGameBenderWordOrderGame.addEventListener("click", () => {
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     setTimeout(() => {
-        russianHintGameBenderWordOrderGame.textContent = "нажми 👆 на эту кнопку, если не можешь догадаться какое предложение можно составить из предложенных слов"
+        russianHintGameBenderWordOrderGame.textContent = "Без русского перевода попробуй восстановить правильный порядок слов"
     }, 4000)
 })
 
 cheatGameBenderWordOrderGame.addEventListener("click", () => {
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].eng
     setTimeout(() => {
-        russianHintGameBenderWordOrderGame.textContent = "нажми 👆 на эту кнопку, если не можешь догадаться какое предложение можно составить из предложенных слов"
+        russianHintGameBenderWordOrderGame.textContent = "Без русского перевода попробуй догадаться что за предложение"
     }, 4000)
     // милисекунды 
 })

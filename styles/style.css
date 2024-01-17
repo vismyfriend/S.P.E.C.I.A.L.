@@ -322,11 +322,12 @@ button {
 .BenderWordOrderGameWords {
     display: flex;
     padding: 0;
-    margin: 15px;
+    /* margin: 15px; */
     list-style: none;
     display: flex;
     flex-wrap: wrap;
     gap: 3px;
+    justify-content: center;
 }
 
 .BenderWordOrderGameWord {
@@ -433,7 +434,8 @@ button {
 }
 
 .BenderWordOrderGameRussian-hint {
-    margin: -10px 85px 0 15px;
+    /* margin: -10px 85px 0 15px; */
+    margin: 4px 3px 15px 3px;
     padding: 6px 10px 4px;
     background: #7ECA7C;
     border: 3px solid #B7CC52;
@@ -450,7 +452,7 @@ button {
 
 .BenderWordOrderGameCorrect-counter {
     position: absolute;
-    bottom: 5px;
+    bottom: -32px;
     right: 4px;
     color: #040404;
     font-size: 15px;
