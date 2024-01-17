@@ -14103,7 +14103,124 @@ const allCardsGameFindAPair = {
         },
 
     ],
-    loco: [
+    spanish23: [
+        {
+            id:1,
+            eng:"la cadena musical",
+            ru:"музыкальный центр"
+            },
+            {
+            id:2,
+            eng:"las flores",
+            ru:"цветы"
+            },
+            {
+            id:3,
+            eng:"el espejo",
+            ru:"зеркало"
+            },
+            {
+            id:4,
+            eng:"la consola",
+            ru:" тумба"
+            },
+            {
+            id:5,
+            eng:"el cuadro",
+            ru:"картина "
+            },
+            {
+            id:6,
+            eng:"la ventana",
+            ru:"окно"
+            },
+            {
+            id:7,
+            eng:"la lámpara",
+            ru:"лампа"
+            },
+            {
+            id:8,
+            eng:"el televisor",
+            ru:"телевизор"
+            },
+            {
+            id:9,
+            eng:"la alfombra",
+            ru:"ковер"
+            },
+            {
+            id:10,
+            eng:"el café",
+            ru:"кофе"
+            },
+            {
+            id:11,
+            eng:"el sofá",
+            ru:"диван"
+            },
+            {
+            id:12,
+            eng:"la papelera",
+            ru:"корзина для бумаг"
+            },
+            {
+            id:13,
+            eng:"el suelo",
+            ru:"пол"
+            },
+            {
+            id:14,
+            eng:"la cortina",
+            ru:"гардина, занавеска"
+            },
+            {
+            id:15,
+            eng:"la leña",
+            ru:"дрова"
+            },
+            {
+            id:16,
+            eng:"la puerta",
+            ru:"дверь"
+            },
+            {
+            id:17,
+            eng:"el sillón",
+            ru:"кресло"
+            },
+            {
+            id:18,
+            eng:"la chimenea",
+            ru:"дымоход, камин "
+            },
+            {
+            id:19,
+            eng:"la estantería",
+            ru:"книжный шкаф"
+            },
+            {
+            id:20,
+            eng:"voy a leer",
+            ru:"собираюсь читать"
+            },
+            {
+            id:21,
+            eng:"¿Qué vas a hacer mañana?",
+            ru:"что будешь делать?"
+            },
+            {
+            id:22,
+            eng:"el finde",
+            ru:"конец недели"
+            },
+            {
+            id:23,
+            eng:"en verano",
+            ru:"летом"
+            },
+    ],
+    spanish02: [
         {
             id: 1,
             eng: "Quien eres?",

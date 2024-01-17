@@ -72,8 +72,9 @@ const allSetsArray = [
     "understand",
     "cook3",
     "new_mission",
-    "spanish",
-    "loco",
+    "spanish01",
+    "spanish02",
+    "spanish23",
 
     "mission3",
     "travel",

@@ -17688,7 +17688,239 @@ const allQuestionsOneDeck = {
             ru: "Это Эрнесто. Он толстый танцор"
         },
     ],
-    loco: [
+    spanish23: [
+        {
+            id:1,
+            eng:"¿Cómo se pronuncia : ` музыкальный центр `",
+            ru:"LA CADENA MUSICAL "
+            },
+            {
+            id:2,
+            eng:"¿Cómo se dice: ` цветы `",
+            ru:"LAS FLORES "
+            },
+            {
+            id:3,
+            eng:"¿Puedes traducir, por favor? ` зеркало `",
+            ru:"EL ESPEJO "
+            },
+            {
+            id:4,
+            eng:"¿Cómo se pronuncia : `  тумба `",
+            ru:"LA CONSOLA "
+            },
+            {
+            id:5,
+            eng:"¿Cómo se dice: ` картина  `",
+            ru:"EL CUADRO "
+            },
+            {
+            id:6,
+            eng:"¿Puedes traducir, por favor? ` окно `",
+            ru:"LA VENTANA "
+            },
+            {
+            id:7,
+            eng:"¿Cómo se pronuncia : ` лампа `",
+            ru:"LA LÁMPARA "
+            },
+            {
+            id:8,
+            eng:"¿Cómo se dice: ` телевизор `",
+            ru:"EL TELEVISOR "
+            },
+            {
+            id:9,
+            eng:"¿Puedes traducir, por favor? ` ковер `",
+            ru:"LA ALFOMBRA "
+            },
+            {
+            id:10,
+            eng:"¿Cómo se pronuncia : ` кофе `",
+            ru:"EL CAFÉ "
+            },
+            {
+            id:11,
+            eng:"¿Cómo se dice: ` диван `",
+            ru:"EL SOFÁ "
+            },
+            {
+            id:12,
+            eng:"¿Puedes traducir, por favor? ` корзина для бумаг `",
+            ru:"LA PAPELERA "
+            },
+            {
+            id:13,
+            eng:"¿Cómo se pronuncia : ` пол `",
+            ru:"EL SUELO "
+            },
+            {
+            id:14,
+            eng:"¿Cómo se dice: ` гардина, занавеска `",
+            ru:"LA CORTINA "
+            },
+            {
+            id:15,
+            eng:"¿Puedes traducir, por favor? ` дрова `",
+            ru:"LA LEÑA "
+            },
+            {
+            id:16,
+            eng:"¿Cómo se pronuncia : ` дверь `",
+            ru:"LA PUERTA "
+            },
+            {
+            id:17,
+            eng:"¿Cómo se dice: ` кресло `",
+            ru:"EL SILLÓN "
+            },
+            {
+            id:18,
+            eng:"¿Puedes traducir, por favor? ` дымоход, камин  `",
+            ru:"LA CHIMENEA "
+            },
+            {
+            id:19,
+            eng:"¿Cómo se pronuncia : ` книжный шкаф `",
+            ru:"LA ESTANTERÍA "
+            },
+            {
+            id:20,
+            eng:"¿Cómo se dice: ` собираюсь читать `",
+            ru:"VOY A LEER "
+            },
+            {
+            id:21,
+            eng:"¿Puedes traducir, por favor? ` что будешь делать? `",
+            ru:"¿QUÉ VAS A HACER MAÑANA? "
+            },
+            {
+            id:22,
+            eng:"¿Cómo se pronuncia : ` конец недели `",
+            ru:"EL FINDE "
+            },
+            {
+            id:23,
+            eng:"¿Cómo se dice: ` летом `",
+            ru:"EN VERANO "
+            },
+            {
+                id:101,
+                eng:"¿Qué significa? : ` la cadena musical  `",
+                ru:"МУЗЫКАЛЬНЫЙ ЦЕНТР"
+                },
+                {
+                id:102,
+                eng:"¿Qué es? : ` las flores  `",
+                ru:"ЦВЕТЫ"
+                },
+                {
+                id:103,
+                eng:"¿Puedes traducir, por favor? ` el espejo  `",
+                ru:"ЗЕРКАЛО"
+                },
+                {
+                id:104,
+                eng:"¿Qué significa? : ` la consola  `",
+                ru:" ТУМБА"
+                },
+                {
+                id:105,
+                eng:"¿Qué es? : ` el cuadro  `",
+                ru:"КАРТИНА "
+                },
+                {
+                id:106,
+                eng:"¿Puedes traducir, por favor? ` la ventana  `",
+                ru:"ОКНО"
+                },
+                {
+                id:107,
+                eng:"¿Qué significa? : ` la lámpara  `",
+                ru:"ЛАМПА"
+                },
+                {
+                id:108,
+                eng:"¿Qué es? : ` el televisor  `",
+                ru:"ТЕЛЕВИЗОР"
+                },
+                {
+                id:109,
+                eng:"¿Puedes traducir, por favor? ` la alfombra  `",
+                ru:"КОВЕР"
+                },
+                {
+                id:110,
+                eng:"¿Qué significa? : ` el café  `",
+                ru:"КОФЕ"
+                },
+                {
+                id:111,
+                eng:"¿Qué es? : ` el sofá  `",
+                ru:"ДИВАН"
+                },
+                {
+                id:112,
+                eng:"¿Puedes traducir, por favor? ` la papelera  `",
+                ru:"КОРЗИНА ДЛЯ БУМАГ"
+                },
+                {
+                id:113,
+                eng:"¿Qué significa? : ` el suelo  `",
+                ru:"ПОЛ"
+                },
+                {
+                id:114,
+                eng:"¿Qué es? : ` la cortina  `",
+                ru:"ГАРДИНА, ЗАНАВЕСКА"
+                },
+                {
+                id:115,
+                eng:"¿Puedes traducir, por favor? ` la leña  `",
+                ru:"ДРОВА"
+                },
+                {
+                id:116,
+                eng:"¿Qué significa? : ` la puerta  `",
+                ru:"ДВЕРЬ"
+                },
+                {
+                id:117,
+                eng:"¿Qué es? : ` el sillón  `",
+                ru:"КРЕСЛО"
+                },
+                {
+                id:118,
+                eng:"¿Puedes traducir, por favor? ` la chimenea  `",
+                ru:"ДЫМОХОД, КАМИН "
+                },
+                {
+                id:119,
+                eng:"¿Qué significa? : ` la estantería  `",
+                ru:"КНИЖНЫЙ ШКАФ"
+                },
+                {
+                id:120,
+                eng:"¿Qué es? : ` voy a leer  `",
+                ru:"СОБИРАЮСЬ ЧИТАТЬ"
+                },
+                {
+                id:121,
+                eng:"¿Puedes traducir, por favor? ` ¿Qué vas a hacer mañana?  `",
+                ru:"ЧТО БУДЕШЬ ДЕЛАТЬ?"
+                },
+                {
+                id:122,
+                eng:"¿Qué significa? : ` el finde  `",
+                ru:"КОНЕЦ НЕДЕЛИ"
+                },
+                {
+                id:123,
+                eng:"¿Qué es? : ` en verano  `",
+                ru:"ЛЕТОМ"
+                },
+    ],
+    spanish02: [
         {
             id: 1,
             eng: "Quien eres?",
