@@ -4459,7 +4459,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:20,
-            eng:"В чем разница между предложением I go to he cinema и предложением I am going to the cinema, cможешь перевести и объяснить?",
+            eng:"В чем разница между предложением I go to the cinema и предложением I am going to the cinema, cможешь перевести и объяснить?",
             ru:"1) я ХОЖУ в кино 2) я ИДУ в кино"
             },
             {
