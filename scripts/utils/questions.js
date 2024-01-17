@@ -4361,7 +4361,310 @@ const allQuestionsOneDeck = {
         },
     ],
    
-    
+    paperPlanes: [
+        {
+            id:1,
+            eng:"     How do you say :       ` прямо сейчас `",
+            ru:"RIGHT NOW / райт нау /"
+            },
+            {
+            id:2,
+            eng:"What is the English for: ` в данный момент `",
+            ru:"AT THE MOMENT / эт дыс моуэнт /"
+            },
+            {
+            id:3,
+            eng:"What is the English for: ` самолёт `",
+            ru:"AN AIRPLANE / эн Ээрплэйн /"
+            },
+            {
+            id:4,
+            eng:"   Как по-английски :   ` бумага `",
+            ru:"PAPER / пЭйпэ /"
+            },
+            {
+            id:5,
+            eng:"Как на английском сказать: ` двигатель `",
+            ru:"AN ENGINE / эн Энджин /"
+            },
+            {
+            id:6,
+            eng:"How do you translate : ` сгибать `",
+            ru:"FOLD "
+            },
+            {
+            id:7,
+            eng:" What's the Russian for :   ` to Spain / спЭин / `",
+            ru:"В ИСПАНИЮ "
+            },
+            {
+            id:8,
+            eng:"     Can you translate :       ` from zero to twelve  `",
+            ru:"ОТ НУЛЯ ДО ДВЕНАДЦАТИ "
+            },
+            {
+            id:9,
+            eng:"What is the English for: ` с конца и до начала `",
+            ru:"FROM THE END TO THE BEGINNING "
+            },
+            {
+            id:10,
+            eng:"What is the English for: ` тебе от меня `",
+            ru:"TO YOU FROM ME "
+            },
+            {
+            id:11,
+            eng:"What is the English for: ` беги к моему дому `",
+            ru:"RUN TO MY HOUSE "
+            },
+            {
+            id:12,
+            eng:"    Как переводится :         ` to the left  `",
+            ru:"НАЛЕВО "
+            },
+            {
+            id:13,
+            eng:" What's the Russian for :   ` to the right  `",
+            ru:"НАПРАВО "
+            },
+            {
+            id:14,
+            eng:" What's the Russian for :   ` I'm in the office!  `",
+            ru:"В ОФИСЕ Я! "
+            },
+            {
+            id:15,
+            eng:"     Can you translate :       ` I'm going to the office  `",
+            ru:"ИДУ В ОФИС "
+            },
+            {
+            id:16,
+            eng:"     How do you say :       ` хожу в офис по понедельникам `",
+            ru:"I GO TO OFFICE ON MONDAYS "
+            },
+            {
+            id:17,
+            eng:"    Как переводится :         ` wings / вингz / `",
+            ru:"КРЫЛЬЯ "
+            },
+            {
+            id:18,
+            eng:"What is the English for: ` хвост `",
+            ru:"A TAIL / э тЭйл /"
+            },
+            {
+            id:19,
+            eng:"How many wings does an airplane have usually?",
+            ru:"An airplane usually has two wings. (обычно два крыла у самолёта)"
+            },
+            {
+            id:20,
+            eng:"В чем разница между предложением I go to he cinema и предложением I am going to the cinema, cможешь перевести и объяснить?",
+            ru:"1) я ХОЖУ в кино 2) я ИДУ в кино"
+            },
+            {
+            id:21,
+            eng:"В чем разница между предложением We fly to USA и предложением We are flying to USA, cможешь перевести и объяснить?",
+            ru:"1) мы ЛЕТАЕМ в штаты 2) мы ЛЕТИМ в штаты"
+            },
+            {
+            id:22,
+            eng:"В чем разница между предложением I drive to work by car и предложением I am driving to work by car, cможешь перевести и объяснить?",
+            ru:"1) я ЕЗЖУ на машине на работу 2) я ЕДУ на машине на работу"
+            },
+            {
+            id:23,
+            eng:"В чем разница между предложением Vincent drinks with me и предложением Vincent is drinking with me. Сможешь перевести и объяснить?",
+            ru:"Первое переводится: Винсент иногда выпивает со мной, не в данный момент. 2) Прямо сейчас Винсент со мной прибухивает"
+            },
+            {
+            id:24,
+            eng:"Do you have a paper airplane near you? Can you show it to me?",
+            ru:"У тебя рядышком есть бумажный самолёт? Можешь показать мне?"
+            },
+            {
+            id:25,
+            eng:"What is happening now? Tell about 3 actions /экшэнз/ действия",
+            ru:"Что происходит сейчас? Скажи о трёх действиях. Пример: my computer is working, we are sitting, I am reading this text."
+            },
+            {
+            id:26,
+            eng:"Name 5 animals that have a tail.",
+            ru:"Назови 5 животных, у которых есть хвост"
+            },
+            {
+            id:27,
+            eng:"Do you know any birds that have wings but cannot fly?",
+            ru:"Знаешь каких-нибудь птиц у кого есть крылья, но они не могут летать? (an ostrich - страус, a chicken, a penguin…)"
+            },
+            {
+            id:28,
+            eng:"Translate o English: Обычно я сплю в это время, но сейчас я не сплю",
+            ru:"Usually I sleep at this time, but now I am not sleeping"
+            },
+            {
+            id:29,
+            eng:"Translate o English: Я разговариваю с моим другом сейчас",
+            ru:"I am speaking with my friend now. Или еще вариант : I am talking to my friend now. "
+            },
+            {
+            id:30,
+            eng:"Translate o English: Обычно я кушаю в это время, но прямо сейчас я не ем.",
+            ru:"Usually I eat at this time, but right now I am not eating."
+            },
+            {
+            id:31,
+            eng:"What are you doing right now?",
+            ru:"Чем ты занят прямо сейчас? пример: I am sitting on a chair and I am trying to practice English."
+            },
+            {
+            id:32,
+            eng:"Where do you work? What is the name of the company?",
+            ru:"Где вы работаете? пример:  I work for a big company. The name of the company is GOOGLE. I work in an office. I work in a bank."
+            },
+            {
+            id:33,
+            eng:"What time is your clock showing now?",
+            ru:"Какое время сейчас показывают ваши часы? пример: my clock is showing 12:28 AM"
+            },
+            {
+            id:34,
+            eng:"Как на английском сказать: Самолет летит в небе.",
+            ru:"An airplane is flying in the sky"
+            },
+            {
+            id:35,
+            eng:"Как на английском сказать: Много людей ездят отдыхать в Париж",
+            ru:"Many people go to relax to Paris /пЭрис/"
+            },
+            {
+            id:36,
+            eng:"Как на английском сказать: Прямо сейчас мы летим во Францию",
+            ru:"We are flying to France /фрэнс/ right now"
+            },
+            {
+            id:37,
+            eng:"Как на английском сказать: Эта машина сломана. Она не ездит.",
+            ru:"This car is broken. It doesn't drive. или it cannot drive"
+            },
+            {
+            id:38,
+            eng:"Как на английском сказать: Я еду к Винсенту, потому что он ждет меня.",
+            ru:"I am driving to Vincent, because he is waiting for me"
+            },
+            {
+            id:39,
+            eng:"Как на английском сказать: Иногда я езжу к Винсенту, а иногда он едит ко мне.",
+            ru:"I drive to Vincent sometimes, and sometimes he driveS to me."
+            },
+            {
+            id:40,
+            eng:"Как спросить на английском : Ты ждешь меня?",
+            ru:"Are you waiting for me?"
+            },
+            {
+            id:41,
+            eng:"Как спросить на английском : Она ждет тебя?",
+            ru:"Is she waiting for you?"
+            },
+            {
+            id:42,
+            eng:"Как спросить на английском : Мы ждем его?",
+            ru:"Are we waiting for him?"
+            },
+            {
+                id:101,
+                eng:"    Как переводится :         ` right now / райт нау / `",
+                ru:"ПРЯМО СЕЙЧАС"
+                },
+                {
+                id:102,
+                eng:" What's the Russian for :   ` at the moment / эт дыс моуэнт / `",
+                ru:"В ДАННЫЙ МОМЕНТ"
+                },
+                {
+                id:103,
+                eng:"    Как переводится :         ` an airplane / эн Ээрплэйн / `",
+                ru:"САМОЛЁТ"
+                },
+                {
+                id:104,
+                eng:"     Can you translate :       ` paper / пЭйпэ / `",
+                ru:"БУМАГА"
+                },
+                {
+                id:105,
+                eng:" What's the Russian for :   ` an engine / эн Энджин / `",
+                ru:"ДВИГАТЕЛЬ"
+                },
+                {
+                id:106,
+                eng:" Translate from English :   ` fold  `",
+                ru:"СГИБАТЬ"
+                },
+                {
+                id:107,
+                eng:"Translate: ` в Испанию `",
+                ru:"TO SPAIN / спЭин /"
+                },
+                {
+                id:108,
+                eng:"   Как по-английски :   ` от нуля до двенадцати `",
+                ru:"FROM ZERO TO TWELVE "
+                },
+                {
+                id:109,
+                eng:" What's the Russian for :   ` from the end to the beginning   `",
+                ru:"С КОНЦА И ДО НАЧАЛА"
+                },
+                {
+                id:110,
+                eng:"Translate: ` to you from me  `",
+                ru:"ТЕБЕ ОТ МЕНЯ"
+                },
+                {
+                id:111,
+                eng:"Translate: ` run to my house  `",
+                ru:"БЕГИ К МОЕМУ ДОМУ"
+                },
+                {
+                id:112,
+                eng:"Translate: ` налево `",
+                ru:"TO THE LEFT "
+                },
+                {
+                id:113,
+                eng:"What is the English for: ` направо `",
+                ru:"TO THE RIGHT "
+                },
+                {
+                id:114,
+                eng:"What is the English for: ` в офисе я! `",
+                ru:"I'M IN THE OFFICE! "
+                },
+                {
+                id:115,
+                eng:"/ уот из дэ инглиш фо /   ` иду в офис `",
+                ru:"I'M GOING TO THE OFFICE "
+                },
+                {
+                id:116,
+                eng:" Translate from English :   ` I go to office on Mondays  `",
+                ru:"ХОЖУ В ОФИС ПО ПОНЕДЕЛЬНИКАМ"
+                },
+                {
+                id:117,
+                eng:"/ уот из дэ инглиш фо /   ` крылья `",
+                ru:"WINGS / вингz /"
+                },
+                {
+                id:118,
+                eng:"Что на русском значит: ` a tail / э тЭйл / `",
+                ru:"ХВОСТ"
+                },
+
+    ],
+
     m011: [
         {
             id:1,

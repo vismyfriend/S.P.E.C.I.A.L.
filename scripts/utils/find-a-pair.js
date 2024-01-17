@@ -3537,6 +3537,99 @@ const allCardsGameFindAPair = {
             ru:"прогуляться до остановки автобуса"
             },
     ],
+
+    paperPlanes: [
+        {
+            id:1,
+            eng:"right now / райт нау /",
+            ru:"прямо сейчас"
+            },
+            {
+            id:2,
+            eng:"at the moment / эт дыс моуэнт /",
+            ru:"в данный момент"
+            },
+            {
+            id:3,
+            eng:"an airplane / эн Ээрплэйн /",
+            ru:"самолёт"
+            },
+            {
+            id:4,
+            eng:"paper / пЭйпэ /",
+            ru:"бумага"
+            },
+            {
+            id:5,
+            eng:"an engine / эн Энджин /",
+            ru:"двигатель"
+            },
+            {
+            id:6,
+            eng:"fold ",
+            ru:"сгибать"
+            },
+            {
+            id:7,
+            eng:"to Spain / спЭин /",
+            ru:"в Испанию"
+            },
+            {
+            id:8,
+            eng:"from zero to twelve ",
+            ru:"от нуля до двенадцати"
+            },
+            {
+            id:9,
+            eng:"from the end to the beginning ",
+            ru:"с конца и до начала"
+            },
+            {
+            id:10,
+            eng:"to you from me ",
+            ru:"тебе от меня"
+            },
+            {
+            id:11,
+            eng:"run to my house ",
+            ru:"беги к моему дому"
+            },
+            {
+            id:12,
+            eng:"to the left ",
+            ru:"налево"
+            },
+            {
+            id:13,
+            eng:"to the right ",
+            ru:"направо"
+            },
+            {
+            id:14,
+            eng:"I'm in the office! ",
+            ru:"в офисе я!"
+            },
+            {
+            id:15,
+            eng:"I'm going to the office ",
+            ru:"иду в офис"
+            },
+            {
+            id:16,
+            eng:"I go to office on Mondays ",
+            ru:"хожу в офис по понедельникам"
+            },
+            {
+            id:17,
+            eng:"wings / вингz /",
+            ru:"крылья"
+            },
+            {
+            id:18,
+            eng:"a tail / э тЭйл /",
+            ru:"хвост"
+            },
+    ],
   
 
     compareadjectiveser: [
