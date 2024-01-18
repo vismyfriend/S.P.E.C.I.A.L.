@@ -3538,6 +3538,101 @@ const allCardsGameFindAPair = {
             },
     ],
 
+ 
+
+    mirraLada: [
+        {
+            id:14,
+            eng:"I am Mirra",
+            ru:"я Мирра"
+            },
+            {
+            id:15,
+            eng:"my name is Ladoha",
+            ru:"меня зовут Ладоха"
+            },
+            {
+            id:16,
+            eng:"my friend like K-pop very much",
+            ru:"моим друзьям очень нравится К-поп"
+            },
+            {
+            id:17,
+            eng:"we live in Vilnius",
+            ru:"мы живём в Вильнюсе"
+            },
+            {
+            id:18,
+            eng:"you are my teacher",
+            ru:"вы мой учитель"
+            },
+            {
+            id:19,
+            eng:"it is very interesting",
+            ru:"это очень интересно"
+            },
+            {
+            id:20,
+            eng:"it is not boring",
+            ru:"это не скучно"
+            },
+            {
+            id:21,
+            eng:"what is it ?",
+            ru:"что это?"
+            },
+            {
+            id:22,
+            eng:"what is your name?",
+            ru:"как тебя зовут?"
+            },
+            {
+            id:23,
+            eng:"how old are you ?",
+            ru:"сколько тебе лет?"
+            },
+            {
+            id:24,
+            eng:"what is your phone number ?",
+            ru:"какой твой номер телефона?"
+            },
+            {
+            id:25,
+            eng:"my mom works every day",
+            ru:"моя мама работает каждый день"
+            },
+            {
+            id:26,
+            eng:"I don't work because I study in school",
+            ru:"я не работаю, потому что я учусь"
+            },
+            {
+            id:27,
+            eng:"Vincent is the best teacher",
+            ru:"Винсент - лучший учитель"
+            },
+            {
+            id:28,
+            eng:"do you have an airplane ?",
+            ru:"у тебя есть самолёт?"
+            },
+            {
+            id:29,
+            eng:"do you have a copybook ?",
+            ru:"у тебя есть тетрадь?"
+            },
+            {
+            id:30,
+            eng:"does Mirra have a cat?",
+            ru:"у Мирры есть кошка?"
+            },
+            {
+            id:31,
+            eng:"does Lada have a cactus?",
+            ru:"у Лады есть кактус?"
+            },
+    ],
+
     feelGoodSong: [
         {
             id:1,
