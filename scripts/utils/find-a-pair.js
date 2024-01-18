@@ -3538,6 +3538,98 @@ const allCardsGameFindAPair = {
             },
     ],
 
+    feelGoodSong: [
+        {
+            id:1,
+            eng:"sun in the sky / сан ин дэ скай /",
+            ru:"солнце в небе"
+            },
+            {
+            id:2,
+            eng:"dawn / дон /",
+            ru:"рассвет "
+            },
+            {
+            id:3,
+            eng:"It is life / ит из лАйф /",
+            ru:"это жизнь"
+            },
+            {
+            id:4,
+            eng:"we live here / уи лИв хИэ /",
+            ru:"мы живём здесь"
+            },
+            {
+            id:5,
+            eng:"fish in the sea / фиш ин дэ си /",
+            ru:"рыба в море"
+            },
+            {
+            id:6,
+            eng:"river / ривэ /",
+            ru:"река"
+            },
+            {
+            id:7,
+            eng:"blossom  ",
+            ru:"цветение, цвести"
+            },
+            {
+            id:8,
+            eng:"mine. / майн /",
+            ru:"мой (когда в конце предложения)"
+            },
+            {
+            id:9,
+            eng:"dragonfly / дрЭгонфлай /",
+            ru:"стрекоза"
+            },
+            {
+            id:10,
+            eng:"I mean / ай мин /",
+            ru:"я имею ввиду "
+            },
+            {
+            id:11,
+            eng:"butterflies / бАтэфлайz /",
+            ru:"бабочки"
+            },
+            {
+            id:12,
+            eng:"in peace / ин пис /",
+            ru:"в мире, спокойствии"
+            },
+            {
+            id:13,
+            eng:"bold world  / болд уорлд /",
+            ru:"храбрый мир"
+            },
+            {
+            id:14,
+            eng:"have fun ",
+            ru:"веселиться"
+            },
+            {
+            id:15,
+            eng:"shine bright / шайн брайт /",
+            ru:"сиять ярко"
+            },
+            {
+            id:16,
+            eng:"scent of the pine / сЭнт ов дэ пАйн /",
+            ru:"аромат сосны"
+            },
+            {
+            id:17,
+            eng:"freedom / фрИдом /",
+            ru:"свобода"
+            },
+            {
+            id:18,
+            eng:"I'm feeling good ",
+            ru:"я чувствую себя хорошо"
+            },
+    ],
     paperPlanes: [
         {
             id:1,

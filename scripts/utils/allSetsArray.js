@@ -36,6 +36,7 @@ const allSetsArray = [
     "adjectives03",
     "adjectives04",
     "adjectives05",
+    "feelGoodSong",
     "paperPlanes",
     "blockedSet",
 

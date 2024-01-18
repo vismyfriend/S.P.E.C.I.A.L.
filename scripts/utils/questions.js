@@ -4361,6 +4361,189 @@ const allQuestionsOneDeck = {
         },
     ],
    
+    feelGoodSong: [
+        {
+            id:1,
+            eng:"     How do you say :       ` солнце в небе `",
+            ru:"SUN IN THE SKY / сан ин дэ скай /"
+            },
+            {
+            id:2,
+            eng:"What is the English for: ` рассвет  `",
+            ru:"DAWN / дон /"
+            },
+            {
+            id:3,
+            eng:"What is the English for: ` это жизнь `",
+            ru:"IT IS LIFE / ит из лАйф /"
+            },
+            {
+            id:4,
+            eng:"   Как по-английски :   ` мы живём здесь `",
+            ru:"WE LIVE HERE / уи лИв хИэ /"
+            },
+            {
+            id:5,
+            eng:"Как на английском сказать: ` рыба в море `",
+            ru:"FISH IN THE SEA / фиш ин дэ си /"
+            },
+            {
+            id:6,
+            eng:"How do you translate : ` река `",
+            ru:"RIVER / ривэ /"
+            },
+            {
+            id:7,
+            eng:" What's the Russian for :   ` blossom   `",
+            ru:"ЦВЕТЕНИЕ, ЦВЕСТИ "
+            },
+            {
+            id:8,
+            eng:"     Can you translate :       ` mine. / майн / `",
+            ru:"МОЙ (КОГДА В КОНЦЕ ПРЕДЛОЖЕНИЯ) "
+            },
+            {
+            id:9,
+            eng:"What is the English for: ` стрекоза `",
+            ru:"DRAGONFLY / дрЭгонфлай /"
+            },
+            {
+            id:10,
+            eng:"What is the English for: ` я имею ввиду  `",
+            ru:"I MEAN / ай мин /"
+            },
+            {
+            id:11,
+            eng:"What is the English for: ` бабочки `",
+            ru:"BUTTERFLIES / бАтэфлайz /"
+            },
+            {
+            id:12,
+            eng:"    Как переводится :         ` in peace / ин пис / `",
+            ru:"В МИРЕ, СПОКОЙСТВИИ "
+            },
+            {
+            id:13,
+            eng:" What's the Russian for :   ` bold world  / болд уорлд / `",
+            ru:"ХРАБРЫЙ МИР "
+            },
+            {
+            id:14,
+            eng:" What's the Russian for :   ` have fun  `",
+            ru:"ВЕСЕЛИТЬСЯ "
+            },
+            {
+            id:15,
+            eng:"     Can you translate :       ` shine bright / шайн брайт / `",
+            ru:"СИЯТЬ ЯРКО "
+            },
+            {
+            id:16,
+            eng:"     How do you say :       ` аромат сосны `",
+            ru:"SCENT OF THE PINE / сЭнт ов дэ пАйн /"
+            },
+            {
+            id:17,
+            eng:"    Как переводится :         ` freedom / фрИдом / `",
+            ru:"СВОБОДА "
+            },
+            {
+            id:18,
+            eng:"What is the English for: ` я чувствую себя хорошо `",
+            ru:"I'M FEELING GOOD "
+            },
+            {
+                id:101,
+                eng:"    Как переводится :         ` sun in the sky / сан ин дэ скай / `",
+                ru:"СОЛНЦЕ В НЕБЕ"
+                },
+                {
+                id:102,
+                eng:" What's the Russian for :   ` dawn / дон / `",
+                ru:"РАССВЕТ "
+                },
+                {
+                id:103,
+                eng:"    Как переводится :         ` It is life / ит из лАйф / `",
+                ru:"ЭТО ЖИЗНЬ"
+                },
+                {
+                id:104,
+                eng:"     Can you translate :       ` we live here / уи лИв хИэ / `",
+                ru:"МЫ ЖИВЁМ ЗДЕСЬ"
+                },
+                {
+                id:105,
+                eng:" What's the Russian for :   ` fish in the sea / фиш ин дэ си / `",
+                ru:"РЫБА В МОРЕ"
+                },
+                {
+                id:106,
+                eng:" Translate from English :   ` river / ривэ / `",
+                ru:"РЕКА"
+                },
+                {
+                id:107,
+                eng:"Translate: ` цветение, цвести `",
+                ru:"BLOSSOM  "
+                },
+                {
+                id:108,
+                eng:"   Как по-английски :   ` мой (когда в конце предложения) `",
+                ru:"MINE. / майн /"
+                },
+                {
+                id:109,
+                eng:" What's the Russian for :   ` dragonfly / дрЭгонфлай /  `",
+                ru:"СТРЕКОЗА"
+                },
+                {
+                id:110,
+                eng:"Translate: ` I mean / ай мин / `",
+                ru:"Я ИМЕЮ ВВИДУ "
+                },
+                {
+                id:111,
+                eng:"Translate: ` butterflies / бАтэфлайz / `",
+                ru:"БАБОЧКИ"
+                },
+                {
+                id:112,
+                eng:"Translate: ` в мире, спокойствии `",
+                ru:"IN PEACE / ин пис /"
+                },
+                {
+                id:113,
+                eng:"What is the English for: ` храбрый мир `",
+                ru:"BOLD WORLD  / болд уорлд /"
+                },
+                {
+                id:114,
+                eng:"What is the English for: ` веселиться `",
+                ru:"HAVE FUN "
+                },
+                {
+                id:115,
+                eng:"/ уот из дэ инглиш фо /   ` сиять ярко `",
+                ru:"SHINE BRIGHT / шайн брайт /"
+                },
+                {
+                id:116,
+                eng:" Translate from English :   ` scent of the pine / сЭнт ов дэ пАйн / `",
+                ru:"АРОМАТ СОСНЫ"
+                },
+                {
+                id:117,
+                eng:"/ уот из дэ инглиш фо /   ` свобода `",
+                ru:"FREEDOM / фрИдом /"
+                },
+                {
+                id:118,
+                eng:"Что на русском значит: ` I'm feeling good  `",
+                ru:"Я ЧУВСТВУЮ СЕБЯ ХОРОШО"
+                },
+
+    ],
     paperPlanes: [
         {
             id:1,
