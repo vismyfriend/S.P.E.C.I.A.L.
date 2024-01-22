@@ -22340,6 +22340,45 @@ const allQuestionsOneDeck = {
     
   
 }
+// export const allQuestionsSecondDeck = {
+//     devmode1: [
+//         {
+//             id:1,
+//             eng:"Second deck eng: 1",
+//             ru:"THE FIRST second deck"
+//             },
+//             {
+//             id:2,
+//             eng:"Second deck eng: 2",
+//             ru:"THE SECOND second deck"
+//             },
+//             {
+//             id:3,
+//             eng:"Second deck eng: 3",
+//             ru:"THE THIRD second deck"
+//             },
+//             {
+//             id:4,
+//             eng:"Second deck eng: 4",
+//             ru:"THE FOURTH second deck"
+//             },
+//             {
+//             id:5,
+//             eng:"Second deck eng: 5",
+//             ru:"THE FIFTH second deck"
+//             },
+//             {
+//             id:6,
+//             eng:"Second deck eng: 6",
+//             ru:"THE SIXTH second deck"
+//             },
+//             {
+//             id:7,
+//             eng:"Second deck eng: 7",
+//             ru:"THE SEVENTH second deck"
+//             },
+//     ],
+// }
 export default allQuestionsOneDeck
 
 

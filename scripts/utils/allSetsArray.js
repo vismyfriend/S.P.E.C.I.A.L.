@@ -64,6 +64,7 @@ const allSetsArray = [
     "adjectivesCompareQuestions",
     "tagquestions",
     "paperPlanes",
+    "kickAss",
     "feelGoodSong",
     "technologic1a1",
     "technologic2a2",

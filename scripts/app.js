@@ -1,5 +1,6 @@
 import allCardsGameFindAPair from "./utils/find-a-pair.js"
 import allQuestionsOneDeck from "./utils/questions.js"
+// import allQuestionsSecondDeck from "./utils/questions.js"
 import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
 import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
@@ -89,6 +90,7 @@ function doWeHaveThisGame(set) {
     if (!allQuestionsOneDeck[set]) letsSpeak.classList.remove("show")
     if (!quizQuestionsList[set]) multipleChoiceQuiz.classList.remove("show")
     if (!benderWordOrderSentences[set]) BenderWordOrderGameButton.classList.remove("show")
+
    
 }
 
@@ -99,10 +101,10 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
         chooseSet(evt.target.textContent, evt.target.dataset.set)
         getArray(evt.target.dataset.set)
         //уточнить тут все - что такое evt.target
-        chooseSong(evt.target.dataset.set)
         console.log("SET - это весь элемент из HTML =", set)
         console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
-
+        // console.log("вот",allQuestionsSecondDeck)
+        chooseSong(evt.target.dataset.set)
     })
 })
 
