@@ -1503,7 +1503,7 @@ const allQuestionsOneDeck = {
             {
             id:293,
             eng:"say goodbye",
-            ru:"сказать до свидания"
+            ru:"прощаться, сказать 'пока'"
             },
             {
             id:294,
@@ -1842,378 +1842,493 @@ const allQuestionsOneDeck = {
             },
             {
             id:361,
-            eng:"    Как переводится :         ` steal someone's heart  `",
-            ru:"УКРАСТЬ ЧЬЁ-ТО СЕРДЦЕ "
+            eng:"steal someone's heart",
+            ru:"украсть чьё-то сердце"
             },
             {
             id:362,
-            eng:"    Как переводится :         ` stick a poster on the wall  `",
-            ru:"ПРИКЛЕИТЬ ПЛАКАТ НА СТЕНУ "
+            eng:"stick a poster on the wall",
+            ru:"приклеить плакат на стену"
             },
             {
             id:363,
-            eng:"     Can you translate :       ` stick out the tongue and smile  `",
-            ru:"ВЫСУНУТЬ ЯЗЫК И УЛЫБНУТЬСЯ "
+            eng:"stick out the tongue and smile",
+            ru:"высунуть язык и улыбнуться"
             },
             {
             id:364,
-            eng:"     Can you translate :       ` stop crying  `",
-            ru:"ПЕРЕСТАТЬ ПЛАКАТЬ "
+            eng:"stop crying",
+            ru:"перестать плакать"
             },
             {
             id:365,
-            eng:"     Can you translate :       ` stop drinking  `",
-            ru:"ПЕРЕСТАТЬ ПИТЬ "
+            eng:"stop drinking",
+            ru:"перестать пить"
             },
             {
             id:366,
-            eng:" What is the Russian for :   ` stop smoking  `",
-            ru:"ПЕРЕСТАТЬ КУРИТЬ "
+            eng:"stop smoking",
+            ru:"перестать курить"
             },
             {
             id:367,
-            eng:" What is the Russian for :   ` study a lot  `",
-            ru:"МНОГО УЧИТЬСЯ "
+            eng:"study a lot",
+            ru:"много учиться"
             },
             {
             id:368,
-            eng:" What is the Russian for :   ` study hard  `",
-            ru:"УСЕРДНО УЧИТЬСЯ "
+            eng:"study hard",
+            ru:"усердно учиться"
             },
             {
             id:369,
-            eng:"   Как по-английски :   ` изучать, как быть хорошим человеком `",
-            ru:"STUDY HOW TO BE A GOOD PERSON "
+            eng:"study how to be a good person",
+            ru:"изучать, как быть хорошим человеком"
             },
             {
             id:370,
-            eng:"   Как по-английски :   ` материться на кого-то `",
-            ru:"SWEAR AT SOMEONE "
+            eng:"swear at someone",
+            ru:"материться на кого-то"
             },
             {
             id:371,
-            eng:"What is the English for: ` подметать пол `",
-            ru:"SWEEP THE FLOOR "
+            eng:"sweep the floor",
+            ru:"подметать пол"
             },
             {
             id:372,
-            eng:"What is the English for: ` плавать в бассейне `",
-            ru:"SWIM IN A SWIMMING POOL "
+            eng:"swim in a swimming pool",
+            ru:"плавать в бассейне"
             },
             {
             id:373,
-            eng:"What is the English for: ` плавать в океане `",
-            ru:"SWIM IN THE OCEAN "
+            eng:"swim in the ocean",
+            ru:"плавать в океане"
             },
             {
             id:374,
-            eng:"/ уот из дэ инглиш фо /   ` плавать в море `",
-            ru:"SWIM IN THE SEA "
+            eng:"swim in the sea",
+            ru:"плавать в море"
             },
             {
             id:375,
-            eng:"/ уот из дэ инглиш фо /   ` взять бутылку пива `",
-            ru:"TAKE A BOTTLE OF BEER "
+            eng:"take a bottle of beer",
+            ru:"взять бутылку пива"
             },
             {
             id:376,
-            eng:"/ уот из дэ инглиш фо /   ` взять перерыв `",
-            ru:"TAKE A BREAK "
+            eng:"take a break",
+            ru:"взять перерыв"
             },
             {
             id:377,
-            eng:"How do you translate : ` взять выходной `",
-            ru:"TAKE A DAY OFF "
+            eng:"take a day off",
+            ru:"взять выходной"
             },
             {
             id:378,
-            eng:"How do you translate : ` сделать фотографию, сфотографироваться `",
-            ru:"TAKE A PHOTO "
+            eng:"take a photo",
+            ru:"сделать фотографию, сфотографироваться"
             },
             {
             id:379,
-            eng:"How do you translate : ` принимать душ `",
-            ru:"TAKE A SHOWER "
+            eng:"take a shower",
+            ru:"принимать душ"
             },
             {
             id:380,
-            eng:"     How do you say :       ` принять душ `",
-            ru:"TAKE A SHOWER "
+            eng:"take a shower",
+            ru:"принять душ"
             },
             {
             id:381,
-            eng:"     How do you say :       ` разговаривать по телефону `",
-            ru:"TALK ON THE PHONE "
+            eng:"talk on the phone",
+            ru:"разговаривать по телефону"
             },
             {
             id:382,
-            eng:"     How do you say :       ` поговорить с кем-то безумным `",
-            ru:"TALK TO SOME CRAZY PEOPLE "
+            eng:"talk to some crazy people",
+            ru:"поговорить с кем-то безумным"
             },
             {
             id:383,
-            eng:"    Как переводится :         ` talk with important people  `",
-            ru:"ОБЩАТЬСЯ СО ЗНАЧИМЫМИ ЛЮДЬМИ "
+            eng:"talk with important people",
+            ru:"общаться со значимыми людьми"
             },
             {
             id:384,
-            eng:"    Как переводится :         ` teach somebody English  `",
-            ru:"ПРЕПОДАВАТЬ КОМУ-ТО АНГЛИЙСКИЙ "
+            eng:"teach somebody English",
+            ru:"преподавать кому-то английский"
             },
             {
             id:385,
-            eng:"    Как переводится :         ` teach somebody to do something  `",
-            ru:"ОБУЧИТЬ КОГО-ТО ДЕЛАТЬ ЧТО-ТО "
+            eng:"teach somebody to do something",
+            ru:"обучить кого-то делать что-то"
             },
             {
             id:386,
-            eng:"     Can you translate :       ` teach Vincent to smoke  `",
-            ru:"НАУЧИТЬ ВИНСЕНТА КУРИТЬ "
+            eng:"teach Vincent to smoke",
+            ru:"научить Винсента курить"
             },
             {
             id:387,
-            eng:"     Can you translate :       ` tear my copybook  `",
-            ru:"ПОРВАТЬ МОЮ ТЕТРАДЬ "
+            eng:"tear my copybook",
+            ru:"порвать мою тетрадь"
             },
             {
             id:388,
-            eng:"     Can you translate :       ` tear paper into pieces  `",
-            ru:"ПОРВАТЬ БУМАГУ НА КУСОЧКИ "
+            eng:"tear paper into pieces",
+            ru:"порвать бумагу на кусочки"
             },
             {
             id:389,
-            eng:" What is the Russian for :   ` tell a joke  `",
-            ru:"РАССКАЗЫВАТЬ ШУТКУ "
+            eng:"tell a joke",
+            ru:"рассказывать шутку"
             },
             {
             id:390,
-            eng:" What is the Russian for :   ` tell a lie  `",
-            ru:"НАВРАТЬ, СОЛГАТЬ "
+            eng:"tell a lie",
+            ru:"наврать, солгать"
             },
             {
             id:391,
-            eng:" What is the Russian for :   ` tell a secret  `",
-            ru:"РАССКАЗАТЬ СЕКРЕТ "
+            eng:"tell a secret",
+            ru:"рассказать секрет"
             },
             {
             id:392,
-            eng:"   Как по-английски :   ` рассказать всем о моих секретах `",
-            ru:"TELL EVERYBODY ABOUT MY SECRETS "
+            eng:"tell everybody about my secrets",
+            ru:"рассказать всем о моих секретах"
             },
             {
             id:393,
-            eng:"   Как по-английски :   ` рассказать правду `",
-            ru:"TELL THE TRUTH "
+            eng:"tell the truth",
+            ru:"рассказать правду"
             },
             {
             id:394,
-            eng:"What is the English for: ` думать о чем-то `",
-            ru:"THINK ABOUT SOMETHING "
+            eng:"think about something",
+            ru:"думать о чем-то"
             },
             {
             id:395,
-            eng:"What is the English for: ` думать нестандартно, креативно, вне рамок `",
-            ru:"THINK OUTSIDE THE BOX "
+            eng:"think outside the box",
+            ru:"думать нестандартно, креативно, вне рамок"
             },
             {
             id:396,
-            eng:"What is the English for: ` кинуть мяч `",
-            ru:"THROW A BALL "
+            eng:"throw a ball",
+            ru:"кинуть мяч"
             },
             {
             id:397,
-            eng:"/ уот из дэ инглиш фо /   ` устроить вечеринку `",
-            ru:"THROW A PARTY "
+            eng:"throw a party",
+            ru:"устроить вечеринку"
             },
             {
             id:398,
-            eng:"/ уот из дэ инглиш фо /   ` выьросить мусор `",
-            ru:"THROW AWAY TRASH "
+            eng:"throw away trash",
+            ru:"выьросить мусор"
             },
             {
             id:399,
-            eng:"/ уот из дэ инглиш фо /   ` бросить что-то в воду `",
-            ru:"THROW SOMETHING INTO THE WATER "
+            eng:"throw something into the water",
+            ru:"бросить что-то в воду"
             },
             {
             id:400,
-            eng:"How do you translate : ` трогать пупок `",
-            ru:"TOUCH A BELLYBUTTON "
+            eng:"touch a bellybutton",
+            ru:"трогать пупок"
             },
             {
             id:401,
-            eng:"How do you translate : ` коснуться, прикоснуться к кому-то `",
-            ru:"TOUCH SOMEBODY "
+            eng:"touch somebody",
+            ru:"коснуться, прикоснуться к кому-то"
             },
             {
             id:402,
-            eng:"How do you translate : ` попытаться понять жизнь `",
-            ru:"TRY TO UNDERSTAND THIS LIFE "
+            eng:"try to understand this life",
+            ru:"попытаться понять жизнь"
             },
             {
             id:403,
-            eng:"     How do you say :       ` использовать время с умом, мудро, разумно `",
-            ru:"USE TIME WISELY "
+            eng:"use time wisely",
+            ru:"использовать время с умом, мудро, разумно"
             },
             {
             id:404,
-            eng:"     How do you say :       ` проснуться и сделать зарядку `",
-            ru:"WAKE UP AND DO EXERCISES "
+            eng:"wake up and do exercises",
+            ru:"проснуться и сделать зарядку"
             },
             {
             id:405,
-            eng:"     How do you say :       ` проснуться и рассказать всем о моих снах `",
-            ru:"WAKE UP AND TELL EVERYBODY ABOUT MY DREAMS "
+            eng:"wake up and tell everybody about my dreams",
+            ru:"проснуться и рассказать всем о моих снах"
             },
             {
             id:406,
-            eng:"    Как переводится :         ` walk with a dog  `",
-            ru:"ГУЛЯТЬ С СОБАКОЙ "
+            eng:"walk with a dog",
+            ru:"гулять с собакой"
             },
             {
             id:407,
-            eng:"    Как переводится :         ` wash a car  `",
-            ru:"МЫТЬ МАШИНУ "
+            eng:"wash a car",
+            ru:"мыть машину"
             },
             {
             id:408,
-            eng:"    Как переводится :         ` wash all body  `",
-            ru:"ПОМЫТЬ ВСЁ ТЕЛО "
+            eng:"wash all body",
+            ru:"помыть всё тело"
             },
             {
             id:409,
-            eng:"     Can you translate :       ` wash face  `",
-            ru:"ПОМЫТЬ ЛИЦО "
+            eng:"wash face",
+            ru:"помыть лицо"
             },
             {
             id:410,
-            eng:"     Can you translate :       ` wash floors  `",
-            ru:"МЫТЬ ПОЛЫ "
+            eng:"wash floors",
+            ru:"мыть полы"
             },
             {
             id:411,
-            eng:"     Can you translate :       ` wash hands  `",
-            ru:"ПОМЫТЬ РУКИ "
+            eng:"wash hands",
+            ru:"помыть руки"
             },
             {
             id:412,
-            eng:" What is the Russian for :   ` wash my bottom  `",
-            ru:"ПОМЫТЬ СВОЮ ПОПУ "
+            eng:"wash my bottom",
+            ru:"помыть свою попу"
             },
             {
             id:413,
-            eng:" What is the Russian for :   ` wash the body  `",
-            ru:"МЫТЬ ТЕЛО "
+            eng:"wash the body",
+            ru:"мыть тело"
             },
             {
             id:414,
-            eng:" What is the Russian for :   ` wash Vincent's car  `",
-            ru:"ПОМЫТЬ ВИНСЕНТУ МАШИНУ "
+            eng:"wash Vincent's car",
+            ru:"помыть Винсенту машину"
             },
             {
             id:415,
-            eng:"   Как по-английски :   ` посмотреть фильм `",
-            ru:"WATCH A MOVIE "
+            eng:"watch a movie",
+            ru:"посмотреть фильм"
             },
             {
             id:416,
-            eng:"   Как по-английски :   ` смотреть фильмы для взрослых `",
-            ru:"WATCH FILMS FOR ADULTS "
+            eng:"watch films for adults",
+            ru:"смотреть фильмы для взрослых"
             },
             {
             id:417,
-            eng:"What is the English for: ` смотреть TikTok `",
-            ru:"WATCH TIKTOK "
+            eng:"watch TikTok",
+            ru:"смотреть TikTok"
             },
             {
             id:418,
-            eng:"What is the English for: ` смотреть телевизор `",
-            ru:"WATCH TV "
+            eng:"watch TV",
+            ru:"смотреть телевизор"
             },
             {
             id:419,
-            eng:"What is the English for: ` смотреть YouTube `",
-            ru:"WATCH YOUTUBE "
+            eng:"watch YouTube",
+            ru:"смотреть YouTube"
             },
             {
             id:420,
-            eng:"/ уот из дэ инглиш фо /   ` носить шляпу или шапку `",
-            ru:"WEAR A HAT "
+            eng:"wear a hat",
+            ru:"носить шляпу или шапку"
             },
             {
             id:421,
-            eng:"/ уот из дэ инглиш фо /   ` носить одежду щиворот на выворот `",
-            ru:"WEAR CLOTHES INSIDE OUT "
+            eng:"wear clothes inside out",
+            ru:"носить одежду щиворот на выворот"
             },
             {
             id:422,
-            eng:"/ уот из дэ инглиш фо /   ` надеть удобную обувь `",
-            ru:"WEAR COMFORTABLE SHOES "
+            eng:"wear comfortable shoes",
+            ru:"надеть удобную обувь"
             },
             {
             id:423,
-            eng:"How do you translate : ` нанести солнцезащитный крем `",
-            ru:"WEAR SUNSCREEN "
+            eng:"wear sunscreen",
+            ru:"нанести солнцезащитный крем"
             },
             {
             id:424,
-            eng:"How do you translate : ` выиграть соревнование `",
-            ru:"WIN A COMPETITION "
+            eng:"win a competition",
+            ru:"выиграть соревнование"
             },
             {
             id:425,
-            eng:"How do you translate : ` выиграть дебаты `",
-            ru:"WIN A DEBATE "
+            eng:"win a debate",
+            ru:"выиграть дебаты"
             },
             {
             id:426,
-            eng:"     How do you say :       ` выиграть игру `",
-            ru:"WIN A GAME "
+            eng:"win a game",
+            ru:"выиграть игру"
             },
             {
             id:427,
-            eng:"     How do you say :       ` выиграть приз `",
-            ru:"WIN A PRIZE "
+            eng:"win a prize",
+            ru:"выиграть приз"
             },
             {
             id:428,
-            eng:"     How do you say :       ` усердно работать `",
-            ru:"WORK HARD "
+            eng:"work hard",
+            ru:"усердно работать"
             },
             {
             id:429,
-            eng:"    Как переводится :         ` work on a computer  `",
-            ru:"РАБОТАТЬ НА КОМПЬЮТЕРЕ "
+            eng:"work on a computer",
+            ru:"работать на компьютере"
             },
             {
             id:430,
-            eng:"    Как переводится :         ` write a book  `",
-            ru:"НАПИСАТЬ КНИГУ "
+            eng:"write a book",
+            ru:"написать книгу"
             },
             {
             id:431,
-            eng:"    Как переводится :         ` write a letter  `",
-            ru:"НАПИСАТЬ ПИСЬМО "
+            eng:"write a letter",
+            ru:"написать письмо"
             },
             {
             id:432,
-            eng:"     Can you translate :       ` write a poem  `",
-            ru:"НАПИСАТЬ СТИХ "
+            eng:"write a poem",
+            ru:"написать стих"
             },
             {
             id:433,
-            eng:"     Can you translate :       ` write a report  `",
-            ru:"НАПИСАТЬ ОТЧЕТ "
+            eng:"write a report",
+            ru:"написать отчет"
             },
             {
             id:434,
-            eng:"     Can you translate :       ` write a song  `",
-            ru:"НАПИСАТЬ ПЕСНЮ "
+            eng:"write a song",
+            ru:"написать песню"
             },
             {
             id:435,
-            eng:" What is the Russian for :   ` write dirty comments under somebody's post  `",
-            ru:"ПИСАТЬ ГРЯЗНЫЕ КОММЕНТАРИИ ПОД ЧЬИМ-ТО ПОСТОМ "
+            eng:"write dirty comments under somebody's post",
+            ru:"писать грязные комментарии под чьим-то постом"
+            },
+            {
+            id:436,
+            eng:"fix something",
+            ru:"чинить что-нибудь"
+            },
+            {
+            id:437,
+            eng:"jump on a bed",
+            ru:"прыгать на кровати"
+            },
+            {
+            id:438,
+            eng:"look from the window",
+            ru:"смотреть из окна"
+            },
+            {
+            id:439,
+            eng:"look at the sky",
+            ru:"смотреть на небо"
+            },
+            {
+            id:440,
+            eng:"look in the mirror",
+            ru:"смотреть в зеркало"
+            },
+            {
+            id:441,
+            eng:"destroy the world",
+            ru:"уничтожить мир"
+            },
+            {
+            id:442,
+            eng:"try to smoke",
+            ru:"попробовать курить"
+            },
+            {
+            id:443,
+            eng:"turn ON a TV and relax",
+            ru:"включить телек и расслабиться"
+            },
+            {
+            id:444,
+            eng:"walk in a park",
+            ru:"гулять в парке"
+            },
+            {
+            id:445,
+            eng:"walk to the beach",
+            ru:"прогуляться до пляжа"
+            },
+            {
+            id:446,
+            eng:"wait for a taxi",
+            ru:"ждать такси"
+            },
+            {
+            id:447,
+            eng:"wait for a miracle",
+            ru:"ждать чуда"
+            },
+            {
+            id:448,
+            eng:"kill some time",
+            ru:"убить немного времени"
+            },
+            {
+            id:449,
+            eng:"kill a cocroach",
+            ru:"убить таракана"
+            },
+            {
+            id:450,
+            eng:"open a window",
+            ru:"открыть окно"
+            },
+            {
+            id:451,
+            eng:"close a window",
+            ru:"закрыть окно"
+            },
+            {
+            id:452,
+            eng:"close my mouth",
+            ru:"закрыть мой рот"
+            },
+            {
+            id:453,
+            eng:"push doors",
+            ru:"оттолкнуть двери от себя"
+            },
+            {
+            id:454,
+            eng:"push somebody",
+            ru:"толкнуть кого-нибудь"
+            },
+            {
+            id:455,
+            eng:"pull doors",
+            ru:"потянуть двери на себя"
+            },
+            {
+            id:456,
+            eng:"press some buttons",
+            ru:"нажать какие-нибудь кнопки"
+            },
+            {
+            id:457,
+            eng:"touch someone's hair",
+            ru:"прикоснуться к чьим-то волосам"
+            },
+            {
+            id:458,
+            eng:"walk on a beach",
+            ru:"погулять по пляжу"
             },
     ],
     m004: [
