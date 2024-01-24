@@ -10670,7 +10670,7 @@ const allCardsGameFindAPair = {
             ru: "la butaca"
         },
     ],
-    spanish24: [
+    spanish24saberpoder: [
         {
             id:1,
             eng:"exclamaciones ",

@@ -22144,7 +22144,7 @@ const allQuestionsOneDeck = {
             ru: "Кого ты слушаешь?"
         },
     ],
-    spanish24: [
+    spanish24saberpoder: [
         {
             id:1,
             eng:"Traduce este, por favor : ` восклицания `",

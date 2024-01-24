@@ -80,7 +80,8 @@ const allSetsArray = [
     "spanish01",
     "spanish02",
     "spanish23",
-    "spanish24",
+    "spanish24saberpoder",
+    "spanish25",
     "randomverb",
   
     
