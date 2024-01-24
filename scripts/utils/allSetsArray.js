@@ -65,6 +65,7 @@ const allSetsArray = [
     "tagquestions",
     "paperPlane1",
     "paperPlane2",
+    "paperPlane3",
     "kickAss",
     "feelGoodSong",
     "technologic1a1",
