@@ -63,7 +63,8 @@ const allSetsArray = [
     "winterquestions",
     "adjectivesCompareQuestions",
     "tagquestions",
-    "paperPlanes",
+    "paperPlane1",
+    "paperPlane2",
     "kickAss",
     "feelGoodSong",
     "technologic1a1",
@@ -79,6 +80,7 @@ const allSetsArray = [
     "spanish01",
     "spanish02",
     "spanish23",
+    "spanish24",
     "randomverb",
   
     

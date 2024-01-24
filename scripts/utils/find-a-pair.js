@@ -8497,7 +8497,7 @@ const allCardsGameFindAPair = {
             ru:"я чувствую себя хорошо"
             },
     ],
-    paperPlanes: [
+    paperPlane1: [
         {
             id:1,
             eng:"right now / райт нау /",
@@ -8587,6 +8587,123 @@ const allCardsGameFindAPair = {
             id:18,
             eng:"a tail / э тЭйл /",
             ru:"хвост"
+            },
+    ],
+    paperPlane2: [
+        {
+            id:1,
+            eng:"on foot / он фут /",
+            ru:"пешком"
+            },
+            {
+            id:2,
+            eng:"by plane / бай плэйн /",
+            ru:"на самолёте"
+            },
+            {
+            id:3,
+            eng:"by train / бай трэйн /",
+            ru:"на поезде"
+            },
+            {
+            id:4,
+            eng:"by tram / бай трэм /",
+            ru:"на трамвае"
+            },
+            {
+            id:5,
+            eng:"soon / сун /",
+            ru:"скоро"
+            },
+            {
+            id:6,
+            eng:"later / лЭйтэ /",
+            ru:"позже, потом"
+            },
+            {
+            id:7,
+            eng:"in 2 days / ин ту дэйz /",
+            ru:"через два дня"
+            },
+            {
+            id:8,
+            eng:"next week / нэкст вик /",
+            ru:"на следующей неделе"
+            },
+            {
+            id:9,
+            eng:"in a month / ин э мАнтh /",
+            ru:"через месяц"
+            },
+            {
+            id:10,
+            eng:"next life / нэкст лАйф /",
+            ru:" следующей жизни"
+            },
+            {
+            id:11,
+            eng:"in an hour / ин эн Ауэ /",
+            ru:"через час"
+            },
+            {
+            id:12,
+            eng:"the day after tomorrow ",
+            ru:"послезавтра"
+            },
+            {
+            id:13,
+            eng:"after dinner ",
+            ru:"после ужина"
+            },
+            {
+            id:14,
+            eng:"on the first / он дэ фёст /",
+            ru:"первого числа"
+            },
+            {
+            id:15,
+            eng:"on the second / он дэ сэконд /",
+            ru:"второго числа"
+            },
+            {
+            id:16,
+            eng:"on the third / он дэ thёрд /",
+            ru:"третьего числа"
+            },
+            {
+            id:17,
+            eng:"on the fifth / он дэ фИфтh /",
+            ru:"пятого числа"
+            },
+            {
+            id:18,
+            eng:"in February / ин фЭбрари /",
+            ru:"в феврале"
+            },
+            {
+            id:19,
+            eng:"in winter / ин уинтэ /",
+            ru:"зимой"
+            },
+            {
+            id:20,
+            eng:"on the twenty-first of February ",
+            ru:"двадцать первого февраля"
+            },
+            {
+            id:21,
+            eng:"on the weekends ",
+            ru:"на выходных"
+            },
+            {
+            id:22,
+            eng:"at night / эт найт /",
+            ru:"ночью"
+            },
+            {
+            id:23,
+            eng:"tonight / тунайт /",
+            ru:"сегодня вечером"
             },
     ],
     kickAss: [
@@ -10552,6 +10669,153 @@ const allCardsGameFindAPair = {
             eng: "кресло",
             ru: "la butaca"
         },
+    ],
+    spanish24: [
+        {
+            id:1,
+            eng:"exclamaciones ",
+            ru:"восклицания"
+            },
+            {
+            id:2,
+            eng:"¿Puedo salir? ",
+            ru:"могу выйти?"
+            },
+            {
+            id:3,
+            eng:"¿Puedo entrar? ",
+            ru:"могу выйти?"
+            },
+            {
+            id:4,
+            eng:"entrar en ",
+            ru:"входить в"
+            },
+            {
+            id:5,
+            eng:"saber ",
+            ru:"знать что-то, уметь что-то"
+            },
+            {
+            id:6,
+            eng:"poder ",
+            ru:"мочь физическая возможность"
+            },
+            {
+            id:7,
+            eng:"querer ",
+            ru:"любить кого-то, хотеть чего-то"
+            },
+            {
+            id:8,
+            eng:"no lo sé ",
+            ru:"я этого не знаю"
+            },
+            {
+            id:9,
+            eng:"nadar ",
+            ru:"плавать"
+            },
+            {
+            id:10,
+            eng:"(no) se puede ",
+            ru:"нельзя или можно"
+            },
+            {
+            id:11,
+            eng:"tocar la guitarra ",
+            ru:"играть на гитаре"
+            },
+            {
+            id:12,
+            eng:"esquiar ",
+            ru:"кататься на лыжах"
+            },
+            {
+            id:13,
+            eng:"jugar al fútbol ",
+            ru:"играть в футбол"
+            },
+            {
+            id:14,
+            eng:"cocinar ",
+            ru:"готовить"
+            },
+            {
+            id:15,
+            eng:"tocar el piano ",
+            ru:"играть на пианино"
+            },
+            {
+            id:16,
+            eng:"patinar ",
+            ru:"кататься на коньках"
+            },
+            {
+            id:17,
+            eng:"jugar al tenis ",
+            ru:"играть в тенис"
+            },
+            {
+            id:18,
+            eng:"el ascensor ",
+            ru:"лифт"
+            },
+            {
+            id:19,
+            eng:"coger ",
+            ru:"брать"
+            },
+            {
+            id:20,
+            eng:"pongo ",
+            ru:"кладу, ставлю"
+            },
+            {
+            id:21,
+            eng:"la cosa ",
+            ru:"вещь"
+            },
+            {
+            id:22,
+            eng:"junto a ",
+            ru:"рядом с"
+            },
+            {
+            id:23,
+            eng:"fragil ",
+            ru:"хрупкий"
+            },
+            {
+            id:24,
+            eng:"el camion ",
+            ru:"грузовик"
+            },
+            {
+            id:25,
+            eng:"el ordenador ",
+            ru:"компьютер"
+            },
+            {
+            id:26,
+            eng:"a ver ",
+            ru:"так, посмотрим"
+            },
+            {
+            id:27,
+            eng:"el rincon ",
+            ru:"угол"
+            },
+            {
+            id:28,
+            eng:"¿Qué queréis? ",
+            ru:"Чего вы хотите?"
+            },
+            {
+            id:29,
+            eng:"Se puede fumar aquí ",
+            ru:"Здесь можно курить."
+            },
     ],
    
 

@@ -20477,7 +20477,7 @@ const allQuestionsOneDeck = {
                 },
 
     ],
-    paperPlanes: [
+    paperPlane1: [
         {
             id:1,
             eng:"     How do you say :       ` прямо сейчас `",
@@ -20777,6 +20777,239 @@ const allQuestionsOneDeck = {
                 id:118,
                 eng:"Что на русском значит: ` a tail / э тЭйл / `",
                 ru:"ХВОСТ"
+                },
+
+    ],
+    paperPlane2: [
+        {
+            id:1,
+            eng:"     How do you say :       ` пешком `",
+            ru:"ON FOOT / он фут /"
+            },
+            {
+            id:2,
+            eng:"What is the English for: ` на самолёте `",
+            ru:"BY PLANE / бай плэйн /"
+            },
+            {
+            id:3,
+            eng:"What is the English for: ` на поезде `",
+            ru:"BY TRAIN / бай трэйн /"
+            },
+            {
+            id:4,
+            eng:"   Как по-английски :   ` на трамвае `",
+            ru:"BY TRAM / бай трэм /"
+            },
+            {
+            id:5,
+            eng:"Как на английском сказать: ` скоро `",
+            ru:"SOON / сун /"
+            },
+            {
+            id:6,
+            eng:"How do you translate : ` позже, потом `",
+            ru:"LATER / лЭйтэ /"
+            },
+            {
+            id:7,
+            eng:" What's the Russian for :   ` in 2 days / ин ту дэйz / `",
+            ru:"ЧЕРЕЗ ДВА ДНЯ "
+            },
+            {
+            id:8,
+            eng:"     Can you translate :       ` next week / нэкст вик / `",
+            ru:"НА СЛЕДУЮЩЕЙ НЕДЕЛЕ "
+            },
+            {
+            id:9,
+            eng:"What is the English for: ` через месяц `",
+            ru:"IN A MONTH / ин э мАнтh /"
+            },
+            {
+            id:10,
+            eng:"What is the English for: `  следующей жизни `",
+            ru:"NEXT LIFE / нэкст лАйф /"
+            },
+            {
+            id:11,
+            eng:"What is the English for: ` через час `",
+            ru:"IN AN HOUR / ин эн Ауэ /"
+            },
+            {
+            id:12,
+            eng:"    Как переводится :         ` the day after tomorrow  `",
+            ru:"ПОСЛЕЗАВТРА "
+            },
+            {
+            id:13,
+            eng:" What's the Russian for :   ` after dinner  `",
+            ru:"ПОСЛЕ УЖИНА "
+            },
+            {
+            id:14,
+            eng:" What's the Russian for :   ` on the first / он дэ фёст / `",
+            ru:"ПЕРВОГО ЧИСЛА "
+            },
+            {
+            id:15,
+            eng:"     Can you translate :       ` on the second / он дэ сэконд / `",
+            ru:"ВТОРОГО ЧИСЛА "
+            },
+            {
+            id:16,
+            eng:"     How do you say :       ` третьего числа `",
+            ru:"ON THE THIRD / он дэ thёрд /"
+            },
+            {
+            id:17,
+            eng:"    Как переводится :         ` on the fifth / он дэ фИфтh / `",
+            ru:"ПЯТОГО ЧИСЛА "
+            },
+            {
+            id:18,
+            eng:"What is the English for: ` в феврале `",
+            ru:"IN FEBRUARY / ин фЭбрари /"
+            },
+            {
+            id:19,
+            eng:"What is the English for: ` зимой `",
+            ru:"IN WINTER / ин уинтэ /"
+            },
+            {
+            id:20,
+            eng:"   Как по-английски :   ` двадцать первого февраля `",
+            ru:"ON THE TWENTY-FIRST OF FEBRUARY "
+            },
+            {
+            id:21,
+            eng:"How do you translate : ` на выходных `",
+            ru:"ON THE WEEKENDS "
+            },
+            {
+            id:22,
+            eng:"     How do you say :       ` ночью `",
+            ru:"AT NIGHT / эт найт /"
+            },
+            {
+            id:23,
+            eng:"    Как переводится :         ` tonight / тунайт / `",
+            ru:"СЕГОДНЯ ВЕЧЕРОМ "
+            },
+            {
+                id:101,
+                eng:"    Как переводится :         ` on foot / он фут / `",
+                ru:"ПЕШКОМ"
+                },
+                {
+                id:102,
+                eng:" What's the Russian for :   ` by plane / бай плэйн / `",
+                ru:"НА САМОЛЁТЕ"
+                },
+                {
+                id:103,
+                eng:"    Как переводится :         ` by train / бай трэйн / `",
+                ru:"НА ПОЕЗДЕ"
+                },
+                {
+                id:104,
+                eng:"     Can you translate :       ` by tram / бай трэм / `",
+                ru:"НА ТРАМВАЕ"
+                },
+                {
+                id:105,
+                eng:" What's the Russian for :   ` soon / сун / `",
+                ru:"СКОРО"
+                },
+                {
+                id:106,
+                eng:" Translate from English :   ` later / лЭйтэ / `",
+                ru:"ПОЗЖЕ, ПОТОМ"
+                },
+                {
+                id:107,
+                eng:"Translate: ` через два дня `",
+                ru:"IN 2 DAYS / ин ту дэйz /"
+                },
+                {
+                id:108,
+                eng:"   Как по-английски :   ` на следующей неделе `",
+                ru:"NEXT WEEK / нэкст вик /"
+                },
+                {
+                id:109,
+                eng:" What's the Russian for :   ` in a month / ин э мАнтh /  `",
+                ru:"ЧЕРЕЗ МЕСЯЦ"
+                },
+                {
+                id:110,
+                eng:"Translate: ` next life / нэкст лАйф / `",
+                ru:" СЛЕДУЮЩЕЙ ЖИЗНИ"
+                },
+                {
+                id:111,
+                eng:"Translate: ` in an hour / ин эн Ауэ / `",
+                ru:"ЧЕРЕЗ ЧАС"
+                },
+                {
+                id:112,
+                eng:"Translate: ` послезавтра `",
+                ru:"THE DAY AFTER TOMORROW "
+                },
+                {
+                id:113,
+                eng:"What is the English for: ` после ужина `",
+                ru:"AFTER DINNER "
+                },
+                {
+                id:114,
+                eng:"What is the English for: ` первого числа `",
+                ru:"ON THE FIRST / он дэ фёст /"
+                },
+                {
+                id:115,
+                eng:"/ уот из дэ инглиш фо /   ` второго числа `",
+                ru:"ON THE SECOND / он дэ сэконд /"
+                },
+                {
+                id:116,
+                eng:" Translate from English :   ` on the third / он дэ thёрд / `",
+                ru:"ТРЕТЬЕГО ЧИСЛА"
+                },
+                {
+                id:117,
+                eng:"/ уот из дэ инглиш фо /   ` пятого числа `",
+                ru:"ON THE FIFTH / он дэ фИфтh /"
+                },
+                {
+                id:118,
+                eng:"Что на русском значит: ` in February / ин фЭбрари / `",
+                ru:"В ФЕВРАЛЕ"
+                },
+                {
+                id:119,
+                eng:"   What does it mean :     ` in winter / ин уинтэ / `",
+                ru:"ЗИМОЙ"
+                },
+                {
+                id:120,
+                eng:"Что на русском значит: ` on the twenty-first of February  `",
+                ru:"ДВАДЦАТЬ ПЕРВОГО ФЕВРАЛЯ"
+                },
+                {
+                id:121,
+                eng:"       Что значит :            ` on the weekends  `",
+                ru:"НА ВЫХОДНЫХ"
+                },
+                {
+                id:122,
+                eng:"   What does it mean :     ` at night / эт найт / `",
+                ru:"НОЧЬЮ"
+                },
+                {
+                id:123,
+                eng:"Как бы ты перевел(а) : ` сегодня вечером `",
+                ru:"TONIGHT / тунайт /"
                 },
 
     ],
@@ -21910,6 +22143,258 @@ const allQuestionsOneDeck = {
             eng: "Quien a escuchas?",
             ru: "Кого ты слушаешь?"
         },
+    ],
+    spanish24: [
+        {
+            id:1,
+            eng:"Traduce este, por favor : ` восклицания `",
+            ru:"EXCLAMACIONES "
+            },
+            {
+            id:2,
+            eng:"Traduce este, por favor : ` могу выйти? `",
+            ru:"¿PUEDO SALIR? "
+            },
+            {
+            id:3,
+            eng:"Traduce este, por favor : ` могу выйти? `",
+            ru:"¿PUEDO ENTRAR? "
+            },
+            {
+            id:4,
+            eng:"Traduce este, por favor : ` входить в `",
+            ru:"ENTRAR EN "
+            },
+            {
+            id:5,
+            eng:"Traduce este, por favor : ` знать что-то, уметь что-то `",
+            ru:"sé, sabes, sabe sabemos, sabéis, saben"
+            },
+            {
+            id:6,
+            eng:"Traduce este, por favor : ` мочь физическая возможность `",
+            ru:"puedo, puedos, puedo, podemos, podéis, pueden"
+            },
+            {
+            id:7,
+            eng:"Traduce este, por favor : ` любить кого-то, хотеть чего-то `",
+            ru:"quiro, quieres, quiere, queremos, queréis, quieren"
+            },
+            {
+            id:8,
+            eng:"Traduce este, por favor : ` я этого не знаю `",
+            ru:"NO LO SÉ "
+            },
+            {
+            id:9,
+            eng:"Traduce este, por favor : ` плавать `",
+            ru:"NADAR "
+            },
+            {
+            id:10,
+            eng:"Traduce este, por favor : ` нельзя или можно `",
+            ru:"(NO) SE PUEDE "
+            },
+            {
+            id:11,
+            eng:"Traduce este, por favor : ` играть на гитаре `",
+            ru:"TOCAR LA GUITARRA "
+            },
+            {
+            id:12,
+            eng:"Traduce este, por favor : ` кататься на лыжах `",
+            ru:"ESQUIAR "
+            },
+            {
+            id:13,
+            eng:"Traduce este, por favor : ` играть в футбол `",
+            ru:"JUGAR AL FÚTBOL "
+            },
+            {
+            id:14,
+            eng:"Traduce este, por favor : ` готовить `",
+            ru:"COCINAR "
+            },
+            {
+            id:15,
+            eng:"Traduce este, por favor : ` играть на пианино `",
+            ru:"TOCAR EL PIANO "
+            },
+            {
+            id:16,
+            eng:"Traduce este, por favor : ` кататься на коньках `",
+            ru:"PATINAR "
+            },
+            {
+            id:17,
+            eng:"Traduce este, por favor : ` играть в тенис `",
+            ru:"JUGAR AL TENIS "
+            },
+            {
+            id:18,
+            eng:"Traduce este, por favor : ` лифт `",
+            ru:"EL ASCENSOR "
+            },
+            {
+            id:19,
+            eng:"Traduce este, por favor : ` брать `",
+            ru:"COGER "
+            },
+            {
+            id:20,
+            eng:"Traduce este, por favor : ` кладу, ставлю `",
+            ru:"PONGO "
+            },
+            {
+            id:21,
+            eng:"Traduce este, por favor : ` вещь `",
+            ru:"LA COSA "
+            },
+            {
+            id:22,
+            eng:"Traduce este, por favor : ` рядом с `",
+            ru:"JUNTO A "
+            },
+            {
+            id:23,
+            eng:"Traduce este, por favor : ` хрупкий `",
+            ru:"FRAGIL "
+            },
+            {
+            id:24,
+            eng:"Traduce este, por favor : ` грузовик `",
+            ru:"EL CAMION "
+            },
+            {
+            id:25,
+            eng:"Traduce este, por favor : ` компьютер `",
+            ru:"EL ORDENADOR "
+            },
+            {
+            id:26,
+            eng:"Traduce este, por favor : ` так, посмотрим `",
+            ru:"A VER "
+            },
+            {
+            id:27,
+            eng:"Traduce este, por favor : ` угол `",
+            ru:"EL RINCON "
+            },
+            {
+            id:28,
+            eng:"Traduce este, por favor : ` Чего вы хотите? `",
+            ru:"¿QUÉ QUERÉIS? "
+            },
+            {
+            id:29,
+            eng:"Traduce este, por favor : ` Здесь можно курить. `",
+            ru:"SE PUEDE FUMAR AQUÍ "
+            },
+            {
+            id:30,
+            eng:"Traduce este, por favor : ` Как хорошо ты говоришь по-испански! `",
+            ru:"¡Qué bien hablas español!"
+            },
+            {
+            id:31,
+            eng:"Traduce este, por favor : ` Какой красивый дом! `",
+            ru:"¡Qué bonita es la casa!"
+            },
+            {
+            id:32,
+            eng:"Traduce este, por favor : ` Какой интересный фильм! `",
+            ru:"¡Qué interesante es la película! "
+            },
+            {
+            id:33,
+            eng:"Traduce este, por favor : ` Можете открыть дверь? `",
+            ru:"¿Podéis abrir la puerta?"
+            },
+            {
+            id:34,
+            eng:"Traduce este, por favor : ` Можешь погладить мою рубашку? `",
+            ru:"¿Puedes planchar mi camisa?"
+            },
+            {
+            id:35,
+            eng:"Traduce este, por favor : ` Чего вы хотите? `",
+            ru:"¿Qué queréis?"
+            },
+            {
+            id:36,
+            eng:"Traduce este, por favor : ` Ты любишь своего парня? `",
+            ru:"¿Quieres a tu novio?"
+            },
+            {
+            id:37,
+            eng:"Traduce este, por favor : ` Вы умеете хорошо петь? `",
+            ru:"¿Sabéis cantar bien?"
+            },
+            {
+            id:38,
+            eng:"Traduce este, por favor : ` Ты знаешь, что Хуан болеет? `",
+            ru:"¿Sabes que Juan está enfermo?"
+            },
+            {
+            id:39,
+            eng:"Traduce este, por favor : ` Альфонсо умеет говорить на трех языках. `",
+            ru:"Alfonso sabe hablar tres idiomas"
+            },
+            {
+            id:40,
+            eng:"Traduce este, por favor : ` Хосе не мо- жет поехать в Европу, потому что у него нет денег. `",
+            ru:"José no puede viajar a Europa porque no tiene dinero"
+            },
+            {
+            id:41,
+            eng:"Traduce este, por favor : ` Хуан хочет пойти в кафе, потому что он голоден. `",
+            ru:"Juan quiere ir al café porque tiene hambre"
+            },
+            {
+            id:42,
+            eng:"Traduce este, por favor : ` Мои друзья не могут опоздать. `",
+            ru:"Mis amigos no pueden llegar tarde."
+            },
+            {
+            id:43,
+            eng:"Traduce este, por favor : ` Мои друзья хотят купить дом в Испании. `",
+            ru:"Mis amigos quieren comprar una casa en España"
+            },
+            {
+            id:44,
+            eng:"Traduce este, por favor : ` Мои друзья умеют танцевать латино-американские танцы. `",
+            ru:"Mis amigos saben bailar los bailes latinoamericanos. "
+            },
+            {
+            id:45,
+            eng:"Traduce este, por favor : ` Мы не хотим петь сегодня. `",
+            ru:"No queremos cantar hoy."
+            },
+            {
+            id:46,
+            eng:"Traduce este, por favor : ` Здесь нельзя курить `",
+            ru:"No se puede fumar aquí."
+            },
+            {
+            id:47,
+            eng:"Traduce este, por favor : ` Можем с тобой поспорить. `",
+            ru:"Podemos discutir contigo"
+            },
+            {
+            id:48,
+            eng:"Traduce este, por favor : ` Я могу танцевать всю ночь. `",
+            ru:"Puedo bailar toda la noche."
+            },
+            {
+            id:49,
+            eng:"Traduce este, por favor : ` Я сильно хочу отдыхать. `",
+            ru:"Quiero descansar mucho"
+            },
+            {
+            id:50,
+            eng:"Traduce este, por favor : ` Мы знаем, что наш учитель из Испании. `",
+            ru:"Sabemos que nuestro profesor es de España"
+            },
     ],
     technologic3b1: [
         {
