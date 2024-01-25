@@ -21013,747 +21013,387 @@ const allQuestionsOneDeck = {
                 },
 
     ],
-    paperPlane3: [
+    future01a1: [
         {
-            id:1,
-            eng:"     How do you say :       ` пешком `",
-            ru:"ON FOOT / он фут /"
+            id:201,
+            eng:"on foot/ он фут /",
+            ru:"ПЕШКОМ"
             },
             {
-            id:2,
-            eng:"     How do you say :       ` на самолёте `",
-            ru:"BY PLANE / бай плэйн /"
+            id:202,
+            eng:"by plane/ бай плэйн /",
+            ru:"НА САМОЛЁТЕ"
             },
             {
-            id:3,
-            eng:"     How do you say :       ` на поезде `",
-            ru:"BY TRAIN / бай трэйн /"
+            id:203,
+            eng:"by train/ бай трэйн /",
+            ru:"НА ПОЕЗДЕ"
             },
             {
-            id:4,
-            eng:"     How do you say :       ` на трамвае `",
-            ru:"BY TRAM / бай трэм /"
+            id:204,
+            eng:"by tram/ бай трэм /",
+            ru:"НА ТРАМВАЕ"
             },
             {
-            id:5,
-            eng:"     How do you say :       ` скоро `",
-            ru:"SOON / сун /"
+            id:205,
+            eng:"soon/ сун /",
+            ru:"СКОРО"
             },
             {
-            id:6,
-            eng:"     How do you say :       ` позже, потом `",
-            ru:"LATER / лЭйтэ /"
+            id:206,
+            eng:"later/ лЭйтэ /",
+            ru:"ПОЗЖЕ, ПОТОМ"
             },
             {
-            id:7,
-            eng:"     How do you say :       ` через два дня `",
-            ru:"IN 2 DAYS / ин ту дэйz /"
+            id:207,
+            eng:"in 2 days/ ин ту дэйz /",
+            ru:"ЧЕРЕЗ ДВА ДНЯ"
             },
             {
-            id:8,
-            eng:"     How do you say :       ` на следующей неделе `",
-            ru:"NEXT WEEK / нэкст вик /"
+            id:208,
+            eng:"next week/ нэкст вик /",
+            ru:"НА СЛЕДУЮЩЕЙ НЕДЕЛЕ"
             },
             {
-            id:9,
-            eng:"     How do you say :       ` через месяц `",
-            ru:"IN A MONTH / ин э мАнтh /"
+            id:209,
+            eng:"in a month/ ин э мАнтh /",
+            ru:"ЧЕРЕЗ МЕСЯЦ"
             },
             {
-            id:10,
-            eng:"     How do you say :       `  следующей жизни `",
-            ru:"NEXT LIFE / нэкст лАйф /"
+            id:210,
+            eng:"next life/ нэкст лАйф /",
+            ru:" СЛЕДУЮЩЕЙ ЖИЗНИ"
             },
             {
-            id:11,
-            eng:"     How do you say :       ` через час `",
-            ru:"IN AN HOUR / ин эн Ауэ /"
+            id:211,
+            eng:"in an hour/ ин эн Ауэ /",
+            ru:"ЧЕРЕЗ ЧАС"
             },
             {
-            id:12,
-            eng:"     How do you say :       ` послезавтра `",
-            ru:"THE DAY AFTER TOMORROW "
+            id:212,
+            eng:"the day after tomorrow",
+            ru:"ПОСЛЕЗАВТРА"
             },
             {
-            id:13,
-            eng:"     How do you say :       ` после ужина `",
-            ru:"AFTER DINNER "
+            id:213,
+            eng:"after dinner",
+            ru:"ПОСЛЕ УЖИНА"
             },
             {
-            id:14,
-            eng:"     How do you say :       ` первого числа `",
-            ru:"ON THE FIRST / он дэ фёст /"
+            id:214,
+            eng:"on the first/ он дэ фёст /",
+            ru:"ПЕРВОГО ЧИСЛА"
             },
             {
-            id:15,
-            eng:"     How do you say :       ` второго числа `",
-            ru:"ON THE SECOND / он дэ сэконд /"
+            id:215,
+            eng:"on the second/ он дэ сэконд /",
+            ru:"ВТОРОГО ЧИСЛА"
             },
             {
-            id:16,
-            eng:"     How do you say :       ` третьего числа `",
-            ru:"ON THE THIRD / он дэ thёрд /"
+            id:216,
+            eng:"on the third/ он дэ thёрд /",
+            ru:"ТРЕТЬЕГО ЧИСЛА"
             },
             {
-            id:17,
-            eng:"     How do you say :       ` пятого числа `",
-            ru:"ON THE FIFTH / он дэ фИфтh /"
+            id:217,
+            eng:"on the fifth/ он дэ фИфтh /",
+            ru:"ПЯТОГО ЧИСЛА"
             },
             {
-            id:18,
-            eng:"     How do you say :       ` в феврале `",
-            ru:"IN FEBRUARY / ин фЭбрари /"
+            id:218,
+            eng:"in February/ ин фЭбрари /",
+            ru:"В ФЕВРАЛЕ"
             },
             {
-            id:19,
-            eng:"     How do you say :       ` зимой `",
-            ru:"IN WINTER / ин уинтэ /"
+            id:219,
+            eng:"in winter/ ин уинтэ /",
+            ru:"ЗИМОЙ"
             },
             {
-            id:20,
-            eng:"     How do you say :       ` двадцать первого февраля `",
-            ru:"ON THE TWENTY-FIRST OF FEBRUARY "
+            id:220,
+            eng:"on the twenty-first of February",
+            ru:"ДВАДЦАТЬ ПЕРВОГО ФЕВРАЛЯ"
             },
             {
-            id:21,
-            eng:"     How do you say :       ` на выходных `",
-            ru:"ON THE WEEKENDS "
+            id:221,
+            eng:"on the weekends",
+            ru:"НА ВЫХОДНЫХ"
             },
             {
-            id:22,
-            eng:"     How do you say :       ` ночью `",
-            ru:"AT NIGHT / эт найт /"
+            id:222,
+            eng:"at night/ эт найт /",
+            ru:"НОЧЬЮ"
             },
             {
-            id:23,
-            eng:"     How do you say :       ` сегодня вечером `",
-            ru:"TONIGHT / тунайт /"
+            id:223,
+            eng:"tonight/ тунайт /",
+            ru:"СЕГОДНЯ ВЕЧЕРОМ"
             },
             {
-            id:24,
-            eng:"     How do you say :       ` через неделю `",
-            ru:"IN A WEEK "
+            id:224,
+            eng:"in a week",
+            ru:"ЧЕРЕЗ НЕДЕЛЮ"
             },
             {
-            id:25,
-            eng:"     How do you say :       ` через два часа `",
-            ru:"IN TWO HOURS "
+            id:225,
+            eng:"in two hours",
+            ru:"ЧЕРЕЗ ДВА ЧАСА"
             },
             {
-            id:26,
-            eng:"     How do you say :       ` через час `",
-            ru:"IN ONE HOUR ИЛИ IN AN HOUR "
+            id:226,
+            eng:"in one hour или in an hour",
+            ru:"ЧЕРЕЗ ЧАС"
             },
             {
-            id:27,
-            eng:"     How do you say :       ` весной `",
-            ru:"IN SPRING / сприН /"
+            id:227,
+            eng:"in spring/ сприН /",
+            ru:"ВЕСНОЙ"
             },
             {
-            id:28,
-            eng:"     How do you say :       ` сегодня в полночь `",
-            ru:"TODAY AT MIDNIGHT / эт мИднайт /"
+            id:228,
+            eng:"today at midnight/ эт мИднайт /",
+            ru:"СЕГОДНЯ В ПОЛНОЧЬ"
             },
             {
-            id:29,
-            eng:"     How do you say :       ` после этого занятия `",
-            ru:"AFTER THIS LESSON  "
+            id:229,
+            eng:"after this lesson ",
+            ru:"ПОСЛЕ ЭТОГО ЗАНЯТИЯ"
             },
             {
-            id:30,
-            eng:"     How do you say :       ` позже, позднее `",
-            ru:"LATER / лэЙтэ /"
+            id:230,
+            eng:"later/ лэЙтэ /",
+            ru:"ПОЗЖЕ, ПОЗДНЕЕ"
             },
             {
-            id:31,
-            eng:"     How do you say :       ` завтра `",
-            ru:"TOMORROW "
+            id:231,
+            eng:"tomorrow",
+            ru:"ЗАВТРА"
             },
             {
-            id:32,
-            eng:"     How do you say :       ` в понедельник `",
-            ru:"ON MONDAY "
+            id:232,
+            eng:"on Monday",
+            ru:"В ПОНЕДЕЛЬНИК"
             },
             {
-            id:33,
-            eng:"     How do you say :       ` во вторник `",
-            ru:"ON TUESDAY "
+            id:233,
+            eng:"on Tuesday",
+            ru:"ВО ВТОРНИК"
             },
             {
-            id:34,
-            eng:"     How do you say :       ` в среду `",
-            ru:"ON WEDNESDAY / уЭнсдэй /"
+            id:234,
+            eng:"on Wednesday/ уЭнсдэй /",
+            ru:"В СРЕДУ"
             },
             {
-            id:35,
-            eng:"     How do you say :       ` в четверг `",
-            ru:"ON THURSDAY "
+            id:235,
+            eng:"on Thursday",
+            ru:"В ЧЕТВЕРГ"
             },
             {
-            id:36,
-            eng:"     How do you say :       ` в пятницу `",
-            ru:"ON FRIDAY / фрайдэй /"
+            id:236,
+            eng:"on Friday/ фрайдэй /",
+            ru:"В ПЯТНИЦУ"
             },
             {
-            id:37,
-            eng:"     How do you say :       ` в субботу `",
-            ru:"ON SATURDAY / сАтэдэй /"
+            id:237,
+            eng:"on Saturday/ сАтэдэй /",
+            ru:"В СУББОТУ"
             },
             {
-            id:38,
-            eng:"     How do you say :       ` в воскресенье `",
-            ru:"ON SUNDAY / сАндэй /"
+            id:238,
+            eng:"on Sunday/ сАндэй /",
+            ru:"В ВОСКРЕСЕНЬЕ"
             },
             {
-            id:39,
-            eng:"     How do you say :       ` в следующем месяце `",
-            ru:"NEXT MONTH / манth /"
+            id:239,
+            eng:"next month/ манth /",
+            ru:"В СЛЕДУЮЩЕМ МЕСЯЦЕ"
             },
             {
-            id:40,
-            eng:"     How do you say :       ` в следующей жизни `",
-            ru:"NEXT LIFE / лайф /"
+            id:240,
+            eng:"next life/ лайф /",
+            ru:"В СЛЕДУЮЩЕЙ ЖИЗНИ"
             },
             {
-            id:41,
-            eng:"     How do you say :       ` первого апреля `",
-            ru:"ON THE FIRST OF APRIL  / эйприл /"
+            id:241,
+            eng:"on the first of April / эйприл /",
+            ru:"ПЕРВОГО АПРЕЛЯ"
             },
             {
-            id:42,
-            eng:"     How do you say :       ` второго января `",
-            ru:"ON THE SECOND OF JANUARY  / джэнэри /"
+            id:242,
+            eng:"on the second of January / джэнэри /",
+            ru:"ВТОРОГО ЯНВАРЯ"
             },
             {
-            id:43,
-            eng:"     How do you say :       ` третьего июня `",
-            ru:"ON THE THIRD OF JUNE  / джун /"
+            id:243,
+            eng:"on the third of June / джун /",
+            ru:"ТРЕТЬЕГО ИЮНЯ"
             },
             {
-            id:44,
-            eng:"     How do you say :       ` четвертого июля `",
-            ru:"ON THE FOURTH OF JULY  / джулай /"
+            id:244,
+            eng:"on the fourth of July / джулай /",
+            ru:"ЧЕТВЕРТОГО ИЮЛЯ"
             },
             {
-            id:45,
-            eng:"     How do you say :       ` пятого августа `",
-            ru:"ON THE FIFTH OF AUGUST  / ОгЭст /"
+            id:245,
+            eng:"on the fifth of August / ОгЭст /",
+            ru:"ПЯТОГО АВГУСТА"
             },
             {
-            id:46,
-            eng:"     How do you say :       ` восьмого марта `",
-            ru:"ON THE EIGHTH OF MARCH  / мач /"
+            id:246,
+            eng:"on the eighth of March / мач /",
+            ru:"ВОСЬМОГО МАРТА"
             },
             {
-            id:47,
-            eng:"     How do you say :       ` через пару часов `",
-            ru:"IN A COUPLE OF HOURS / капл ов Аурз /"
+            id:247,
+            eng:"in a couple of hours/ капл ов Аурз /",
+            ru:"ЧЕРЕЗ ПАРУ ЧАСОВ"
             },
             {
-            id:48,
-            eng:"     How do you say :       ` через тридцать минут `",
-            ru:"IN THIRTY MINUTES "
+            id:248,
+            eng:"in thirty minutes",
+            ru:"ЧЕРЕЗ ТРИДЦАТЬ МИНУТ"
             },
             {
-            id:49,
-            eng:"     How do you say :       ` через три года `",
-            ru:"IN THREE YEARS "
+            id:249,
+            eng:"in three years",
+            ru:"ЧЕРЕЗ ТРИ ГОДА"
             },
             {
-            id:50,
-            eng:"     How do you say :       ` через пару дней `",
-            ru:"IN A COUPLE OF DAYS / капл ов дЭйz /"
+            id:250,
+            eng:"in a couple of days/ капл ов дЭйz /",
+            ru:"ЧЕРЕЗ ПАРУ ДНЕЙ"
             },
             {
-            id:51,
-            eng:"     How do you say :       ` осенью `",
-            ru:"IN FALL - В БРИТАНИИ ИЛИ IN AUTUMN - В США И ОСТАЛЬНОМ МИРЕ / фОл и Отм /"
+            id:251,
+            eng:"in fall - в Британии или in autumn - в США и остальном мире/ фОл и Отм /",
+            ru:"ОСЕНЬЮ"
             },
             {
-            id:52,
-            eng:"     How do you say :       ` попозже сегодня вечером `",
-            ru:"LATER TONIGHT ИЛИ LATER IN THE EVENING / лЭйтэ тунайт /"
+            id:252,
+            eng:"later tonight или later in the evening/ лЭйтэ тунайт /",
+            ru:"ПОПОЗЖЕ СЕГОДНЯ ВЕЧЕРОМ"
             },
             {
-            id:53,
-            eng:"     How do you say :       ` вечером `",
-            ru:"IN THE EVENING / Ивнин /"
+            id:253,
+            eng:"in the evening/ Ивнин /",
+            ru:"ВЕЧЕРОМ"
             },
             {
-            id:54,
-            eng:"     How do you say :       ` через три дня `",
-            ru:"IN THREE DAYS "
+            id:254,
+            eng:"in three days",
+            ru:"ЧЕРЕЗ ТРИ ДНЯ"
             },
             {
-            id:55,
-            eng:"     How do you say :       ` через несколько недель `",
-            ru:"IN A FEW WEEKS / ин э фью уикс /"
+            id:255,
+            eng:"in a few weeks/ ин э фью уикс /",
+            ru:"ЧЕРЕЗ НЕСКОЛЬКО НЕДЕЛЬ"
             },
             {
-            id:56,
-            eng:"     How do you say :       ` через несколько дней `",
-            ru:"IN A FEW DAYS / ин э фью дэйz /"
+            id:256,
+            eng:"in a few days/ ин э фью дэйz /",
+            ru:"ЧЕРЕЗ НЕСКОЛЬКО ДНЕЙ"
             },
             {
-            id:57,
-            eng:"     How do you say :       ` через несколько лет `",
-            ru:"IN A FEW YEARS / ин э фью йИэz /"
+            id:257,
+            eng:"in a few years/ ин э фью йИэz /",
+            ru:"ЧЕРЕЗ НЕСКОЛЬКО ЛЕТ"
             },
             {
-            id:58,
-            eng:"     How do you say :       ` через несколько месяцев `",
-            ru:"IN A FEW MONTHS / ин э фью мАнth /"
+            id:258,
+            eng:"in a few months/ ин э фью мАнth /",
+            ru:"ЧЕРЕЗ НЕСКОЛЬКО МЕСЯЦЕВ"
             },
             {
-            id:59,
-            eng:"     How do you say :       ` когда рак на горе свистнет. (идиома, фразеологизм, сленг, устойчивое выражение) `",
-            ru:"when pigs fly (идиома, фразеологизм) Дословный перевод слов по отдельности не передаст смысл всей фразы целиком) "
+            id:259,
+            eng:"when pigs fly (идиома, фразеологизм) Дословный перевод слов по отдельности не передаст смысл всей фразы целиком)",
+            ru:"КОГДА РАК НА ГОРЕ СВИСТНЕТ. (ИДИОМА, ФРАЗЕОЛОГИЗМ, СЛЕНГ, УСТОЙЧИВОЕ ВЫРАЖЕНИЕ)"
             },
             {
-            id:60,
-            eng:"     How do you say :       ` в следующий вторник `",
-            ru:"NEXT TUESDAY / тьЮсдэй /"
+            id:260,
+            eng:"next Tuesday/ тьЮсдэй /",
+            ru:"В СЛЕДУЮЩИЙ ВТОРНИК"
             },
             {
-            id:61,
-            eng:"     How do you say :       ` в следующую субботу `",
-            ru:"NEXT SATURDAY / сАтэдэй /"
+            id:261,
+            eng:"next Saturday/ сАтэдэй /",
+            ru:"В СЛЕДУЮЩУЮ СУББОТУ"
             },
             {
-            id:62,
-            eng:"     How do you say :       ` в следующее воскресенье `",
-            ru:"NEXT SUNDAY / сАндэй /"
+            id:262,
+            eng:"next Sunday/ сАндэй /",
+            ru:"В СЛЕДУЮЩЕЕ ВОСКРЕСЕНЬЕ"
             },
             {
-            id:63,
-            eng:"     How do you say :       ` на следующем уроке `",
-            ru:"NEXT LESSON "
+            id:263,
+            eng:"next lesson",
+            ru:"НА СЛЕДУЮЩЕМ УРОКЕ"
             },
             {
-            id:64,
-            eng:"     How do you say :       ` на следующей встрече `",
-            ru:"NEXT MEETING "
+            id:264,
+            eng:"next meeting",
+            ru:"НА СЛЕДУЮЩЕЙ ВСТРЕЧЕ"
             },
             {
-            id:65,
-            eng:"     How do you say :       ` первым делом с утра `",
-            ru:"FIRST THING IN THE MORNING "
+            id:265,
+            eng:"first thing in the morning",
+            ru:"ПЕРВЫМ ДЕЛОМ С УТРА"
             },
             {
-            id:66,
-            eng:"     How do you say :       ` через день или два `",
-            ru:"IN A DAY OR TWO "
+            id:266,
+            eng:"in a day or two",
+            ru:"ЧЕРЕЗ ДЕНЬ ИЛИ ДВА"
             },
             {
-            id:67,
-            eng:"     How do you say :       ` в следующую среду `",
-            ru:"NEXT WEDNESDAY / уЭнсдэй /"
+            id:267,
+            eng:"next Wednesday/ уЭнсдэй /",
+            ru:"В СЛЕДУЮЩУЮ СРЕДУ"
             },
             {
-            id:68,
-            eng:"     How do you say :       ` как можно скорее `",
-            ru:"AS SOON AS POSSIBLE / эz сун эz посбл /"
+            id:268,
+            eng:"as soon as possible/ эz сун эz посбл /",
+            ru:"КАК МОЖНО СКОРЕЕ"
             },
             {
-            id:69,
-            eng:"     How do you say :       ` никогда cнова, никогда больше `",
-            ru:"NEVER AGAIN / нЭвэ эгЕн /"
+            id:269,
+            eng:"never again/ нЭвэ эгЕн /",
+            ru:"НИКОГДА CНОВА, НИКОГДА БОЛЬШЕ"
             },
             {
-            id:70,
-            eng:"     How do you say :       ` когда придёт учитель. `",
-            ru:"WHEN VINCENT COMES. / камz /"
+            id:270,
+            eng:"when Vincent comes./ камz /",
+            ru:"КОГДА ПРИДЁТ УЧИТЕЛЬ."
             },
             {
-            id:71,
-            eng:"     How do you say :       ` очень скоро `",
-            ru:"VERY SOON "
+            id:271,
+            eng:"very soon",
+            ru:"ОЧЕНЬ СКОРО"
             },
             {
-            id:72,
-            eng:"     How do you say :       ` может попозже `",
-            ru:"MAYBE LATER / лэЙтэ /"
+            id:272,
+            eng:"maybe later/ лэЙтэ /",
+            ru:"МОЖЕТ ПОПОЗЖЕ"
             },
             {
-            id:73,
-            eng:"     How do you say :       ` через секунду `",
-            ru:"IN A SECOND "
+            id:273,
+            eng:"in a second",
+            ru:"ЧЕРЕЗ СЕКУНДУ"
             },
             {
-            id:74,
-            eng:"     How do you say :       ` через несколько секунд `",
-            ru:"IN A FEW SECONDS / ин э фью сЭкондz /"
+            id:274,
+            eng:"in a few seconds/ ин э фью сЭкондz /",
+            ru:"ЧЕРЕЗ НЕСКОЛЬКО СЕКУНД"
             },
             {
-                id:101,
-                eng:"  How do you translate :    ` on foot / он фут / `",
-                ru:"ПЕШКОМ"
-                },
-                {
-                id:102,
-                eng:"  How do you translate :    ` by plane / бай плэйн / `",
-                ru:"НА САМОЛЁТЕ"
-                },
-                {
-                id:103,
-                eng:"  How do you translate :    ` by train / бай трэйн / `",
-                ru:"НА ПОЕЗДЕ"
-                },
-                {
-                id:104,
-                eng:"  How do you translate :    ` by tram / бай трэм / `",
-                ru:"НА ТРАМВАЕ"
-                },
-                {
-                id:105,
-                eng:"  How do you translate :    ` soon / сун / `",
-                ru:"СКОРО"
-                },
-                {
-                id:106,
-                eng:"  How do you translate :    ` later / лЭйтэ / `",
-                ru:"ПОЗЖЕ, ПОТОМ"
-                },
-                {
-                id:107,
-                eng:"  How do you translate :    ` in 2 days / ин ту дэйz / `",
-                ru:"ЧЕРЕЗ ДВА ДНЯ"
-                },
-                {
-                id:108,
-                eng:"  How do you translate :    ` next week / нэкст вик / `",
-                ru:"НА СЛЕДУЮЩЕЙ НЕДЕЛЕ"
-                },
-                {
-                id:109,
-                eng:"  How do you translate :    ` in a month / ин э мАнтh / `",
-                ru:"ЧЕРЕЗ МЕСЯЦ"
-                },
-                {
-                id:110,
-                eng:"  How do you translate :    ` next life / нэкст лАйф / `",
-                ru:" СЛЕДУЮЩЕЙ ЖИЗНИ"
-                },
-                {
-                id:111,
-                eng:"  How do you translate :    ` in an hour / ин эн Ауэ / `",
-                ru:"ЧЕРЕЗ ЧАС"
-                },
-                {
-                id:112,
-                eng:"  How do you translate :    ` the day after tomorrow  `",
-                ru:"ПОСЛЕЗАВТРА"
-                },
-                {
-                id:113,
-                eng:"  How do you translate :    ` after dinner  `",
-                ru:"ПОСЛЕ УЖИНА"
-                },
-                {
-                id:114,
-                eng:"  How do you translate :    ` on the first / он дэ фёст / `",
-                ru:"ПЕРВОГО ЧИСЛА"
-                },
-                {
-                id:115,
-                eng:"  How do you translate :    ` on the second / он дэ сэконд / `",
-                ru:"ВТОРОГО ЧИСЛА"
-                },
-                {
-                id:116,
-                eng:"  How do you translate :    ` on the third / он дэ thёрд / `",
-                ru:"ТРЕТЬЕГО ЧИСЛА"
-                },
-                {
-                id:117,
-                eng:"  How do you translate :    ` on the fifth / он дэ фИфтh / `",
-                ru:"ПЯТОГО ЧИСЛА"
-                },
-                {
-                id:118,
-                eng:"  How do you translate :    ` in February / ин фЭбрари / `",
-                ru:"В ФЕВРАЛЕ"
-                },
-                {
-                id:119,
-                eng:"  How do you translate :    ` in winter / ин уинтэ / `",
-                ru:"ЗИМОЙ"
-                },
-                {
-                id:120,
-                eng:"  How do you translate :    ` on the twenty-first of February  `",
-                ru:"ДВАДЦАТЬ ПЕРВОГО ФЕВРАЛЯ"
-                },
-                {
-                id:121,
-                eng:"  How do you translate :    ` on the weekends  `",
-                ru:"НА ВЫХОДНЫХ"
-                },
-                {
-                id:122,
-                eng:"  How do you translate :    ` at night / эт найт / `",
-                ru:"НОЧЬЮ"
-                },
-                {
-                id:123,
-                eng:"  How do you translate :    ` tonight / тунайт / `",
-                ru:"СЕГОДНЯ ВЕЧЕРОМ"
-                },
-                {
-                id:124,
-                eng:"  How do you translate :    ` in a week  `",
-                ru:"ЧЕРЕЗ НЕДЕЛЮ"
-                },
-                {
-                id:125,
-                eng:"  How do you translate :    ` in two hours  `",
-                ru:"ЧЕРЕЗ ДВА ЧАСА"
-                },
-                {
-                id:126,
-                eng:"  How do you translate :    ` in one hour или in an hour  `",
-                ru:"ЧЕРЕЗ ЧАС"
-                },
-                {
-                id:127,
-                eng:"  How do you translate :    ` in spring / сприН / `",
-                ru:"ВЕСНОЙ"
-                },
-                {
-                id:128,
-                eng:"  How do you translate :    ` today at midnight / эт мИднайт / `",
-                ru:"СЕГОДНЯ В ПОЛНОЧЬ"
-                },
-                {
-                id:129,
-                eng:"  How do you translate :    ` after this lesson   `",
-                ru:"ПОСЛЕ ЭТОГО ЗАНЯТИЯ"
-                },
-                {
-                id:130,
-                eng:"  How do you translate :    ` later / лэЙтэ / `",
-                ru:"ПОЗЖЕ, ПОЗДНЕЕ"
-                },
-                {
-                id:131,
-                eng:"  How do you translate :    ` tomorrow  `",
-                ru:"ЗАВТРА"
-                },
-                {
-                id:132,
-                eng:"  How do you translate :    ` on Monday  `",
-                ru:"В ПОНЕДЕЛЬНИК"
-                },
-                {
-                id:133,
-                eng:"  How do you translate :    ` on Tuesday  `",
-                ru:"ВО ВТОРНИК"
-                },
-                {
-                id:134,
-                eng:"  How do you translate :    ` on Wednesday / уЭнсдэй / `",
-                ru:"В СРЕДУ"
-                },
-                {
-                id:135,
-                eng:"  How do you translate :    ` on Thursday  `",
-                ru:"В ЧЕТВЕРГ"
-                },
-                {
-                id:136,
-                eng:"  How do you translate :    ` on Friday / фрайдэй / `",
-                ru:"В ПЯТНИЦУ"
-                },
-                {
-                id:137,
-                eng:"  How do you translate :    ` on Saturday / сАтэдэй / `",
-                ru:"В СУББОТУ"
-                },
-                {
-                id:138,
-                eng:"  How do you translate :    ` on Sunday / сАндэй / `",
-                ru:"В ВОСКРЕСЕНЬЕ"
-                },
-                {
-                id:139,
-                eng:"  How do you translate :    ` next month / манth / `",
-                ru:"В СЛЕДУЮЩЕМ МЕСЯЦЕ"
-                },
-                {
-                id:140,
-                eng:"  How do you translate :    ` next life / лайф / `",
-                ru:"В СЛЕДУЮЩЕЙ ЖИЗНИ"
-                },
-                {
-                id:141,
-                eng:"  How do you translate :    ` on the first of April  / эйприл / `",
-                ru:"ПЕРВОГО АПРЕЛЯ"
-                },
-                {
-                id:142,
-                eng:"  How do you translate :    ` on the second of January  / джэнэри / `",
-                ru:"ВТОРОГО ЯНВАРЯ"
-                },
-                {
-                id:143,
-                eng:"  How do you translate :    ` on the third of June  / джун / `",
-                ru:"ТРЕТЬЕГО ИЮНЯ"
-                },
-                {
-                id:144,
-                eng:"  How do you translate :    ` on the fourth of July  / джулай / `",
-                ru:"ЧЕТВЕРТОГО ИЮЛЯ"
-                },
-                {
-                id:145,
-                eng:"  How do you translate :    ` on the fifth of August  / ОгЭст / `",
-                ru:"ПЯТОГО АВГУСТА"
-                },
-                {
-                id:146,
-                eng:"  How do you translate :    ` on the eighth of March  / мач / `",
-                ru:"ВОСЬМОГО МАРТА"
-                },
-                {
-                id:147,
-                eng:"  How do you translate :    ` in a couple of hours / капл ов Аурз / `",
-                ru:"ЧЕРЕЗ ПАРУ ЧАСОВ"
-                },
-                {
-                id:148,
-                eng:"  How do you translate :    ` in thirty minutes  `",
-                ru:"ЧЕРЕЗ ТРИДЦАТЬ МИНУТ"
-                },
-                {
-                id:149,
-                eng:"  How do you translate :    ` in three years  `",
-                ru:"ЧЕРЕЗ ТРИ ГОДА"
-                },
-                {
-                id:150,
-                eng:"  How do you translate :    ` in a couple of days / капл ов дЭйz / `",
-                ru:"ЧЕРЕЗ ПАРУ ДНЕЙ"
-                },
-                {
-                id:151,
-                eng:"  How do you translate :    ` in fall - в Британии или in autumn - в США и остальном мире / фОл и Отм / `",
-                ru:"ОСЕНЬЮ"
-                },
-                {
-                id:152,
-                eng:"  How do you translate :    ` later tonight или later in the evening / лЭйтэ тунайт / `",
-                ru:"ПОПОЗЖЕ СЕГОДНЯ ВЕЧЕРОМ"
-                },
-                {
-                id:153,
-                eng:"  How do you translate :    ` in the evening / Ивнин / `",
-                ru:"ВЕЧЕРОМ"
-                },
-                {
-                id:154,
-                eng:"  How do you translate :    ` in three days  `",
-                ru:"ЧЕРЕЗ ТРИ ДНЯ"
-                },
-                {
-                id:155,
-                eng:"  How do you translate :    ` in a few weeks / ин э фью уикс / `",
-                ru:"ЧЕРЕЗ НЕСКОЛЬКО НЕДЕЛЬ"
-                },
-                {
-                id:156,
-                eng:"  How do you translate :    ` in a few days / ин э фью дэйz / `",
-                ru:"ЧЕРЕЗ НЕСКОЛЬКО ДНЕЙ"
-                },
-                {
-                id:157,
-                eng:"  How do you translate :    ` in a few years / ин э фью йИэz / `",
-                ru:"ЧЕРЕЗ НЕСКОЛЬКО ЛЕТ"
-                },
-                {
-                id:158,
-                eng:"  How do you translate :    ` in a few months / ин э фью мАнth / `",
-                ru:"ЧЕРЕЗ НЕСКОЛЬКО МЕСЯЦЕВ"
-                },
-                {
-                id:159,
-                eng:"  How do you translate :    ` when pigs fly (идиома, фразеологизм) Дословный перевод слов по отдельности не передаст смысл всей фразы целиком) `",
-                ru:"КОГДА РАК НА ГОРЕ СВИСТНЕТ. (ИДИОМА, ФРАЗЕОЛОГИЗМ, СЛЕНГ, УСТОЙЧИВОЕ ВЫРАЖЕНИЕ)"
-                },
-                {
-                id:160,
-                eng:"  How do you translate :    ` next Tuesday / тьЮсдэй / `",
-                ru:"В СЛЕДУЮЩИЙ ВТОРНИК"
-                },
-                {
-                id:161,
-                eng:"  How do you translate :    ` next Saturday / сАтэдэй / `",
-                ru:"В СЛЕДУЮЩУЮ СУББОТУ"
-                },
-                {
-                id:162,
-                eng:"  How do you translate :    ` next Sunday / сАндэй / `",
-                ru:"В СЛЕДУЮЩЕЕ ВОСКРЕСЕНЬЕ"
-                },
-                {
-                id:163,
-                eng:"  How do you translate :    ` next lesson  `",
-                ru:"НА СЛЕДУЮЩЕМ УРОКЕ"
-                },
-                {
-                id:164,
-                eng:"  How do you translate :    ` next meeting  `",
-                ru:"НА СЛЕДУЮЩЕЙ ВСТРЕЧЕ"
-                },
-                {
-                id:165,
-                eng:"  How do you translate :    ` first thing in the morning  `",
-                ru:"ПЕРВЫМ ДЕЛОМ С УТРА"
-                },
-                {
-                id:166,
-                eng:"  How do you translate :    ` in a day or two  `",
-                ru:"ЧЕРЕЗ ДЕНЬ ИЛИ ДВА"
-                },
-                {
-                id:167,
-                eng:"  How do you translate :    ` next Wednesday / уЭнсдэй / `",
-                ru:"В СЛЕДУЮЩУЮ СРЕДУ"
-                },
-                {
-                id:168,
-                eng:"  How do you translate :    ` as soon as possible / эz сун эz посбл / `",
-                ru:"КАК МОЖНО СКОРЕЕ"
-                },
-                {
-                id:169,
-                eng:"  How do you translate :    ` never again / нЭвэ эгЕн / `",
-                ru:"НИКОГДА CНОВА, НИКОГДА БОЛЬШЕ"
-                },
-                {
-                id:170,
-                eng:"  How do you translate :    ` when Vincent comes. / камz / `",
-                ru:"КОГДА ПРИДЁТ УЧИТЕЛЬ."
-                },
-                {
-                id:171,
-                eng:"  How do you translate :    ` very soon  `",
-                ru:"ОЧЕНЬ СКОРО"
-                },
-                {
-                id:172,
-                eng:"  How do you translate :    ` maybe later / лэЙтэ / `",
-                ru:"МОЖЕТ ПОПОЗЖЕ"
-                },
-                {
-                id:173,
-                eng:"  How do you translate :    ` in a second  `",
-                ru:"ЧЕРЕЗ СЕКУНДУ"
-                },
-                {
-                id:174,
-                eng:"  How do you translate :    ` in a few seconds / ин э фью сЭкондz / `",
-                ru:"ЧЕРЕЗ НЕСКОЛЬКО СЕКУНД"
-                },
+            id:275,
+            eng:"at eleven twenty AM tomorrow",
+            ru:"В 11:20 ДНЯ ЗАВТРА"
+            },
+            {
+            id:276,
+            eng:"tomorrow at 8 o'clock",
+            ru:"ЗАВТРА В ВОСЕМЬ ЧАСОВ"
+            },
 
     ],
     spanish: [
