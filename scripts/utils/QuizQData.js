@@ -9255,6 +9255,1202 @@ const quizQuesstionsList = {
             },
             ]
             },
+            {
+            id: 45,
+            quizQuestion: "Pat and John are from Bristol, ____",
+            answers: [
+            {
+            answer: "aren't they?",
+            correct: true
+            },
+            {
+            answer: "are they?",
+            correct: false
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "fromn't they?",
+            correct: false
+            },
+            {
+            answer: "who you?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 46,
+            quizQuestion: "They are going home from school, ____",
+            answers: [
+            {
+            answer: "aren't they?",
+            correct: true
+            },
+            {
+            answer: "are they?",
+            correct: false
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "don't they?",
+            correct: false
+            },
+            {
+            answer: "isn't they?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "Vincent can't speak Mongolian, ____",
+            answers: [
+            {
+            answer: "can he?",
+            correct: true
+            },
+            {
+            answer: "could he?",
+            correct: false
+            },
+            {
+            answer: "he is stupid",
+            correct: false
+            },
+            {
+            answer: "I can",
+            correct: false
+            },
+            {
+            answer: "can't he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "He can write, ____",
+            answers: [
+            {
+            answer: "can't he?",
+            correct: true
+            },
+            {
+            answer: "can he?",
+            correct: false
+            },
+            {
+            answer: "does he?",
+            correct: false
+            },
+            {
+            answer: "is he?",
+            correct: false
+            },
+            {
+            answer: "isn't he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 49,
+            quizQuestion: "Jack can write good poems, ____",
+            answers: [
+            {
+            answer: "can't he?",
+            correct: true
+            },
+            {
+            answer: "can he?",
+            correct: false
+            },
+            {
+            answer: "does he?",
+            correct: false
+            },
+            {
+            answer: "is he?",
+            correct: false
+            },
+            {
+            answer: "isn't he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 50,
+            quizQuestion: "She can speak French, ____",
+            answers: [
+            {
+            answer: "can't she?",
+            correct: true
+            },
+            {
+            answer: "can she?",
+            correct: false
+            },
+            {
+            answer: "does she?",
+            correct: false
+            },
+            {
+            answer: "is she?",
+            correct: false
+            },
+            {
+            answer: "isn't she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 51,
+            quizQuestion: "Anne couldn't sing well, ____",
+            answers: [
+            {
+            answer: "could she?",
+            correct: true
+            },
+            {
+            answer: "couldn't she?",
+            correct: false
+            },
+            {
+            answer: "could her?",
+            correct: false
+            },
+            {
+            answer: "couldn't her?",
+            correct: false
+            },
+            {
+            answer: "can she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 52,
+            quizQuestion: "He could have bought a new car, ____",
+            answers: [
+            {
+            answer: "couldn't he?",
+            correct: true
+            },
+            {
+            answer: "hasn't he?",
+            correct: false
+            },
+            {
+            answer: "haven't he?",
+            correct: false
+            },
+            {
+            answer: "has he?",
+            correct: false
+            },
+            {
+            answer: "have he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 53,
+            quizQuestion: "Barbara could have helped you, ____",
+            answers: [
+            {
+            answer: "couldn't she?",
+            correct: true
+            },
+            {
+            answer: "hasn't she?",
+            correct: false
+            },
+            {
+            answer: "haven't she?",
+            correct: false
+            },
+            {
+            answer: "has she?",
+            correct: false
+            },
+            {
+            answer: "have she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 54,
+            quizQuestion: "Mary didn't do her homework last Monday, ____",
+            answers: [
+            {
+            answer: "did she?",
+            correct: true
+            },
+            {
+            answer: "didn't she?",
+            correct: false
+            },
+            {
+            answer: "does she?",
+            correct: false
+            },
+            {
+            answer: "is she?",
+            correct: false
+            },
+            {
+            answer: "don't she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 55,
+            quizQuestion: "She didn't come to the shop, ____",
+            answers: [
+            {
+            answer: "did she?",
+            correct: true
+            },
+            {
+            answer: "didn't she?",
+            correct: false
+            },
+            {
+            answer: "does she?",
+            correct: false
+            },
+            {
+            answer: "is she?",
+            correct: false
+            },
+            {
+            answer: "don't she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 56,
+            quizQuestion: "They did not do their homework, ____",
+            answers: [
+            {
+            answer: "did they?",
+            correct: true
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "didn't they?",
+            correct: false
+            },
+            {
+            answer: "don't we?",
+            correct: false
+            },
+            {
+            answer: "isn't it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 57,
+            quizQuestion: "They did not go to Vienna last week, ____",
+            answers: [
+            {
+            answer: "did they?",
+            correct: true
+            },
+            {
+            answer: "didn't they?",
+            correct: false
+            },
+            {
+            answer: "don't they?",
+            correct: false
+            },
+            {
+            answer: "isn't it?",
+            correct: false
+            },
+            {
+            answer: "does it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 58,
+            quizQuestion: "Chris got up at seven, ____",
+            answers: [
+            {
+            answer: "didn't he?",
+            correct: true
+            },
+            {
+            answer: "gotn't he?",
+            correct: false
+            },
+            {
+            answer: "hasn't he?",
+            correct: false
+            },
+            {
+            answer: "did he?",
+            correct: false
+            },
+            {
+            answer: "isn't it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 59,
+            quizQuestion: "Peter played handball yesterday, ____",
+            answers: [
+            {
+            answer: "didn't he?",
+            correct: true
+            },
+            {
+            answer: "did he?",
+            correct: false
+            },
+            {
+            answer: "does he?",
+            correct: false
+            },
+            {
+            answer: "doesn't he?",
+            correct: false
+            },
+            {
+            answer: "isn't he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 60,
+            quizQuestion: "They played football on Sundays, ____",
+            answers: [
+            {
+            answer: "didn't they?",
+            correct: true
+            },
+            {
+            answer: "did they?",
+            correct: false
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "don't they?",
+            correct: false
+            },
+            {
+            answer: "playedn't they?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 61,
+            quizQuestion: "John and Max don't like maths, ____",
+            answers: [
+            {
+            answer: "do they?",
+            correct: true
+            },
+            {
+            answer: "don't they?",
+            correct: false
+            },
+            {
+            answer: "do we?",
+            correct: false
+            },
+            {
+            answer: "stupid boys",
+            correct: false
+            },
+            {
+            answer: "isn't it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 62,
+            quizQuestion: "Nobody says that you are stupid, ____",
+            answers: [
+            {
+            answer: "do they?",
+            correct: true
+            },
+            {
+            answer: "are you?",
+            correct: false
+            },
+            {
+            answer: "aren't you?",
+            correct: false
+            },
+            {
+            answer: "don't they?",
+            correct: false
+            },
+            {
+            answer: "Vincent, help me!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 63,
+            quizQuestion: "He likes lasagna (лазанья), ____",
+            answers: [
+            {
+            answer: "doesn't he?",
+            correct: true
+            },
+            {
+            answer: "does he?",
+            correct: false
+            },
+            {
+            answer: "don't he?",
+            correct: false
+            },
+            {
+            answer: "do you?",
+            correct: false
+            },
+            {
+            answer: "Mmmmm lasagna…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 64,
+            quizQuestion: "She plays football on Sundays, ____",
+            answers: [
+            {
+            answer: "doesn't she?",
+            correct: true
+            },
+            {
+            answer: "does she?",
+            correct: false
+            },
+            {
+            answer: "is she?",
+            correct: false
+            },
+            {
+            answer: "will she?",
+            correct: false
+            },
+            {
+            answer: "has she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 65,
+            quizQuestion: "They play football on Sundays, ____",
+            answers: [
+            {
+            answer: "don't they?",
+            correct: true
+            },
+            {
+            answer: "won't they?",
+            correct: false
+            },
+            {
+            answer: "are they?",
+            correct: false
+            },
+            {
+            answer: "did they?",
+            correct: false
+            },
+            {
+            answer: "were they?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 66,
+            quizQuestion: "We often watch TV in the afternoon, ____",
+            answers: [
+            {
+            answer: "don't we?",
+            correct: true
+            },
+            {
+            answer: "aren't we?",
+            correct: false
+            },
+            {
+            answer: "weren't we?",
+            correct: false
+            },
+            {
+            answer: "haven't we?",
+            correct: false
+            },
+            {
+            answer: "won't we?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 67,
+            quizQuestion: "He has a car, ____",
+            answers: [
+            {
+            answer: "doesn't he?",
+            correct: true
+            },
+            {
+            answer: "didn't he?",
+            correct: false
+            },
+            {
+            answer: "isn't he?",
+            correct: false
+            },
+            {
+            answer: "wasn't he?",
+            correct: false
+            },
+            {
+            answer: "hasn't he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 68,
+            quizQuestion: "She has bought a new phone, ____",
+            answers: [
+            {
+            answer: "hasn't she?",
+            correct: true
+            },
+            {
+            answer: "didn't she?",
+            correct: false
+            },
+            {
+            answer: "did she?",
+            correct: false
+            },
+            {
+            answer: "has she?",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 69,
+            quizQuestion: "They haven't finished the task, ____",
+            answers: [
+            {
+            answer: "have they?",
+            correct: true
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "are they?",
+            correct: false
+            },
+            {
+            answer: "did they?",
+            correct: false
+            },
+            {
+            answer: "didn't they?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 70,
+            quizQuestion: "They have finished their homework, ____",
+            answers: [
+            {
+            answer: "haven't they?",
+            correct: true
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "are they?",
+            correct: false
+            },
+            {
+            answer: "did they?",
+            correct: false
+            },
+            {
+            answer: "didn't they?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 71,
+            quizQuestion: "You have cleaned your bike, ____",
+            answers: [
+            {
+            answer: "haven't you?",
+            correct: true
+            },
+            {
+            answer: "didn't you?",
+            correct: false
+            },
+            {
+            answer: "don't you?",
+            correct: false
+            },
+            {
+            answer: "have you?",
+            correct: false
+            },
+            {
+            answer: "not you?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 72,
+            quizQuestion: "You've got a car, ____",
+            answers: [
+            {
+            answer: "haven't you?",
+            correct: true
+            },
+            {
+            answer: "don't you?",
+            correct: false
+            },
+            {
+            answer: "do you?",
+            correct: false
+            },
+            {
+            answer: "did you?",
+            correct: false
+            },
+            {
+            answer: "didn't you?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 73,
+            quizQuestion: "It's very hot in the Sahara, ____",
+            answers: [
+            {
+            answer: "isn't it?",
+            correct: true
+            },
+            {
+            answer: "is it?",
+            correct: false
+            },
+            {
+            answer: "does it?",
+            correct: false
+            },
+            {
+            answer: "was it?",
+            correct: false
+            },
+            {
+            answer: "it is?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 74,
+            quizQuestion: "She is collecting stickers, ____",
+            answers: [
+            {
+            answer: "isn't she?",
+            correct: true
+            },
+            {
+            answer: "is she?",
+            correct: false
+            },
+            {
+            answer: "does she?",
+            correct: false
+            },
+            {
+            answer: "do she?",
+            correct: false
+            },
+            {
+            answer: "doesn't she?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 75,
+            quizQuestion: "Let's go out for a walk, ____",
+            answers: [
+            {
+            answer: "shall we?",
+            correct: true
+            },
+            {
+            answer: "can't we?",
+            correct: false
+            },
+            {
+            answer: "shouldn't we?",
+            correct: false
+            },
+            {
+            answer: "let's we?",
+            correct: false
+            },
+            {
+            answer: "don't we?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 76,
+            quizQuestion: "Shakespeare was English, ____",
+            answers: [
+            {
+            answer: "wasn't he?",
+            correct: true
+            },
+            {
+            answer: "was he?",
+            correct: false
+            },
+            {
+            answer: "did he?",
+            correct: false
+            },
+            {
+            answer: "didn't he?",
+            correct: false
+            },
+            {
+            answer: "wasn't him?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 77,
+            quizQuestion: "Everybody was happy with the results, ____",
+            answers: [
+            {
+            answer: "weren't they?",
+            correct: true
+            },
+            {
+            answer: "were they?",
+            correct: false
+            },
+            {
+            answer: "wasn't they?",
+            correct: false
+            },
+            {
+            answer: "wasn't it?",
+            correct: false
+            },
+            {
+            answer: "wasn't every?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 78,
+            quizQuestion: "Kevin will come tonight, ____",
+            answers: [
+            {
+            answer: "won't he?",
+            correct: true
+            },
+            {
+            answer: "who is Kevin?",
+            correct: false
+            },
+            {
+            answer: "willn't he?",
+            correct: false
+            },
+            {
+            answer: "I don't know Kevin",
+            correct: false
+            },
+            {
+            answer: "and what?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 79,
+            quizQuestion: "I am the best student in the class, ___",
+            answers: [
+            {
+            answer: " aren't I?",
+            correct: true
+            },
+            {
+            answer: "am I?",
+            correct: false
+            },
+            {
+            answer: "amn't I?",
+            correct: false
+            },
+            {
+            answer: "do I?",
+            correct: false
+            },
+            {
+            answer: "don't I?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 80,
+            quizQuestion: " Pass me the salt, ____",
+            answers: [
+            {
+            answer: "will you?",
+            correct: true
+            },
+            {
+            answer: "don't you?",
+            correct: false
+            },
+            {
+            answer: "do you?",
+            correct: false
+            },
+            {
+            answer: "shall you?",
+            correct: false
+            },
+            {
+            answer: "faster!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 81,
+            quizQuestion: " Pass me the salt, ____",
+            answers: [
+            {
+            answer: " will you?",
+            correct: true
+            },
+            {
+            answer: "plese.",
+            correct: false
+            },
+            {
+            answer: "plees.",
+            correct: false
+            },
+            {
+            answer: "pleese.",
+            correct: false
+            },
+            {
+            answer: "pleaz.",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 82,
+            quizQuestion: "Russel always smokes hookah (кальян)",
+            answers: [
+            {
+            answer: "doesn't he?",
+            correct: true
+            },
+            {
+            answer: "yes, of course",
+            correct: false
+            },
+            {
+            answer: "does he?",
+            correct: false
+            },
+            {
+            answer: "Oh my God!",
+            correct: false
+            },
+            {
+            answer: "don't he?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 83,
+            quizQuestion: " The slide show was fantastic, ____",
+            answers: [
+            {
+            answer: " wasn't it?",
+            correct: true
+            },
+            {
+            answer: "was it?",
+            correct: false
+            },
+            {
+            answer: "didn't it?",
+            correct: false
+            },
+            {
+            answer: "does it?",
+            correct: false
+            },
+            {
+            answer: "isn't it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 84,
+            quizQuestion: " The slide show was fantastic, ____",
+            answers: [
+            {
+            answer: " wasn't it?",
+            correct: true
+            },
+            {
+            answer: "wozn't it?",
+            correct: false
+            },
+            {
+            answer: "doesn't it?",
+            correct: false
+            },
+            {
+            answer: "was it?",
+            correct: false
+            },
+            {
+            answer: "is it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 85,
+            quizQuestion: " The sun won't shine tomorrow, ____",
+            answers: [
+            {
+            answer: " will it?",
+            correct: true
+            },
+            {
+            answer: "will she?",
+            correct: false
+            },
+            {
+            answer: "won't it?",
+            correct: false
+            },
+            {
+            answer: "is it?",
+            correct: false
+            },
+            {
+            answer: "shall it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 86,
+            quizQuestion: " There's a fly in your soup, ____",
+            answers: [
+            {
+            answer: " isn't there?",
+            correct: true
+            },
+            {
+            answer: "it is not a fly it is meat.",
+            correct: false
+            },
+            {
+            answer: "and what?",
+            correct: false
+            },
+            {
+            answer: "it is swimming",
+            correct: false
+            },
+            {
+            answer: "это типа муха в супе?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 87,
+            quizQuestion: " We must be at school at 8 o'clock, ____",
+            answers: [
+            {
+            answer: " mustn't we?",
+            correct: true
+            },
+            {
+            answer: "must we?",
+            correct: false
+            },
+            {
+            answer: "needn't we?",
+            correct: false
+            },
+            {
+            answer: "don't we?",
+            correct: false
+            },
+            {
+            answer: "aren't we?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 88,
+            quizQuestion: " There's a fly in your soup, ____",
+            answers: [
+            {
+            answer: " isn't there?",
+            correct: true
+            },
+            {
+            answer: "is there?",
+            correct: false
+            },
+            {
+            answer: "is it?",
+            correct: false
+            },
+            {
+            answer: "isn't it?",
+            correct: false
+            },
+            {
+            answer: "doesn't it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 89,
+            quizQuestion: " They used to live in New Orleans, ____",
+            answers: [
+            {
+            answer: " didn't they?",
+            correct: true
+            },
+            {
+            answer: "do they?",
+            correct: false
+            },
+            {
+            answer: "were they?",
+            correct: false
+            },
+            {
+            answer: "are they?",
+            correct: false
+            },
+            {
+            answer: "aren't them?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 90,
+            quizQuestion: " They used to live in New Orleans, ____",
+            answers: [
+            {
+            answer: " didn't they?",
+            correct: true
+            },
+            {
+            answer: "aren't they?",
+            correct: false
+            },
+            {
+            answer: "don't they?",
+            correct: false
+            },
+            {
+            answer: "did they?",
+            correct: false
+            },
+            {
+            answer: "did they?",
+            correct: false
+            },
+            ]
+            },
     ],
    
    
