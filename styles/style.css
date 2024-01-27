@@ -976,6 +976,10 @@ button {
     padding: 0;
 }
 
+.fryinspace {
+    left: calc(55% - 50px);
+}
+
 .redCap {
     top: 260px;
     left: calc(50% - 100px);
