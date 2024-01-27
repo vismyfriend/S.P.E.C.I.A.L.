@@ -223,6 +223,7 @@ function startGameFindPairs() {
     console.log("arrayLength - количество пар слов", chosenArray.length)
     howManyStarsScore()
     console.log("время на 5 звезд <", timeToGet5StarResult)
+    // console.log(currentSet)
     // replaceHeaderButton1()
     renderCards("ru")
     renderCards("eng")
