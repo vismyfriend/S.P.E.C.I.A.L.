@@ -92,7 +92,7 @@ function getArray(set) {
 function doWeHaveThisGame(set) {
     // если он не находит набор, то скрываем кнопку с игрой
     if (!allCardsGameFindAPair[set]) popupMissionsAndSetsGameFindAPair.classList.remove("show")
-    if (!allWordsForGameTypeOrWrite[set]) InputTypeOrWriteGame.classList.remove("show")
+    // if (!allWordsForGameTypeOrWrite[set]) InputTypeOrWriteGame.classList.add("show")
     if (!allQuestionsOneDeck[set]) letsSpeak.classList.remove("show")
     if (!quizQuestionsList[set]) multipleChoiceQuiz.classList.remove("show")
     if (!benderWordOrderSentences[set]) BenderWordOrderGameButton.classList.remove("show")
@@ -132,7 +132,7 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     gameFindPairsTryAgainButton.classList.add("hidden")
     oneDeckButtons.classList.remove("visible")
     popupMissionsAndSetsSets.classList.add("hide")
-    InputTypeOrWriteGame.classList.add("show")
+    // InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
     startGameTNTbutton.classList.add("show")
     slotMachine.classList.add("show")
@@ -955,6 +955,7 @@ const TNTgameTaskValue = document.querySelector(".TNTgameTaskValue")
 
 startGameTNTbutton.addEventListener("click", startGameTNT)
 
+
 function startGameTNT() {
     TNTtimer.textContent = `00:${TNTbeforeExplosion}`
     popupMissionsAndSets.classList.add("none")
@@ -962,15 +963,18 @@ function startGameTNT() {
     clickTest.classList.add("none")
     value = chooseTypeOrWrite[typeOrWriteNumber]
     TNTgameTaskValue.textContent = value.ru
+    TNTgameCounter.classList.add("none")
 
     TNTstartTimer()
 }
 
 const TNTtimer = document.querySelector(".TNTtimer")
 const TNTbuttonCompare = document.querySelector(".TNTgameButtonCompare")
+const TNTgameButtonStartAgain = document.querySelector(".TNTgameButtonStartAgain")
 const TNTuserInput = document.querySelector(".TNTgamePlayerInputType")
 const TNTgameTaskHint = document.querySelector(".TNTgameTaskHint")
 const TNTgameInfo = document.querySelector(".TNTgameInfo")
+const TNTgameCounter = document.querySelector(".TNTgame-counter")
 
 TNTbuttonCompare.addEventListener("click", compareTNTinput)
 
@@ -991,8 +995,17 @@ function TNTstartTimer() {
     }, 1000) //1000 это одна секунда (в милискунда)
 }
 function TNTgameover() {
-    TNTgameInfo.textContent = "B💥💥m! "
+    TNTgameInfo.textContent = "B💥💥m!"
     clearInterval(TNTtimerMechanics)
+    TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
+    TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
+    TNTuserInput.value = `or 👇 deactivate more`
+    TNTuserInput.value = `или 👇 обезвредь ещё`
+    TNTbuttonCompare.classList.add("none")
+    TNTgameButtonStartAgain.classList.remove("none")
+    TNTgameCounter.classList.add("none")
+    // TNTgameTaskHint.innerHTML = `попробуй обезвредить все`
+    
 }
 
 function compareTNTinput() {
@@ -1004,21 +1017,26 @@ function compareTNTinput() {
         //  scoreTNTGame += 1
         scoreTNTGame++
         TNTbeforeExplosion += 13
-        tntGameNextWordToTranslate(TNTgameTaskValue)
         TNTuserInput.value = ""
-        keySoundInputOk.play()
         // typeOrWriteGameСounter.textContent = `верно:  ${scoreTNTGame} out of ${chooseTypeOrWrite.length}`
         // typeOrWriteGameСounter.classList.add("green")
+        TNTgameTaskHint.innerHTML = `YES! + 15 seconds! Обезвреживай следующую, как переводится:`
         TNTgameTaskHint.classList.add("green")
+        tntGameNextWordToTranslate(TNTgameTaskValue)
+        keySoundInputOk.play()
     }
     else {
         TNTgameTaskHint.classList.remove("green")
         // TNTgameTaskValue.textContent += value.hint
-        TNTgameTaskHint.textContent = "подсказка : " + value.hint
+        // TNTgameTaskHint.textContent = "подсказка : " + value.hint
+        TNTgameTaskHint.textContent = "подсказка : " + value.ru
+        // TNTgameTaskValue.textContent = value.hint
+        TNTgameTaskValue.textContent = "Быстрее!! Исправляй на : " + value.eng
+    
     }
 
 }
-
+TNTgameButtonStartAgain.addEventListener("click", pageReloadRefresh)
 
 function tntGameNextWordToTranslate(TNTgameTaskValue) {
     typeOrWriteNumber = typeOrWriteNumber + 1
@@ -1027,10 +1045,18 @@ function tntGameNextWordToTranslate(TNTgameTaskValue) {
     if (value) {
         TNTgameTaskValue.innerHTML = value.ru
     } else {
-        TNTgameTaskValue.textContent = `Вы справились!`
+        clearInterval(TNTtimerMechanics)
+        TNTgameTaskHint.classList.add("yellow")
+        TNTgameInfo.textContent = "Времени осталось в запасе :"
+        TNTgameTaskHint.textContent = "Super! Сделай скриншот и отправь to Vincent"
+        TNTgameTaskValue.textContent = `I am the best agent`
+        TNTuserInput.value = `deactivated all ${scoreTNTGame} bombs!`
+        TNTbuttonCompare.classList.add("none")
+        TNTgameButtonStartAgain.classList.remove("none")
     }
     // TNTgameTaskValue.classList.add("none")
-    TNTgameTaskHint.textContent = `вы перевели:  ${scoreTNTGame} из ${chooseTypeOrWrite.length}`
+    // TNTgameTaskHint.textContent = `вы перевели:  ${scoreTNTGame} из ${chooseTypeOrWrite.length}`
+    TNTgameCounter.textContent = `обезврежено бомб:  ${scoreTNTGame}`
 }
 
 
