@@ -946,7 +946,7 @@ keyDel.addEventListener("click", () => {
 //новая игра про бомбу TNT ниже
 
 let TNTtimerMechanics
-let TNTbeforeExplosion = 3
+let TNTbeforeExplosion = 30
 let TNTtimerFormat
 
 const gameTNT = document.querySelector(".TNTgameContainer")
@@ -991,7 +991,7 @@ function TNTstartTimer() {
     }, 1000) //1000 это одна секунда (в милискунда)
 }
 function TNTgameover() {
-    TNTgameInfo.textContent = "Ну всё 404"
+    TNTgameInfo.textContent = "B💥💥m! "
     clearInterval(TNTtimerMechanics)
 }
 
@@ -1003,7 +1003,7 @@ function compareTNTinput() {
         console.log("верно + 15 секунд к таймеру")
         //  scoreTNTGame += 1
         scoreTNTGame++
-        TNTbeforeExplosion += 15
+        TNTbeforeExplosion += 13
         tntGameNextWordToTranslate(TNTgameTaskValue)
         TNTuserInput.value = ""
         keySoundInputOk.play()
