@@ -675,37 +675,17 @@ text-align: center;
 .popupMissionsAndSets__gameFindAPair {
     margin-top: 20px;
 }
-
-.popupMissionsAndSets__gameFindAPair,
-.popupMissionsAndSets__InputTypeOrWriteGame,
-.popupMissionsAndSets__letsSpeak,
-.popupMissionsAndSets__BenderWordOrderGame,
-.popupMissionsAndSets__slot-machine,
-.popupMissionsAndSets__multipleChoiceQuiz,
-.popupMissionsAndSets__copyThisForNewGames {
+.allSetsStyle {
     display: none;
     gap: 10px;
     margin-bottom: -10px;
     cursor: pointer;
 }
-
-.popupMissionsAndSets__gameFindAPair img,
-.popupMissionsAndSets__InputTypeOrWriteGame img,
-.popupMissionsAndSets__letsSpeak img,
-.popupMissionsAndSets__BenderWordOrderGame img,
-.popupMissionsAndSets__slot-machine img,
-.popupMissionsAndSets__multipleChoiceQuiz img,
-.popupMissionsAndSets__copyThisForNewGames img {
+.allSetsStyle img {
     max-width: 50px;
 }
 
-.popupMissionsAndSets__gameFindAPair p,
-.popupMissionsAndSets__InputTypeOrWriteGame p,
-.popupMissionsAndSets__letsSpeak p,
-.popupMissionsAndSets__BenderWordOrderGame p,
-.popupMissionsAndSets__slot-machine p,
-.popupMissionsAndSets__multipleChoiceQuiz p,
-.popupMissionsAndSets__copyThisForNewGames p {
+.allSetsStyle p {
     background: #6cd00800;
     border-radius: 20px;
     margin: 0;
@@ -736,14 +716,7 @@ text-align: center;
     font-size: 20px;
 }
 
-.popupMissionsAndSets__gameFindAPair.show,
-.popupMissionsAndSets__InputTypeOrWriteGame.show,
-.popupMissionsAndSets__letsSpeak.show,
-.popupMissionsAndSets__chosen-set.show,
-.popupMissionsAndSets__slot-machine.show,
-.popupMissionsAndSets__multipleChoiceQuiz.show,
-.popupMissionsAndSets__BenderWordOrderGame.show,
-.popupMissionsAndSets__copyThisForNewGames.show {
+.allSetsStyle.show {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;

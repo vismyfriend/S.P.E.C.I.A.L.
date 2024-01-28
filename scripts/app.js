@@ -32,29 +32,8 @@ function startGameLieToMe() {
 }
 
 
-// clickTest.addEventListener("click", startGameLieToMe)
-   clickTest.addEventListener("click", startGameTNT)
+clickTest.addEventListener("click", startGameLieToMe)
 
-//новая игра про бомбу TNT ниже
-
-const TNTtimer = document.querySelector(".TNTtimer")
-const TNTtimeSeconds = document.getElementById("TNTseconds")
-const TNTtimeMinutes = document.getElementById("TNTminutes")
-
-let TNTminutes = "00"
-let TNTseconds = "00"
-let TNTinterval = null
-
-const gameTNT = document.querySelector(".TNTgameContainer")
-
-function startGameTNT() {
-    popupMissionsAndSets.classList.add("none")
-    gameTNT.classList.remove("none")
-    clickTest.classList.add("none")
-}
-
-
-//новая игра про бомбу TNT выше
 
 // уточнить у Эндрю про строку ниже - что это 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
@@ -117,8 +96,10 @@ function doWeHaveThisGame(set) {
     if (!allQuestionsOneDeck[set]) letsSpeak.classList.remove("show")
     if (!quizQuestionsList[set]) multipleChoiceQuiz.classList.remove("show")
     if (!benderWordOrderSentences[set]) BenderWordOrderGameButton.classList.remove("show")
+    if (!allWordsForGameTypeOrWrite[set]) startGameTNTbutton.classList.remove("show")
 
-   
+
+
 }
 
 //проходим по всем наборам, которые создали в index.html
@@ -140,7 +121,7 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
 function chooseSet(textTheNameOfTheChosenSet, set) {
     console.log(set)
     chosenSet.textContent = textTheNameOfTheChosenSet
-    console.log("название миссии=",textTheNameOfTheChosenSet)
+    console.log("название миссии=", textTheNameOfTheChosenSet)
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
     popupMissionsAndSetsDescription.textContent = "Чтобы пройти миссию выполни tasks задания 👇 "
@@ -153,6 +134,7 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     popupMissionsAndSetsSets.classList.add("hide")
     InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
+    startGameTNTbutton.classList.add("show")
     slotMachine.classList.add("show")
     multipleChoiceQuiz.classList.add("show")
     copyThisForNewGames?.classList.add("show")
@@ -631,6 +613,7 @@ const pointsGameBenderWordOrderGame = document.querySelector(".BenderWordOrderGa
 const typeOrWriteGameСounter = document.querySelector(".typeOrWriteGame-counter")
 let scoreGameBenderWordOrderGame = 0
 let scoreTypeOrWriteGame = 0
+let scoreTNTGame = 0
 let lifeGameBenderWordOrderGame = 5
 // уменьшая жизни принудительно изменить width
 let n = -1
@@ -655,7 +638,7 @@ BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame
 
 // передаем set чтобы bender понимал в каком он наборе
 function renderWordsGameBenderWordOrderGame() {
-    
+
     n = n + 1
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     // console.log(life)
@@ -791,7 +774,7 @@ InputTypeOrWriteGame.addEventListener("click", startGameInputTypeOrWriteGame)
 function nextWordToTranslate(inputPlaceholder) {
     typeOrWriteNumber = typeOrWriteNumber + 1
     value = chooseTypeOrWrite[typeOrWriteNumber]
-    
+
     if (value) {
         inputPlaceholder.innerHTML = value.ru
     } else {
@@ -960,6 +943,101 @@ keyDel.addEventListener("click", () => {
 
 
 
+//новая игра про бомбу TNT ниже
+
+let TNTtimerMechanics
+let TNTbeforeExplosion = 3
+let TNTtimerFormat
+
+const gameTNT = document.querySelector(".TNTgameContainer")
+const startGameTNTbutton = document.querySelector(".popupMissionsAndSets__startGameTNT")
+const TNTgameTaskValue = document.querySelector(".TNTgameTaskValue")
+
+startGameTNTbutton.addEventListener("click", startGameTNT)
+
+function startGameTNT() {
+    TNTtimer.textContent = `00:${TNTbeforeExplosion}`
+    popupMissionsAndSets.classList.add("none")
+    gameTNT.classList.remove("none")
+    clickTest.classList.add("none")
+    value = chooseTypeOrWrite[typeOrWriteNumber]
+    TNTgameTaskValue.textContent = value.ru
+
+    TNTstartTimer()
+}
+
+const TNTtimer = document.querySelector(".TNTtimer")
+const TNTbuttonCompare = document.querySelector(".TNTgameButtonCompare")
+const TNTuserInput = document.querySelector(".TNTgamePlayerInputType")
+const TNTgameTaskHint = document.querySelector(".TNTgameTaskHint")
+const TNTgameInfo = document.querySelector(".TNTgameInfo")
+
+TNTbuttonCompare.addEventListener("click", compareTNTinput)
+
+function TNTstartTimer() {
+    TNTtimerMechanics = setInterval(() => {
+        if (TNTbeforeExplosion === 0) TNTgameover()
+
+// GREAT TIMER function by EGORCHIK!
+        // % - остаток от деления 
+        TNTtimerFormat = `${Math.trunc(TNTbeforeExplosion / 60) > 9
+            ? Math.trunc(TNTbeforeExplosion / 60)
+            : '0' + Math.trunc(TNTbeforeExplosion / 60)}:${Math.trunc(TNTbeforeExplosion % 60) > 9
+                ? Math.trunc(TNTbeforeExplosion % 60)
+                : '0' + Math.trunc(TNTbeforeExplosion % 60)}`
+
+        TNTtimer.textContent = TNTtimerFormat
+        TNTbeforeExplosion--
+    }, 1000) //1000 это одна секунда (в милискунда)
+}
+function TNTgameover() {
+    TNTgameInfo.textContent = "Ну всё 404"
+    clearInterval(TNTtimerMechanics)
+}
+
+function compareTNTinput() {
+    console.log("ответ", value.eng)
+    console.log(TNTuserInput)
+
+    if (TNTuserInput.value.toLowerCase() === value.eng.toLowerCase()) {
+        console.log("верно + 15 секунд к таймеру")
+        //  scoreTNTGame += 1
+        scoreTNTGame++
+        TNTbeforeExplosion += 15
+        tntGameNextWordToTranslate(TNTgameTaskValue)
+        TNTuserInput.value = ""
+        keySoundInputOk.play()
+        // typeOrWriteGameСounter.textContent = `верно:  ${scoreTNTGame} out of ${chooseTypeOrWrite.length}`
+        // typeOrWriteGameСounter.classList.add("green")
+        TNTgameTaskHint.classList.add("green")
+    }
+    else {
+        TNTgameTaskHint.classList.remove("green")
+        // TNTgameTaskValue.textContent += value.hint
+        TNTgameTaskHint.textContent = "подсказка : " + value.hint
+    }
+
+}
+
+
+function tntGameNextWordToTranslate(TNTgameTaskValue) {
+    typeOrWriteNumber = typeOrWriteNumber + 1
+    value = chooseTypeOrWrite[typeOrWriteNumber]
+
+    if (value) {
+        TNTgameTaskValue.innerHTML = value.ru
+    } else {
+        TNTgameTaskValue.textContent = `Вы справились!`
+    }
+    // TNTgameTaskValue.classList.add("none")
+    TNTgameTaskHint.textContent = `вы перевели:  ${scoreTNTGame} из ${chooseTypeOrWrite.length}`
+}
+
+
+
+
+
+//новая игра про бомбу TNT выше
 
 
 // функция перезагрузка страницы
