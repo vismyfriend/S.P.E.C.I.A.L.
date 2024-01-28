@@ -20,14 +20,41 @@ const headerPageReoad = document.querySelector(".headerPageReoad")
 headerPageReoad?.addEventListener("click", pageReloadRefresh)
 
 const gameLieToMe = document.querySelector(".gameLieToMe")
-const clickTest = document.querySelector(".clickTest")
-clickTest.addEventListener("click", startGameLieToMe)
+
+const clickTest = document.querySelector(".clickTest"
+)
+
 
 function startGameLieToMe() {
     popupMissionsAndSets.classList.add("none")
     gameLieToMe.classList.remove("none")
     clickTest.classList.add("none")
 }
+
+
+// clickTest.addEventListener("click", startGameLieToMe)
+   clickTest.addEventListener("click", startGameTNT)
+
+//новая игра про бомбу TNT ниже
+
+const TNTtimer = document.querySelector(".TNTtimer")
+const TNTtimeSeconds = document.getElementById("TNTseconds")
+const TNTtimeMinutes = document.getElementById("TNTminutes")
+
+let TNTminutes = "00"
+let TNTseconds = "00"
+let TNTinterval = null
+
+const gameTNT = document.querySelector(".TNTgameContainer")
+
+function startGameTNT() {
+    popupMissionsAndSets.classList.add("none")
+    gameTNT.classList.remove("none")
+    clickTest.classList.add("none")
+}
+
+
+//новая игра про бомбу TNT выше
 
 // уточнить у Эндрю про строку ниже - что это 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
@@ -151,19 +178,15 @@ const userSearchesForMission = document.querySelector(".userInput.userSearchesFo
 userSearchesForMission.addEventListener("input", () => userSearchesForMissionSet())
 
 function userSearchesForMissionSet() {
-    let allSetsInHTML = document.querySelectorAll(".popupMissionsAndSets__set")
-    let filtered = allSetsArray.filter(el => el.includes(userSearchesForMission.value.toLowerCase()))
-    allSetsInHTML.forEach(el => {
-        if (!filtered.includes(el.dataset.set)) {
-            el.classList.add("none")
-            // } else if (userSearchesForMission.value != "") {
-        } else {
-            el.classList.remove("none")
-            // visibility попробовать
-            // или другой класс сделать (например hidden или secret)
-            // если пустое поле ввода - то добавить класс
-        }
-    });
+    // чтобы корректо работало нужно popupMissionsAndSets__set чтобы был на каждом наборе
+    // собрали все наборы слов в один массив
+    let allSetsInHTML = Array.from(document.querySelectorAll(".popupMissionsAndSets__set"))
+    // сделали все их невидимыми
+    allSetsInHTML.forEach(el => el.classList.add("none"))
+    // отфильтровали по тому, что ввел агент (студент)
+    let foundMissions = allSetsInHTML.filter(el => el.innerHTML.toLowerCase().includes(userSearchesForMission.value.toLowerCase()))
+    // включили видимость отфильтрованным наборам
+    foundMissions.forEach(el => el.classList.remove("none"))
 }
 
 
@@ -234,7 +257,7 @@ function startGameFindPairs() {
     howManyTimesSkipped = 0
     pairsRemainToMatch = chosenArray.length
     foundPairs = 0
-    gameFindAPairInfo.textContent = `Нажимай на столбцы, подбирай подходящую пару:`
+    gameFindAPairInfo.textContent = `Нажимай на слова, затем на подходящий перевод:`
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}. Твои звёзды за задание:`
     popupMissionsAndSets.classList.add("close")
     logoSpecial.classList.add("hidden")
@@ -786,8 +809,10 @@ function compareInput() {
         scoreTypeOrWriteGame += 1
         keySoundInputOk.play()
         typeOrWriteGameСounter.textContent = `верно:  ${scoreTypeOrWriteGame} out of ${chooseTypeOrWrite.length}`
+        typeOrWriteGameСounter.classList.add("green")
     } else {
         typeOrWriteGameСounter.textContent = `Хмм...🤷🏽‍♂️ может опечатка или лишний пробел? Попробуй еще раз. Или сделай скриншот и отправь мне. Thank you. Потом нажми skip`
+        typeOrWriteGameСounter.classList.remove("green")
     }
 }
 

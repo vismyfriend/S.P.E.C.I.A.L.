@@ -42,7 +42,7 @@
                 <p class="popupMissionsAndSets__description">👈 choose your mission to practice 👉 <br>
                     Выбирай миссию, чтобы тренироваться
                 </p>
-                <input type="text" class="userSearchesForMission userInput" placeholder=" 🔎 find mission...">
+                <input type="text" class="userSearchesForMission userInput" placeholder=" 🔎 find mission..." autocomplete="none" aria-autocomplete="none">
                 <ul class="popupMissionsAndSets__sets">
                     <button class="scroll-left"></button>
                     <button class="scroll-right"></button>
@@ -212,7 +212,7 @@
                 <div class="gameFindAPair__container"></div>
                 <div class="gameFindAPairButtons">
                     <button class="gameFindAPairButtonBackToMissions">вернуться к <br> выбору миссий</button>
-                    <button class="gameFindAPairButtonSkipThese">skip this <br> пропустить </button>
+                    <button class="gameFindAPairButtonSkipThese">skip <br> пропустить </button>
                     <button class="gameFindAPairButtonNotUsed">NotUsed</button>
                 </div>
             </div>
@@ -308,7 +308,7 @@
                 <div class="typeOrWriteGameButtons">
                     <button class="typeOrWriteGameButtonSkip">skip пропустить</button>
                     <button class="typeOrWriteGameButtonIDK">a hint подсказка</button>
-                    <button class="typeOrWriteGameButtonCompare">Ok, next</button>
+                    <button class="typeOrWriteGameButtonCompare">check, проверить</button>
                 </div>
                 <p class="typeOrWriteGame-counter">верно отвечено : 0</p>
                 <!-- <img class="InputTypeOrWriteGameFryFuturama" src="./images/FryFuturama.png" alt="FryFuturama"> -->
@@ -342,9 +342,27 @@
                 <div class="key keyN">N</div>
                 <div class="key keyM">M</div>
                 <div class="key keyDot">,</div>
-                <div class="key keySpaceBar key-span-2">Space</div>
+                <div class="key keySpaceBar key-span-2">Space - пробел</div>
                 <div class="key keyDel key-span-3">del←</div>
             </div>
+        </div>
+        <div class="TNTgameContainer none">
+            <div class="TNTgameMainScreen">
+                <h3 class="TNTgameInfo"> До взрыва</h3>
+                <!-- <h3 class="TNTtimer"> 00:30 </h3> -->
+                <p class="TNTtimer"><span id="TNTminutes">00</span>:<span id="TNTseconds">00</span></p>
+                    <p class="TNTgameTaskHint"> Чтобы обезвредить бомбу напиши на английском: </p>
+                    <p class="TNTgameTaskValue"> огурец /кьЮкамбэ/ </p>
+                <input class="TNTgamePlayerInputType" type="text" placeholder="введи сюда перевод ">
+                <div class="TNTgameButtons">
+                    <button class="TNTgameButtonSkip none">skip пропустить</button>
+                    <button class="TNTgameButtonIDK">a hint подсказка</button>
+                    <button class="TNTgameButtonCompare">обезвредить deactivate</button>
+                </div>
+                <p class="TNTgame-counter">обезврежено бомб : 0</p>
+                <!-- <img class="InputTypeOrWriteGameFryFuturama" src="./images/FryFuturama.png" alt="FryFuturama"> -->
+            </div>
+            
         </div>
         <div class="gameTrickyQuiz none">
             <!-- уточнить зачем мы создавали эту кнопку, она же ничего не делает -->
