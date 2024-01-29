@@ -1021,17 +1021,20 @@ function compareTNTinput() {
         // typeOrWriteGameСounter.textContent = `верно:  ${scoreTNTGame} out of ${chooseTypeOrWrite.length}`
         // typeOrWriteGameСounter.classList.add("green")
         TNTgameTaskHint.innerHTML = `YES! + 15 seconds! Обезвреживай следующую, как переводится:`
+        TNTgameTaskHint.classList.remove("red")
         TNTgameTaskHint.classList.add("green")
         tntGameNextWordToTranslate(TNTgameTaskValue)
         keySoundInputOk.play()
     }
     else {
         TNTgameTaskHint.classList.remove("green")
+        TNTgameTaskHint.classList.add("red")
         // TNTgameTaskValue.textContent += value.hint
         // TNTgameTaskHint.textContent = "подсказка : " + value.hint
         TNTgameTaskHint.textContent = "подсказка : " + value.ru
         // TNTgameTaskValue.textContent = value.hint
         TNTgameTaskValue.textContent = "Быстрее!! Исправляй на : " + value.eng
+        TNTbeforeExplosion -= 2
     
     }
 
