@@ -592,6 +592,8 @@ function startGameSlotMachine() {
 
 
 // ниже все для игры BenderWordOrderGame
+
+const benderWordOrderGameTask = document.querySelector(".BenderWordOrderGameTask-eng")
 const gameBender = document.querySelector(".gameBender")
 const BenderWordOrderGameButton = document.querySelector(".popupMissionsAndSets__BenderWordOrderGame")
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
@@ -629,7 +631,7 @@ function startGameBenderWordOrderGame() {
     userSearchesForMission.classList.add("none")
     gameTrickyQuiz.classList.add("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
-    // russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
+    russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
 }
 
 BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
@@ -638,9 +640,10 @@ BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame
 
 // передаем set чтобы bender понимал в каком он наборе
 function renderWordsGameBenderWordOrderGame() {
-
+    // russianHintGameBenderWordOrderGame.textContent = "Без русского перевода попробуй восстановить правильный порядок слов"
+    russianHintGameBenderWordOrderGame.textContent = "Догадайся что за предложение Робот пытается сказать. Нажми на слова в правильном порядке"
     n = n + 1
-    russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
+    // russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     // console.log(life)
     // const sentenceGameBenderWordOrderGame = testGameBenderWordOrderGame[n].eng
     const sentenceGameBenderWordOrderGame = benderWordOrderSentences[currentSet][n].eng
@@ -668,8 +671,8 @@ function renderWordsGameBenderWordOrderGame() {
                         nextSentenceGameBenderWordOrderGame()
                     } else {
                         russianHintMistakeGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
-                        correctAnswerGameBenderWordOrderGame.textContent = `${sentenceGameBenderWordOrderGame} - вариант Бендэра`
-                        userAnswerGameBenderWordOrderGame.textContent = `${inputSentenceGameBenderWordOrderGame.textContent} - ваш вариант`
+                        correctAnswerGameBenderWordOrderGame.textContent = `Робот думает, что нужно написать : ${sentenceGameBenderWordOrderGame}`
+                        userAnswerGameBenderWordOrderGame.textContent = `А вы написали немного по-другому : ${inputSentenceGameBenderWordOrderGame.textContent}`
                         userAnswerGameBenderWordOrderGame.classList.add("wrong")
                         containerMistakeGameBenderWordOrderGame.classList.add("show")
                         lifeGameBenderWordOrderGame = lifeGameBenderWordOrderGame - 1
@@ -688,7 +691,11 @@ function renderWordsGameBenderWordOrderGame() {
 }
 
 function gameOverGameBenderWordOrderGame() {
-    inputSentenceGameBenderWordOrderGame.textContent = `Крутец-молодец! Bender likes you! Даже наверное не жульничали, да же?`
+    inputSentenceGameBenderWordOrderGame.textContent = `Крутец-молодец! Ты помог Бендеру with his English! Поделись фоткой этого достижения с Винсентом`
+    russianHintGameBenderWordOrderGame.textContent = `верно:  ${scoreGameBenderWordOrderGame} / ${benderWordOrderSentences[currentSet].length}`
+    // не работает пока почему-то
+    // benderWordOrderGameTask.textContent = "My achievement :"
+    // console.log(benderWordOrderGameTask.textContent)
 }
 function nextSentenceGameBenderWordOrderGame() {
     wordsContainerGameBenderWordOrderGame.innerHTML = ""
@@ -731,14 +738,16 @@ screenshotGameBenderWordOrderGame.addEventListener("click", () => {
 hintGameBenderWordOrderGame.addEventListener("click", () => {
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     setTimeout(() => {
-        russianHintGameBenderWordOrderGame.textContent = "Без русского перевода попробуй восстановить правильный порядок слов"
+        russianHintGameBenderWordOrderGame.textContent = "нажимай слова в правильном порядке (не бойся ошибаться)"
     }, 4000)
 })
 
 cheatGameBenderWordOrderGame.addEventListener("click", () => {
+    // russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].eng
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].eng
+
     setTimeout(() => {
-        russianHintGameBenderWordOrderGame.textContent = "Без русского перевода попробуй догадаться что за предложение"
+        russianHintGameBenderWordOrderGame.textContent = "нажимай слова в правильном порядке"
     }, 4000)
     // милисекунды 
 })
