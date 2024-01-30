@@ -975,7 +975,8 @@ function startGameTNT() {
     value = chooseTypeOrWrite[typeOrWriteNumber]
     TNTgameTaskValue.textContent = value.ru
     TNTgameCounter.classList.add("none")
-    
+    usedCheatsText.classList.remove("visible")
+
     TNTstartTimer()
 }
 
