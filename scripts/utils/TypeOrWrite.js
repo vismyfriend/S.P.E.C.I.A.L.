@@ -728,6 +728,483 @@ const allWordsForGameTypeOrWrite = {
             },
     ],
  
+    future01a1: [
+        {
+            id:1,
+            eng:"on foot",
+            ru:"пешком",
+            hint:"/ он фут /"
+            },
+            {
+            id:2,
+            eng:"by taxi",
+            ru:"на такси",
+            hint:"/ бай тЭкси /"
+            },
+            {
+            id:3,
+            eng:"by train",
+            ru:"на поезде",
+            hint:"/ бай трэйн /"
+            },
+            {
+            id:4,
+            eng:"by bus",
+            ru:"на автобусе",
+            hint:"/ бай бас /"
+            },
+            {
+            id:5,
+            eng:"soon",
+            ru:"скоро",
+            hint:"/ сун /"
+            },
+            {
+            id:6,
+            eng:"later",
+            ru:"позже, потом",
+            hint:"/ лЭйтэ /"
+            },
+            {
+            id:7,
+            eng:"in two days",
+            ru:"через два дня",
+            hint:"/ ин ту дэйz /"
+            },
+            {
+            id:8,
+            eng:"next week",
+            ru:"на следующей неделе",
+            hint:"/ нэкст вик /"
+            },
+            {
+            id:9,
+            eng:"in a month",
+            ru:"через месяц",
+            hint:"/ ин э мАнтh /"
+            },
+            {
+            id:10,
+            eng:"next life",
+            ru:" следующей жизни",
+            hint:"/ нэкст лАйф /"
+            },
+            {
+            id:11,
+            eng:"in an hour",
+            ru:"через час",
+            hint:"/ ин эн Ауэ /"
+            },
+            {
+            id:12,
+            eng:"the day after tomorrow",
+            ru:"послезавтра",
+            hint:""
+            },
+            {
+            id:13,
+            eng:"after dinner",
+            ru:"после ужина",
+            hint:""
+            },
+            {
+            id:14,
+            eng:"on the first",
+            ru:"первого числа",
+            hint:"/ он дэ фёст /"
+            },
+            {
+            id:15,
+            eng:"on the second",
+            ru:"второго числа",
+            hint:"/ он дэ сэконд /"
+            },
+            {
+            id:16,
+            eng:"on the third",
+            ru:"третьего числа",
+            hint:"/ он дэ thёрд /"
+            },
+            {
+            id:17,
+            eng:"on the fifth",
+            ru:"пятого числа",
+            hint:"/ он дэ фИфтh /"
+            },
+            {
+            id:18,
+            eng:"in February",
+            ru:"в феврале",
+            hint:"/ ин фЭбрари /"
+            },
+            {
+            id:19,
+            eng:"in winter",
+            ru:"зимой",
+            hint:"/ ин уинтэ /"
+            },
+            {
+            id:20,
+            eng:"on the weekends",
+            ru:"на выходных",
+            hint:""
+            },
+            {
+            id:21,
+            eng:"at night",
+            ru:"ночью",
+            hint:"/ эт найт /"
+            },
+            {
+            id:22,
+            eng:"tonight",
+            ru:"сегодня вечером",
+            hint:"/ тунайт /"
+            },
+            {
+            id:23,
+            eng:"never",
+            ru:"никогда",
+            hint:"/ нЭвэ /"
+            },
+            {
+            id:24,
+            eng:"in a week",
+            ru:"через неделю",
+            hint:""
+            },
+            {
+            id:25,
+            eng:"in two hours",
+            ru:"через два часа",
+            hint:""
+            },
+            {
+            id:26,
+            eng:"in an hour",
+            ru:"через час",
+            hint:""
+            },
+            {
+            id:27,
+            eng:"in spring",
+            ru:"весной",
+            hint:"/ сприН /"
+            },
+            {
+            id:28,
+            eng:"today at midnight",
+            ru:"сегодня в полночь",
+            hint:"/ эт мИднайт /"
+            },
+            {
+            id:29,
+            eng:"after this lesson ",
+            ru:"после этого занятия",
+            hint:""
+            },
+            {
+            id:30,
+            eng:"later",
+            ru:"позже, позднее",
+            hint:"/ лэЙтэ /"
+            },
+            {
+            id:31,
+            eng:"tomorrow",
+            ru:"завтра",
+            hint:""
+            },
+            {
+            id:32,
+            eng:"on Monday",
+            ru:"в понедельник",
+            hint:""
+            },
+            {
+            id:33,
+            eng:"on Tuesday",
+            ru:"во вторник",
+            hint:""
+            },
+            {
+            id:34,
+            eng:"on Wednesday",
+            ru:"в среду",
+            hint:"/ уЭнсдэй /"
+            },
+            {
+            id:35,
+            eng:"on Thursday",
+            ru:"в четверг",
+            hint:""
+            },
+            {
+            id:36,
+            eng:"on Friday",
+            ru:"в пятницу",
+            hint:"/ фрайдэй /"
+            },
+            {
+            id:37,
+            eng:"on Saturday",
+            ru:"в субботу",
+            hint:"/ сАтэдэй /"
+            },
+            {
+            id:38,
+            eng:"on Sunday",
+            ru:"в воскресенье",
+            hint:"/ сАндэй /"
+            },
+            {
+            id:39,
+            eng:"next month",
+            ru:"в следующем месяце",
+            hint:"/ манth /"
+            },
+            {
+            id:40,
+            eng:"next life",
+            ru:"в следующей жизни",
+            hint:"/ лайф /"
+            },
+            {
+            id:41,
+            eng:"on the first of April ",
+            ru:"первого апреля",
+            hint:"/ эйприл /"
+            },
+            {
+            id:42,
+            eng:"on the second of January ",
+            ru:"второго января",
+            hint:"/ джэнэри /"
+            },
+            {
+            id:43,
+            eng:"on the third of June ",
+            ru:"третьего июня",
+            hint:"/ джун /"
+            },
+            {
+            id:44,
+            eng:"on the fourth of July ",
+            ru:"четвертого июля",
+            hint:"/ джулай /"
+            },
+            {
+            id:45,
+            eng:"on the fifth of August ",
+            ru:"пятого августа",
+            hint:"/ ОгЭст /"
+            },
+            {
+            id:46,
+            eng:"on the eighth of March ",
+            ru:"восьмого марта",
+            hint:"/ мач /"
+            },
+            {
+            id:47,
+            eng:"in a couple of hours",
+            ru:"через пару часов",
+            hint:"/ капл ов Аурз /"
+            },
+            {
+            id:48,
+            eng:"in thirty minutes",
+            ru:"через тридцать минут",
+            hint:""
+            },
+            {
+            id:49,
+            eng:"in three years",
+            ru:"через три года",
+            hint:""
+            },
+            {
+            id:50,
+            eng:"in a couple of days",
+            ru:"через пару дней",
+            hint:"/ капл ов дЭйz /"
+            },
+            {
+            id:51,
+            eng:"in March",
+            ru:"в марте",
+            hint:""
+            },
+            {
+            id:52,
+            eng:"later tonight",
+            ru:"попозже сегодня вечером",
+            hint:"/ лЭйтэ тунайт /"
+            },
+            {
+            id:53,
+            eng:"in the evening",
+            ru:"вечером",
+            hint:"/ Ивнин /"
+            },
+            {
+            id:54,
+            eng:"in three days",
+            ru:"через три дня",
+            hint:""
+            },
+            {
+            id:55,
+            eng:"in a few weeks",
+            ru:"через несколько недель",
+            hint:"/ ин э фью уикс /"
+            },
+            {
+            id:56,
+            eng:"in a few days",
+            ru:"через несколько дней",
+            hint:"/ ин э фью дэйz /"
+            },
+            {
+            id:57,
+            eng:"in a few years",
+            ru:"через несколько лет",
+            hint:"/ ин э фью йИэz /"
+            },
+            {
+            id:58,
+            eng:"in a few months",
+            ru:"через несколько месяцев",
+            hint:"/ ин э фью мАнth /"
+            },
+            {
+            id:59,
+            eng:"when pigs fly",
+            ru:"когда рак на горе свистнет. (идиома)",
+            hint:""
+            },
+            {
+            id:60,
+            eng:"next Tuesday",
+            ru:"в следующий вторник",
+            hint:"/ тьЮсдэй /"
+            },
+            {
+            id:61,
+            eng:"next Saturday",
+            ru:"в следующую субботу",
+            hint:"/ сАтэдэй /"
+            },
+            {
+            id:62,
+            eng:"next Sunday",
+            ru:"в следующее воскресенье",
+            hint:"/ сАндэй /"
+            },
+            {
+            id:63,
+            eng:"next lesson",
+            ru:"на следующем уроке",
+            hint:""
+            },
+            {
+            id:64,
+            eng:"next meeting",
+            ru:"на следующей встрече",
+            hint:""
+            },
+            {
+            id:65,
+            eng:"first thing in the morning",
+            ru:"первым делом с утра",
+            hint:""
+            },
+            {
+            id:66,
+            eng:"in a day or two",
+            ru:"через день или два",
+            hint:""
+            },
+            {
+            id:67,
+            eng:"next Wednesday",
+            ru:"в следующую среду",
+            hint:"/ уЭнсдэй /"
+            },
+            {
+            id:68,
+            eng:"as soon as possible",
+            ru:"как можно скорее",
+            hint:"/ эz сун эz посбл /"
+            },
+            {
+            id:69,
+            eng:"never again",
+            ru:"никогда cнова, никогда больше",
+            hint:"/ нЭвэ эгЕн /"
+            },
+            {
+            id:70,
+            eng:"today",
+            ru:"сегодня",
+            hint:"/ тудЭй /"
+            },
+            {
+            id:71,
+            eng:"very soon",
+            ru:"очень скоро",
+            hint:""
+            },
+            {
+            id:72,
+            eng:"maybe later",
+            ru:"может попозже",
+            hint:"/ лэЙтэ /"
+            },
+            {
+            id:73,
+            eng:"in a second",
+            ru:"через секунду",
+            hint:""
+            },
+            {
+            id:74,
+            eng:"in a few seconds",
+            ru:"через несколько секунд",
+            hint:"/ ин э фью сЭкондz /"
+            },
+            {
+            id:75,
+            eng:"at midnight",
+            ru:"в полночь",
+            hint:""
+            },
+            {
+            id:76,
+            eng:"tomorrow at eight",
+            ru:"завтра в восемь часов",
+            hint:""
+            },
+            {
+            id:77,
+            eng:"in",
+            ru:"через",
+            hint:""
+            },
+            {
+            id:78,
+            eng:"after",
+            ru:"после",
+            hint:""
+            },
+            {
+            id:79,
+            eng:"about",
+            ru:"примерно",
+            hint:""
+            },
+    ],
+ 
     naughty1: [
         
             {
