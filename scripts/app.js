@@ -1074,7 +1074,7 @@ TNTgameButtonStartAgain.addEventListener("click", restartTNTgame)
 function restartTNTgame() {
     scoreTNTGame = 0
     typeOrWriteNumber = 0
-    TNTbeforeExplosion = 30
+    TNTbeforeExplosion = 33
     TNTgameInfo.textContent = "🧨 До взрыва: 💣"
     TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
@@ -1084,6 +1084,10 @@ function restartTNTgame() {
     TNTbuttonCompare.classList.remove("none")
     TNTgameButtonStartAgain.classList.add("none")
     TNTgameCounter.classList.remove("none")
+
+    chooseTypeOrWrite = chooseTypeOrWrite.sort(function () {
+        return Math.random() - 0.5;
+    });
     startGameTNT()
     
 }
