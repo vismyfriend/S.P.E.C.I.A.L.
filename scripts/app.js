@@ -1018,6 +1018,7 @@ function TNTgameover() {
     TNTbuttonCompare.classList.add("none")
     TNTgameButtonStartAgain.classList.remove("none")
     TNTgameCounter.classList.add("none")
+    TNTuserInput.classList.remove("underlinedText")
     // TNTgameTaskHint.innerHTML = `попробуй обезвредить все`
     
 }
@@ -1039,10 +1040,13 @@ function compareTNTinput() {
         TNTgameTaskHint.classList.add("green")
         tntGameNextWordToTranslate(TNTgameTaskValue)
         keySoundInputOk.play()
+        TNTuserInput.classList.remove("underlinedText")
     }
     else {
         TNTgameTaskHint.classList.remove("green")
         TNTgameTaskHint.classList.add("red")
+        TNTuserInput.classList.add("underlinedText")
+        // TNTuserInput.value = `${TNTuserInput.value}.`
         // TNTgameTaskValue.textContent += value.hint
         // TNTgameTaskHint.textContent = "подсказка : " + value.hint
         TNTgameTaskHint.textContent = "подсказка : " + value.ru

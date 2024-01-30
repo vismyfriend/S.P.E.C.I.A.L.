@@ -21406,7 +21406,7 @@ const allQuestionsOneDeck = {
             {
             id:2,
             eng:"green",
-            ru:"елёный",
+            ru:"зелёный",
             hint:""
             },
             {
