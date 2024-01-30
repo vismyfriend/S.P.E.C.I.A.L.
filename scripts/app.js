@@ -956,7 +956,9 @@ const TNTgameTaskValue = document.querySelector(".TNTgameTaskValue")
 startGameTNTbutton.addEventListener("click", startGameTNT)
 
 
+
 function startGameTNT() {
+    
     TNTtimer.textContent = `00:${TNTbeforeExplosion}`
     popupMissionsAndSets.classList.add("none")
     gameTNT.classList.remove("none")
@@ -964,7 +966,7 @@ function startGameTNT() {
     value = chooseTypeOrWrite[typeOrWriteNumber]
     TNTgameTaskValue.textContent = value.ru
     TNTgameCounter.classList.add("none")
-
+    
     TNTstartTimer()
 }
 
@@ -977,6 +979,8 @@ const TNTgameInfo = document.querySelector(".TNTgameInfo")
 const TNTgameCounter = document.querySelector(".TNTgame-counter")
 
 TNTbuttonCompare.addEventListener("click", compareTNTinput)
+
+
 
 function TNTstartTimer() {
     TNTtimerMechanics = setInterval(() => {
@@ -999,7 +1003,7 @@ function TNTgameover() {
     clearInterval(TNTtimerMechanics)
     TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
-    TNTuserInput.value = `or 👇 deactivate more`
+    // TNTuserInput.value = `or 👇 deactivate more`
     TNTuserInput.value = `или 👇 обезвредь ещё`
     TNTbuttonCompare.classList.add("none")
     TNTgameButtonStartAgain.classList.remove("none")
@@ -1039,7 +1043,7 @@ function compareTNTinput() {
     }
 
 }
-TNTgameButtonStartAgain.addEventListener("click", pageReloadRefresh)
+
 
 function tntGameNextWordToTranslate(TNTgameTaskValue) {
     typeOrWriteNumber = typeOrWriteNumber + 1
@@ -1063,6 +1067,26 @@ function tntGameNextWordToTranslate(TNTgameTaskValue) {
 }
 
 
+// TNTgameButtonStartAgain.addEventListener("click", pageReloadRefresh)
+TNTgameButtonStartAgain.addEventListener("click", restartTNTgame)
+
+
+function restartTNTgame() {
+    scoreTNTGame = 0
+    typeOrWriteNumber = 0
+    TNTbeforeExplosion = 30
+    TNTgameInfo.textContent = "🧨 До взрыва: 💣"
+    TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
+    TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
+    
+    TNTuserInput.value = ""  
+    TNTgameTaskHint.textContent = "напиши по-английски:"
+    TNTbuttonCompare.classList.remove("none")
+    TNTgameButtonStartAgain.classList.add("none")
+    TNTgameCounter.classList.remove("none")
+    startGameTNT()
+    
+}
 
 
 
