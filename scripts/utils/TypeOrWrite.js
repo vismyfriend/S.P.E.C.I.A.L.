@@ -970,41 +970,41 @@ const allWordsForGameTypeOrWrite = {
             hint:"/ лайф /"
             },
             {
-            id:41,
-            eng:"on the first of April ",
-            ru:"первого апреля",
-            hint:"/ эйприл /"
-            },
-            {
-            id:42,
-            eng:"on the second of January ",
-            ru:"второго января",
-            hint:"/ джэнэри /"
-            },
-            {
-            id:43,
-            eng:"on the third of June ",
-            ru:"третьего июня",
-            hint:"/ джун /"
-            },
-            {
-            id:44,
-            eng:"on the fourth of July ",
-            ru:"четвертого июля",
-            hint:"/ джулай /"
-            },
-            {
-            id:45,
-            eng:"on the fifth of August ",
-            ru:"пятого августа",
-            hint:"/ ОгЭст /"
-            },
-            {
-            id:46,
-            eng:"on the eighth of March ",
-            ru:"восьмого марта",
-            hint:"/ мач /"
-            },
+                id:41,
+                eng:"on the first of April",
+                ru:"первого апреля",
+                hint:"/ эйприл /"
+                },
+                {
+                id:42,
+                eng:"on the second of January",
+                ru:"второго января",
+                hint:"/ джэнэри /"
+                },
+                {
+                id:43,
+                eng:"on the third of June",
+                ru:"третьего июня",
+                hint:"/ джун /"
+                },
+                {
+                id:44,
+                eng:"on the fourth of July",
+                ru:"четвертого июля",
+                hint:"/ джулай /"
+                },
+                {
+                id:45,
+                eng:"on the fifth of August",
+                ru:"пятого августа",
+                hint:"/ ОгЭст /"
+                },
+                {
+                id:46,
+                eng:"on the eighth of March",
+                ru:"восьмого марта",
+                hint:"/ мач /"
+                },
             {
             id:47,
             eng:"in a couple of hours",
