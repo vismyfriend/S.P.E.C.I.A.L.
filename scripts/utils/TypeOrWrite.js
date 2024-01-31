@@ -3,20 +3,19 @@ const allWordsForGameTypeOrWrite = {
     devmode1: [
         {
             id:1,
-            eng:"the first",
-            hint: "/фест/",
+            eng:"1",
+            hint: "цифра 1",
             ru:"первый"
             },
             {
             id:2,
-            eng:"the second",
-            hint: "/cЭконд/",
+            eng:"2",
+            hint: "два",
             ru:"второй"
             },
             {
             id:3,
-            eng:"the third",
-            hint: "/THёрд/",
+            eng:". is good",
             ru:"третий"
             },
            

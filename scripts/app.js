@@ -987,6 +987,8 @@ const TNTuserInput = document.querySelector(".TNTgamePlayerInputType")
 const TNTgameTaskHint = document.querySelector(".TNTgameTaskHint")
 const TNTgameInfo = document.querySelector(".TNTgameInfo")
 const TNTgameCounter = document.querySelector(".TNTgame-counter")
+const TNTgameButtonIDK = document.querySelector(".TNTgameButtonIDK")
+const TNTgameButtonAnswer = document.querySelector(".TNTgameButtonAnswer")
 
 TNTbuttonCompare.addEventListener("click", compareTNTinput)
 
@@ -1014,7 +1016,7 @@ function TNTgameover() {
     TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
     // TNTuserInput.value = `or 👇 deactivate more`
-    TNTuserInput.value = `или 👇 обезвредь ещё`
+    TNTuserInput.value = `или обезвредь ещё 👇 `
     TNTbuttonCompare.classList.add("none")
     TNTgameButtonStartAgain.classList.remove("none")
     TNTgameCounter.classList.add("none")
@@ -1028,14 +1030,14 @@ function compareTNTinput() {
     console.log(TNTuserInput)
 
     if (TNTuserInput.value.toLowerCase() === value.eng.toLowerCase()) {
-        console.log("верно + 15 секунд к таймеру")
+        
         //  scoreTNTGame += 1
         scoreTNTGame++
-        TNTbeforeExplosion += 13
+        TNTbeforeExplosion += 12
         TNTuserInput.value = ""
         // typeOrWriteGameСounter.textContent = `верно:  ${scoreTNTGame} out of ${chooseTypeOrWrite.length}`
         // typeOrWriteGameСounter.classList.add("green")
-        TNTgameTaskHint.innerHTML = `YES! + 15 seconds! Обезвреживай следующую, как переводится:`
+        TNTgameTaskHint.innerHTML = `YES! + 12 seconds! Обезвреживай следующую, как переводится:`
         TNTgameTaskHint.classList.remove("red")
         TNTgameTaskHint.classList.add("green")
         tntGameNextWordToTranslate(TNTgameTaskValue)
@@ -1046,13 +1048,11 @@ function compareTNTinput() {
         TNTgameTaskHint.classList.remove("green")
         TNTgameTaskHint.classList.add("red")
         TNTuserInput.classList.add("underlinedText")
-        // TNTuserInput.value = `${TNTuserInput.value}.`
-        // TNTgameTaskValue.textContent += value.hint
-        // TNTgameTaskHint.textContent = "подсказка : " + value.hint
-        TNTgameTaskHint.textContent = "подсказка : " + value.ru
-        // TNTgameTaskValue.textContent = value.hint
-        TNTgameTaskValue.textContent = "Быстрее!! Исправляй на : " + value.eng
-        TNTbeforeExplosion -= 2
+    
+        TNTgameTaskHint.textContent = "не подходит... проверь ещё раз или отправь скриншот Винсенту"
+    
+      
+       
     
     }
 
@@ -1062,7 +1062,8 @@ function compareTNTinput() {
 function tntGameNextWordToTranslate(TNTgameTaskValue) {
     typeOrWriteNumber = typeOrWriteNumber + 1
     value = chooseTypeOrWrite[typeOrWriteNumber]
-
+    TNTgameButtonIDK.classList.remove("none")
+    TNTgameButtonAnswer.classList.add("none")
     if (value) {
         TNTgameTaskValue.innerHTML = value.ru
     } else {
@@ -1083,6 +1084,39 @@ function tntGameNextWordToTranslate(TNTgameTaskValue) {
 
 // TNTgameButtonStartAgain.addEventListener("click", pageReloadRefresh)
 TNTgameButtonStartAgain.addEventListener("click", restartTNTgame)
+
+TNTgameButtonIDK.addEventListener("click", showHintTNT)
+
+function showHintTNT() {
+    if (value.hint === undefined) {
+     
+        TNTgameTaskHint.textContent = "🤷‍♀️ здесь нечего подсказать 🤷‍♂️ пытайся как-то перевести"
+        TNTgameTaskHint.classList.remove("red")
+        TNTgameTaskHint.classList.remove("green")
+        
+
+    } else {
+        TNTgameTaskHint.textContent = "Okay , вот такая подсказка есть : " + value.hint
+        TNTgameTaskHint.classList.remove("red")
+        TNTgameTaskHint.classList.remove("green")
+        
+    
+    }
+    TNTgameButtonAnswer.classList.remove("none")
+    TNTgameButtonIDK.classList.add("none")
+}
+
+TNTgameButtonAnswer.addEventListener("click", showAnswerTNT)
+
+function showAnswerTNT() {
+    
+    TNTgameButtonIDK.classList.remove("none")
+    TNTgameButtonAnswer.classList.add("none")
+    TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
+    TNTgameTaskValue.textContent = "Быстрее!!! Вводи ответ : " + value.eng
+    TNTbeforeExplosion -= 4
+
+}
 
 
 function restartTNTgame() {
