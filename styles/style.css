@@ -1293,7 +1293,7 @@ text-align: center;
 
 .clickTest {
     bottom: 0;
-    right: 0;
+    left: 25px;
     position: absolute;
     color: #37393a;
 }
