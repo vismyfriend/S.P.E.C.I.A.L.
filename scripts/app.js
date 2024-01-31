@@ -994,7 +994,7 @@ TNTbuttonCompare.addEventListener("click", compareTNTinput)
 
 function TNTstartTimer() {
     TNTtimerMechanics = setInterval(() => {
-        if (TNTbeforeExplosion === 0) TNTgameover()
+        if (TNTbeforeExplosion <= 0) TNTgameover()
 
 // GREAT TIMER function by EGORCHIK!
         // % - остаток от деления 
@@ -1098,6 +1098,9 @@ function restartTNTgame() {
     TNTbuttonCompare.classList.remove("none")
     TNTgameButtonStartAgain.classList.add("none")
     TNTgameCounter.classList.remove("none")
+    TNTgameTaskHint.classList.remove("red")
+    TNTgameTaskHint.classList.add("green")
+
 
     chooseTypeOrWrite = chooseTypeOrWrite.sort(function () {
         return Math.random() - 0.5;
