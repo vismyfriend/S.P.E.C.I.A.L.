@@ -671,8 +671,8 @@ function renderWordsGameBenderWordOrderGame() {
                         nextSentenceGameBenderWordOrderGame()
                     } else {
                         russianHintMistakeGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
-                        correctAnswerGameBenderWordOrderGame.textContent = `Робот думает, что нужно написать : ${sentenceGameBenderWordOrderGame}`
-                        userAnswerGameBenderWordOrderGame.textContent = `А вы написали немного по-другому : ${inputSentenceGameBenderWordOrderGame.textContent}`
+                        correctAnswerGameBenderWordOrderGame.textContent = `Робот написал так : ${sentenceGameBenderWordOrderGame}`
+                        userAnswerGameBenderWordOrderGame.textContent =    `А вы написали так : ${inputSentenceGameBenderWordOrderGame.textContent}`
                         userAnswerGameBenderWordOrderGame.classList.add("wrong")
                         containerMistakeGameBenderWordOrderGame.classList.add("show")
                         lifeGameBenderWordOrderGame = lifeGameBenderWordOrderGame - 1

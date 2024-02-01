@@ -16,12 +16,12 @@ const benderWordOrderSentences = {
     m005: [
         {
             id:1,
-            eng:"we are good friends",
+            eng:"we are good friends .",
             ru:"мы хорошие друзья"
             },
             {
             id:2,
-            eng:"Vincent is my teacher",
+            eng:"Vincent is my teacher .",
             ru:"Винсент мой учитель"
             },
             {
@@ -41,7 +41,7 @@ const benderWordOrderSentences = {
             },
             {
             id:6,
-            eng:"I am not a stupid student",
+            eng:"I am not a stupid student .",
             ru:"я не тупой студент"
             },
             {
@@ -56,27 +56,27 @@ const benderWordOrderSentences = {
             },
             {
             id:9,
-            eng:"I am not fat",
+            eng:"I am not fat .",
             ru:"я не жирная"
             },
             {
             id:10,
-            eng:"you are my buddy",
+            eng:"you are my buddy .",
             ru:"вы мой приятель"
             },
             {
             id:11,
-            eng:"it is their dog",
+            eng:"it is their dog .",
             ru:"это их собака"
             },
             {
             id:12,
-            eng:"their cat is ugly",
+            eng:"their cat is ugly .",
             ru:"их кошка уродлива"
             },
             {
             id:13,
-            eng:"our cat is always hungry",
+            eng:"our cat is always hungry .",
             ru:"наша кошка всегда голодная"
             },
     ],
