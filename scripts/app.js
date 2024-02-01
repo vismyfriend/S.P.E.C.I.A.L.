@@ -1113,7 +1113,7 @@ function showAnswerTNT() {
     TNTgameButtonIDK.classList.remove("none")
     TNTgameButtonAnswer.classList.add("none")
     TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
-    TNTgameTaskValue.textContent = "Быстрее!!! Вводи ответ : " + value.eng
+    TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
     TNTbeforeExplosion -= 4
 
 }

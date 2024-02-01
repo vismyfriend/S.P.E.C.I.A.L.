@@ -1483,6 +1483,458 @@ const allWordsForGameTypeOrWrite = {
                     hint:""
                     },
 ],
+tagquestions01: [
+    {
+        id:1,
+        eng:"will you?",
+        ru:"Don't talk to Peter during the lesson, ____"
+        },
+        {
+        id:2,
+        eng:"will you?",
+        ru:"Shut up now, ____"
+        },
+        {
+        id:3,
+        eng:"will you?",
+        ru:"Don't talk to me this way, ____"
+        },
+        {
+        id:4,
+        eng:"don't I?",
+        ru:"I think he's from India, ____"
+        },
+        {
+        id:5,
+        eng:"isn't he?",
+        ru:"I think he's from India, ____"
+        },
+        {
+        id:6,
+        eng:"will you?",
+        ru:"Don't go swimming, ____"
+        },
+        {
+        id:7,
+        eng:"shall we?",
+        ru:"Let's go to swim, ____"
+        },
+        {
+        id:8,
+        eng:"shall we?",
+        ru:"Let's kiss now, ____"
+        },
+        {
+        id:9,
+        eng:"aren't I?",
+        ru:"I'm late, ____"
+        },
+        {
+        id:10,
+        eng:"aren't I?",
+        ru:"I'm your English teacher, ____"
+        },
+        {
+        id:11,
+        eng:"aren't there?",
+        ru:"There are a lot of people here, ____"
+        },
+        {
+        id:12,
+        eng:"aren't there?",
+        ru:"There are some apples left, ____"
+        },
+        {
+        id:13,
+        eng:"aren't they?",
+        ru:"Andy and Marc are reading comics, ____"
+        },
+        {
+        id:14,
+        eng:"aren't you?",
+        ru:"You are Indian, ____"
+        },
+        {
+        id:15,
+        eng:"did she?",
+        ru:"Peggy didn't use the pencil, ____"
+        },
+        {
+        id:16,
+        eng:"didn't they?",
+        ru:"They had a nice weekend, ____"
+        },
+        {
+        id:17,
+        eng:"do you?",
+        ru:"You don't like yoghurt, ____"
+        },
+        {
+        id:18,
+        eng:"doesn't he?",
+        ru:"He sings in the bathroom, ____"
+        },
+        {
+        id:19,
+        eng:"doesn't he?",
+        ru:"He sometimes reads the newspaper, ____"
+        },
+        {
+        id:20,
+        eng:"doesn't she?",
+        ru:"Peggy plays volleyball, ____"
+        },
+        {
+        id:21,
+        eng:"doesn't she?",
+        ru:"She has a brother, ____"
+        },
+        {
+        id:22,
+        eng:"don't they?",
+        ru:"Dogs like meat, ____"
+        },
+        {
+        id:23,
+        eng:"don't they?",
+        ru:"They often talk to their neighbours, ____"
+        },
+        {
+        id:24,
+        eng:"don't they?",
+        ru:"Your friends enjoy swimming, ____"
+        },
+        {
+        id:25,
+        eng:"hasn't he?",
+        ru:"He's been to Texas, ____"
+        },
+        {
+        id:26,
+        eng:"hasn't she?",
+        ru:"Angela has ordered pizza, ____"
+        },
+        {
+        id:27,
+        eng:"hasn't she?",
+        ru:"Mary has answered the teacher's question, ____"
+        },
+        {
+        id:28,
+        eng:"haven't we?",
+        ru:"We've seen this film, ____"
+        },
+        {
+        id:29,
+        eng:"is he?",
+        ru:"Andrew isn't sleeping, ____"
+        },
+        {
+        id:30,
+        eng:"isn't he?",
+        ru:"The boy is from Turkey, ____"
+        },
+        {
+        id:31,
+        eng:"isn't it?",
+        ru:"Lovely day today, ____"
+        },
+        {
+        id:32,
+        eng:"isn't it?",
+        ru:"York is in England, ____"
+        },
+        {
+        id:33,
+        eng:"isn't there?",
+        ru:"There's only one cloud in the sky, ____"
+        },
+        {
+        id:34,
+        eng:"shall we?",
+        ru:"Let's go, ____"
+        },
+        {
+        id:35,
+        eng:"was she?",
+        ru:"Sue wasn't listening, ____"
+        },
+        {
+        id:36,
+        eng:"wasn't he?",
+        ru:"The teacher was late for school, ____"
+        },
+        {
+        id:37,
+        eng:"will he?",
+        ru:"He'll never know, ____"
+        },
+        {
+        id:38,
+        eng:"will you?",
+        ru:"Don't smoke, ____"
+        },
+        {
+        id:39,
+        eng:"will you?",
+        ru:"Open the window, ____"
+        },
+        {
+        id:40,
+        eng:"won't she?",
+        ru:"Sue will be 14 next week, ____"
+        },
+        {
+        id:41,
+        eng:"won't they?",
+        ru:"Tom and Maria will arrive at Heathrow, ____"
+        },
+        {
+        id:42,
+        eng:"aren't I?",
+        ru:"I am a little stupid, ____"
+        },
+        {
+        id:43,
+        eng:"aren't I?",
+        ru:"I am smart, ____"
+        },
+        {
+        id:44,
+        eng:"aren't I?",
+        ru:"I'm clever, ____"
+        },
+        {
+        id:45,
+        eng:"aren't they?",
+        ru:"Pat and John are from Bristol, ____"
+        },
+        {
+        id:46,
+        eng:"aren't they?",
+        ru:"They are going home from school, ____"
+        },
+        {
+        id:47,
+        eng:"can he?",
+        ru:"Vincent can't speak Mongolian, ____"
+        },
+        {
+        id:48,
+        eng:"can't he?",
+        ru:"He can write, ____"
+        },
+        {
+        id:49,
+        eng:"can't he?",
+        ru:"Jack can write good poems, ____"
+        },
+        {
+        id:50,
+        eng:"can't she?",
+        ru:"She can speak French, ____"
+        },
+        {
+        id:51,
+        eng:"could she?",
+        ru:"Anne couldn't sing well, ____"
+        },
+        {
+        id:52,
+        eng:"couldn't he?",
+        ru:"He could have bought a new car, ____"
+        },
+        {
+        id:53,
+        eng:"couldn't she?",
+        ru:"Barbara could have helped you, ____"
+        },
+        {
+        id:54,
+        eng:"did she?",
+        ru:"Mary didn't do her homework last Monday, ____"
+        },
+        {
+        id:55,
+        eng:"did she?",
+        ru:"She didn't come to the shop, ____"
+        },
+        {
+        id:56,
+        eng:"did they?",
+        ru:"They did not do their homework, ____"
+        },
+        {
+        id:57,
+        eng:"did they?",
+        ru:"They did not go to Vienna last week, ____"
+        },
+        {
+        id:58,
+        eng:"didn't he?",
+        ru:"Chris got up at seven, ____"
+        },
+        {
+        id:59,
+        eng:"didn't he?",
+        ru:"Peter played handball yesterday, ____"
+        },
+        {
+        id:60,
+        eng:"didn't they?",
+        ru:"They played football on Sundays, ____"
+        },
+        {
+        id:61,
+        eng:"do they?",
+        ru:"John and Max don't like maths, ____"
+        },
+        {
+        id:62,
+        eng:"do they?",
+        ru:"Nobody says that you are stupid, ____"
+        },
+        {
+        id:63,
+        eng:"doesn't he?",
+        ru:"He likes lasagna (лазанья), ____"
+        },
+        {
+        id:64,
+        eng:"doesn't she?",
+        ru:"She plays football on Sundays, ____"
+        },
+        {
+        id:65,
+        eng:"don't they?",
+        ru:"They play football on Sundays, ____"
+        },
+        {
+        id:66,
+        eng:"don't we?",
+        ru:"We often watch TV in the afternoon, ____"
+        },
+        {
+        id:67,
+        eng:"doesn't he?",
+        ru:"He has a car, ____"
+        },
+        {
+        id:68,
+        eng:"hasn't she?",
+        ru:"She has bought a new phone, ____"
+        },
+        {
+        id:69,
+        eng:"have they?",
+        ru:"They haven't finished the task, ____"
+        },
+        {
+        id:70,
+        eng:"haven't they?",
+        ru:"They have finished their homework, ____"
+        },
+        {
+        id:71,
+        eng:"haven't you?",
+        ru:"You have cleaned your bike, ____"
+        },
+        {
+        id:72,
+        eng:"haven't you?",
+        ru:"You've got a car, ____"
+        },
+        {
+        id:73,
+        eng:"isn't it?",
+        ru:"It's very hot in the Sahara, ____"
+        },
+        {
+        id:74,
+        eng:"isn't she?",
+        ru:"She is collecting stickers, ____"
+        },
+        {
+        id:75,
+        eng:"shall we?",
+        ru:"Let's go out for a walk, ____"
+        },
+        {
+        id:76,
+        eng:"wasn't he?",
+        ru:"Shakespeare was English, ____"
+        },
+        {
+        id:77,
+        eng:"weren't they?",
+        ru:"Everybody was happy with the results, ____"
+        },
+        {
+        id:78,
+        eng:"won't he?",
+        ru:"Kevin will come tonight, ____"
+        },
+        {
+        id:79,
+        eng:"aren't I?",
+        ru:"I am the best student in the class, ___"
+        },
+        {
+        id:80,
+        eng:"will you?",
+        ru:"Pass me the salt, ____"
+        },
+        {
+        id:81,
+        eng:"will you?",
+        ru:"Pass me the salt, ____"
+        },
+        {
+        id:82,
+        eng:"doesn't he?",
+        ru:"Russel always smokes hookah (кальян)"
+        },
+        {
+        id:83,
+        eng:"wasn't it?",
+        ru:"The slide show was fantastic, ____"
+        },
+        {
+        id:84,
+        eng:"wasn't it?",
+        ru:"The slide show was fantastic, ____"
+        },
+        {
+        id:85,
+        eng:"will it?",
+        ru:"The sun won't shine tomorrow, ____"
+        },
+        {
+        id:86,
+        eng:"isn't there?",
+        ru:"There's a fly in your soup, ____"
+        },
+        {
+        id:87,
+        eng:"mustn't we?",
+        ru:"We must be at school at 8 o'clock, ____"
+        },
+        {
+        id:88,
+        eng:"isn't there?",
+        ru:"There's a fly in your soup, ____"
+        },
+        {
+        id:89,
+        eng:"didn't they?",
+        ru:"They used to live in New Orleans, ____"
+        },
+        {
+        id:90,
+        eng:"didn't they?",
+        ru:"They used to live in New Orleans, ____"
+        },
+],
 
 roblox: [
     {
