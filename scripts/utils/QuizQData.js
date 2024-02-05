@@ -3365,7 +3365,7 @@ const quizQuesstionsList = {
         },
 
     ],
-    numbersIntro12: [
+    m008: [
         {
             id: 18,
             quizQuestion: "12 + 12 is ?",
@@ -3839,7 +3839,7 @@ const quizQuesstionsList = {
             quizQuestion: "Как НЕ произносится НОЛЬ на английском?",
             answers: [
                 {
-                    answer: "/zЭро/",
+                    answer: "/zЭро/ или /зирО/" ,
                     correct: true
                 },
                 {
@@ -3851,7 +3851,7 @@ const quizQuesstionsList = {
                     correct: false
                 },
                 {
-                    answer: "/зирО/",
+                    answer: "/нот/",
                     correct: false
                 },
                 {

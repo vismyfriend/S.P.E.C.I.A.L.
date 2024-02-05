@@ -228,7 +228,7 @@ const allWordsForGameTypeOrWrite = {
 
 
     ],
-    lettersa1: [
+    alphabet: [
         {
             id:1,
             eng:"A",

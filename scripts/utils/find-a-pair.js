@@ -38,6 +38,153 @@ const allCardsGameFindAPair = {
             ru:"седьмой"
             },
     ],
+    counta1: [
+        {
+            id:101,
+            eng:"1 + 1  / плАс /",
+            ru:"is two",
+            hint:" / плАс /"
+            },
+            {
+            id:102,
+            eng:"1 + 0  / плАс /",
+            ru:"is one",
+            hint:" / плАс /"
+            },
+            {
+            id:103,
+            eng:"9 - 9  / мАйнэс /",
+            ru:"is zero",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:104,
+            eng:"8 - 5  / мАйнэс /",
+            ru:"is three",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:105,
+            eng:"2 + 2  / плАс /",
+            ru:"is four",
+            hint:" / плАс /"
+            },
+            {
+            id:106,
+            eng:"2 + 3  / плАс /",
+            ru:"is five",
+            hint:" / плАс /"
+            },
+            {
+            id:107,
+            eng:"9 - 3  / мАйнэс /",
+            ru:"is six",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:108,
+            eng:"12 - 5  / мАйнэс /",
+            ru:"is seven",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:109,
+            eng:"20 - 12  / мАйнэс /",
+            ru:"is eight",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:110,
+            eng:"8 + 1  / плАс /",
+            ru:"is nine",
+            hint:" / плАс /"
+            },
+            {
+            id:111,
+            eng:"11 - 1  / мАйнэс /",
+            ru:"is ten",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:112,
+            eng:"20 - 9  / мАйнэс /",
+            ru:"is eleven",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:113,
+            eng:"9 + 3  / плАс /",
+            ru:"is twelve",
+            hint:" / плАс /"
+            },
+            {
+            id:114,
+            eng:"9 + 4  / плАс /",
+            ru:"is thirteen",
+            hint:" / плАс /"
+            },
+            {
+            id:115,
+            eng:"20 - 6  / мАйнэс /",
+            ru:"is fourteen",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:116,
+            eng:"20 - 5  / мАйнэс /",
+            ru:"is fifteen",
+            hint:" / мАйнэс /"
+            },
+            {
+            id:117,
+            eng:"12 + 4  / плАс /",
+            ru:"is sixteen",
+            hint:" / плАс /"
+            },
+            {
+            id:118,
+            eng:"5 + 12  / плАс /",
+            ru:"is seventeen",
+            hint:" / плАс /"
+            },
+            {
+            id:119,
+            eng:"10 + 8  / плАс /",
+            ru:"is eighteen",
+            hint:" / плАс /"
+            },
+            {
+            id:120,
+            eng:"10 + 9  / плАс /",
+            ru:"is nineteen",
+            hint:" / плАс /"
+            },
+            {
+            id:121,
+            eng:"8 + 12  / плАс /",
+            ru:"is twenty",
+            hint:" / плАс /"
+            },
+            {
+            id:122,
+            eng:"20 + 12  / плАс /",
+            ru:"thirty two",
+            hint:" / плАс /"
+            },
+            {
+            id:123,
+            eng:"count  / кАунт /",
+            ru:"считать или пересчитать",
+            hint:" / кАунт /"
+            },
+            {
+            id:124,
+            eng:"is  / из /",
+            ru:"равно, равняется, есть, быть",
+            hint:" / из /"
+            },
+
+    ],
     m001: [
         {
             id:1,
@@ -101,7 +248,7 @@ const allCardsGameFindAPair = {
             },
 
     ],
-    lettersa1: [
+    alphabet: [
         {
             id: 1,
             ru: "	A	",

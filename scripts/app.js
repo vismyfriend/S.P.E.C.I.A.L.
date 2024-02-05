@@ -239,7 +239,7 @@ function startGameFindPairs() {
     howManyTimesSkipped = 0
     pairsRemainToMatch = chosenArray.length
     foundPairs = 0
-    gameFindAPairInfo.textContent = `Нажимай на слова, затем на подходящий перевод:`
+    gameFindAPairInfo.textContent = `Нажимай на слова слева и на подходящую пару:`
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}. Твои звёзды за задание:`
     popupMissionsAndSets.classList.add("close")
     logoSpecial.classList.add("hidden")
