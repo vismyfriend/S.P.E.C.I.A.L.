@@ -17426,362 +17426,151 @@ const allQuestionsOneDeck = {
             ru:"Сколько выключателей света у вас в квартире? (примерно по-английски ABOUT) I have about 10 light switchers, and you?"
             },
     ],
-    naughty1: [
+    naughtyB: [
         {
             id:1,
-            eng:"How do you translate : `  break, broke, broken `",
-            ru:"ЛОМАТЬ / брЭйк /"
+            ru:"ломать",
+            eng:"How do you translate : break, broke, broken / брЭйк брОУк брОУкэн /",
+            hint:"/ брЭйк /"
             },
             {
             id:2,
-            eng:"How do you translate : `  beat, beat, beaten `",
-            ru:"ПОБИТЬ / бит /"
+            ru:"побить",
+            eng:"How do you translate : beat, beat, beaten / бит бит битн /",
+            hint:"/ бит /"
             },
             {
             id:3,
-            eng:"How do you translate : `  become, became, become `",
-            ru:"СТАНОВИТЬСЯ / бекАм /"
+            ru:"становиться",
+            eng:"How do you translate : become, became, become / бекАм бекЕйм бекАм /",
+            hint:"/ бекАм /"
             },
             {
             id:4,
-            eng:"How do you translate : `  begin, began, begun `",
-            ru:"НАЧИНАТЬ / бегИн /"
+            ru:"начинать",
+            eng:"How do you translate : begin, began, begun / бегИн бегЭн бегАн /",
+            hint:"/ бегИн /"
             },
             {
             id:5,
-            eng:"How do you translate : `  blow, blew, blown `",
-            ru:"ДУТЬ / блОу /"
+            ru:"дуть",
+            eng:"How do you translate : blow, blew, blown / блОу блУ блОун /",
+            hint:"/ блОу /"
             },
             {
             id:6,
-            eng:"How do you translate : `  borrow, borrowed, borrowed `",
-            ru:"БРАТЬ В ДОЛГ / бОроу /"
+            ru:"брать в долг",
+            eng:"How do you translate : borrow, borrowed, borrowed / бОроу бОроуд бОроуд /",
+            hint:"/ бОроу /"
             },
             {
             id:7,
-            eng:"How do you translate : `  build, built, built `",
-            ru:"СТРОИТЬ / билд /"
+            ru:"строить",
+            eng:"How do you translate : build, built, built / билд билт билт /",
+            hint:"/ билд /"
             },
             {
             id:8,
-            eng:"How do you translate : `  burn, burnt, burnt `",
-            ru:"СЖИГАТЬ, ГОРЕТЬ / бЁрн /"
+            ru:"сжигать, гореть",
+            eng:"How do you translate : burn, burnt, burnt / бЁрн бёрнт бёрнт /",
+            hint:"/ бЁрн /"
             },
             {
             id:9,
-            eng:"How do you translate : `  buy, bought, bought `",
-            ru:"ПОКУПАТЬ / бАй /"
+            ru:"покупать",
+            eng:"How do you translate : buy, bought, bought / бАй бот бот /",
+            hint:"/ бАй /"
             },
             {
             id:10,
-            eng:"How do you translate : `  bring, brought, brought `",
-            ru:"ПРИНОСИТЬ / брин /"
+            ru:"приносить",
+            eng:"How do you translate : bring, brought, brought / брин брот брот /",
+            hint:"/ брин /"
             },
             {
             id:11,
-            eng:"How do you translate : `  be, (was,were), been `",
-            ru:"БЫТЬ / эм,из,а /"
+            ru:"быть",
+            eng:"How do you translate : be, (was,were), been / эм из а воз вё бин /",
+            hint:"/ эм из а /"
             },
             {
             id:12,
-            eng:"How do you translate : `  bite, bit, bit `",
-            ru:"КУСАТЬ / бАйт /"
-            },
-            {
-            id:13,
-            eng:"How do you translate : `  come, came, come `",
-            ru:"ПРИХОДИТЬ / кАм /"
-            },
-            {
-            id:14,
-            eng:"How do you translate : `  choose, chose, chosen `",
-            ru:"ВЫБИРАТЬ / чУз /"
-            },
-            {
-            id:15,
-            eng:"How do you translate : `  catch, caught, caught `",
-            ru:"ЛОВИТЬ / кЭч /"
-            },
-            {
-            id:16,
-            eng:"How do you translate : `  creep, crept, crept `",
-            ru:"ПОЛЗАТЬ / крИп /"
-            },
-            {
-            id:17,
-            eng:"How do you translate : `  cost, cost, cost `",
-            ru:"СТОИТЬ / кост /"
-            },
-            {
-            id:18,
-            eng:"How do you translate : `  cut, cut, cut `",
-            ru:"РЕЗАТЬ / кАт /"
-            },
-            {
-            id:19,
-            eng:"How do you translate : `  deal, dealt, dealt `",
-            ru:"ИМЕТЬ ДЕЛА / дИл /"
-            },
-            {
-            id:20,
-            eng:"How do you translate : `  dig, dug, dug `",
-            ru:"КОПАТЬ / диГ /"
-            },
-            {
-            id:21,
-            eng:"How do you translate : `  do, did, done `",
-            ru:"ДЕЛАТЬ / ду /"
-            },
-            {
-            id:22,
-            eng:"How do you translate : `  drive, drove, driven `",
-            ru:"ВОДИТЬ / дрАйв /"
-            },
-            {
-            id:23,
-            eng:"How do you translate : `  draw, drew, drawn `",
-            ru:"РИСОВАТЬ / дрО /"
-            },
-            {
-            id:24,
-            eng:"How do you translate : `  drink, drank, drunk `",
-            ru:"ПИТЬ / дринк /"
+            ru:"кусать",
+            eng:"How do you translate : bite, bit, bit / бАйт бит бит /",
+            hint:"/ бАйт /"
             },
             {
                 id:101,
-                eng:"What is the English for: ` ломать `",
-                ru:"/ брЭйк / BREAK, BROKE, BROKEN"
+                ru:"BREAK, BROKE, BROKEN / брЭйк брОУк брОУкэн /",
+                eng:"Tell me all three forms of the verb: ` ломать `",
+                hint:"/ брЭйк /"
                 },
                 {
                 id:102,
-                eng:"What is the English for: ` побить `",
-                ru:"/ бит / BEAT, BEAT, BEATEN"
+                ru:"BEAT, BEAT, BEATEN / бит бит битн /",
+                eng:"Tell me all three forms of the verb: ` побить `",
+                hint:"/ бит /"
                 },
                 {
                 id:103,
-                eng:"What is the English for: ` становиться `",
-                ru:"/ бекАм / BECOME, BECAME, BECOME"
+                ru:"BECOME, BECAME, BECOME / бекАм бекЕйм бекАм /",
+                eng:"Tell me all three forms of the verb: ` становиться `",
+                hint:"/ бекАм /"
                 },
                 {
                 id:104,
-                eng:"What is the English for: ` начинать `",
-                ru:"/ бегИн / BEGIN, BEGAN, BEGUN"
+                ru:"BEGIN, BEGAN, BEGUN / бегИн бегЭн бегАн /",
+                eng:"Tell me all three forms of the verb: ` начинать `",
+                hint:"/ бегИн /"
                 },
                 {
                 id:105,
-                eng:"What is the English for: ` дуть `",
-                ru:"/ блОу / BLOW, BLEW, BLOWN"
+                ru:"BLOW, BLEW, BLOWN / блОу блУ блОун /",
+                eng:"Tell me all three forms of the verb: ` дуть `",
+                hint:"/ блОу /"
                 },
                 {
                 id:106,
-                eng:"What is the English for: ` брать в долг `",
-                ru:"/ бОроу / BORROW, BORROWED, BORROWED"
+                ru:"BORROW, BORROWED, BORROWED / бОроу бОроуд бОроуд /",
+                eng:"Tell me all three forms of the verb: ` брать в долг `",
+                hint:"/ бОроу /"
                 },
                 {
                 id:107,
-                eng:"What is the English for: ` строить `",
-                ru:"/ билд / BUILD, BUILT, BUILT"
+                ru:"BUILD, BUILT, BUILT / билд билт билт /",
+                eng:"Tell me all three forms of the verb: ` строить `",
+                hint:"/ билд /"
                 },
                 {
                 id:108,
-                eng:"What is the English for: ` сжигать, гореть `",
-                ru:"/ бЁрн / BURN, BURNT, BURNT"
+                ru:"BURN, BURNT, BURNT / бЁрн бёрнт бёрнт /",
+                eng:"Tell me all three forms of the verb: ` сжигать, гореть `",
+                hint:"/ бЁрн /"
                 },
                 {
                 id:109,
-                eng:"What is the English for: ` покупать `",
-                ru:"/ бАй / BUY, BOUGHT, BOUGHT"
+                ru:"BUY, BOUGHT, BOUGHT / бАй бот бот /",
+                eng:"Tell me all three forms of the verb: ` покупать `",
+                hint:"/ бАй /"
                 },
                 {
                 id:110,
-                eng:"What is the English for: ` приносить `",
-                ru:"/ брин / BRING, BROUGHT, BROUGHT"
+                ru:"BRING, BROUGHT, BROUGHT / брин брот брот /",
+                eng:"Tell me all three forms of the verb: ` приносить `",
+                hint:"/ брин /"
                 },
                 {
                 id:111,
-                eng:"What is the English for: ` быть `",
-                ru:"/ эм,из,а / BE, (WAS,WERE), BEEN"
+                ru:"BE, (WAS,WERE), BEEN / эм из а воз вё бин /",
+                eng:"Tell me all three forms of the verb: ` быть `",
+                hint:"/ эм из а /"
                 },
                 {
                 id:112,
-                eng:"What is the English for: ` кусать `",
-                ru:"/ бАйт / BITE, BIT, BIT"
+                ru:"BITE, BIT, BIT / бАйт бит бит /",
+                eng:"Tell me all three forms of the verb: ` кусать `",
+                hint:"/ бАйт /"
                 },
-                {
-                id:113,
-                eng:"What is the English for: ` приходить `",
-                ru:"/ кАм / COME, CAME, COME"
-                },
-                {
-                id:114,
-                eng:"What is the English for: ` выбирать `",
-                ru:"/ чУз / CHOOSE, CHOSE, CHOSEN"
-                },
-                {
-                id:115,
-                eng:"What is the English for: ` ловить `",
-                ru:"/ кЭч / CATCH, CAUGHT, CAUGHT"
-                },
-                {
-                id:116,
-                eng:"What is the English for: ` ползать `",
-                ru:"/ крИп / CREEP, CREPT, CREPT"
-                },
-                {
-                id:117,
-                eng:"What is the English for: ` стоить `",
-                ru:"/ кост / COST, COST, COST"
-                },
-                {
-                id:118,
-                eng:"What is the English for: ` резать `",
-                ru:"/ кАт / CUT, CUT, CUT"
-                },
-                {
-                id:119,
-                eng:"What is the English for: ` иметь дела `",
-                ru:"/ дИл / DEAL, DEALT, DEALT"
-                },
-                {
-                id:120,
-                eng:"What is the English for: ` копать `",
-                ru:"/ диГ / DIG, DUG, DUG"
-                },
-                {
-                id:121,
-                eng:"What is the English for: ` делать `",
-                ru:"/ ду / DO, DID, DONE"
-                },
-                {
-                id:122,
-                eng:"What is the English for: ` водить `",
-                ru:"/ дрАйв / DRIVE, DROVE, DRIVEN"
-                },
-                {
-                id:123,
-                eng:"What is the English for: ` рисовать `",
-                ru:"/ дрО / DRAW, DREW, DRAWN"
-                },
-                {
-                id:124,
-                eng:"What is the English for: ` пить `",
-                ru:"/ дринк / DRINK, DRANK, DRUNK"
-                },
-                {
-                    id:201,
-                    eng:"Make a negative sentence     with the verb:      ` break / брЭйк / `",
-                    ru:"ломать BREAK, BROKE, BROKEN"
-                    },
-                    {
-                    id:202,
-                    eng:"Make a negative sentence     with the verb:      ` beat / бит / `",
-                    ru:"побить BEAT, BEAT, BEATEN"
-                    },
-                    {
-                    id:203,
-                    eng:"Make a negative sentence     with the verb:      ` become / бекАм / `",
-                    ru:"становиться BECOME, BECAME, BECOME"
-                    },
-                    {
-                    id:204,
-                    eng:"Make a question with :   ` begin / бегИн / `",
-                    ru:"начинать BEGIN, BEGAN, BEGUN"
-                    },
-                    {
-                    id:205,
-                    eng:"Make a question with :   ` blow / блОу / `",
-                    ru:"дуть BLOW, BLEW, BLOWN"
-                    },
-                    {
-                    id:206,
-                    eng:"Make a question with :   ` borrow / бОроу / `",
-                    ru:"брать в долг BORROW, BORROWED, BORROWED"
-                    },
-                    {
-                    id:207,
-                    eng:"Придумай любое предложение в любом времени с глаголом :     ` build / билд / `",
-                    ru:"строить BUILD, BUILT, BUILT"
-                    },
-                    {
-                    id:208,
-                    eng:"Придумай любое предложение в любом времени с глаголом :     ` burn / бЁрн / `",
-                    ru:"сжигать, гореть BURN, BURNT, BURNT"
-                    },
-                    {
-                    id:209,
-                    eng:"Придумай любое предложение в любом времени с глаголом :     ` buy / бАй / `",
-                    ru:"покупать BUY, BOUGHT, BOUGHT"
-                    },
-                    {
-                    id:210,
-                    eng:"Скажи любое словосочетание, а не предложение с глаголом : ` bring / брин / `",
-                    ru:"приносить BRING, BROUGHT, BROUGHT"
-                    },
-                    {
-                    id:211,
-                    eng:"Скажи любое словосочетание, а не предложение с глаголом : ` be / эм,из,а / `",
-                    ru:"быть BE, (WAS,WERE), BEEN"
-                    },
-                    {
-                    id:212,
-                    eng:"Скажи любое словосочетание, а не предложение с глаголом : ` bite / бАйт / `",
-                    ru:"кусать BITE, BIT, BIT"
-                    },
-                    {
-                    id:213,
-                    eng:"Make a negative sentence     with the verb:      ` come / кАм / `",
-                    ru:"приходить COME, CAME, COME"
-                    },
-                    {
-                    id:214,
-                    eng:"Make a negative sentence     with the verb:      ` choose / чУз / `",
-                    ru:"выбирать CHOOSE, CHOSE, CHOSEN"
-                    },
-                    {
-                    id:215,
-                    eng:"Make a negative sentence     with the verb:      ` catch / кЭч / `",
-                    ru:"ловить CATCH, CAUGHT, CAUGHT"
-                    },
-                    {
-                    id:216,
-                    eng:"Make a question with :   ` creep / крИп / `",
-                    ru:"ползать CREEP, CREPT, CREPT"
-                    },
-                    {
-                    id:217,
-                    eng:"Make a question with :   ` cost / кост / `",
-                    ru:"стоить COST, COST, COST"
-                    },
-                    {
-                    id:218,
-                    eng:"Make a question with :   ` cut / кАт / `",
-                    ru:"резать CUT, CUT, CUT"
-                    },
-                    {
-                    id:219,
-                    eng:"Придумай любое предложение в любом времени с глаголом :     ` deal / дИл / `",
-                    ru:"иметь дела DEAL, DEALT, DEALT"
-                    },
-                    {
-                    id:220,
-                    eng:"Придумай любое предложение в любом времени с глаголом :     ` dig / диГ / `",
-                    ru:"копать DIG, DUG, DUG"
-                    },
-                    {
-                    id:221,
-                    eng:"Придумай любое предложение в любом времени с глаголом :     ` do / ду / `",
-                    ru:"делать DO, DID, DONE"
-                    },
-                    {
-                    id:222,
-                    eng:"Скажи любое словосочетание, а не предложение с глаголом : ` drive / дрАйв / `",
-                    ru:"водить DRIVE, DROVE, DRIVEN"
-                    },
-                    {
-                    id:223,
-                    eng:"Скажи любое словосочетание, а не предложение с глаголом : ` draw / дрО / `",
-                    ru:"рисовать DRAW, DREW, DRAWN"
-                    },
     ],
     naughty2: [
         {
