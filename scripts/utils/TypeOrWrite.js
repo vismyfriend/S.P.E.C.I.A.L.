@@ -1,3 +1,4 @@
+// чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R  ^(\s)*$\n 
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allWordsForGameTypeOrWrite = {
     devmode1: [
@@ -18,9 +19,8 @@ const allWordsForGameTypeOrWrite = {
             eng:". is good",
             ru:"третий"
             },
-           
     ],
-    m003: [
+    m002: [
         {
             id:1,
             eng:"I",
@@ -94,7 +94,165 @@ const allWordsForGameTypeOrWrite = {
             hint:" / ё /"
             },
     ],
-    m002: [
+    m004: [
+        {
+            id:101,
+            eng:"A",
+            ru:" букву / эй / ",
+            hint:" / первая буква алфавита /"
+            },
+            {
+            id:102,
+            eng:"B",
+            ru:" букву / би / ",
+            hint:""
+            },
+            {
+            id:103,
+            eng:"C",
+            ru:" букву / си / ",
+            hint:" / треться буква алфавита /"
+            },
+            {
+            id:104,
+            eng:"D",
+            ru:" букву / ди / ",
+            hint:""
+            },
+            {
+            id:105,
+            eng:"E",
+            ru:" букву / и / ",
+            hint:" / пятая буква алфавита /"
+            },
+            {
+            id:106,
+            eng:"F",
+            ru:" букву / эф / ",
+            hint:""
+            },
+            {
+            id:107,
+            eng:"G",
+            ru:" букву / джи / ",
+            hint:" / седьмая буква алфавита /"
+            },
+            {
+            id:108,
+            eng:"H",
+            ru:" букву / эйч / ",
+            hint:""
+            },
+            {
+            id:109,
+            eng:"I",
+            ru:" букву / ай / ",
+            hint:" / палка с точкой /"
+            },
+            {
+            id:110,
+            eng:"J",
+            ru:" букву / джэй / ",
+            hint:" / на крюк похожа /"
+            },
+            {
+            id:111,
+            eng:"K",
+            ru:" букву / кей / ",
+            hint:""
+            },
+            {
+            id:112,
+            eng:"L",
+            ru:" букву / эл / ",
+            hint:""
+            },
+            {
+            id:113,
+            eng:"M",
+            ru:" букву / эм / ",
+            hint:""
+            },
+            {
+            id:114,
+            eng:"N",
+            ru:" букву / эн / ",
+            hint:""
+            },
+            {
+            id:115,
+            eng:"O",
+            ru:" букву / оу / ",
+            hint:""
+            },
+            {
+            id:116,
+            eng:"P",
+            ru:" букву / пи / ",
+            hint:""
+            },
+            {
+            id:117,
+            eng:"Q",
+            ru:" букву / кью / ",
+            hint:" / коэффициент Ай Кью /"
+            },
+            {
+            id:118,
+            eng:"R",
+            ru:" букву / а / ",
+            hint:" / рок эн ролл /"
+            },
+            {
+            id:119,
+            eng:"S",
+            ru:" букву / эс / ",
+            hint:" / как змея /"
+            },
+            {
+            id:120,
+            eng:"T",
+            ru:" букву / ти / ",
+            hint:""
+            },
+            {
+            id:121,
+            eng:"U",
+            ru:" букву / ю / ",
+            hint:" / на подкову похожа /"
+            },
+            {
+            id:122,
+            eng:"V",
+            ru:" букву / ви / ",
+            hint:""
+            },
+            {
+            id:123,
+            eng:"W",
+            ru:" букву / дабл ю / ",
+            hint:""
+            },
+            {
+            id:124,
+            eng:"X",
+            ru:" букву / экс / ",
+            hint:""
+            },
+            {
+            id:125,
+            eng:"Y",
+            ru:" букву / уай / ",
+            hint:" / не игрик и не У /"
+            },
+            {
+            id:126,
+            eng:"Z",
+            ru:" букву / ЗИ или ZЭД / ",
+            hint:""
+            },
+    ],
+    m04: [
         {
             id:1,
             eng:"A",
@@ -223,10 +381,8 @@ const allWordsForGameTypeOrWrite = {
             {
             id:26,
             eng:"Z",
-            ru:"Какая английская буква произносится :  / зи (зэд) /"
+            ru:"Какая английская буква произносится :  / ЗИ и ZЭД /"
             },
-
-
     ],
     alphabet: [
         {
@@ -359,8 +515,6 @@ const allWordsForGameTypeOrWrite = {
             eng:"Z",
             ru:"Как на английском языке написать :  / зи (зэд) /"
             },
-
-
     ],
     lettersc2: [
         {
@@ -738,7 +892,6 @@ const allWordsForGameTypeOrWrite = {
             ru:"ARE, AM, IS, DO, DOES ? Where_____ your girlfriend work?"
             },
     ],
- 
     future01a1: [
         {
             id:1,
@@ -1215,7 +1368,6 @@ const allWordsForGameTypeOrWrite = {
             hint:""
             },
     ],
- 
     naughtyB: [
         {
             id:1,
@@ -1892,7 +2044,6 @@ tagquestions01: [
         ru:"They used to live in New Orleans, ____"
         },
 ],
-
 roblox: [
     {
         id:1,
@@ -2063,6 +2214,5 @@ roblox: [
         hint:""
         },
 ],
-
 }
 export default allWordsForGameTypeOrWrite

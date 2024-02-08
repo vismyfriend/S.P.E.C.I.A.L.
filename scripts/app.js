@@ -310,7 +310,7 @@ function finishGame() {
     starResult()
     userSearchesForMission.classList.remove("none")
     starsEmoji.classList.add("visible")
-    usedCheatsText.textContent = `Сделай скриншот и отправь фотку в наш чат. Share your achievement with Vincent.  ${howManyTimesSkipped}MG Mission ${chosenSet.textContent} `
+    usedCheatsText.textContent = `Сделай скриншот и отправь фотку в наш чат. Поделись с Vincent :  ${howManyTimesSkipped}MG : ${chosenSet.textContent} `
     usedCheatsText.classList.add("visible")
     gameFindPairsTryAgainButton.classList.remove("hidden")
     popupMissionsAndSets.classList.remove("close")
@@ -329,7 +329,8 @@ function finishGame() {
     BenderWordOrderGameButton.classList.remove("show")
     letsSpeak.classList.remove("show")
     chosenSet.classList.remove("show")
-    gameFindPairsTryAgainButton.textContent = `Попробовать быстрее! 💪 Try faster! 👍`
+    gameFindPairsTryAgainButton.textContent = `💪 Нажми сюда 👍 и улучши результат`
+    // gameFindPairsTryAgainButton.textContent = `Попробовать быстрее! 💪 Try faster! 👍 🚀`
     const AudioWinner = new Audio("https://zvukitop.com/wp-content/uploads/2021/03/zvuk-tadam-na-trube.mp3");
     AudioWinner.volume = 0.06;
     AudioWinner.play()
@@ -1096,7 +1097,8 @@ function showHintTNT() {
         
 
     } else {
-        TNTgameTaskHint.textContent = "Okay , вот такая подсказка есть : " + value.hint
+        // TNTgameTaskHint.textContent = "Okay , вот такая подсказка есть : " + value.hint
+        TNTgameTaskHint.textContent = "Блин! Как бы тут подсказать-то : " + value.hint
         TNTgameTaskHint.classList.remove("red")
         TNTgameTaskHint.classList.remove("green")
         

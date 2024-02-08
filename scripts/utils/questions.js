@@ -1,6 +1,5 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
-
     devmode1: [
         {
             id:1,
@@ -38,7 +37,6 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
-
     randomverbA2: [
         {
             id:1,
@@ -4023,7 +4021,7 @@ const allQuestionsOneDeck = {
             ru:"погулять по пляжу"
             },
     ],
-    m004: [
+    m04: [
         {
             id:1,
             eng:"   Как по-английски :   ` я умный или я умная `",
@@ -5147,8 +5145,6 @@ const allQuestionsOneDeck = {
             eng:"Как по-английски сказать цифру : 90  ?",
             ru:"How do you say : NINETY  in Russian? "
             },
-            
-
     ], 
     numbersb1: [
         {
@@ -5266,7 +5262,6 @@ const allQuestionsOneDeck = {
             eng:"Как по-английски сказать ` восемьдесят восьмой ` ?",
             ru:"How do you translate this?  ` THE EIGHTY-EIGHTH ` "
             },
-
     ], 
     numbersb2: [
         {
@@ -5394,7 +5389,6 @@ const allQuestionsOneDeck = {
             eng:"Чему равняется /уОт из/ What is 15 + 50 ?",
             ru:"произнеси на английском 15 + 50 равно 65 "
             },
-
     ], 
     numbersspeak: [
         {
@@ -6327,7 +6321,6 @@ const allQuestionsOneDeck = {
             eng:"Хау ду ю сэй 98 ин инглиш? How do you say __ in English? Как на английском сказать это число? ",
             ru:"как переводится ninety-eight "
             },
-
     ], 
     questions003: [
         {
@@ -14447,7 +14440,6 @@ const allQuestionsOneDeck = {
         eng:"How do you say: Его друг более ` молодой  ` чем я! А вот Винсент `  самый  молодой ` на этой планете!",
         ru:"His friend is ` YOUNGER ` than me. But Vincent is (not) ` the  youngest ` on this planet. "
         },
-        
     ],
     compareadjectivesmore: [
     {
@@ -14640,7 +14632,6 @@ const allQuestionsOneDeck = {
         eng:"What is the English for ` нервный ` ? And how do you say ` более    нервный ` and  `  самый  нервный ` ?",
         ru:"Make a sentence with the word:  ` NERVOUS ` (for example: Vincent is нервный … but I'm more nervous … and my cats are the  most .. . "
         },
-        
     ],
     verbs001: [
         {
@@ -18649,7 +18640,6 @@ const allQuestionsOneDeck = {
             eng:"How do you translate : `  overpay, overpaid, overpaid `",
             ru:"ПЕРЕПЛАТИТЬ / оУвэпЭй /"
             },
-            
             {
                 id:190,
                 eng:"What is the English for: ` брать `",
@@ -18745,8 +18735,6 @@ const allQuestionsOneDeck = {
                 eng:"What is the English for: ` переплатить `",
                 ru:"/ оУвэпЭй / OVERPAY, OVERPAID, OVERPAID"
                 },
-                
-               
                 {
                     id:290,
                     eng:"Make a question with :   ` take / тЭйк / `",
@@ -18842,7 +18830,6 @@ const allQuestionsOneDeck = {
                     eng:"Скажи любое словосочетание, а не предложение с глаголом : ` overpay / оУвэпЭй / `",
                     ru:"переплатить OVERPAY, OVERPAID, OVERPAID"
                     },
-                  
     ],
     naughty6: [
         {
@@ -19649,7 +19636,6 @@ const allQuestionsOneDeck = {
             ru: "	Вы знаете какие-нибудь интересные факты о странах?	",
             eng: "	Do u know any interesting facts about any country? 	"
         },
-
     ],
     winterquestions: [
         {
@@ -20718,7 +20704,6 @@ const allQuestionsOneDeck = {
                         eng:"Произнеси 3 раза быстро :    ` mall / мол / `",
                         ru:"БОЛЬШОЙ МАГАЗИН"
                         },
-                        
     ],
     santalapfart2b2: [
         {
@@ -21031,7 +21016,6 @@ const allQuestionsOneDeck = {
                     eng:"Произнеси 3 раза быстро :    ` mom made beans / мам мэйд бинз / `",
                     ru:"МАМА ПРИГОТОВИЛА БОБЫ"
                     },
-                   
                     {
                     id:203,
                     eng:"Произнеси 3 раза быстро :    ` get your coat on  `",
@@ -21067,7 +21051,6 @@ const allQuestionsOneDeck = {
                     eng:"   Повтори за мной :      ` wait for someone  `",
                     ru:"ЖДАТЬ КОГО-ТО"
                     },
-                   
                     {
                     id:211,
                     eng:"   Повтори за мной :      ` the gas bubble  / дэ гэс бабл / `",
@@ -21228,14 +21211,11 @@ const allQuestionsOneDeck = {
                     eng:"Знаешь как переводится: ` fart / фарт / `",
                     ru:"ПУКНУТЬ"
                     },
-                  
-                   
                     {
                     id:246,
                     eng:"Произнеси с жестким русским акцентом : ` He tried his best  / трайд хиз бэст / `",
                     ru:"ОН ВЫЛОЖИЛСЯ НА МАКСИМУМ, СДЕЛАЛ ВСЁ В СВОИХ СИЛАХ"
                     },
-                    
     ],
     santalapfart3c1: [
         {
@@ -21773,7 +21753,6 @@ const allQuestionsOneDeck = {
                 eng:"Как бы ты перевел(а) : ` выложился на максимум, сделал всё в своих силах `",
                 ru:"TRIED HIS BEST  / трайд хиз бэст /"
                 },
-                
     ],
     feelGoodSong: [
         {
@@ -21956,7 +21935,6 @@ const allQuestionsOneDeck = {
                 eng:"Say it to me in English :   ` я чувствую себя хорошо `",
                 ru:"I'M FEELING GOOD "
                 },
-
     ],
     paperPlane1: [
         {
@@ -22259,7 +22237,6 @@ const allQuestionsOneDeck = {
                 eng:"Что на русском значит: ` a tail / э тЭйл / `",
                 ru:"ХВОСТ"
                 },
-
     ],
     paperPlane2: [
         {
@@ -22492,7 +22469,6 @@ const allQuestionsOneDeck = {
                 eng:"Как бы ты перевел(а) : ` сегодня вечером `",
                 ru:"TONIGHT / тунайт /"
                 },
-
     ],
     future01a1: [
         {
@@ -22875,7 +22851,6 @@ const allQuestionsOneDeck = {
             eng:"tomorrow at 8 o'clock",
             ru:"ЗАВТРА В ВОСЕМЬ ЧАСОВ"
             },
-
     ],
     roblox: [
         {
@@ -24971,8 +24946,6 @@ const allQuestionsOneDeck = {
             ru:"Translate into Russian: `PLAY / плЭй / `"
             },
     ],  
-    
-  
 }
 // export const allQuestionsSecondDeck = {
 //     devmode1: [
@@ -25014,6 +24987,4 @@ const allQuestionsOneDeck = {
 //     ],
 // }
 export default allQuestionsOneDeck
-
-
 // вопросы

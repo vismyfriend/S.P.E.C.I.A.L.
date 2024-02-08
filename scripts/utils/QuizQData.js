@@ -1,6 +1,6 @@
+// чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R  ^(\s)*$\n 
 // добавляем константу с данными - с массивом // Здесь задания для теста или квиза (QuizQ) с выбором ответов
 const quizQuesstionsList = {
-
     devmode1: [
         {
             id: 1,
@@ -14,18 +14,6 @@ const quizQuesstionsList = {
                     answer: "I am",
                     correct: false
                 },
-
-
-
-
-
-
-
-
-
-
-
-
             ]
         },
         {
@@ -44,14 +32,6 @@ const quizQuesstionsList = {
                     answer: "we",
                     correct: false
                 },
-
-
-
-
-
-
-
-
             ]
         },
         {
@@ -74,10 +54,6 @@ const quizQuesstionsList = {
                     answer: "mi",
                     correct: false
                 },
-
-
-
-
             ]
         },
         {
@@ -118,21 +94,8 @@ const quizQuesstionsList = {
                     answer: "his",
                     correct: false
                 },
-
-
-
-
-
-
-
-
-
-
-
-
             ]
         },
-
     ],
     articles01: [
         {
@@ -151,14 +114,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -177,14 +132,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -203,14 +150,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -229,14 +168,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -255,14 +186,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -281,14 +204,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -307,14 +222,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -333,14 +240,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -359,14 +258,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -385,14 +276,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -411,14 +294,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -437,14 +312,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -463,14 +330,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -489,14 +348,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -515,14 +366,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -541,14 +384,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -567,14 +402,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -593,14 +420,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -619,14 +438,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -645,14 +456,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -671,14 +474,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -697,14 +492,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -723,14 +510,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -749,14 +528,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -775,14 +546,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -801,14 +564,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -827,14 +582,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -853,14 +600,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -879,14 +618,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -905,14 +636,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -931,14 +654,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -957,14 +672,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -983,14 +690,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1009,14 +708,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1035,14 +726,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1061,14 +744,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1087,14 +762,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1113,14 +780,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1139,14 +798,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1165,14 +816,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1191,14 +834,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1217,14 +852,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1243,14 +870,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1269,14 +888,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1295,14 +906,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1321,14 +924,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1347,14 +942,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1373,14 +960,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1399,14 +978,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1425,14 +996,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1451,14 +1014,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1477,14 +1032,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1503,14 +1050,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1529,14 +1068,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1555,14 +1086,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1581,14 +1104,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1607,14 +1122,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1633,14 +1140,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1659,14 +1158,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1685,14 +1176,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1711,14 +1194,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1737,14 +1212,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1763,14 +1230,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1789,14 +1248,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1815,14 +1266,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1841,14 +1284,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1867,14 +1302,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1893,14 +1320,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1919,14 +1338,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1945,14 +1356,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1971,14 +1374,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -1997,14 +1392,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2023,14 +1410,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2049,14 +1428,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2075,14 +1446,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2101,14 +1464,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2127,14 +1482,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2153,14 +1500,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2179,14 +1518,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2205,14 +1536,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2231,14 +1554,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2257,14 +1572,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2283,14 +1590,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2309,14 +1608,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2335,14 +1626,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2361,14 +1644,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2387,14 +1662,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2413,14 +1680,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2439,14 +1698,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2465,14 +1716,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2491,14 +1734,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2517,14 +1752,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2543,14 +1770,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2569,14 +1788,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2595,14 +1806,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2621,14 +1824,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2647,14 +1842,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2673,14 +1860,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2699,14 +1878,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2725,14 +1896,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2751,14 +1914,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2777,14 +1932,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2803,14 +1950,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2829,14 +1968,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2855,14 +1986,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2881,14 +2004,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2907,14 +2022,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2933,14 +2040,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2959,14 +2058,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -2985,14 +2076,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3011,14 +2094,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3037,14 +2112,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3063,14 +2130,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3089,14 +2148,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3115,14 +2166,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3141,14 +2184,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3167,14 +2202,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3193,14 +2220,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3219,14 +2238,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3245,14 +2256,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3271,14 +2274,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3297,14 +2292,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3323,14 +2310,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3349,14 +2328,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3375,14 +2346,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3401,14 +2364,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3427,14 +2382,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3453,14 +2400,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3479,14 +2418,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3505,14 +2436,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3531,14 +2454,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3557,14 +2472,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3583,14 +2490,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3609,14 +2508,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3635,14 +2526,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3661,14 +2544,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3687,14 +2562,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3713,14 +2580,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3739,14 +2598,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3765,14 +2616,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3791,14 +2634,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3817,14 +2652,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3843,14 +2670,6 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3869,14 +2688,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3895,14 +2706,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3921,14 +2724,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3947,14 +2742,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3973,14 +2760,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -3999,14 +2778,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4025,14 +2796,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4051,14 +2814,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4077,14 +2832,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4103,14 +2850,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4129,14 +2868,6 @@ const quizQuesstionsList = {
             answer: "an",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4155,14 +2886,6 @@ const quizQuesstionsList = {
             answer: "a",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -4181,19 +2904,10 @@ const quizQuesstionsList = {
             answer: "-",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
-
     ],
-    m006: [
+    m005: [
         {
             id: 1,
             quizQuestion: "Как на английском сказать: Я",
@@ -7422,7 +6136,6 @@ const quizQuesstionsList = {
                 },
             ]
         },
-
     ],
     m008: [
         {
@@ -12168,7 +10881,6 @@ const quizQuesstionsList = {
             ]
         },
     ],
-   
     tagquestions: [
         {
             id: 1,
@@ -13014,18 +11726,6 @@ const quizQuesstionsList = {
             answer: "is there?",
             correct: false
             },
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
             ]
             },
             {
@@ -13932,10 +12632,6 @@ const quizQuesstionsList = {
             answer: "has she?",
             correct: false
             },
-            
-            
-            
-            
             ]
             },
             {
@@ -14511,8 +13207,6 @@ const quizQuesstionsList = {
             ]
             },
     ],
- 
-   
     questions111clothesb1: [
         {
             id: 1,
@@ -15009,7 +13703,6 @@ const quizQuesstionsList = {
             ]
         },
     ],
-
     technologic: [
         {
             id: 1,
@@ -16260,7 +14953,5 @@ const quizQuesstionsList = {
             ]
         },
     ],
-   
-   
 }
 export default quizQuesstionsList

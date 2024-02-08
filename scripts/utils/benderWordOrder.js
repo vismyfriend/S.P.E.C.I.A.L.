@@ -1,5 +1,6 @@
-const benderWordOrderSentences = {
+// чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R  ^(\s)*$\n 
 
+const benderWordOrderSentences = {
     devmode1: [
         {
             id:1,
@@ -12,74 +13,144 @@ const benderWordOrderSentences = {
             ru:"Винсент мой учитель"
             }
     ],
-
-    m005: [
+    m03: [
+        {
+            id:101,
+            eng:"It is a very good game .",
+            ru:" Это очень хорошая игра.",
+           },
+            {
+            id:102,
+            eng:"Vincent is a very cool teacher .",
+            ru:"винсент очень классный учитель.",
+           },
+            {
+            id:103,
+            eng:"how do you feel today ?",
+            ru:"Как вы себя чувствуете сегодня?",
+           },
+            {
+            id:104,
+            eng:"a robot wants to speak English .",
+            ru:"Робот хочет разговаривать на английском.",
+           },
+            {
+            id:105,
+            eng:"I am a robot and my name is Bender.",
+            ru:"Я робот и моё имя Бендер.",
+           },
+    ],
+    m006: [
         {
             id:1,
             eng:"we are good friends .",
-            ru:"мы хорошие друзья"
+            ru:"мы хорошие друзья",
+            
             },
             {
             id:2,
-            eng:"Vincent is my teacher .",
-            ru:"Винсент мой учитель"
+            eng:"Vincent is a cool teacher.",
+            ru:"Винсент классный учитель",
+            
             },
             {
             id:3,
-            eng:"Vincent is not a teacher he is my friend",
-            ru:"Винсент не учитель, он мой друг"
+            eng:"Vincent is not a teacher he is my friend .",
+            ru:"Винсент не учитель, он мой друг",
+            
             },
             {
             id:4,
             eng:"where are you from ?",
-            ru:"откуда вы родом?"
+            ru:"откуда вы родом?",
+            
             },
             {
             id:5,
             eng:"how are you today ?",
-            ru:"как вы сегодня себя чувствуете?"
+            ru:"как вы сегодня себя чувствуете?",
+            
             },
             {
             id:6,
             eng:"I am not a stupid student .",
-            ru:"я не тупой студент"
+            ru:"я не тупой студент",
+            
             },
             {
             id:7,
-            eng:"are you stupid ?",
-            ru:"ты тупица?"
+            eng:"I am not lazy /лЭйзи/ .",
+            ru:"я не ленивый.",
+            
             },
             {
             id:8,
             eng:"you are very slow !",
-            ru:"вы очень медленная"
+            ru:"вы очень медленная",
+            
             },
             {
             id:9,
             eng:"I am not fat .",
-            ru:"я не жирная"
+            ru:"я не жирная",
+            
             },
             {
             id:10,
             eng:"you are my buddy .",
-            ru:"вы мой приятель"
+            ru:"вы мой приятель",
+            
             },
             {
             id:11,
             eng:"it is their dog .",
-            ru:"это их собака"
+            ru:"это их собака",
+            
             },
             {
             id:12,
             eng:"their cat is ugly .",
-            ru:"их кошка уродлива"
+            ru:"их кошка уродлива",
+            
             },
             {
             id:13,
             eng:"our cat is always hungry .",
-            ru:"наша кошка всегда голодная"
+            ru:"наша кошка всегда голодная",
+            
+            },
+            {
+            id:14,
+            eng:"bananas are yellow .",
+            ru:"бананы желтые",
+            
+            },
+            {
+            id:15,
+            eng:"It is a very good game .",
+            ru:"Это очень хорошая игра.",
+            
+            },
+            {
+            id:16,
+            eng:"how do you feel today ?",
+            ru:"Как вы себя чувствуете сегодня?",
+            
+            },
+            {
+            id:17,
+            eng:"a robot wants to speak English .",
+            ru:"Робот хочет разговаривать на английском.",
+            
+            },
+            {
+            id:18,
+            eng:"I am a robot and my name is Bender.",
+            ru:"Я робот и моё имя Бендер.",
+            
             },
     ],
+   
     m013: [
         {
             id:1,
@@ -469,7 +540,5 @@ const benderWordOrderSentences = {
                 ru:"у Лады есть кактус?"
                 },
     ],
-  
-   
 }
 export default benderWordOrderSentences
