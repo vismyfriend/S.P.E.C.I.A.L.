@@ -8,6 +8,7 @@ export class QuizQ {
         this.AnswersButtonsContainer = document.querySelector(".gameTrickyQuizAnswersButtons")
         this.buttonTryAgainOneMoreTime = document.querySelector(".areAmIsQuizOneButtonOne")
         this.logoRedCap = document.querySelector(".redCap")
+        this.QuizgameTheNameOfTheChosenSet = document.querySelector(".popupMissionsAndSets__chosen-set")
         this.currentIndex = 0
         this.scoreCounter = 0
         this.mistakesCounter = 0
@@ -78,6 +79,7 @@ export class QuizQ {
                 this.scoreCounter += 1
                 button.classList.add("correct")
                 await this.timeOut(button, 700, "correct")
+                // console.log("название миссии=", this.QuizgameTheNameOfTheChosenSet.textContent)
             }
 
             this.currentIndex += 1
@@ -97,7 +99,8 @@ export class QuizQ {
     }
 
     gameOver() {
-        this.rules.textContent = ` 🏆 Quiz пройден! Сделай скриншот и отправь в наш чат. Vincent, я случайно не туда ткнул : ${this.mistakesCounter} раз(а)`
+        
+        this.rules.textContent = ` 🏆 Этот вариант пройден! 🏆 Сделай скриншот и отправь в наш чат. Vincent, я тренировал ${this.QuizgameTheNameOfTheChosenSet.textContent} и случайно не туда ткнул : ${this.mistakesCounter} раз(а)`
         this.buttonTryAgainOneMoreTime.classList.remove("none")
         this.rules.classList.add("yellow")
         this.AnswersButtonsContainer.classList.add("none")
