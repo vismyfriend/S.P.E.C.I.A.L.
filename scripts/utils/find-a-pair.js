@@ -379,138 +379,351 @@ const allCardsGameFindAPair = {
             ru:"/ ЗИ и ZЭД /"
             },
     ],
-    alphabet: [
+    alphabeta1: [
         {
-            id: 1,
-            ru: "	A	",
-            eng: "	/ эй /	"
-        },
-        {
-            id: 2,
-            ru: "	B	",
-            eng: "	/ би /	"
-        },
-        {
-            id: 3,
-            ru: "	C	",
-            eng: "	/ си /	"
-        },
-        {
-            id: 4,
-            ru: "	D	",
-            eng: "	/ ди /	"
-        },
-        {
-            id: 5,
-            ru: "	E	",
-            eng: "	/ и /	"
-        },
-        {
-            id: 6,
-            ru: "	F	",
-            eng: "	/ эф /	"
-        },
-        {
-            id: 7,
-            ru: "	G	",
-            eng: "	/ джи /	"
-        },
-        {
-            id: 8,
-            ru: "	H	",
-            eng: "	/ эйч /	"
-        },
-        {
-            id: 9,
-            ru: "	I	",
-            eng: "	/ ай /	"
-        },
-        {
-            id: 10,
-            ru: "	J	",
-            eng: "	/ джэй /	"
-        },
-        {
-            id: 11,
-            ru: "	K	",
-            eng: "	/ кей /	"
-        },
-        {
-            id: 12,
-            ru: "	L	",
-            eng: "	/ эл /	"
-        },
-        {
-            id: 13,
-            ru: "	M	",
-            eng: "	/ эм /	"
-        },
-        {
-            id: 14,
-            ru: "	N	",
-            eng: "	/ эн /	"
-        },
-        {
-            id: 15,
-            ru: "	O	",
-            eng: "	/ оу /	"
-        },
-        {
-            id: 16,
-            ru: "	P	",
-            eng: "	/ пи /	"
-        },
-        {
-            id: 17,
-            ru: "	Q	",
-            eng: "	/ кью /	"
-        },
-        {
-            id: 18,
-            ru: "	R	",
-            eng: "	/ а /	"
-        },
-        {
-            id: 19,
-            ru: "	S	",
-            eng: "	/ эс /	"
-        },
-        {
-            id: 20,
-            ru: "	T	",
-            eng: "	/ ти /	"
-        },
-        {
-            id: 21,
-            ru: "	U	",
-            eng: "	/ ю /	"
-        },
-        {
-            id: 22,
-            ru: "	V	",
-            eng: "	/ ви /	"
-        },
-        {
-            id: 23,
-            ru: "	W	",
-            eng: "	/ дабл ю /	"
-        },
-        {
-            id: 24,
-            ru: "	X	",
-            eng: "	/ экс /	"
-        },
-        {
-            id: 25,
-            ru: "	Y	",
-            eng: "	/ уай /	"
-        },
-        {
-            id: 26,
-            ru: "	Z	",
-            eng: "	/ зи (зэд) /	"
-        },
+            id:1,
+            eng:"A ",
+            ru:"/ эй /"
+            },
+            {
+            id:2,
+            eng:"B ",
+            ru:"/ би /"
+            },
+            {
+            id:3,
+            eng:"C ",
+            ru:"/ си /"
+            },
+            {
+            id:4,
+            eng:"D ",
+            ru:"/ ди /"
+            },
+            {
+            id:5,
+            eng:"E ",
+            ru:"/ и /"
+            },
+            {
+            id:6,
+            eng:"F ",
+            ru:"/ эф /"
+            },
+            {
+            id:7,
+            eng:"G ",
+            ru:"/ джи /"
+            },
+            {
+            id:8,
+            eng:"H ",
+            ru:"/ эйч /"
+            },
+            {
+            id:9,
+            eng:"I ",
+            ru:"/ ай /"
+            },
+            {
+            id:10,
+            eng:"J ",
+            ru:"/ джэй /"
+            },
+            {
+            id:11,
+            eng:"K ",
+            ru:"/ кей /"
+            },
+            {
+            id:12,
+            eng:"L ",
+            ru:"/ эл /"
+            },
+            {
+            id:13,
+            eng:"M ",
+            ru:"/ эм /"
+            },
+            {
+            id:14,
+            eng:"N ",
+            ru:"/ эн /"
+            },
+            {
+            id:15,
+            eng:"O ",
+            ru:"/ оу /"
+            },
+            {
+            id:16,
+            eng:"P ",
+            ru:"/ пи /"
+            },
+            {
+            id:17,
+            eng:"Q ",
+            ru:"/ кью /"
+            },
+            {
+            id:18,
+            eng:"R ",
+            ru:"/ а /"
+            },
+            {
+            id:19,
+            eng:"S ",
+            ru:"/ эс /"
+            },
+            {
+            id:20,
+            eng:"T ",
+            ru:"/ ти /"
+            },
+            {
+            id:21,
+            eng:"U ",
+            ru:"/ ю /"
+            },
+            {
+            id:22,
+            eng:"V ",
+            ru:"/ ви /"
+            },
+            {
+            id:23,
+            eng:"W ",
+            ru:"/ дабл ю /"
+            },
+            {
+            id:24,
+            eng:"X ",
+            ru:"/ экс /"
+            },
+            {
+            id:25,
+            eng:"Y ",
+            ru:"/ уай /"
+            },
+            {
+            id:26,
+            eng:"Z ",
+            ru:"/ ЗИ и ZЭД /"
+            },
     ],
+    alphabeta2: [
+        {
+            id:27,
+            eng:"H and M",
+            ru:"произносится / эйч ЭН эм / без звука Д",
+            
+            },
+            {
+            id:28,
+            eng:"M & Ms произносится",
+            ru:"произносится / эм ЭН эмz / без звука Д",
+            
+            },
+            {
+            id:29,
+            eng:"G and J",
+            ru:"/джи эн джэй/",
+            
+            },
+            {
+            id:30,
+            eng:"Ai",
+            ru:"произносится / эй ай /",
+            
+            },
+            {
+            id:31,
+            eng:"iPhone",
+            ru:"/ай фоун/",
+            
+            },
+            {
+            id:32,
+            eng:"D & D",
+            ru:"/ди ЭН ди/",
+            
+            },
+            {
+            id:33,
+            eng:"E",
+            ru:"произносится / ииии /",
+            
+            },
+            {
+            id:34,
+            eng:"FCUK",
+            ru:"/эф си ю кей/",
+            
+            },
+            {
+            id:35,
+            eng:"J and G",
+            ru:"/джэй эн джи/",
+            
+            },
+            {
+            id:36,
+            eng:"H",
+            ru:"/ эйч /",
+            
+            },
+            {
+            id:37,
+            eng:"i",
+            ru:"/ ай /",
+            
+            },
+            {
+            id:38,
+            eng:"Nike",
+            ru:"произносится / нАйки /",
+            
+            },
+            {
+            id:39,
+            eng:"K",
+            ru:"/ кей /",
+            
+            },
+            {
+            id:40,
+            eng:"IDK",
+            ru:"/ай ди кей/ I don't know",
+            
+            },
+            {
+            id:41,
+            eng:"AFK",
+            ru:"/эй эф кей/ away of keyboard",
+            
+            },
+            {
+            id:42,
+            eng:"ASAP",
+            ru:"/эй эс эй пи/ обозначает 'как можно скорее'",
+            
+            },
+            {
+            id:43,
+            eng:"O",
+            ru:"/ оу /",
+            
+            },
+            {
+            id:44,
+            eng:"P",
+            ru:"/ пи /",
+            
+            },
+            {
+            id:45,
+            eng:"Q",
+            ru:"/ кью /",
+            
+            },
+            {
+            id:46,
+            eng:"R",
+            ru:"/ а /",
+            
+            },
+            {
+            id:47,
+            eng:"S",
+            ru:"/ эс /",
+            
+            },
+            {
+            id:48,
+            eng:"Viber",
+            ru:"произносится / вАйбер /",
+            
+            },
+            {
+            id:49,
+            eng:"Message",
+            ru:"произносится / мЭсидж /",
+            
+            },
+            {
+            id:50,
+            eng:"TNT",
+            ru:"/ти ЭН ти/ взрывчатка",
+            
+            },
+            {
+            id:51,
+            eng:"Special",
+            ru:"/спЭшл/ особенный",
+            
+            },
+            {
+            id:52,
+            eng:"Cucumber",
+            ru:"/кьЮкамбэ/ ударение на Ю",
+            
+            },
+            {
+            id:53,
+            eng:"Action",
+            ru:"/ экшн / это действие",
+            
+            },
+            {
+            id:54,
+            eng:"Z",
+            ru:"/ ЗИ или  ZЭД /",
+            
+            },
+            {
+            id:55,
+            eng:"Y",
+            ru:"/ уай / не игрик",
+            
+            },
+            {
+            id:56,
+            eng:"U",
+            ru:"/ ю /",
+            
+            },
+            {
+            id:57,
+            eng:"C u",
+            ru:"/ си ю / обозначает увидимся",
+            
+            },
+            {
+            id:58,
+            eng:"Pacific ocean",
+            ru:"/пэСыфиК оуШн/ тихий океан",
+            
+            },
+            {
+            id:59,
+            eng:"car",
+            ru:"/си эй а/",
+            
+            },
+            {
+            id:60,
+            eng:"Rock and Roll",
+            ru:"/ рок ЭН рол / без звука Д",
+            
+            },
+            {
+            id:61,
+            eng:"KEY ключ",
+            ru:"произносится только / кИ / без е",
+            
+            },
+    ],
+   
     lettersc2: [
         {
             id: 27,
@@ -688,7 +901,289 @@ const allCardsGameFindAPair = {
             ru: "/кИ/ и только так произносится"
         },
     ],
-    m007: [
+    m009: [
+        {
+            id:1,
+            eng:"zero / зИроу /",
+            ru:"ноль",
+            
+            },
+            {
+            id:2,
+            eng:"one / уан /",
+            ru:"один",
+            
+            },
+            {
+            id:3,
+            eng:"two / ту /",
+            ru:"два",
+            
+            },
+            {
+            id:4,
+            eng:"three / Thри /",
+            ru:"три",
+            
+            },
+            {
+            id:5,
+            eng:"four / фо /",
+            ru:"четыре",
+            
+            },
+            {
+            id:6,
+            eng:"five / файв /",
+            ru:"пять",
+            
+            },
+            {
+            id:7,
+            eng:"six / сыкс /",
+            ru:"шесть",
+            
+            },
+            {
+            id:8,
+            eng:"seven / сэвн /",
+            ru:"семь",
+            
+            },
+            {
+            id:9,
+            eng:"eight / эйт /",
+            ru:"восемь",
+            
+            },
+            {
+            id:10,
+            eng:"nine / найн /",
+            ru:"девять",
+            
+            },
+            {
+            id:11,
+            eng:"ten / тэн /",
+            ru:"десять",
+            
+            },
+            {
+            id:12,
+            eng:"eleven / илэвн /",
+            ru:"одиннадцать",
+            
+            },
+            {
+            id:13,
+            eng:"twelve / туэлв /",
+            ru:"двенадцать",
+            
+            },
+            {
+            id:14,
+            eng:"thirteen / THётИИИН /",
+            ru:"тринадцать",
+            
+            },
+            {
+            id:15,
+            eng:"fourteen / фотИИИН /",
+            ru:"четырнадцать",
+            
+            },
+            {
+            id:16,
+            eng:"fifteen / фифтИИИН /",
+            ru:"пятнадцать",
+            
+            },
+            {
+            id:17,
+            eng:"sixteen / сыкстИИИН /",
+            ru:"шестнадцать",
+            
+            },
+            {
+            id:18,
+            eng:"seventeen / сэвнтИИИН /",
+            ru:"семнадцать",
+            
+            },
+            {
+            id:19,
+            eng:"eighteen / эйтИИИН /",
+            ru:"восемнадцать",
+            
+            },
+            {
+            id:20,
+            eng:"nineteen / найнтИИИН /",
+            ru:"девятнадцать",
+            
+            },
+            {
+            id:21,
+            eng:"twenty / туЭнти /",
+            ru:"двадцать",
+            
+            },
+            {
+            id:22,
+            eng:"plus / плАс /",
+            ru:"плюс",
+            
+            },
+            {
+            id:23,
+            eng:"minus / мАйнэс /",
+            ru:"минус",
+            
+            },
+    ],
+   
+    m011: [
+        
+            {
+            id:24,
+            eng:"nine plus two / плас /",
+            ru:"is eleven",
+            
+            },
+            {
+            id:25,
+            eng:"eight plus two / плас /",
+            ru:"is ten",
+            
+            },
+            {
+            id:26,
+            eng:"four plus four / плас /",
+            ru:"is eight",
+            
+            },
+            {
+            id:27,
+            eng:"five plus four / плас /",
+            ru:"is nine",
+            
+            },
+            {
+            id:28,
+            eng:"seven plus five / плас /",
+            ru:"is twelve",
+            
+            },
+            {
+            id:29,
+            eng:"ten plus ten / плас /",
+            ru:"is twenty",
+            
+            },
+            {
+            id:30,
+            eng:"two plus one / плас /",
+            ru:"is three",
+            
+            },
+            {
+            id:31,
+            eng:"twenty minus one / мАйнэс /",
+            ru:"is nineteen",
+            
+            },
+            {
+            id:32,
+            eng:"twenty minus two / мАйнэс /",
+            ru:"is eighteen",
+            
+            },
+            {
+            id:33,
+            eng:"twenty minus five / мАйнэс /",
+            ru:"/ фифтИИИН /",
+            
+            },
+            {
+            id:34,
+            eng:"twelve plus two / плас /",
+            ru:"/ фотИИИН /",
+            
+            },
+            {
+            id:35,
+            eng:"eleven minus five / мАйнэс /",
+            ru:"is six",
+            
+            },
+            {
+            id:36,
+            eng:"twenty + twenty / плас /",
+            ru:"/ фОти /",
+            
+            },
+            {
+            id:37,
+            eng:"twelve + twelve / плас /",
+            ru:"twenty four",
+            
+            },
+            {
+            id:38,
+            eng:"eight plus eight / плас /",
+            ru:"/ сыкстИИИН /",
+            
+            },
+            {
+            id:39,
+            eng:"nine plus nine / плас /",
+            ru:"/ эйтИИИН /",
+            
+            },
+            {
+            id:40,
+            eng:"восемьдесят",
+            ru:"/ Эйти /",
+            
+            },
+            {
+            id:41,
+            eng:"пятьдесят",
+            ru:"/ фИфти /",
+            
+            },
+            {
+            id:42,
+            eng:"+ прибавить",
+            ru:"плАс",
+            
+            },
+            {
+            id:43,
+            eng:"- отнять -",
+            ru:"мАйнэс",
+            
+            },
+            {
+            id:44,
+            eng:"= равно =",
+            ru:"is",
+            
+            },
+            {
+            id:45,
+            eng:"count / кАунт /",
+            ru:"посчитать",
+            
+            },
+            {
+            id:46,
+            eng:"numbers / нАмбэz /",
+            ru:"числа",
+            
+            },
+    ],
+    m013old: [
         {
             id: 1,
             eng: "I ",
@@ -1201,122 +1696,151 @@ const allCardsGameFindAPair = {
             ru: "90"
         },
     ],
-    numbersb1: [
+    firstSecond: [
         {
-            id: 1,
-            eng: "the first ",
-            ru: "первый"
-        },
-        {
-            id: 2,
-            eng: "the second ",
-            ru: "второй"
-        },
-        {
-            id: 3,
-            eng: "the third ",
-            ru: "третий"
-        },
-        {
-            id: 4,
-            eng: "the fourth ",
-            ru: "четвертый"
-        },
-        {
-            id: 5,
-            eng: "the fifth ",
-            ru: "пятый"
-        },
-        {
-            id: 6,
-            eng: "the sixth ",
-            ru: "шестой"
-        },
-        {
-            id: 7,
-            eng: "the eighth ",
-            ru: "восьмой"
-        },
-        {
-            id: 8,
-            eng: "the ninth ",
-            ru: "девятый"
-        },
-        {
-            id: 9,
-            eng: "the tenth ",
-            ru: "десятый"
-        },
-        {
-            id: 10,
-            eng: "the twelfth ",
-            ru: "двенадцатый"
-        },
-        {
-            id: 11,
-            eng: "the twentieth ",
-            ru: "двадцатый"
-        },
-        {
-            id: 12,
-            eng: "the fortieth ",
-            ru: "сороковой"
-        },
-        {
-            id: 13,
-            eng: "the fourteenth ",
-            ru: "четырнадцатый"
-        },
-        {
-            id: 14,
-            eng: "the zeroth ",
-            ru: "нулевой"
-        },
-        {
-            id: 15,
-            eng: "the thirtieth ",
-            ru: "тринадцатый"
-        },
-        {
-            id: 16,
-            eng: "the hundredth ",
-            ru: "сотый"
-        },
-        {
-            id: 17,
-            eng: "the thousandth ",
-            ru: "тысячный"
-        },
-        {
-            id: 18,
-            eng: "the twenty-first ",
-            ru: "двадцать первый"
-        },
-        {
-            id: 19,
-            eng: "the fifty-fifth ",
-            ru: "пятьдесят пятый"
-        },
-        {
-            id: 20,
-            eng: "the last ",
-            ru: "последний"
-        },
-        {
-            id: 21,
-            eng: "the ninety-ninth ",
-            ru: "девяносто девятый"
-        },
-        {
-            id: 22,
-            eng: "the eightieth ",
-            ru: "восьмидесятый"
-        },
-        {
-            id: 23,
-            eng: "the eighty-eighth ",
-            ru: "восемьдесят восьмой"
-        },
+            id:1,
+            eng:"the first / фЁст /",
+            ru:"первый",
+            
+            },
+            {
+            id:2,
+            eng:"the second / сэконд /",
+            ru:"второй",
+            
+            },
+            {
+            id:3,
+            eng:"the third / thЁрд /",
+            ru:"третий",
+            
+            },
+            {
+            id:4,
+            eng:"the fourth / фОth /",
+            ru:"четвертый",
+            
+            },
+            {
+            id:5,
+            eng:"the fifth / фИфth /",
+            ru:"пятый",
+            
+            },
+            {
+            id:6,
+            eng:"the sixth / сЫксth /",
+            ru:"шестой",
+            
+            },
+            {
+            id:7,
+            eng:"the eighth / ЭЙТth /",
+            ru:"восьмой",
+            
+            },
+            {
+            id:8,
+            eng:"the ninth / нАйнth /",
+            ru:"девятый",
+            
+            },
+            {
+            id:9,
+            eng:"the tenth / тЭнth /",
+            ru:"десятый",
+            
+            },
+            {
+            id:10,
+            eng:"the twelfth / туЭлвth /",
+            ru:"двенадцатый",
+            
+            },
+            {
+            id:11,
+            eng:"the twentieth / илЭвэнth /",
+            ru:"двадцатый",
+            
+            },
+            {
+            id:12,
+            eng:"the thirteenth / thЁртИИИнth /",
+            ru:"тринадцатый",
+            
+            },
+            {
+            id:13,
+            eng:"the fifteenth / фифтИИИИнth /",
+            ru:"пятнадцатый",
+            
+            },
+            {
+            id:14,
+            eng:"the fourteenth / фотИИИнth /",
+            ru:"четырнадцатый",
+            
+            },
+            {
+            id:15,
+            eng:"the thirtieth / thЁтиеth /",
+            ru:"тридцатый",
+            
+            },
+            {
+            id:16,
+            eng:"the zeroth / зИроth /",
+            ru:"нулевой",
+            
+            },
+            {
+            id:17,
+            eng:"the fortieth / фОтиеth /",
+            ru:"сороковой",
+            
+            },
+            {
+            id:18,
+            eng:"the hundredth / хАндрэдth /",
+            ru:"сотый",
+            
+            },
+            {
+            id:19,
+            eng:"the thousandth / thAуzэндth /",
+            ru:"тысячный",
+            
+            },
+            {
+            id:20,
+            eng:"the twenty-first / туэнти фЁст /",
+            ru:"двадцать первый",
+            
+            },
+            {
+            id:21,
+            eng:"the fifty-fifth / фИфти фифth /",
+            ru:"пятьдесят пятый",
+            
+            },
+            {
+            id:22,
+            eng:"the last / дэ ласт /",
+            ru:"последний",
+            
+            },
+            {
+            id:23,
+            eng:"the ninety-ninth / нАйнди нАйнth /",
+            ru:"девяносто девятый",
+            
+            },
+            {
+            id:24,
+            eng:"the eighty-eighth / Эйти Эйтth /",
+            ru:"восемьдесят восьмой",
+            
+            },
     ],
     numbersb2: [
         {
@@ -2286,127 +2810,151 @@ const allCardsGameFindAPair = {
             ru: "Правда чтоли? Реально?"
         },
     ],
-    adjectives01: [
+    adj01: [
         {
-            id: 1,
-            eng: "ugly /Агли/",
-            ru: "уродливый"
-        },
-        {
-            id: 2,
-            eng: "big /биГ/",
-            ru: "большой"
-        },
-        {
-            id: 3,
-            eng: "busy /бИзи/",
-            ru: "занятой"
-        },
-        {
-            id: 4,
-            eng: "bald /бОлд/",
-            ru: "лысый"
-        },
-        {
-            id: 5,
-            eng: "boring /бОрин/",
-            ru: "скучный"
-        },
-        {
-            id: 6,
-            eng: "beautiful /бьютифул/",
-            ru: "красивая"
-        },
-        {
-            id: 7,
-            eng: "bad /бЭд/",
-            ru: "плохой"
-        },
-        {
-            id: 8,
-            eng: "green /грин/",
-            ru: "зелёный"
-        },
-        {
-            id: 9,
-            eng: "great /грЭйт/",
-            ru: "великий"
-        },
-        {
-            id: 10,
-            eng: "good /гуд/",
-            ru: "хороший"
-        },
-        {
-            id: 11,
-            eng: "dark /дарк/",
-            ru: "темный"
-        },
-        {
-            id: 12,
-            eng: "dirty /дёти/",
-            ru: "грязный"
-        },
-        {
-            id: 13,
-            eng: "disgusting /дисгАстин/",
-            ru: "отвратительный"
-        },
-        {
-            id: 14,
-            eng: "drunk /дрАнк/",
-            ru: "пьяный"
-        },
-        {
-            id: 15,
-            eng: "early /ёли/",
-            ru: "ранний, рано"
-        },
-        {
-            id: 16,
-            eng: "easy /Изи/",
-            ru: "легкий"
-        },
-        {
-            id: 17,
-            eng: "interesting /ИНтрэстин/",
-            ru: "интересный"
-        },
-        {
-            id: 18,
-            eng: "kind /кАйнд/",
-            ru: "добрый"
-        },
-        {
-            id: 19,
-            eng: "calm /кам/",
-            ru: "спокойный"
-        },
-        {
-            id: 20,
-            eng: "young /ян/",
-            ru: "молодой"
-        },
-        {
-            id: 21,
-            eng: "clumsy /клАмзи/",
-            ru: "неуклюжий"
-        },
-        {
-            id: 22,
-            eng: "clean /клин/",
-            ru: "чистый"
-        },
-        {
-            id: 23,
-            eng: "muscular /мАскьюла/",
-            ru: "мускулистый"
-        },
-        {
-            id: 24,
-            eng: "old /оУлд/",
-            ru: "старый"
-        },
+            id:1,
+            eng:"ugly / Агли /",
+            ru:"уродливый",
+            
+            },
+            {
+            id:2,
+            eng:"big / биГ /",
+            ru:"большой",
+            
+            },
+            {
+            id:3,
+            eng:"busy / бИзи /",
+            ru:"занятой",
+            
+            },
+            {
+            id:4,
+            eng:"bald / бОлд /",
+            ru:"лысый",
+            
+            },
+            {
+            id:5,
+            eng:"boring / бОрин /",
+            ru:"скучный",
+            
+            },
+            {
+            id:6,
+            eng:"beautiful / бьютифул /",
+            ru:"красивая",
+            
+            },
+            {
+            id:7,
+            eng:"bad / бЭд /",
+            ru:"плохой",
+            
+            },
+            {
+            id:8,
+            eng:"green / грин /",
+            ru:"зелёный",
+            
+            },
+            {
+            id:9,
+            eng:"great / грЭйт /",
+            ru:"великий",
+            
+            },
+            {
+            id:10,
+            eng:"good / гуд /",
+            ru:"хороший",
+            
+            },
+            {
+            id:11,
+            eng:"dark / дарк /",
+            ru:"темный",
+            
+            },
+            {
+            id:12,
+            eng:"dirty / дёти /",
+            ru:"грязный",
+            
+            },
+            {
+            id:13,
+            eng:"disgusting / дисгАстин /",
+            ru:"отвратительный",
+            
+            },
+            {
+            id:14,
+            eng:"drunk / дрАнк /",
+            ru:"пьяный",
+            
+            },
+            {
+            id:15,
+            eng:"early / ёли /",
+            ru:"ранний, рано",
+            
+            },
+            {
+            id:16,
+            eng:"easy / Изи /",
+            ru:"легкий",
+            
+            },
+            {
+            id:17,
+            eng:"interesting / ИНтрэстин /",
+            ru:"интересный",
+            
+            },
+            {
+            id:18,
+            eng:"kind / кАйнд /",
+            ru:"добрый",
+            
+            },
+            {
+            id:19,
+            eng:"calm / кам /",
+            ru:"спокойный",
+            
+            },
+            {
+            id:20,
+            eng:"young / ян /",
+            ru:"молодой",
+            
+            },
+            {
+            id:21,
+            eng:"clumsy / клАмзи /",
+            ru:"неуклюжий",
+            
+            },
+            {
+            id:22,
+            eng:"clean / клин /",
+            ru:"чистый",
+            
+            },
+            {
+            id:23,
+            eng:"muscular / мАскьюла /",
+            ru:"мускулистый",
+            
+            },
+            {
+            id:24,
+            eng:"old / оУлд /",
+            ru:"старый",
+            
+            },
     ],
     adjectives02: [
         {
@@ -2764,7 +3312,7 @@ const allCardsGameFindAPair = {
             ru: "залипать в интернете"
         },
     ],
-    m010: [
+    presentSimple: [
         {
             id: 1,
             eng: "every day / эври дэй /",
@@ -2881,7 +3429,7 @@ const allCardsGameFindAPair = {
             ru: "редко, изредка"
         },
     ],
-    m014: [
+    m014old: [
         {
             id: 1,
             eng: "everybody / Эврибади /",

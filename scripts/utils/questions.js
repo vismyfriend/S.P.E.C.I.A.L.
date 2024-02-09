@@ -4203,7 +4203,1629 @@ const allQuestionsOneDeck = {
                 ru:"OUR / аУа /"
                 },
     ],
-    m007: [
+    interview1: [
+        {
+            id:1,
+            eng:"Глаголы - это слова, которым можно задать вопрос 'Что делать?' Например: спать, целоваться, пить и так далее. Как будет слово ГЛАГОЛ на английском?",
+            ru:"Verbs / вЁрбз / глаголы a Verb / вЁрб / глагол например глаголы : sleep, kiss, drink, dance",
+            
+            },
+            {
+            id:2,
+            eng:"Существительные - это слова, которым можно задать вопрос 'Что?' Например: сон, поцелуй, напиток, танец. Переведи эти существительные на английский.",
+            ru:"a sleep, a kiss, a drink, a dance, a job, a photo",
+            
+            },
+            {
+            id:3,
+            eng:"Прилагательные - это слова, которым можно задать вопрос 'Какой или какие, какое или какая?' Например: хороший, плохой, злой и так далее. Переведи эти слова.",
+            ru:"GOOD / гУд / хороший BAD / бЭд / плохой EVIL / ивЭл / злой angry /Энгри/ сердитый",
+            
+            },
+            {
+            id:4,
+            eng:"В английском есть особенность,которой нет в русском языке. Какую букву англичане и американцы ставят перед всеми существ. в ед. числе?",
+            ru:"Букву ' А ' они говорят всегда, когда говорят про что-то ОДНО. Это артикль. Примеры: I have a car - у меня машина You have a dog and a cat - у вас собака и кошка",
+            
+            },
+            {
+            id:5,
+            eng:"Артикли ' A и AN ' перед словами могут переводится: ОДИН, ОДИН ИЗ МНОГИХ, КАКОЙ-ТО. Когда ставятся эти артикли в английском? ",
+            ru:"Ставим ' А ' перед всеми существ. в ед. числе, например ДОМ - a house. Артикль ' AN ' ставится если слово начинается с гласного звука например AN old house",
+            
+            },
+            {
+            id:6,
+            eng:"Какое окончание (какая английская буква) добавляется к существ. во множеств. числе? Например одна кружка / э кап / a cup много кружек MANY CUP_?",
+            ru:"буква S добавляется к существительным во множественном числе. / кАпс / CUPS кружки / кЭпс / CAPS кепки / кОпс / COPS полицейские",
+            
+            },
+            {
+            id:7,
+            eng:"Когда в русском предложении нет глагола, в английском добавляем глагол ARE, AM, IS. Как он переводится, зачем он нужен?",
+            ru:"Винсент называет его АРАМИС, он как мушкетёр-помощник в английском, он помогает грамотно строить английские предложения",
+            
+            },
+            {
+            id:8,
+            eng:"Глагол помощник ARE когда ставится? После каких местоимений?",
+            ru:"Ставим ARE когда в русском предложении нет глаголов. Например: Мы друзья - We are friends Они друзья - they are friends Вы секси! - you are sexy! Ты крут - you are cool ",
+            
+            },
+            {
+            id:9,
+            eng:"Глагол помощник ' is ' когда ставится? После каких местоимений?",
+            ru:"Ставим is когда в русском предложении нет глагола. Например: Он классный - He is cool Она хорошая - she is good Это плохо - it is bad Это Винсент - It's Vincent ",
+            
+            },
+            {
+            id:10,
+            eng:"Глагол помощник ' AM ' когда ставится? После какого местоимения?",
+            ru:"Ставим AM когда в русском предложении нет глаголов. Например: Я высокий - I am tall / тол / я не высокий - I am not tall я высокий? - am I tall?",
+            
+            },
+            {
+            id:11,
+            eng:"Переведи на английский : Я люблю собак и кошек",
+            ru:"I love dogs (я люблю) I like dogs (мне нравятся собаки)",
+            
+            },
+            {
+            id:12,
+            eng:"Переведи на английский : Нам нравится Английский",
+            ru:"We like English - нам нравится We love English - мы любим",
+            
+            },
+            {
+            id:13,
+            eng:"Переведи на английский : Она красивая леди",
+            ru:"She is a beautiful lady She is a beautiful girl She is a beautiful woman",
+            
+            },
+            {
+            id:14,
+            eng:"Переведи на английский : Я работаю каждый день",
+            ru:"I work every day work - работать job - профессия, работа",
+            
+            },
+            {
+            id:15,
+            eng:"Переведи на английский : Они работают в банке",
+            ru:"They work in a bank",
+            
+            },
+            {
+            id:16,
+            eng:"Переведи на английский : У тебя синяя машина",
+            ru:"You have a blue car",
+            
+            },
+            {
+            id:17,
+            eng:"Переведи на английский : У меня старая машина",
+            ru:"I have an old car",
+            
+            },
+            {
+            id:18,
+            eng:"Переведи на английский : У них старый кот",
+            ru:"They have an old cat",
+            
+            },
+            {
+            id:19,
+            eng:"Переведи на английский : Это оранжевый апельсин",
+            ru:"it is an orange orange this is an orange orange это - it  =  this - вот это",
+            
+            },
+    ],
+    m008: [
+        {
+            id:1,
+            eng:"What is the English for: ` ноль `",
+            ru:"ZERO  / зИроу /",
+            
+            },
+            {
+            id:2,
+            eng:"What is the English for: ` один `",
+            ru:"ONE  / уан /",
+            
+            },
+            {
+            id:3,
+            eng:"What is the English for: ` два `",
+            ru:"TWO  / ту /",
+            
+            },
+            {
+            id:4,
+            eng:"What is the English for: ` три `",
+            ru:"THREE  / Thри /",
+            
+            },
+            {
+            id:5,
+            eng:"What is the English for: ` четыре `",
+            ru:"FOUR  / фо /",
+            
+            },
+            {
+            id:6,
+            eng:"What is the English for: ` пять `",
+            ru:"FIVE  / файв /",
+            
+            },
+            {
+            id:7,
+            eng:"What is the English for: ` шесть `",
+            ru:"SIX  / сыкс /",
+            
+            },
+            {
+            id:8,
+            eng:"What is the English for: ` семь `",
+            ru:"SEVEN  / сэвн /",
+            
+            },
+            {
+            id:9,
+            eng:"What is the English for: ` восемь `",
+            ru:"EIGHT  / эйт /",
+            
+            },
+            {
+            id:10,
+            eng:"What is the English for: ` девять `",
+            ru:"NINE  / найн /",
+            
+            },
+            {
+            id:11,
+            eng:"What is the English for: ` десять `",
+            ru:"TEN  / тэн /",
+            
+            },
+            {
+            id:12,
+            eng:"What is the English for: ` одиннадцать `",
+            ru:"ELEVEN  / илэвн /",
+            
+            },
+            {
+            id:13,
+            eng:"What is the English for: ` двенадцать `",
+            ru:"TWELVE  / туэлв /",
+            
+            },
+            {
+            id:14,
+            eng:"What is the English for: ` тринадцать `",
+            ru:"THIRTEEN  / THётИИИН /",
+            
+            },
+            {
+            id:15,
+            eng:"What is the English for: ` четырнадцать `",
+            ru:"FOURTEEN  / фотИИИН /",
+            
+            },
+            {
+            id:16,
+            eng:"What is the English for: ` пятнадцать `",
+            ru:"FIFTEEN  / фифтИИИН /",
+            
+            },
+            {
+            id:17,
+            eng:"What is the English for: ` шестнадцать `",
+            ru:"SIXTEEN  / сыкстИИИН /",
+            
+            },
+            {
+            id:18,
+            eng:"What is the English for: ` семнадцать `",
+            ru:"SEVENTEEN  / сэвнтИИИН /",
+            
+            },
+            {
+            id:19,
+            eng:"What is the English for: ` восемнадцать `",
+            ru:"EIGHTEEN  / эйтИИИН /",
+            
+            },
+            {
+            id:20,
+            eng:"What is the English for: ` девятнадцать `",
+            ru:"NINETEEN  / найнтИИИН /",
+            
+            },
+            {
+            id:21,
+            eng:"What is the English for: ` двадцать `",
+            ru:"TWENTY  / туЭнти /",
+            
+            },
+            {
+            id:22,
+            eng:"What is the English for: ` равно, равняется, есть, быть `",
+            ru:"IS  / из /",
+            
+            },
+            {
+            id:23,
+            eng:"What is the English for: ` плюс `",
+            ru:"PLUS  / плАс /",
+            
+            },
+            {
+            id:24,
+            eng:"What is the English for: ` минус `",
+            ru:"MINUS  / мАйнэс /",
+            
+            },
+            {
+                id:101,
+                eng:"How do you translate : ` zero / зИроу / `",
+                ru:"ноль",
+                
+                },
+                {
+                id:102,
+                eng:"How do you translate : ` one / уан / `",
+                ru:"один",
+                
+                },
+                {
+                id:103,
+                eng:"How do you translate : ` two / ту / `",
+                ru:"два",
+                
+                },
+                {
+                id:104,
+                eng:"How do you translate : ` three / Thри / `",
+                ru:"три",
+                
+                },
+                {
+                id:105,
+                eng:"How do you translate : ` four / фо / `",
+                ru:"четыре",
+                
+                },
+                {
+                id:106,
+                eng:"How do you translate : ` five / файв / `",
+                ru:"пять",
+                
+                },
+                {
+                id:107,
+                eng:"How do you translate : ` six / сыкс / `",
+                ru:"шесть",
+                
+                },
+                {
+                id:108,
+                eng:"How do you translate : ` seven / сэвн / `",
+                ru:"семь",
+                
+                },
+                {
+                id:109,
+                eng:"How do you translate : ` eight / эйт / `",
+                ru:"восемь",
+                
+                },
+                {
+                id:110,
+                eng:"How do you translate : ` nine / найн / `",
+                ru:"девять",
+                
+                },
+                {
+                id:111,
+                eng:"How do you translate : ` ten / тэн / `",
+                ru:"десять",
+                
+                },
+                {
+                id:112,
+                eng:"How do you translate : ` eleven / илэвн / `",
+                ru:"одиннадцать",
+                
+                },
+                {
+                id:113,
+                eng:"How do you translate : ` twelve / туэлв / `",
+                ru:"двенадцать",
+                
+                },
+                {
+                id:114,
+                eng:"How do you translate : ` thirteen / THётИИИН / `",
+                ru:"тринадцать",
+                
+                },
+                {
+                id:115,
+                eng:"How do you translate : ` fourteen / фотИИИН / `",
+                ru:"четырнадцать",
+                
+                },
+                {
+                id:116,
+                eng:"How do you translate : ` fifteen / фифтИИИН / `",
+                ru:"пятнадцать",
+                
+                },
+                {
+                id:117,
+                eng:"How do you translate : ` sixteen / сыкстИИИН / `",
+                ru:"шестнадцать",
+                
+                },
+                {
+                id:118,
+                eng:"How do you translate : ` seventeen / сэвнтИИИН / `",
+                ru:"семнадцать",
+                
+                },
+                {
+                id:119,
+                eng:"How do you translate : ` eighteen / эйтИИИН / `",
+                ru:"восемнадцать",
+                
+                },
+                {
+                id:120,
+                eng:"How do you translate : ` nineteen / найнтИИИН / `",
+                ru:"девятнадцать",
+                
+                },
+                {
+                id:121,
+                eng:"How do you translate : ` twenty / туЭнти / `",
+                ru:"двадцать",
+                
+                },
+                {
+                id:122,
+                eng:"How do you translate : ` is / из / `",
+                ru:"равно, равняется, есть, быть",
+                
+                },
+                {
+                id:123,
+                eng:"How do you translate : ` plus / плАс / `",
+                ru:"плюс",
+                
+                },
+                {
+                id:124,
+                eng:"How do you translate : ` minus / мАйнэс / `",
+                ru:"минус",
+                
+                },
+            
+    ],
+    m009old: [
+        {
+            id:1,
+            eng:"What is the English for: ` ноль `",
+            ru:"ZERO  / зИроу /",
+            
+            },
+            {
+            id:2,
+            eng:"What is the English for: ` один `",
+            ru:"ONE  / уан /",
+            
+            },
+            {
+            id:3,
+            eng:"What is the English for: ` два `",
+            ru:"TWO  / ту /",
+            
+            },
+            {
+            id:4,
+            eng:"What is the English for: ` три `",
+            ru:"THREE  / Thри /",
+            
+            },
+            {
+            id:5,
+            eng:"What is the English for: ` четыре `",
+            ru:"FOUR  / фо /",
+            
+            },
+            {
+            id:6,
+            eng:"What is the English for: ` пять `",
+            ru:"FIVE  / файв /",
+            
+            },
+            {
+            id:7,
+            eng:"What is the English for: ` шесть `",
+            ru:"SIX  / сыкс /",
+            
+            },
+            {
+            id:8,
+            eng:"What is the English for: ` семь `",
+            ru:"SEVEN  / сэвн /",
+            
+            },
+            {
+            id:9,
+            eng:"What is the English for: ` восемь `",
+            ru:"EIGHT  / эйт /",
+            
+            },
+            {
+            id:10,
+            eng:"What is the English for: ` девять `",
+            ru:"NINE  / найн /",
+            
+            },
+            {
+            id:11,
+            eng:"What is the English for: ` десять `",
+            ru:"TEN  / тэн /",
+            
+            },
+            {
+            id:12,
+            eng:"What is the English for: ` одиннадцать `",
+            ru:"ELEVEN  / илэвн /",
+            
+            },
+            {
+            id:13,
+            eng:"What is the English for: ` двенадцать `",
+            ru:"TWELVE  / туэлв /",
+            
+            },
+            {
+            id:14,
+            eng:"What is the English for: ` тринадцать `",
+            ru:"THIRTEEN  / THётИИИН /",
+            
+            },
+            {
+            id:15,
+            eng:"What is the English for: ` четырнадцать `",
+            ru:"FOURTEEN  / фотИИИН /",
+            
+            },
+            {
+            id:16,
+            eng:"What is the English for: ` пятнадцать `",
+            ru:"FIFTEEN  / фифтИИИН /",
+            
+            },
+            {
+            id:17,
+            eng:"What is the English for: ` шестнадцать `",
+            ru:"SIXTEEN  / сыкстИИИН /",
+            
+            },
+            {
+            id:18,
+            eng:"What is the English for: ` семнадцать `",
+            ru:"SEVENTEEN  / сэвнтИИИН /",
+            
+            },
+            {
+            id:19,
+            eng:"What is the English for: ` восемнадцать `",
+            ru:"EIGHTEEN  / эйтИИИН /",
+            
+            },
+            {
+            id:20,
+            eng:"What is the English for: ` девятнадцать `",
+            ru:"NINETEEN  / найнтИИИН /",
+            
+            },
+            {
+            id:21,
+            eng:"What is the English for: ` двадцать `",
+            ru:"TWENTY  / туЭнти /",
+            
+            },
+            {
+            id:22,
+            eng:"What is the English for: ` равно, равняется, есть, быть `",
+            ru:"IS  / из /",
+            
+            },
+            {
+            id:23,
+            eng:"What is the English for: ` плюс `",
+            ru:"PLUS  / плАс /",
+            
+            },
+            {
+            id:24,
+            eng:"What is the English for: ` минус `",
+            ru:"MINUS  / мАйнэс /",
+            
+            },
+            {
+                id:101,
+                eng:"How do you translate : ` zero / зИроу / `",
+                ru:"ноль",
+                
+                },
+                {
+                id:102,
+                eng:"How do you translate : ` one / уан / `",
+                ru:"один",
+                
+                },
+                {
+                id:103,
+                eng:"How do you translate : ` two / ту / `",
+                ru:"два",
+                
+                },
+                {
+                id:104,
+                eng:"How do you translate : ` three / Thри / `",
+                ru:"три",
+                
+                },
+                {
+                id:105,
+                eng:"How do you translate : ` four / фо / `",
+                ru:"четыре",
+                
+                },
+                {
+                id:106,
+                eng:"How do you translate : ` five / файв / `",
+                ru:"пять",
+                
+                },
+                {
+                id:107,
+                eng:"How do you translate : ` six / сыкс / `",
+                ru:"шесть",
+                
+                },
+                {
+                id:108,
+                eng:"How do you translate : ` seven / сэвн / `",
+                ru:"семь",
+                
+                },
+                {
+                id:109,
+                eng:"How do you translate : ` eight / эйт / `",
+                ru:"восемь",
+                
+                },
+                {
+                id:110,
+                eng:"How do you translate : ` nine / найн / `",
+                ru:"девять",
+                
+                },
+                {
+                id:111,
+                eng:"How do you translate : ` ten / тэн / `",
+                ru:"десять",
+                
+                },
+                {
+                id:112,
+                eng:"How do you translate : ` eleven / илэвн / `",
+                ru:"одиннадцать",
+                
+                },
+                {
+                id:113,
+                eng:"How do you translate : ` twelve / туэлв / `",
+                ru:"двенадцать",
+                
+                },
+                {
+                id:114,
+                eng:"How do you translate : ` thirteen / THётИИИН / `",
+                ru:"тринадцать",
+                
+                },
+                {
+                id:115,
+                eng:"How do you translate : ` fourteen / фотИИИН / `",
+                ru:"четырнадцать",
+                
+                },
+                {
+                id:116,
+                eng:"How do you translate : ` fifteen / фифтИИИН / `",
+                ru:"пятнадцать",
+                
+                },
+                {
+                id:117,
+                eng:"How do you translate : ` sixteen / сыкстИИИН / `",
+                ru:"шестнадцать",
+                
+                },
+                {
+                id:118,
+                eng:"How do you translate : ` seventeen / сэвнтИИИН / `",
+                ru:"семнадцать",
+                
+                },
+                {
+                id:119,
+                eng:"How do you translate : ` eighteen / эйтИИИН / `",
+                ru:"восемнадцать",
+                
+                },
+                {
+                id:120,
+                eng:"How do you translate : ` nineteen / найнтИИИН / `",
+                ru:"девятнадцать",
+                
+                },
+                {
+                id:121,
+                eng:"How do you translate : ` twenty / туЭнти / `",
+                ru:"двадцать",
+                
+                },
+                {
+                id:122,
+                eng:"How do you translate : ` is / из / `",
+                ru:"равно, равняется, есть, быть",
+                
+                },
+                {
+                id:123,
+                eng:"How do you translate : ` plus / плАс / `",
+                ru:"плюс",
+                
+                },
+                {
+                id:124,
+                eng:"How do you translate : ` minus / мАйнэс / `",
+                ru:"минус",
+                
+                },
+            
+    ],
+    alphabeta1: [
+        {
+            id:1,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эй / `",
+            ru:"apples, apricots, antibiotics",
+            
+            },
+            {
+            id:2,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / би / `",
+            ru:"black, bags, broccoli",
+            
+            },
+            {
+            id:3,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / си / `",
+            ru:"cars, cucumbers, carrots",
+            
+            },
+            {
+            id:4,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ди / `",
+            ru:"dragons, dracula, dolphin",
+            
+            },
+            {
+            id:5,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / и / `",
+            ru:"eleven, error, eagle, easy",
+            
+            },
+            {
+            id:6,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эф / `",
+            ru:"fantastic, fruits, ferrari",
+            
+            },
+            {
+            id:7,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / джи / `",
+            ru:"garages, god, good, gremlin",
+            
+            },
+            {
+            id:8,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эйч / `",
+            ru:"hot, hello, hamburger",
+            
+            },
+            {
+            id:9,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ай / `",
+            ru:"ice, ice-cream, illusion, in, it",
+            
+            },
+            {
+            id:10,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / джэй / `",
+            ru:"jamaica, joke, jelly, jaguar",
+            
+            },
+            {
+            id:11,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / кей / `",
+            ru:"ключ произносится /кИ/ произносить кЕй неправильно kangaroo, kitten, killer",
+            
+            },
+            {
+            id:12,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эл / `",
+            ru:"love, live, life, lamp",
+            
+            },
+            {
+            id:13,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эм / `",
+            ru:"money, mother, miracle",
+            
+            },
+            {
+            id:14,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эн / `",
+            ru:"never, nice, not, neck",
+            
+            },
+            {
+            id:15,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / оу / `",
+            ru:"or, ox, oscar, omg, ocean",
+            
+            },
+            {
+            id:16,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / пи / `",
+            ru:"pen, pull, push, play",
+            
+            },
+            {
+            id:17,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / кью / `",
+            ru:"question, quest, quality, quantity",
+            
+            },
+            {
+            id:18,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / а / `",
+            ru:"rock'n'roll, russia, revolver,run",
+            
+            },
+            {
+            id:19,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эс / `",
+            ru:"super, slim, skinny, strong",
+            
+            },
+            {
+            id:20,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ти / `",
+            ru:"team, tank, touch",
+            
+            },
+            {
+            id:21,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ю / `",
+            ru:"underground, united kingdom, universe, unique, umbrella",
+            
+            },
+            {
+            id:22,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ви / `",
+            ru:"violence, vision, vampire, vector, vladivostok",
+            
+            },
+            {
+            id:23,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / дабл ю / `",
+            ru:"windows, wizard, web, world",
+            
+            },
+            {
+            id:24,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / экс / `",
+            ru:"/ЭКС РЭЙ/ x-ray",
+            
+            },
+            {
+            id:25,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / уай / `",
+            ru:"yellow, yummy, yo, yup, yes",
+            
+            },
+            {
+            id:26,
+            eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ЗИ или  ZЭД / `",
+            ru:"zebra, zimbabve, zanzibar, zombies",
+            
+            },
+            {
+                id:101,
+                eng:"Tell me any 2 English words beginning with a letter :  ` A / эй / `",
+                ru:"apples, apricots, antibiotics",
+                
+                },
+                {
+                id:102,
+                eng:"Tell me any 2 English words beginning with a letter :  ` B / би / `",
+                ru:"black, bags, broccoli",
+                
+                },
+                {
+                id:103,
+                eng:"Tell me any 2 English words beginning with a letter :  ` C / си / `",
+                ru:"cars, cucumbers, carrots",
+                
+                },
+                {
+                id:104,
+                eng:"Tell me any 2 English words beginning with a letter :  ` D / ди / `",
+                ru:"dragons, dracula, dolphin",
+                
+                },
+                {
+                id:105,
+                eng:"Tell me any 2 English words beginning with a letter :  ` E / и / `",
+                ru:"eleven, error, eagle, easy",
+                
+                },
+                {
+                id:106,
+                eng:"Tell me any 2 English words beginning with a letter :  ` F / эф / `",
+                ru:"fantastic, fruits, ferrari",
+                
+                },
+                {
+                id:107,
+                eng:"Tell me any 2 English words beginning with a letter :  ` G / джи / `",
+                ru:"garages, god, good, gremlin",
+                
+                },
+                {
+                id:108,
+                eng:"Tell me any 2 English words beginning with a letter :  ` H / эйч / `",
+                ru:"hot, hello, hamburger",
+                
+                },
+                {
+                id:109,
+                eng:"Tell me any 2 English words beginning with a letter :  ` I / ай / `",
+                ru:"ice, ice-cream, illusion, in, it",
+                
+                },
+                {
+                id:110,
+                eng:"Tell me any 2 English words beginning with a letter :  ` J / джэй / `",
+                ru:"jamaica, joke, jelly, jaguar",
+                
+                },
+                {
+                id:111,
+                eng:"Tell me any 2 English words beginning with a letter :  ` K / кей / `",
+                ru:"ключ произносится /кИ/ произносить кЕй неправильно kangaroo, kitten, killer",
+                
+                },
+                {
+                id:112,
+                eng:"Tell me any 2 English words beginning with a letter :  ` L / эл / `",
+                ru:"love, live, life, lamp",
+                
+                },
+                {
+                id:113,
+                eng:"Tell me any 2 English words beginning with a letter :  ` M / эм / `",
+                ru:"money, mother, miracle",
+                
+                },
+                {
+                id:114,
+                eng:"Tell me any 2 English words beginning with a letter :  ` N / эн / `",
+                ru:"never, nice, not, neck",
+                
+                },
+                {
+                id:115,
+                eng:"Tell me any 2 English words beginning with a letter :  ` O / оу / `",
+                ru:"or, ox, oscar, omg, ocean",
+                
+                },
+                {
+                id:116,
+                eng:"Tell me any 2 English words beginning with a letter :  ` P / пи / `",
+                ru:"pen, pull, push, play",
+                
+                },
+                {
+                id:117,
+                eng:"Tell me any 2 English words beginning with a letter :  ` Q / кью / `",
+                ru:"question, quest, quality, quantity",
+                
+                },
+                {
+                id:118,
+                eng:"Tell me any 2 English words beginning with a letter :  ` R / а / `",
+                ru:"rock'n'roll, russia, revolver,run",
+                
+                },
+                {
+                id:119,
+                eng:"Tell me any 2 English words beginning with a letter :  ` S / эс / `",
+                ru:"super, slim, skinny, strong",
+                
+                },
+                {
+                id:120,
+                eng:"Tell me any 2 English words beginning with a letter :  ` T / ти / `",
+                ru:"team, tank, touch",
+                
+                },
+                {
+                id:121,
+                eng:"Tell me any 2 English words beginning with a letter :  ` U / ю / `",
+                ru:"underground, united kingdom, universe, unique, umbrella",
+                
+                },
+                {
+                id:122,
+                eng:"Tell me any 2 English words beginning with a letter :  ` V / ви / `",
+                ru:"violence, vision, vampire, vector, vladivostok",
+                
+                },
+                {
+                id:123,
+                eng:"Tell me any 2 English words beginning with a letter :  ` W / дабл ю / `",
+                ru:"windows, wizard, web, world",
+                
+                },
+                {
+                id:124,
+                eng:"Как по английски сказать ' рентген '?",
+                ru:"/ЭКС РЭЙ/ x-ray",
+                
+                },
+                {
+                id:125,
+                eng:"Tell me any 2 English words beginning with a letter :  ` Y / уай / `",
+                ru:"yellow, yummy, yo, yup, yes",
+                
+                },
+                {
+                id:126,
+                eng:"Tell me any 2 English words beginning with a letter :  ` Z / ЗИ или  ZЭД / `",
+                ru:"zebra, zimbabve, zanzibar, zombies",
+                
+                },
+    ],
+    alphabeta2: [
+        {
+            id:27,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` VINCENT `",
+            ru:"Ви Ай Эн Си И Эн Ти",
+            
+            },
+            {
+            id:28,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` NIKE `",
+            ru:"Эн Ай Кей И",
+            
+            },
+            {
+            id:29,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` PASSPORT `",
+            ru:"Пи Эй Эс Эс Пи Оу А Ти",
+            
+            },
+            {
+            id:30,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` RUSSIA `",
+            ru:"А Ю Эс Эс Ай Эй",
+            
+            },
+            {
+            id:31,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` FRANCE `",
+            ru:"Эф А Эй Эн Си И",
+            
+            },
+            {
+            id:32,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ENGLAND `",
+            ru:"И Эн Джи Эл Эй Эн Ди",
+            
+            },
+            {
+            id:33,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` MERCEDES `",
+            ru:"Эм И А Си И Ди И Эс - Би И Эн Зи",
+            
+            },
+            {
+            id:34,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` AUDI `",
+            ru:"Эй Ю Ди Ай",
+            
+            },
+            {
+            id:35,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` VOLVO `",
+            ru:"Ви Оу Эл Ви Оу",
+            
+            },
+            {
+            id:36,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` VOLKSWAGEN `",
+            ru:"Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн",
+            
+            },
+            {
+            id:37,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` BMW `",
+            ru:"Би Эм Дабл Ю",
+            
+            },
+            {
+            id:38,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` KANGAROO `",
+            ru:"Кей Эй Эн Джи Эй А Оу Оу",
+            
+            },
+            {
+            id:39,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` JOKER `",
+            ru:"Джей Оу Кей И А",
+            
+            },
+            {
+            id:40,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` MINECRAFT `",
+            ru:"Эм Ай Эн И Си А Эй Эф Ти",
+            
+            },
+            {
+            id:41,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HOUSE `",
+            ru:"Эйч Оу Ю Эс И",
+            
+            },
+            {
+            id:42,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` FOX `",
+            ru:"Эф Оу Экс",
+            
+            },
+            {
+            id:43,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` WINDOWS `",
+            ru:"Дабл Ю Ай Эн Ди Оу Дабл Ю Эс",
+            
+            },
+            {
+            id:44,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ANDROID `",
+            ru:"Эй Эн Ди А Оу Ай Ди",
+            
+            },
+            {
+            id:45,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` FATHER `",
+            ru:"Эф Эй Ти Эйч И А",
+            
+            },
+            {
+            id:46,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` MOTHER `",
+            ru:"Эм Оу Ти Эйч И А",
+            
+            },
+            {
+            id:47,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` TELEPHONE `",
+            ru:"Ти И Эл И Пи Эйч Оу Эн И",
+            
+            },
+            {
+            id:48,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` CHRISTMAS `",
+            ru:"С ЭйчА Ай Эс Ти Эм Эй Эс",
+            
+            },
+            {
+            id:49,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` EURO `",
+            ru:"И Ю А Оу",
+            
+            },
+            {
+            id:50,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` AMERICA `",
+            ru:"Эй Эм И А Ай Си Эй",
+            
+            },
+            {
+            id:51,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` COMPUTER `",
+            ru:"Си Оу Эм Пи Ю Ти И А",
+            
+            },
+            {
+            id:52,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ALASKA `",
+            ru:"Эй Эл Эй Эс Кей Эй",
+            
+            },
+            {
+            id:53,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` BATMAN `",
+            ru:"Би Эй Ти Эм Эй Эн",
+            
+            },
+            {
+            id:54,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ROCKNROLL `",
+            ru:"А Оу Си Кей Эн А Оу Эл Эл",
+            
+            },
+            {
+            id:55,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HAMBURGER `",
+            ru:"Эйч Эй Эм Би Ю А Джи И А",
+            
+            },
+            {
+            id:56,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` CHEESEBURGER `",
+            ru:"Си Эйч И И Эс И Би Ю Аджи И А",
+            
+            },
+            {
+            id:57,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HOMEWORK `",
+            ru:"Эйч Оу Эм И Дабл Ю Оу А Кей",
+            
+            },
+            {
+            id:58,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ENGLISH `",
+            ru:"И Эн Джи Эл Ай Эс Эйч",
+            
+            },
+            {
+            id:59,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` JEEP `",
+            ru:"Джей И И Пи",
+            
+            },
+            {
+            id:60,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` CAR `",
+            ru:"Си Эй А",
+            
+            },
+            {
+            id:61,
+            eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HOSPITAL `",
+            ru:"Эйч Оу Эс Пи Ти Эй Эл",
+            
+            },
+            {
+                id:127,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Ви Ай Эн Си И Эн Ти `",
+                ru:"VINCENT",
+                
+                },
+                {
+                id:128,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эн Ай Кей И `",
+                ru:"NIKE",
+                
+                },
+                {
+                id:129,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Пи Эй Эс Эс Пи Оу А Ти `",
+                ru:"PASSPORT",
+                
+                },
+                {
+                id:130,
+                eng:"Я произнесу слово по буквам, отгадай слово ` А Ю Эс Эс Ай Эй `",
+                ru:"RUSSIA",
+                
+                },
+                {
+                id:131,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эф А Эй Эн Си И `",
+                ru:"FRANCE",
+                
+                },
+                {
+                id:132,
+                eng:"Я произнесу слово по буквам, отгадай слово ` И Эн Джи Эл Эй Эн Ди `",
+                ru:"ENGLAND",
+                
+                },
+                {
+                id:133,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эм И А Си И Ди И Эс `",
+                ru:"MERCEDES",
+                
+                },
+                {
+                id:134,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эй Ю Ди Ай `",
+                ru:"AUDI",
+                
+                },
+                {
+                id:135,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Ви Оу Эл Ви Оу `",
+                ru:"VOLVO",
+                
+                },
+                {
+                id:136,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
+                ru:"VOLKSWAGEN",
+                
+                },
+                {
+                id:137,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Би Эм Дабл Ю `",
+                ru:"BMW",
+                
+                },
+                {
+                id:138,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Кей Эй Эн Джи Эй А Оу Оу `",
+                ru:"KANGAROO",
+                
+                },
+                {
+                id:139,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Джей Оу Кей И А `",
+                ru:"JOKER",
+                
+                },
+                {
+                id:140,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эм Ай Эн И Си А Эй Эф Ти `",
+                ru:"MINECRAFT",
+                
+                },
+                {
+                id:141,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Оу Ю Эс И `",
+                ru:"HOUSE",
+                
+                },
+                {
+                id:142,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эф Оу Экс `",
+                ru:"FOX",
+                
+                },
+                {
+                id:143,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Дабл Ю Ай Эн Ди Оу Дабл Ю Эс `",
+                ru:"WINDOWS",
+                
+                },
+                {
+                id:144,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эй Эн Ди А Оу Ай Ди `",
+                ru:"ANDROID",
+                
+                },
+                {
+                id:145,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эф Эй Ти Эйч И А `",
+                ru:"FATHER",
+                
+                },
+                {
+                id:146,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эм Оу Ти Эйч И А `",
+                ru:"MOTHER",
+                
+                },
+                {
+                id:147,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Ти И Эл И Пи Эйч Оу Эн И `",
+                ru:"TELEPHONE",
+                
+                },
+                {
+                id:148,
+                eng:"Я произнесу слово по буквам, отгадай слово ` С ЭйчА Ай Эс Ти Эм Эй Эс `",
+                ru:"CHRISTMAS",
+                
+                },
+                {
+                id:149,
+                eng:"Я произнесу слово по буквам, отгадай слово ` И Ю А Оу `",
+                ru:"EURO",
+                
+                },
+                {
+                id:150,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эй Эм И А Ай Си Эй `",
+                ru:"AMERICA",
+                
+                },
+                {
+                id:151,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Си Оу Эм Пи Ю Ти И А `",
+                ru:"COMPUTER",
+                
+                },
+                {
+                id:152,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эй Эл Эй Эс Кей Эй `",
+                ru:"ALASKA",
+                
+                },
+                {
+                id:153,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Би Эй Ти Эм Эй Эн `",
+                ru:"BATMAN",
+                
+                },
+                {
+                id:154,
+                eng:"Я произнесу слово по буквам, отгадай слово ` А Оу Си Кей Эн А Оу Эл Эл `",
+                ru:"ROCKNROLL",
+                
+                },
+                {
+                id:155,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Эй Эм Би Ю А Джи И А `",
+                ru:"HAMBURGER",
+                
+                },
+                {
+                id:156,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Си Эйч И И Эс И Би Ю Аджи И А `",
+                ru:"CHEESEBURGER",
+                
+                },
+                {
+                id:157,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Оу Эм И Дабл Ю Оу А Кей `",
+                ru:"HOMEWORK",
+                
+                },
+                {
+                id:158,
+                eng:"Я произнесу слово по буквам, отгадай слово ` И Эн Джи Эл Ай Эс Эйч `",
+                ru:"ENGLISH",
+                
+                },
+                {
+                id:159,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Джей И И Пи `",
+                ru:"JEEP",
+                
+                },
+                {
+                id:160,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Си Эй А `",
+                ru:"CAR",
+                
+                },
+                {
+                id:161,
+                eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Оу Эс Пи Ти Эй Эл `",
+                ru:"HOSPITAL",
+                
+                },
+        ],
+        presentSimple: [
+            {
+                id:1,
+                eng:"Глаголы - это слова, которым можно задать вопрос 'Что делать?' Например: спать, целоваться, пить и так далее. Как будет слово ГЛАГОЛ на английском?",
+                ru:"Verbs / вЁрбз / глаголы a Verb / вЁрб / глагол например глаголы : sleep, kiss, drink, dance"
+                },
+                {
+                id:2,
+                eng:"Существительные - это слова, которым можно задать вопрос 'Что?' Например: сон, поцелуй, напиток, танец. Переведи эти существительные на английский.",
+                ru:"a sleep, a kiss, a drink, a dance, a job, a photo"
+                },
+                {
+                id:3,
+                eng:"Прилагательные - это слова, которым можно задать вопрос 'Какой или какие, какое или какая?' Например: хороший, плохой, злой и так далее. Переведи эти слова.",
+                ru:"GOOD / гУд / хороший BAD / бЭд / плохой EVIL / ивЭл / злой angry /Энгри/ сердитый"
+                },
+                {
+                id:4,
+                eng:"Когда ставится DO / ду / ? Для чего нужен этот глагол-помощник?",
+                ru:"используем DO, когда задаём вопрос c YOU, WE, THEY, I do you + глагол? do we + глагол? do they + глагол? do I + глагол? "
+                },
+                {
+                id:5,
+                eng:"Когда ставится DOES / ду / ? Для чего нужен этот глагол-помощник?",
+                ru:"используем DOES, когда задаём вопросы She , He , it does he + глагол? does she + глагол? does it + глагол?"
+                },
+                {
+                id:6,
+                eng:"Когда нужно говорить DOESN'T ?",
+                ru:"Когда говорим отрицание, что ОН или ОНА или ОНО не делают чего-либо she doesn't + глагол he doesn't + глагол it doesn't + глагол  "
+                },
+                {
+                id:7,
+                eng:"Когда в русском предложении нет глагола, в английском добавляем глагол ARE, AM, IS. Как он переводится, зачем он нужен?",
+                ru:"Винсент называет его АРАМИС, он как мушкетёр-помощник в английском, он помогает грамотно строить английские предложения"
+                },
+                {
+                id:8,
+                eng:"Глагол помощник ARE когда ставится? После каких местоимений?",
+                ru:"Ставим ARE когда в русском предложении нет глаголов. Например: Мы друзья - We are friends Они друзья - they are friends Вы секси! - you are sexy! Ты крут - you are cool "
+                },
+                {
+                id:9,
+                eng:"Глагол помощник ' is ' когда ставится? После каких местоимений?",
+                ru:"Ставим is когда в русском предложении нет глагола. Например: Он классный - He is cool Она хорошая - she is good Это плохо - it is bad Это Винсент - It's Vincent "
+                },
+                {
+                id:10,
+                eng:"Глагол помощник ' AM ' когда ставится? После какого местоимения?",
+                ru:"Ставим AM когда в русском предложении нет глаголов. Например: Я высокий - I am tall / тол / я не высокий - I am not tall я высокий? - am I tall?"
+                },
+                {
+                id:11,
+                eng:"Переведи на английский : Я люблю собак и кошек",
+                ru:"I love dogs (я люблю) I like dogs (мне нравятся собаки)"
+                },
+                {
+                id:12,
+                eng:"Переведи на английский : Нам нравится Английский",
+                ru:"We like English - нам нравится We love English - мы любим"
+                },
+                {
+                id:13,
+                eng:"Переведи на английский : Она красивая леди",
+                ru:"She is a beautiful lady She is a beautiful girl She is a beautiful woman"
+                },
+                {
+                id:14,
+                eng:"Переведи на английский : Я работаю каждый день",
+                ru:"I work every day work - работать job - профессия, работа"
+                },
+                {
+                id:15,
+                eng:"Переведи на английский : Они работают в банке",
+                ru:"They work in a bank"
+                },
+                {
+                id:16,
+                eng:"Переведи на английский : У тебя синяя машина",
+                ru:"You have a blue car"
+                },
+                {
+                id:17,
+                eng:"Переведи на английский : У меня старая машина",
+                ru:"I have an old car"
+                },
+                {
+                id:18,
+                eng:"Переведи на английский : У них старый кот",
+                ru:"They have an old cat"
+                },
+                {
+                id:19,
+                eng:"Переведи на английский : Это оранжевый апельсин",
+                ru:"it is an orange orange this is an orange orange это - it  =  this - вот это"
+                },
+                {
+                id:20,
+                eng:"Когда ARE , AM , IS и когда DO или DOES ? объясни понятным языком",
+                ru:"DOES и DO используем, когда есть ДЕЙСТВИЯ. Do you study? Do you drive? А когда нет действий используем ARE , AM , IS you are students. you are good drivers"
+                },
+                {
+                id:21,
+                eng:"Переведи на английский : Я не ленивый",
+                ru:"I am not lazy"
+                },
+                {
+                id:22,
+                eng:"Переведи на английский : Она не уродлива",
+                ru:"She is not ugly"
+                },
+                {
+                id:23,
+                eng:"Переведи на английский : Это не долго",
+                ru:"It is not long"
+                },
+                {
+                id:24,
+                eng:"Переведи на английский : Мы дома",
+                ru:"We are home"
+                },
+                {
+                id:25,
+                eng:"Переведи на английский : Они строители",
+                ru:"They are builders"
+                },
+                {
+                id:26,
+                eng:"Переведи на английский : Он убийца",
+                ru:"Yhe is a killer"
+                },
+                {
+                id:27,
+                eng:"Переведи на английский : Вы студенты",
+                ru:"You are students"
+                },
+                {
+                id:28,
+                eng:"Переведи на английский : Ты студент",
+                ru:"You are a student"
+                },
+                {
+                id:29,
+                eng:"Переведи на английский : Я не говорю по-английски",
+                ru:"I don't speak English"
+                },
+                {
+                id:30,
+                eng:"Переведи на английский : Она не пьет пиво",
+                ru:"She doesn't drink beer"
+                },
+                {
+                id:31,
+                eng:"Переведи на английский : Это не работает",
+                ru:"it doesn't work"
+                },
+                {
+                id:32,
+                eng:"Переведи на английский : Мы живём в США",
+                ru:"we live in USA"
+                },
+                {
+                id:33,
+                eng:"Переведи на английский : Они строят дома",
+                ru:"they build houses"
+                },
+                {
+                id:34,
+                eng:"Переведи на английский : Он убивает людей",
+                ru:"he kils people"
+                },
+                {
+                id:35,
+                eng:"Переведи на английский : Вы обучаетесь английскому (Вы учите английский)",
+                ru:"you study English (you learn English)"
+                },
+                {
+                id:36,
+                eng:"Переведи на английский : Ты учишься",
+                ru:"you study (you learn)"
+                },
+                {
+                id:37,
+                eng:"Переведи на английский : Я не имею машины",
+                ru:"I don't have a car"
+                },
+        ],
+        
+    m0010: [
         {
             id:1,
             eng:"Какой глагол навидимка ARE или AM или IS ставится после местоимения / ай / I ?",
@@ -6322,7 +7944,7 @@ const allQuestionsOneDeck = {
             ru:"как переводится ninety-eight "
             },
     ], 
-    questions003: [
+    interview2: [
         {
             id:1,
             eng:"Как спросить : ` Когда? `",
@@ -7204,7 +8826,799 @@ const allQuestionsOneDeck = {
                 ru:"ЭТО ВЕРНО? ЭТО ПРАВИЛЬНО?"
                 },
     ],
-    adjectives01: [
+    interview3: [
+        {
+            id:1,
+            eng:"When is your birthday? ",
+            ru:"Когда ваш день рождения?"
+            },
+            {
+            id:2,
+            eng:"Are you a good or a bad student? ",
+            ru:"Вы хороший или плохой ученик?"
+            },
+            {
+            id:3,
+            eng:"Are you home now? ",
+            ru:"Вы дома сейчас?"
+            },
+            {
+            id:4,
+            eng:"Are you hungry now? / а ю хАнГри нАу /",
+            ru:"Вы голодны сейчас?"
+            },
+            {
+            id:5,
+            eng:"Are you tall or short? How tall are you? ",
+            ru:"Вы высокий или низкий? Какой у вас рост?"
+            },
+            {
+            id:6,
+            eng:"Are you the only child in family? Or do you have brothers or sisters? ",
+            ru:"Ты единственный ребенок в семье или у тебя есть братья или сестры?"
+            },
+            {
+            id:7,
+            eng:"Ask me any question / аск ми эни куэсченz /",
+            ru:"Задайте мне любой вопрос"
+            },
+            {
+            id:8,
+            eng:"Ask me anything / аск ми эниTHын /",
+            ru:"Спросите меня что-угодно"
+            },
+            {
+            id:9,
+            eng:"Can you tell me a complimet? ",
+            ru:"Можете сделать мне комплимент?"
+            },
+            {
+            id:10,
+            eng:"Do you drink alcohol? / Элкохол /",
+            ru:"Вы выпиваете алкоголь?"
+            },
+            {
+            id:11,
+            eng:"Do you have a pet? ",
+            ru:"У вас есть домашнее животное (питомец) ?"
+            },
+            {
+            id:12,
+            eng:"Do you have Instagram? ",
+            ru:"У вас есть инстаграм?"
+            },
+            {
+            id:13,
+            eng:"Do you have tattoos? What tattoos? Where do you have them? ",
+            ru:"У вас есть татуировки? Что за тату? Где они у вас?"
+            },
+            {
+            id:14,
+            eng:"Do you have TikTok on your phone? ",
+            ru:"У вас есть ТикТок на телефоне?"
+            },
+            {
+            id:15,
+            eng:"Do you smoke? ",
+            ru:"Вы курите?"
+            },
+            {
+            id:16,
+            eng:"Do you watch movies on the internet? ",
+            ru:"Вы смотрите фильмы в интернете?"
+            },
+            {
+            id:17,
+            eng:"Do you watch YouTube videos? ",
+            ru:"Вы смотрите видео на ютюбе?"
+            },
+            {
+            id:18,
+            eng:"How are you today? ",
+            ru:"Как вы сегодня себя чувствуете?"
+            },
+            {
+            id:19,
+            eng:"How are you? ",
+            ru:"Как вы?"
+            },
+            {
+            id:20,
+            eng:"How do you say: ` просыпаться рано или вставать рано ` ",
+            ru:"WAKE UP EARLY / уэйк ап ёли / или get up тоже можно"
+            },
+            {
+            id:21,
+            eng:"How do you say: ` рано ` ",
+            ru:"EARLY / ёли /"
+            },
+            {
+            id:22,
+            eng:"How is your life? / лайф /",
+            ru:"Как ваша жизнь?"
+            },
+            {
+            id:23,
+            eng:"How is your week? ",
+            ru:"Как ваша неделя?"
+            },
+            {
+            id:24,
+            eng:"How many pelmenis do you usually eat? ",
+            ru:"Сколько пельменей вы обычно съедаете?"
+            },
+            {
+            id:25,
+            eng:"How often do you do English homework? ",
+            ru:"Как часто вы делаете домашку по английскому?"
+            },
+            {
+            id:26,
+            eng:"How old is your best friend? ",
+            ru:"Сколько лет вашему лучшему другу?"
+            },
+            {
+            id:27,
+            eng:"How old are you? ",
+            ru:"Сколько вам лет?"
+            },
+            {
+            id:28,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` А Ю Эс Эс Ай Эй ` ",
+            ru:"RUSSIA"
+            },
+            {
+            id:29,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Би Эм Дабл Ю ` ",
+            ru:"BMW"
+            },
+            {
+            id:30,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Ви Оу Эл Ви Оу ` ",
+            ru:"VOLVO"
+            },
+            {
+            id:31,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн ` ",
+            ru:"VOLKSWAGEN"
+            },
+            {
+            id:32,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Джей Оу Кей И А ` ",
+            ru:"JOKER"
+            },
+            {
+            id:33,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` И Эн Джи Эл Эй Эн Ди ` ",
+            ru:"ENGLAND"
+            },
+            {
+            id:34,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Кей Эй Эн Джи Эй А Оу Оу ` ",
+            ru:"KANGAROO"
+            },
+            {
+            id:35,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Пи Эй Эс Эс Пи Оу А Ти ` ",
+            ru:"PASSPORT"
+            },
+            {
+            id:36,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эй Ю Ди Ай ` ",
+            ru:"AUDI"
+            },
+            {
+            id:37,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эм Ай Эн И Си А Эй Эф Ти ` ",
+            ru:"MINECRAFT"
+            },
+            {
+            id:38,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эм И А Си И Ди И Эс - Би И Эн Зи ` ",
+            ru:"MERCEDES"
+            },
+            {
+            id:39,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эн Ай Кей И ` ",
+            ru:"NIKE"
+            },
+            {
+            id:40,
+            eng:"I will spell one word я произнесу слово по буквам - отгадай слово ` Эф А Эй Эн Си И ` ",
+            ru:"FRANCE"
+            },
+            {
+            id:41,
+            eng:"Is English hard or easy for you? ",
+            ru:"Английский легкий или трудный для вас?"
+            },
+            {
+            id:42,
+            eng:"Is everything good with you? How is your life? ",
+            ru:"У тебя всё хорошо? С тобой всё норм?"
+            },
+            {
+            id:43,
+            eng:"Is Vincent your friend? ",
+            ru:"Винсент ваш друг?"
+            },
+            {
+            id:44,
+            eng:"Is your teacher stupid? / стьюпид /",
+            ru:"Ваша училка тупица?"
+            },
+            {
+            id:45,
+            eng:"What color are your eyes? ( правильный ответ my eyes are + сразу цвет ) Вообще не нужно говорить слово color при ответе. ",
+            ru:"Какого цвета ваши глаза?"
+            },
+            {
+            id:46,
+            eng:"What color are your teacher's eyes? ",
+            ru:"Какого цвета глаза вашего учителя?"
+            },
+            {
+            id:47,
+            eng:"What color cap / кэп / does Vincent have today? ",
+            ru:"У Винсента сегодня какого цвета кепка?"
+            },
+            {
+            id:48,
+            eng:"What color is your mobile phone? / мобАйл фОУн / ? ",
+            ru:"Какого цвета твой мобильный телефон?"
+            },
+            {
+            id:49,
+            eng:"What color is your toothbrush? ",
+            ru:"Какого цвета ваша зубная щетка?"
+            },
+            {
+            id:50,
+            eng:"What date is it today? And what is the day of the week? ",
+            ru:""
+            },
+            {
+            id:51,
+            eng:"What is on your table now? ",
+            ru:"Что у вас на столе сейчас?"
+            },
+            {
+            id:52,
+            eng:"What is the number of your apartment? ( или flat синоним ) ",
+            ru:"Какой номер вашей квартиры?"
+            },
+            {
+            id:53,
+            eng:"What is your car number? ",
+            ru:"Какой номер вашей машины?"
+            },
+            {
+            id:54,
+            eng:"What is your father's name? ",
+            ru:"Какое имя у вашего отца?"
+            },
+            {
+            id:55,
+            eng:"What is your favorite car brand? Пример ответа: май фЭйфорит ка брэнд из Би Эм Дабл Ю ",
+            ru:"Какая марка машины вам нравится больше всего?"
+            },
+            {
+            id:56,
+            eng:"What is your favorite chocolate bar? ",
+            ru:"Какой ваш любимый шоколад?"
+            },
+            {
+            id:57,
+            eng:"What is your favorite day of the week? ",
+            ru:"Какой ваш любимый день недели?"
+            },
+            {
+            id:58,
+            eng:"What is your favorite color?  ( правильный ответ my favorite color is + цвет ) ",
+            ru:"Какой ваш любимый цвет? Если несколько цветов, то тогда my favorite colors are blue, black and pink"
+            },
+            {
+            id:59,
+            eng:"What is your favorite film? / фэйворит /",
+            ru:"Какой ваш любимый фильм?"
+            },
+            {
+            id:60,
+            eng:"What is your favorite fruit? ",
+            ru:"Какой ваш любимый фрукт?"
+            },
+            {
+            id:61,
+            eng:"What is your favorite movie? ",
+            ru:"Какой ваш любимый фильм?"
+            },
+            {
+            id:62,
+            eng:"What is your favorite musical band? ",
+            ru:"Какая ваша любимая музыкальная группа?"
+            },
+            {
+            id:63,
+            eng:"What is your favorite TV-series? ",
+            ru:"Какой ваш любимый сериал?"
+            },
+            {
+            id:64,
+            eng:"What is your hobby? ",
+            ru:"Какое ваше хобби?"
+            },
+            {
+            id:65,
+            eng:"What is your house number? ",
+            ru:"Какой у вас номер дома?"
+            },
+            {
+            id:66,
+            eng:"What is your house number? ",
+            ru:"Какой номер вашего дома?"
+            },
+            {
+            id:67,
+            eng:"What is your lucky number and why? ",
+            ru:"Какое у вас счастливое число?"
+            },
+            {
+            id:68,
+            eng:"What is your mother's name? ",
+            ru:"Как зовут вашу маму?"
+            },
+            {
+            id:69,
+            eng:"What is your phone number? ",
+            ru:"Какой ваш номер телефона?"
+            },
+            {
+            id:70,
+            eng:"What color pens do you have now? ",
+            ru:"Какого цвета ручки у вас сейчас имеются?"
+            },
+            {
+            id:71,
+            eng:"What is your shoe size? / шу сайз /",
+            ru:"Какой у вас размер обуви?"
+            },
+            {
+            id:72,
+            eng:"What is your ZIP CODE? (почтовый индекс?) ",
+            ru:"Какой у вас почтовый индекс (ZIP CODE?)"
+            },
+            {
+            id:73,
+            eng:"What month is it now? ",
+            ru:"Какой сейчас месяц?"
+            },
+            {
+            id:74,
+            eng:"What music do you like? ",
+            ru:"Какая музыка тебе нравится?"
+            },
+            {
+            id:75,
+            eng:"What music is on your playlist? ",
+            ru:"Какая музыка у вас в плейлисте?"
+            },
+            {
+            id:76,
+            eng:"What time is it now on your watch? ",
+            ru:"Сколько времени у вас на часах сейчас?"
+            },
+            {
+            id:77,
+            eng:"What time is it now in USA? ",
+            ru:"Который сейчас час в США?"
+            },
+            {
+            id:78,
+            eng:"What year is it now? ",
+            ru:"Какой сейчас год?"
+            },
+            {
+            id:79,
+            eng:"What's the English for: ` мыться в душе ` ",
+            ru:"HAVE A SHOWER / шАуэ / или синоним TAKE A SHOWER"
+            },
+            {
+            id:80,
+            eng:"When is our next lesson? ",
+            ru:"Когда у нас следующий урок?"
+            },
+            {
+            id:81,
+            eng:"When is your best friend's birthday? ",
+            ru:"Когда у вашего лучшего друга день рождения?"
+            },
+            {
+            id:82,
+            eng:"When is your birthday? ",
+            ru:"Когда твой день рождения?"
+            },
+            {
+            id:83,
+            eng:"Where are you from and where are you right now? ",
+            ru:"Откуда вы и где вы сейчас?"
+            },
+            {
+            id:84,
+            eng:"Where are you from? ",
+            ru:"Откуда вы родом?"
+            },
+            {
+            id:85,
+            eng:"Where are your children now? / нау /",
+            ru:"Где ваши дети сейчас?"
+            },
+            {
+            id:86,
+            eng:"Where are you now? Are you at home or at your office? Or maybe in a café? ",
+            ru:""
+            },
+            {
+            id:87,
+            eng:"Where do you work? ",
+            ru:"Где вы работаете?"
+            },
+            {
+            id:88,
+            eng:"Who am I? What is my name? ",
+            ru:"Кто я? Как меня зовут?"
+            },
+            {
+            id:89,
+            eng:"Who is your best friend? ",
+            ru:"Кто ваш лучший друг?"
+            },
+            {
+            id:90,
+            eng:"What do you want to eat after this lesson? ",
+            ru:"Что вы хотите скушать после этого занятия?"
+            },
+            {
+            id:91,
+            eng:"Who is your favorite actor or actress? ",
+            ru:"Кто ваш любимый актер или актриса?"
+            },
+            {
+            id:92,
+            eng:"With whom do you live? (Этот же вопрос можно задать так: Who do you live with? ",
+            ru:"С кем вы проживаете? пример ответа : I live with my 98 cats"
+            },
+            {
+            id:93,
+            eng:"Как переводится: ` brush teeth ` ",
+            ru:"BRUSH TEETH / браш / или CLEAN TEETH / клИн /"
+            },
+            {
+            id:94,
+            eng:"Можно ли на английском языке говорить: I haven't a dog. (правильный ответ - НЕЛЬЗЯ) ",
+            ru:"I haven't a job. Спроси - можно ли на английском языке так говорить?  (правильный ответ - НЕЛЬЗЯ)"
+            },
+            {
+            id:95,
+            eng:"Чему равняется eleven плас nine ? ответ: it is twenty 20 ",
+            ru:"Хммм…. И что по вашему должно быть здесь написано?"
+            },
+            {
+            id:96,
+            eng:"Чему равняется five плас ten ? ответ: it is фифтИн / ударение только вторую И / ",
+            ru:"Тут без калькулятора не разобраться"
+            },
+            {
+            id:97,
+            eng:"Чему равняется four плас five ? ответ: it is nine / найн / ",
+            ru:"Интересно, что вы пытались увидеть нажав сюда…"
+            },
+            {
+            id:98,
+            eng:"Чему равняется Nine плас Nine ? ответ: эйтИИИН / ударение не на Э, а на И/ ",
+            ru:"Здесь могла быть ваша реклама LOL Винсент тот ещё шутник"
+            },
+            {
+            id:99,
+            eng:"Чему равняется Nine плас Seven ? ответ: сыкстИИИН / ударение не на Ы, а на И/ ",
+            ru:"Hello, father!"
+            },
+            {
+            id:100,
+            eng:"Чему равняется twelve мАйнэc four ? ответ: it is eight / эйт / ",
+            ru:"Нажав сюда вы нашли секретную карту! Вам сегодня приснится голенький Винсентик"
+            },
+    ],
+    adj03: [
+        {
+            id:1,
+            eng:"What is the English for: ` уродливый `",
+            ru:"UGLY  / Агли /",
+            
+            },
+            {
+            id:2,
+            eng:"What is the English for: ` большой `",
+            ru:"BIG  / биГ /",
+            
+            },
+            {
+            id:3,
+            eng:"What is the English for: ` занятой `",
+            ru:"BUSY  / бИзи /",
+            
+            },
+            {
+            id:4,
+            eng:"What is the English for: ` лысый `",
+            ru:"BALD  / бОлд /",
+            
+            },
+            {
+            id:5,
+            eng:"What is the English for: ` скучный `",
+            ru:"BORING  / бОрин /",
+            
+            },
+            {
+            id:6,
+            eng:"What is the English for: ` красивая `",
+            ru:"BEAUTIFUL  / бьютифул /",
+            
+            },
+            {
+            id:7,
+            eng:"What is the English for: ` плохой `",
+            ru:"BAD  / бЭд /",
+            
+            },
+            {
+            id:8,
+            eng:"What is the English for: ` зелёный `",
+            ru:"GREEN  / грин /",
+            
+            },
+            {
+            id:9,
+            eng:"What is the English for: ` великий `",
+            ru:"GREAT  / грЭйт /",
+            
+            },
+            {
+            id:10,
+            eng:"What is the English for: ` хороший `",
+            ru:"GOOD  / гуд /",
+            
+            },
+            {
+            id:11,
+            eng:"What is the English for: ` темный `",
+            ru:"DARK  / дарк /",
+            
+            },
+            {
+            id:12,
+            eng:"What is the English for: ` грязный `",
+            ru:"DIRTY  / дёти /",
+            
+            },
+            {
+            id:13,
+            eng:"What is the English for: ` отвратительный `",
+            ru:"DISGUSTING  / дисгАстин /",
+            
+            },
+            {
+            id:14,
+            eng:"What is the English for: ` пьяный `",
+            ru:"DRUNK  / дрАнк /",
+            
+            },
+            {
+            id:15,
+            eng:"What is the English for: ` ранний, рано `",
+            ru:"EARLY  / ёли /",
+            
+            },
+            {
+            id:16,
+            eng:"What is the English for: ` легкий `",
+            ru:"EASY  / Изи /",
+            
+            },
+            {
+            id:17,
+            eng:"What is the English for: ` интересный `",
+            ru:"INTERESTING  / ИНтрэстин /",
+            
+            },
+            {
+            id:18,
+            eng:"What is the English for: ` добрый `",
+            ru:"KIND  / кАйнд /",
+            
+            },
+            {
+            id:19,
+            eng:"What is the English for: ` спокойный `",
+            ru:"CALM  / кам /",
+            
+            },
+            {
+            id:20,
+            eng:"What is the English for: ` молодой `",
+            ru:"YOUNG  / ян /",
+            
+            },
+            {
+            id:21,
+            eng:"What is the English for: ` неуклюжий `",
+            ru:"CLUMSY  / клАмзи /",
+            
+            },
+            {
+            id:22,
+            eng:"What is the English for: ` чистый `",
+            ru:"CLEAN  / клин /",
+            
+            },
+            {
+            id:23,
+            eng:"What is the English for: ` мускулистый `",
+            ru:"MUSCULAR  / мАскьюла /",
+            
+            },
+            {
+            id:24,
+            eng:"What is the English for: ` старый `",
+            ru:"OLD  / оУлд /",
+            
+            },
+            {
+                id:101,
+                eng:"How do you translate : ` ugly / Агли / `",
+                ru:"уродливый",
+                
+                },
+                {
+                id:102,
+                eng:"How do you translate : ` big / биГ / `",
+                ru:"большой",
+                
+                },
+                {
+                id:103,
+                eng:"How do you translate : ` busy / бИзи / `",
+                ru:"занятой",
+                
+                },
+                {
+                id:104,
+                eng:"How do you translate : ` bald / бОлд / `",
+                ru:"лысый",
+                
+                },
+                {
+                id:105,
+                eng:"How do you translate : ` boring / бОрин / `",
+                ru:"скучный",
+                
+                },
+                {
+                id:106,
+                eng:"How do you translate : ` beautiful / бьютифул / `",
+                ru:"красивая",
+                
+                },
+                {
+                id:107,
+                eng:"How do you translate : ` bad / бЭд / `",
+                ru:"плохой",
+                
+                },
+                {
+                id:108,
+                eng:"How do you translate : ` green / грин / `",
+                ru:"зелёный",
+                
+                },
+                {
+                id:109,
+                eng:"How do you translate : ` great / грЭйт / `",
+                ru:"великий",
+                
+                },
+                {
+                id:110,
+                eng:"How do you translate : ` good / гуд / `",
+                ru:"хороший",
+                
+                },
+                {
+                id:111,
+                eng:"How do you translate : ` dark / дарк / `",
+                ru:"темный",
+                
+                },
+                {
+                id:112,
+                eng:"How do you translate : ` dirty / дёти / `",
+                ru:"грязный",
+                
+                },
+                {
+                id:113,
+                eng:"How do you translate : ` disgusting / дисгАстин / `",
+                ru:"отвратительный",
+                
+                },
+                {
+                id:114,
+                eng:"How do you translate : ` drunk / дрАнк / `",
+                ru:"пьяный",
+                
+                },
+                {
+                id:115,
+                eng:"How do you translate : ` early / ёли / `",
+                ru:"ранний, рано",
+                
+                },
+                {
+                id:116,
+                eng:"How do you translate : ` easy / Изи / `",
+                ru:"легкий",
+                
+                },
+                {
+                id:117,
+                eng:"How do you translate : ` interesting / ИНтрэстин / `",
+                ru:"интересный",
+                
+                },
+                {
+                id:118,
+                eng:"How do you translate : ` kind / кАйнд / `",
+                ru:"добрый",
+                
+                },
+                {
+                id:119,
+                eng:"How do you translate : ` calm / кам / `",
+                ru:"спокойный",
+                
+                },
+                {
+                id:120,
+                eng:"How do you translate : ` young / ян / `",
+                ru:"молодой",
+                
+                },
+                {
+                id:121,
+                eng:"How do you translate : ` clumsy / клАмзи / `",
+                ru:"неуклюжий",
+                
+                },
+                {
+                id:122,
+                eng:"How do you translate : ` clean / клин / `",
+                ru:"чистый",
+                
+                },
+                {
+                id:123,
+                eng:"How do you translate : ` muscular / мАскьюла / `",
+                ru:"мускулистый",
+                
+                },
+                {
+                id:124,
+                eng:"How do you translate : ` old / оУлд / `",
+                ru:"старый",
+                
+                },
+    ],
+    adjectives01old: [
         {
             id:1,
             eng:"What is the English for ` уродливый ` ?",
@@ -14865,7 +17279,7 @@ const allQuestionsOneDeck = {
                 ru:"READ BOOKS / рид букс /"
                 },
     ],
-    m011: [
+    m011old: [
         {
             id:1,
             eng:"   Как по-английски :   ` каждый день `",
@@ -15212,7 +17626,7 @@ const allQuestionsOneDeck = {
                     ru:"РЕДКО, ИЗРЕДКА"
                     },
     ],
-    m012: [
+    m012old: [
         {
             id:1,
             eng:"   Как по-английски :   ` целовать кого-то `",

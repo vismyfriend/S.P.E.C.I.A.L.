@@ -252,6 +252,520 @@ const allWordsForGameTypeOrWrite = {
             hint:""
             },
     ],
+    m007: [
+        {
+            id:1,
+            eng:"I am clever",
+            ru:"я умный (я умная)",
+            hint:" / ай эм клЭвэ /"
+            },
+            {
+            id:2,
+            eng:"you are smart",
+            ru:"вы сообразительный",
+            hint:" / ю а смарт /"
+            },
+            {
+            id:3,
+            eng:"we are ready",
+            ru:"мы готовы",
+            hint:" / уи а рЭди /"
+            },
+            {
+            id:4,
+            eng:"they are silly",
+            ru:"они глупые",
+            hint:" / дэй а сИли /"
+            },
+            {
+            id:5,
+            eng:"he is angry",
+            ru:"он сердитый",
+            hint:" / хи из Энгри /"
+            },
+            {
+            id:6,
+            eng:"he is hungry",
+            ru:"он голодный",
+            hint:" / хи из хАнГри /"
+            },
+            {
+            id:7,
+            eng:"she is beautiful",
+            ru:"она красивая",
+            hint:" / щи из бьютифул /"
+            },
+            {
+            id:8,
+            eng:"he is handsome",
+            ru:"он красивый",
+            hint:" / хи из хЭнсам /"
+            },
+            {
+            id:9,
+            eng:"I am not fat",
+            ru:"я не жирная (я не жирный)",
+            hint:" / ай эм нот фэт /"
+            },
+            {
+            id:10,
+            eng:"you are my buddy",
+            ru:"ты мой приятель",
+            hint:" / ю а май бАдди /"
+            },
+            {
+            id:11,
+            eng:"he is our friend",
+            ru:"он наш друг",
+            hint:" / хи из аУа фрэнд /"
+            },
+            {
+            id:12,
+            eng:"it is our cat",
+            ru:"это наша кошка",
+            hint:" / ит из аУа кэт /"
+            },
+            {
+            id:13,
+            eng:"our cat is cool",
+            ru:"наша кот классный (прикольный, крутой)",
+            hint:" / аУа кЭт из кул /"
+            },
+    ],
+    m010: [
+        {
+            id:1,
+            eng:"zero",
+            ru:"ноль",
+            hint:" / зИроу /"
+            },
+            {
+            id:2,
+            eng:"one",
+            ru:"один",
+            hint:" / уан /"
+            },
+            {
+            id:3,
+            eng:"two",
+            ru:"два",
+            hint:" / ту /"
+            },
+            {
+            id:4,
+            eng:"three",
+            ru:"три",
+            hint:" / Thри /"
+            },
+            {
+            id:5,
+            eng:"four",
+            ru:"четыре",
+            hint:" / фо /"
+            },
+            {
+            id:6,
+            eng:"five",
+            ru:"пять",
+            hint:" / файв /"
+            },
+            {
+            id:7,
+            eng:"six",
+            ru:"шесть",
+            hint:" / сыкс /"
+            },
+            {
+            id:8,
+            eng:"seven",
+            ru:"семь",
+            hint:" / сэвн /"
+            },
+            {
+            id:9,
+            eng:"eight",
+            ru:"восемь",
+            hint:" / эйт /"
+            },
+            {
+            id:10,
+            eng:"nine",
+            ru:"девять",
+            hint:" / найн /"
+            },
+            {
+            id:11,
+            eng:"ten",
+            ru:"десять",
+            hint:" / тэн /"
+            },
+            {
+            id:12,
+            eng:"eleven",
+            ru:"одиннадцать",
+            hint:" / илэвн /"
+            },
+            {
+            id:13,
+            eng:"twelve",
+            ru:"двенадцать",
+            hint:" / туэлв /"
+            },
+            {
+            id:14,
+            eng:"thirteen",
+            ru:"тринадцать",
+            hint:" / THётИИИН /"
+            },
+            {
+            id:15,
+            eng:"fourteen",
+            ru:"четырнадцать",
+            hint:" / фотИИИН /"
+            },
+            {
+            id:16,
+            eng:"fifteen",
+            ru:"пятнадцать",
+            hint:" / фифтИИИН /"
+            },
+            {
+            id:17,
+            eng:"sixteen",
+            ru:"шестнадцать",
+            hint:" / сыкстИИИН /"
+            },
+            {
+            id:18,
+            eng:"seventeen",
+            ru:"семнадцать",
+            hint:" / сэвнтИИИН /"
+            },
+            {
+            id:19,
+            eng:"eighteen",
+            ru:"восемнадцать",
+            hint:" / эйтИИИН /"
+            },
+            {
+            id:20,
+            eng:"nineteen",
+            ru:"девятнадцать",
+            hint:" / найнтИИИН /"
+            },
+            {
+            id:21,
+            eng:"twenty",
+            ru:"двадцать",
+            hint:" / туЭнти /"
+            },
+            {
+            id:22,
+            eng:"plus",
+            ru:"плюс",
+            hint:" / плАс /"
+            },
+            {
+            id:23,
+            eng:"minus",
+            ru:"минус",
+            hint:" / мАйнэс /"
+            },
+    ],
+    m012: [
+        {
+            id:1,
+            eng:"zero",
+            ru:"ноль",
+            hint:" / зИроу /"
+            },
+            {
+            id:2,
+            eng:"one",
+            ru:"один",
+            hint:" / уан /"
+            },
+            {
+            id:3,
+            eng:"two",
+            ru:"два",
+            hint:" / ту /"
+            },
+            {
+            id:4,
+            eng:"three",
+            ru:"три",
+            hint:" / Thри /"
+            },
+            {
+            id:5,
+            eng:"four",
+            ru:"четыре",
+            hint:" / фо /"
+            },
+            {
+            id:6,
+            eng:"five",
+            ru:"пять",
+            hint:" / файв /"
+            },
+            {
+            id:7,
+            eng:"six",
+            ru:"шесть",
+            hint:" / сыкс /"
+            },
+            {
+            id:8,
+            eng:"seven",
+            ru:"семь",
+            hint:" / сэвн /"
+            },
+            {
+            id:9,
+            eng:"eight",
+            ru:"восемь",
+            hint:" / эйт /"
+            },
+            {
+            id:10,
+            eng:"nine",
+            ru:"девять",
+            hint:" / найн /"
+            },
+            {
+            id:11,
+            eng:"ten",
+            ru:"десять",
+            hint:" / тэн /"
+            },
+            {
+            id:12,
+            eng:"eleven",
+            ru:"одиннадцать",
+            hint:" / илэвн /"
+            },
+            {
+            id:13,
+            eng:"twelve",
+            ru:"двенадцать",
+            hint:" / туэлв /"
+            },
+            {
+            id:14,
+            eng:"thirteen",
+            ru:"тринадцать",
+            hint:" / THётИИИН /"
+            },
+            {
+            id:15,
+            eng:"fourteen",
+            ru:"четырнадцать",
+            hint:" / фотИИИН /"
+            },
+            {
+            id:16,
+            eng:"fifteen",
+            ru:"пятнадцать",
+            hint:" / фифтИИИН /"
+            },
+            {
+            id:17,
+            eng:"sixteen",
+            ru:"шестнадцать",
+            hint:" / сыкстИИИН /"
+            },
+            {
+            id:18,
+            eng:"seventeen",
+            ru:"семнадцать",
+            hint:" / сэвнтИИИН /"
+            },
+            {
+            id:19,
+            eng:"eighteen",
+            ru:"восемнадцать",
+            hint:" / эйтИИИН /"
+            },
+            {
+            id:20,
+            eng:"nineteen",
+            ru:"девятнадцать",
+            hint:" / найнтИИИН /"
+            },
+            {
+            id:21,
+            eng:"twenty",
+            ru:"двадцать",
+            hint:" / туЭнти /"
+            },
+            {
+            id:22,
+            eng:"is",
+            ru:"равно, равняется, есть, быть",
+            hint:" / из /"
+            },
+            {
+            id:23,
+            eng:"plus",
+            ru:"плюс",
+            hint:" / плАс /"
+            },
+            {
+            id:24,
+            eng:"minus",
+            ru:"минус",
+            hint:" / мАйнэс /"
+            },
+    ],
+   
+    adj02: [
+        {
+            id:1,
+            eng:"ugly",
+            ru:"уродливый",
+            hint:" / Агли /"
+            },
+            {
+            id:2,
+            eng:"big",
+            ru:"большой",
+            hint:" / биГ /"
+            },
+            {
+            id:3,
+            eng:"busy",
+            ru:"занятой",
+            hint:" / бИзи /"
+            },
+            {
+            id:4,
+            eng:"bald",
+            ru:"лысый",
+            hint:" / бОлд /"
+            },
+            {
+            id:5,
+            eng:"boring",
+            ru:"скучный",
+            hint:" / бОрин /"
+            },
+            {
+            id:6,
+            eng:"beautiful",
+            ru:"красивая",
+            hint:" / бьютифул /"
+            },
+            {
+            id:7,
+            eng:"bad",
+            ru:"плохой",
+            hint:" / бЭд /"
+            },
+            {
+            id:8,
+            eng:"green",
+            ru:"зелёный",
+            hint:" / грин /"
+            },
+            {
+            id:9,
+            eng:"great",
+            ru:"великий",
+            hint:" / грЭйт /"
+            },
+            {
+            id:10,
+            eng:"good",
+            ru:"хороший",
+            hint:" / гуд /"
+            },
+            {
+            id:11,
+            eng:"dark",
+            ru:"темный",
+            hint:" / дарк /"
+            },
+            {
+            id:12,
+            eng:"dirty",
+            ru:"грязный",
+            hint:" / дёти /"
+            },
+            {
+            id:13,
+            eng:"disgusting",
+            ru:"отвратительный",
+            hint:" / дисгАстин /"
+            },
+            {
+            id:14,
+            eng:"drunk",
+            ru:"пьяный",
+            hint:" / дрАнк /"
+            },
+            {
+            id:15,
+            eng:"early",
+            ru:"ранний, рано",
+            hint:" / ёли /"
+            },
+            {
+            id:16,
+            eng:"easy",
+            ru:"легкий",
+            hint:" / Изи /"
+            },
+            {
+            id:17,
+            eng:"interesting",
+            ru:"интересный",
+            hint:" / ИНтрэстин /"
+            },
+            {
+            id:18,
+            eng:"kind",
+            ru:"добрый",
+            hint:" / кАйнд /"
+            },
+            {
+            id:19,
+            eng:"calm",
+            ru:"спокойный",
+            hint:" / кам /"
+            },
+            {
+            id:20,
+            eng:"young",
+            ru:"молодой",
+            hint:" / ян /"
+            },
+            {
+            id:21,
+            eng:"clumsy",
+            ru:"неуклюжий",
+            hint:" / клАмзи /"
+            },
+            {
+            id:22,
+            eng:"clean",
+            ru:"чистый",
+            hint:" / клин /"
+            },
+            {
+            id:23,
+            eng:"muscular",
+            ru:"мускулистый",
+            hint:" / мАскьюла /"
+            },
+            {
+            id:24,
+            eng:"old",
+            ru:"старый",
+            hint:" / оУлд /"
+            },
+    ],
+   
     m04: [
         {
             id:1,
@@ -384,7 +898,7 @@ const allWordsForGameTypeOrWrite = {
             ru:"Какая английская буква произносится :  / ЗИ и ZЭД /"
             },
     ],
-    alphabet: [
+    alphabeta1: [
         {
             id:1,
             eng:"A",
@@ -514,6 +1028,218 @@ const allWordsForGameTypeOrWrite = {
             id:26,
             eng:"Z",
             ru:"Как на английском языке написать :  / зи (зэд) /"
+            },
+    ],
+    alphabeta2: [
+        {
+            id:127,
+            eng:"VINCENT",
+            ru:"Ви Ай Эн Си И Эн Ти",
+            
+            },
+            {
+            id:128,
+            eng:"NIKE",
+            ru:"Эн Ай Кей И",
+            
+            },
+            {
+            id:129,
+            eng:"PASSPORT",
+            ru:"Пи Эй Эс Эс Пи Оу А Ти",
+            
+            },
+            {
+            id:130,
+            eng:"RUSSIA",
+            ru:"А Ю Эс Эс Ай Эй",
+            
+            },
+            {
+            id:131,
+            eng:"FRANCE",
+            ru:"Эф А Эй Эн Си И",
+            
+            },
+            {
+            id:132,
+            eng:"ENGLAND",
+            ru:"И Эн Джи Эл Эй Эн Ди",
+            
+            },
+            {
+            id:133,
+            eng:"MERCEDES",
+            ru:"Эм И А Си И Ди И Эс",
+            
+            },
+            {
+            id:134,
+            eng:"AUDI",
+            ru:"Эй Ю Ди Ай",
+            
+            },
+            {
+            id:135,
+            eng:"VOLVO",
+            ru:"Ви Оу Эл Ви Оу",
+            
+            },
+            {
+            id:136,
+            eng:"VOLKSWAGEN",
+            ru:"Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн",
+            
+            },
+            {
+            id:137,
+            eng:"BMW",
+            ru:"Би Эм Дабл Ю",
+            
+            },
+            {
+            id:138,
+            eng:"KANGAROO",
+            ru:"Кей Эй Эн Джи Эй А Оу Оу",
+            
+            },
+            {
+            id:139,
+            eng:"JOKER",
+            ru:"Джей Оу Кей И А",
+            
+            },
+            {
+            id:140,
+            eng:"MINECRAFT",
+            ru:"Эм Ай Эн И Си А Эй Эф Ти",
+            
+            },
+            {
+            id:141,
+            eng:"HOUSE",
+            ru:"Эйч Оу Ю Эс И",
+            
+            },
+            {
+            id:142,
+            eng:"FOX",
+            ru:"Эф Оу Экс",
+            
+            },
+            {
+            id:143,
+            eng:"WINDOWS",
+            ru:"Дабл Ю Ай Эн Ди Оу Дабл Ю Эс",
+            
+            },
+            {
+            id:144,
+            eng:"ANDROID",
+            ru:"Эй Эн Ди А Оу Ай Ди",
+            
+            },
+            {
+            id:145,
+            eng:"FATHER",
+            ru:"Эф Эй Ти Эйч И А",
+            
+            },
+            {
+            id:146,
+            eng:"MOTHER",
+            ru:"Эм Оу Ти Эйч И А",
+            
+            },
+            {
+            id:147,
+            eng:"TELEPHONE",
+            ru:"Ти И Эл И Пи Эйч Оу Эн И",
+            
+            },
+            {
+            id:148,
+            eng:"CHRISTMAS",
+            ru:"С ЭйчА Ай Эс Ти Эм Эй Эс",
+            
+            },
+            {
+            id:149,
+            eng:"EURO",
+            ru:"И Ю А Оу",
+            
+            },
+            {
+            id:150,
+            eng:"AMERICA",
+            ru:"Эй Эм И А Ай Си Эй",
+            
+            },
+            {
+            id:151,
+            eng:"COMPUTER",
+            ru:"Си Оу Эм Пи Ю Ти И А",
+            
+            },
+            {
+            id:152,
+            eng:"ALASKA",
+            ru:"Эй Эл Эй Эс Кей Эй",
+            
+            },
+            {
+            id:153,
+            eng:"BATMAN",
+            ru:"Би Эй Ти Эм Эй Эн",
+            
+            },
+            {
+            id:154,
+            eng:"ROCKNROLL",
+            ru:"А Оу Си Кей Эн А Оу Эл Эл",
+            
+            },
+            {
+            id:155,
+            eng:"HAMBURGER",
+            ru:"Эйч Эй Эм Би Ю А Джи И А",
+            
+            },
+            {
+            id:156,
+            eng:"CHEESEBURGER",
+            ru:"Си Эйч И И Эс И Би Ю Аджи И А",
+            
+            },
+            {
+            id:157,
+            eng:"HOMEWORK",
+            ru:"Эйч Оу Эм И Дабл Ю Оу А Кей",
+            
+            },
+            {
+            id:158,
+            eng:"ENGLISH",
+            ru:"И Эн Джи Эл Ай Эс Эйч",
+            
+            },
+            {
+            id:159,
+            eng:"JEEP",
+            ru:"Джей И И Пи",
+            
+            },
+            {
+            id:160,
+            eng:"CAR",
+            ru:"Си Эй А",
+            
+            },
+            {
+            id:161,
+            eng:"HOSPITAL",
+            ru:"Эйч Оу Эс Пи Ти Эй Эл",
+            
             },
     ],
     lettersc2: [
@@ -722,174 +1448,194 @@ const allWordsForGameTypeOrWrite = {
         {
             id:1,
             eng:"am",
-            ru:"Впиши либо ARE либо AM либо IS? I___stupid."
+            ru:"ARE  или  AM  или  IS  ? I___stupid."
             },
             {
             id:2,
             eng:"is",
-            ru:"Впиши либо ARE либо AM либо IS? Vincent ___ a good teacher."
+            ru:"ARE  или  AM  или  IS  ? Vincent ___ a good teacher."
             },
             {
             id:3,
             eng:"are",
-            ru:"Впиши либо ARE либо AM либо IS? He and I ___ friends."
+            ru:"ARE  или  AM  или  IS  ? He and I ___ friends."
             },
             {
             id:4,
             eng:"are",
-            ru:"Впиши либо ARE либо AM либо IS? Tom and Jerry ___ not friends."
+            ru:"ARE  или  AM  или  IS  ? Tom and Jerry ___ not friends."
             },
             {
             id:5,
             eng:"are",
-            ru:"Впиши либо ARE либо AM либо IS? We ___ not stupid."
+            ru:"ARE  или  AM  или  IS  ? We ___ not stupid."
             },
             {
             id:6,
             eng:"are",
-            ru:"Впиши либо ARE либо AM либо IS? My bro and my sis ___ cool."
+            ru:"ARE  или  AM  или  IS  ? My bro and my sis ___ cool."
             },
             {
             id:7,
             eng:"are",
-            ru:"Впиши либо ARE либо AM либо IS? Where ___ you?"
+            ru:"ARE  или  AM  или  IS  ? Where ___ you"
             },
             {
             id:8,
             eng:"is",
-            ru:"Впиши либо ARE либо AM либо IS? Where ___ he from?"
+            ru:"ARE  или  AM  или  IS  ? Where ___ he from"
             },
             {
             id:9,
             eng:"am",
-            ru:"Впиши либо ARE либо AM либо IS? I'm sorry, I ___ late"
+            ru:"ARE  или  AM  или  IS  ? I'm sorry, I ___ late"
             },
             {
             id:10,
             eng:"is",
-            ru:"Впиши либо ARE либо AM либо IS? Who ___ it?"
+            ru:"ARE  или  AM  или  IS  ? Who ___ it"
             },
             {
             id:11,
             eng:"is",
-            ru:"Впиши либо ARE либо AM либо IS? Who ___ your teacher?"
+            ru:"ARE  или  AM  или  IS  ? Who ___ your teacher"
             },
             {
             id:12,
             eng:"are",
-            ru:"Впиши либо ARE либо AM либо IS? What ___ your names?"
+            ru:"ARE  или  AM  или  IS  ? What ___ your names"
             },
             {
             id:13,
             eng:"is",
-            ru:"Впиши либо ARE либо AM либо IS? What ___ her name?"
+            ru:"ARE  или  AM  или  IS  ? What ___ her name"
             },
             {
             id:14,
             eng:"am",
-            ru:"Впиши либо ARE либо AM либо IS? I___sexy and I know it."
+            ru:"ARE  или  AM  или  IS  ? I___sexy and I know it."
             },
     ],
-    doesdo: [
+    doOrdoes: [
         {
             id:1,
             eng:"do",
-            ru:"ARE, AM, IS, DO, DOES ? I___not drink vodka"
+            ru:"ARE, AM, IS, DO, DOES ? I___not drink vodka",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:2,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? He___not drink black coffee"
+            ru:"ARE, AM, IS, DO, DOES ? He___not drink black coffee",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:3,
             eng:"do",
-            ru:"ARE, AM, IS, DO, DOES ? My friends___not study English"
+            ru:"ARE, AM, IS, DO, DOES ? My friends___not study English",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:4,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? My best friend ___n't smoke, but my friend drinks a lot!"
+            ru:"ARE, AM, IS, DO, DOES ? My best friend ___n't smoke, but my friend drinks a lot!",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:5,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? Vincent___n't kiss me after lessons"
+            ru:"ARE, AM, IS, DO, DOES ? Vincent___n't kiss me after lessons",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:6,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? My cat___n't sleep 8 hours. It sleeps 15 hours"
+            ru:"ARE, AM, IS, DO, DOES ? My cat___n't sleep 8 hours. It sleeps 15 hours",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:7,
             eng:"do",
-            ru:"ARE, AM, IS, DO, DOES ? Vincent always asks me: ___ you understand me?"
+            ru:"ARE, AM, IS, DO, DOES ? Vincent always asks me: ___ you understand me?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:8,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? ___your teacher like you? I think he likes you very much."
+            ru:"ARE, AM, IS, DO, DOES ? ___your teacher like you? I think he likes you very much.",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:9,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? When Vincent is hungry he eats burgers. But he___not eat fries (карт.фри)"
+            ru:"ARE, AM, IS, DO, DOES ? When Vincent is hungry he eats burgers. But he___not eat fries (карт.фри)",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:10,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? ___anybody in your family play musical instruments?"
+            ru:"ARE, AM, IS, DO, DOES ? ___anybody in your family play musical instruments?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:11,
             eng:"do",
-            ru:"ARE, AM, IS, DO, DOES ? When I was a child I liked games. But now I___not play often."
+            ru:"ARE, AM, IS, DO, DOES ? When I was a child I liked games. But now I___not play often.",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:12,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? Why___he help you?"
+            ru:"ARE, AM, IS, DO, DOES ? Why___he help you?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:13,
             eng:"am",
-            ru:"ARE, AM, IS, DO, DOES ? _____I your friend?"
+            ru:"ARE, AM, IS, DO, DOES ? _____I your friend?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:14,
             eng:"do",
-            ru:"ARE, AM, IS, DO, DOES ? _________ I study English?"
+            ru:"ARE, AM, IS, DO, DOES ? _________ I study English?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:15,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? _________ Vincent teach you?"
+            ru:"ARE, AM, IS, DO, DOES ? _________ Vincent teach you?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:16,
             eng:"is",
-            ru:"ARE, AM, IS, DO, DOES ? _________ Vincent your teacher?"
+            ru:"ARE, AM, IS, DO, DOES ? _________ Vincent your teacher?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:17,
             eng:"are",
-            ru:"ARE, AM, IS, DO, DOES ? Where_____you?"
+            ru:"ARE, AM, IS, DO, DOES ? Where_____you?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:18,
             eng:"am",
-            ru:"ARE, AM, IS, DO, DOES ? I___a very smart person because I always do homework."
+            ru:"ARE, AM, IS, DO, DOES ? I___a very smart person because I always do homework.",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:19,
             eng:"do",
-            ru:"ARE, AM, IS, DO, DOES ? Where_____you live?"
+            ru:"ARE, AM, IS, DO, DOES ? Where_____you live?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
             {
             id:20,
             eng:"does",
-            ru:"ARE, AM, IS, DO, DOES ? Where_____ your girlfriend work?"
+            ru:"ARE, AM, IS, DO, DOES ? Where_____ your girlfriend work?",
+            hint:" / если есть глагол в предложении, то пиши либо DO либо DOES /"
             },
     ],
     future01a1: [

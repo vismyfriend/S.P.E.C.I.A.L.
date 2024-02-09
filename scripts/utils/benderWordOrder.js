@@ -150,6 +150,92 @@ const benderWordOrderSentences = {
             
             },
     ],
+    interview1: [
+        {
+            id:1,
+            eng:"I am clever .",
+            ru:"я умный (я умная)",
+            hint:" / ай эм клЭвэ /"
+            },
+            {
+            id:2,
+            eng:"you are smart .",
+            ru:"вы сообразительный",
+            hint:" / ю а смарт /"
+            },
+            {
+            id:3,
+            eng:"we are ready .",
+            ru:"мы готовы",
+            hint:" / уи а рЭди /"
+            },
+            {
+            id:4,
+            eng:"they are silly .",
+            ru:"они глупые",
+            hint:" / дэй а сИли /"
+            },
+            {
+            id:5,
+            eng:"he is angry .",
+            ru:"он сердитый",
+            hint:" / хи из Энгри /"
+            },
+            {
+            id:6,
+            eng:"he is hungry .",
+            ru:"он голодный",
+            hint:" / хи из хАнГри /"
+            },
+            {
+            id:7,
+            eng:"she is beautiful .",
+            ru:"она красивая",
+            hint:" / щи из бьютифул /"
+            },
+            {
+            id:8,
+            eng:"he is handsome .",
+            ru:"он красивый",
+            hint:" / хи из хЭнсам /"
+            },
+            {
+            id:9,
+            eng:"I am not fat .",
+            ru:"я не жирная (я не жирный)",
+            hint:" / ай эм нот фэт /"
+            },
+            {
+            id:10,
+            eng:"you are my buddy .",
+            ru:"ты мой приятель",
+            hint:" / ю а май бАдди /"
+            },
+            {
+            id:11,
+            eng:"he is a good friend .",
+            ru:"он хороший друг",
+            hint:" / хи из э гуд фрэнд /"
+            },
+            {
+            id:12,
+            eng:"it is our cat .",
+            ru:"это наша кошка",
+            hint:" / ит из аУа кэт /"
+            },
+            {
+            id:13,
+            eng:"our cat is cool .",
+            ru:"наша кот классный (прикольный, крутой)",
+            hint:" / аУа кЭт из кул /"
+            },
+            {
+            id:14,
+            eng:"Bender is a sexy and smart robot .",
+            ru:"Бэндер привлекательный и сообразительный робот",
+            hint:""
+            },
+    ],
    
     m013: [
         {

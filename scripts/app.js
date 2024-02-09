@@ -739,7 +739,7 @@ screenshotGameBenderWordOrderGame.addEventListener("click", () => {
 hintGameBenderWordOrderGame.addEventListener("click", () => {
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     setTimeout(() => {
-        russianHintGameBenderWordOrderGame.textContent = "нажимай слова в правильном порядке (не бойся ошибаться)"
+        russianHintGameBenderWordOrderGame.textContent = "нажимай слова в правильном порядке, ошибаться можно! Для отмены нажми на слово снова"
     }, 4000)
 })
 
@@ -748,7 +748,7 @@ cheatGameBenderWordOrderGame.addEventListener("click", () => {
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].eng
 
     setTimeout(() => {
-        russianHintGameBenderWordOrderGame.textContent = "нажимай слова в правильном порядке"
+        russianHintGameBenderWordOrderGame.textContent = "нажимай слова в правильном порядке, ошибаться можно! Для отмены нажми на слово снова"
     }, 4000)
     // милисекунды 
 })
@@ -1114,8 +1114,11 @@ function showAnswerTNT() {
     
     TNTgameButtonIDK.classList.remove("none")
     TNTgameButtonAnswer.classList.add("none")
-    TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
-    TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
+    TNTgameTaskHint.textContent = "- 5 секунд. Чтобы обезвредить бомбу вписывай вот этот ответ : " + value.eng
+    // TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
+    // TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
+    // TNTgameTaskValue.textContent = " Быстрее!!! Вводи ответ : " + value.eng + " (" + value.ru + ")"
+    TNTgameTaskValue.textContent = value.ru 
     TNTbeforeExplosion -= 4
 
 }
