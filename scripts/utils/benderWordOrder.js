@@ -236,6 +236,98 @@ const benderWordOrderSentences = {
             hint:""
             },
     ],
+    test001: [
+        {
+            id:1,
+            eng:"where does Bender work ?",
+            ru:"Где работает Бендер?",
+            
+            },
+            {
+            id:2,
+            eng:"what time do you do homework ?",
+            ru:"Во сколько ты делаешь домашнюю работу?",
+            
+            },
+            {
+            id:3,
+            eng:"where does your best friend live ?",
+            ru:"Где живет твой лучший друг?",
+            
+            },
+            {
+            id:4,
+            eng:"how often do you study English ?",
+            ru:"Как часто вы учите английский?",
+            
+            },
+            {
+            id:5,
+            eng:"my teacher is the best !",
+            ru:"Мой учитель самый лучший!",
+            
+            },
+            {
+            id:6,
+            eng:"it is not an easy test .",
+            ru:"Это не лёгкий тест.",
+            
+            },
+            {
+            id:7,
+            eng:"do you like dogs or cats more ?",
+            ru:"Вам больше нравятся собаки или кошки?",
+            
+            },
+            {
+            id:8,
+            eng:"a robot does not understand .",
+            ru:"Робот не понимает.",
+            
+            },
+            {
+            id:9,
+            eng:"what is your phone number ?",
+            ru:"Какой ваш номер телефона?",
+            
+            },
+            {
+            id:10,
+            eng:"what car does she have ?",
+            ru:"Какая у неемашина?",
+            
+            },
+            {
+            id:11,
+            eng:"he does not do homework every day.",
+            ru:"Он не выполняет домашку каждый день.",
+            
+            },
+            {
+            id:12,
+            eng:"does Vincent help you with English ?",
+            ru:"Винсент помогает вам с английским?",
+            
+            },
+            {
+            id:13,
+            eng:"you are a very smart student .",
+            ru:"Вы учень сообразительный студент",
+            
+            },
+            {
+            id:14,
+            eng:"am I your best friend ?",
+            ru:"Я твой лучший друг?",
+            
+            },
+            {
+            id:15,
+            eng:"My teacher has a young cat and an old monkey.",
+            ru:"У моего учителя есть молодой кот и старая обезьяна",
+            
+            },
+    ],
    
     m013: [
         {

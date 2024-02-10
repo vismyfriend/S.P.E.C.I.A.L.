@@ -17050,234 +17050,382 @@ const allQuestionsOneDeck = {
     verbs001: [
         {
             id:1,
-            eng:"   Как по-английски :   ` целовать кого-то `",
-            ru:"KISS SOMEBODY / кис сАмбади /"
+            eng:"How do you translate : ` целовать кого-то `",
+            ru:"TO KISS SOMEBODY  / кис сАмбади /",
+            
             },
             {
             id:2,
-            eng:"   Как по-английски :   ` ходить на работу `",
-            ru:"GO TO WORK / гОУ ту ворк /"
+            eng:"How do you translate : ` ходить на работу `",
+            ru:"TO GO TO WORK  / гОУ ту ворк /",
+            
             },
             {
             id:3,
-            eng:"What is the English for: ` делать или выполнять домашку `",
-            ru:"DO HOMEWORK / ду хОумворк /"
+            eng:"How do you translate : ` делать или выполнять домашку `",
+            ru:"TO DO HOMEWORK  / ду хОумворк /",
+            
             },
             {
             id:4,
-            eng:"What is the English for: ` спать `",
-            ru:"SLEEP / слип /"
+            eng:"How do you translate : ` спать `",
+            ru:"TO SLEEP  / слип /",
+            
             },
             {
             id:5,
-            eng:"What is the English for: ` бегать `",
-            ru:"RUN / рАн /"
+            eng:"How do you translate : ` бегать `",
+            ru:"TO RUN  / рАн /",
+            
             },
             {
             id:6,
-            eng:"/ уот из дэ инглиш фо /   ` прыгать `",
-            ru:"JUMP / джАмп /"
+            eng:"How do you translate : ` прыгать `",
+            ru:"TO JUMP  / джАмп /",
+            
             },
             {
             id:7,
-            eng:"/ уот из дэ инглиш фо /   ` ходить 'по-маленькому' (писать) `",
-            ru:"DO NUMBER ONE / ду нАмбэ уАн /"
+            eng:"How do you translate : ` ходить 'по-маленькому' (писать) `",
+            ru:"TO DO NUMBER ONE  / ду нАмбэ уАн /",
+            
             },
             {
             id:8,
-            eng:"/ уот из дэ инглиш фо /   ` ходить 'по-большому' (какать) `",
-            ru:"DO NUMBER TWO / ду нАмбэ ту /"
+            eng:"How do you translate : ` ходить 'по-большому' (какать) `",
+            ru:"TO DO NUMBER TWO  / ду нАмбэ ту /",
+            
             },
             {
             id:9,
             eng:"How do you translate : ` гулять `",
-            ru:"WALK / уОлк /"
+            ru:"TO WALK  / уОлк /",
+            
             },
             {
             id:10,
             eng:"How do you translate : ` играть в футбол `",
-            ru:"PLAY FOOTBALL / плэй фУтбол /"
+            ru:"TO PLAY FOOTBALL  / плэй фУтбол /",
+            
             },
             {
             id:11,
             eng:"How do you translate : ` играть в игры `",
-            ru:"PLAY GAMES / плэй гЕймz /"
+            ru:"TO PLAY GAMES  / плэй гЕймz /",
+            
             },
             {
             id:12,
-            eng:"     How do you say :       ` играть на гитаре `",
-            ru:"PLAY THE GUITAR / плЭй дэ гитА /"
+            eng:"How do you translate : ` играть на гитаре `",
+            ru:"TO PLAY THE GUITAR  / плЭй дэ гитА /",
+            
             },
             {
             id:13,
-            eng:"     How do you say :       ` петь песню `",
-            ru:"SING A SONG / сИн э сОн /"
+            eng:"How do you translate : ` петь песню `",
+            ru:"TO SING A SONG  / сИн э сОн /",
+            
             },
             {
             id:14,
-            eng:"     How do you say :       ` смотреть фильмы `",
-            ru:"WATCH MOVIES / уОч мУвиz /"
+            eng:"How do you translate : ` смотреть фильмы `",
+            ru:"TO WATCH MOVIES  / уОч мУвиz /",
+            
             },
             {
             id:15,
-            eng:"    Как переводится :         ` drink / дринк / `",
-            ru:"ПИТЬ "
+            eng:"How do you translate : ` пить `",
+            ru:"TO DRINK  / дринк /",
+            
             },
             {
             id:16,
-            eng:"    Как переводится :         ` close / клОУz / `",
-            ru:"ЗАКРЫВАТЬ "
+            eng:"How do you translate : ` закрывать `",
+            ru:"TO CLOSE  / клОУz /",
+            
             },
             {
             id:17,
-            eng:"    Как переводится :         ` open / Оупэн / `",
-            ru:"ОТКРЫВАТЬ "
+            eng:"How do you translate : ` открывать `",
+            ru:"TO OPEN  / Оупэн /",
+            
             },
             {
             id:18,
-            eng:"     Can you translate :       ` look at a teacher / лук эт э тИче / `",
-            ru:"СМОТРЕТЬ НА УЧИТЕЛЯ "
+            eng:"How do you translate : ` смотреть на учителя `",
+            ru:"TO LOOK AT A TEACHER  / лук эт э тИче /",
+            
             },
             {
             id:19,
-            eng:"     Can you translate :       ` give / гив / `",
-            ru:"ДАВАТЬ "
+            eng:"How do you translate : ` давать `",
+            ru:"TO GIVE  / гив /",
+            
             },
             {
             id:20,
-            eng:"     Can you translate :       ` take / тЭйк / `",
-            ru:"БРАТЬ "
+            eng:"How do you translate : ` брать `",
+            ru:"TO TAKE  / тЭйк /",
+            
             },
             {
             id:21,
-            eng:" What is the Russian for :   ` do something / ду самTHын / `",
-            ru:"СМОТРЕТЬ НА ТЕЛЕФОН "
+            eng:"How do you translate : ` делать что-то `",
+            ru:"TO DO SOMETHING  / ду самTHын /",
+            
             },
             {
             id:22,
-            eng:" What is the Russian for :   ` make something / мЭйк самTHын / `",
-            ru:"СОЗДАВАТЬ ЧТО-ТО "
+            eng:"How do you translate : ` создавать что-то `",
+            ru:"TO MAKE SOMETHING  / мЭйк самTHын /",
+            
             },
             {
             id:23,
-            eng:" What is the Russian for :   ` read books / рид букс / `",
-            ru:"ЧИТАТЬ КНИГИ "
+            eng:"How do you translate : ` читать книги `",
+            ru:"TO READ BOOKS  / рид букс /",
+            
             },
             {
                 id:101,
-                eng:" What is the Russian for :   ` kiss somebody / кис сАмбади / `",
-                ru:"ЦЕЛОВАТЬ КОГО-ТО"
+                eng:"Translate: ` to kiss somebody / кис сАмбади / `",
+                ru:"целовать кого-то",
+                
                 },
                 {
                 id:102,
-                eng:" What is the Russian for :   ` go to work / гОУ ту ворк / `",
-                ru:"ХОДИТЬ НА РАБОТУ"
+                eng:"Translate: ` to go to work / гОУ ту ворк / `",
+                ru:"How do you translate : ` ходить на работу `",
+                
                 },
                 {
                 id:103,
-                eng:"       Что значит :            ` do homework / ду хОумворк / `",
-                ru:"ДЕЛАТЬ ИЛИ ВЫПОЛНЯТЬ ДОМАШКУ"
+                eng:"Translate: ` to do homework / ду хОумворк / `",
+                ru:"How do you translate : ` делать или выполнять домашку `",
+                
                 },
                 {
                 id:104,
-                eng:"       Что значит :            ` sleep / слип / `",
-                ru:"СПАТЬ"
+                eng:"Translate: ` to sleep / слип / `",
+                ru:"How do you translate : ` спать `",
+                
                 },
                 {
                 id:105,
-                eng:"       Что значит :            ` run / рАн / `",
-                ru:"БЕГАТЬ"
+                eng:"Translate: ` to run / рАн / `",
+                ru:"How do you translate : ` бегать `",
+                
                 },
                 {
                 id:106,
-                eng:" What is the Russian for :   ` jump / джАмп / `",
-                ru:"ПРЫГАТЬ"
+                eng:"Translate: ` to jump / джАмп / `",
+                ru:"How do you translate : ` прыгать `",
+                
                 },
                 {
                 id:107,
-                eng:" What is the Russian for :   ` do number one / ду нАмбэ уАн / `",
-                ru:"ХОДИТЬ 'ПО-МАЛЕНЬКОМУ' (ПИСАТЬ)"
+                eng:"Translate: ` to do number one / ду нАмбэ уАн / `",
+                ru:"How do you translate : ` ходить 'по-маленькому' (писать) `",
+                
                 },
                 {
                 id:108,
-                eng:" What is the Russian for :   ` do number two / ду нАмбэ ту / `",
-                ru:"ХОДИТЬ 'ПО-БОЛЬШОМУ' (КАКАТЬ)"
+                eng:"Translate: ` to do number two / ду нАмбэ ту / `",
+                ru:"How do you translate : ` ходить 'по-большому' (какать) `",
+                
                 },
                 {
                 id:109,
-                eng:"   What does it mean :     ` walk / уОлк / `",
-                ru:"ГУЛЯТЬ"
+                eng:"Translate: ` to walk / уОлк / `",
+                ru:"How do you translate : ` гулять `",
+                
                 },
                 {
                 id:110,
-                eng:"   What does it mean :     ` play football / плэй фУтбол / `",
-                ru:"ИГРАТЬ В ФУТБОЛ"
+                eng:"Translate: ` to play football / плэй фУтбол / `",
+                ru:"How do you translate : ` играть в футбол `",
+                
                 },
                 {
                 id:111,
-                eng:"   What does it mean :     ` play games / плэй гЕймz / `",
-                ru:"ИГРАТЬ В ИГРЫ"
+                eng:"Translate: ` to play games / плэй гЕймz / `",
+                ru:"How do you translate : ` играть в игры `",
+                
                 },
                 {
                 id:112,
-                eng:"Что на русском значит: ` play the guitar / плЭй дэ гитА / `",
-                ru:"ИГРАТЬ НА ГИТАРЕ"
+                eng:"Translate: ` to play the guitar / плЭй дэ гитА / `",
+                ru:"How do you translate : ` играть на гитаре `",
+                
                 },
                 {
                 id:113,
-                eng:"Что на русском значит: ` sing a song / сИн э сОн / `",
-                ru:"ПЕТЬ ПЕСНЮ"
+                eng:"Translate: ` to sing a song / сИн э сОн / `",
+                ru:"How do you translate : ` петь песню `",
+                
                 },
                 {
                 id:114,
-                eng:"Что на русском значит: ` watch movies / уОч мУвиz / `",
-                ru:"СМОТРЕТЬ ФИЛЬМЫ"
+                eng:"Translate: ` to watch movies / уОч мУвиz / `",
+                ru:"How do you translate : ` смотреть фильмы `",
+                
                 },
                 {
                 id:115,
-                eng:"Как бы ты перевел(а) : ` пить `",
-                ru:"DRINK / дринк /"
+                eng:"Translate: ` to drink / дринк / `",
+                ru:"How do you translate : ` пить `",
+                
                 },
                 {
                 id:116,
-                eng:"Как бы ты перевел(а) : ` закрывать `",
-                ru:"CLOSE / клОУz /"
+                eng:"Translate: ` to close / клОУz / `",
+                ru:"How do you translate : ` закрывать `",
+                
                 },
                 {
                 id:117,
-                eng:"Как бы ты перевел(а) : ` открывать `",
-                ru:"OPEN / Оупэн /"
+                eng:"Translate: ` to open / Оупэн / `",
+                ru:"How do you translate : ` открывать `",
+                
                 },
                 {
                 id:118,
-                eng:"Say it to me in English :   ` смотреть на учителя `",
-                ru:"LOOK AT A TEACHER / лук эт э тИче /"
+                eng:"Translate: ` to look at a teacher / лук эт э тИче / `",
+                ru:"How do you translate : ` смотреть на учителя `",
+                
                 },
                 {
                 id:119,
-                eng:"Say it to me in English :   ` давать `",
-                ru:"GIVE / гив /"
+                eng:"Translate: ` to give / гив / `",
+                ru:"How do you translate : ` давать `",
+                
                 },
                 {
                 id:120,
-                eng:"Say it to me in English :   ` брать `",
-                ru:"TAKE / тЭйк /"
+                eng:"Translate: ` to take / тЭйк / `",
+                ru:"How do you translate : ` брать `",
+                
                 },
                 {
                 id:121,
-                eng:"What is the English for: ` смотреть на телефон `",
-                ru:"DO SOMETHING / ду самTHын /"
+                eng:"Translate: ` to do something / ду самTHын / `",
+                ru:"How do you translate : ` делать что-то `",
+                
                 },
                 {
                 id:122,
-                eng:"What is the English for: ` создавать что-то `",
-                ru:"MAKE SOMETHING / мЭйк самTHын /"
+                eng:"Translate: ` to make something / мЭйк самTHын / `",
+                ru:"How do you translate : ` создавать что-то `",
+                
                 },
                 {
                 id:123,
-                eng:"What is the English for: ` читать книги `",
-                ru:"READ BOOKS / рид букс /"
+                eng:"Translate: ` to read books / рид букс / `",
+                ru:"How do you translate : ` читать книги `",
+                
                 },
+    ],
+    grammarTo: [
+        {
+            id:1,
+            eng:"Что обозначает частица TO перед гаголом в английском языке? пример: To sleep, to speak",
+            ru:"to - значит, что русский перевод глагола будет заканчиваться на окончание TЬ Пример:  спаТЬ, говориТЬ"
+            },
+            {
+            id:2,
+            eng:"Что нужно поставить перед глаголом в английском языке, если в русском переводе у этого глагола окончание -ТЬ. ?",
+            ru:"Нужно поставить частичку TO перед глаголом. To dance - танцевать To run - бегать To work - работать"
+            },
+            {
+            id:3,
+            eng:"Что ставится между двумя глаголами в английском? Пример: Я хочу играть. Она хочет потанцевать.",
+            ru:"V to V или Verb to Verb в английском языке между глаголами ставят частицу TO. I want to play. She wants to dance"
+            },
+            {
+            id:4,
+            eng:"Переведи на английский: Я ем, чтобы жить",
+            ru:"I live to eat / ай лИв ту ит /"
+            },
+            {
+            id:5,
+            eng:"Переведи на английский: Я учу английский, чтобы путешествовать",
+            ru:"I learn English to travel I study English to travel (говорить travelling - неверно)"
+            },
+            {
+            id:6,
+            eng:"Переведи на английский: Он работает, чтобы купить машину",
+            ru:"He works to buy a car"
+            },
+            {
+            id:7,
+            eng:"Переведи на английский: Она покупает платья, чтобы быть красивой",
+            ru:"She buys dresses to be beautiful или можно She buys clothes to be attractive (привлекательной)"
+            },
+            {
+            id:8,
+            eng:"Переведи на английский: Мы не хотим спать",
+            ru:"We don't want to sleep"
+            },
+            {
+            id:9,
+            eng:"Переведи на английский: Я не хочу пить пиво, я хочу пить белое вино",
+            ru:"I don't want to drink beer, I want to drink white wine"
+            },
+            {
+            id:10,
+            eng:"Переведи на английский: Мне нравится ходить гулять",
+            ru:"I like to go to walk"
+            },
+            {
+            id:11,
+            eng:"Переведи на английский: Ей нравится смотреть тик-ток",
+            ru:"She likes to watch Tik-Tok to watch - смотреть to see - видеть to look at - смотреть на"
+            },
+            {
+            id:12,
+            eng:"Как переводится частица TO в предложениях: I travel to see the world. или She goes home to sleep.",
+            ru:"to может переводится - ЧТОБЫ Она идет домой, ЧТОБЫ поспать. Я путешествую ЧТОБЫ увидеть мир"
+            },
+            {
+            id:13,
+            eng:"Переведи на русский: I like to move it.",
+            ru:"Мне нравится двигать это Мне нравится двигать этим"
+            },
+            {
+            id:14,
+            eng:"Переведи на русский: I sleep to relax",
+            ru:"Я сплю, чтобы расслабиться"
+            },
+            {
+            id:15,
+            eng:"Переведи на русский: She learns Spanish to fly to Spain",
+            ru:"Она учит испанский, чтобы полететь в Испанию"
+            },
+            {
+            id:16,
+            eng:"Переведи на русский: Nobody wants to speak with me",
+            ru:"Никто не хочет разговаривать со мной"
+            },
+            {
+            id:17,
+            eng:"Переведи на русский: I sleep, you sleep, we sleep, they sleep",
+            ru:"Я сплю, ты спишь, мы спим, они спят"
+            },
+            {
+            id:18,
+            eng:"Переведи на русский: he sleeps in the morning, she sleeps in the evening",
+            ru:"он спит утром, она спит по вечерам"
+            },
+            {
+            id:19,
+            eng:"Переведи на английский: Я сплю каждый день. Я сплю, потому что я всегда хочу спать.",
+            ru:"I sleep every day. I sleep because I always want to sleep."
+            },
+            {
+            id:20,
+            eng:"Если глагол не заканчивается на окончание ТЬ, тогда частица to не ставится. Сможешь сказать пару примеров?",
+            ru:"To sing a song - пеТЬ we sing a song - мы поём ещё примеры : TO fly - летаТЬ I fly - я лечу. We fly - мы летим"
+            },
     ],
     m011old: [
         {

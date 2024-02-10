@@ -10780,7 +10780,7 @@ correct: false
             quizQuestion: "/ илЭвэнth  / Это какое порядковое числительное?",
             answers: [
             {
-            answer: "двадцатый",
+            answer: "одинадцатый",
             correct: true
             },
             {
