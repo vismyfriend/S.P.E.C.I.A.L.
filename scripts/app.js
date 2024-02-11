@@ -120,8 +120,8 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
         popupMissionsAndSetsTitle.classList.remove("none")
         getArray(evt.target.dataset.set)
         //уточнить тут все - что такое evt.target
-        console.log("SET - это весь элемент из HTML =", set)
-        console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
+        // console.log("SET - это весь элемент из HTML =", set)
+        // console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
         // console.log("вот",allQuestionsSecondDeck)
         chooseSong(evt.target.dataset.set)
     })
@@ -131,9 +131,10 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
 
 
 function chooseSet(textTheNameOfTheChosenSet, set) {
-    console.log(set)
+
+    // console.log(set)
     chosenSet.textContent = textTheNameOfTheChosenSet
-    console.log("название миссии=", textTheNameOfTheChosenSet)
+    // console.log("название миссии=", textTheNameOfTheChosenSet)
     popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
     popupMissionsAndSetsTitle.classList.add("greyText")
     popupMissionsAndSetsDescription.textContent = "Чтобы пройти миссию выполни tasks задания 👇 "
@@ -165,7 +166,7 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
 
 function backToTheVeryFirstScreen() {
 
-    console.log("начало функции")
+    // console.log("начало функции")
     
     scoreGameBenderWordOrderGame = 0
     scoreTypeOrWriteGame = 0
@@ -246,27 +247,29 @@ function backToTheVeryFirstScreen() {
     popupMissionsAndSets.classList.remove("close")
     cardForSpeakingGame.classList.add("hiddenDeck")
     
-    chooseQuestions = chooseQuestions.sort(function () {
-        return Math.random() - 0.5;
-    });
+    // chooseQuestions = chooseQuestions.sort(function () {
+    //     return Math.random() - 0.5;
+    // });
+
     questionNumber = 0
     cardForSpeakingGame.classList.remove("AnOpenCard")
     cardForSpeakingGame.style.border = 'none';
 
-    console.log("конец функции")
-
-
+    
+    
     mainContainerIntroAnd2games.classList.remove("none")
     gameBender.classList.add("none")
-
+    
     gameTrickyQuiz.classList.add("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
-
+    
     userSearchesForMission.classList.remove("none")
     
-
-
-
+    
+    
+    containerMistakeGameBenderWordOrderGame.classList.remove("show")
+    logoSpecial.classList.remove("hidden")
+    // console.log("конец функции")
 }
 
 
@@ -297,6 +300,7 @@ function userSearchesForMissionSet() {
 const mainContainerIntroAnd2games = document.querySelector(".mainContainerIntroAnd2games")
 const multipleChoiceQuiz = document.querySelector(".popupMissionsAndSets__multipleChoiceQuiz")
 function startGameMultipleChoiceQuiz() {
+    body.classList.add("BenderWordOrderGameBackgroundPicture")
     // location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
     mainContainerIntroAnd2games.classList.add("none")
     gameBender.classList.add("none")
@@ -345,9 +349,9 @@ popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 function startGameFindPairs() {
     // resetPageButton.classList.add("opacityZero")
     // backToChoosingTheMissions.classList.add("opacityZero")
-    console.log("arrayLength - количество пар слов", chosenArray.length)
+    // console.log("arrayLength - количество пар слов", chosenArray.length)
     howManyStarsScore()
-    console.log("время на 5 звезд <", timeToGet5StarResult)
+    // console.log("время на 5 звезд <", timeToGet5StarResult)
     // console.log(currentSet)
     // replaceHeaderButton1()
     renderCards("ru")
@@ -366,7 +370,7 @@ function startGameFindPairs() {
     gameFindAPair.classList.add("open")
     interval = setInterval(startTimer, 10);
     // audioTest.play()
-    console.log(audioTest)
+    // console.log(audioTest)
     missionMusicBackground.volume = 0;
     missionMusicBackgroundIconButton.classList.add("off")
     missionMusicBackgroundIconButton.classList.add("hidden")
@@ -591,6 +595,8 @@ let languageRu = false
 letsSpeak.addEventListener("click", startGameQuestions)
 
 function startGameQuestions() {
+    body.classList.add("BenderWordOrderGameBackgroundPicture")
+
     // replaceHeaderButton1()
 
 
@@ -624,7 +630,7 @@ function shuffleDecks() {
 }
 
 function previousQuestion() {
-    console.log("прошлый вопрос", value.ru)
+    // console.log("прошлый вопрос", value.ru)
     questionNumber = questionNumber - 2
     getquestions()
 }
@@ -758,6 +764,8 @@ let n = -1
 // }
 
 function startGameBenderWordOrderGame() {
+    lifeGameBenderWordOrderGame = 5
+    livesGameBenderWordOrderGame.style.width = `${lifeGameBenderWordOrderGame * 31}px`
     wordsContainerGameBenderWordOrderGame.innerHTML = ""
     inputSentenceGameBenderWordOrderGame.textContent = ""
     pointsGameBenderWordOrderGame.classList.add("none")
@@ -907,6 +915,8 @@ const playerInputType = document.querySelector(".playerInputType")
 const typeOrWriteGameButtonCompare = document.querySelector(".typeOrWriteGameButtonCompare")
 
 function startGameInputTypeOrWriteGame() {
+    body.classList.add("BenderWordOrderGameBackgroundPicture")
+
     mainContainerIntroAnd2games.classList.add("none")
     gameBender.classList.add("none")
     gameTypeOrWrite.classList.remove("none")
@@ -1178,8 +1188,8 @@ function TNTgameover() {
 }
 
 function compareTNTinput() {
-    console.log("ответ", value.eng)
-    console.log(TNTuserInput)
+    // console.log("ответ", value.eng)
+    // console.log(TNTuserInput)
 
     if (TNTuserInput.value.toLowerCase() === value.eng.toLowerCase()) {
 
@@ -1271,7 +1281,7 @@ function showAnswerTNT() {
     TNTgameTaskHint.classList.remove("green")
     TNTgameTaskHint.classList.remove("yellow")
 
-    TNTgameTaskHint.textContent = "- 5 секунд. Чтобы обезвредить бомбу вписывай вот этот ответ : " + value.eng
+    TNTgameTaskHint.textContent = "Скорее вписывай вот этот ответ: " + value.eng
     // TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
     // TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
     // TNTgameTaskValue.textContent = " Быстрее!!! Вводи ответ : " + value.eng + " (" + value.ru + ")"
@@ -1285,7 +1295,7 @@ function restartTNTgame() {
     scoreTNTGame = 0
     typeOrWriteNumber = 0
     TNTbeforeExplosion = 33
-    TNTgameInfo.textContent = "🧨 До взрыва осталось: 💣"
+    TNTgameInfo.textContent = "🧨 До взрыва осталось: 🧨"
     TNTuserInput.value = ""
     TNTgameTaskHint.textContent = "напиши по-английски:"
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
@@ -1401,7 +1411,7 @@ function backToChoosingTheTask() {
     userSearchesForMission.classList.add("none")
     // popupMissionsAndSetsSets.classList.add("hide")
     gameTrickyQuiz.classList.add("none")
-    console.log("hi")
+    // console.log("hi")
 }
 
 
@@ -1440,9 +1450,10 @@ function helloMusicStartButtonInvisible() {
     // missionMusicBackgroundIconButton.classList.add("off")
 }
 
-helloMusicStartButton.addEventListener("click", helloMusicStartButtonInvisible)
 
 const audioIconOnOffTrack = new Audio("https://audio.jukehost.co.uk/JHNeJtC076ydQwBp3vBmLGiMTMpExydO");
+
+// helloMusicStartButton.addEventListener("click", helloMusicStartButtonInvisible)
 
 audioIconOnOffTrack.loop = false;
 

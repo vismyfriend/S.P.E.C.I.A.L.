@@ -14,6 +14,12 @@ export class QuizQ {
         this.mistakesCounter = 0
         this.startGame()
         this.anotherVariantMultipleChoiceQuiz()
+        this.logoRedCap.classList.add("none")
+        this.rules.textContent = `Это хитренький кВИз от ВИнсента. It is a tricky quiz from #vismyfriend. Читайте вслух и нажимайте на правильный ответ.`
+        this.rules.classList.remove("yellow")
+        this.buttonTryAgainOneMoreTime.classList.add("none")
+
+
     }
 
     // /поэтому тут не нужно писать function

@@ -53,13 +53,13 @@ button {
 }
 .backToChoosingTheMissions {
     text-align: center;
-    margin: 1px 0 0 21px;
+    margin: 12px 0 0 21px;
     width: 150px;
 }
 
 .resetPage {
     text-align: center;
-    margin: 1px 0 0 1px;
+    margin: 12px 0 0 1px;
     width: 135px;
 }
 
@@ -1281,7 +1281,7 @@ font-size: 20px;
 }
 
 .key {
-    box-shadow: 0px 2px 3px rgb(152 188 215);
+    box-shadow: 0px 2px 3px rgb(12, 134, 226);
     user-select: none;
     border: 2px solid black;
     /* border-radius: 5px; */
@@ -1290,7 +1290,8 @@ font-size: 20px;
     padding: 10px 5px;
     text-transform: uppercase;
     text-align: center;
-    background: #122023;
+    /* background: #122023; */
+    background: #aad1da;
     border: 1px solid #596265;
     /* padding: 0.5rem; */
     border-radius: 0.5rem;
