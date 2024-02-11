@@ -1053,12 +1053,12 @@ font-size: 20px;
 }
 
 .redCap {
-    top: 260px;
-    left: calc(50% - 100px);
+    top: 328px;
+    left: calc(50% - 65px);
     z-index: -2;
     position: fixed;
-    bottom: 1px;
-    height: 200px;
+    bottom: 8px;
+    height: 109px;
     margin: 0;
     padding: 0;
 }
@@ -1334,6 +1334,7 @@ font-size: 20px;
     left: 25px;
     position: absolute;
     color: #37393a;
+    margin: 0;
 }
 
 /* Начало стилей для новой игры */
