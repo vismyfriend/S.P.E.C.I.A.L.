@@ -232,7 +232,8 @@ function backToTheVeryFirstScreen() {
     //         chooseSong(evt.target.dataset.set)
     //     })
     // })
-
+    gameFindPairsTryAgainButton.classList.add("hidden")
+    starsEmoji.classList.remove("visible")
 
     // resetPageButton.classList.add("opacityZero")
     backToChoosingTheMissions.classList.add("opacityZero")
