@@ -28,11 +28,12 @@ button {
 }
 
 .headerPageReoad {
-    margin: 8px auto;
+    /* margin: 8px auto; */
     width: 316px;
     text-align: end;
     color: #515254;
-    padding-top: 5px;
+    /* padding-top: 5px; */
+   
 }
 
 
@@ -42,7 +43,7 @@ button {
     padding: 0;
     border: none;
     top: 9px;
-    
+    height: 35px;
     background-color: transparent;
     border-color:transparent;
    
@@ -53,13 +54,14 @@ button {
 }
 .backToChoosingTheMissions {
     text-align: center;
-    margin: 12px 0 0 21px;
+    margin: 0 0 0 21px;
     width: 150px;
+    /* background-color: white; */
 }
 
 .resetPage {
     text-align: center;
-    margin: 12px 0 0 1px;
+    /* margin: 12px 0 0 1px; */
     width: 135px;
 }
 
