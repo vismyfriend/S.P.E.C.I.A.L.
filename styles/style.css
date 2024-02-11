@@ -41,25 +41,27 @@ button {
     color: #515254;
     position: flex;
     padding: 0;
-    border: none;
     top: 9px;
     height: 35px;
+    border: none;
     background-color: transparent;
     border-color:transparent;
    
 }
 
-.opacityZero {
-    opacity: 0;
-}
 .backToChoosingTheMissions {
     text-align: center;
-    /* margin: 0 0 0 21px; */
-    margin-left: 50px;
-    /* right: 0; */
-    /* width: 150px; */
-    /* background-color: white; */
+    margin-left: 40px;
+    opacity: 0.7;
+   
+    
+    /* border: 2px solid #9e9d9ecc;
+    background-color: #bebcbcad; */
+
+    /* color: #000; */
+    
 }
+
 
 .resetPage {
     text-align: center;
@@ -67,6 +69,9 @@ button {
     width: 135px;
 }
 
+.opacityZero {
+    opacity: 0;
+}
 
 
 .headerPageReoad.visible,
@@ -110,7 +115,8 @@ button {
 
 .usedCheatsText.visible {
     display: block;
-    margin: 0 0 5px;
+    /* margin: 0 0 5px; */
+    margin: 8px 0px 6px 0px;
 }
 
 .usedCheatsText {
@@ -1071,7 +1077,7 @@ font-size: 20px;
 
 .oneDeckOfCards {
     background-image: url(../images/cards.png);
-    width: 310px;
+    width: 280px;
     height: 225px;
     background-size: 85%;
     background-repeat: no-repeat;

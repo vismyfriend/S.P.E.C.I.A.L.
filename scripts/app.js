@@ -594,7 +594,7 @@ const letsSpeak = document.querySelector(".popupMissionsAndSets__letsSpeak")
 let languageRu = false
 
 letsSpeak.addEventListener("click", startGameQuestions)
-
+clickTest.classList.add("none")
 function startGameQuestions() {
     body.classList.add("BenderWordOrderGameBackgroundPicture")
 
