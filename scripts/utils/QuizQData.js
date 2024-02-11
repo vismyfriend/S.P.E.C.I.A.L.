@@ -5238,7 +5238,7 @@ answer: "d",
 correct: false
 },
 {
-answer: "B",
+answer: "Б",
 correct: false
 },
 {

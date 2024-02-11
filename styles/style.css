@@ -54,8 +54,10 @@ button {
 }
 .backToChoosingTheMissions {
     text-align: center;
-    margin: 0 0 0 21px;
-    width: 150px;
+    /* margin: 0 0 0 21px; */
+    margin-left: 50px;
+    /* right: 0; */
+    /* width: 150px; */
     /* background-color: white; */
 }
 
@@ -1130,7 +1132,7 @@ font-size: 20px;
 .oneDeckOfCards.AnOpenCard {
     animation: card-flip 0.4s ease forwards;
     background-color: white;
-    height: 300px;
+    height: 309px;
     border-radius: 10px;
     box-shadow: 0 0 5px 0 #000;
     width: 70%;
