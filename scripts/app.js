@@ -1025,7 +1025,7 @@ function TNTgameover() {
     TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
     // TNTuserInput.value = `or 👇 deactivate more`
-    TNTuserInput.value = `🧨 или обезвредь ещё 🧨`
+    TNTuserInput.value = `🧨 или обезвредь больше 🧨`
     TNTbuttonCompare.classList.add("none")
     TNTgameButtonStartAgain.classList.remove("none")
     TNTgameCounter.classList.add("none")
