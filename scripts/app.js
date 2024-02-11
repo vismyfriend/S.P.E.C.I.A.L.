@@ -21,8 +21,13 @@ headerPageReoad?.addEventListener("click", pageReloadRefresh)
 
 const gameLieToMe = document.querySelector(".gameLieToMe")
 
-const clickTest = document.querySelector(".clickTest"
-)
+const clickTest = document.querySelector(".clickTest")
+
+const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
+backToChoosingTheMissions.addEventListener("click", backToTheVeryFirstScreen)
+
+
+
 
 
 function startGameLieToMe() {
@@ -66,6 +71,9 @@ const mainContainer5gameTwoCardDecks = document.querySelector(".mainContainer5ga
 // уточнить, что означает set в скобках - это аргумент или параметр и разница в чем? 
 let currentSet = null
 
+
+
+
 function getArray(set) {
     currentSet = set
     chosenArray = null
@@ -85,7 +93,7 @@ function getArray(set) {
     benderWordOrderSentences[set]?.sort(function () {
         return Math.random() - 0.5;
     });
-    renderWordsGameBenderWordOrderGame()
+    // renderWordsGameBenderWordOrderGame()
 
 }
 
@@ -107,6 +115,9 @@ function doWeHaveThisGame(set) {
 dataFromEachPopupMissionsAndSets.forEach((set) => {
     set.addEventListener("click", (evt) => {
         chooseSet(evt.target.textContent, evt.target.dataset.set)
+        resetPageButton.classList.remove("opacityZero")
+        backToChoosingTheMissions.classList.remove("opacityZero")
+        popupMissionsAndSetsTitle.classList.remove("none")
         getArray(evt.target.dataset.set)
         //уточнить тут все - что такое evt.target
         console.log("SET - это весь элемент из HTML =", set)
@@ -117,6 +128,7 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
 })
 
 // уточнить, что означает textTheNameOfTheChosenSet в скобках - это аргумент или параметр и разница в чем? Для чего это нужно?
+
 
 function chooseSet(textTheNameOfTheChosenSet, set) {
     console.log(set)
@@ -148,8 +160,114 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     // проверка есть ли такая игра вконце всегда
     doWeHaveThisGame(set)
     slotMachine.classList.remove("show")
+
 }
 
+function backToTheVeryFirstScreen() {
+
+    console.log("начало функции")
+    
+    scoreGameBenderWordOrderGame = 0
+    scoreTypeOrWriteGame = 0
+    scoreTNTGame = 0
+    lifeGameBenderWordOrderGame = 5
+    n = -1
+    
+
+    
+    popupMissionsAndSetsDescription.textContent = "👈 choose your mission to practice 👉 "
+    userSearchesForMission.classList.remove("none")
+    popupMissionsAndSetsSets.classList.remove("hide")
+    popupMissionsAndSetsTitle.classList.add("none")
+    chosenSet.classList.remove("show")
+    popupMissionsAndSetsGameFindAPair.classList.remove("show")
+    letsSpeak.classList.remove("show")
+    multipleChoiceQuiz.classList.remove("show")
+    BenderWordOrderGameButton.classList.remove("show")
+    startGameTNTbutton.classList.remove("show")
+    gameFindAPair.classList.remove("open")
+    popupMissionsAndSets.classList.remove("close")
+    popupMissionsAndSets.classList.remove("none")
+    gameTNT.classList.add("none")
+    clickTest.classList.add("none")
+    TNTgameCounter.classList.add("none")
+    usedCheatsText.classList.remove("visible")
+    clearInterval(TNTtimerMechanics)
+    TNTbeforeExplosion = 30
+    scoreTNTGame = 0
+    playerInputType.value = ""
+    scoreTypeOrWriteGame = 0
+    typeOrWriteNumber = 0
+    min = 0
+    max = 6
+    tens = "00"
+    seconds = "00"
+    interval = null
+    count = 0
+    foundPairs = 0
+    howManyTimesSkipped = 0
+    pairsRemainToMatch = 0
+    value = null
+    questionNumber = 0
+    typeOrWriteNumber = 0
+    gameFindAPairContainer.innerHTML = ""
+    TNTuserInput.value = ""
+
+    TNTgameTaskHint.classList.remove("green")
+
+
+    TNTgameButtonStartAgain.classList.add("none")
+    TNTgameTaskHint.textContent = "Чтобы обезвредить бомбы напиши на английском:"
+    // BenderWordOrderGameContainerOne.classList.add("none")
+    // currentSet = null
+    // dataFromEachPopupMissionsAndSets.forEach((set) => {
+    //     set.addEventListener("click", (evt) => {
+    //         chooseSet(evt.target.textContent, evt.target.dataset.set)
+    //         getArray(evt.target.dataset.set)
+    //         //уточнить тут все - что такое evt.target
+    //         console.log("SET - это весь элемент из HTML =", set)
+    //         console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
+    //         // console.log("вот",allQuestionsSecondDeck)
+    //         chooseSong(evt.target.dataset.set)
+    //     })
+    // })
+
+
+    // resetPageButton.classList.add("opacityZero")
+    backToChoosingTheMissions.classList.add("opacityZero")
+
+
+    oneDeckButtons.classList.remove("visible")
+    fryFuturamaMainScreenIntro.classList.remove("noshow")
+
+
+    usedCheatsText.classList.remove("visible")
+    oneDeckButtonText.classList.remove("visible")
+    popupMissionsAndSets.classList.remove("close")
+    cardForSpeakingGame.classList.add("hiddenDeck")
+    
+    chooseQuestions = chooseQuestions.sort(function () {
+        return Math.random() - 0.5;
+    });
+    questionNumber = 0
+    cardForSpeakingGame.classList.remove("AnOpenCard")
+    cardForSpeakingGame.style.border = 'none';
+
+    console.log("конец функции")
+
+
+    mainContainerIntroAnd2games.classList.remove("none")
+    gameBender.classList.add("none")
+
+    gameTrickyQuiz.classList.add("none")
+    body.classList.remove("BenderWordOrderGameBackgroundPicture")
+
+    userSearchesForMission.classList.remove("none")
+    
+
+
+
+}
 
 
 
@@ -225,7 +343,8 @@ let typeOrWriteNumber = 0
 popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 
 function startGameFindPairs() {
-    
+    // resetPageButton.classList.add("opacityZero")
+    // backToChoosingTheMissions.classList.add("opacityZero")
     console.log("arrayLength - количество пар слов", chosenArray.length)
     howManyStarsScore()
     console.log("время на 5 звезд <", timeToGet5StarResult)
@@ -309,6 +428,8 @@ function nextCards() {
 function finishGame() {
     clearInterval(interval)
     starResult()
+    // resetPageButton.classList.add("opacityZero")
+    // backToChoosingTheMissions.classList.add("opacityZero")
     userSearchesForMission.classList.remove("none")
     starsEmoji.classList.add("visible")
     usedCheatsText.textContent = `Сделай скриншот и отправь фотку в наш чат. Поделись с Vincent :  ${howManyTimesSkipped}MG : ${chosenSet.textContent} `
@@ -450,7 +571,7 @@ function nextCardsGameFindAPairCheatUsed() {
 gameFindAPairButtonSkipThese.addEventListener("click", nextCardsGameFindAPairCheatUsed)
 gameFindPairsTryAgainButton.addEventListener("click", startGameFindPairs)
 gameFindAPairButtonBackToMissions.addEventListener("click", () => {
-    pageReloadRefresh()
+    backToTheVeryFirstScreen()
 })
 gameFindAPairButtonNotUsed.addEventListener("click", () => {
     console.log("зачем ты сюда нажал?")
@@ -471,14 +592,17 @@ letsSpeak.addEventListener("click", startGameQuestions)
 
 function startGameQuestions() {
     // replaceHeaderButton1()
+
+
+    // backToChoosingTheMissions.classList.add("opacityZero")
+    // resetPageButton.classList.add("opacityZero")
     oneDeckButtons.classList.add("visible")
     fryFuturamaMainScreenIntro.classList.add("noshow")
     userSearchesForMission.classList.add("none")
     // usedCheatsText.textContent = `Заметили опечатку, неточность или нужен перевод?  Сделайте скриншот и отправьте мне в телеграм: @vismyfriend ${howManyTimesSkipped}`
     // usedCheatsText.classList.add("visible")
     // спросить уточнить как делать перенос строки в Java? <br> работает только в HTML ( /n тоже не работает) ${<br/>}
-    usedCheatsText.textContent = `Если заметите опечатку, ошибку, если что-то съехало в тексте или какая-то идея придет вам в голову 
-    как еще улучшить или чего-то добавить, убрать в приложении : PLEASE, сделайте скриншот и отправьте мне в телеграм: @vismyfriend`
+    usedCheatsText.textContent = `Если заметите опечатку, сделайте скриншот и отправьте тичеру в телеграм: @vismyfriend`
     // usedCheatsText.textContent = `нажимай на карту из колоды и читай вслух:`
     usedCheatsText.classList.add("visible")
     oneDeckButtonText.classList.add("visible")
@@ -506,8 +630,12 @@ function previousQuestion() {
 }
 
 function getquestions() {
-    usedCheatsText.textContent = `1 ) Ты читаешь, собеседник отвечает / выполняет. 2 ) Нужен перевод? - нажми на размытый текст. 
-    3 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
+    // usedCheatsText.textContent = `1 ) Ты читаешь, собеседник отвечает / выполняет. 2 ) Нужен перевод? - нажми на размытый текст. 
+    // 3 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
+    usedCheatsText.textContent = ` Задание написано на карточке. Чтобы проверить ответ или перевод нажми на размытый текст. Кто скажет: "Это уже было", тот лузер! `
+
+    // backToChoosingTheMissions.classList.remove("opacityZero")
+    // resetPageButton.classList.remove("opacityZero")
     if (questionNumber < chooseQuestions.length) {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
@@ -596,6 +724,8 @@ function startGameSlotMachine() {
 // ниже все для игры BenderWordOrderGame
 
 const benderWordOrderGameTask = document.querySelector(".BenderWordOrderGameTask-eng")
+const BenderWordOrderGameContainerOne = document.querySelector(".BenderWordOrderGameContainer-one")
+
 const gameBender = document.querySelector(".gameBender")
 const BenderWordOrderGameButton = document.querySelector(".popupMissionsAndSets__BenderWordOrderGame")
 const BenderWordOrderGameButtonBackToMissions = document.querySelector(".BenderWordOrderGameButtonBackToMissions")
@@ -628,15 +758,20 @@ let n = -1
 // }
 
 function startGameBenderWordOrderGame() {
+    wordsContainerGameBenderWordOrderGame.innerHTML = ""
+    inputSentenceGameBenderWordOrderGame.textContent = ""
+    pointsGameBenderWordOrderGame.classList.add("none")
+
     mainContainerIntroAnd2games.classList.add("none")
     gameBender.classList.remove("none")
     userSearchesForMission.classList.add("none")
     gameTrickyQuiz.classList.add("none")
     body.classList.add("BenderWordOrderGameBackgroundPicture")
+    renderWordsGameBenderWordOrderGame()
     russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
 }
 
-BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
+// BenderWordOrderGameButtonBackToMissions.addEventListener("click", pageReloadRefresh)
 BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame)
 
 
@@ -654,6 +789,7 @@ function renderWordsGameBenderWordOrderGame() {
     let shuffleSentenceGameBenderWordOrderGame = sentenceGameBenderWordOrderGame.split(' ').sort(function () {
         return Math.random() - 0.5;
     });
+
     shuffleSentenceGameBenderWordOrderGame.forEach(element => {
         const cloneWordGameBenderWordOrderGame = wordGameBenderWordOrderGame.cloneNode(true)
         cloneWordGameBenderWordOrderGame.textContent = element
@@ -669,12 +805,14 @@ function renderWordsGameBenderWordOrderGame() {
                         // console.log("ok")
                         scoreGameBenderWordOrderGame += 1
                         // score = score + 1
+                        pointsGameBenderWordOrderGame.classList.remove("none")
+
                         pointsGameBenderWordOrderGame.textContent = `верно:  ${scoreGameBenderWordOrderGame} / ${benderWordOrderSentences[currentSet].length}`
                         nextSentenceGameBenderWordOrderGame()
                     } else {
                         russianHintMistakeGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
                         correctAnswerGameBenderWordOrderGame.textContent = `Робот написал так : ${sentenceGameBenderWordOrderGame}`
-                        userAnswerGameBenderWordOrderGame.textContent =    `А вы написали так : ${inputSentenceGameBenderWordOrderGame.textContent}`
+                        userAnswerGameBenderWordOrderGame.textContent = `А вы написали так : ${inputSentenceGameBenderWordOrderGame.textContent}`
                         userAnswerGameBenderWordOrderGame.classList.add("wrong")
                         containerMistakeGameBenderWordOrderGame.classList.add("show")
                         lifeGameBenderWordOrderGame = lifeGameBenderWordOrderGame - 1
@@ -975,19 +1113,6 @@ startGameTNTbutton.addEventListener("click", startGameTNT)
 
 
 
-function startGameTNT() {
-    
-    TNTtimer.textContent = `00:${TNTbeforeExplosion}`
-    popupMissionsAndSets.classList.add("none")
-    gameTNT.classList.remove("none")
-    clickTest.classList.add("none")
-    value = chooseTypeOrWrite[typeOrWriteNumber]
-    TNTgameTaskValue.textContent = value.ru
-    TNTgameCounter.classList.add("none")
-    usedCheatsText.classList.remove("visible")
-
-    TNTstartTimer()
-}
 
 const TNTtimer = document.querySelector(".TNTtimer")
 const TNTbuttonCompare = document.querySelector(".TNTgameButtonCompare")
@@ -1002,12 +1127,30 @@ const TNTgameButtonAnswer = document.querySelector(".TNTgameButtonAnswer")
 TNTbuttonCompare.addEventListener("click", compareTNTinput)
 
 
+function startGameTNT() {
+
+    TNTtimer.textContent = `00:${TNTbeforeExplosion}`
+    popupMissionsAndSets.classList.add("none")
+    gameTNT.classList.remove("none")
+    clickTest.classList.add("none")
+    value = chooseTypeOrWrite[typeOrWriteNumber]
+    TNTgameTaskValue.textContent = value.ru
+    TNTgameCounter.classList.add("none")
+    usedCheatsText.classList.remove("visible")
+    clearInterval(TNTtimerMechanics)
+    TNTstartTimer()
+    TNTgameButtonIDK.classList.remove("none")
+    TNTgameButtonAnswer.classList.add("none")
+    TNTbuttonCompare.classList.remove("none")
+    TNTbuttonCompare.classList.remove("none")
+    TNTgameButtonStartAgain.classList.add("none")
+}
 
 function TNTstartTimer() {
     TNTtimerMechanics = setInterval(() => {
         if (TNTbeforeExplosion <= 0) TNTgameover()
 
-// GREAT TIMER function by EGORCHIK!
+        // GREAT TIMER function by EGORCHIK!
         // % - остаток от деления 
         TNTtimerFormat = `${Math.trunc(TNTbeforeExplosion / 60) > 9
             ? Math.trunc(TNTbeforeExplosion / 60)
@@ -1031,7 +1174,7 @@ function TNTgameover() {
     TNTgameCounter.classList.add("none")
     TNTuserInput.classList.remove("underlinedText")
     // TNTgameTaskHint.innerHTML = `попробуй обезвредить все`
-    
+
 }
 
 function compareTNTinput() {
@@ -1039,7 +1182,7 @@ function compareTNTinput() {
     console.log(TNTuserInput)
 
     if (TNTuserInput.value.toLowerCase() === value.eng.toLowerCase()) {
-        
+
         //  scoreTNTGame += 1
         scoreTNTGame++
         TNTbeforeExplosion += 12
@@ -1055,14 +1198,15 @@ function compareTNTinput() {
     }
     else {
         TNTgameTaskHint.classList.remove("green")
+        TNTgameTaskHint.classList.remove("yellow")
         TNTgameTaskHint.classList.add("red")
         TNTuserInput.classList.add("underlinedText")
-    
+
         TNTgameTaskHint.textContent = "не подходит... проверь ещё раз или отправь скриншот Винсенту"
-    
-      
-       
-    
+
+
+
+
     }
 
 }
@@ -1098,19 +1242,21 @@ TNTgameButtonIDK.addEventListener("click", showHintTNT)
 
 function showHintTNT() {
     if (value.hint === undefined) {
-     
+
         TNTgameTaskHint.textContent = "🤷‍♀️ здесь нечего подсказать 🤷‍♂️ пытайся как-то перевести"
         TNTgameTaskHint.classList.remove("red")
+        TNTgameTaskHint.classList.remove("yellow")
         TNTgameTaskHint.classList.add("green")
-        
+
 
     } else {
         // TNTgameTaskHint.textContent = "Okay , вот такая подсказка есть : " + value.hint
         TNTgameTaskHint.textContent = "Блин! Как бы тут подсказать-то : " + value.hint
         TNTgameTaskHint.classList.remove("red")
+        TNTgameTaskHint.classList.remove("yellow")
         TNTgameTaskHint.classList.add("green")
-        
-    
+
+
     }
     TNTgameButtonAnswer.classList.remove("none")
     TNTgameButtonIDK.classList.add("none")
@@ -1119,16 +1265,17 @@ function showHintTNT() {
 TNTgameButtonAnswer.addEventListener("click", showAnswerTNT)
 
 function showAnswerTNT() {
-    
+
     TNTgameButtonIDK.classList.remove("none")
     TNTgameButtonAnswer.classList.add("none")
     TNTgameTaskHint.classList.remove("green")
+    TNTgameTaskHint.classList.remove("yellow")
 
     TNTgameTaskHint.textContent = "- 5 секунд. Чтобы обезвредить бомбу вписывай вот этот ответ : " + value.eng
     // TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
     // TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
     // TNTgameTaskValue.textContent = " Быстрее!!! Вводи ответ : " + value.eng + " (" + value.ru + ")"
-    TNTgameTaskValue.textContent = value.ru 
+    TNTgameTaskValue.textContent = value.ru
     TNTbeforeExplosion -= 4
 
 }
@@ -1139,11 +1286,10 @@ function restartTNTgame() {
     typeOrWriteNumber = 0
     TNTbeforeExplosion = 33
     TNTgameInfo.textContent = "🧨 До взрыва осталось: 💣"
-    TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
-    TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
-    
-    TNTuserInput.value = ""  
+    TNTuserInput.value = ""
     TNTgameTaskHint.textContent = "напиши по-английски:"
+    TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
+
     TNTbuttonCompare.classList.remove("none")
     TNTgameButtonStartAgain.classList.add("none")
     TNTgameCounter.classList.remove("none")
@@ -1155,7 +1301,7 @@ function restartTNTgame() {
         return Math.random() - 0.5;
     });
     startGameTNT()
-    
+
 }
 
 
@@ -1238,42 +1384,16 @@ function startGameTwoDecks() {
 
 
 
+const resetPageButton = document.querySelector(".resetPage")
+
+resetPageButton.addEventListener("click", pageReloadRefresh)
+
 
 
 // пока не работают идеи ниже уточнить пока не работают идеи ниже уточнить пока не работают идеи ниже уточнить ока не работают идеи ниже уточнить
 
 const backTomainContainerIntroAnd2gamesbutton = document.querySelector(".backTomainContainerIntroAnd2gamesbutton")
-const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
 
-function backTomainContainerIntroAnd2gamesfunction() {
-    mainContainerIntroAnd2games.classList.remove("none")
-    gameBender.classList.add("none")
-    userSearchesForMission.classList.add("none")
-    popupMissionsAndSetsSets.classList.remove("hide")
-    gameTrickyQuiz.classList.add("none")
-    // body.classList.add("BenderWordOrderGameBackgroundPicture")
-    userSearchesForMission.classList.remove("none")
-    userSearchesForMission.value = ""
-    logoSpecial.classList.remove("hidden")
-    gameFindPairsTryAgainButton.classList.add("hidden")
-    oneDeckButtons.classList.remove("visible")
-    popupMissionsAndSetsTitle.textContent = "👈 Choose the set 👉"
-    popupMissionsAndSetsTitle.classList.remove("greyText")
-    popupMissionsAndSetsDescription.textContent = "Выбирай набор слов для тренировки"
-    // popupMissionsAndSetsSets.classList.add("hide")
-    InputTypeOrWriteGame.classList.remove("show")
-    popupMissionsAndSetsGameFindAPair.classList.remove("show")
-    slotMachine.classList.remove("show")
-    multipleChoiceQuiz.classList.remove("show")
-    copyThisForNewGames?.classList.remove("show")
-    // знак вопроса пропустит ошибку
-    BenderWordOrderGameButton.classList.remove("show")
-    letsSpeak.classList.remove("show")
-    chosenSet.classList.remove("show")
-    // chosenSet.textContent = text
-    usedCheatsText.classList.remove("visible")
-    starsEmoji.classList.remove("visible")
-}
 
 function backToChoosingTheTask() {
     mainContainerIntroAnd2games.classList.remove("none")
