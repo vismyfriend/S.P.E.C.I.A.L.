@@ -1101,14 +1101,14 @@ function showHintTNT() {
      
         TNTgameTaskHint.textContent = "🤷‍♀️ здесь нечего подсказать 🤷‍♂️ пытайся как-то перевести"
         TNTgameTaskHint.classList.remove("red")
-        TNTgameTaskHint.classList.remove("green")
+        TNTgameTaskHint.classList.add("green")
         
 
     } else {
         // TNTgameTaskHint.textContent = "Okay , вот такая подсказка есть : " + value.hint
         TNTgameTaskHint.textContent = "Блин! Как бы тут подсказать-то : " + value.hint
         TNTgameTaskHint.classList.remove("red")
-        TNTgameTaskHint.classList.remove("green")
+        TNTgameTaskHint.classList.add("green")
         
     
     }
@@ -1122,6 +1122,8 @@ function showAnswerTNT() {
     
     TNTgameButtonIDK.classList.remove("none")
     TNTgameButtonAnswer.classList.add("none")
+    TNTgameTaskHint.classList.remove("green")
+
     TNTgameTaskHint.textContent = "- 5 секунд. Чтобы обезвредить бомбу вписывай вот этот ответ : " + value.eng
     // TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
     // TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
