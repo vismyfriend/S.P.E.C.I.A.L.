@@ -2478,7 +2478,7 @@ const allWordsForGameTypeOrWrite = {
                 hint:"/ бит /"
                 },
 ],
-tagquestions01: [
+tagquestions: [
     {
         id:1,
         eng:"will you?",

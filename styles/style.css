@@ -147,6 +147,7 @@ button {
     text-align: center;
     /* position: relative; */
     width: 230px;
+
 }
 
 .oneDeckButtonText.visible,
@@ -238,6 +239,7 @@ button {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     color: #000000;
     width: 100px;
+    text-align: center;
 }
 .TNTgameButtonAnswer {
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%),#f999d4;
@@ -247,6 +249,7 @@ button {
 .typeOrWriteGameButtonSkip, 
 .TNTgameButtonStartAgain {
     font-size: 20px;
+    text-align: center;
     color: #000000;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #7BE7FF;
@@ -313,7 +316,7 @@ button {
 .inputTitleEng, 
 .TNTgameInfo {
     /* margin: 20px 0 0; */
-    margin: -13px 0 0;
+    margin: 2px 0 0;
     font-weight: 400;
     font-size: 20px;
     line-height: 17px;
@@ -557,6 +560,7 @@ font-size: 18px;
 margin: 0;
 width: 230px;
 text-align: center;
+font-size: 20px;
 
 
 }
@@ -1289,13 +1293,16 @@ text-align: center;
 }
 
 .key-span-2 {
-    grid-column: 2 / span 13;
+    grid-column: 7 / span 14;
 }
 
 .key-span-3 {
-    grid-column: auto / span 6;
+    grid-column: 1 / span 6;
 }
 
+/* .key-span-4 {
+    grid-column: 1 / span 6;
+} */
 
 .clickTest {
     bottom: 0;

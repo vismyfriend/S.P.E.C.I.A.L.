@@ -225,6 +225,7 @@ let typeOrWriteNumber = 0
 popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 
 function startGameFindPairs() {
+    
     console.log("arrayLength - количество пар слов", chosenArray.length)
     howManyStarsScore()
     console.log("время на 5 звезд <", timeToGet5StarResult)
@@ -851,7 +852,7 @@ const keyV = document.querySelector(".keyV")
 const keyB = document.querySelector(".keyB")
 const keyN = document.querySelector(".keyN")
 const keyM = document.querySelector(".keyM")
-const keyDot = document.querySelector(".keyDot")
+const keyQuestion = document.querySelector(".keyQuestion")
 const keyDeleteLastSymbol = document.querySelector(".keyDeleteLastSymbol")
 const keyDel = document.querySelector(".keyDel")
 const keySpaceBar = document.querySelector(".keySpaceBar")
@@ -934,11 +935,11 @@ keyN.addEventListener("click", () => {
 keyM.addEventListener("click", () => {
     TNTuserInput.value = TNTuserInput.value + "M"
 })
-// keyDot.addEventListener("click", () => {
-//     TNTuserInput.value = TNTuserInput.value + ","
-//     // keySoundInput?.stop()
-//     keySoundInput.play()
-// })
+keyQuestion.addEventListener("click", () => {
+    TNTuserInput.value = TNTuserInput.value + "?"
+    // keySoundInput?.stop()
+    keySoundInput.play()
+})
 keyDel.addEventListener("click", () => {
     TNTuserInput.value = ""
     // keySoundInput?.stop()
@@ -1024,7 +1025,7 @@ function TNTgameover() {
     TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
     // TNTuserInput.value = `or 👇 deactivate more`
-    TNTuserInput.value = `или обезвредь ещё 👇 `
+    TNTuserInput.value = `🧨 или обезвредь ещё 🧨`
     TNTbuttonCompare.classList.add("none")
     TNTgameButtonStartAgain.classList.remove("none")
     TNTgameCounter.classList.add("none")
