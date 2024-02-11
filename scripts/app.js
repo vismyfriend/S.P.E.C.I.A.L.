@@ -852,99 +852,106 @@ const keyB = document.querySelector(".keyB")
 const keyN = document.querySelector(".keyN")
 const keyM = document.querySelector(".keyM")
 const keyDot = document.querySelector(".keyDot")
+const keyDeleteLastSymbol = document.querySelector(".keyDeleteLastSymbol")
 const keyDel = document.querySelector(".keyDel")
 const keySpaceBar = document.querySelector(".keySpaceBar")
 
 keyQ.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "Q"
+    TNTuserInput.value = TNTuserInput.value + "Q"
 })
 keyW.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "W"
+    TNTuserInput.value = TNTuserInput.value + "W"
 })
 keyE.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "E"
+    TNTuserInput.value = TNTuserInput.value + "E"
 })
 keyR.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "R"
+    TNTuserInput.value = TNTuserInput.value + "R"
 })
 keyT.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "T"
+    TNTuserInput.value = TNTuserInput.value + "T"
 })
 keyY.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "Y"
+    TNTuserInput.value = TNTuserInput.value + "Y"
 })
 keyU.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "U"
+    TNTuserInput.value = TNTuserInput.value + "U"
 })
 keyI.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "I"
+    TNTuserInput.value = TNTuserInput.value + "I"
 })
 keyO.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "O"
+    TNTuserInput.value = TNTuserInput.value + "O"
 })
 keyP.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "P"
+    TNTuserInput.value = TNTuserInput.value + "P"
 })
 keyA.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "A"
+    TNTuserInput.value = TNTuserInput.value + "A"
 })
 keyS.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "S"
+    TNTuserInput.value = TNTuserInput.value + "S"
 })
 keyD.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "D"
+    TNTuserInput.value = TNTuserInput.value + "D"
 })
 keyF.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "F"
+    TNTuserInput.value = TNTuserInput.value + "F"
 })
 keyG.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "G"
+    TNTuserInput.value = TNTuserInput.value + "G"
 })
 keyH.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "H"
+    TNTuserInput.value = TNTuserInput.value + "H"
 })
 keyJ.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "J"
+    TNTuserInput.value = TNTuserInput.value + "J"
 })
 keyK.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "K"
+    TNTuserInput.value = TNTuserInput.value + "K"
 })
 keyL.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "L"
+    TNTuserInput.value = TNTuserInput.value + "L"
 })
 keyZ.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "Z"
+    TNTuserInput.value = TNTuserInput.value + "Z"
 })
 keyX.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "X"
+    TNTuserInput.value = TNTuserInput.value + "X"
 })
 keyC.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "C"
+    TNTuserInput.value = TNTuserInput.value + "C"
 })
 keyV.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "V"
+    TNTuserInput.value = TNTuserInput.value + "V"
 })
 keyB.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "B"
+    TNTuserInput.value = TNTuserInput.value + "B"
 })
 keyN.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "N"
+    TNTuserInput.value = TNTuserInput.value + "N"
 })
 keyM.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + "M"
+    TNTuserInput.value = TNTuserInput.value + "M"
 })
-keyDot.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + ","
+// keyDot.addEventListener("click", () => {
+//     TNTuserInput.value = TNTuserInput.value + ","
+//     // keySoundInput?.stop()
+//     keySoundInput.play()
+// })
+keyDel.addEventListener("click", () => {
+    TNTuserInput.value = ""
     // keySoundInput?.stop()
     keySoundInput.play()
 })
 keySpaceBar.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value + " "
+    TNTuserInput.value = TNTuserInput.value + " "
     // keySoundInput.stop()
     keySoundInput.play()
 })
-keyDel.addEventListener("click", () => {
-    playerInputType.value = playerInputType.value.substring(0, playerInputType.value.length - 1);
+
+keyDeleteLastSymbol.addEventListener("click", () => {
+    TNTuserInput.value = TNTuserInput.value.substring(0, TNTuserInput.value.length - 1);
     const keyDelSoundInput = new Audio("https://zvukitop.com/wp-content/uploads/2021/01/najatie-na-klaviaturu-iphone.mp3");
     keyDelSoundInput.volume = 0.08
     keyDelSoundInput.play()
@@ -1128,7 +1135,7 @@ function restartTNTgame() {
     scoreTNTGame = 0
     typeOrWriteNumber = 0
     TNTbeforeExplosion = 33
-    TNTgameInfo.textContent = "🧨 До взрыва: 💣"
+    TNTgameInfo.textContent = "🧨 До взрыва осталось: 💣"
     TNTgameTaskHint.textContent = `обезврежено :  ${scoreTNTGame} out of ${chooseTypeOrWrite.length} bombs`
     TNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
     

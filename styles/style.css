@@ -312,21 +312,23 @@ button {
 .BenderWordOrderGameTask-eng,
 .inputTitleEng, 
 .TNTgameInfo {
-    margin: 20px 0 0;
+    /* margin: 20px 0 0; */
+    margin: -13px 0 0;
     font-weight: 400;
     font-size: 20px;
     line-height: 17px;
     text-align: center;
-    font-size: 20px;
     color: #000000;
 }
 .TNTgameInfo {
-    font-size: 20px;
+    font-size: 18px;
 }
 .TNTgameTimer {
     font-size: 50px;
 }
-
+.BenderWordOrderGameTask-eng {
+      margin: 20px 0 0;
+}
 .BenderWordOrderGameTask-ru {
     font-weight: 400;
     font-size: 14px;
@@ -393,7 +395,8 @@ button {
 .BenderWordOrderGameButtons,
 .TNTgameButtons,
 .typeOrWriteGameButtons {
-    margin: 10px 0 0 0;
+    /* margin: 10px 0 0 0; */
+    margin: 5px 0 0 0;
     display: flex;
     justify-content: space-evenly;
     color: #000000;
@@ -501,8 +504,9 @@ font-size: 18px;
     background: #FFF;
     border-radius: 25px;
     min-height: 30px;
-    margin: 6px 15px;
-    padding: 6px;
+    margin: 4px 15px;
+    /* padding: 6px; */
+    padding: 3px;
 }
 .TNTgameTaskHint {
     font-size: 20px;
@@ -526,7 +530,7 @@ font-size: 18px;
     background: #98bcd7;
     border: 15px solid #F4F5FF;
     border-radius: 35px;
-    margin: 0 auto;
+    margin: -20px auto;
     padding-bottom: 15px;
     display: block;
     font-size: 25px;
@@ -534,7 +538,7 @@ font-size: 18px;
     text-align: center;
 }
 .TNTgameMainScreen {
-    height: 400px;
+    height: 500px;
 }
 
 .playerInputType,
@@ -853,8 +857,8 @@ text-align: center;
 .TNTtimer {
     font-size: 45px;
     color: #ffffff;
-    margin: 0;
-    padding-top: 5px;
+    margin: 0 0 -10px 0;
+    /* padding-top: 5px; */
     
 }
 
@@ -1227,17 +1231,17 @@ text-align: center;
 
 .keyboard-base-mobile {
     width: 100%;
-    position: absolute;
+    /* position: absolute; */
     /* bottom: 0; */
     /* background-color: rgb(197, 197, 197); */
     border-radius: 10px;
     display: grid;
     grid-template-columns: repeat(20, 1fr);
     grid-template-rows: repeat(4, 1fr);
-    grid-gap: 5px;
+    grid-gap: 1px;
     box-sizing: border-box;
-    padding: 20px 10px;
-    margin-bottom: 28px;
+    padding: 5px 10px 10px 10px;
+    /* margin-bottom: 28px; */
 }
 
 .secretSet {
@@ -1285,11 +1289,11 @@ text-align: center;
 }
 
 .key-span-2 {
-    grid-column: 3 / span 11;
+    grid-column: 2 / span 13;
 }
 
 .key-span-3 {
-    grid-column: auto / span 5;
+    grid-column: auto / span 6;
 }
 
 
