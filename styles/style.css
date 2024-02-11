@@ -40,7 +40,7 @@ button {
     color: #515254;
     position: flex;
     padding: 0;
-    border: 0;
+    border: none;
     top: 9px;
     
     background-color: transparent;
