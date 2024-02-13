@@ -270,6 +270,7 @@ function backToTheVeryFirstScreen() {
     
     containerMistakeGameBenderWordOrderGame.classList.remove("show")
     logoSpecial.classList.remove("hidden")
+    // userSearchesForMission.value = ""
     // console.log("конец функции")
 }
 

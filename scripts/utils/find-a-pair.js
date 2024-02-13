@@ -4400,6 +4400,442 @@ const allCardsGameFindAPair = {
             ru: "кусать"
         },
     ],
+    naughtyVerbsCD: [
+        {
+            id:13,
+            eng:"come, came, come",
+            ru:"приходить",
+            
+            },
+            {
+            id:14,
+            eng:"choose, chose, chosen",
+            ru:"выбирать",
+            
+            },
+            {
+            id:15,
+            eng:"catch, caught, caught",
+            ru:"ловить",
+            
+            },
+            {
+            id:16,
+            eng:"creep, crept, crept",
+            ru:"ползать",
+            
+            },
+            {
+            id:17,
+            eng:"cost, cost, cost",
+            ru:"стоить",
+            
+            },
+            {
+            id:18,
+            eng:"cut, cut, cut",
+            ru:"резать",
+            
+            },
+            {
+            id:19,
+            eng:"deal, dealt, dealt",
+            ru:"иметь дела",
+            
+            },
+            {
+            id:20,
+            eng:"dig, dug, dug",
+            ru:"копать",
+            
+            },
+            {
+            id:21,
+            eng:"do, did, done",
+            ru:"делать",
+            
+            },
+            {
+            id:22,
+            eng:"drive, drove, driven",
+            ru:"водить",
+            
+            },
+            {
+            id:23,
+            eng:"draw, drew, drawn",
+            ru:"рисовать",
+            
+            },
+            {
+            id:24,
+            eng:"drink, drank, drunk",
+            ru:"пить",
+            
+            },
+    ],
+    naughtyVerbsBquestions3forms: [
+        {
+            id:1,
+            eng:"break, broke, broken",
+            ru:"ломать",
+            
+            },
+            {
+            id:2,
+            eng:"beat, beat, beaten",
+            ru:"побить",
+            
+            },
+            {
+            id:3,
+            eng:"become, became, become",
+            ru:"становиться",
+            
+            },
+            {
+            id:4,
+            eng:"begin, began, begun",
+            ru:"начинать",
+            
+            },
+            {
+            id:5,
+            eng:"blow, blew, blown",
+            ru:"дуть",
+            
+            },
+            {
+            id:6,
+            eng:"borrow, borrowed, borrowed",
+            ru:"брать в долг",
+            
+            },
+            {
+            id:7,
+            eng:"build, built, built",
+            ru:"строить",
+            
+            },
+            {
+            id:8,
+            eng:"burn, burnt, burnt",
+            ru:"сжигать, гореть",
+            
+            },
+            {
+            id:9,
+            eng:"buy, bought, bought",
+            ru:"покупать",
+            
+            },
+            {
+            id:10,
+            eng:"bring, brought, brought",
+            ru:"приносить",
+            
+            },
+            {
+            id:11,
+            eng:"be, (was,were), been",
+            ru:"быть",
+            
+            },
+            {
+            id:12,
+            eng:"bite, bit, bit",
+            ru:"кусать",
+            
+            },
+    ],
+    naughtyVerbsBfindPairs2forms: [
+        {
+            id:1,
+            eng:"break / брЭйк /",
+            ru:"ломать",
+            
+            },
+            {
+            id:2,
+            eng:"beat / бит /",
+            ru:"побить",
+            
+            },
+            {
+            id:3,
+            eng:"become / бекАм /",
+            ru:"становиться",
+            
+            },
+            {
+            id:4,
+            eng:"begin / бегИн /",
+            ru:"начинать",
+            
+            },
+            {
+            id:5,
+            eng:"blow / блОу /",
+            ru:"дуть",
+            
+            },
+            {
+            id:6,
+            eng:"borrow / бОроу /",
+            ru:"брать в долг",
+            
+            },
+            {
+            id:7,
+            eng:"build / билд /",
+            ru:"строить",
+            
+            },
+            {
+            id:8,
+            eng:"burn / бЁрн /",
+            ru:"сжигать, гореть",
+            
+            },
+            {
+            id:9,
+            eng:"buy / бАй /",
+            ru:"покупать",
+            
+            },
+            {
+            id:10,
+            eng:"bring / брин /",
+            ru:"приносить",
+            
+            },
+            {
+            id:11,
+            eng:"be / эм из а /",
+            ru:"быть",
+            
+            },
+            {
+            id:12,
+            eng:"bite / бАйт /",
+            ru:"кусать",
+            
+            },
+            {
+                id:101,
+                eng:"broke / брОУк /",
+                ru:"сломал, нарушил",
+                
+                },
+                {
+                id:102,
+                eng:"beat / бит /",
+                ru:"побил",
+                
+                },
+                {
+                id:103,
+                eng:"became / бекЕйм /",
+                ru:"стал",
+                
+                },
+                {
+                id:104,
+                eng:"began / бегЭн /",
+                ru:"начал",
+                
+                },
+                {
+                id:105,
+                eng:"blew / блУ /",
+                ru:"дул",
+                
+                },
+                {
+                id:106,
+                eng:"borrowed / бОроуд /",
+                ru:"взял в долг занял, одолжил",
+                
+                },
+                {
+                id:107,
+                eng:"built / билт /",
+                ru:"построил",
+                
+                },
+                {
+                id:108,
+                eng:"burnt / бёрнт /",
+                ru:"сжёг",
+                
+                },
+                {
+                id:109,
+                eng:"bought / бот /",
+                ru:"купил",
+                
+                },
+                {
+                id:110,
+                eng:"brought / брот /",
+                ru:"принёс",
+                
+                },
+                {
+                id:111,
+                eng:"(was,were) / воз вё /",
+                ru:"был, были",
+                
+                },
+                {
+                id:112,
+                eng:"bit / бит /",
+                ru:"укусил",
+                
+                },
+    ],
+
+
+    adjAB: [
+        {
+            id:1,
+            eng:"alive / элАйв /",
+            ru:"живой",
+            
+            },
+            {
+            id:2,
+            eng:"amazing / эмЭйзин /",
+            ru:"удивительный",
+            
+            },
+            {
+            id:3,
+            eng:"angry / Энгри /",
+            ru:"сердитый",
+            
+            },
+            {
+            id:4,
+            eng:"annoying / энОин /",
+            ru:"бесящий",
+            
+            },
+            {
+            id:5,
+            eng:"attractive / этрЭктив /",
+            ru:"привлекательный",
+            
+            },
+            {
+            id:6,
+            eng:"awesome / Осм /",
+            ru:"офигенный",
+            
+            },
+            {
+            id:7,
+            eng:"accurate / Экьюрэт /",
+            ru:"точный (верный)",
+            
+            },
+            {
+            id:8,
+            eng:"agile / эджАйл /",
+            ru:"ловкий",
+            
+            },
+            {
+            id:9,
+            eng:"bad / бЭд /",
+            ru:"плохой",
+            
+            },
+            {
+            id:10,
+            eng:"bald / бОлд /",
+            ru:"лысый",
+            
+            },
+            {
+            id:11,
+            eng:"beautiful / бьютифул /",
+            ru:"красивая",
+            
+            },
+            {
+            id:12,
+            eng:"big / биГ /",
+            ru:"большой",
+            
+            },
+            {
+            id:13,
+            eng:"black / блЭк /",
+            ru:"Черный",
+            
+            },
+            {
+            id:14,
+            eng:"bloody / блАди /",
+            ru:"кровавый",
+            
+            },
+            {
+            id:15,
+            eng:"blue / блУ /",
+            ru:"синий",
+            
+            },
+            {
+            id:16,
+            eng:"bold / бОлд /",
+            ru:"смелый",
+            
+            },
+            {
+            id:17,
+            eng:"boring / бОрин /",
+            ru:"скучный",
+            
+            },
+            {
+            id:18,
+            eng:"bossy / бОсси /",
+            ru:"властный",
+            
+            },
+            {
+            id:19,
+            eng:"bothering / бАthэрин /",
+            ru:"раздражающий",
+            
+            },
+            {
+            id:20,
+            eng:"brave / брЭйв /",
+            ru:"храбрый",
+            
+            },
+            {
+            id:21,
+            eng:"breathtaking / брэth тэйкин /",
+            ru:"захватывающий дух",
+            
+            },
+            {
+            id:22,
+            eng:"bright / брАйт /",
+            ru:"яркий",
+            
+            },
+            {
+            id:23,
+            eng:"busy / бИзи /",
+            ru:"занятой",
+            
+            },
+    ],
     adjectives03: [
         {
             id: 25,
