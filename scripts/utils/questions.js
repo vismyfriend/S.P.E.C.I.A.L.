@@ -37,3988 +37,4363 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
-    randomverbA2: [
+    randomverbA1: [
         {
             id:1,
-            eng:"to look at the phone",
-            ru:"смотреть на телефон"
+            eng:"to add milk into coffee",
+            ru:"добавлять молоко в кофе"
             },
             {
             id:2,
-            eng:"to look from the window",
-            ru:"смотреть из окна"
-            },
-            {
-            id:3,
-            eng:"to look at the sky / скай /",
-            ru:"смотреть на небо"
-            },
-            {
-            id:4,
-            eng:"to work on a computer",
-            ru:"работать на компьютере"
-            },
-            {
-            id:5,
-            eng:"to work in a bank",
-            ru:"работать в банке"
-            },
-            {
-            id:6,
-            eng:"to work at school",
-            ru:"работать в школе"
-            },
-            {
-            id:7,
-            eng:"to use a computer",
-            ru:"использовать компьютер"
-            },
-            {
-            id:8,
-            eng:"to use a hammer",
-            ru:"использовать молоток"
-            },
-            {
-            id:9,
-            eng:"to use brains",
-            ru:"использовать мозги"
-            },
-            {
-            id:10,
-            eng:"to use something",
-            ru:"пользоваться чем-либо"
-            },
-            {
-            id:11,
-            eng:"to use a toilet",
-            ru:"воспользоваться туалетом"
-            },
-            {
-            id:12,
             eng:"to add sugar into coffee",
             ru:"добавить сахар в кофе"
             },
             {
-            id:13,
-            eng:"to add milk into tea",
-            ru:"добавить молоко в чай"
-            },
-            {
-            id:14,
+            id:3,
             eng:"to add sugar into tea",
             ru:"добавить сахар в чай"
-            },
-            {
-            id:15,
-            eng:"to add milk into coffee",
-            ru:"добавить молоко в кофе"
-            },
-            {
-            id:16,
-            eng:"to argue with everybody",
-            ru:"спорить со всеми"
-            },
-            {
-            id:17,
-            eng:"to argue with somebody",
-            ru:"спорить с кем-то"
-            },
-            {
-            id:18,
-            eng:"to argue with Vincent",
-            ru:"спорить с Винсентом"
-            },
-            {
-            id:19,
-            eng:"to argue with someone",
-            ru:"спорить с кем-нибудь"
-            },
-            {
-            id:20,
-            eng:"to arrive late",
-            ru:"прибывать поздно"
-            },
-            {
-            id:21,
-            eng:"to arrive to an airport",
-            ru:"прибывать в аэропорт"
-            },
-            {
-            id:22,
-            eng:"to arrive to the station",
-            ru:"прибывать на станцию"
-            },
-            {
-            id:23,
-            eng:"to ask for help",
-            ru:"просить о помощи"
-            },
-            {
-            id:24,
-            eng:"to ask for advice",
-            ru:"просить совета"
-            },
-            {
-            id:25,
-            eng:"to ask for the direction / дАйрэкшнз /",
-            ru:"спросить направление"
-            },
-            {
-            id:26,
-            eng:"to ask for presents",
-            ru:"попросить подарков"
-            },
-            {
-            id:27,
-            eng:"to call the police",
-            ru:"вызвать полицию"
-            },
-            {
-            id:28,
-            eng:"to call Vincent at night",
-            ru:"позвонить Винсенту ночью"
-            },
-            {
-            id:29,
-            eng:"to call the ambulance / Эмбьюлэнс /",
-            ru:"вызвать скорую"
-            },
-            {
-            id:30,
-            eng:"to call for help",
-            ru:"позвать на помощь"
-            },
-            {
-            id:31,
-            eng:"to change lifestyle",
-            ru:"изменить образ жизни"
-            },
-            {
-            id:32,
-            eng:"to change clothes",
-            ru:"переодеться"
-            },
-            {
-            id:33,
-            eng:"to close a window",
-            ru:"закрыть окно"
-            },
-            {
-            id:34,
-            eng:"to close a door",
-            ru:"закрыть дверь"
-            },
-            {
-            id:35,
-            eng:"to close doors",
-            ru:"закрыть двери"
-            },
-            {
-            id:36,
-            eng:"to close eyes",
-            ru:"закрыть глаза"
-            },
-            {
-            id:37,
-            eng:"to close business",
-            ru:"закрыть бизнес"
-            },
-            {
-            id:38,
-            eng:"to create new things",
-            ru:"создавать новые вещи"
-            },
-            {
-            id:39,
-            eng:"to create something",
-            ru:"создать что-либо"
-            },
-            {
-            id:40,
-            eng:"to describe the situation",
-            ru:"описать ситуацию"
-            },
-            {
-            id:41,
-            eng:"to describe a person",
-            ru:"описать человека"
-            },
-            {
-            id:42,
-            eng:"to die of laughter / лАфтэ /",
-            ru:"умереть от смеха"
-            },
-            {
-            id:43,
-            eng:"to die of boredom",
-            ru:"умереть от скуки"
-            },
-            {
-            id:44,
-            eng:"to drop something",
-            ru:"уронить что-то"
-            },
-            {
-            id:45,
-            eng:"to drop a cake on the floor",
-            ru:"уронить торт на пол"
-            },
-            {
-            id:46,
-            eng:"to drop a pen",
-            ru:"уронить ручку"
-            },
-            {
-            id:47,
-            eng:"to drop a phone",
-            ru:"уронить телефон"
-            },
-            {
-            id:48,
-            eng:"to end a presentation",
-            ru:"завершить презентацию"
-            },
-            {
-            id:49,
-            eng:"to end a game",
-            ru:"закончить игру"
-            },
-            {
-            id:50,
-            eng:"to end a fight",
-            ru:"закончить драку"
-            },
-            {
-            id:51,
-            eng:"to enter a house",
-            ru:"войти в дом"
-            },
-            {
-            id:52,
-            eng:"to enter a building",
-            ru:"войти в здание"
-            },
-            {
-            id:53,
-            eng:"to enter a game",
-            ru:"присоединиться к игре"
-            },
-            {
-            id:54,
-            eng:"to enter an airport",
-            ru:"войти в аэропорт"
-            },
-            {
-            id:55,
-            eng:"to enter somewhere",
-            ru:"войти куда-то"
-            },
-            {
-            id:56,
-            eng:"to explain something",
-            ru:"объяснить что-то"
-            },
-            {
-            id:57,
-            eng:"to explain grammar to me",
-            ru:"объяснить мне грамматику"
-            },
-            {
-            id:58,
-            eng:"to explain the problem",
-            ru:"объяснить проблему"
-            },
-            {
-            id:59,
-            eng:"to explain the situation",
-            ru:"объяснить ситуацию"
-            },
-            {
-            id:60,
-            eng:"to fail a game",
-            ru:"провалить игру"
-            },
-            {
-            id:61,
-            eng:"to fail the project",
-            ru:"провалить проект"
-            },
-            {
-            id:62,
-            eng:"to fail the task",
-            ru:"провалить задание"
-            },
-            {
-            id:63,
-            eng:"to fail the mission",
-            ru:"провалить миссию"
-            },
-            {
-            id:64,
-            eng:"to fill the documents",
-            ru:"заполнить документы"
-            },
-            {
-            id:65,
-            eng:"to follow me home",
-            ru:"следовать за мной домой"
-            },
-            {
-            id:66,
-            eng:"to follow our teacher",
-            ru:"следовать за нашим учителем"
-            },
-            {
-            id:67,
-            eng:"to follow the foot steps",
-            ru:"следовать по шагам"
-            },
-            {
-            id:68,
-            eng:"to follow the heart / хАрт /",
-            ru:"следовать сердцу"
-            },
-            {
-            id:69,
-            eng:"to help somebody",
-            ru:"помочь кому-то"
-            },
-            {
-            id:70,
-            eng:"to help everyone",
-            ru:"помочь всем"
-            },
-            {
-            id:71,
-            eng:"to join the game",
-            ru:"присоединиться к игре"
-            },
-            {
-            id:72,
-            eng:"to join the lesson",
-            ru:"присоединиться к уроку"
-            },
-            {
-            id:73,
-            eng:"to join the competition",
-            ru:"присоединиться к соревнованию"
-            },
-            {
-            id:74,
-            eng:"to join the contest",
-            ru:"присоединиться к конкурсу"
-            },
-            {
-            id:75,
-            eng:"to kill time",
-            ru:"убить время"
-            },
-            {
-            id:76,
-            eng:"to kill enemies / Энемиз /",
-            ru:"убить врагов"
-            },
-            {
-            id:77,
-            eng:"to kill mosquitos",
-            ru:"убить комаров"
-            },
-            {
-            id:78,
-            eng:"to kill a cocroach / кОкроуч /",
-            ru:"убить таракана"
-            },
-            {
-            id:79,
-            eng:"to kill somebody",
-            ru:"убить кого-то"
-            },
-            {
-            id:80,
-            eng:"to kill mood / муд /",
-            ru:"убить настроение"
-            },
-            {
-            id:81,
-            eng:"to listen to music",
-            ru:"слушать музыку"
-            },
-            {
-            id:82,
-            eng:"to listen to the radio",
-            ru:"слушать радио"
-            },
-            {
-            id:83,
-            eng:"to listen to a podcast",
-            ru:"слушать подкаст"
-            },
-            {
-            id:84,
-            eng:"to listen to a teacher",
-            ru:"слушать учителя"
-            },
-            {
-            id:85,
-            eng:"to listen to a song",
-            ru:"слушать песню"
-            },
-            {
-            id:86,
-            eng:"to listen to the rain",
-            ru:"слушать дождь"
-            },
-            {
-            id:87,
-            eng:"to move fast",
-            ru:"двигаться быстро"
-            },
-            {
-            id:88,
-            eng:"to open eyes",
-            ru:"открыть глаза"
-            },
-            {
-            id:89,
-            eng:"to open a business",
-            ru:"открыть бизнес"
-            },
-            {
-            id:90,
-            eng:"to open a bottle of alcohol",
-            ru:"открыть бутылку алкоголя"
-            },
-            {
-            id:91,
-            eng:"to open a bottle of something",
-            ru:"открыть бутылку чего"
-            },
-            {
-            id:92,
-            eng:"to open a door",
-            ru:"открыть дверь"
-            },
-            {
-            id:93,
-            eng:"to open a window",
-            ru:"открыть окно"
-            },
-            {
-            id:94,
-            eng:"to open a box of chocolate candies",
-            ru:"открыть коробку шоколадных конфет"
-            },
-            {
-            id:95,
-            eng:"to pass the exams",
-            ru:"сдать экзамены"
-            },
-            {
-            id:96,
-            eng:"to pass the test",
-            ru:"пройти тест"
-            },
-            {
-            id:97,
-            eng:"to pick flowers",
-            ru:"собирать цветы"
-            },
-            {
-            id:98,
-            eng:"to pick up girls in a bar",
-            ru:"знакомиться с девушками в баре"
-            },
-            {
-            id:99,
-            eng:"to plan a day",
-            ru:"спланировать день"
-            },
-            {
-            id:100,
-            eng:"to plan a week",
-            ru:"спланировать неделю"
-            },
-            {
-            id:101,
-            eng:"to plan how to rob the bank",
-            ru:"спланировать, как ограбить банк"
-            },
-            {
-            id:102,
-            eng:"to play the guitar",
-            ru:"играть на гитаре"
-            },
-            {
-            id:103,
-            eng:"to play the violin / вАйолин /",
-            ru:"играть на скрипке"
-            },
-            {
-            id:104,
-            eng:"to play the piano",
-            ru:"играть на пианино"
-            },
-            {
-            id:105,
-            eng:"to play video games",
-            ru:"играть в видеоигры"
-            },
-            {
-            id:106,
-            eng:"to play basketball",
-            ru:"играть в баскетбол"
-            },
-            {
-            id:107,
-            eng:"to play volleyball",
-            ru:"играть в волейбол"
-            },
-            {
-            id:108,
-            eng:"to play with children",
-            ru:"играть с детьми"
-            },
-            {
-            id:109,
-            eng:"to play hide and seek",
-            ru:"играть в прятки"
-            },
-            {
-            id:110,
-            eng:"to play Poker",
-            ru:"играть в покер"
-            },
-            {
-            id:111,
-            eng:"to play cards",
-            ru:"играть в карты"
-            },
-            {
-            id:112,
-            eng:"to pull the door",
-            ru:"тянуть дверь"
-            },
-            {
-            id:113,
-            eng:"to push the door",
-            ru:"толкать дверь"
-            },
-            {
-            id:114,
-            eng:"to save money",
-            ru:"экономить деньги, копить деньги"
-            },
-            {
-            id:115,
-            eng:"to save ime",
-            ru:"экономить время"
-            },
-            {
-            id:116,
-            eng:"to save animals",
-            ru:"спасать животных"
-            },
-            {
-            id:117,
-            eng:"to share information",
-            ru:"делиться информацией"
-            },
-            {
-            id:118,
-            eng:"to share interesting posts",
-            ru:"делиться интересными публикациями"
-            },
-            {
-            id:119,
-            eng:"to share cool ideas /  айдИаз /",
-            ru:"делиться крутыми идеями"
-            },
-            {
-            id:120,
-            eng:"to start a new hobby",
-            ru:"начать новое хобби"
-            },
-            {
-            id:121,
-            eng:"to start a fight",
-            ru:"начать драку"
-            },
-            {
-            id:122,
-            eng:"to start a game",
-            ru:"начать игру"
-            },
-            {
-            id:123,
-            eng:"to start a new job",
-            ru:"начать новую работу"
-            },
-            {
-            id:124,
-            eng:"to stop smoking",
-            ru:"бросить курить"
-            },
-            {
-            id:125,
-            eng:"to stop drinking",
-            ru:"перестать пить"
-            },
-            {
-            id:126,
-            eng:"to stop crying",
-            ru:"перестать плакать"
-            },
-            {
-            id:127,
-            eng:"to smoke cigars",
-            ru:"курить сигары"
-            },
-            {
-            id:128,
-            eng:"to smoke a hookah / хУка /",
-            ru:"курить кальян"
-            },
-            {
-            id:129,
-            eng:"to vape",
-            ru:"парить, вэйпить"
-            },
-            {
-            id:130,
-            eng:"to smile",
-            ru:"улыбаться"
-            },
-            {
-            id:131,
-            eng:"to talk to a teacher",
-            ru:"разговаривать с учителем"
-            },
-            {
-            id:132,
-            eng:"to talk to Vincent",
-            ru:"разговаривать с Винсентом"
-            },
-            {
-            id:133,
-            eng:"to talk about life",
-            ru:"говорить о жизни"
-            },
-            {
-            id:134,
-            eng:"to talk about the past",
-            ru:"говорить о прошлом"
-            },
-            {
-            id:135,
-            eng:"to talk about the Future plans",
-            ru:"говорить о планах на будущее"
-            },
-            {
-            id:136,
-            eng:"to try new things",
-            ru:"пробовать новые вещи"
-            },
-            {
-            id:137,
-            eng:"to try a new hobby",
-            ru:"попробовать новое хобби"
-            },
-            {
-            id:138,
-            eng:"to try new clothes",
-            ru:"примерять новую одежду"
-            },
-            {
-            id:139,
-            eng:"to turn around",
-            ru:"повернуться"
-            },
-            {
-            id:140,
-            eng:"to turn car back",
-            ru:"развернуть машину"
-            },
-            {
-            id:141,
-            eng:"to wait for something",
-            ru:"ждать чего-то"
-            },
-            {
-            id:142,
-            eng:"to wait for me",
-            ru:"ждать меня"
-            },
-            {
-            id:143,
-            eng:"to wait for you",
-            ru:"ждать тебя"
-            },
-            {
-            id:144,
-            eng:"to wait for somebody",
-            ru:"ждать кого-то"
-            },
-            {
-            id:145,
-            eng:"to wait for a taxi",
-            ru:"ждать такси"
-            },
-            {
-            id:146,
-            eng:"to wait for a prince on a white horse",
-            ru:"ждать принца на белом коне"
-            },
-            {
-            id:147,
-            eng:"to walk with a pet",
-            ru:"гулять с домашним животным"
-            },
-            {
-            id:148,
-            eng:"to walk in a park",
-            ru:"гулять в парке"
-            },
-            {
-            id:149,
-            eng:"to walk alone",
-            ru:"гулять в одиночестве"
-            },
-            {
-            id:150,
-            eng:"to watch TV-series",
-            ru:"смотреть сериалы"
-            },
-            {
-            id:151,
-            eng:"to watch a movie",
-            ru:"смотреть фильм"
-            },
-            {
-            id:152,
-            eng:"to watch Instagram",
-            ru:"смотреть Instagram"
-            },
-            {
-            id:153,
-            eng:"to watch Tik-Toks",
-            ru:"смотреть Тик-Ток"
-            },
-            {
-            id:154,
-            eng:"to watch the news",
-            ru:"смотреть новости"
-            },
-            {
-            id:155,
-            eng:"to work a lot",
-            ru:"много работать"
-            },
-            {
-            id:156,
-            eng:"to dream about English",
-            ru:"мечтать о английском"
-            },
-            {
-            id:157,
-            eng:"to cook food",
-            ru:"готовить еду"
-            },
-            {
-            id:158,
-            eng:"to cook breakfast",
-            ru:"готовить завтрак"
-            },
-            {
-            id:159,
-            eng:"to cook lunch",
-            ru:"готовить обед"
-            },
-            {
-            id:160,
-            eng:"to cook dinner",
-            ru:"готовить ужин"
-            },
-            {
-            id:161,
-            eng:"to brush teeth",
-            ru:"начищать зубы"
-            },
-            {
-            id:162,
-            eng:"to clean teeth",
-            ru:"чистить зубы"
-            },
-            {
-            id:163,
-            eng:"to clean the house",
-            ru:"убирать дом"
-            },
-            {
-            id:164,
-            eng:"to clean the toilet",
-            ru:"чистить унитаз"
-            },
-            {
-            id:165,
-            eng:"to clean the kitchen",
-            ru:"убирать кухню"
-            },
-            {
-            id:166,
-            eng:"to brush hair",
-            ru:"расчесывать волосы"
-            },
-            {
-            id:167,
-            eng:"to wash the floors",
-            ru:"мыть полы"
-            },
-            {
-            id:168,
-            eng:"to wash a car",
-            ru:"мыть машину"
-            },
-            {
-            id:169,
-            eng:"to wash clothes",
-            ru:"стирать одежду"
-            },
-            {
-            id:170,
-            eng:"to wash hands",
-            ru:"мыть руки"
-            },
-            {
-            id:171,
-            eng:"to cry",
-            ru:"плакать"
-            },
-            {
-            id:172,
-            eng:"to dance",
-            ru:"танцевать"
-            },
-            {
-            id:173,
-            eng:"to dance on the table",
-            ru:"танцевать на столе"
-            },
-            {
-            id:174,
-            eng:"to dance like a crazy person",
-            ru:"танцевать как сумасшедший"
-            },
-            {
-            id:175,
-            eng:"to jump with a parachute",
-            ru:"прыгать с парашютом"
-            },
-            {
-            id:176,
-            eng:"to jump on a bed",
-            ru:"прыгать на кровати"
-            },
-            {
-            id:177,
-            eng:"to jump off a bridge",
-            ru:"прыгать с моста"
-            },
-            {
-            id:178,
-            eng:"to kiss with somebody",
-            ru:"целоваться с кем-то"
-            },
-            {
-            id:179,
-            eng:"to kiss a pet",
-            ru:"целовать домашнего животного"
-            },
-            {
-            id:180,
-            eng:"to kiss everybody who is near",
-            ru:"целовать всех, кто рядом"
-            },
-            {
-            id:181,
-            eng:"to kiss somebody",
-            ru:"целовать кого-то"
-            },
-            {
-            id:182,
-            eng:"to learn a lesson",
-            ru:"учить урок"
-            },
-            {
-            id:183,
-            eng:"to learn a musical instrument",
-            ru:"обучиться музыкальному инструменту"
-            },
-            {
-            id:184,
-            eng:"to learn a new language",
-            ru:"учить новый язык"
-            },
-            {
-            id:185,
-            eng:"to learn a new skill",
-            ru:"осваивать новое умение"
-            },
-            {
-            id:186,
-            eng:"to learn something new",
-            ru:"изучать что-либо"
-            },
-            {
-            id:187,
-            eng:"to touch somebody",
-            ru:"касаться кого-то"
-            },
-            {
-            id:188,
-            eng:"to touch something hot",
-            ru:"потрогать что-то горячее"
-            },
-            {
-            id:189,
-            eng:"to destroy something",
-            ru:"разрушать что-то"
-            },
-    ],
-    randomverbB1: [
-        {
-            id:1,
-            eng:"to look at the phone",
-            ru:"смотреть на телефон"
-            },
-            {
-            id:2,
-            eng:"to look from the window",
-            ru:"смотреть из окна"
-            },
-            {
-            id:3,
-            eng:"to look at the sky / скай /",
-            ru:"смотреть на небо"
             },
             {
             id:4,
-            eng:"to work on a computer",
-            ru:"работать на компьютере"
-            },
-            {
-            id:5,
-            eng:"to work in a bank",
-            ru:"работать в банке"
-            },
-            {
-            id:6,
-            eng:"to work at school",
-            ru:"работать в школе"
-            },
-            {
-            id:7,
-            eng:"to use a computer",
-            ru:"использовать компьютер"
-            },
-            {
-            id:8,
-            eng:"to use a hammer",
-            ru:"использовать молоток"
-            },
-            {
-            id:9,
-            eng:"to use brains",
-            ru:"использовать мозги"
-            },
-            {
-            id:10,
-            eng:"to use something",
-            ru:"пользоваться чем-либо"
-            },
-            {
-            id:11,
-            eng:"to use a toilet",
-            ru:"воспользоваться туалетом"
-            },
-            {
-            id:12,
-            eng:"to add sugar into coffee",
-            ru:"добавить сахар в кофе"
-            },
-            {
-            id:13,
-            eng:"to add milk into tea",
-            ru:"добавить молоко в чай"
-            },
-            {
-            id:14,
-            eng:"to add sugar into tea",
-            ru:"добавить сахар в чай"
-            },
-            {
-            id:15,
-            eng:"to add milk into coffee",
-            ru:"добавить молоко в кофе"
-            },
-            {
-            id:16,
-            eng:"to argue with everybody",
-            ru:"спорить со всеми"
-            },
-            {
-            id:17,
-            eng:"to argue with somebody",
-            ru:"спорить с кем-то"
-            },
-            {
-            id:18,
-            eng:"to argue with Vincent",
-            ru:"спорить с Винсентом"
-            },
-            {
-            id:19,
-            eng:"to argue with someone",
-            ru:"спорить с кем-нибудь"
-            },
-            {
-            id:20,
-            eng:"to arrive late",
-            ru:"прибывать поздно"
-            },
-            {
-            id:21,
-            eng:"to arrive to an airport",
-            ru:"прибывать в аэропорт"
-            },
-            {
-            id:22,
-            eng:"to arrive to the station",
-            ru:"прибывать на станцию"
-            },
-            {
-            id:23,
-            eng:"to ask for help",
-            ru:"просить о помощи"
-            },
-            {
-            id:24,
-            eng:"to ask for advice",
-            ru:"просить совета"
-            },
-            {
-            id:25,
-            eng:"to ask for the direction / дАйрэкшнз /",
-            ru:"спросить направление"
-            },
-            {
-            id:26,
-            eng:"to ask for presents",
-            ru:"попросить подарков"
-            },
-            {
-            id:27,
-            eng:"to call the police",
-            ru:"вызвать полицию"
-            },
-            {
-            id:28,
-            eng:"to call Vincent at night",
-            ru:"позвонить Винсенту ночью"
-            },
-            {
-            id:29,
-            eng:"to call the ambulance / Эмбьюлэнс /",
-            ru:"вызвать скорую"
-            },
-            {
-            id:30,
-            eng:"to call for help",
-            ru:"позвать на помощь"
-            },
-            {
-            id:31,
-            eng:"to change lifestyle",
-            ru:"изменить образ жизни"
-            },
-            {
-            id:32,
-            eng:"to change clothes",
-            ru:"переодеться"
-            },
-            {
-            id:33,
-            eng:"to close a window",
-            ru:"закрыть окно"
-            },
-            {
-            id:34,
-            eng:"to close a door",
-            ru:"закрыть дверь"
-            },
-            {
-            id:35,
-            eng:"to close doors",
-            ru:"закрыть двери"
-            },
-            {
-            id:36,
-            eng:"to close eyes",
-            ru:"закрыть глаза"
-            },
-            {
-            id:37,
-            eng:"to close business",
-            ru:"закрыть бизнес"
-            },
-            {
-            id:38,
-            eng:"to create new things",
-            ru:"создавать новые вещи"
-            },
-            {
-            id:39,
-            eng:"to create something",
-            ru:"создать что-либо"
-            },
-            {
-            id:40,
-            eng:"to describe the situation",
-            ru:"описать ситуацию"
-            },
-            {
-            id:41,
-            eng:"to describe a person",
-            ru:"описать человека"
-            },
-            {
-            id:42,
-            eng:"to die of laughter / лАфтэ /",
-            ru:"умереть от смеха"
-            },
-            {
-            id:43,
-            eng:"to die of boredom",
-            ru:"умереть от скуки"
-            },
-            {
-            id:44,
-            eng:"to drop something",
-            ru:"уронить что-то"
-            },
-            {
-            id:45,
-            eng:"to drop a cake on the floor",
-            ru:"уронить торт на пол"
-            },
-            {
-            id:46,
-            eng:"to drop a pen",
-            ru:"уронить ручку"
-            },
-            {
-            id:47,
-            eng:"to drop a phone",
-            ru:"уронить телефон"
-            },
-            {
-            id:48,
-            eng:"to end a presentation",
-            ru:"завершить презентацию"
-            },
-            {
-            id:49,
-            eng:"to end a game",
-            ru:"закончить игру"
-            },
-            {
-            id:50,
-            eng:"to end a fight",
-            ru:"закончить драку"
-            },
-            {
-            id:51,
-            eng:"to enter a house",
-            ru:"войти в дом"
-            },
-            {
-            id:52,
-            eng:"to enter a building",
-            ru:"войти в здание"
-            },
-            {
-            id:53,
-            eng:"to enter a game",
-            ru:"присоединиться к игре"
-            },
-            {
-            id:54,
-            eng:"to enter an airport",
-            ru:"войти в аэропорт"
-            },
-            {
-            id:55,
-            eng:"to enter somewhere",
-            ru:"войти куда-то"
-            },
-            {
-            id:56,
-            eng:"to explain something",
-            ru:"объяснить что-то"
-            },
-            {
-            id:57,
-            eng:"to explain grammar to me",
-            ru:"объяснить мне грамматику"
-            },
-            {
-            id:58,
-            eng:"to explain the problem",
-            ru:"объяснить проблему"
-            },
-            {
-            id:59,
-            eng:"to explain the situation",
-            ru:"объяснить ситуацию"
-            },
-            {
-            id:60,
-            eng:"to fail a game",
-            ru:"провалить игру"
-            },
-            {
-            id:61,
-            eng:"to fail the project",
-            ru:"провалить проект"
-            },
-            {
-            id:62,
-            eng:"to fail the task",
-            ru:"провалить задание"
-            },
-            {
-            id:63,
-            eng:"to fail the mission",
-            ru:"провалить миссию"
-            },
-            {
-            id:64,
-            eng:"to fill the documents",
-            ru:"заполнить документы"
-            },
-            {
-            id:65,
-            eng:"to follow me home",
-            ru:"следовать за мной домой"
-            },
-            {
-            id:66,
-            eng:"to follow our teacher",
-            ru:"следовать за нашим учителем"
-            },
-            {
-            id:67,
-            eng:"to follow the foot steps",
-            ru:"следовать по шагам"
-            },
-            {
-            id:68,
-            eng:"to follow the heart / хАрт /",
-            ru:"следовать сердцу"
-            },
-            {
-            id:69,
-            eng:"to help somebody",
-            ru:"помочь кому-то"
-            },
-            {
-            id:70,
-            eng:"to help everyone",
-            ru:"помочь всем"
-            },
-            {
-            id:71,
-            eng:"to join the game",
-            ru:"присоединиться к игре"
-            },
-            {
-            id:72,
-            eng:"to join the lesson",
-            ru:"присоединиться к уроку"
-            },
-            {
-            id:73,
-            eng:"to join the competition",
-            ru:"присоединиться к соревнованию"
-            },
-            {
-            id:74,
-            eng:"to join the contest",
-            ru:"присоединиться к конкурсу"
-            },
-            {
-            id:75,
-            eng:"to kill time",
-            ru:"убить время"
-            },
-            {
-            id:76,
-            eng:"to kill enemies / Энемиз /",
-            ru:"убить врагов"
-            },
-            {
-            id:77,
-            eng:"to kill mosquitos",
-            ru:"убить комаров"
-            },
-            {
-            id:78,
-            eng:"to kill a cocroach / кОкроуч /",
-            ru:"убить таракана"
-            },
-            {
-            id:79,
-            eng:"to kill somebody",
-            ru:"убить кого-то"
-            },
-            {
-            id:80,
-            eng:"to kill mood / муд /",
-            ru:"убить настроение"
-            },
-            {
-            id:81,
-            eng:"to listen to music",
-            ru:"слушать музыку"
-            },
-            {
-            id:82,
-            eng:"to listen to the radio",
-            ru:"слушать радио"
-            },
-            {
-            id:83,
-            eng:"to listen to a podcast",
-            ru:"слушать подкаст"
-            },
-            {
-            id:84,
-            eng:"to listen to a teacher",
-            ru:"слушать учителя"
-            },
-            {
-            id:85,
-            eng:"to listen to a song",
-            ru:"слушать песню"
-            },
-            {
-            id:86,
-            eng:"to listen to the rain",
-            ru:"слушать дождь"
-            },
-            {
-            id:87,
-            eng:"to move fast",
-            ru:"двигаться быстро"
-            },
-            {
-            id:88,
-            eng:"to open eyes",
-            ru:"открыть глаза"
-            },
-            {
-            id:89,
-            eng:"to open a business",
-            ru:"открыть бизнес"
-            },
-            {
-            id:90,
-            eng:"to open a bottle of alcohol",
-            ru:"открыть бутылку алкоголя"
-            },
-            {
-            id:91,
-            eng:"to open a bottle of something",
-            ru:"открыть бутылку чего"
-            },
-            {
-            id:92,
-            eng:"to open a door",
-            ru:"открыть дверь"
-            },
-            {
-            id:93,
-            eng:"to open a window",
-            ru:"открыть окно"
-            },
-            {
-            id:94,
-            eng:"to open a box of chocolate candies",
-            ru:"открыть коробку шоколадных конфет"
-            },
-            {
-            id:95,
-            eng:"to pass the exams",
-            ru:"сдать экзамены"
-            },
-            {
-            id:96,
-            eng:"to pass the test",
-            ru:"пройти тест"
-            },
-            {
-            id:97,
-            eng:"to pick flowers",
-            ru:"собирать цветы"
-            },
-            {
-            id:98,
-            eng:"to pick up girls in a bar",
-            ru:"знакомиться с девушками в баре"
-            },
-            {
-            id:99,
-            eng:"to plan a day",
-            ru:"спланировать день"
-            },
-            {
-            id:100,
-            eng:"to plan a week",
-            ru:"спланировать неделю"
-            },
-            {
-            id:101,
-            eng:"to plan how to rob the bank",
-            ru:"спланировать, как ограбить банк"
-            },
-            {
-            id:102,
-            eng:"to play the guitar",
-            ru:"играть на гитаре"
-            },
-            {
-            id:103,
-            eng:"to play the violin / вАйолин /",
-            ru:"играть на скрипке"
-            },
-            {
-            id:104,
-            eng:"to play the piano",
-            ru:"играть на пианино"
-            },
-            {
-            id:105,
-            eng:"to play video games",
-            ru:"играть в видеоигры"
-            },
-            {
-            id:106,
-            eng:"to play basketball",
-            ru:"играть в баскетбол"
-            },
-            {
-            id:107,
-            eng:"to play volleyball",
-            ru:"играть в волейбол"
-            },
-            {
-            id:108,
-            eng:"to play with children",
-            ru:"играть с детьми"
-            },
-            {
-            id:109,
-            eng:"to play hide and seek",
-            ru:"играть в прятки"
-            },
-            {
-            id:110,
-            eng:"to play Poker",
-            ru:"играть в покер"
-            },
-            {
-            id:111,
-            eng:"to play cards",
-            ru:"играть в карты"
-            },
-            {
-            id:112,
-            eng:"to pull the door",
-            ru:"тянуть дверь"
-            },
-            {
-            id:113,
-            eng:"to push the door",
-            ru:"толкать дверь"
-            },
-            {
-            id:114,
-            eng:"to save money",
-            ru:"экономить деньги, копить деньги"
-            },
-            {
-            id:115,
-            eng:"to save ime",
-            ru:"экономить время"
-            },
-            {
-            id:116,
-            eng:"to save animals",
-            ru:"спасать животных"
-            },
-            {
-            id:117,
-            eng:"to share information",
-            ru:"делиться информацией"
-            },
-            {
-            id:118,
-            eng:"to share interesting posts",
-            ru:"делиться интересными публикациями"
-            },
-            {
-            id:119,
-            eng:"to share cool ideas /  айдИаз /",
-            ru:"делиться крутыми идеями"
-            },
-            {
-            id:120,
-            eng:"to start a new hobby",
-            ru:"начать новое хобби"
-            },
-            {
-            id:121,
-            eng:"to start a fight",
-            ru:"начать драку"
-            },
-            {
-            id:122,
-            eng:"to start a game",
-            ru:"начать игру"
-            },
-            {
-            id:123,
-            eng:"to start a new job",
-            ru:"начать новую работу"
-            },
-            {
-            id:124,
-            eng:"to stop smoking",
-            ru:"бросить курить"
-            },
-            {
-            id:125,
-            eng:"to stop drinking",
-            ru:"перестать пить"
-            },
-            {
-            id:126,
-            eng:"to stop crying",
-            ru:"перестать плакать"
-            },
-            {
-            id:127,
-            eng:"to smoke cigars",
-            ru:"курить сигары"
-            },
-            {
-            id:128,
-            eng:"to smoke a hookah / хУка /",
-            ru:"курить кальян"
-            },
-            {
-            id:129,
-            eng:"to vape",
-            ru:"парить, вэйпить"
-            },
-            {
-            id:130,
-            eng:"to smile",
-            ru:"улыбаться"
-            },
-            {
-            id:131,
-            eng:"to talk to a teacher",
-            ru:"разговаривать с учителем"
-            },
-            {
-            id:132,
-            eng:"to talk to Vincent",
-            ru:"разговаривать с Винсентом"
-            },
-            {
-            id:133,
-            eng:"to talk about life",
-            ru:"говорить о жизни"
-            },
-            {
-            id:134,
-            eng:"to talk about the past",
-            ru:"говорить о прошлом"
-            },
-            {
-            id:135,
-            eng:"to talk about the Future plans",
-            ru:"говорить о планах на будущее"
-            },
-            {
-            id:136,
-            eng:"to try new things",
-            ru:"пробовать новые вещи"
-            },
-            {
-            id:137,
-            eng:"to try a new hobby",
-            ru:"попробовать новое хобби"
-            },
-            {
-            id:138,
-            eng:"to try new clothes",
-            ru:"примерять новую одежду"
-            },
-            {
-            id:139,
-            eng:"to turn around",
-            ru:"повернуться"
-            },
-            {
-            id:140,
-            eng:"to turn car back",
-            ru:"развернуть машину"
-            },
-            {
-            id:141,
-            eng:"to wait for something",
-            ru:"ждать чего-то"
-            },
-            {
-            id:142,
-            eng:"to wait for me",
-            ru:"ждать меня"
-            },
-            {
-            id:143,
-            eng:"to wait for you",
-            ru:"ждать тебя"
-            },
-            {
-            id:144,
-            eng:"to wait for somebody",
-            ru:"ждать кого-то"
-            },
-            {
-            id:145,
-            eng:"to wait for a taxi",
-            ru:"ждать такси"
-            },
-            {
-            id:146,
-            eng:"to wait for a prince on a white horse",
-            ru:"ждать принца на белом коне"
-            },
-            {
-            id:147,
-            eng:"to walk with a pet",
-            ru:"гулять с домашним животным"
-            },
-            {
-            id:148,
-            eng:"to walk in a park",
-            ru:"гулять в парке"
-            },
-            {
-            id:149,
-            eng:"to walk alone",
-            ru:"гулять в одиночестве"
-            },
-            {
-            id:150,
-            eng:"to watch TV-series",
-            ru:"смотреть сериалы"
-            },
-            {
-            id:151,
-            eng:"to watch a movie",
-            ru:"смотреть фильм"
-            },
-            {
-            id:152,
-            eng:"to watch Instagram",
-            ru:"смотреть Instagram"
-            },
-            {
-            id:153,
-            eng:"to watch Tik-Toks",
-            ru:"смотреть Тик-Ток"
-            },
-            {
-            id:154,
-            eng:"to watch the news",
-            ru:"смотреть новости"
-            },
-            {
-            id:155,
-            eng:"to work a lot",
-            ru:"много работать"
-            },
-            {
-            id:156,
-            eng:"to dream about English",
-            ru:"мечтать о английском"
-            },
-            {
-            id:157,
-            eng:"to cook food",
-            ru:"готовить еду"
-            },
-            {
-            id:158,
-            eng:"to cook breakfast",
-            ru:"готовить завтрак"
-            },
-            {
-            id:159,
-            eng:"to cook lunch",
-            ru:"готовить обед"
-            },
-            {
-            id:160,
-            eng:"to cook dinner",
-            ru:"готовить ужин"
-            },
-            {
-            id:161,
-            eng:"to brush teeth",
-            ru:"начищать зубы"
-            },
-            {
-            id:162,
-            eng:"to clean teeth",
-            ru:"чистить зубы"
-            },
-            {
-            id:163,
-            eng:"to clean the house",
-            ru:"убирать дом"
-            },
-            {
-            id:164,
-            eng:"to clean the toilet",
-            ru:"чистить унитаз"
-            },
-            {
-            id:165,
-            eng:"to clean the kitchen",
-            ru:"убирать кухню"
-            },
-            {
-            id:166,
-            eng:"to brush hair",
-            ru:"расчесывать волосы"
-            },
-            {
-            id:167,
-            eng:"to wash the floors",
-            ru:"мыть полы"
-            },
-            {
-            id:168,
-            eng:"to wash a car",
-            ru:"мыть машину"
-            },
-            {
-            id:169,
-            eng:"to wash clothes",
-            ru:"стирать одежду"
-            },
-            {
-            id:170,
-            eng:"to wash hands",
-            ru:"мыть руки"
-            },
-            {
-            id:171,
-            eng:"to cry",
-            ru:"плакать"
-            },
-            {
-            id:172,
-            eng:"to dance",
-            ru:"танцевать"
-            },
-            {
-            id:173,
-            eng:"to dance on the table",
-            ru:"танцевать на столе"
-            },
-            {
-            id:174,
-            eng:"to dance like a crazy person",
-            ru:"танцевать как сумасшедший"
-            },
-            {
-            id:175,
-            eng:"to jump with a parachute",
-            ru:"прыгать с парашютом"
-            },
-            {
-            id:176,
-            eng:"to jump on a bed",
-            ru:"прыгать на кровати"
-            },
-            {
-            id:177,
-            eng:"to jump off a bridge",
-            ru:"прыгать с моста"
-            },
-            {
-            id:178,
-            eng:"to kiss with somebody",
-            ru:"целоваться с кем-то"
-            },
-            {
-            id:179,
-            eng:"to kiss a pet",
-            ru:"целовать домашнего животного"
-            },
-            {
-            id:180,
-            eng:"to kiss everybody who is near",
-            ru:"целовать всех, кто рядом"
-            },
-            {
-            id:181,
-            eng:"to kiss somebody",
-            ru:"целовать кого-то"
-            },
-            {
-            id:182,
-            eng:"to learn a lesson",
-            ru:"учить урок"
-            },
-            {
-            id:183,
-            eng:"to learn a musical instrument",
-            ru:"обучиться музыкальному инструменту"
-            },
-            {
-            id:184,
-            eng:"to learn a new language",
-            ru:"учить новый язык"
-            },
-            {
-            id:185,
-            eng:"to learn a new skill",
-            ru:"осваивать новое умение"
-            },
-            {
-            id:186,
-            eng:"to learn something new",
-            ru:"изучать что-либо"
-            },
-            {
-            id:187,
-            eng:"to touch somebody",
-            ru:"касаться кого-то"
-            },
-            {
-            id:188,
-            eng:"to touch something hot",
-            ru:"потрогать что-то горячее"
-            },
-            {
-            id:189,
-            eng:"to destroy something",
-            ru:"разрушать что-то"
-            },
-            {
-            id:190,
-            eng:"to annoy somebody / энной /",
+            eng:"to annoy somebody",
             ru:"бесить кого-то"
             },
             {
-            id:191,
-            eng:"to beat somebody",
-            ru:"побить кого-то"
+            id:5,
+            eng:"to argue with everybody / Агью /",
+            ru:"спорить со всеми"
             },
             {
-            id:192,
-            eng:"to beat somebody with a stick",
-            ru:"избить кого-то палкой"
+            id:6,
+            eng:"to argue with somebody / Агью /",
+            ru:"спорить с кем-то"
             },
             {
-            id:193,
-            eng:"to beat Vincent in a game of chess",
-            ru:"победить Винсента в партии шахмат"
+            id:7,
+            eng:"to argue with someone / Агью /",
+            ru:"спорить с кем-нибудь"
             },
             {
-            id:194,
-            eng:"to begin a new chapter of life",
-            ru:"начать новую главу жизни"
+            id:8,
+            eng:"to argue with Vincent / Агью /",
+            ru:"спорить с Винсетом"
             },
             {
-            id:195,
-            eng:"to begin a new project",
-            ru:"начать новый проект"
+            id:9,
+            eng:"to arrive late",
+            ru:"прибывать поздно"
             },
             {
-            id:196,
-            eng:"to begin a serious conversation",
-            ru:"начать серьезный разговор"
+            id:10,
+            eng:"to arrive to an airport",
+            ru:"прибывать в аэропорт"
             },
             {
-            id:197,
-            eng:"to bite a cake",
-            ru:"откусить кусок торта"
+            id:11,
+            eng:"to arrive to the station",
+            ru:"прибывать на станцию"
             },
             {
-            id:198,
-            eng:"to bite an apple",
-            ru:"укусить яблоко"
+            id:12,
+            eng:"to ask for a lighter / лАйтэ /",
+            ru:"попросить зажигалку"
             },
             {
-            id:199,
-            eng:"to bite nails / байт нЭилз /",
-            ru:"грызть, кусать ногти"
+            id:13,
+            eng:"to ask for advice",
+            ru:"просить совета"
             },
             {
-            id:200,
-            eng:"to blow a whistle",
-            ru:"свистеть в свисток"
+            id:14,
+            eng:"to ask for directions / дайрЭкшнз /",
+            ru:"спросить направление"
             },
             {
-            id:201,
-            eng:"to blow out candles",
-            ru:"задуть свечи"
+            id:15,
+            eng:"to ask for help",
+            ru:"попросить помощи"
             },
             {
-            id:202,
-            eng:"to borrow a book from a library",
-            ru:"одолжить книгу из библиотеки"
+            id:16,
+            eng:"to ask for presents",
+            ru:"попросить подарков"
             },
             {
-            id:203,
-            eng:"to borrow money",
-            ru:"одолжить деньги"
+            id:17,
+            eng:"to brush hair",
+            ru:"расчесывать волосы"
             },
             {
-            id:204,
-            eng:"to borrow money from friends",
-            ru:"одолжить деньги у друзей"
+            id:18,
+            eng:"to brush teeth",
+            ru:"начистить зубы"
             },
             {
-            id:205,
-            eng:"to borrow someone's car",
-            ru:"одолжить чужую машину"
+            id:19,
+            eng:"to call for help",
+            ru:"позвать на помощь"
             },
             {
-            id:206,
-            eng:"to break a bone",
-            ru:"сломать кость"
+            id:20,
+            eng:"to call the ambulance / Эмбьюлэнс /",
+            ru:"позвонить в скорую"
             },
             {
-            id:207,
-            eng:"to break a phone screen",
-            ru:"сломать экран телефона"
+            id:21,
+            eng:"to call the police /полИс/",
+            ru:"вызвать полицию"
             },
             {
-            id:208,
-            eng:"to break a promise",
-            ru:"нарушить обещание"
+            id:22,
+            eng:"to call Vincent at night",
+            ru:"позвонить Винсенту ночью"
             },
             {
-            id:209,
-            eng:"to break a record",
-            ru:"побить рекорд"
+            id:23,
+            eng:"to change clothes",
+            ru:"переодеться"
             },
             {
-            id:210,
-            eng:"to break some rules",
-            ru:"нарушить несколько правил"
+            id:24,
+            eng:"to change lifestyle",
+            ru:"изменить образ жизни"
             },
             {
-            id:211,
-            eng:"to break something",
-            ru:"сломать что-то"
+            id:25,
+            eng:"to change oil in a car",
+            ru:"поменять масло в машине"
             },
             {
-            id:212,
-            eng:"to bring a chocolate cake to a party",
-            ru:"принести шоколадный торт на вечеринку"
-            },
-            {
-            id:213,
-            eng:"to bring a sandwich to Vincent",
-            ru:"принести сэндвич Винсенту"
-            },
-            {
-            id:214,
-            eng:"to bring the children to school",
-            ru:"привести детей в школу"
-            },
-            {
-            id:215,
-            eng:"to build a house",
-            ru:"построить дом"
-            },
-            {
-            id:216,
-            eng:"to build a strong body",
-            ru:"построить крепкое тело"
-            },
-            {
-            id:217,
-            eng:"to build nice relationships",
-            ru:"установить хорошие отношения"
-            },
-            {
-            id:218,
-            eng:"to burn a candle",
-            ru:"поджечь свечу"
-            },
-            {
-            id:219,
-            eng:"to burn bridges",
-            ru:"сжечь мосты"
-            },
-            {
-            id:220,
-            eng:"to burn calories",
-            ru:"сжечь калории"
-            },
-            {
-            id:221,
-            eng:"to buy a gift",
-            ru:"купить подарок"
-            },
-            {
-            id:222,
-            eng:"to buy a ticket to my dream place",
-            ru:"купить билет в мое мечтаемое место"
-            },
-            {
-            id:223,
-            eng:"to buy some food",
-            ru:"купить немного еды"
-            },
-            {
-            id:224,
-            eng:"to buy something",
-            ru:"купить что-то"
-            },
-            {
-            id:225,
-            eng:"to buy tasty food",
-            ru:"купить вкусной еды"
-            },
-            {
-            id:226,
-            eng:"to call a friend",
-            ru:"позвонить другу"
-            },
-            {
-            id:227,
-            eng:"to call family",
-            ru:"позвонить семье"
-            },
-            {
-            id:228,
-            eng:"to call somebody",
-            ru:"позвонить кому-то"
-            },
-            {
-            id:229,
-            eng:"to call someone important",
-            ru:"позвонить кому-то важному"
-            },
-            {
-            id:230,
-            eng:"to catch a ball",
-            ru:"поймать мяч"
-            },
-            {
-            id:231,
-            eng:"to catch a taxi",
-            ru:"поймать такси"
-            },
-            {
-            id:232,
-            eng:"to catch a train to another city",
-            ru:"сесть на поезд в другой город"
-            },
-            {
-            id:233,
-            eng:"to check e-mails",
-            ru:"проверять электронную почту"
-            },
-            {
-            id:234,
-            eng:"to check what is happening in the world",
-            ru:"порверить, что творится в мире"
-            },
-            {
-            id:235,
-            eng:"to choose a new car",
-            ru:"выбрать новую машину"
-            },
-            {
-            id:236,
-            eng:"to choose a new career",
-            ru:"выбрать новую карьеру"
-            },
-            {
-            id:237,
-            eng:"to choose socks for Vincent",
-            ru:"выбрать носки для Винсента"
-            },
-            {
-            id:238,
-            eng:"to choose songs to sing",
-            ru:"выбирать песни чтобы спеть"
-            },
-            {
-            id:239,
+            id:26,
             eng:"to clap hands",
-            ru:"хлопать в ладоши"
+            ru:"хлопать"
             },
             {
-            id:240,
-            eng:"to come home",
-            ru:"прийти домой"
+            id:27,
+            eng:"to clean cars in the street",
+            ru:"чистить машину Винсента"
             },
             {
-            id:241,
-            eng:"to come to a lesson",
-            ru:"прийти на урок"
+            id:28,
+            eng:"to clean teeth",
+            ru:"чистить зубы"
             },
             {
-            id:242,
-            eng:"to cook",
-            ru:"готовить"
+            id:29,
+            eng:"to clean the house",
+            ru:"убираться дома"
             },
             {
-            id:243,
-            eng:"to cook pizza",
-            ru:"готовить пиццу"
+            id:30,
+            eng:"to clean the kitchen",
+            ru:"убираться на кухне"
             },
             {
-            id:244,
-            eng:"to cook some food",
-            ru:"приготовить немного еды"
+            id:31,
+            eng:"to clean the toilet",
+            ru:"чистить унитаз"
             },
             {
-            id:245,
-            eng:"to creep somewhere with a bottle of vodka",
-            ru:"поползти куда-то с бутылкой водки"
+            id:32,
+            eng:"to close a door",
+            ru:"закрыть дверь"
             },
             {
-            id:246,
-            eng:"to creep under the table",
-            ru:"проползти под столом"
+            id:33,
+            eng:"to close a window",
+            ru:"закрыть окно"
             },
             {
-            id:247,
-            eng:"to cry a lot",
-            ru:"много рыдать"
+            id:34,
+            eng:"to close business",
+            ru:"закрыть бизнес"
             },
             {
-            id:248,
-            eng:"to cut a cake",
-            ru:"разрезать торт"
+            id:35,
+            eng:"to close doors",
+            ru:"закрыть двери"
             },
             {
-            id:249,
-            eng:"to cut a cheesburger",
-            ru:"разрезать чизбургер"
+            id:36,
+            eng:"to close eyes",
+            ru:"закрыть глаза"
             },
             {
-            id:250,
-            eng:"to cut a finger with paper",
-            ru:"порезать палец бумагой"
+            id:37,
+            eng:"to collect antiques /энтИкс/",
+            ru:"собирать антиквариат"
             },
             {
-            id:251,
-            eng:"to dance in a karaoke club",
-            ru:"танцевать в караоке-клубе"
+            id:38,
+            eng:"to collect forks",
+            ru:"коллекционировать вилки"
             },
             {
-            id:252,
-            eng:"to dance tango",
+            id:39,
+            eng:"to collect magnets",
+            ru:"коллекционировать магниты"
+            },
+            {
+            id:40,
+            eng:"to cook breakfast",
+            ru:"приготовить завтрак"
+            },
+            {
+            id:41,
+            eng:"to cook dinner",
+            ru:"приготовить ужин"
+            },
+            {
+            id:42,
+            eng:"to cook food",
+            ru:"приготовить еду"
+            },
+            {
+            id:43,
+            eng:"to cook lunch",
+            ru:"приготовить обед"
+            },
+            {
+            id:44,
+            eng:"to cook romantic dinner",
+            ru:"готовить романтический ужин"
+            },
+            {
+            id:45,
+            eng:"to create new things",
+            ru:"создавать новые вещи"
+            },
+            {
+            id:46,
+            eng:"to create something",
+            ru:"создать что-либо"
+            },
+            {
+            id:47,
+            eng:"to cry",
+            ru:"плакать"
+            },
+            {
+            id:48,
+            eng:"to cry very much",
+            ru:"много плакать"
+            },
+            {
+            id:49,
+            eng:"to dance",
+            ru:"танцевать"
+            },
+            {
+            id:50,
+            eng:"to dance",
+            ru:"танцевать"
+            },
+            {
+            id:51,
+            eng:"to dance like a crazy person",
+            ru:"танцевать как сумасшедший"
+            },
+            {
+            id:52,
+            eng:"to dance on the table",
+            ru:"танцевать на столе"
+            },
+            {
+            id:53,
+            eng:"to dance Polka",
+            ru:"танцевать польку"
+            },
+            {
+            id:54,
+            eng:"to dance some breakdance",
+            ru:"танцевать брейкданс"
+            },
+            {
+            id:55,
+            eng:"to dance Tango",
             ru:"танцевать танго"
             },
             {
-            id:253,
-            eng:"to dance with somebody",
-            ru:"танцевать с кем-то"
+            id:56,
+            eng:"to dance under the rain",
+            ru:"танцевать под дождем"
             },
             {
-            id:254,
-            eng:"to dance with Vincent",
-            ru:"танцевать с Винсентом"
+            id:57,
+            eng:"to describe a person",
+            ru:"описать человека"
             },
             {
-            id:255,
-            eng:"to deal with drug dealers",
-            ru:"иметь дело с наркоторговцами"
+            id:58,
+            eng:"to describe the situation",
+            ru:"описать ситуацию"
             },
             {
-            id:256,
-            eng:"to deal with hooligans",
-            ru:"иметь дело с хулиганами"
+            id:59,
+            eng:"to destroy something",
+            ru:"разрушить что-либо"
             },
             {
-            id:257,
-            eng:"to deal with some problems",
-            ru:"разобраться с некоторыми проблемами"
+            id:60,
+            eng:"to die of boredom",
+            ru:"умереть от скуки"
             },
             {
-            id:258,
-            eng:"to dig a hole",
-            ru:"выкопать яму"
+            id:61,
+            eng:"to die of laughter /лАфтэ/",
+            ru:"умереть от смеха"
             },
             {
-            id:259,
-            eng:"to dig deep to find a treasure",
-            ru:"копать глубоко, чтобы найти сокровище"
-            },
-            {
-            id:260,
-            eng:"to dig for information",
-            ru:"копать для поиска информации"
-            },
-            {
-            id:261,
-            eng:"to dig out the treasure",
-            ru:"выкапывать сокровища"
-            },
-            {
-            id:262,
-            eng:"to dig potatoes",
-            ru:"копать картошку"
-            },
-            {
-            id:263,
-            eng:"to do English homework",
-            ru:"делать домашнее задание по английскому"
-            },
-            {
-            id:264,
+            id:62,
             eng:"to do homework",
-            ru:"делать домашнее задание"
+            ru:"делать домашнюю"
             },
             {
-            id:265,
-            eng:"to do silly things",
-            ru:"делать глупости"
+            id:63,
+            eng:"to do some sport",
+            ru:"заниматься спортом"
             },
             {
-            id:266,
-            eng:"to do something disgusting",
+            id:64,
+            eng:"to do something crazy",
+            ru:"сделать что-то сумасшедшее"
+            },
+            {
+            id:65,
+            eng:"to do something disgusting / дисгАстин /",
             ru:"делать что-то отвратительное"
             },
             {
-            id:267,
-            eng:"to do something stupid",
-            ru:"сделать что-то глупое"
-            },
-            {
-            id:268,
-            eng:"to do something useful",
-            ru:"сделать что-то полезное"
-            },
-            {
-            id:269,
-            eng:"to do the housework",
-            ru:"заниматься домашними делами"
-            },
-            {
-            id:270,
+            id:66,
             eng:"to do yoga",
             ru:"заниматься йогой"
             },
             {
+            id:67,
+            eng:"to dream about English",
+            ru:"мечтать об английском"
+            },
+            {
+            id:68,
+            eng:"to drop a cake on the floor",
+            ru:"уронить торт на пол"
+            },
+            {
+            id:69,
+            eng:"to drop a pen",
+            ru:"уронить ручку"
+            },
+            {
+            id:70,
+            eng:"to drop a phone",
+            ru:"уронить телефон"
+            },
+            {
+            id:71,
+            eng:"to drop something",
+            ru:"уронить что-то"
+            },
+            {
+            id:72,
+            eng:"to dry hair",
+            ru:"сушить волосы"
+            },
+            {
+            id:73,
+            eng:"to end a fight",
+            ru:"закончить драку"
+            },
+            {
+            id:74,
+            eng:"to end a game",
+            ru:"закончить игру"
+            },
+            {
+            id:75,
+            eng:"to end a presentation",
+            ru:"завершить презентацию"
+            },
+            {
+            id:76,
+            eng:"to enter a building",
+            ru:"войти в здание"
+            },
+            {
+            id:77,
+            eng:"to enter a game",
+            ru:"войти в игру"
+            },
+            {
+            id:78,
+            eng:"to enter a house",
+            ru:"войти в дом"
+            },
+            {
+            id:79,
+            eng:"to enter an airport",
+            ru:"войти в аэропорт"
+            },
+            {
+            id:80,
+            eng:"to enter somewhere",
+            ru:"войти куда-то"
+            },
+            {
+            id:81,
+            eng:"to explain grammar to me",
+            ru:"объяснить мне грамматику"
+            },
+            {
+            id:82,
+            eng:"to explain something",
+            ru:"объяснить что-то"
+            },
+            {
+            id:83,
+            eng:"to explain the problem",
+            ru:"объяснить проблему"
+            },
+            {
+            id:84,
+            eng:"to explain the situation",
+            ru:"объяснить ситуацию"
+            },
+            {
+            id:85,
+            eng:"to fail a game",
+            ru:"провалить игру"
+            },
+            {
+            id:86,
+            eng:"to fail the mission",
+            ru:"провалить миссию"
+            },
+            {
+            id:87,
+            eng:"to fail the project",
+            ru:"провалить проект"
+            },
+            {
+            id:88,
+            eng:"to fail the task",
+            ru:"провалить задание"
+            },
+            {
+            id:89,
+            eng:"to fill the documents",
+            ru:"заполнить документы"
+            },
+            {
+            id:90,
+            eng:"to follow me home",
+            ru:"следовать за мной домой"
+            },
+            {
+            id:91,
+            eng:"to follow our teacher",
+            ru:"следовать за нашим учителем"
+            },
+            {
+            id:92,
+            eng:"to follow the foot steps",
+            ru:"следовать по шагам"
+            },
+            {
+            id:93,
+            eng:"to follow the heart /хАрт/",
+            ru:"следовать сердцу"
+            },
+            {
+            id:94,
+            eng:"to help everyone",
+            ru:"помочь кому-то"
+            },
+            {
+            id:95,
+            eng:"to help somebody",
+            ru:"помочь всем"
+            },
+            {
+            id:96,
+            eng:"to join the basketball team",
+            ru:"вступить в баскетбольную команду"
+            },
+            {
+            id:97,
+            eng:"to join the competition",
+            ru:"присоединиться к соревнованию"
+            },
+            {
+            id:98,
+            eng:"to join the contest",
+            ru:"присоединиться к конкурсу"
+            },
+            {
+            id:99,
+            eng:"to join the game",
+            ru:"присоединиться к игре"
+            },
+            {
+            id:100,
+            eng:"to join the lesson",
+            ru:"присоединиться к уроку"
+            },
+            {
+            id:101,
+            eng:"to jump off a bridge /бридж/",
+            ru:"спрыгнуть с моста"
+            },
+            {
+            id:102,
+            eng:"to jump on a bed",
+            ru:"скакать на кровати"
+            },
+            {
+            id:103,
+            eng:"to jump with a parachute",
+            ru:"прыгнуть с парашютом"
+            },
+            {
+            id:104,
+            eng:"to kill a cocroach /кОкроуч/",
+            ru:"убить таракана"
+            },
+            {
+            id:105,
+            eng:"to kill enemies /Энемиз/",
+            ru:"убить врагов"
+            },
+            {
+            id:106,
+            eng:"to kill mood /муд/",
+            ru:"убить настроение"
+            },
+            {
+            id:107,
+            eng:"to kill mosquitos",
+            ru:"убивать комаров"
+            },
+            {
+            id:108,
+            eng:"to kill somebody",
+            ru:"убить кого-то"
+            },
+            {
+            id:109,
+            eng:"to kill time",
+            ru:"убить время"
+            },
+            {
+            id:110,
+            eng:"to kiss a pet",
+            ru:"поцеловать домашнее животное"
+            },
+            {
+            id:111,
+            eng:"to kiss everybody",
+            ru:"поцеловать всех"
+            },
+            {
+            id:112,
+            eng:"to kiss somebody",
+            ru:"поцеловать кого-то"
+            },
+            {
+            id:113,
+            eng:"to kiss with somebody",
+            ru:"поцеловаться с кем-либо"
+            },
+            {
+            id:114,
+            eng:"to learn a lesson",
+            ru:"выучить урок"
+            },
+            {
+            id:115,
+            eng:"to learn a musical instrument",
+            ru:"научиться играть на музыкальном инструменте"
+            },
+            {
+            id:116,
+            eng:"to learn a new language",
+            ru:"выучить новый язык"
+            },
+            {
+            id:117,
+            eng:"to learn a new skill",
+            ru:"обучитьсобучитьсяновому навыку"
+            },
+            {
+            id:118,
+            eng:"to learn something new",
+            ru:"выучить что-то новое"
+            },
+            {
+            id:119,
+            eng:"to listen to a podcast",
+            ru:"слушать подкаст"
+            },
+            {
+            id:120,
+            eng:"to listen to a song",
+            ru:"слушать песню"
+            },
+            {
+            id:121,
+            eng:"to listen to a teacher",
+            ru:"слушать учителя"
+            },
+            {
+            id:122,
+            eng:"to listen to music",
+            ru:"слушать музыку"
+            },
+            {
+            id:123,
+            eng:"to listen to the radio",
+            ru:"слушать радио"
+            },
+            {
+            id:124,
+            eng:"to listen to the rain",
+            ru:"слушать дождь"
+            },
+            {
+            id:125,
+            eng:"to look at somebody",
+            ru:"посмотреть на кого-то"
+            },
+            {
+            id:126,
+            eng:"to look at the phone",
+            ru:"смотреть на телефон"
+            },
+            {
+            id:127,
+            eng:"to look at the sky",
+            ru:"смотреть на небо"
+            },
+            {
+            id:128,
+            eng:"to look from the window",
+            ru:"смотреть из окна"
+            },
+            {
+            id:129,
+            eng:"to look very attractive",
+            ru:"выглядить очень привлекательно"
+            },
+            {
+            id:130,
+            eng:"to mix orange juice and vodka",
+            ru:"перемешивать апельсиновый сок и водочку"
+            },
+            {
+            id:131,
+            eng:"to move fast",
+            ru:"двигаться быстро"
+            },
+            {
+            id:132,
+            eng:"to open a bottle of alcohol",
+            ru:"открыть бутылку алкоголя"
+            },
+            {
+            id:133,
+            eng:"to open a bottle of something",
+            ru:"открыть бутылку чего"
+            },
+            {
+            id:134,
+            eng:"to open a box of chocolate candies",
+            ru:"открыть коробку шоколадных конфет"
+            },
+            {
+            id:135,
+            eng:"to open a business",
+            ru:"открыть бизнес"
+            },
+            {
+            id:136,
+            eng:"to open a door",
+            ru:"открыть дверь"
+            },
+            {
+            id:137,
+            eng:"to open a window",
+            ru:"открыть окно"
+            },
+            {
+            id:138,
+            eng:"to open eyes",
+            ru:"открыть глаза"
+            },
+            {
+            id:139,
+            eng:"to pass the exams",
+            ru:"сдать экзамены"
+            },
+            {
+            id:140,
+            eng:"to pass the test",
+            ru:"пройти тест"
+            },
+            {
+            id:141,
+            eng:"to pick flowers",
+            ru:"собирать цветы"
+            },
+            {
+            id:142,
+            eng:"to pick nose",
+            ru:"ковыряться в носу"
+            },
+            {
+            id:143,
+            eng:"to pick something from the floor",
+            ru:"подбирать что-то с пола"
+            },
+            {
+            id:144,
+            eng:"to pick up girls in a bar",
+            ru:"знакомиться с девушками в баре"
+            },
+            {
+            id:145,
+            eng:"to plan a day",
+            ru:"спланировать день"
+            },
+            {
+            id:146,
+            eng:"to plan a week",
+            ru:"спланировать неделю"
+            },
+            {
+            id:147,
+            eng:"to plan how to rob the bank",
+            ru:"спланировать, как ограбить банк"
+            },
+            {
+            id:148,
+            eng:"to play basketball",
+            ru:"играть в баскетбол"
+            },
+            {
+            id:149,
+            eng:"to play cards",
+            ru:"играть в карты"
+            },
+            {
+            id:150,
+            eng:"to play hide and seek",
+            ru:"играть в прятки"
+            },
+            {
+            id:151,
+            eng:"to play in a casino /кэсИно/",
+            ru:"играть в казино"
+            },
+            {
+            id:152,
+            eng:"to play Poker",
+            ru:"играть в покер"
+            },
+            {
+            id:153,
+            eng:"to play the guitar",
+            ru:"играть на гитаре"
+            },
+            {
+            id:154,
+            eng:"to play the piano",
+            ru:"играть на пианино"
+            },
+            {
+            id:155,
+            eng:"to play the violin / вАйолин /",
+            ru:"играть на скрипке"
+            },
+            {
+            id:156,
+            eng:"to play video games",
+            ru:"играть в видеоигры"
+            },
+            {
+            id:157,
+            eng:"to play volleyball",
+            ru:"играть в волейбол"
+            },
+            {
+            id:158,
+            eng:"to play with children",
+            ru:"играть с детьми"
+            },
+            {
+            id:159,
+            eng:"to press buttons",
+            ru:"нажимать кнопки"
+            },
+            {
+            id:160,
+            eng:"to pull the door",
+            ru:"тянуть дверь"
+            },
+            {
+            id:161,
+            eng:"to push buttons",
+            ru:"давить на кнопки"
+            },
+            {
+            id:162,
+            eng:"to push the door",
+            ru:"толкать дверь"
+            },
+            {
+            id:163,
+            eng:"to record a video for Tik-Tok",
+            ru:"записывать тик ток видосы"
+            },
+            {
+            id:164,
+            eng:"to record a voice message",
+            ru:"записывать голосовые сообщения"
+            },
+            {
+            id:165,
+            eng:"to record videos for secret agents",
+            ru:"записывать видео для серкетных агентов"
+            },
+            {
+            id:166,
+            eng:"to save animals",
+            ru:"спасать животных"
+            },
+            {
+            id:167,
+            eng:"to save lives",
+            ru:"спасать жизни"
+            },
+            {
+            id:168,
+            eng:"to save money",
+            ru:"копить деньги"
+            },
+            {
+            id:169,
+            eng:"to save time and money",
+            ru:"сохранить время и деньги"
+            },
+            {
+            id:170,
+            eng:"to share ideas / шЭа айдИаз / делиться идеями",
+            ru:"тянуть дверь"
+            },
+            {
+            id:171,
+            eng:"to share information",
+            ru:"делиться информацией"
+            },
+            {
+            id:172,
+            eng:"to share interesting posts",
+            ru:"делиться интересными публикациями"
+            },
+            {
+            id:173,
+            eng:"to shave a beard",
+            ru:"брить бороду"
+            },
+            {
+            id:174,
+            eng:"to shave a moustache /мАсташ/",
+            ru:"брить усы"
+            },
+            {
+            id:175,
+            eng:"to shave armpits",
+            ru:"брить подмышки"
+            },
+            {
+            id:176,
+            eng:"to shave legs",
+            ru:"брить ноги"
+            },
+            {
+            id:177,
+            eng:"to smile",
+            ru:"улыбаться"
+            },
+            {
+            id:178,
+            eng:"to smoke a hookah / хУка / кальян",
+            ru:"курить кальян"
+            },
+            {
+            id:179,
+            eng:"to smoke cigars",
+            ru:"курить сигары"
+            },
+            {
+            id:180,
+            eng:"to start a fight",
+            ru:"начать драку"
+            },
+            {
+            id:181,
+            eng:"to start a game",
+            ru:"начать игру"
+            },
+            {
+            id:182,
+            eng:"to start a new hobby",
+            ru:"начать новое хобби"
+            },
+            {
+            id:183,
+            eng:"to start a new job",
+            ru:"начать новую работу"
+            },
+            {
+            id:184,
+            eng:"to stop a car",
+            ru:"остановить тачку"
+            },
+            {
+            id:185,
+            eng:"to stop a game",
+            ru:"прекратить игру"
+            },
+            {
+            id:186,
+            eng:"to stop a taxi",
+            ru:"остановить такси"
+            },
+            {
+            id:187,
+            eng:"to stop a train",
+            ru:"остановить дождь"
+            },
+            {
+            id:188,
+            eng:"to switch the TV off",
+            ru:"выключить телевизор"
+            },
+            {
+            id:189,
+            eng:"to switch the TV on",
+            ru:"включить телевизор"
+            },
+            {
+            id:190,
+            eng:"to talk about life",
+            ru:"разговаривать о жизни"
+            },
+            {
+            id:191,
+            eng:"to talk about the Future plans",
+            ru:"говорить о планах на будущее"
+            },
+            {
+            id:192,
+            eng:"to talk about the past",
+            ru:"говорить о прошлом"
+            },
+            {
+            id:193,
+            eng:"to talk to a teacher",
+            ru:"разговаривать с учителем"
+            },
+            {
+            id:194,
+            eng:"to talk to Vincent",
+            ru:"разговаривать с Винсентом"
+            },
+            {
+            id:195,
+            eng:"to touch a cheesburger",
+            ru:"коснуться чизбургера"
+            },
+            {
+            id:196,
+            eng:"to touch somebody",
+            ru:"прикасаться к кому-то"
+            },
+            {
+            id:197,
+            eng:"to touch something hot",
+            ru:"коснуться чего-то горячего"
+            },
+            {
+            id:198,
+            eng:"to try a new hobby",
+            ru:"попробовать новое хобби"
+            },
+            {
+            id:199,
+            eng:"to try new clothes",
+            ru:"примерять новую одежду"
+            },
+            {
+            id:200,
+            eng:"to try new things",
+            ru:"пробовать новые вещи"
+            },
+            {
+            id:201,
+            eng:"to turn around",
+            ru:"развернуться"
+            },
+            {
+            id:202,
+            eng:"to turn car back",
+            ru:"развернуть машину"
+            },
+            {
+            id:203,
+            eng:"to use a computer",
+            ru:"пользоваться компьютером"
+            },
+            {
+            id:204,
+            eng:"to use a hammer",
+            ru:"воспользоваться молотком"
+            },
+            {
+            id:205,
+            eng:"to use a toilet",
+            ru:"использовать туалет"
+            },
+            {
+            id:206,
+            eng:"to use brains",
+            ru:"использовать мозги"
+            },
+            {
+            id:207,
+            eng:"to use shampoo",
+            ru:"пользоваться шампунем"
+            },
+            {
+            id:208,
+            eng:"to use something",
+            ru:"пользоваться чем-то"
+            },
+            {
+            id:209,
+            eng:"to vape",
+            ru:"курить электронные сигареты"
+            },
+            {
+            id:210,
+            eng:"to wait for a prince on a white horse",
+            ru:"ждать принца на белом коне"
+            },
+            {
+            id:211,
+            eng:"to wait for a taxi",
+            ru:"ждать такси"
+            },
+            {
+            id:212,
+            eng:"to wait for me",
+            ru:"ждать меня"
+            },
+            {
+            id:213,
+            eng:"to wait for somebody",
+            ru:"ждать кого-то"
+            },
+            {
+            id:214,
+            eng:"to wait for something",
+            ru:"ждать чего-то"
+            },
+            {
+            id:215,
+            eng:"to wait for you",
+            ru:"ждать тебя"
+            },
+            {
+            id:216,
+            eng:"to walk alone at night",
+            ru:"гулять ночью в одиночестве"
+            },
+            {
+            id:217,
+            eng:"to walk in a park",
+            ru:"гулять в парке"
+            },
+            {
+            id:218,
+            eng:"to walk in the forest",
+            ru:"гулять в лесу"
+            },
+            {
+            id:219,
+            eng:"to walk under the rain",
+            ru:"гулять под дождем"
+            },
+            {
+            id:220,
+            eng:"to walk with a pet",
+            ru:"улять с питомцем"
+            },
+            {
+            id:221,
+            eng:"to warm up food",
+            ru:"разогревать еду"
+            },
+            {
+            id:222,
+            eng:"to warm up muscles /мАслз/",
+            ru:"разогревать мышцы"
+            },
+            {
+            id:223,
+            eng:"to wash a car",
+            ru:"мыть машину"
+            },
+            {
+            id:224,
+            eng:"to wash clothes",
+            ru:"мыть одежду, стирать"
+            },
+            {
+            id:225,
+            eng:"to wash hands",
+            ru:"мыть руки"
+            },
+            {
+            id:226,
+            eng:"to wash the floors",
+            ru:"мыть полы"
+            },
+            {
+            id:227,
+            eng:"to watch a comedy movie",
+            ru:"смотреть комедию"
+            },
+            {
+            id:228,
+            eng:"to watch a movie",
+            ru:"смотреть фильм"
+            },
+            {
+            id:229,
+            eng:"to watch horrors",
+            ru:"смотреть ужастики"
+            },
+            {
+            id:230,
+            eng:"to watch Instagram",
+            ru:"смотреть инстаграм"
+            },
+            {
+            id:231,
+            eng:"to watch the news",
+            ru:"смотреть новости"
+            },
+            {
+            id:232,
+            eng:"to watch Tik-Toks",
+            ru:"смотрить ТикТок"
+            },
+            {
+            id:233,
+            eng:"to watch TV-series",
+            ru:"смотреть сериалы"
+            },
+            {
+            id:234,
+            eng:"to whistle /уИсэл/",
+            ru:"свистеть"
+            },
+            {
+            id:235,
+            eng:"to whistle /уИсэл/ a melody",
+            ru:"насвистывать мелодию"
+            },
+            {
+            id:236,
+            eng:"to work a lot",
+            ru:"много работать"
+            },
+            {
+            id:237,
+            eng:"to work at school",
+            ru:"работать в школе"
+            },
+            {
+            id:238,
+            eng:"to work in a bank",
+            ru:"работать в банке"
+            },
+            {
+            id:239,
+            eng:"to work on a computer",
+            ru:"работать за компьютером"
+            },
+            {
+            id:240,
+            eng:"to watch youtube",
+            ru:"смотреть ютюб"
+            },
+            {
+            id:241,
+            eng:"to subscribe to Vismyfriend YouTube channel",
+            ru:"одписаться на канал Винсента"
+            },
+    ],
+    randomverbA2: [
+        {
+            id:1,
+            eng:"to add milk into coffee",
+            ru:"добавлять молоко в кофе"
+            },
+            {
+            id:2,
+            eng:"to add sugar into coffee",
+            ru:"добавить сахар в кофе"
+            },
+            {
+            id:3,
+            eng:"to add sugar into tea",
+            ru:"добавить сахар в чай"
+            },
+            {
+            id:4,
+            eng:"to annoy somebody",
+            ru:"бесить кого-то"
+            },
+            {
+            id:5,
+            eng:"to argue with everybody / Агью /",
+            ru:"спорить со всеми"
+            },
+            {
+            id:6,
+            eng:"to argue with somebody / Агью /",
+            ru:"спорить с кем-то"
+            },
+            {
+            id:7,
+            eng:"to argue with someone / Агью /",
+            ru:"спорить с кем-нибудь"
+            },
+            {
+            id:8,
+            eng:"to argue with Vincent / Агью /",
+            ru:"спорить с Винсетом"
+            },
+            {
+            id:9,
+            eng:"to arrive late",
+            ru:"прибывать поздно"
+            },
+            {
+            id:10,
+            eng:"to arrive to an airport",
+            ru:"прибывать в аэропорт"
+            },
+            {
+            id:11,
+            eng:"to arrive to the station",
+            ru:"прибывать на станцию"
+            },
+            {
+            id:12,
+            eng:"to ask for a lighter / лАйтэ /",
+            ru:"попросить зажигалку"
+            },
+            {
+            id:13,
+            eng:"to ask for advice",
+            ru:"просить совета"
+            },
+            {
+            id:14,
+            eng:"to ask for directions / дайрЭкшнз /",
+            ru:"спросить направление"
+            },
+            {
+            id:15,
+            eng:"to ask for help",
+            ru:"попросить помощи"
+            },
+            {
+            id:16,
+            eng:"to ask for presents",
+            ru:"попросить подарков"
+            },
+            {
+            id:17,
+            eng:"to brush hair",
+            ru:"расчесывать волосы"
+            },
+            {
+            id:18,
+            eng:"to brush teeth",
+            ru:"начистить зубы"
+            },
+            {
+            id:19,
+            eng:"to call for help",
+            ru:"позвать на помощь"
+            },
+            {
+            id:20,
+            eng:"to call the ambulance / Эмбьюлэнс /",
+            ru:"позвонить в скорую"
+            },
+            {
+            id:21,
+            eng:"to call the police /полИс/",
+            ru:"вызвать полицию"
+            },
+            {
+            id:22,
+            eng:"to call Vincent at night",
+            ru:"позвонить Винсенту ночью"
+            },
+            {
+            id:23,
+            eng:"to change clothes",
+            ru:"переодеться"
+            },
+            {
+            id:24,
+            eng:"to change lifestyle",
+            ru:"изменить образ жизни"
+            },
+            {
+            id:25,
+            eng:"to change oil in a car",
+            ru:"поменять масло в машине"
+            },
+            {
+            id:26,
+            eng:"to clap hands",
+            ru:"хлопать"
+            },
+            {
+            id:27,
+            eng:"to clean cars in the street",
+            ru:"чистить машину Винсента"
+            },
+            {
+            id:28,
+            eng:"to clean teeth",
+            ru:"чистить зубы"
+            },
+            {
+            id:29,
+            eng:"to clean the house",
+            ru:"убираться дома"
+            },
+            {
+            id:30,
+            eng:"to clean the kitchen",
+            ru:"убираться на кухне"
+            },
+            {
+            id:31,
+            eng:"to clean the toilet",
+            ru:"чистить унитаз"
+            },
+            {
+            id:32,
+            eng:"to close a door",
+            ru:"закрыть дверь"
+            },
+            {
+            id:33,
+            eng:"to close a window",
+            ru:"закрыть окно"
+            },
+            {
+            id:34,
+            eng:"to close business",
+            ru:"закрыть бизнес"
+            },
+            {
+            id:35,
+            eng:"to close doors",
+            ru:"закрыть двери"
+            },
+            {
+            id:36,
+            eng:"to close eyes",
+            ru:"закрыть глаза"
+            },
+            {
+            id:37,
+            eng:"to collect antiques /энтИкс/",
+            ru:"собирать антиквариат"
+            },
+            {
+            id:38,
+            eng:"to collect forks",
+            ru:"коллекционировать вилки"
+            },
+            {
+            id:39,
+            eng:"to collect magnets",
+            ru:"коллекционировать магниты"
+            },
+            {
+            id:40,
+            eng:"to cook breakfast",
+            ru:"приготовить завтрак"
+            },
+            {
+            id:41,
+            eng:"to cook dinner",
+            ru:"приготовить ужин"
+            },
+            {
+            id:42,
+            eng:"to cook food",
+            ru:"приготовить еду"
+            },
+            {
+            id:43,
+            eng:"to cook lunch",
+            ru:"приготовить обед"
+            },
+            {
+            id:44,
+            eng:"to cook romantic dinner",
+            ru:"готовить романтический ужин"
+            },
+            {
+            id:45,
+            eng:"to create new things",
+            ru:"создавать новые вещи"
+            },
+            {
+            id:46,
+            eng:"to create something",
+            ru:"создать что-либо"
+            },
+            {
+            id:47,
+            eng:"to cry",
+            ru:"плакать"
+            },
+            {
+            id:48,
+            eng:"to cry very much",
+            ru:"много плакать"
+            },
+            {
+            id:49,
+            eng:"to dance",
+            ru:"танцевать"
+            },
+            {
+            id:50,
+            eng:"to dance",
+            ru:"танцевать"
+            },
+            {
+            id:51,
+            eng:"to dance like a crazy person",
+            ru:"танцевать как сумасшедший"
+            },
+            {
+            id:52,
+            eng:"to dance on the table",
+            ru:"танцевать на столе"
+            },
+            {
+            id:53,
+            eng:"to dance Polka",
+            ru:"танцевать польку"
+            },
+            {
+            id:54,
+            eng:"to dance some breakdance",
+            ru:"танцевать брейкданс"
+            },
+            {
+            id:55,
+            eng:"to dance Tango",
+            ru:"танцевать танго"
+            },
+            {
+            id:56,
+            eng:"to dance under the rain",
+            ru:"танцевать под дождем"
+            },
+            {
+            id:57,
+            eng:"to describe a person",
+            ru:"описать человека"
+            },
+            {
+            id:58,
+            eng:"to describe the situation",
+            ru:"описать ситуацию"
+            },
+            {
+            id:59,
+            eng:"to destroy something",
+            ru:"разрушить что-либо"
+            },
+            {
+            id:60,
+            eng:"to die of boredom",
+            ru:"умереть от скуки"
+            },
+            {
+            id:61,
+            eng:"to die of laughter /лАфтэ/",
+            ru:"умереть от смеха"
+            },
+            {
+            id:62,
+            eng:"to do homework",
+            ru:"делать домашнюю"
+            },
+            {
+            id:63,
+            eng:"to do some sport",
+            ru:"заниматься спортом"
+            },
+            {
+            id:64,
+            eng:"to do something crazy",
+            ru:"сделать что-то сумасшедшее"
+            },
+            {
+            id:65,
+            eng:"to do something disgusting / дисгАстин /",
+            ru:"делать что-то отвратительное"
+            },
+            {
+            id:66,
+            eng:"to do yoga",
+            ru:"заниматься йогой"
+            },
+            {
+            id:67,
+            eng:"to dream about English",
+            ru:"мечтать об английском"
+            },
+            {
+            id:68,
+            eng:"to drop a cake on the floor",
+            ru:"уронить торт на пол"
+            },
+            {
+            id:69,
+            eng:"to drop a pen",
+            ru:"уронить ручку"
+            },
+            {
+            id:70,
+            eng:"to drop a phone",
+            ru:"уронить телефон"
+            },
+            {
+            id:71,
+            eng:"to drop something",
+            ru:"уронить что-то"
+            },
+            {
+            id:72,
+            eng:"to dry hair",
+            ru:"сушить волосы"
+            },
+            {
+            id:73,
+            eng:"to end a fight",
+            ru:"закончить драку"
+            },
+            {
+            id:74,
+            eng:"to end a game",
+            ru:"закончить игру"
+            },
+            {
+            id:75,
+            eng:"to end a presentation",
+            ru:"завершить презентацию"
+            },
+            {
+            id:76,
+            eng:"to enter a building",
+            ru:"войти в здание"
+            },
+            {
+            id:77,
+            eng:"to enter a game",
+            ru:"войти в игру"
+            },
+            {
+            id:78,
+            eng:"to enter a house",
+            ru:"войти в дом"
+            },
+            {
+            id:79,
+            eng:"to enter an airport",
+            ru:"войти в аэропорт"
+            },
+            {
+            id:80,
+            eng:"to enter somewhere",
+            ru:"войти куда-то"
+            },
+            {
+            id:81,
+            eng:"to explain grammar to me",
+            ru:"объяснить мне грамматику"
+            },
+            {
+            id:82,
+            eng:"to explain something",
+            ru:"объяснить что-то"
+            },
+            {
+            id:83,
+            eng:"to explain the problem",
+            ru:"объяснить проблему"
+            },
+            {
+            id:84,
+            eng:"to explain the situation",
+            ru:"объяснить ситуацию"
+            },
+            {
+            id:85,
+            eng:"to fail a game",
+            ru:"провалить игру"
+            },
+            {
+            id:86,
+            eng:"to fail the mission",
+            ru:"провалить миссию"
+            },
+            {
+            id:87,
+            eng:"to fail the project",
+            ru:"провалить проект"
+            },
+            {
+            id:88,
+            eng:"to fail the task",
+            ru:"провалить задание"
+            },
+            {
+            id:89,
+            eng:"to fill the documents",
+            ru:"заполнить документы"
+            },
+            {
+            id:90,
+            eng:"to follow me home",
+            ru:"следовать за мной домой"
+            },
+            {
+            id:91,
+            eng:"to follow our teacher",
+            ru:"следовать за нашим учителем"
+            },
+            {
+            id:92,
+            eng:"to follow the foot steps",
+            ru:"следовать по шагам"
+            },
+            {
+            id:93,
+            eng:"to follow the heart /хАрт/",
+            ru:"следовать сердцу"
+            },
+            {
+            id:94,
+            eng:"to help everyone",
+            ru:"помочь кому-то"
+            },
+            {
+            id:95,
+            eng:"to help somebody",
+            ru:"помочь всем"
+            },
+            {
+            id:96,
+            eng:"to join the basketball team",
+            ru:"вступить в баскетбольную команду"
+            },
+            {
+            id:97,
+            eng:"to join the competition",
+            ru:"присоединиться к соревнованию"
+            },
+            {
+            id:98,
+            eng:"to join the contest",
+            ru:"присоединиться к конкурсу"
+            },
+            {
+            id:99,
+            eng:"to join the game",
+            ru:"присоединиться к игре"
+            },
+            {
+            id:100,
+            eng:"to join the lesson",
+            ru:"присоединиться к уроку"
+            },
+            {
+            id:101,
+            eng:"to jump off a bridge /бридж/",
+            ru:"спрыгнуть с моста"
+            },
+            {
+            id:102,
+            eng:"to jump on a bed",
+            ru:"скакать на кровати"
+            },
+            {
+            id:103,
+            eng:"to jump with a parachute",
+            ru:"прыгнуть с парашютом"
+            },
+            {
+            id:104,
+            eng:"to kill a cocroach /кОкроуч/",
+            ru:"убить таракана"
+            },
+            {
+            id:105,
+            eng:"to kill enemies /Энемиз/",
+            ru:"убить врагов"
+            },
+            {
+            id:106,
+            eng:"to kill mood /муд/",
+            ru:"убить настроение"
+            },
+            {
+            id:107,
+            eng:"to kill mosquitos",
+            ru:"убивать комаров"
+            },
+            {
+            id:108,
+            eng:"to kill somebody",
+            ru:"убить кого-то"
+            },
+            {
+            id:109,
+            eng:"to kill time",
+            ru:"убить время"
+            },
+            {
+            id:110,
+            eng:"to kiss a pet",
+            ru:"поцеловать домашнее животное"
+            },
+            {
+            id:111,
+            eng:"to kiss everybody",
+            ru:"поцеловать всех"
+            },
+            {
+            id:112,
+            eng:"to kiss somebody",
+            ru:"поцеловать кого-то"
+            },
+            {
+            id:113,
+            eng:"to kiss with somebody",
+            ru:"поцеловаться с кем-либо"
+            },
+            {
+            id:114,
+            eng:"to learn a lesson",
+            ru:"выучить урок"
+            },
+            {
+            id:115,
+            eng:"to learn a musical instrument",
+            ru:"научиться играть на музыкальном инструменте"
+            },
+            {
+            id:116,
+            eng:"to learn a new language",
+            ru:"выучить новый язык"
+            },
+            {
+            id:117,
+            eng:"to learn a new skill",
+            ru:"обучитьсобучитьсяновому навыку"
+            },
+            {
+            id:118,
+            eng:"to learn something new",
+            ru:"выучить что-то новое"
+            },
+            {
+            id:119,
+            eng:"to listen to a podcast",
+            ru:"слушать подкаст"
+            },
+            {
+            id:120,
+            eng:"to listen to a song",
+            ru:"слушать песню"
+            },
+            {
+            id:121,
+            eng:"to listen to a teacher",
+            ru:"слушать учителя"
+            },
+            {
+            id:122,
+            eng:"to listen to music",
+            ru:"слушать музыку"
+            },
+            {
+            id:123,
+            eng:"to listen to the radio",
+            ru:"слушать радио"
+            },
+            {
+            id:124,
+            eng:"to listen to the rain",
+            ru:"слушать дождь"
+            },
+            {
+            id:125,
+            eng:"to look at somebody",
+            ru:"посмотреть на кого-то"
+            },
+            {
+            id:126,
+            eng:"to look at the phone",
+            ru:"смотреть на телефон"
+            },
+            {
+            id:127,
+            eng:"to look at the sky",
+            ru:"смотреть на небо"
+            },
+            {
+            id:128,
+            eng:"to look from the window",
+            ru:"смотреть из окна"
+            },
+            {
+            id:129,
+            eng:"to look very attractive",
+            ru:"выглядить очень привлекательно"
+            },
+            {
+            id:130,
+            eng:"to mix orange juice and vodka",
+            ru:"перемешивать апельсиновый сок и водочку"
+            },
+            {
+            id:131,
+            eng:"to move fast",
+            ru:"двигаться быстро"
+            },
+            {
+            id:132,
+            eng:"to open a bottle of alcohol",
+            ru:"открыть бутылку алкоголя"
+            },
+            {
+            id:133,
+            eng:"to open a bottle of something",
+            ru:"открыть бутылку чего"
+            },
+            {
+            id:134,
+            eng:"to open a box of chocolate candies",
+            ru:"открыть коробку шоколадных конфет"
+            },
+            {
+            id:135,
+            eng:"to open a business",
+            ru:"открыть бизнес"
+            },
+            {
+            id:136,
+            eng:"to open a door",
+            ru:"открыть дверь"
+            },
+            {
+            id:137,
+            eng:"to open a window",
+            ru:"открыть окно"
+            },
+            {
+            id:138,
+            eng:"to open eyes",
+            ru:"открыть глаза"
+            },
+            {
+            id:139,
+            eng:"to pass the exams",
+            ru:"сдать экзамены"
+            },
+            {
+            id:140,
+            eng:"to pass the test",
+            ru:"пройти тест"
+            },
+            {
+            id:141,
+            eng:"to pick flowers",
+            ru:"собирать цветы"
+            },
+            {
+            id:142,
+            eng:"to pick nose",
+            ru:"ковыряться в носу"
+            },
+            {
+            id:143,
+            eng:"to pick something from the floor",
+            ru:"подбирать что-то с пола"
+            },
+            {
+            id:144,
+            eng:"to pick up girls in a bar",
+            ru:"знакомиться с девушками в баре"
+            },
+            {
+            id:145,
+            eng:"to plan a day",
+            ru:"спланировать день"
+            },
+            {
+            id:146,
+            eng:"to plan a week",
+            ru:"спланировать неделю"
+            },
+            {
+            id:147,
+            eng:"to plan how to rob the bank",
+            ru:"спланировать, как ограбить банк"
+            },
+            {
+            id:148,
+            eng:"to play basketball",
+            ru:"играть в баскетбол"
+            },
+            {
+            id:149,
+            eng:"to play cards",
+            ru:"играть в карты"
+            },
+            {
+            id:150,
+            eng:"to play hide and seek",
+            ru:"играть в прятки"
+            },
+            {
+            id:151,
+            eng:"to play in a casino /кэсИно/",
+            ru:"играть в казино"
+            },
+            {
+            id:152,
+            eng:"to play Poker",
+            ru:"играть в покер"
+            },
+            {
+            id:153,
+            eng:"to play the guitar",
+            ru:"играть на гитаре"
+            },
+            {
+            id:154,
+            eng:"to play the piano",
+            ru:"играть на пианино"
+            },
+            {
+            id:155,
+            eng:"to play the violin / вАйолин /",
+            ru:"играть на скрипке"
+            },
+            {
+            id:156,
+            eng:"to play video games",
+            ru:"играть в видеоигры"
+            },
+            {
+            id:157,
+            eng:"to play volleyball",
+            ru:"играть в волейбол"
+            },
+            {
+            id:158,
+            eng:"to play with children",
+            ru:"играть с детьми"
+            },
+            {
+            id:159,
+            eng:"to press buttons",
+            ru:"нажимать кнопки"
+            },
+            {
+            id:160,
+            eng:"to pull the door",
+            ru:"тянуть дверь"
+            },
+            {
+            id:161,
+            eng:"to push buttons",
+            ru:"давить на кнопки"
+            },
+            {
+            id:162,
+            eng:"to push the door",
+            ru:"толкать дверь"
+            },
+            {
+            id:163,
+            eng:"to record a video for Tik-Tok",
+            ru:"записывать тик ток видосы"
+            },
+            {
+            id:164,
+            eng:"to record a voice message",
+            ru:"записывать голосовые сообщения"
+            },
+            {
+            id:165,
+            eng:"to record videos for secret agents",
+            ru:"записывать видео для серкетных агентов"
+            },
+            {
+            id:166,
+            eng:"to save animals",
+            ru:"спасать животных"
+            },
+            {
+            id:167,
+            eng:"to save lives",
+            ru:"спасать жизни"
+            },
+            {
+            id:168,
+            eng:"to save money",
+            ru:"копить деньги"
+            },
+            {
+            id:169,
+            eng:"to save time and money",
+            ru:"сохранить время и деньги"
+            },
+            {
+            id:170,
+            eng:"to share ideas / шЭа айдИаз / делиться идеями",
+            ru:"тянуть дверь"
+            },
+            {
+            id:171,
+            eng:"to share information",
+            ru:"делиться информацией"
+            },
+            {
+            id:172,
+            eng:"to share interesting posts",
+            ru:"делиться интересными публикациями"
+            },
+            {
+            id:173,
+            eng:"to shave a beard",
+            ru:"брить бороду"
+            },
+            {
+            id:174,
+            eng:"to shave a moustache /мАсташ/",
+            ru:"брить усы"
+            },
+            {
+            id:175,
+            eng:"to shave armpits",
+            ru:"брить подмышки"
+            },
+            {
+            id:176,
+            eng:"to shave legs",
+            ru:"брить ноги"
+            },
+            {
+            id:177,
+            eng:"to smile",
+            ru:"улыбаться"
+            },
+            {
+            id:178,
+            eng:"to smoke a hookah / хУка / кальян",
+            ru:"курить кальян"
+            },
+            {
+            id:179,
+            eng:"to smoke cigars",
+            ru:"курить сигары"
+            },
+            {
+            id:180,
+            eng:"to start a fight",
+            ru:"начать драку"
+            },
+            {
+            id:181,
+            eng:"to start a game",
+            ru:"начать игру"
+            },
+            {
+            id:182,
+            eng:"to start a new hobby",
+            ru:"начать новое хобби"
+            },
+            {
+            id:183,
+            eng:"to start a new job",
+            ru:"начать новую работу"
+            },
+            {
+            id:184,
+            eng:"to stop a car",
+            ru:"остановить тачку"
+            },
+            {
+            id:185,
+            eng:"to stop a game",
+            ru:"прекратить игру"
+            },
+            {
+            id:186,
+            eng:"to stop a taxi",
+            ru:"остановить такси"
+            },
+            {
+            id:187,
+            eng:"to stop a train",
+            ru:"остановить дождь"
+            },
+            {
+            id:188,
+            eng:"to switch the TV off",
+            ru:"выключить телевизор"
+            },
+            {
+            id:189,
+            eng:"to switch the TV on",
+            ru:"включить телевизор"
+            },
+            {
+            id:190,
+            eng:"to talk about life",
+            ru:"разговаривать о жизни"
+            },
+            {
+            id:191,
+            eng:"to talk about the Future plans",
+            ru:"говорить о планах на будущее"
+            },
+            {
+            id:192,
+            eng:"to talk about the past",
+            ru:"говорить о прошлом"
+            },
+            {
+            id:193,
+            eng:"to talk to a teacher",
+            ru:"разговаривать с учителем"
+            },
+            {
+            id:194,
+            eng:"to talk to Vincent",
+            ru:"разговаривать с Винсентом"
+            },
+            {
+            id:195,
+            eng:"to touch a cheesburger",
+            ru:"коснуться чизбургера"
+            },
+            {
+            id:196,
+            eng:"to touch somebody",
+            ru:"прикасаться к кому-то"
+            },
+            {
+            id:197,
+            eng:"to touch something hot",
+            ru:"коснуться чего-то горячего"
+            },
+            {
+            id:198,
+            eng:"to try a new hobby",
+            ru:"попробовать новое хобби"
+            },
+            {
+            id:199,
+            eng:"to try new clothes",
+            ru:"примерять новую одежду"
+            },
+            {
+            id:200,
+            eng:"to try new things",
+            ru:"пробовать новые вещи"
+            },
+            {
+            id:201,
+            eng:"to turn around",
+            ru:"развернуться"
+            },
+            {
+            id:202,
+            eng:"to turn car back",
+            ru:"развернуть машину"
+            },
+            {
+            id:203,
+            eng:"to use a computer",
+            ru:"пользоваться компьютером"
+            },
+            {
+            id:204,
+            eng:"to use a hammer",
+            ru:"воспользоваться молотком"
+            },
+            {
+            id:205,
+            eng:"to use a toilet",
+            ru:"использовать туалет"
+            },
+            {
+            id:206,
+            eng:"to use brains",
+            ru:"использовать мозги"
+            },
+            {
+            id:207,
+            eng:"to use shampoo",
+            ru:"пользоваться шампунем"
+            },
+            {
+            id:208,
+            eng:"to use something",
+            ru:"пользоваться чем-то"
+            },
+            {
+            id:209,
+            eng:"to vape",
+            ru:"курить электронные сигареты"
+            },
+            {
+            id:210,
+            eng:"to wait for a prince on a white horse",
+            ru:"ждать принца на белом коне"
+            },
+            {
+            id:211,
+            eng:"to wait for a taxi",
+            ru:"ждать такси"
+            },
+            {
+            id:212,
+            eng:"to wait for me",
+            ru:"ждать меня"
+            },
+            {
+            id:213,
+            eng:"to wait for somebody",
+            ru:"ждать кого-то"
+            },
+            {
+            id:214,
+            eng:"to wait for something",
+            ru:"ждать чего-то"
+            },
+            {
+            id:215,
+            eng:"to wait for you",
+            ru:"ждать тебя"
+            },
+            {
+            id:216,
+            eng:"to walk alone at night",
+            ru:"гулять ночью в одиночестве"
+            },
+            {
+            id:217,
+            eng:"to walk in a park",
+            ru:"гулять в парке"
+            },
+            {
+            id:218,
+            eng:"to walk in the forest",
+            ru:"гулять в лесу"
+            },
+            {
+            id:219,
+            eng:"to walk under the rain",
+            ru:"гулять под дождем"
+            },
+            {
+            id:220,
+            eng:"to walk with a pet",
+            ru:"улять с питомцем"
+            },
+            {
+            id:221,
+            eng:"to warm up food",
+            ru:"разогревать еду"
+            },
+            {
+            id:222,
+            eng:"to warm up muscles /мАслз/",
+            ru:"разогревать мышцы"
+            },
+            {
+            id:223,
+            eng:"to wash a car",
+            ru:"мыть машину"
+            },
+            {
+            id:224,
+            eng:"to wash clothes",
+            ru:"мыть одежду, стирать"
+            },
+            {
+            id:225,
+            eng:"to wash hands",
+            ru:"мыть руки"
+            },
+            {
+            id:226,
+            eng:"to wash the floors",
+            ru:"мыть полы"
+            },
+            {
+            id:227,
+            eng:"to watch a comedy movie",
+            ru:"смотреть комедию"
+            },
+            {
+            id:228,
+            eng:"to watch a movie",
+            ru:"смотреть фильм"
+            },
+            {
+            id:229,
+            eng:"to watch horrors",
+            ru:"смотреть ужастики"
+            },
+            {
+            id:230,
+            eng:"to watch Instagram",
+            ru:"смотреть инстаграм"
+            },
+            {
+            id:231,
+            eng:"to watch the news",
+            ru:"смотреть новости"
+            },
+            {
+            id:232,
+            eng:"to watch Tik-Toks",
+            ru:"смотрить ТикТок"
+            },
+            {
+            id:233,
+            eng:"to watch TV-series",
+            ru:"смотреть сериалы"
+            },
+            {
+            id:234,
+            eng:"to whistle /уИсэл/",
+            ru:"свистеть"
+            },
+            {
+            id:235,
+            eng:"to whistle /уИсэл/ a melody",
+            ru:"насвистывать мелодию"
+            },
+            {
+            id:236,
+            eng:"to work a lot",
+            ru:"много работать"
+            },
+            {
+            id:237,
+            eng:"to work at school",
+            ru:"работать в школе"
+            },
+            {
+            id:238,
+            eng:"to work in a bank",
+            ru:"работать в банке"
+            },
+            {
+            id:239,
+            eng:"to work on a computer",
+            ru:"работать за компьютером"
+            },
+            {
+            id:240,
+            eng:"to watch youtube",
+            ru:"смотреть ютюб"
+            },
+            {
+            id:241,
+            eng:"to subscribe to Vismyfriend YouTube channel",
+            ru:"одписаться на канал Винсента"
+            },
+            {
+            id:242,
+            eng:"to beat somebody",
+            ru:"побить кого-то"
+            },
+            {
+            id:243,
+            eng:"to beat somebody with a stick",
+            ru:"избить кого-то палкой"
+            },
+            {
+            id:244,
+            eng:"to beat Vincent in a game of chess",
+            ru:"победить Винсента в партии шахмат"
+            },
+            {
+            id:245,
+            eng:"to begin a new chapter of life",
+            ru:"начать новую главу жизни"
+            },
+            {
+            id:246,
+            eng:"to begin a new project",
+            ru:"начать новый проект"
+            },
+            {
+            id:247,
+            eng:"to begin a serious conversation",
+            ru:"начать серьезный разговор"
+            },
+            {
+            id:248,
+            eng:"to bite a cake",
+            ru:"откусить кусок торта"
+            },
+            {
+            id:249,
+            eng:"to bite an apple",
+            ru:"укусить яблоко"
+            },
+            {
+            id:250,
+            eng:"to bite nails",
+            ru:"грызть, кусать ногти"
+            },
+            {
+            id:251,
+            eng:"to blow a whistle",
+            ru:"свистеть в свисток"
+            },
+            {
+            id:252,
+            eng:"to blow out candles",
+            ru:"задуть свечи"
+            },
+            {
+            id:253,
+            eng:"to borrow a book from a library",
+            ru:"одолжить книгу из библиотеки"
+            },
+            {
+            id:254,
+            eng:"to borrow money",
+            ru:"одолжить деньги"
+            },
+            {
+            id:255,
+            eng:"to borrow money from friends",
+            ru:"одолжить деньги у друзей"
+            },
+            {
+            id:256,
+            eng:"to borrow someone's car",
+            ru:"одолжить чужую машину"
+            },
+            {
+            id:257,
+            eng:"to break a bone",
+            ru:"сломать кость"
+            },
+            {
+            id:258,
+            eng:"to break a phone screen",
+            ru:"сломать экран телефона"
+            },
+            {
+            id:259,
+            eng:"to break a promise",
+            ru:"нарушить обещание"
+            },
+            {
+            id:260,
+            eng:"to break a record",
+            ru:"побить рекорд"
+            },
+            {
+            id:261,
+            eng:"to break some rules",
+            ru:"нарушить несколько правил"
+            },
+            {
+            id:262,
+            eng:"to break something",
+            ru:"сломать что-то"
+            },
+            {
+            id:263,
+            eng:"to bring a chocolate cake to a party",
+            ru:"принести шоколадный торт на вечеринку"
+            },
+            {
+            id:264,
+            eng:"to bring a sandwich to Vincent",
+            ru:"принести сэндвич Винсенту"
+            },
+            {
+            id:265,
+            eng:"to bring the children to school",
+            ru:"привести детей в школу"
+            },
+            {
+            id:266,
+            eng:"to build a house",
+            ru:"построить дом"
+            },
+            {
+            id:267,
+            eng:"to build a strong body",
+            ru:"построить крепкое тело"
+            },
+            {
+            id:268,
+            eng:"to build nice relationships",
+            ru:"установить хорошие отношения"
+            },
+            {
+            id:269,
+            eng:"to burn a candle",
+            ru:"поджечь свечу"
+            },
+            {
+            id:270,
+            eng:"to burn bridges",
+            ru:"сжечь мосты"
+            },
+            {
             id:271,
+            eng:"to burn calories",
+            ru:"сжечь калории"
+            },
+            {
+            id:272,
+            eng:"to buy a gift",
+            ru:"купить подарок"
+            },
+            {
+            id:273,
+            eng:"to buy a ticket to my dream place",
+            ru:"купить билет в мое мечтаемое место"
+            },
+            {
+            id:274,
+            eng:"to buy some food",
+            ru:"купить немного еды"
+            },
+            {
+            id:275,
+            eng:"to buy something",
+            ru:"купить что-то"
+            },
+            {
+            id:276,
+            eng:"to buy tasty food",
+            ru:"купить вкусной еды"
+            },
+            {
+            id:277,
+            eng:"to call a friend",
+            ru:"позвонить другу"
+            },
+            {
+            id:278,
+            eng:"to call family",
+            ru:"позвонить семье"
+            },
+            {
+            id:279,
+            eng:"to call somebody",
+            ru:"позвонить кому-то"
+            },
+            {
+            id:280,
+            eng:"to call someone important",
+            ru:"позвонить кому-то важному"
+            },
+            {
+            id:281,
+            eng:"to catch a ball",
+            ru:"поймать мяч"
+            },
+            {
+            id:282,
+            eng:"to catch a taxi",
+            ru:"поймать такси"
+            },
+            {
+            id:283,
+            eng:"to catch a train to another city",
+            ru:"сесть на поезд в другой город"
+            },
+            {
+            id:284,
+            eng:"to check e-mails",
+            ru:"проверять электронную почту"
+            },
+            {
+            id:285,
+            eng:"to check what is happening in the world",
+            ru:"порверить, что творится в мире"
+            },
+            {
+            id:286,
+            eng:"to choose a new car",
+            ru:"выбрать новую машину"
+            },
+            {
+            id:287,
+            eng:"to choose a new career",
+            ru:"выбрать новую карьеру"
+            },
+            {
+            id:288,
+            eng:"to choose socks for Vincent",
+            ru:"выбрать носки для Винсента"
+            },
+            {
+            id:289,
+            eng:"to choose songs to sing",
+            ru:"выбирать песни чтобы спеть"
+            },
+            {
+            id:290,
+            eng:"to clap hands",
+            ru:"хлопать в ладоши"
+            },
+            {
+            id:291,
+            eng:"to come home",
+            ru:"прийти домой"
+            },
+            {
+            id:292,
+            eng:"to come to a lesson",
+            ru:"прийти на урок"
+            },
+            {
+            id:293,
+            eng:"to cook",
+            ru:"готовить"
+            },
+            {
+            id:294,
+            eng:"to cook pizza",
+            ru:"готовить пиццу"
+            },
+            {
+            id:295,
+            eng:"to cook some food",
+            ru:"приготовить немного еды"
+            },
+            {
+            id:296,
+            eng:"to creep somewhere with a bottle of vodka",
+            ru:"поползти куда-то с бутылкой водки"
+            },
+            {
+            id:297,
+            eng:"to creep under the table",
+            ru:"проползти под столом"
+            },
+            {
+            id:298,
+            eng:"to cry a lot",
+            ru:"много рыдать"
+            },
+            {
+            id:299,
+            eng:"to cut a cake",
+            ru:"разрезать торт"
+            },
+            {
+            id:300,
+            eng:"to cut a cheesburger",
+            ru:"разрезать чизбургер"
+            },
+            {
+            id:301,
+            eng:"to cut a finger with paper",
+            ru:"порезать палец бумагой"
+            },
+            {
+            id:302,
+            eng:"to dance in a karaoke club",
+            ru:"танцевать в караоке-клубе"
+            },
+            {
+            id:303,
+            eng:"to dance tango",
+            ru:"танцевать танго"
+            },
+            {
+            id:304,
+            eng:"to dance with somebody",
+            ru:"танцевать с кем-то"
+            },
+            {
+            id:305,
+            eng:"to dance with Vincent",
+            ru:"танцевать с Винсентом"
+            },
+            {
+            id:306,
+            eng:"to deal with drug dealers",
+            ru:"иметь дело с наркоторговцами"
+            },
+            {
+            id:307,
+            eng:"to deal with hooligans",
+            ru:"иметь дело с хулиганами"
+            },
+            {
+            id:308,
+            eng:"to deal with some problems",
+            ru:"разобраться с некоторыми проблемами"
+            },
+            {
+            id:309,
+            eng:"to dig a hole",
+            ru:"выкопать яму"
+            },
+            {
+            id:310,
+            eng:"to dig deep to find a treasure",
+            ru:"копать глубоко, чтобы найти сокровище"
+            },
+            {
+            id:311,
+            eng:"to dig for information",
+            ru:"раскопать информацию"
+            },
+            {
+            id:312,
+            eng:"to dig out the treasure",
+            ru:"выкапывать сокровища"
+            },
+            {
+            id:313,
+            eng:"to dig potatoes",
+            ru:"копать картошку"
+            },
+            {
+            id:314,
+            eng:"to do English homework",
+            ru:"делать домашнее задание по английскому"
+            },
+            {
+            id:315,
+            eng:"to do homework",
+            ru:"делать домашнее задание"
+            },
+            {
+            id:316,
+            eng:"to do silly things",
+            ru:"делать глупости"
+            },
+            {
+            id:317,
+            eng:"to do something disgusting",
+            ru:"делать что-то отвратительное"
+            },
+            {
+            id:318,
+            eng:"to do something stupid",
+            ru:"сделать что-то глупое"
+            },
+            {
+            id:319,
+            eng:"to do something useful",
+            ru:"сделать что-то полезное"
+            },
+            {
+            id:320,
+            eng:"to do the housework",
+            ru:"заниматься домашними делами"
+            },
+            {
+            id:321,
+            eng:"to do a backflip",
+            ru:"сделать сальто"
+            },
+            {
+            id:322,
             eng:"to draw a flower",
             ru:"нарисовать цветок"
             },
             {
-            id:272,
+            id:323,
             eng:"to draw a picture",
             ru:"нарисовать картину"
             },
             {
-            id:273,
+            id:324,
             eng:"to draw pictures",
             ru:"рисовать картинки"
             },
             {
-            id:274,
+            id:325,
             eng:"to draw something on sand",
             ru:"нарисовать что-нибудь на песке"
             },
             {
-            id:275,
+            id:326,
             eng:"to drink alcohol",
             ru:"пить алкоголь"
             },
             {
-            id:276,
+            id:327,
             eng:"to drink behind the garages",
             ru:"пить за гаражами"
             },
             {
-            id:277,
+            id:328,
             eng:"to drink coffee",
             ru:"пить кофе"
             },
             {
-            id:278,
+            id:329,
             eng:"to drink tequilla",
             ru:"пить текилу"
             },
             {
-            id:279,
+            id:330,
             eng:"to drink water",
             ru:"пить воду"
             },
             {
-            id:280,
+            id:331,
             eng:"to drive a car",
             ru:"водить машину"
             },
             {
-            id:281,
+            id:332,
             eng:"to drive home",
             ru:"доехать домой"
             },
             {
-            id:282,
+            id:333,
             eng:"to drive kids to school",
             ru:"отвести детей в школу"
             },
             {
-            id:283,
+            id:334,
             eng:"to drive someone crazy",
             ru:"свести кого-то с ума"
             },
             {
-            id:284,
+            id:335,
             eng:"to drop something on the floor",
             ru:"уронить что-то на пол"
             },
             {
-            id:285,
+            id:336,
             eng:"to earn money",
             ru:"зарабатывать деньги"
             },
             {
-            id:286,
+            id:337,
             eng:"to eat a balanced diet",
             ru:"питаться сбалансированно"
             },
             {
-            id:287,
+            id:338,
             eng:"to eat breakfast",
             ru:"завтракать"
             },
             {
-            id:288,
+            id:339,
             eng:"to eat ice-cream",
             ru:"есть мороженое"
             },
             {
-            id:289,
+            id:340,
             eng:"to eat something",
             ru:"есть что-то"
             },
             {
-            id:290,
+            id:341,
             eng:"to eat sweets",
             ru:"есть сладости"
             },
             {
-            id:291,
+            id:342,
             eng:"to eat tasty food",
             ru:"есть вкусную еду"
             },
             {
-            id:292,
+            id:343,
             eng:"to fall asleep",
             ru:"заснуть, уснуть"
             },
             {
-            id:293,
+            id:344,
             eng:"to fall in love",
             ru:"влюбиться"
             },
             {
-            id:294,
+            id:345,
             eng:"to fall off a bed",
             ru:"упасть с кровати"
             },
             {
-            id:295,
+            id:346,
             eng:"to fall off a car",
             ru:"упасть с машины"
             },
             {
-            id:296,
+            id:347,
             eng:"to feed a baby",
             ru:"кормить младенца"
             },
             {
-            id:297,
+            id:348,
             eng:"to feed a pet",
             ru:"кормить домашнего животного"
             },
             {
-            id:298,
+            id:349,
             eng:"to feed gungry street dogs",
             ru:"кормить голодных бездомных собак"
             },
             {
-            id:299,
+            id:350,
             eng:"to feel happy",
             ru:"чувствовать себя счастливым"
             },
             {
-            id:300,
+            id:351,
             eng:"to feel lazy",
             ru:"чувстовать себя лениво"
             },
             {
-            id:301,
+            id:352,
             eng:"to feel lonely",
             ru:"чувствовать себя одиноким"
             },
             {
-            id:302,
+            id:353,
             eng:"to feel tired",
             ru:"чувствовать себя уставшим"
             },
             {
-            id:303,
+            id:354,
             eng:"to fight a battle",
             ru:"сражаться в битве"
             },
             {
-            id:304,
+            id:355,
             eng:"to fight against discrimination",
             ru:"бороться против дискриминации"
             },
             {
-            id:305,
+            id:356,
             eng:"to fight for justice",
             ru:"бороться за справедливость"
             },
             {
-            id:306,
+            id:357,
             eng:"to fight Vincent",
             ru:"сражаться с Винсентом"
             },
             {
-            id:307,
+            id:358,
             eng:"to find a hidden treasure",
             ru:"найти скрытый сокровище"
             },
             {
-            id:308,
+            id:359,
             eng:"to find a solution",
             ru:"найти решение"
             },
             {
-            id:309,
+            id:360,
             eng:"to find a way to become rich",
             ru:"найти способ стать богатым"
             },
             {
-            id:310,
+            id:361,
             eng:"to find inner peace",
             ru:"обрести внутренний покой"
             },
             {
-            id:311,
+            id:362,
             eng:"to finish learning English",
             ru:"закончить изучение английского"
             },
             {
-            id:312,
+            id:363,
             eng:"to finish my homework",
             ru:"закончить моё домашнее задание"
             },
             {
-            id:313,
+            id:364,
             eng:"to fly a kite",
             ru:"запустить воздушного змея"
             },
             {
-            id:314,
+            id:365,
             eng:"to fly first class",
             ru:"лететь первым классом"
             },
             {
-            id:315,
+            id:366,
             eng:"to fly on a hot air balloon",
             ru:"лететь на воздушном шаре"
             },
             {
-            id:316,
+            id:367,
             eng:"to fly on a plane",
             ru:"лететь на самолете"
             },
             {
-            id:317,
+            id:368,
             eng:"to fly to a business trip",
             ru:"лететь в командировку"
             },
             {
-            id:318,
+            id:369,
             eng:"to fly to Hawaii",
             ru:"полететь на Гаваи"
             },
             {
-            id:319,
+            id:370,
             eng:"to forget someone's name",
             ru:"забыть имя кого-то"
             },
             {
-            id:320,
+            id:371,
             eng:"to forget something",
             ru:"забыть что-то"
             },
             {
-            id:321,
+            id:372,
             eng:"to forget something in a bus",
             ru:"забыть что-то в автобусе"
             },
             {
-            id:322,
+            id:373,
             eng:"to forget the past",
             ru:"забыть о прошлом"
             },
             {
-            id:323,
+            id:374,
             eng:"to forgive and forget mistakes",
             ru:"прощать и забывать ошибки"
             },
             {
-            id:324,
+            id:375,
             eng:"to forgive somebody",
             ru:"простить кого-то"
             },
             {
-            id:325,
+            id:376,
             eng:"to forgive someone",
             ru:"простить кого-то"
             },
             {
-            id:326,
+            id:377,
             eng:"to forgive Vincent for kissing me",
             ru:"простить Винсента за его поцелуи"
             },
             {
-            id:327,
+            id:378,
             eng:"to freeze a bank account",
             ru:"заморозить банковский счёт"
             },
             {
-            id:328,
+            id:379,
             eng:"to freeze because it's cold",
             ru:"замёрзнуть от холода"
             },
             {
-            id:329,
+            id:380,
             eng:"to freeze food",
             ru:"замораживать еду"
             },
             {
-            id:330,
+            id:381,
             eng:"to get a good night's sleep",
             ru:"выспаться хорошо ночью"
             },
             {
-            id:331,
+            id:382,
             eng:"to get a present from somebody",
             ru:"получить подарок от кого-то"
             },
             {
-            id:332,
+            id:383,
             eng:"to get a promotion",
             ru:"получить повышение"
             },
             {
-            id:333,
+            id:384,
             eng:"to get a tattoo",
             ru:"сделать татуировку"
             },
             {
-            id:334,
+            id:385,
             eng:"to get dressed",
             ru:"одеться"
             },
             {
-            id:335,
+            id:386,
             eng:"to get lost",
             ru:"заблудиться, потеряться"
             },
             {
-            id:336,
+            id:387,
             eng:"to give a birth to a child",
             ru:"родить ребёнка"
             },
             {
-            id:337,
+            id:388,
             eng:"to give a gift",
             ru:"дарить подарок"
             },
             {
-            id:338,
+            id:389,
             eng:"to give a present to somebody",
             ru:"дарить подарок кому-то"
             },
             {
-            id:339,
+            id:390,
             eng:"to give advice",
             ru:"давать совет"
             },
             {
-            id:340,
+            id:391,
             eng:"to give all money to Vincent",
             ru:"отдать всю деньги Винсенту"
             },
             {
-            id:341,
+            id:392,
             eng:"to give great big hugs",
             ru:"давать большие объятия"
             },
             {
-            id:342,
+            id:393,
             eng:"to go for a walk",
             ru:"пойти на прогулку"
             },
             {
-            id:343,
+            id:394,
             eng:"to go home",
             ru:"идти домой"
             },
             {
-            id:344,
+            id:395,
             eng:"to go on vacation",
             ru:"отправиться в отпуск"
             },
             {
-            id:345,
+            id:396,
             eng:"to go to a bar",
             ru:"пойти в бар"
             },
             {
-            id:346,
+            id:397,
             eng:"to go to a shop",
             ru:"пойти в магазин"
             },
             {
-            id:347,
+            id:398,
             eng:"to go to a strip club",
             ru:"пойти в стрип-клуб"
             },
             {
-            id:348,
+            id:399,
             eng:"to go to the GYM",
             ru:"пойти в спортзал"
             },
             {
-            id:349,
+            id:400,
             eng:"to go to the toilet",
             ru:"пойти в туалет"
             },
             {
-            id:350,
+            id:401,
             eng:"to grow a business",
             ru:"развивать бизнес"
             },
             {
-            id:351,
+            id:402,
             eng:"to grow a garden",
             ru:"выращивать сад"
             },
             {
-            id:352,
+            id:403,
             eng:"to grow older",
             ru:"стареть"
             },
             {
-            id:353,
+            id:404,
             eng:"to grow plants",
             ru:"выращивать растения"
             },
             {
-            id:354,
+            id:405,
             eng:"to have a chat with Vincent",
             ru:"поговорить с Винсентом"
             },
             {
-            id:355,
+            id:406,
             eng:"to have a conversation",
             ru:"провести разговор"
             },
             {
-            id:356,
+            id:407,
             eng:"to have a good time",
             ru:"провести хорошее время"
             },
             {
-            id:357,
+            id:408,
             eng:"to have a shower",
             ru:"мыться в душе"
             },
             {
-            id:358,
+            id:409,
             eng:"to have breakfast",
             ru:"позавтракать"
             },
             {
-            id:359,
+            id:410,
             eng:"to hear some noise",
             ru:"услышать какой-то шум"
             },
             {
-            id:360,
+            id:411,
             eng:"to hide a secret",
             ru:"скрыть секрет"
             },
             {
-            id:361,
+            id:412,
             eng:"to hide all emotions",
             ru:"скрыть все эмоции"
             },
             {
-            id:362,
+            id:413,
             eng:"to hide from someone",
             ru:"скрыться, прятаться от кого-то"
             },
             {
-            id:363,
+            id:414,
             eng:"to hide money",
             ru:"скрывать, прятать деньги"
             },
             {
-            id:364,
+            id:415,
             eng:"to hit on somebody",
             ru:"флиртовать с кем-то, приударить за кем-то"
             },
             {
-            id:365,
+            id:416,
             eng:"to hit rock bottom",
             ru:"достичь дна, обнищать"
             },
             {
-            id:366,
+            id:417,
             eng:"to hit the jackpot",
             ru:"выиграть джекпот"
             },
             {
-            id:367,
+            id:418,
             eng:"to hit Vincent and run",
             ru:"ударить по Винсенту и убежать"
             },
             {
-            id:368,
+            id:419,
             eng:"to hold a door",
             ru:"подержать дверь"
             },
             {
-            id:369,
+            id:420,
             eng:"to hold hands with someone",
             ru:"держать кого-то за руку"
             },
             {
-            id:370,
+            id:421,
             eng:"to hold somebody on my hands",
             ru:"держать кого-то на руках"
             },
             {
-            id:371,
+            id:422,
             eng:"to hold the breath",
             ru:"задержать дыхание"
             },
             {
-            id:372,
+            id:423,
             eng:"to hurt somebody",
             ru:"причинить кому-то боль"
             },
             {
-            id:373,
+            id:424,
             eng:"to hurt someone's feelings",
             ru:"уязвить чьи-то чувства"
             },
             {
-            id:374,
+            id:425,
             eng:"to join a cult",
             ru:"вступить в секту"
             },
             {
-            id:375,
+            id:426,
             eng:"to kiss with a lovely person",
             ru:"целоваться с любимым человеком"
             },
             {
-            id:376,
+            id:427,
             eng:"to leave a job",
             ru:"покинуть работу"
             },
             {
-            id:377,
+            id:428,
             eng:"to leave a message to someone",
             ru:"оставить сообщение кому-то"
             },
             {
-            id:378,
+            id:429,
             eng:"to leave a note",
             ru:"оставить записку"
             },
             {
-            id:379,
+            id:430,
             eng:"to leave a room",
             ru:"уйти из комнаты"
             },
             {
-            id:380,
+            id:431,
             eng:"to leave some cash for the waiter",
             ru:"оставить чаевых официанту"
             },
             {
-            id:381,
+            id:432,
             eng:"to lend a book to someone",
             ru:"одолжить книгу кому-то"
             },
             {
-            id:382,
+            id:433,
             eng:"to lend money to my friend",
             ru:"одолжить деньги другу"
             },
             {
-            id:383,
+            id:434,
             eng:"to lend my Landrover to Vincent",
             ru:"одолжить свою машину Vincent'у"
             },
             {
-            id:384,
+            id:435,
             eng:"to let my emotions go out",
             ru:"выпустить мои эмоции"
             },
             {
-            id:385,
+            id:436,
             eng:"to let my teacher kiss me",
             ru:"позволить моему учителю поцеловать меня"
             },
             {
-            id:386,
+            id:437,
             eng:"to let someone buy a drink",
             ru:"позволить кому-то купить напиток или выпивку"
             },
             {
-            id:387,
+            id:438,
             eng:"to let someone know what I feel",
             ru:"сказать кому-то, что я чувствую"
             },
             {
-            id:388,
+            id:439,
             eng:"to listen to hip-hop music",
             ru:"слушать хип-хоп музыку"
             },
             {
-            id:389,
+            id:440,
             eng:"to listen to my teacher",
             ru:"слушать моего учителя"
             },
             {
-            id:390,
+            id:441,
             eng:"to listen to some music",
-            ru:"послушать музыку"
+            ru:"послушать какую-то музыку"
             },
             {
-            id:391,
+            id:442,
             eng:"to listen to the news",
             ru:"слушать новости"
             },
             {
-            id:392,
+            id:443,
             eng:"to lose a game",
             ru:"проиграть игру"
             },
             {
-            id:393,
+            id:444,
             eng:"to lose all money in a casino",
             ru:"просадить все деньги в казино"
             },
             {
-            id:394,
+            id:445,
             eng:"to lose hope",
             ru:"потерять надежду"
             },
             {
-            id:395,
+            id:446,
             eng:"to lose something",
             ru:"потерять что-то"
             },
             {
-            id:396,
+            id:447,
             eng:"to lose the temper",
             ru:"потерять терпение"
             },
             {
-            id:397,
+            id:448,
             eng:"to lose track of time",
             ru:"потерять чувство времени"
             },
             {
-            id:398,
+            id:449,
             eng:"to lose weight",
             ru:"похудеть"
             },
             {
-            id:399,
+            id:450,
             eng:"to make a decision",
             ru:"принять решение"
             },
             {
-            id:400,
+            id:451,
             eng:"to make a new friend",
             ru:"завести нового друга"
             },
             {
-            id:401,
+            id:452,
             eng:"to make a plan",
             ru:"составить план"
             },
             {
-            id:402,
+            id:453,
             eng:"to make mistakes",
             ru:"делать ошибки"
             },
             {
-            id:403,
+            id:454,
             eng:"to make new friends",
             ru:"завести новых друзей"
             },
             {
-            id:404,
+            id:455,
             eng:"to make something out of paper",
             ru:"сделать что-то из бумаги"
             },
             {
-            id:405,
+            id:456,
             eng:"to meet a person of my dreams",
             ru:"встретить человека моей мечты"
             },
             {
-            id:406,
+            id:457,
             eng:"to meet a teacher",
             ru:"встретить учителя"
             },
             {
-            id:407,
+            id:458,
             eng:"to meet new people",
             ru:"познакомиться с новыми людьми"
             },
             {
-            id:408,
+            id:459,
             eng:"to meet someone from the past",
             ru:"встретиться с кем-то из прошлого"
             },
             {
-            id:409,
+            id:460,
             eng:"to meet someonein the street",
             ru:"встретить кого-то на улице"
             },
             {
-            id:410,
+            id:461,
             eng:"to meet with somebody",
             ru:"встречаться с кем-то"
             },
             {
-            id:411,
+            id:462,
             eng:"to misspell a difficult word",
             ru:"неправильно написать сложное слово"
             },
             {
-            id:412,
+            id:463,
             eng:"to misspell a foreign word",
             ru:"неправильно написать иностранное слово"
             },
             {
-            id:413,
+            id:464,
             eng:"to misspell a name",
             ru:"неправильно написать имя"
             },
             {
-            id:414,
+            id:465,
             eng:"to misspell a word",
             ru:"ошибиться в написании слова"
             },
             {
-            id:415,
+            id:466,
             eng:"to mistake someone for someone else",
             ru:"перепутать кого-то с кем"
             },
             {
-            id:416,
+            id:467,
             eng:"to overeat and feel stuffed",
             ru:"переедать и чувствовать себя переполненным"
             },
             {
-            id:417,
+            id:468,
             eng:"to overeat and regret it later",
             ru:"переедать и пожалеть об этом позже"
             },
             {
-            id:418,
+            id:469,
             eng:"to pay a visit to Vincent",
             ru:"навестить Винсента"
             },
             {
-            id:419,
+            id:470,
             eng:"to pay for something",
             ru:"оплатить что-то"
             },
             {
-            id:420,
+            id:471,
             eng:"to pay more attention to details",
             ru:"уделять больше внимания деталям"
             },
             {
-            id:421,
+            id:472,
             eng:"to pay the bill",
             ru:"оплатить счет"
             },
             {
-            id:422,
+            id:473,
             eng:"to play a favorite game",
             ru:"играть в любимую игру"
             },
             {
-            id:423,
+            id:474,
             eng:"to play computer games",
             ru:"играть в компьютерные игры"
             },
             {
-            id:424,
+            id:475,
             eng:"to play football",
             ru:"играть в футбол"
             },
             {
-            id:425,
+            id:476,
             eng:"to put hands up",
             ru:"поднять руки вверх"
             },
             {
-            id:426,
+            id:477,
             eng:"to put my money into a bank",
             ru:"положить мои деньги в банк"
             },
             {
-            id:427,
+            id:478,
             eng:"to put my money under my pillow",
             ru:"положить мои деньги под подушку"
             },
             {
-            id:428,
+            id:479,
             eng:"to put my most expensive suit",
             ru:"надеть мой самый дорогой костюм"
             },
             {
-            id:429,
+            id:480,
             eng:"to put my sexiest costume",
             ru:"надеть мой самый сексуальный костюм"
             },
             {
-            id:430,
+            id:481,
             eng:"to read a book",
             ru:"прочитать книгу"
             },
             {
-            id:431,
+            id:482,
             eng:"to read a newspaper",
             ru:"читать газету"
             },
             {
-            id:432,
+            id:483,
             eng:"to read English words out loud",
             ru:"читать английские слова вслух"
             },
             {
-            id:433,
+            id:484,
             eng:"to read Instagram and post stories",
             ru:"читать Инстаграм и выкладывать истории"
             },
             {
-            id:434,
+            id:485,
             eng:"to read poems",
             ru:"читать стихи"
             },
             {
-            id:435,
+            id:486,
             eng:"to read someone's mind",
             ru:"прочитать чью-то мысль"
             },
             {
-            id:436,
+            id:487,
             eng:"to read useful information",
             ru:"читать полезную информацию"
             },
             {
-            id:437,
+            id:488,
             eng:"to relax",
             ru:"расслабиться"
             },
             {
-            id:438,
+            id:489,
             eng:"to relax and sleep",
             ru:"расслабиться и уснуть"
             },
             {
-            id:439,
+            id:490,
             eng:"to ride a bicycle",
             ru:"кататься на велосипеде"
             },
             {
-            id:440,
+            id:491,
             eng:"to ride a bike",
             ru:"ездить на велосипеде"
             },
             {
-            id:441,
+            id:492,
             eng:"to ride a horse",
             ru:"кататься на лошади"
             },
             {
-            id:442,
+            id:493,
             eng:"to ride a motorbike",
             ru:"ездить на мотоцикле"
             },
             {
-            id:443,
+            id:494,
             eng:"to ride a pony",
             ru:"кататься на пони"
             },
             {
-            id:444,
+            id:495,
             eng:"to ride a roller coaster",
             ru:"кататься на американских горках"
             },
             {
-            id:445,
+            id:496,
             eng:"to ride a skateboard",
             ru:"кататься на скейте"
             },
             {
-            id:446,
+            id:497,
             eng:"to ride a snowboard",
             ru:"кататься на сноуборде"
             },
             {
-            id:447,
+            id:498,
             eng:"to ride the boat",
             ru:"ходить на лодке"
             },
             {
-            id:448,
+            id:499,
             eng:"to ride the ski",
             ru:"кататься на лыжах"
             },
             {
-            id:449,
+            id:500,
             eng:"to ride the subway",
             ru:"ездить в метро"
             },
             {
-            id:450,
+            id:501,
             eng:"to ring a bell",
             ru:"позвонить в звонок"
             },
             {
-            id:451,
+            id:502,
             eng:"to ring the doorbell",
             ru:"позвонить в дверной звонок"
             },
             {
-            id:452,
+            id:503,
             eng:"to rise and shine",
             ru:"встать и сиять, проснуться и петь"
             },
             {
-            id:453,
+            id:504,
             eng:"to rise in popularity",
             ru:"повысить популярность"
             },
             {
-            id:454,
+            id:505,
             eng:"to run a business",
             ru:"вести бизнес"
             },
             {
-            id:455,
+            id:506,
             eng:"to run a marathon",
             ru:"бежать марафон"
             },
             {
-            id:456,
+            id:507,
             eng:"to run after the bus",
             ru:"гоняться за автобусом"
             },
             {
-            id:457,
+            id:508,
             eng:"to run somewhere",
             ru:"бежать куда-то"
             },
             {
-            id:458,
+            id:509,
             eng:"to run to work",
             ru:"бежать на работу"
             },
             {
-            id:459,
+            id:510,
             eng:"to run very fast",
             ru:"бежать очень быстро"
             },
             {
-            id:460,
+            id:511,
             eng:"to say a prayer",
             ru:"произнести молитву"
             },
             {
-            id:461,
+            id:512,
             eng:"to say goodbye",
             ru:"прощаться, сказать 'пока'"
             },
             {
-            id:462,
+            id:513,
             eng:"to say hello to someone",
             ru:"поприветствовать кого-то"
             },
             {
-            id:463,
+            id:514,
             eng:"to say something nice",
             ru:"произнести что-то приятное"
             },
             {
-            id:464,
+            id:515,
             eng:"to see a doctor",
             ru:"посетить, увидеться с доктором"
             },
             {
-            id:465,
+            id:516,
             eng:"to sell a house",
             ru:"продать дом"
             },
             {
-            id:466,
+            id:517,
             eng:"to sell all my things",
             ru:"продать все мои вещи"
             },
             {
-            id:467,
+            id:518,
             eng:"to sell my phone",
             ru:"продать мой телефон"
             },
             {
-            id:468,
+            id:519,
             eng:"to sell organs",
             ru:"продать органы"
             },
             {
-            id:469,
+            id:520,
             eng:"to send a gift to somebody",
             ru:"отправить подарок кому-то"
             },
             {
-            id:470,
+            id:521,
             eng:"to send a letter",
             ru:"отправить письмо"
             },
             {
-            id:471,
+            id:522,
             eng:"to send a message",
             ru:"отправить сообщение"
             },
             {
-            id:472,
+            id:523,
             eng:"to send an email",
             ru:"отправить электронное письмо"
             },
             {
-            id:473,
+            id:524,
             eng:"to send romantic postcards to a teacher",
             ru:"отправлять романтические открытки учителю"
             },
             {
-            id:474,
+            id:525,
             eng:"to shake a milkshake",
             ru:"взбить молочный коктейль"
             },
             {
-            id:475,
+            id:526,
             eng:"to shake because of fear",
             ru:"трястись от страха"
             },
             {
-            id:476,
+            id:527,
             eng:"to shake hands",
             ru:"пожать руку"
             },
             {
-            id:477,
+            id:528,
             eng:"to shake my bottom",
             ru:"потрясти зад"
             },
             {
-            id:478,
+            id:529,
             eng:"to shoot a film",
             ru:"снимать фильм"
             },
             {
-            id:479,
+            id:530,
             eng:"to shoot from a fake gun",
             ru:"стрелять из поддельного оружия"
             },
             {
-            id:480,
+            id:531,
             eng:"to shoot from my imaginary gun",
             ru:"стрелять из моего вымышленного оружия"
             },
             {
-            id:481,
+            id:532,
             eng:"to shoot somebody",
             ru:"стрелять в кого-то"
             },
             {
-            id:482,
+            id:533,
             eng:"to shut a window",
             ru:"закрыть окно"
             },
             {
-            id:483,
+            id:534,
             eng:"to shut down a computer",
             ru:"выключить компьютер"
             },
             {
-            id:484,
+            id:535,
             eng:"to shut the door",
             ru:"захлопнуть дверь"
             },
             {
-            id:485,
+            id:536,
             eng:"to shut up",
             ru:"замолчать, заткнуться"
             },
             {
-            id:486,
+            id:537,
             eng:"to sing a nice song",
             ru:"спеть приятную песню"
             },
             {
-            id:487,
+            id:538,
             eng:"to sing a sweet song",
             ru:"спеть милую песню"
             },
             {
-            id:488,
+            id:539,
             eng:"to sing along to Vincent's song",
             ru:"подпевать песне Винсента"
             },
             {
-            id:489,
+            id:540,
             eng:"to sing disgusting songs",
             ru:"петь отвратительные песни"
             },
             {
-            id:490,
+            id:541,
             eng:"to sing favorite songs",
             ru:"петь любимые песни"
             },
             {
-            id:491,
+            id:542,
             eng:"to sing in the shower",
             ru:"петь в душе"
             },
             {
-            id:492,
+            id:543,
             eng:"to sit in a chair",
             ru:"сидеть на стуле"
             },
             {
-            id:493,
+            id:544,
             eng:"to sit in the cinema",
             ru:"сидеть в кинотеатре"
             },
             {
-            id:494,
+            id:545,
             eng:"to sit quietly",
             ru:"сидеть тихо"
             },
             {
-            id:495,
+            id:546,
             eng:"to sleep",
             ru:"спать"
             },
             {
-            id:496,
+            id:547,
             eng:"to sleep a lot",
             ru:"много спать"
             },
             {
-            id:497,
+            id:548,
             eng:"to sleep and catch dreams",
             ru:"спать и ловить сны"
             },
             {
-            id:498,
+            id:549,
             eng:"to sleep like a baby",
             ru:"спать как младенец"
             },
             {
-            id:499,
+            id:550,
             eng:"to slide down a slide",
             ru:"скатиться с горки"
             },
             {
-            id:500,
+            id:551,
             eng:"to slide into a comfortable position",
             ru:"устраиваться в удобное положение"
             },
             {
-            id:501,
+            id:552,
             eng:"to slide on my bottom",
             ru:"скользить на заднице"
             },
             {
-            id:502,
+            id:553,
             eng:"to slide on some ice-slides",
             ru:"скользить на ледовых горках"
             },
             {
-            id:503,
+            id:554,
             eng:"to smile at somebody",
             ru:"улыбнуться кому-то"
             },
             {
-            id:504,
-            eng:"to smoke a cigar",
-            ru:"курить сигару"
-            },
-            {
-            id:505,
-            eng:"to smoke a cigarette",
-            ru:"курить сигарету"
-            },
-            {
-            id:506,
-            eng:"to smoke a hookah",
-            ru:"курить кальян"
-            },
-            {
-            id:507,
-            eng:"to smoke with Vincent",
-            ru:"курить с Винсентом"
-            },
-            {
-            id:508,
+            id:555,
             eng:"to speak English",
             ru:"говорить по-английски"
             },
             {
-            id:509,
+            id:556,
             eng:"to speak English very loudly",
             ru:"разговаривать на английском очень громко"
             },
             {
-            id:510,
+            id:557,
             eng:"to speak in public",
             ru:"говорить публично"
             },
             {
-            id:511,
+            id:558,
             eng:"to speak Spanish",
             ru:"говорить по-испански"
             },
             {
-            id:512,
+            id:559,
             eng:"to speak with animals",
             ru:"разговаривать с животными"
             },
             {
-            id:513,
+            id:560,
             eng:"to speak with somebody",
             ru:"разговаривать с кем-то"
             },
             {
-            id:514,
+            id:561,
             eng:"to spend a lot of money",
             ru:"тратить много денег"
             },
             {
-            id:515,
+            id:562,
             eng:"to spend a vacation",
             ru:"провести отпуск"
             },
             {
-            id:516,
+            id:563,
             eng:"to spend money on something",
             ru:"тратить деньги на что-то"
             },
             {
-            id:517,
+            id:564,
             eng:"to spend quality time",
             ru:"проводить качественное время"
             },
             {
-            id:518,
+            id:565,
             eng:"to spend some time with important people",
             ru:"провести время с важными людьми"
             },
             {
-            id:519,
+            id:566,
             eng:"to stand in line",
             ru:"стоять в очереди"
             },
             {
-            id:520,
+            id:567,
             eng:"to stand on one leg",
             ru:"стоять на одной ноге"
             },
             {
-            id:521,
+            id:568,
             eng:"to start a company",
             ru:"начать компанию"
             },
             {
-            id:522,
+            id:569,
             eng:"to start a new business",
             ru:"начать новый бизнес"
             },
             {
-            id:523,
+            id:570,
             eng:"to start to learn a new language",
             ru:"начать изучать новый язык"
             },
             {
-            id:524,
+            id:571,
             eng:"to start to play video games",
             ru:"начать играть в видеоигры"
             },
             {
-            id:525,
+            id:572,
             eng:"to steal a wallet",
             ru:"украсть бумажник, кошелёк"
             },
             {
-            id:526,
+            id:573,
             eng:"to steal money from the bank",
             ru:"украсть деньги из банка"
             },
             {
-            id:527,
+            id:574,
             eng:"to steal someone's heart",
             ru:"украсть чьё-то сердце"
             },
             {
-            id:528,
+            id:575,
             eng:"to stick a poster on the wall",
             ru:"приклеить плакат на стену"
             },
             {
-            id:529,
+            id:576,
             eng:"to stick out the tongue and smile",
             ru:"высунуть язык и улыбнуться"
             },
             {
-            id:530,
+            id:577,
             eng:"to study a lot",
             ru:"много учиться"
             },
             {
-            id:531,
+            id:578,
             eng:"to study hard",
             ru:"усердно учиться"
             },
             {
-            id:532,
+            id:579,
             eng:"to study how to be a good person",
             ru:"изучать, как быть хорошим человеком"
             },
             {
-            id:533,
+            id:580,
             eng:"to swear at someone",
             ru:"материться на кого-то"
             },
             {
-            id:534,
+            id:581,
             eng:"to sweep the floor",
             ru:"подметать пол"
             },
             {
-            id:535,
+            id:582,
             eng:"to swim in a swimming pool",
             ru:"плавать в бассейне"
             },
             {
-            id:536,
+            id:583,
             eng:"to swim in the ocean",
             ru:"плавать в океане"
             },
             {
-            id:537,
+            id:584,
             eng:"to swim in the sea",
             ru:"плавать в море"
             },
             {
-            id:538,
+            id:585,
             eng:"to take a bottle of beer",
             ru:"взять бутылку пива"
             },
             {
-            id:539,
+            id:586,
             eng:"to take a break",
             ru:"взять перерыв"
             },
             {
-            id:540,
+            id:587,
             eng:"to take a day off",
             ru:"взять выходной"
             },
             {
-            id:541,
+            id:588,
             eng:"to take a photo",
             ru:"сделать фотографию, сфотографироваться"
             },
             {
-            id:542,
+            id:589,
             eng:"to take a shower",
             ru:"принимать душ"
             },
             {
-            id:543,
+            id:590,
             eng:"to talk on the phone",
             ru:"разговаривать по телефону"
             },
             {
-            id:544,
+            id:591,
             eng:"to talk to some crazy people",
             ru:"поговорить с кем-то безумным"
             },
             {
-            id:545,
+            id:592,
             eng:"to talk with important people",
             ru:"общаться со значимыми людьми"
             },
             {
-            id:546,
+            id:593,
             eng:"to teach somebody English",
             ru:"преподавать кому-то английский"
             },
             {
-            id:547,
+            id:594,
             eng:"to teach somebody to do something",
             ru:"обучить кого-то делать что-то"
             },
             {
-            id:548,
+            id:595,
             eng:"to teach Vincent to smoke",
             ru:"научить Винсента курить"
             },
             {
-            id:549,
+            id:596,
             eng:"to tear a notebook",
             ru:"порвать тетрадь"
             },
             {
-            id:550,
+            id:597,
             eng:"to tear paper into pieces",
             ru:"порвать бумагу на кусочки"
             },
             {
-            id:551,
+            id:598,
             eng:"to tell a joke",
             ru:"рассказывать шутку"
             },
             {
-            id:552,
+            id:599,
             eng:"to tell a lie",
             ru:"наврать, солгать"
             },
             {
-            id:553,
+            id:600,
             eng:"to tell a secret",
             ru:"рассказать секрет"
             },
             {
-            id:554,
+            id:601,
             eng:"to tell everybody about my secrets",
             ru:"рассказать всем о моих секретах"
             },
             {
-            id:555,
+            id:602,
             eng:"to tell the truth",
             ru:"рассказать правду"
             },
             {
-            id:556,
+            id:603,
             eng:"to think about something",
             ru:"думать о чем-то"
             },
             {
-            id:557,
+            id:604,
             eng:"to think outside the box",
             ru:"думать нестандартно, креативно, вне рамок"
             },
             {
-            id:558,
+            id:605,
             eng:"to throw a ball",
             ru:"кинуть мяч"
             },
             {
-            id:559,
+            id:606,
             eng:"to throw a party",
             ru:"устроить вечеринку"
             },
             {
-            id:560,
+            id:607,
             eng:"to throw away trash",
             ru:"выьросить мусор"
             },
             {
-            id:561,
+            id:608,
             eng:"to throw something into the water",
             ru:"бросить что-то в воду"
             },
             {
-            id:562,
+            id:609,
             eng:"to touch a bellybutton",
             ru:"трогать пупок"
             },
             {
-            id:563,
+            id:610,
             eng:"to try to understand this life",
             ru:"попытаться понять эту жизнь"
             },
             {
-            id:564,
+            id:611,
             eng:"to use time wisely",
             ru:"использовать время с умом, мудро, разумно"
             },
             {
-            id:565,
+            id:612,
             eng:"to wake up and do exercises",
             ru:"проснуться и сделать зарядку"
             },
             {
-            id:566,
+            id:613,
             eng:"to wake up and tell everybody about my dreams",
             ru:"проснуться и рассказать всем о моих снах"
             },
             {
-            id:567,
-            eng:"to walk with a dog",
-            ru:"гулять с собакой"
-            },
-            {
-            id:568,
-            eng:"to wash all body",
-            ru:"помыть всё тело"
-            },
-            {
-            id:569,
-            eng:"to wash face",
-            ru:"помыть лицо"
-            },
-            {
-            id:570,
-            eng:"to wash floors",
-            ru:"мыть полы"
-            },
-            {
-            id:571,
-            eng:"to wash my bottom",
-            ru:"помыть свою попу"
-            },
-            {
-            id:572,
-            eng:"to wash the body",
-            ru:"мыть тело"
-            },
-            {
-            id:573,
-            eng:"to wash Vincent's car",
-            ru:"помыть Винсенту машину"
-            },
-            {
-            id:574,
-            eng:"to watch films for adults",
-            ru:"смотреть фильмы для взрослых"
-            },
-            {
-            id:575,
-            eng:"to watch TikTok",
-            ru:"смотреть TikTok"
-            },
-            {
-            id:576,
-            eng:"to watch TV",
-            ru:"смотреть телевизор"
-            },
-            {
-            id:577,
-            eng:"to watch YouTube",
-            ru:"смотреть YouTube"
-            },
-            {
-            id:578,
+            id:614,
             eng:"to wear a hat",
             ru:"носить шляпу или шапку"
             },
             {
-            id:579,
+            id:615,
             eng:"to wear clothes inside out",
             ru:"носить одежду щиворот на выворот"
             },
             {
-            id:580,
+            id:616,
             eng:"to wear comfortable shoes",
             ru:"надеть удобную обувь"
             },
             {
-            id:581,
+            id:617,
             eng:"to wear sunscreen",
             ru:"нанести солнцезащитный крем"
             },
             {
-            id:582,
+            id:618,
             eng:"to win a competition",
             ru:"выиграть соревнование"
             },
             {
-            id:583,
+            id:619,
             eng:"to win a debate",
             ru:"выиграть дебаты"
             },
             {
-            id:584,
+            id:620,
             eng:"to win a game",
             ru:"выиграть игру"
             },
             {
-            id:585,
+            id:621,
             eng:"to win a prize",
             ru:"выиграть приз"
             },
             {
-            id:586,
+            id:622,
             eng:"to work hard",
             ru:"усердно работать"
             },
             {
-            id:587,
+            id:623,
             eng:"to write a book",
             ru:"написать книгу"
             },
             {
-            id:588,
+            id:624,
             eng:"to write a letter",
             ru:"написать письмо"
             },
             {
-            id:589,
+            id:625,
             eng:"to write a poem",
             ru:"написать стих"
             },
             {
-            id:590,
+            id:626,
             eng:"to write a report",
             ru:"написать отчет"
             },
             {
-            id:591,
+            id:627,
             eng:"to write a song",
             ru:"написать песню"
             },
             {
-            id:592,
+            id:628,
             eng:"to write dirty comments under somebody's post",
             ru:"писать грязные комментарии под чьим-то постом"
             },
             {
-            id:593,
+            id:629,
             eng:"to fix something",
             ru:"чинить что-нибудь"
             },
             {
-            id:594,
+            id:630,
             eng:"to look in the mirror",
             ru:"смотреть в зеркало"
-            },
-            {
-            id:595,
-            eng:"to destroy the world",
-            ru:"уничтожить мир"
-            },
-            {
-            id:596,
-            eng:"to try to smoke",
-            ru:"попробовать курить"
-            },
-            {
-            id:597,
-            eng:"to turn ON a TV and relax",
-            ru:"включить телек и расслабиться"
-            },
-            {
-            id:598,
-            eng:"to walk to the beach",
-            ru:"прогуляться до пляжа"
-            },
-            {
-            id:599,
-            eng:"to wait for a miracle",
-            ru:"ждать чуда"
-            },
-            {
-            id:600,
-            eng:"to kill some time",
-            ru:"убить немного времени"
-            },
-            {
-            id:601,
-            eng:"to kill a cocroach",
-            ru:"убить таракана"
-            },
-            {
-            id:602,
-            eng:"to push doors",
-            ru:"оттолкнуть двери от себя"
-            },
-            {
-            id:603,
-            eng:"to push somebody",
-            ru:"толкнуть кого-нибудь"
-            },
-            {
-            id:604,
-            eng:"to pull doors",
-            ru:"потянуть двери на себя"
-            },
-            {
-            id:605,
-            eng:"to press some buttons",
-            ru:"нажать какие-нибудь кнопки"
-            },
-            {
-            id:606,
-            eng:"to touch someone's hair",
-            ru:"прикоснуться к чьим-то волосам"
-            },
-            {
-            id:607,
-            eng:"to walk on a beach",
-            ru:"погулять по пляжу"
             },
     ],
     m04: [
@@ -4208,1435 +4583,952 @@ const allQuestionsOneDeck = {
             id:1,
             eng:"Глаголы - это слова, которым можно задать вопрос 'Что делать?' Например: спать, целоваться, пить и так далее. Как будет слово ГЛАГОЛ на английском?",
             ru:"Verbs / вЁрбз / глаголы a Verb / вЁрб / глагол например глаголы : sleep, kiss, drink, dance",
-            
             },
             {
             id:2,
             eng:"Существительные - это слова, которым можно задать вопрос 'Что?' Например: сон, поцелуй, напиток, танец. Переведи эти существительные на английский.",
             ru:"a sleep, a kiss, a drink, a dance, a job, a photo",
-            
             },
             {
             id:3,
             eng:"Прилагательные - это слова, которым можно задать вопрос 'Какой или какие, какое или какая?' Например: хороший, плохой, злой и так далее. Переведи эти слова.",
             ru:"GOOD / гУд / хороший BAD / бЭд / плохой EVIL / ивЭл / злой angry /Энгри/ сердитый",
-            
             },
             {
             id:4,
             eng:"В английском есть особенность,которой нет в русском языке. Какую букву англичане и американцы ставят перед всеми существ. в ед. числе?",
             ru:"Букву ' А ' они говорят всегда, когда говорят про что-то ОДНО. Это артикль. Примеры: I have a car - у меня машина You have a dog and a cat - у вас собака и кошка",
-            
             },
             {
             id:5,
             eng:"Артикли ' A и AN ' перед словами могут переводится: ОДИН, ОДИН ИЗ МНОГИХ, КАКОЙ-ТО. Когда ставятся эти артикли в английском? ",
             ru:"Ставим ' А ' перед всеми существ. в ед. числе, например ДОМ - a house. Артикль ' AN ' ставится если слово начинается с гласного звука например AN old house",
-            
             },
             {
             id:6,
             eng:"Какое окончание (какая английская буква) добавляется к существ. во множеств. числе? Например одна кружка / э кап / a cup много кружек MANY CUP_?",
             ru:"буква S добавляется к существительным во множественном числе. / кАпс / CUPS кружки / кЭпс / CAPS кепки / кОпс / COPS полицейские",
-            
             },
             {
             id:7,
             eng:"Когда в русском предложении нет глагола, в английском добавляем глагол ARE, AM, IS. Как он переводится, зачем он нужен?",
             ru:"Винсент называет его АРАМИС, он как мушкетёр-помощник в английском, он помогает грамотно строить английские предложения",
-            
             },
             {
             id:8,
             eng:"Глагол помощник ARE когда ставится? После каких местоимений?",
             ru:"Ставим ARE когда в русском предложении нет глаголов. Например: Мы друзья - We are friends Они друзья - they are friends Вы секси! - you are sexy! Ты крут - you are cool ",
-            
             },
             {
             id:9,
             eng:"Глагол помощник ' is ' когда ставится? После каких местоимений?",
             ru:"Ставим is когда в русском предложении нет глагола. Например: Он классный - He is cool Она хорошая - she is good Это плохо - it is bad Это Винсент - It's Vincent ",
-            
             },
             {
             id:10,
             eng:"Глагол помощник ' AM ' когда ставится? После какого местоимения?",
             ru:"Ставим AM когда в русском предложении нет глаголов. Например: Я высокий - I am tall / тол / я не высокий - I am not tall я высокий? - am I tall?",
-            
             },
             {
             id:11,
             eng:"Переведи на английский : Я люблю собак и кошек",
             ru:"I love dogs (я люблю) I like dogs (мне нравятся собаки)",
-            
             },
             {
             id:12,
             eng:"Переведи на английский : Нам нравится Английский",
             ru:"We like English - нам нравится We love English - мы любим",
-            
             },
             {
             id:13,
             eng:"Переведи на английский : Она красивая леди",
             ru:"She is a beautiful lady She is a beautiful girl She is a beautiful woman",
-            
             },
             {
             id:14,
             eng:"Переведи на английский : Я работаю каждый день",
             ru:"I work every day work - работать job - профессия, работа",
-            
             },
             {
             id:15,
             eng:"Переведи на английский : Они работают в банке",
             ru:"They work in a bank",
-            
             },
             {
             id:16,
             eng:"Переведи на английский : У тебя синяя машина",
             ru:"You have a blue car",
-            
             },
             {
             id:17,
             eng:"Переведи на английский : У меня старая машина",
             ru:"I have an old car",
-            
             },
             {
             id:18,
             eng:"Переведи на английский : У них старый кот",
             ru:"They have an old cat",
-            
             },
             {
             id:19,
             eng:"Переведи на английский : Это оранжевый апельсин",
             ru:"it is an orange orange this is an orange orange это - it  =  this - вот это",
-            
             },
-    ],
-    m008: [
-        {
-            id:1,
-            eng:"What is the English for: ` ноль `",
-            ru:"ZERO  / зИроу /",
-            
-            },
-            {
-            id:2,
-            eng:"What is the English for: ` один `",
-            ru:"ONE  / уан /",
-            
-            },
-            {
-            id:3,
-            eng:"What is the English for: ` два `",
-            ru:"TWO  / ту /",
-            
-            },
-            {
-            id:4,
-            eng:"What is the English for: ` три `",
-            ru:"THREE  / Thри /",
-            
-            },
-            {
-            id:5,
-            eng:"What is the English for: ` четыре `",
-            ru:"FOUR  / фо /",
-            
-            },
-            {
-            id:6,
-            eng:"What is the English for: ` пять `",
-            ru:"FIVE  / файв /",
-            
-            },
-            {
-            id:7,
-            eng:"What is the English for: ` шесть `",
-            ru:"SIX  / сыкс /",
-            
-            },
-            {
-            id:8,
-            eng:"What is the English for: ` семь `",
-            ru:"SEVEN  / сэвн /",
-            
-            },
-            {
-            id:9,
-            eng:"What is the English for: ` восемь `",
-            ru:"EIGHT  / эйт /",
-            
-            },
-            {
-            id:10,
-            eng:"What is the English for: ` девять `",
-            ru:"NINE  / найн /",
-            
-            },
-            {
-            id:11,
-            eng:"What is the English for: ` десять `",
-            ru:"TEN  / тэн /",
-            
-            },
-            {
-            id:12,
-            eng:"What is the English for: ` одиннадцать `",
-            ru:"ELEVEN  / илэвн /",
-            
-            },
-            {
-            id:13,
-            eng:"What is the English for: ` двенадцать `",
-            ru:"TWELVE  / туэлв /",
-            
-            },
-            {
-            id:14,
-            eng:"What is the English for: ` тринадцать `",
-            ru:"THIRTEEN  / THётИИИН /",
-            
-            },
-            {
-            id:15,
-            eng:"What is the English for: ` четырнадцать `",
-            ru:"FOURTEEN  / фотИИИН /",
-            
-            },
-            {
-            id:16,
-            eng:"What is the English for: ` пятнадцать `",
-            ru:"FIFTEEN  / фифтИИИН /",
-            
-            },
-            {
-            id:17,
-            eng:"What is the English for: ` шестнадцать `",
-            ru:"SIXTEEN  / сыкстИИИН /",
-            
-            },
-            {
-            id:18,
-            eng:"What is the English for: ` семнадцать `",
-            ru:"SEVENTEEN  / сэвнтИИИН /",
-            
-            },
-            {
-            id:19,
-            eng:"What is the English for: ` восемнадцать `",
-            ru:"EIGHTEEN  / эйтИИИН /",
-            
-            },
-            {
-            id:20,
-            eng:"What is the English for: ` девятнадцать `",
-            ru:"NINETEEN  / найнтИИИН /",
-            
-            },
-            {
-            id:21,
-            eng:"What is the English for: ` двадцать `",
-            ru:"TWENTY  / туЭнти /",
-            
-            },
-            {
-            id:22,
-            eng:"What is the English for: ` равно, равняется, есть, быть `",
-            ru:"IS  / из /",
-            
-            },
-            {
-            id:23,
-            eng:"What is the English for: ` плюс `",
-            ru:"PLUS  / плАс /",
-            
-            },
-            {
-            id:24,
-            eng:"What is the English for: ` минус `",
-            ru:"MINUS  / мАйнэс /",
-            
-            },
-            {
-                id:101,
-                eng:"How do you translate : ` zero / зИроу / `",
-                ru:"ноль",
-                
-                },
-                {
-                id:102,
-                eng:"How do you translate : ` one / уан / `",
-                ru:"один",
-                
-                },
-                {
-                id:103,
-                eng:"How do you translate : ` two / ту / `",
-                ru:"два",
-                
-                },
-                {
-                id:104,
-                eng:"How do you translate : ` three / Thри / `",
-                ru:"три",
-                
-                },
-                {
-                id:105,
-                eng:"How do you translate : ` four / фо / `",
-                ru:"четыре",
-                
-                },
-                {
-                id:106,
-                eng:"How do you translate : ` five / файв / `",
-                ru:"пять",
-                
-                },
-                {
-                id:107,
-                eng:"How do you translate : ` six / сыкс / `",
-                ru:"шесть",
-                
-                },
-                {
-                id:108,
-                eng:"How do you translate : ` seven / сэвн / `",
-                ru:"семь",
-                
-                },
-                {
-                id:109,
-                eng:"How do you translate : ` eight / эйт / `",
-                ru:"восемь",
-                
-                },
-                {
-                id:110,
-                eng:"How do you translate : ` nine / найн / `",
-                ru:"девять",
-                
-                },
-                {
-                id:111,
-                eng:"How do you translate : ` ten / тэн / `",
-                ru:"десять",
-                
-                },
-                {
-                id:112,
-                eng:"How do you translate : ` eleven / илэвн / `",
-                ru:"одиннадцать",
-                
-                },
-                {
-                id:113,
-                eng:"How do you translate : ` twelve / туэлв / `",
-                ru:"двенадцать",
-                
-                },
-                {
-                id:114,
-                eng:"How do you translate : ` thirteen / THётИИИН / `",
-                ru:"тринадцать",
-                
-                },
-                {
-                id:115,
-                eng:"How do you translate : ` fourteen / фотИИИН / `",
-                ru:"четырнадцать",
-                
-                },
-                {
-                id:116,
-                eng:"How do you translate : ` fifteen / фифтИИИН / `",
-                ru:"пятнадцать",
-                
-                },
-                {
-                id:117,
-                eng:"How do you translate : ` sixteen / сыкстИИИН / `",
-                ru:"шестнадцать",
-                
-                },
-                {
-                id:118,
-                eng:"How do you translate : ` seventeen / сэвнтИИИН / `",
-                ru:"семнадцать",
-                
-                },
-                {
-                id:119,
-                eng:"How do you translate : ` eighteen / эйтИИИН / `",
-                ru:"восемнадцать",
-                
-                },
-                {
-                id:120,
-                eng:"How do you translate : ` nineteen / найнтИИИН / `",
-                ru:"девятнадцать",
-                
-                },
-                {
-                id:121,
-                eng:"How do you translate : ` twenty / туЭнти / `",
-                ru:"двадцать",
-                
-                },
-                {
-                id:122,
-                eng:"How do you translate : ` is / из / `",
-                ru:"равно, равняется, есть, быть",
-                
-                },
-                {
-                id:123,
-                eng:"How do you translate : ` plus / плАс / `",
-                ru:"плюс",
-                
-                },
-                {
-                id:124,
-                eng:"How do you translate : ` minus / мАйнэс / `",
-                ru:"минус",
-                
-                },
-            
     ],
     m009old: [
         {
             id:1,
             eng:"What is the English for: ` ноль `",
             ru:"ZERO  / зИроу /",
-            
             },
             {
             id:2,
             eng:"What is the English for: ` один `",
             ru:"ONE  / уан /",
-            
             },
             {
             id:3,
             eng:"What is the English for: ` два `",
             ru:"TWO  / ту /",
-            
             },
             {
             id:4,
             eng:"What is the English for: ` три `",
             ru:"THREE  / Thри /",
-            
             },
             {
             id:5,
             eng:"What is the English for: ` четыре `",
             ru:"FOUR  / фо /",
-            
             },
             {
             id:6,
             eng:"What is the English for: ` пять `",
             ru:"FIVE  / файв /",
-            
             },
             {
             id:7,
             eng:"What is the English for: ` шесть `",
             ru:"SIX  / сыкс /",
-            
             },
             {
             id:8,
             eng:"What is the English for: ` семь `",
             ru:"SEVEN  / сэвн /",
-            
             },
             {
             id:9,
             eng:"What is the English for: ` восемь `",
             ru:"EIGHT  / эйт /",
-            
             },
             {
             id:10,
             eng:"What is the English for: ` девять `",
             ru:"NINE  / найн /",
-            
             },
             {
             id:11,
             eng:"What is the English for: ` десять `",
             ru:"TEN  / тэн /",
-            
             },
             {
             id:12,
             eng:"What is the English for: ` одиннадцать `",
             ru:"ELEVEN  / илэвн /",
-            
             },
             {
             id:13,
             eng:"What is the English for: ` двенадцать `",
             ru:"TWELVE  / туэлв /",
-            
             },
             {
             id:14,
             eng:"What is the English for: ` тринадцать `",
             ru:"THIRTEEN  / THётИИИН /",
-            
             },
             {
             id:15,
             eng:"What is the English for: ` четырнадцать `",
             ru:"FOURTEEN  / фотИИИН /",
-            
             },
             {
             id:16,
             eng:"What is the English for: ` пятнадцать `",
             ru:"FIFTEEN  / фифтИИИН /",
-            
             },
             {
             id:17,
             eng:"What is the English for: ` шестнадцать `",
             ru:"SIXTEEN  / сыкстИИИН /",
-            
             },
             {
             id:18,
             eng:"What is the English for: ` семнадцать `",
             ru:"SEVENTEEN  / сэвнтИИИН /",
-            
             },
             {
             id:19,
             eng:"What is the English for: ` восемнадцать `",
             ru:"EIGHTEEN  / эйтИИИН /",
-            
             },
             {
             id:20,
             eng:"What is the English for: ` девятнадцать `",
             ru:"NINETEEN  / найнтИИИН /",
-            
             },
             {
             id:21,
             eng:"What is the English for: ` двадцать `",
             ru:"TWENTY  / туЭнти /",
-            
             },
             {
             id:22,
             eng:"What is the English for: ` равно, равняется, есть, быть `",
             ru:"IS  / из /",
-            
             },
             {
             id:23,
             eng:"What is the English for: ` плюс `",
             ru:"PLUS  / плАс /",
-            
             },
             {
             id:24,
             eng:"What is the English for: ` минус `",
             ru:"MINUS  / мАйнэс /",
-            
             },
             {
                 id:101,
                 eng:"How do you translate : ` zero / зИроу / `",
                 ru:"ноль",
-                
                 },
                 {
                 id:102,
                 eng:"How do you translate : ` one / уан / `",
                 ru:"один",
-                
                 },
                 {
                 id:103,
                 eng:"How do you translate : ` two / ту / `",
                 ru:"два",
-                
                 },
                 {
                 id:104,
                 eng:"How do you translate : ` three / Thри / `",
                 ru:"три",
-                
                 },
                 {
                 id:105,
                 eng:"How do you translate : ` four / фо / `",
                 ru:"четыре",
-                
                 },
                 {
                 id:106,
                 eng:"How do you translate : ` five / файв / `",
                 ru:"пять",
-                
                 },
                 {
                 id:107,
                 eng:"How do you translate : ` six / сыкс / `",
                 ru:"шесть",
-                
                 },
                 {
                 id:108,
                 eng:"How do you translate : ` seven / сэвн / `",
                 ru:"семь",
-                
                 },
                 {
                 id:109,
                 eng:"How do you translate : ` eight / эйт / `",
                 ru:"восемь",
-                
                 },
                 {
                 id:110,
                 eng:"How do you translate : ` nine / найн / `",
                 ru:"девять",
-                
                 },
                 {
                 id:111,
                 eng:"How do you translate : ` ten / тэн / `",
                 ru:"десять",
-                
                 },
                 {
                 id:112,
                 eng:"How do you translate : ` eleven / илэвн / `",
                 ru:"одиннадцать",
-                
                 },
                 {
                 id:113,
                 eng:"How do you translate : ` twelve / туэлв / `",
                 ru:"двенадцать",
-                
                 },
                 {
                 id:114,
                 eng:"How do you translate : ` thirteen / THётИИИН / `",
                 ru:"тринадцать",
-                
                 },
                 {
                 id:115,
                 eng:"How do you translate : ` fourteen / фотИИИН / `",
                 ru:"четырнадцать",
-                
                 },
                 {
                 id:116,
                 eng:"How do you translate : ` fifteen / фифтИИИН / `",
                 ru:"пятнадцать",
-                
                 },
                 {
                 id:117,
                 eng:"How do you translate : ` sixteen / сыкстИИИН / `",
                 ru:"шестнадцать",
-                
                 },
                 {
                 id:118,
                 eng:"How do you translate : ` seventeen / сэвнтИИИН / `",
                 ru:"семнадцать",
-                
                 },
                 {
                 id:119,
                 eng:"How do you translate : ` eighteen / эйтИИИН / `",
                 ru:"восемнадцать",
-                
                 },
                 {
                 id:120,
                 eng:"How do you translate : ` nineteen / найнтИИИН / `",
                 ru:"девятнадцать",
-                
                 },
                 {
                 id:121,
                 eng:"How do you translate : ` twenty / туЭнти / `",
                 ru:"двадцать",
-                
                 },
                 {
                 id:122,
                 eng:"How do you translate : ` is / из / `",
                 ru:"равно, равняется, есть, быть",
-                
                 },
                 {
                 id:123,
                 eng:"How do you translate : ` plus / плАс / `",
                 ru:"плюс",
-                
                 },
                 {
                 id:124,
                 eng:"How do you translate : ` minus / мАйнэс / `",
                 ru:"минус",
-                
                 },
-            
     ],
-    alphabeta1: [
+    alphabetc1: [
         {
             id:1,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эй / `",
             ru:"apples, apricots, antibiotics",
-            
             },
             {
             id:2,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / би / `",
             ru:"black, bags, broccoli",
-            
             },
             {
             id:3,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / си / `",
             ru:"cars, cucumbers, carrots",
-            
             },
             {
             id:4,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ди / `",
             ru:"dragons, dracula, dolphin",
-            
             },
             {
             id:5,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / и / `",
             ru:"eleven, error, eagle, easy",
-            
             },
             {
             id:6,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эф / `",
             ru:"fantastic, fruits, ferrari",
-            
             },
             {
             id:7,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / джи / `",
             ru:"garages, god, good, gremlin",
-            
             },
             {
             id:8,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эйч / `",
             ru:"hot, hello, hamburger",
-            
             },
             {
             id:9,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ай / `",
             ru:"ice, ice-cream, illusion, in, it",
-            
             },
             {
             id:10,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / джэй / `",
             ru:"jamaica, joke, jelly, jaguar",
-            
             },
             {
             id:11,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / кей / `",
             ru:"ключ произносится /кИ/ произносить кЕй неправильно kangaroo, kitten, killer",
-            
             },
             {
             id:12,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эл / `",
             ru:"love, live, life, lamp",
-            
             },
             {
             id:13,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эм / `",
             ru:"money, mother, miracle",
-            
             },
             {
             id:14,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эн / `",
             ru:"never, nice, not, neck",
-            
             },
             {
             id:15,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / оу / `",
             ru:"or, ox, oscar, omg, ocean",
-            
             },
             {
             id:16,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / пи / `",
             ru:"pen, pull, push, play",
-            
             },
             {
             id:17,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / кью / `",
             ru:"question, quest, quality, quantity",
-            
             },
             {
             id:18,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / а / `",
             ru:"rock'n'roll, russia, revolver,run",
-            
             },
             {
             id:19,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эс / `",
             ru:"super, slim, skinny, strong",
-            
             },
             {
             id:20,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ти / `",
             ru:"team, tank, touch",
-            
             },
             {
             id:21,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ю / `",
             ru:"underground, united kingdom, universe, unique, umbrella",
-            
             },
             {
             id:22,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ви / `",
             ru:"violence, vision, vampire, vector, vladivostok",
-            
             },
             {
             id:23,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / дабл ю / `",
             ru:"windows, wizard, web, world",
-            
             },
             {
             id:24,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / экс / `",
             ru:"/ЭКС РЭЙ/ x-ray",
-            
             },
             {
             id:25,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / уай / `",
             ru:"yellow, yummy, yo, yup, yes",
-            
             },
             {
             id:26,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / ЗИ или  ZЭД / `",
             ru:"zebra, zimbabve, zanzibar, zombies",
-            
             },
             {
-                id:101,
-                eng:"Tell me any 2 English words beginning with a letter :  ` A / эй / `",
-                ru:"apples, apricots, antibiotics",
-                
-                },
-                {
-                id:102,
-                eng:"Tell me any 2 English words beginning with a letter :  ` B / би / `",
-                ru:"black, bags, broccoli",
-                
-                },
-                {
-                id:103,
-                eng:"Tell me any 2 English words beginning with a letter :  ` C / си / `",
-                ru:"cars, cucumbers, carrots",
-                
-                },
-                {
-                id:104,
-                eng:"Tell me any 2 English words beginning with a letter :  ` D / ди / `",
-                ru:"dragons, dracula, dolphin",
-                
-                },
-                {
-                id:105,
-                eng:"Tell me any 2 English words beginning with a letter :  ` E / и / `",
-                ru:"eleven, error, eagle, easy",
-                
-                },
-                {
-                id:106,
-                eng:"Tell me any 2 English words beginning with a letter :  ` F / эф / `",
-                ru:"fantastic, fruits, ferrari",
-                
-                },
-                {
-                id:107,
-                eng:"Tell me any 2 English words beginning with a letter :  ` G / джи / `",
-                ru:"garages, god, good, gremlin",
-                
-                },
-                {
-                id:108,
-                eng:"Tell me any 2 English words beginning with a letter :  ` H / эйч / `",
-                ru:"hot, hello, hamburger",
-                
-                },
-                {
-                id:109,
-                eng:"Tell me any 2 English words beginning with a letter :  ` I / ай / `",
-                ru:"ice, ice-cream, illusion, in, it",
-                
-                },
-                {
-                id:110,
-                eng:"Tell me any 2 English words beginning with a letter :  ` J / джэй / `",
-                ru:"jamaica, joke, jelly, jaguar",
-                
-                },
-                {
-                id:111,
-                eng:"Tell me any 2 English words beginning with a letter :  ` K / кей / `",
-                ru:"ключ произносится /кИ/ произносить кЕй неправильно kangaroo, kitten, killer",
-                
-                },
-                {
-                id:112,
-                eng:"Tell me any 2 English words beginning with a letter :  ` L / эл / `",
-                ru:"love, live, life, lamp",
-                
-                },
-                {
-                id:113,
-                eng:"Tell me any 2 English words beginning with a letter :  ` M / эм / `",
-                ru:"money, mother, miracle",
-                
-                },
-                {
-                id:114,
-                eng:"Tell me any 2 English words beginning with a letter :  ` N / эн / `",
-                ru:"never, nice, not, neck",
-                
-                },
-                {
-                id:115,
-                eng:"Tell me any 2 English words beginning with a letter :  ` O / оу / `",
-                ru:"or, ox, oscar, omg, ocean",
-                
-                },
-                {
-                id:116,
-                eng:"Tell me any 2 English words beginning with a letter :  ` P / пи / `",
-                ru:"pen, pull, push, play",
-                
-                },
-                {
-                id:117,
-                eng:"Tell me any 2 English words beginning with a letter :  ` Q / кью / `",
-                ru:"question, quest, quality, quantity",
-                
-                },
-                {
-                id:118,
-                eng:"Tell me any 2 English words beginning with a letter :  ` R / а / `",
-                ru:"rock'n'roll, russia, revolver,run",
-                
-                },
-                {
-                id:119,
-                eng:"Tell me any 2 English words beginning with a letter :  ` S / эс / `",
-                ru:"super, slim, skinny, strong",
-                
-                },
-                {
-                id:120,
-                eng:"Tell me any 2 English words beginning with a letter :  ` T / ти / `",
-                ru:"team, tank, touch",
-                
-                },
-                {
-                id:121,
-                eng:"Tell me any 2 English words beginning with a letter :  ` U / ю / `",
-                ru:"underground, united kingdom, universe, unique, umbrella",
-                
-                },
-                {
-                id:122,
-                eng:"Tell me any 2 English words beginning with a letter :  ` V / ви / `",
-                ru:"violence, vision, vampire, vector, vladivostok",
-                
-                },
-                {
-                id:123,
-                eng:"Tell me any 2 English words beginning with a letter :  ` W / дабл ю / `",
-                ru:"windows, wizard, web, world",
-                
-                },
-                {
-                id:124,
-                eng:"Как по английски сказать ' рентген '?",
-                ru:"/ЭКС РЭЙ/ x-ray",
-                
-                },
-                {
-                id:125,
-                eng:"Tell me any 2 English words beginning with a letter :  ` Y / уай / `",
-                ru:"yellow, yummy, yo, yup, yes",
-                
-                },
-                {
-                id:126,
-                eng:"Tell me any 2 English words beginning with a letter :  ` Z / ЗИ или  ZЭД / `",
-                ru:"zebra, zimbabve, zanzibar, zombies",
-                
-                },
-    ],
-    alphabeta2: [
-        {
             id:27,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` VINCENT `",
             ru:"Ви Ай Эн Си И Эн Ти",
-            
             },
             {
             id:28,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` NIKE `",
             ru:"Эн Ай Кей И",
-            
             },
             {
             id:29,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` PASSPORT `",
             ru:"Пи Эй Эс Эс Пи Оу А Ти",
-            
             },
             {
             id:30,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` RUSSIA `",
             ru:"А Ю Эс Эс Ай Эй",
-            
             },
             {
             id:31,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` FRANCE `",
             ru:"Эф А Эй Эн Си И",
-            
             },
             {
             id:32,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ENGLAND `",
             ru:"И Эн Джи Эл Эй Эн Ди",
-            
             },
             {
             id:33,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` MERCEDES `",
             ru:"Эм И А Си И Ди И Эс - Би И Эн Зи",
-            
             },
             {
             id:34,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` AUDI `",
             ru:"Эй Ю Ди Ай",
-            
             },
             {
             id:35,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` VOLVO `",
             ru:"Ви Оу Эл Ви Оу",
-            
             },
             {
             id:36,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` VOLKSWAGEN `",
             ru:"Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн",
-            
             },
             {
             id:37,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` BMW `",
             ru:"Би Эм Дабл Ю",
-            
             },
             {
             id:38,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` KANGAROO `",
             ru:"Кей Эй Эн Джи Эй А Оу Оу",
-            
             },
             {
             id:39,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` JOKER `",
             ru:"Джей Оу Кей И А",
-            
             },
             {
             id:40,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` MINECRAFT `",
             ru:"Эм Ай Эн И Си А Эй Эф Ти",
-            
             },
             {
             id:41,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HOUSE `",
             ru:"Эйч Оу Ю Эс И",
-            
             },
             {
             id:42,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` FOX `",
             ru:"Эф Оу Экс",
-            
             },
             {
             id:43,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` WINDOWS `",
             ru:"Дабл Ю Ай Эн Ди Оу Дабл Ю Эс",
-            
             },
             {
             id:44,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ANDROID `",
             ru:"Эй Эн Ди А Оу Ай Ди",
-            
             },
             {
             id:45,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` FATHER `",
             ru:"Эф Эй Ти Эйч И А",
-            
             },
             {
             id:46,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` MOTHER `",
             ru:"Эм Оу Ти Эйч И А",
-            
             },
             {
             id:47,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` TELEPHONE `",
             ru:"Ти И Эл И Пи Эйч Оу Эн И",
-            
             },
             {
             id:48,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` CHRISTMAS `",
             ru:"С ЭйчА Ай Эс Ти Эм Эй Эс",
-            
             },
             {
             id:49,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` EURO `",
             ru:"И Ю А Оу",
-            
             },
             {
             id:50,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` AMERICA `",
             ru:"Эй Эм И А Ай Си Эй",
-            
             },
             {
             id:51,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` COMPUTER `",
             ru:"Си Оу Эм Пи Ю Ти И А",
-            
             },
             {
             id:52,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ALASKA `",
             ru:"Эй Эл Эй Эс Кей Эй",
-            
             },
             {
             id:53,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` BATMAN `",
             ru:"Би Эй Ти Эм Эй Эн",
-            
             },
             {
             id:54,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ROCKNROLL `",
             ru:"А Оу Си Кей Эн А Оу Эл Эл",
-            
             },
             {
             id:55,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HAMBURGER `",
             ru:"Эйч Эй Эм Би Ю А Джи И А",
-            
             },
             {
             id:56,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` CHEESEBURGER `",
             ru:"Си Эйч И И Эс И Би Ю Аджи И А",
-            
             },
             {
             id:57,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HOMEWORK `",
             ru:"Эйч Оу Эм И Дабл Ю Оу А Кей",
-            
             },
             {
             id:58,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` ENGLISH `",
             ru:"И Эн Джи Эл Ай Эс Эйч",
-            
             },
             {
             id:59,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` JEEP `",
             ru:"Джей И И Пи",
-            
             },
             {
             id:60,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` CAR `",
             ru:"Си Эй А",
-            
             },
             {
             id:61,
             eng:"Попроси собеседника произнести для тебя слово по буквам. На английском это будет Spell the word for me. Spell : ` HOSPITAL `",
             ru:"Эйч Оу Эс Пи Ти Эй Эл",
-            
             },
             {
+                id:101,
+                eng:"Tell me any 2 English words beginning with a letter :  ` A / эй / `",
+                ru:"apples, apricots, antibiotics",
+                },
+                {
+                id:102,
+                eng:"Tell me any 2 English words beginning with a letter :  ` B / би / `",
+                ru:"black, bags, broccoli",
+                },
+                {
+                id:103,
+                eng:"Tell me any 2 English words beginning with a letter :  ` C / си / `",
+                ru:"cars, cucumbers, carrots",
+                },
+                {
+                id:104,
+                eng:"Tell me any 2 English words beginning with a letter :  ` D / ди / `",
+                ru:"dragons, dracula, dolphin",
+                },
+                {
+                id:105,
+                eng:"Tell me any 2 English words beginning with a letter :  ` E / и / `",
+                ru:"eleven, error, eagle, easy",
+                },
+                {
+                id:106,
+                eng:"Tell me any 2 English words beginning with a letter :  ` F / эф / `",
+                ru:"fantastic, fruits, ferrari",
+                },
+                {
+                id:107,
+                eng:"Tell me any 2 English words beginning with a letter :  ` G / джи / `",
+                ru:"garages, god, good, gremlin",
+                },
+                {
+                id:108,
+                eng:"Tell me any 2 English words beginning with a letter :  ` H / эйч / `",
+                ru:"hot, hello, hamburger",
+                },
+                {
+                id:109,
+                eng:"Tell me any 2 English words beginning with a letter :  ` I / ай / `",
+                ru:"ice, ice-cream, illusion, in, it",
+                },
+                {
+                id:110,
+                eng:"Tell me any 2 English words beginning with a letter :  ` J / джэй / `",
+                ru:"jamaica, joke, jelly, jaguar",
+                },
+                {
+                id:111,
+                eng:"Tell me any 2 English words beginning with a letter :  ` K / кей / `",
+                ru:"ключ произносится /кИ/ произносить кЕй неправильно kangaroo, kitten, killer",
+                },
+                {
+                id:112,
+                eng:"Tell me any 2 English words beginning with a letter :  ` L / эл / `",
+                ru:"love, live, life, lamp",
+                },
+                {
+                id:113,
+                eng:"Tell me any 2 English words beginning with a letter :  ` M / эм / `",
+                ru:"money, mother, miracle",
+                },
+                {
+                id:114,
+                eng:"Tell me any 2 English words beginning with a letter :  ` N / эн / `",
+                ru:"never, nice, not, neck",
+                },
+                {
+                id:115,
+                eng:"Tell me any 2 English words beginning with a letter :  ` O / оу / `",
+                ru:"or, ox, oscar, omg, ocean",
+                },
+                {
+                id:116,
+                eng:"Tell me any 2 English words beginning with a letter :  ` P / пи / `",
+                ru:"pen, pull, push, play",
+                },
+                {
+                id:117,
+                eng:"Tell me any 2 English words beginning with a letter :  ` Q / кью / `",
+                ru:"question, quest, quality, quantity",
+                },
+                {
+                id:118,
+                eng:"Tell me any 2 English words beginning with a letter :  ` R / а / `",
+                ru:"rock'n'roll, russia, revolver,run",
+                },
+                {
+                id:119,
+                eng:"Tell me any 2 English words beginning with a letter :  ` S / эс / `",
+                ru:"super, slim, skinny, strong",
+                },
+                {
+                id:120,
+                eng:"Tell me any 2 English words beginning with a letter :  ` T / ти / `",
+                ru:"team, tank, touch",
+                },
+                {
+                id:121,
+                eng:"Tell me any 2 English words beginning with a letter :  ` U / ю / `",
+                ru:"underground, united kingdom, universe, unique, umbrella",
+                },
+                {
+                id:122,
+                eng:"Tell me any 2 English words beginning with a letter :  ` V / ви / `",
+                ru:"violence, vision, vampire, vector, vladivostok",
+                },
+                {
+                id:123,
+                eng:"Tell me any 2 English words beginning with a letter :  ` W / дабл ю / `",
+                ru:"windows, wizard, web, world",
+                },
+                {
+                id:124,
+                eng:"Как по английски сказать ' рентген '?",
+                ru:"/ЭКС РЭЙ/ x-ray",
+                },
+                {
+                id:125,
+                eng:"Tell me any 2 English words beginning with a letter :  ` Y / уай / `",
+                ru:"yellow, yummy, yo, yup, yes",
+                },
+                {
+                id:126,
+                eng:"Tell me any 2 English words beginning with a letter :  ` Z / ЗИ или  ZЭД / `",
+                ru:"zebra, zimbabve, zanzibar, zombies",
+                },
+                {
                 id:127,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Ви Ай Эн Си И Эн Ти `",
                 ru:"VINCENT",
-                
                 },
                 {
                 id:128,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эн Ай Кей И `",
                 ru:"NIKE",
-                
                 },
                 {
                 id:129,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Пи Эй Эс Эс Пи Оу А Ти `",
                 ru:"PASSPORT",
-                
                 },
                 {
                 id:130,
                 eng:"Я произнесу слово по буквам, отгадай слово ` А Ю Эс Эс Ай Эй `",
                 ru:"RUSSIA",
-                
                 },
                 {
                 id:131,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эф А Эй Эн Си И `",
                 ru:"FRANCE",
-                
                 },
                 {
                 id:132,
                 eng:"Я произнесу слово по буквам, отгадай слово ` И Эн Джи Эл Эй Эн Ди `",
                 ru:"ENGLAND",
-                
                 },
                 {
                 id:133,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эм И А Си И Ди И Эс `",
                 ru:"MERCEDES",
-                
                 },
                 {
                 id:134,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эй Ю Ди Ай `",
                 ru:"AUDI",
-                
                 },
                 {
                 id:135,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Ви Оу Эл Ви Оу `",
                 ru:"VOLVO",
-                
                 },
                 {
                 id:136,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Ви Оу Эл Кей Эс Дабл Ю Эй Джи И Эн `",
                 ru:"VOLKSWAGEN",
-                
                 },
                 {
                 id:137,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Би Эм Дабл Ю `",
                 ru:"BMW",
-                
                 },
                 {
                 id:138,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Кей Эй Эн Джи Эй А Оу Оу `",
                 ru:"KANGAROO",
-                
                 },
                 {
                 id:139,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Джей Оу Кей И А `",
                 ru:"JOKER",
-                
                 },
                 {
                 id:140,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эм Ай Эн И Си А Эй Эф Ти `",
                 ru:"MINECRAFT",
-                
                 },
                 {
                 id:141,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Оу Ю Эс И `",
                 ru:"HOUSE",
-                
                 },
                 {
                 id:142,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эф Оу Экс `",
                 ru:"FOX",
-                
                 },
                 {
                 id:143,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Дабл Ю Ай Эн Ди Оу Дабл Ю Эс `",
                 ru:"WINDOWS",
-                
                 },
                 {
                 id:144,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эй Эн Ди А Оу Ай Ди `",
                 ru:"ANDROID",
-                
                 },
                 {
                 id:145,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эф Эй Ти Эйч И А `",
                 ru:"FATHER",
-                
                 },
                 {
                 id:146,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эм Оу Ти Эйч И А `",
                 ru:"MOTHER",
-                
                 },
                 {
                 id:147,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Ти И Эл И Пи Эйч Оу Эн И `",
                 ru:"TELEPHONE",
-                
                 },
                 {
                 id:148,
                 eng:"Я произнесу слово по буквам, отгадай слово ` С ЭйчА Ай Эс Ти Эм Эй Эс `",
                 ru:"CHRISTMAS",
-                
                 },
                 {
                 id:149,
                 eng:"Я произнесу слово по буквам, отгадай слово ` И Ю А Оу `",
                 ru:"EURO",
-                
                 },
                 {
                 id:150,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эй Эм И А Ай Си Эй `",
                 ru:"AMERICA",
-                
                 },
                 {
                 id:151,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Си Оу Эм Пи Ю Ти И А `",
                 ru:"COMPUTER",
-                
                 },
                 {
                 id:152,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эй Эл Эй Эс Кей Эй `",
                 ru:"ALASKA",
-                
                 },
                 {
                 id:153,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Би Эй Ти Эм Эй Эн `",
                 ru:"BATMAN",
-                
                 },
                 {
                 id:154,
                 eng:"Я произнесу слово по буквам, отгадай слово ` А Оу Си Кей Эн А Оу Эл Эл `",
                 ru:"ROCKNROLL",
-                
                 },
                 {
                 id:155,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Эй Эм Би Ю А Джи И А `",
                 ru:"HAMBURGER",
-                
                 },
                 {
                 id:156,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Си Эйч И И Эс И Би Ю Аджи И А `",
                 ru:"CHEESEBURGER",
-                
                 },
                 {
                 id:157,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Оу Эм И Дабл Ю Оу А Кей `",
                 ru:"HOMEWORK",
-                
                 },
                 {
                 id:158,
                 eng:"Я произнесу слово по буквам, отгадай слово ` И Эн Джи Эл Ай Эс Эйч `",
                 ru:"ENGLISH",
-                
                 },
                 {
                 id:159,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Джей И И Пи `",
                 ru:"JEEP",
-                
                 },
                 {
                 id:160,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Си Эй А `",
                 ru:"CAR",
-                
                 },
                 {
                 id:161,
                 eng:"Я произнесу слово по буквам, отгадай слово ` Эйч Оу Эс Пи Ти Эй Эл `",
                 ru:"HOSPITAL",
-                
                 },
-        ],
+    ],
         presentSimple: [
             {
                 id:1,
@@ -5824,7 +5716,6 @@ const allQuestionsOneDeck = {
                 ru:"I don't have a car"
                 },
         ],
-        
     m0010: [
         {
             id:1,
@@ -8825,6 +8716,246 @@ const allQuestionsOneDeck = {
                 eng:"    Как переводится :         ` Is it correct? или еще Is it right? / из ит райт / `",
                 ru:"ЭТО ВЕРНО? ЭТО ПРАВИЛЬНО?"
                 },
+                {
+                    id:191,
+                    eng:"What is the English for: ` уродливый `",
+                    ru:"UGLY / Агли /"
+                    },
+                    {
+                    id:192,
+                    eng:"What is the English for: ` большой `",
+                    ru:"BIG / биГ /"
+                    },
+                    {
+                    id:193,
+                    eng:"What is the English for: ` занятой `",
+                    ru:"BUSY / бИзи /"
+                    },
+                    {
+                    id:194,
+                    eng:"What is the English for: ` лысый `",
+                    ru:"BALD / бОлд /"
+                    },
+                    {
+                    id:195,
+                    eng:"What is the English for: ` скучный `",
+                    ru:"BORING / бОрин /"
+                    },
+                    {
+                    id:196,
+                    eng:"What is the English for: ` красивая `",
+                    ru:"BEAUTIFUL / бьютифул /"
+                    },
+                    {
+                    id:197,
+                    eng:"What is the English for: ` плохой `",
+                    ru:"BAD / бЭд /"
+                    },
+                    {
+                    id:198,
+                    eng:"What is the English for: ` зелёный `",
+                    ru:"GREEN / грин /"
+                    },
+                    {
+                    id:199,
+                    eng:"What is the English for: ` великий `",
+                    ru:"GREAT / грЭйт /"
+                    },
+                    {
+                    id:200,
+                    eng:"What is the English for: ` хороший `",
+                    ru:"GOOD / гуд /"
+                    },
+                    {
+                    id:201,
+                    eng:"What is the English for: ` темный `",
+                    ru:"DARK / дарк /"
+                    },
+                    {
+                    id:202,
+                    eng:"What is the English for: ` грязный `",
+                    ru:"DIRTY / дёти /"
+                    },
+                    {
+                    id:203,
+                    eng:"What is the English for: ` отвратительный `",
+                    ru:"DISGUSTING / дисгАстин /"
+                    },
+                    {
+                    id:204,
+                    eng:"What is the English for: ` пьяный `",
+                    ru:"DRUNK / дрАнк /"
+                    },
+                    {
+                    id:205,
+                    eng:"What is the English for: ` ранний, рано `",
+                    ru:"EARLY / ёли /"
+                    },
+                    {
+                    id:206,
+                    eng:"What is the English for: ` легкий `",
+                    ru:"EASY / Изи /"
+                    },
+                    {
+                    id:207,
+                    eng:"What is the English for: ` интересный `",
+                    ru:"INTERESTING / ИНтрэстин /"
+                    },
+                    {
+                    id:208,
+                    eng:"What is the English for: ` добрый `",
+                    ru:"KIND / кАйнд /"
+                    },
+                    {
+                    id:209,
+                    eng:"What is the English for: ` спокойный `",
+                    ru:"CALM / кам /"
+                    },
+                    {
+                    id:210,
+                    eng:"What is the English for: ` молодой `",
+                    ru:"YOUNG / ян /"
+                    },
+                    {
+                    id:211,
+                    eng:"What is the English for: ` неуклюжий `",
+                    ru:"CLUMSY / клАмзи /"
+                    },
+                    {
+                    id:212,
+                    eng:"What is the English for: ` чистый `",
+                    ru:"CLEAN / клин /"
+                    },
+                    {
+                    id:213,
+                    eng:"What is the English for: ` мускулистый `",
+                    ru:"MUSCULAR / мАскьюла /"
+                    },
+                    {
+                    id:214,
+                    eng:"What is the English for: ` старый `",
+                    ru:"OLD / оУлд /"
+                    },
+                    {
+                        id:291,
+                        eng:"How do you translate : ` ugly / Агли / `",
+                        ru:"УРОДЛИВЫЙ"
+                        },
+                        {
+                        id:292,
+                        eng:"How do you translate : ` big / биГ / `",
+                        ru:"БОЛЬШОЙ"
+                        },
+                        {
+                        id:293,
+                        eng:"How do you translate : ` busy / бИзи / `",
+                        ru:"ЗАНЯТОЙ"
+                        },
+                        {
+                        id:294,
+                        eng:"How do you translate : ` bald / бОлд / `",
+                        ru:"ЛЫСЫЙ"
+                        },
+                        {
+                        id:295,
+                        eng:"How do you translate : ` boring / бОрин / `",
+                        ru:"СКУЧНЫЙ"
+                        },
+                        {
+                        id:296,
+                        eng:"How do you translate : ` beautiful / бьютифул / `",
+                        ru:"КРАСИВАЯ"
+                        },
+                        {
+                        id:297,
+                        eng:"How do you translate : ` bad / бЭд / `",
+                        ru:"ПЛОХОЙ"
+                        },
+                        {
+                        id:298,
+                        eng:"How do you translate : ` green / грин / `",
+                        ru:"ЗЕЛЁНЫЙ"
+                        },
+                        {
+                        id:299,
+                        eng:"How do you translate : ` great / грЭйт / `",
+                        ru:"ВЕЛИКИЙ"
+                        },
+                        {
+                        id:300,
+                        eng:"How do you translate : ` good / гуд / `",
+                        ru:"ХОРОШИЙ"
+                        },
+                        {
+                        id:301,
+                        eng:"How do you translate : ` dark / дарк / `",
+                        ru:"ТЕМНЫЙ"
+                        },
+                        {
+                        id:302,
+                        eng:"How do you translate : ` dirty / дёти / `",
+                        ru:"ГРЯЗНЫЙ"
+                        },
+                        {
+                        id:303,
+                        eng:"How do you translate : ` disgusting / дисгАстин / `",
+                        ru:"ОТВРАТИТЕЛЬНЫЙ"
+                        },
+                        {
+                        id:304,
+                        eng:"How do you translate : ` drunk / дрАнк / `",
+                        ru:"ПЬЯНЫЙ"
+                        },
+                        {
+                        id:305,
+                        eng:"How do you translate : ` early / ёли / `",
+                        ru:"РАННИЙ, РАНО"
+                        },
+                        {
+                        id:306,
+                        eng:"How do you translate : ` easy / Изи / `",
+                        ru:"ЛЕГКИЙ"
+                        },
+                        {
+                        id:307,
+                        eng:"How do you translate : ` interesting / ИНтрэстин / `",
+                        ru:"ИНТЕРЕСНЫЙ"
+                        },
+                        {
+                        id:308,
+                        eng:"How do you translate : ` kind / кАйнд / `",
+                        ru:"ДОБРЫЙ"
+                        },
+                        {
+                        id:309,
+                        eng:"How do you translate : ` calm / кам / `",
+                        ru:"СПОКОЙНЫЙ"
+                        },
+                        {
+                        id:310,
+                        eng:"How do you translate : ` young / ян / `",
+                        ru:"МОЛОДОЙ"
+                        },
+                        {
+                        id:311,
+                        eng:"How do you translate : ` clumsy / клАмзи / `",
+                        ru:"НЕУКЛЮЖИЙ"
+                        },
+                        {
+                        id:312,
+                        eng:"How do you translate : ` clean / клин / `",
+                        ru:"ЧИСТЫЙ"
+                        },
+                        {
+                        id:313,
+                        eng:"How do you translate : ` muscular / мАскьюла / `",
+                        ru:"МУСКУЛИСТЫЙ"
+                        },
+                        {
+                        id:314,
+                        eng:"How do you translate : ` old / оУлд / `",
+                        ru:"СТАРЫЙ"
+                        },
     ],
     interview3: [
         {
@@ -9327,296 +9458,6 @@ const allQuestionsOneDeck = {
             eng:"Чему равняется twelve мАйнэc four ? ответ: it is eight / эйт / ",
             ru:"Нажав сюда вы нашли секретную карту! Вам сегодня приснится голенький Винсентик"
             },
-    ],
-    adj03: [
-        {
-            id:1,
-            eng:"What is the English for: ` уродливый `",
-            ru:"UGLY  / Агли /",
-            
-            },
-            {
-            id:2,
-            eng:"What is the English for: ` большой `",
-            ru:"BIG  / биГ /",
-            
-            },
-            {
-            id:3,
-            eng:"What is the English for: ` занятой `",
-            ru:"BUSY  / бИзи /",
-            
-            },
-            {
-            id:4,
-            eng:"What is the English for: ` лысый `",
-            ru:"BALD  / бОлд /",
-            
-            },
-            {
-            id:5,
-            eng:"What is the English for: ` скучный `",
-            ru:"BORING  / бОрин /",
-            
-            },
-            {
-            id:6,
-            eng:"What is the English for: ` красивая `",
-            ru:"BEAUTIFUL  / бьютифул /",
-            
-            },
-            {
-            id:7,
-            eng:"What is the English for: ` плохой `",
-            ru:"BAD  / бЭд /",
-            
-            },
-            {
-            id:8,
-            eng:"What is the English for: ` зелёный `",
-            ru:"GREEN  / грин /",
-            
-            },
-            {
-            id:9,
-            eng:"What is the English for: ` великий `",
-            ru:"GREAT  / грЭйт /",
-            
-            },
-            {
-            id:10,
-            eng:"What is the English for: ` хороший `",
-            ru:"GOOD  / гуд /",
-            
-            },
-            {
-            id:11,
-            eng:"What is the English for: ` темный `",
-            ru:"DARK  / дарк /",
-            
-            },
-            {
-            id:12,
-            eng:"What is the English for: ` грязный `",
-            ru:"DIRTY  / дёти /",
-            
-            },
-            {
-            id:13,
-            eng:"What is the English for: ` отвратительный `",
-            ru:"DISGUSTING  / дисгАстин /",
-            
-            },
-            {
-            id:14,
-            eng:"What is the English for: ` пьяный `",
-            ru:"DRUNK  / дрАнк /",
-            
-            },
-            {
-            id:15,
-            eng:"What is the English for: ` ранний, рано `",
-            ru:"EARLY  / ёли /",
-            
-            },
-            {
-            id:16,
-            eng:"What is the English for: ` легкий `",
-            ru:"EASY  / Изи /",
-            
-            },
-            {
-            id:17,
-            eng:"What is the English for: ` интересный `",
-            ru:"INTERESTING  / ИНтрэстин /",
-            
-            },
-            {
-            id:18,
-            eng:"What is the English for: ` добрый `",
-            ru:"KIND  / кАйнд /",
-            
-            },
-            {
-            id:19,
-            eng:"What is the English for: ` спокойный `",
-            ru:"CALM  / кам /",
-            
-            },
-            {
-            id:20,
-            eng:"What is the English for: ` молодой `",
-            ru:"YOUNG  / ян /",
-            
-            },
-            {
-            id:21,
-            eng:"What is the English for: ` неуклюжий `",
-            ru:"CLUMSY  / клАмзи /",
-            
-            },
-            {
-            id:22,
-            eng:"What is the English for: ` чистый `",
-            ru:"CLEAN  / клин /",
-            
-            },
-            {
-            id:23,
-            eng:"What is the English for: ` мускулистый `",
-            ru:"MUSCULAR  / мАскьюла /",
-            
-            },
-            {
-            id:24,
-            eng:"What is the English for: ` старый `",
-            ru:"OLD  / оУлд /",
-            
-            },
-            {
-                id:101,
-                eng:"How do you translate : ` ugly / Агли / `",
-                ru:"уродливый",
-                
-                },
-                {
-                id:102,
-                eng:"How do you translate : ` big / биГ / `",
-                ru:"большой",
-                
-                },
-                {
-                id:103,
-                eng:"How do you translate : ` busy / бИзи / `",
-                ru:"занятой",
-                
-                },
-                {
-                id:104,
-                eng:"How do you translate : ` bald / бОлд / `",
-                ru:"лысый",
-                
-                },
-                {
-                id:105,
-                eng:"How do you translate : ` boring / бОрин / `",
-                ru:"скучный",
-                
-                },
-                {
-                id:106,
-                eng:"How do you translate : ` beautiful / бьютифул / `",
-                ru:"красивая",
-                
-                },
-                {
-                id:107,
-                eng:"How do you translate : ` bad / бЭд / `",
-                ru:"плохой",
-                
-                },
-                {
-                id:108,
-                eng:"How do you translate : ` green / грин / `",
-                ru:"зелёный",
-                
-                },
-                {
-                id:109,
-                eng:"How do you translate : ` great / грЭйт / `",
-                ru:"великий",
-                
-                },
-                {
-                id:110,
-                eng:"How do you translate : ` good / гуд / `",
-                ru:"хороший",
-                
-                },
-                {
-                id:111,
-                eng:"How do you translate : ` dark / дарк / `",
-                ru:"темный",
-                
-                },
-                {
-                id:112,
-                eng:"How do you translate : ` dirty / дёти / `",
-                ru:"грязный",
-                
-                },
-                {
-                id:113,
-                eng:"How do you translate : ` disgusting / дисгАстин / `",
-                ru:"отвратительный",
-                
-                },
-                {
-                id:114,
-                eng:"How do you translate : ` drunk / дрАнк / `",
-                ru:"пьяный",
-                
-                },
-                {
-                id:115,
-                eng:"How do you translate : ` early / ёли / `",
-                ru:"ранний, рано",
-                
-                },
-                {
-                id:116,
-                eng:"How do you translate : ` easy / Изи / `",
-                ru:"легкий",
-                
-                },
-                {
-                id:117,
-                eng:"How do you translate : ` interesting / ИНтрэстин / `",
-                ru:"интересный",
-                
-                },
-                {
-                id:118,
-                eng:"How do you translate : ` kind / кАйнд / `",
-                ru:"добрый",
-                
-                },
-                {
-                id:119,
-                eng:"How do you translate : ` calm / кам / `",
-                ru:"спокойный",
-                
-                },
-                {
-                id:120,
-                eng:"How do you translate : ` young / ян / `",
-                ru:"молодой",
-                
-                },
-                {
-                id:121,
-                eng:"How do you translate : ` clumsy / клАмзи / `",
-                ru:"неуклюжий",
-                
-                },
-                {
-                id:122,
-                eng:"How do you translate : ` clean / клин / `",
-                ru:"чистый",
-                
-                },
-                {
-                id:123,
-                eng:"How do you translate : ` muscular / мАскьюла / `",
-                ru:"мускулистый",
-                
-                },
-                {
-                id:124,
-                eng:"How do you translate : ` old / оУлд / `",
-                ru:"старый",
-                
-                },
     ],
     adjectives01old: [
         {
@@ -17052,1787 +16893,4351 @@ const allQuestionsOneDeck = {
             id:1,
             eng:"How do you translate : ` живой `",
             ru:"ALIVE  / элАйв /",
-            
             },
             {
             id:2,
             eng:"How do you translate : ` удивительный `",
             ru:"AMAZING  / эмЭйзин /",
-            
             },
             {
             id:3,
             eng:"How do you translate : ` сердитый `",
             ru:"ANGRY  / Энгри /",
-            
             },
             {
             id:4,
             eng:"How do you translate : ` бесящий `",
             ru:"ANNOYING  / энОин /",
-            
             },
             {
             id:5,
             eng:"How do you translate : ` привлекательный `",
             ru:"ATTRACTIVE  / этрЭктив /",
-            
             },
             {
             id:6,
             eng:"How do you translate : ` офигенный `",
             ru:"AWESOME  / Осм /",
-            
             },
             {
             id:7,
             eng:"How do you translate : ` точный (верный) `",
             ru:"ACCURATE  / Экьюрэт /",
-            
             },
             {
             id:8,
             eng:"How do you translate : ` ловкий `",
             ru:"AGILE  / эджАйл /",
-            
             },
             {
             id:9,
             eng:"How do you translate : ` плохой `",
             ru:"BAD  / бЭд /",
-            
             },
             {
             id:10,
             eng:"How do you translate : ` лысый `",
             ru:"BALD  / бОлд /",
-            
             },
             {
             id:11,
             eng:"How do you translate : ` красивая `",
             ru:"BEAUTIFUL  / бьютифул /",
-            
             },
             {
             id:12,
             eng:"How do you translate : ` большой `",
             ru:"BIG  / биГ /",
-            
             },
             {
             id:13,
             eng:"How do you translate : ` Черный `",
             ru:"BLACK  / блЭк /",
-            
             },
             {
             id:14,
             eng:"How do you translate : ` кровавый `",
             ru:"BLOODY  / блАди /",
-            
             },
             {
             id:15,
             eng:"How do you translate : ` синий `",
             ru:"BLUE  / блУ /",
-            
             },
             {
             id:16,
             eng:"How do you translate : ` смелый `",
             ru:"BOLD  / бОлд /",
-            
             },
             {
             id:17,
             eng:"How do you translate : ` скучный `",
             ru:"BORING  / бОрин /",
-            
             },
             {
             id:18,
             eng:"How do you translate : ` властный `",
             ru:"BOSSY  / бОсси /",
-            
             },
             {
             id:19,
             eng:"How do you translate : ` раздражающий `",
             ru:"BOTHERING  / бАthэрин /",
-            
             },
             {
             id:20,
             eng:"How do you translate : ` храбрый `",
             ru:"BRAVE  / брЭйв /",
-            
             },
             {
             id:21,
             eng:"How do you translate : ` захватывающий дух `",
             ru:"BREATHTAKING  / брэth тэйкин /",
-            
             },
             {
             id:22,
             eng:"How do you translate : ` яркий `",
             ru:"BRIGHT  / брАйт /",
-            
             },
             {
             id:23,
             eng:"How do you translate : ` занятой `",
             ru:"BUSY  / бИзи /",
-            
             },
             {
                 id:101,
                 eng:"Make a sentence with : ` alive / элАйв / `",
                 ru:"Придумай предложение со словом: ` ЖИВОЙ / элАйв / `",
-                
                 },
                 {
                 id:102,
                 eng:"Make a sentence with : ` amazing / эмЭйзин / `",
                 ru:"Придумай предложение со словом: ` УДИВИТЕЛЬНЫЙ / эмЭйзин / `",
-                
                 },
                 {
                 id:103,
                 eng:"Make a sentence with : ` angry / Энгри / `",
                 ru:"сердитый",
-                
                 },
                 {
                 id:104,
                 eng:"Make a sentence with : ` annoying / энОин / `",
                 ru:"бесящий",
-                
                 },
                 {
                 id:105,
                 eng:"Make a sentence with : ` attractive / этрЭктив / `",
                 ru:"привлекательный",
-                
                 },
                 {
                 id:106,
                 eng:"Make a sentence with : ` awesome / Осм / `",
                 ru:"офигенный",
-                
                 },
                 {
                 id:107,
                 eng:"Make a sentence with : ` accurate / Экьюрэт / `",
                 ru:"точный (верный)",
-                
                 },
                 {
                 id:108,
                 eng:"Make a sentence with : ` agile / эджАйл / `",
                 ru:"ловкий",
-                
                 },
                 {
                 id:109,
                 eng:"Make a sentence with : ` bad / бЭд / `",
                 ru:"плохой",
-                
                 },
                 {
                 id:110,
                 eng:"Make a sentence with : ` bald / бОлд / `",
                 ru:"лысый",
-                
                 },
                 {
                 id:111,
                 eng:"Make a sentence with : ` beautiful / бьютифул / `",
                 ru:"красивая",
-                
                 },
                 {
                 id:112,
                 eng:"Make a sentence with : ` big / биГ / `",
                 ru:"большой",
-                
                 },
                 {
                 id:113,
                 eng:"Make a sentence with : ` black / блЭк / `",
                 ru:"Черный",
-                
                 },
                 {
                 id:114,
                 eng:"Make a sentence with : ` bloody / блАди / `",
                 ru:"кровавый",
-                
                 },
                 {
                 id:115,
                 eng:"Make a sentence with : ` blue / блУ / `",
                 ru:"синий",
-                
                 },
                 {
                 id:116,
                 eng:"Make a sentence with : ` bold / бОлд / `",
                 ru:"смелый",
-                
                 },
                 {
                 id:117,
                 eng:"Make a sentence with : ` boring / бОрин / `",
                 ru:"скучный",
-                
                 },
                 {
                 id:118,
                 eng:"Make a sentence with : ` bossy / бОсси / `",
                 ru:"властный",
-                
                 },
                 {
                 id:119,
                 eng:"Make a sentence with : ` bothering / бАthэрин / `",
                 ru:"раздражающий",
-                
                 },
                 {
                 id:120,
                 eng:"Make a sentence with : ` brave / брЭйв / `",
                 ru:"храбрый",
-                
                 },
                 {
                 id:121,
                 eng:"Make a sentence with : ` breathtaking / брэth тэйкин / `",
                 ru:"захватывающий дух",
-                
                 },
                 {
                 id:122,
                 eng:"Make a sentence with : ` bright / брАйт / `",
                 ru:"яркий",
-                
                 },
                 {
                 id:123,
                 eng:"Make a sentence with : ` busy / бИзи / `",
                 ru:"занятой",
-                
                 },
+    ],
+    adjCD: [
+        {
+            id:24,
+            eng:"How do you translate : ` спокойный `",
+            ru:"CALM  / кам /",
+            },
+            {
+            id:25,
+            eng:"How do you translate : ` дешевый `",
+            ru:"CHEAP  / чип /",
+            },
+            {
+            id:26,
+            eng:"How do you translate : ` чистый `",
+            ru:"CLEAN  / клин /",
+            },
+            {
+            id:27,
+            eng:"How do you translate : ` близкий `",
+            ru:"CLOSE  / клоуС /",
+            },
+            {
+            id:28,
+            eng:"How do you translate : ` облачный `",
+            ru:"CLOUDY  / клАуди /",
+            },
+            {
+            id:29,
+            eng:"How do you translate : ` неуклюжий `",
+            ru:"CLUMSY  / клАмзи /",
+            },
+            {
+            id:30,
+            eng:"How do you translate : ` холодный `",
+            ru:"COLD  / коУлд /",
+            },
+            {
+            id:31,
+            eng:"How do you translate : ` крутой `",
+            ru:"COOL  / кул /",
+            },
+            {
+            id:32,
+            eng:"How do you translate : ` верный `",
+            ru:"CORRECT  / корЭкт /",
+            },
+            {
+            id:33,
+            eng:"How do you translate : ` уютный `",
+            ru:"COZY  / кОузи /",
+            },
+            {
+            id:34,
+            eng:"How do you translate : ` сумасшедший `",
+            ru:"CRAZY  / крЭйзи /",
+            },
+            {
+            id:35,
+            eng:"How do you translate : ` хрустящий `",
+            ru:"CRISPY  / крИспи /",
+            },
+            {
+            id:36,
+            eng:"How do you translate : ` кудрявый `",
+            ru:"CURLY  / кёли /",
+            },
+            {
+            id:37,
+            eng:"How do you translate : ` милый `",
+            ru:"CUTE  / кьЮт /",
+            },
+            {
+            id:38,
+            eng:"How do you translate : ` темный `",
+            ru:"DARK  / дарк /",
+            },
+            {
+            id:39,
+            eng:"How do you translate : ` смертельный `",
+            ru:"DEADLY  / дЭдли /",
+            },
+            {
+            id:40,
+            eng:"How do you translate : ` глубокий `",
+            ru:"DEEP  / дип /",
+            },
+            {
+            id:41,
+            eng:"How do you translate : ` грязный `",
+            ru:"DIRTY  / дёти /",
+            },
+            {
+            id:42,
+            eng:"How do you translate : ` отвратительный `",
+            ru:"DISGUSTING  / дисгАстин /",
+            },
+            {
+            id:43,
+            eng:"How do you translate : ` пьяный `",
+            ru:"DRUNK  / дрАнк /",
+            },
+            {
+            id:44,
+            eng:"How do you translate : ` сухой `",
+            ru:"DRY  / дрАй /",
+            },
+            {
+            id:45,
+            eng:"How do you translate : ` затупившийся `",
+            ru:"DULL  / дал /",
+            },
+            {
+            id:46,
+            eng:"How do you translate : ` болван `",
+            ru:"DUMB  / дам /",
+            },
+            {
+            id:47,
+            eng:"How do you translate : ` пыльный `",
+            ru:"DUSTY  / дАсти /",
+            },
+            {
+                id:124,
+                eng:"Make a sentence with : ` calm / кам / `",
+                ru:"спокойный",
+                },
+                {
+                id:125,
+                eng:"Make a sentence with : ` cheap / чип / `",
+                ru:"дешевый",
+                },
+                {
+                id:126,
+                eng:"Make a sentence with : ` clean / клин / `",
+                ru:"чистый",
+                },
+                {
+                id:127,
+                eng:"Make a sentence with : ` close / клоуС / `",
+                ru:"близкий",
+                },
+                {
+                id:128,
+                eng:"Make a sentence with : ` cloudy / клАуди / `",
+                ru:"облачный",
+                },
+                {
+                id:129,
+                eng:"Make a sentence with : ` clumsy / клАмзи / `",
+                ru:"неуклюжий",
+                },
+                {
+                id:130,
+                eng:"Make a sentence with : ` cold / коУлд / `",
+                ru:"холодный",
+                },
+                {
+                id:131,
+                eng:"Make a sentence with : ` cool / кул / `",
+                ru:"крутой",
+                },
+                {
+                id:132,
+                eng:"Make a sentence with : ` correct / корЭкт / `",
+                ru:"верный",
+                },
+                {
+                id:133,
+                eng:"Make a sentence with : ` cozy / кОузи / `",
+                ru:"уютный",
+                },
+                {
+                id:134,
+                eng:"Make a sentence with : ` crazy / крЭйзи / `",
+                ru:"сумасшедший",
+                },
+                {
+                id:135,
+                eng:"Make a sentence with : ` crispy / крИспи / `",
+                ru:"хрустящий",
+                },
+                {
+                id:136,
+                eng:"Make a sentence with : ` curly / кёли / `",
+                ru:"кудрявый",
+                },
+                {
+                id:137,
+                eng:"Make a sentence with : ` cute / кьЮт / `",
+                ru:"милый",
+                },
+                {
+                id:138,
+                eng:"Make a sentence with : ` dark / дарк / `",
+                ru:"темный",
+                },
+                {
+                id:139,
+                eng:"Make a sentence with : ` deadly / дЭдли / `",
+                ru:"смертельный",
+                },
+                {
+                id:140,
+                eng:"Make a sentence with : ` deep / дип / `",
+                ru:"глубокий",
+                },
+                {
+                id:141,
+                eng:"Make a sentence with : ` dirty / дёти / `",
+                ru:"грязный",
+                },
+                {
+                id:142,
+                eng:"Make a sentence with : ` disgusting / дисгАстин / `",
+                ru:"отвратительный",
+                },
+                {
+                id:143,
+                eng:"Make a sentence with : ` drunk / дрАнк / `",
+                ru:"пьяный",
+                },
+                {
+                id:144,
+                eng:"Make a sentence with : ` dry / дрАй / `",
+                ru:"сухой",
+                },
+                {
+                id:145,
+                eng:"Make a sentence with : ` dull / дал / `",
+                ru:"затупившийся",
+                },
+                {
+                id:146,
+                eng:"Make a sentence with : ` dumb / дам / `",
+                ru:"болван",
+                },
+                {
+                id:147,
+                eng:"Make a sentence with : ` dusty / дАсти / `",
+                ru:"пыльный",
+                },
+    ],
+    adjEF: [
+        {
+            id:48,
+            eng:"How do you translate : ` ранний `",
+            ru:"EARLY  / ёли /",
+            },
+            {
+            id:49,
+            eng:"How do you translate : ` легкий `",
+            ru:"EASY  / Изи /",
+            },
+            {
+            id:50,
+            eng:"How do you translate : ` злой `",
+            ru:"EVIL  / Ивэл /",
+            },
+            {
+            id:51,
+            eng:"How do you translate : ` дорогой `",
+            ru:"EXPENSIVE  / экспЭнсив /",
+            },
+            {
+            id:52,
+            eng:"How do you translate : ` поразительный `",
+            ru:"FABULOUS  / фЭбьюлэс /",
+            },
+            {
+            id:53,
+            eng:"How do you translate : ` справедливый `",
+            ru:"FAIR  / фЭа /",
+            },
+            {
+            id:54,
+            eng:"How do you translate : ` изысканный `",
+            ru:"FANCY  / фЭнси /",
+            },
+            {
+            id:55,
+            eng:"How do you translate : ` фантастичный `",
+            ru:"FANTASTIC  / фэнстэстик /",
+            },
+            {
+            id:56,
+            eng:"How do you translate : ` далекий `",
+            ru:"FAR  / фа /",
+            },
+            {
+            id:57,
+            eng:"How do you translate : ` модный `",
+            ru:"FASHIONABLE  / фЭшэнэбл /",
+            },
+            {
+            id:58,
+            eng:"How do you translate : ` быстрый `",
+            ru:"FAST  / фаст /",
+            },
+            {
+            id:59,
+            eng:"How do you translate : ` жирный `",
+            ru:"FAT  / фэт /",
+            },
+            {
+            id:60,
+            eng:"How do you translate : ` любимый `",
+            ru:"FAVORITE  / фЭйворит /",
+            },
+            {
+            id:61,
+            eng:"How do you translate : ` несколько, мало `",
+            ru:"FEW  / фью /",
+            },
+            {
+            id:62,
+            eng:"How do you translate : ` свирепый `",
+            ru:"FIERCE  / фИрс /",
+            },
+            {
+            id:63,
+            eng:"How do you translate : ` мерзкий `",
+            ru:"FILTHY  / филTHи /",
+            },
+            {
+            id:64,
+            eng:"How do you translate : ` упругий `",
+            ru:"FIRM  / фЁрм /",
+            },
+            {
+            id:65,
+            eng:"How do you translate : ` плоский `",
+            ru:"FLAT  / флЭт /",
+            },
+            {
+            id:66,
+            eng:"How do you translate : ` гибкий `",
+            ru:"FLEXIBLE  / флЭксибл /",
+            },
+            {
+            id:67,
+            eng:"How do you translate : ` свежий `",
+            ru:"FRESH  / фрЭш /",
+            },
+            {
+            id:68,
+            eng:"How do you translate : ` дружелюбный `",
+            ru:"FRIENDLY  / фрЭндли /",
+            },
+            {
+            id:69,
+            eng:"How do you translate : ` полный `",
+            ru:"FULL  / фУл /",
+            },
+            {
+            id:70,
+            eng:"How do you translate : ` смешной `",
+            ru:"FUNNY  / фАнни /",
+            },
+            {
+                id:148,
+                eng:"Make a sentence with : ` early / ёли / `",
+                ru:"ранний",
+                },
+                {
+                id:149,
+                eng:"Make a sentence with : ` easy / Изи / `",
+                ru:"легкий",
+                },
+                {
+                id:150,
+                eng:"Make a sentence with : ` evil / Ивэл / `",
+                ru:"злой",
+                },
+                {
+                id:151,
+                eng:"Make a sentence with : ` expensive / экспЭнсив / `",
+                ru:"дорогой",
+                },
+                {
+                id:152,
+                eng:"Make a sentence with : ` fabulous / фЭбьюлэс / `",
+                ru:"поразительный",
+                },
+                {
+                id:153,
+                eng:"Make a sentence with : ` fair / фЭа / `",
+                ru:"справедливый",
+                },
+                {
+                id:154,
+                eng:"Make a sentence with : ` fancy / фЭнси / `",
+                ru:"изысканный",
+                },
+                {
+                id:155,
+                eng:"Make a sentence with : ` fantastic / фэнстэстик / `",
+                ru:"фантастичный",
+                },
+                {
+                id:156,
+                eng:"Make a sentence with : ` far / фа / `",
+                ru:"далекий",
+                },
+                {
+                id:157,
+                eng:"Make a sentence with : ` fashionable / фЭшэнэбл / `",
+                ru:"модный",
+                },
+                {
+                id:158,
+                eng:"Make a sentence with : ` fast / фаст / `",
+                ru:"быстрый",
+                },
+                {
+                id:159,
+                eng:"Make a sentence with : ` fat / фэт / `",
+                ru:"жирный",
+                },
+                {
+                id:160,
+                eng:"Make a sentence with : ` favorite / фЭйворит / `",
+                ru:"любимый",
+                },
+                {
+                id:161,
+                eng:"Make a sentence with : ` few / фью / `",
+                ru:"несколько, мало",
+                },
+                {
+                id:162,
+                eng:"Make a sentence with : ` fierce / фИрс / `",
+                ru:"свирепый",
+                },
+                {
+                id:163,
+                eng:"Make a sentence with : ` filthy / филTHи / `",
+                ru:"мерзкий",
+                },
+                {
+                id:164,
+                eng:"Make a sentence with : ` firm / фЁрм / `",
+                ru:"упругий",
+                },
+                {
+                id:165,
+                eng:"Make a sentence with : ` flat / флЭт / `",
+                ru:"плоский",
+                },
+                {
+                id:166,
+                eng:"Make a sentence with : ` flexible / флЭксибл / `",
+                ru:"гибкий",
+                },
+                {
+                id:167,
+                eng:"Make a sentence with : ` fresh / фрЭш / `",
+                ru:"свежий",
+                },
+                {
+                id:168,
+                eng:"Make a sentence with : ` friendly / фрЭндли / `",
+                ru:"дружелюбный",
+                },
+                {
+                id:169,
+                eng:"Make a sentence with : ` full / фУл / `",
+                ru:"полный",
+                },
+                {
+                id:170,
+                eng:"Make a sentence with : ` funny / фАнни / `",
+                ru:"смешной",
+                },
+    ],
+    adjGHI: [
+        {
+            id:71,
+            eng:"How do you translate : ` нежный `",
+            ru:"GENTLE  / джЭнтл /",
+            },
+            {
+            id:72,
+            eng:"How do you translate : ` мрачный `",
+            ru:"GLOOMY  / глУми /",
+            },
+            {
+            id:73,
+            eng:"How do you translate : ` хороший `",
+            ru:"GOOD  / гуД /",
+            },
+            {
+            id:74,
+            eng:"How do you translate : ` великий `",
+            ru:"GREAT  / грЭйт /",
+            },
+            {
+            id:75,
+            eng:"How do you translate : ` жадный `",
+            ru:"GREEDY  / грИди /",
+            },
+            {
+            id:76,
+            eng:"How do you translate : ` зелёный `",
+            ru:"GREEN  / грин /",
+            },
+            {
+            id:77,
+            eng:"How do you translate : ` волосатый `",
+            ru:"HAIRY  / хЭйри /",
+            },
+            {
+            id:78,
+            eng:"How do you translate : ` красивый (муж) `",
+            ru:"HANDSOME  / хЭнсам /",
+            },
+            {
+            id:79,
+            eng:"How do you translate : ` счастливый `",
+            ru:"HAPPY  / хЭппи /",
+            },
+            {
+            id:80,
+            eng:"How do you translate : ` трудный `",
+            ru:"HARD  / хАрд /",
+            },
+            {
+            id:81,
+            eng:"How do you translate : ` суровый `",
+            ru:"HARSH  / хАрш /",
+            },
+            {
+            id:82,
+            eng:"How do you translate : ` здоровый `",
+            ru:"HEALTHY  / хЭлTHи /",
+            },
+            {
+            id:83,
+            eng:"How do you translate : ` тяжелый `",
+            ru:"HEAVY  / хЭви /",
+            },
+            {
+            id:84,
+            eng:"How do you translate : ` высокий (о зданиях) `",
+            ru:"HIGH  / хай /",
+            },
+            {
+            id:85,
+            eng:"How do you translate : ` пустотелый `",
+            ru:"HOLLOW  / хОлоу /",
+            },
+            {
+            id:86,
+            eng:"How do you translate : ` горячий `",
+            ru:"HOT  / хот или хат /",
+            },
+            {
+            id:87,
+            eng:"How do you translate : ` скромный `",
+            ru:"HUMBLE  / хАмбл /",
+            },
+            {
+            id:88,
+            eng:"How do you translate : ` голодный `",
+            ru:"HUNGRY  / хАнгри /",
+            },
+            {
+            id:89,
+            eng:"How do you translate : ` ледяной `",
+            ru:"ICY  / Айси /",
+            },
+            {
+            id:90,
+            eng:"How do you translate : ` бессмертный `",
+            ru:"IMMORTAL  / иммОртал /",
+            },
+            {
+            id:91,
+            eng:"How do you translate : ` невероятный `",
+            ru:"INCREDIBLE  / инкрЭдбл /",
+            },
+            {
+            id:92,
+            eng:"How do you translate : ` образованный `",
+            ru:"INTELLIGENT  / интэлиджент /",
+            },
+            {
+            id:93,
+            eng:"How do you translate : ` интересный `",
+            ru:"INTERESTING  / ИНтрэстин /",
+            },
+            {
+            id:94,
+            eng:"How do you translate : ` зудящий `",
+            ru:"ITCHY  / Итчи /",
+            },
+            {
+                id:171,
+                eng:"Make a sentence with : ` gentle / джЭнтл / `",
+                ru:"нежный",
+                },
+                {
+                id:172,
+                eng:"Make a sentence with : ` gloomy / глУми / `",
+                ru:"мрачный",
+                },
+                {
+                id:173,
+                eng:"Make a sentence with : ` good / гуД / `",
+                ru:"хороший",
+                },
+                {
+                id:174,
+                eng:"Make a sentence with : ` great / грЭйт / `",
+                ru:"великий",
+                },
+                {
+                id:175,
+                eng:"Make a sentence with : ` greedy / грИди / `",
+                ru:"жадный",
+                },
+                {
+                id:176,
+                eng:"Make a sentence with : ` green / грин / `",
+                ru:"зелёный",
+                },
+                {
+                id:177,
+                eng:"Make a sentence with : ` hairy / хЭйри / `",
+                ru:"волосатый",
+                },
+                {
+                id:178,
+                eng:"Make a sentence with : ` handsome / хЭнсам / `",
+                ru:"красивый (муж)",
+                },
+                {
+                id:179,
+                eng:"Make a sentence with : ` happy / хЭппи / `",
+                ru:"счастливый",
+                },
+                {
+                id:180,
+                eng:"Make a sentence with : ` hard / хАрд / `",
+                ru:"трудный",
+                },
+                {
+                id:181,
+                eng:"Make a sentence with : ` harsh / хАрш / `",
+                ru:"суровый",
+                },
+                {
+                id:182,
+                eng:"Make a sentence with : ` healthy / хЭлTHи / `",
+                ru:"здоровый",
+                },
+                {
+                id:183,
+                eng:"Make a sentence with : ` heavy / хЭви / `",
+                ru:"тяжелый",
+                },
+                {
+                id:184,
+                eng:"Make a sentence with : ` high / хай / `",
+                ru:"высокий (о зданиях)",
+                },
+                {
+                id:185,
+                eng:"Make a sentence with : ` hollow / хОлоу / `",
+                ru:"пустотелый",
+                },
+                {
+                id:186,
+                eng:"Make a sentence with : ` hot / хот или хат / `",
+                ru:"горячий",
+                },
+                {
+                id:187,
+                eng:"Make a sentence with : ` humble / хАмбл / `",
+                ru:"скромный",
+                },
+                {
+                id:188,
+                eng:"Make a sentence with : ` hungry / хАнгри / `",
+                ru:"голодный",
+                },
+                {
+                id:189,
+                eng:"Make a sentence with : ` icy / Айси / `",
+                ru:"ледяной",
+                },
+                {
+                id:190,
+                eng:"Make a sentence with : ` immortal / иммОртал / `",
+                ru:"бессмертный",
+                },
+                {
+                id:191,
+                eng:"Make a sentence with : ` incredible / инкрЭдбл / `",
+                ru:"невероятный",
+                },
+                {
+                id:192,
+                eng:"Make a sentence with : ` intelligent / интэлиджент / `",
+                ru:"образованный",
+                },
+                {
+                id:193,
+                eng:"Make a sentence with : ` interesting / ИНтрэстин / `",
+                ru:"интересный",
+                },
+                {
+                id:194,
+                eng:"Make a sentence with : ` itchy / Итчи / `",
+                ru:"зудящий",
+                },
+    ],
+    adjJKLMN: [
+        {
+            id:95,
+            eng:"How do you translate : ` сочный `",
+            ru:"JUICY  / джУси /",
+            },
+            {
+            id:96,
+            eng:"How do you translate : ` добрый `",
+            ru:"KIND  / кАйнд /",
+            },
+            {
+            id:97,
+            eng:"How do you translate : ` большой `",
+            ru:"LARGE  / лАдж /",
+            },
+            {
+            id:98,
+            eng:"How do you translate : ` поздний `",
+            ru:"LATE  / лЭйт /",
+            },
+            {
+            id:99,
+            eng:"How do you translate : ` ленивый `",
+            ru:"LAZY  / лЭйзи /",
+            },
+            {
+            id:100,
+            eng:"How do you translate : ` легендарный `",
+            ru:"LEGENDARY  / лэДЖэндэри /",
+            },
+            {
+            id:101,
+            eng:"How do you translate : ` светлый `",
+            ru:"LIGHT  / лАйт /",
+            },
+            {
+            id:102,
+            eng:"How do you translate : ` мало `",
+            ru:"LITTLE  / лИтл /",
+            },
+            {
+            id:103,
+            eng:"How do you translate : ` длинный `",
+            ru:"LONG  / лОн /",
+            },
+            {
+            id:104,
+            eng:"How do you translate : ` громкий `",
+            ru:"LOUD  / лАуд /",
+            },
+            {
+            id:105,
+            eng:"How do you translate : ` низкий `",
+            ru:"LOW  / лОу /",
+            },
+            {
+            id:106,
+            eng:"How do you translate : ` безумный `",
+            ru:"MAD  / мЭд /",
+            },
+            {
+            id:107,
+            eng:"How do you translate : ` мускулистый `",
+            ru:"MUSCULAR  / мАскьюла /",
+            },
+            {
+            id:108,
+            eng:"How do you translate : ` злобный `",
+            ru:"MEAN  / мин /",
+            },
+            {
+            id:109,
+            eng:"How do you translate : ` веселый `",
+            ru:"MERRY  / мЭри /",
+            },
+            {
+            id:110,
+            eng:"How do you translate : ` неряшливый `",
+            ru:"MESSY  / мЭси /",
+            },
+            {
+            id:111,
+            eng:"How do you translate : ` много `",
+            ru:"MUCH OR MANY  / мач о мэни /",
+            },
+            {
+            id:112,
+            eng:"How do you translate : ` узкий `",
+            ru:"NARROW  / нЭроу /",
+            },
+            {
+            id:113,
+            eng:"How do you translate : ` противный `",
+            ru:"NASTY  / нЭсти /",
+            },
+            {
+            id:114,
+            eng:"How do you translate : ` непослушный `",
+            ru:"NAUGHTY  / нОти /",
+            },
+            {
+            id:115,
+            eng:"How do you translate : ` ближайший `",
+            ru:"NEAR  / нИа /",
+            },
+            {
+            id:116,
+            eng:"How do you translate : ` аккуратный `",
+            ru:"NEAT  / нит /",
+            },
+            {
+            id:117,
+            eng:"How do you translate : ` нуждающийся `",
+            ru:"NEEDY  / нИди /",
+            },
+            {
+            id:118,
+            eng:"How do you translate : ` нервный `",
+            ru:"NERVOUS  / нЁвэс /",
+            },
+            {
+            id:119,
+            eng:"How do you translate : ` новый `",
+            ru:"NEW  / ньЮ /",
+            },
+            {
+            id:120,
+            eng:"How do you translate : ` приятный `",
+            ru:"NICE  / нАйс /",
+            },
+            {
+            id:121,
+            eng:"How do you translate : ` шумный `",
+            ru:"NOISY  / нОйзи /",
+            },
+            {
+                id:195,
+                eng:"Make a sentence with : ` juicy / джУси / `",
+                ru:"сочный",
+                },
+                {
+                id:196,
+                eng:"Make a sentence with : ` kind / кАйнд / `",
+                ru:"добрый",
+                },
+                {
+                id:197,
+                eng:"Make a sentence with : ` large / лАдж / `",
+                ru:"большой",
+                },
+                {
+                id:198,
+                eng:"Make a sentence with : ` late / лЭйт / `",
+                ru:"поздний",
+                },
+                {
+                id:199,
+                eng:"Make a sentence with : ` lazy / лЭйзи / `",
+                ru:"ленивый",
+                },
+                {
+                id:200,
+                eng:"Make a sentence with : ` legendary / лэДЖэндэри / `",
+                ru:"легендарный",
+                },
+                {
+                id:201,
+                eng:"Make a sentence with : ` light / лАйт / `",
+                ru:"светлый",
+                },
+                {
+                id:202,
+                eng:"Make a sentence with : ` little / лИтл / `",
+                ru:"мало",
+                },
+                {
+                id:203,
+                eng:"Make a sentence with : ` long / лОн / `",
+                ru:"длинный",
+                },
+                {
+                id:204,
+                eng:"Make a sentence with : ` loud / лАуд / `",
+                ru:"громкий",
+                },
+                {
+                id:205,
+                eng:"Make a sentence with : ` low / лОу / `",
+                ru:"низкий",
+                },
+                {
+                id:206,
+                eng:"Make a sentence with : ` mad / мЭд / `",
+                ru:"безумный",
+                },
+                {
+                id:207,
+                eng:"Make a sentence with : ` muscular / мАскьюла / `",
+                ru:"мускулистый",
+                },
+                {
+                id:208,
+                eng:"Make a sentence with : ` mean / мин / `",
+                ru:"злобный",
+                },
+                {
+                id:209,
+                eng:"Make a sentence with : ` merry / мЭри / `",
+                ru:"веселый",
+                },
+                {
+                id:210,
+                eng:"Make a sentence with : ` messy / мЭси / `",
+                ru:"неряшливый",
+                },
+                {
+                id:211,
+                eng:"Make a sentence with : ` much or many / мач о мэни / `",
+                ru:"много",
+                },
+                {
+                id:212,
+                eng:"Make a sentence with : ` narrow / нЭроу / `",
+                ru:"узкий",
+                },
+                {
+                id:213,
+                eng:"Make a sentence with : ` nasty / нЭсти / `",
+                ru:"противный",
+                },
+                {
+                id:214,
+                eng:"Make a sentence with : ` naughty / нОти / `",
+                ru:"непослушный",
+                },
+                {
+                id:215,
+                eng:"Make a sentence with : ` near / нИа / `",
+                ru:"ближайший",
+                },
+                {
+                id:216,
+                eng:"Make a sentence with : ` neat / нит / `",
+                ru:"аккуратный",
+                },
+                {
+                id:217,
+                eng:"Make a sentence with : ` needy / нИди / `",
+                ru:"нуждающийся",
+                },
+                {
+                id:218,
+                eng:"Make a sentence with : ` nervous / нЁвэс / `",
+                ru:"нервный",
+                },
+                {
+                id:219,
+                eng:"Make a sentence with : ` new / ньЮ / `",
+                ru:"новый",
+                },
+                {
+                id:220,
+                eng:"Make a sentence with : ` nice / нАйс / `",
+                ru:"приятный",
+                },
+                {
+                id:221,
+                eng:"Make a sentence with : ` noisy / нОйзи / `",
+                ru:"шумный",
+                },
+    ],
+    adjOPQR: [
+        {
+            id:122,
+            eng:"How do you translate : ` маслянистый `",
+            ru:"OILY  / Ойли /",
+            },
+            {
+            id:123,
+            eng:"How do you translate : ` старый `",
+            ru:"OLD  / оУлд /",
+            },
+            {
+            id:124,
+            eng:"How do you translate : ` полноватый `",
+            ru:"OVERWEIGHT  / ОувэУэйт /",
+            },
+            {
+            id:125,
+            eng:"How do you translate : ` придирчивый `",
+            ru:"PICKY  / пИки /",
+            },
+            {
+            id:126,
+            eng:"How do you translate : ` простой, обычный `",
+            ru:"SIMPLE  / симпл /",
+            },
+            {
+            id:127,
+            eng:"How do you translate : ` вежливый `",
+            ru:"POLITE  / полАйт /",
+            },
+            {
+            id:128,
+            eng:"How do you translate : ` бедный `",
+            ru:"POOR  / пУэ /",
+            },
+            {
+            id:129,
+            eng:"How do you translate : ` симпотный `",
+            ru:"PRETTY  / прИти /",
+            },
+            {
+            id:130,
+            eng:"How do you translate : ` гордый `",
+            ru:"PROUD  / прАуд /",
+            },
+            {
+            id:131,
+            eng:"How do you translate : ` безпримесный `",
+            ru:"PURE  / пьЮэ /",
+            },
+            {
+            id:132,
+            eng:"How do you translate : ` быстрый `",
+            ru:"QUICK  / квик /",
+            },
+            {
+            id:133,
+            eng:"How do you translate : ` тихий `",
+            ru:"QUIET  / куАйет /",
+            },
+            {
+            id:134,
+            eng:"How do you translate : ` редкий `",
+            ru:"RARE  / рЭа /",
+            },
+            {
+            id:135,
+            eng:"How do you translate : ` сырой `",
+            ru:"RAW  / ро /",
+            },
+            {
+            id:136,
+            eng:"How do you translate : ` надёжный `",
+            ru:"RELIABLE  / рилАибл /",
+            },
+            {
+            id:137,
+            eng:"How do you translate : ` богатый `",
+            ru:"RICH  / рич /",
+            },
+            {
+            id:138,
+            eng:"How do you translate : ` спелый `",
+            ru:"RIPE  / рАйп /",
+            },
+            {
+            id:139,
+            eng:"How do you translate : ` рискованный `",
+            ru:"RISKY  / рИски /",
+            },
+            {
+            id:140,
+            eng:"How do you translate : ` черствый, грубый `",
+            ru:"ROUGH  / рАф /",
+            },
+            {
+            id:141,
+            eng:"How do you translate : ` грубый в общении `",
+            ru:"RUDE  / рУд /",
+            },
+            {
+            id:142,
+            eng:"How do you translate : ` ржавый `",
+            ru:"RUSTY  / рАсти /",
+            },
+            {
+                id:222,
+                eng:"Make a sentence with : ` oily / Ойли / `",
+                ru:"маслянистый",
+                },
+                {
+                id:223,
+                eng:"Make a sentence with : ` old / оУлд / `",
+                ru:"старый",
+                },
+                {
+                id:224,
+                eng:"Make a sentence with : ` overweight / ОувэУэйт / `",
+                ru:"полноватый",
+                },
+                {
+                id:225,
+                eng:"Make a sentence with : ` picky / пИки / `",
+                ru:"придирчивый",
+                },
+                {
+                id:226,
+                eng:"Make a sentence with : ` simple / симпл / `",
+                ru:"простой, обычный",
+                },
+                {
+                id:227,
+                eng:"Make a sentence with : ` polite / полАйт / `",
+                ru:"вежливый",
+                },
+                {
+                id:228,
+                eng:"Make a sentence with : ` poor / пУэ / `",
+                ru:"бедный",
+                },
+                {
+                id:229,
+                eng:"Make a sentence with : ` pretty / прИти / `",
+                ru:"симпотный",
+                },
+                {
+                id:230,
+                eng:"Make a sentence with : ` proud / прАуд / `",
+                ru:"гордый",
+                },
+                {
+                id:231,
+                eng:"Make a sentence with : ` pure / пьЮэ / `",
+                ru:"безпримесный",
+                },
+                {
+                id:232,
+                eng:"Make a sentence with : ` quick / квик / `",
+                ru:"быстрый",
+                },
+                {
+                id:233,
+                eng:"Make a sentence with : ` quiet / куАйет / `",
+                ru:"тихий",
+                },
+                {
+                id:234,
+                eng:"Make a sentence with : ` rare / рЭа / `",
+                ru:"редкий",
+                },
+                {
+                id:235,
+                eng:"Make a sentence with : ` raw / ро / `",
+                ru:"сырой",
+                },
+                {
+                id:236,
+                eng:"Make a sentence with : ` reliable / рилАибл / `",
+                ru:"надёжный",
+                },
+                {
+                id:237,
+                eng:"Make a sentence with : ` rich / рич / `",
+                ru:"богатый",
+                },
+                {
+                id:238,
+                eng:"Make a sentence with : ` ripe / рАйп / `",
+                ru:"спелый",
+                },
+                {
+                id:239,
+                eng:"Make a sentence with : ` risky / рИски / `",
+                ru:"рискованный",
+                },
+                {
+                id:240,
+                eng:"Make a sentence with : ` rough / рАф / `",
+                ru:"черствый, грубый",
+                },
+                {
+                id:241,
+                eng:"Make a sentence with : ` rude / рУд / `",
+                ru:"грубый в общении",
+                },
+                {
+                id:242,
+                eng:"Make a sentence with : ` rusty / рАсти / `",
+                ru:"ржавый",
+                },
+    ],
+    adjS: [
+        {
+            id:143,
+            eng:"How do you translate : ` грустный `",
+            ru:"SAD  / сЭд /",
+            },
+            {
+            id:144,
+            eng:"How do you translate : ` безопасный `",
+            ru:"SAFE  / сЭйф /",
+            },
+            {
+            id:145,
+            eng:"How do you translate : ` соленый `",
+            ru:"SALTY  / сОлти /",
+            },
+            {
+            id:146,
+            eng:"How do you translate : ` здравомыслящий `",
+            ru:"SANE  / сЭйн /",
+            },
+            {
+            id:147,
+            eng:"How do you translate : ` напуганный `",
+            ru:"SCARED  / скЭад /",
+            },
+            {
+            id:148,
+            eng:"How do you translate : ` пугающий `",
+            ru:"SCARY  / скЭри /",
+            },
+            {
+            id:149,
+            eng:"How do you translate : ` эгоистичный `",
+            ru:"SELFISH  / сЭлфиш /",
+            },
+            {
+            id:150,
+            eng:"How do you translate : ` сексуальный `",
+            ru:"SEXY  / сэкси /",
+            },
+            {
+            id:151,
+            eng:"How do you translate : ` острый `",
+            ru:"SHARP  / шАрп /",
+            },
+            {
+            id:152,
+            eng:"How do you translate : ` светящийся `",
+            ru:"SHINY  / шАйни /",
+            },
+            {
+            id:153,
+            eng:"How do you translate : ` дерьмовенький `",
+            ru:"SHITTY  / щИти /",
+            },
+            {
+            id:154,
+            eng:"How do you translate : ` шокирующий `",
+            ru:"SHOCKING  / шОкин /",
+            },
+            {
+            id:155,
+            eng:"How do you translate : ` короткий, низкий `",
+            ru:"SHORT  / шорт /",
+            },
+            {
+            id:156,
+            eng:"How do you translate : ` застенчивый `",
+            ru:"SHY  / шАй /",
+            },
+            {
+            id:157,
+            eng:"How do you translate : ` глупый `",
+            ru:"SILLY  / сИли /",
+            },
+            {
+            id:158,
+            eng:"How do you translate : ` искренний `",
+            ru:"SINCERE  / синсИэ /",
+            },
+            {
+            id:159,
+            eng:"How do you translate : ` тощий `",
+            ru:"SKINNY  / скИни /",
+            },
+            {
+            id:160,
+            eng:"How do you translate : ` сонный `",
+            ru:"SLEEPY  / слИпи /",
+            },
+            {
+            id:161,
+            eng:"How do you translate : ` стройный `",
+            ru:"SLIM  / слИм /",
+            },
+            {
+            id:162,
+            eng:"How do you translate : ` слизкий `",
+            ru:"SLIMY  / слАйми /",
+            },
+            {
+            id:163,
+            eng:"How do you translate : ` медленный `",
+            ru:"SLOW  / слОу /",
+            },
+            {
+            id:164,
+            eng:"How do you translate : ` маленький `",
+            ru:"SMALL  / смОл /",
+            },
+            {
+            id:165,
+            eng:"How do you translate : ` сообразительный `",
+            ru:"SMART  / смАрт /",
+            },
+            {
+            id:166,
+            eng:"How do you translate : ` вонючий `",
+            ru:"SMELLY  / смЭли /",
+            },
+            {
+            id:167,
+            eng:"How do you translate : ` дымный `",
+            ru:"SMOKY  / смОуки /",
+            },
+            {
+            id:168,
+            eng:"How do you translate : ` гладкий `",
+            ru:"SMOOTH  / смуз /",
+            },
+            {
+            id:169,
+            eng:"How do you translate : ` мягкий `",
+            ru:"SOFT  / софт /",
+            },
+            {
+            id:170,
+            eng:"How do you translate : ` скоро `",
+            ru:"SOON  / сун /",
+            },
+            {
+            id:171,
+            eng:"How do you translate : ` сожалеющий `",
+            ru:"SORRY  / сори /",
+            },
+            {
+            id:172,
+            eng:"How do you translate : ` кислый `",
+            ru:"SOUR  / сАуэ /",
+            },
+            {
+            id:173,
+            eng:"How do you translate : ` просторный `",
+            ru:"SPACIOUS  / спЭйшэс /",
+            },
+            {
+            id:174,
+            eng:"How do you translate : ` особенный `",
+            ru:"SPECIAL  / спЭшл /",
+            },
+            {
+            id:175,
+            eng:"How do you translate : ` острый `",
+            ru:"SPICY  / спАйси /",
+            },
+            {
+            id:176,
+            eng:"How do you translate : ` крутой (наклон) `",
+            ru:"STEEP  / стИп /",
+            },
+            {
+            id:177,
+            eng:"How do you translate : ` странный `",
+            ru:"STRANGE/WEIRD  / weird /",
+            },
+            {
+            id:178,
+            eng:"How do you translate : ` строгий `",
+            ru:"STRICT  / стрИкт /",
+            },
+            {
+            id:179,
+            eng:"How do you translate : ` сильный `",
+            ru:"STRONG  / стрОн /",
+            },
+            {
+            id:180,
+            eng:"How do you translate : ` тупой `",
+            ru:"STUPID  / стьЮпид /",
+            },
+            {
+            id:181,
+            eng:"How do you translate : ` успешный `",
+            ru:"SUCCESSFUL  / саксЭсфул /",
+            },
+            {
+            id:182,
+            eng:"How do you translate : ` солнечный `",
+            ru:"SUNNY  / сАнни /",
+            },
+            {
+            id:183,
+            eng:"How do you translate : ` потный `",
+            ru:"SWEATY  / свЭти /",
+            },
+            {
+            id:184,
+            eng:"How do you translate : ` сладкий `",
+            ru:"SWEET  / свит /",
+            },
+            {
+                id:243,
+                eng:"Make a sentence with : ` sad / сЭд / `",
+                ru:"грустный",
+                },
+                {
+                id:244,
+                eng:"Make a sentence with : ` safe / сЭйф / `",
+                ru:"безопасный",
+                },
+                {
+                id:245,
+                eng:"Make a sentence with : ` salty / сОлти / `",
+                ru:"соленый",
+                },
+                {
+                id:246,
+                eng:"Make a sentence with : ` sane / сЭйн / `",
+                ru:"здравомыслящий",
+                },
+                {
+                id:247,
+                eng:"Make a sentence with : ` scared / скЭад / `",
+                ru:"напуганный",
+                },
+                {
+                id:248,
+                eng:"Make a sentence with : ` scary / скЭри / `",
+                ru:"пугающий",
+                },
+                {
+                id:249,
+                eng:"Make a sentence with : ` selfish / сЭлфиш / `",
+                ru:"эгоистичный",
+                },
+                {
+                id:250,
+                eng:"Make a sentence with : ` sexy / сэкси / `",
+                ru:"сексуальный",
+                },
+                {
+                id:251,
+                eng:"Make a sentence with : ` sharp / шАрп / `",
+                ru:"острый",
+                },
+                {
+                id:252,
+                eng:"Make a sentence with : ` shiny / шАйни / `",
+                ru:"светящийся",
+                },
+                {
+                id:253,
+                eng:"Make a sentence with : ` shitty / щИти / `",
+                ru:"дерьмовенький",
+                },
+                {
+                id:254,
+                eng:"Make a sentence with : ` shocking / шОкин / `",
+                ru:"шокирующий",
+                },
+                {
+                id:255,
+                eng:"Make a sentence with : ` short / шорт / `",
+                ru:"короткий, низкий",
+                },
+                {
+                id:256,
+                eng:"Make a sentence with : ` shy / шАй / `",
+                ru:"застенчивый",
+                },
+                {
+                id:257,
+                eng:"Make a sentence with : ` silly / сИли / `",
+                ru:"глупый",
+                },
+                {
+                id:258,
+                eng:"Make a sentence with : ` sincere / синсИэ / `",
+                ru:"искренний",
+                },
+                {
+                id:259,
+                eng:"Make a sentence with : ` skinny / скИни / `",
+                ru:"тощий",
+                },
+                {
+                id:260,
+                eng:"Make a sentence with : ` sleepy / слИпи / `",
+                ru:"сонный",
+                },
+                {
+                id:261,
+                eng:"Make a sentence with : ` slim / слИм / `",
+                ru:"стройный",
+                },
+                {
+                id:262,
+                eng:"Make a sentence with : ` slimy / слАйми / `",
+                ru:"слизкий",
+                },
+                {
+                id:263,
+                eng:"Make a sentence with : ` slow / слОу / `",
+                ru:"медленный",
+                },
+                {
+                id:264,
+                eng:"Make a sentence with : ` small / смОл / `",
+                ru:"маленький",
+                },
+                {
+                id:265,
+                eng:"Make a sentence with : ` smart / смАрт / `",
+                ru:"сообразительный",
+                },
+                {
+                id:266,
+                eng:"Make a sentence with : ` smelly / смЭли / `",
+                ru:"вонючий",
+                },
+                {
+                id:267,
+                eng:"Make a sentence with : ` smoky / смОуки / `",
+                ru:"дымный",
+                },
+                {
+                id:268,
+                eng:"Make a sentence with : ` smooth / смуз / `",
+                ru:"гладкий",
+                },
+                {
+                id:269,
+                eng:"Make a sentence with : ` soft / софт / `",
+                ru:"мягкий",
+                },
+                {
+                id:270,
+                eng:"Make a sentence with : ` soon / сун / `",
+                ru:"скоро",
+                },
+                {
+                id:271,
+                eng:"Make a sentence with : ` sorry / сори / `",
+                ru:"сожалеющий",
+                },
+                {
+                id:272,
+                eng:"Make a sentence with : ` sour / сАуэ / `",
+                ru:"кислый",
+                },
+                {
+                id:273,
+                eng:"Make a sentence with : ` spacious / спЭйшэс / `",
+                ru:"просторный",
+                },
+                {
+                id:274,
+                eng:"Make a sentence with : ` special / спЭшл / `",
+                ru:"особенный",
+                },
+                {
+                id:275,
+                eng:"Make a sentence with : ` spicy / спАйси / `",
+                ru:"острый",
+                },
+                {
+                id:276,
+                eng:"Make a sentence with : ` steep / стИп / `",
+                ru:"крутой (наклон)",
+                },
+                {
+                id:277,
+                eng:"Make a sentence with : ` strange/weird / weird / `",
+                ru:"странный",
+                },
+                {
+                id:278,
+                eng:"Make a sentence with : ` strict / стрИкт / `",
+                ru:"строгий",
+                },
+                {
+                id:279,
+                eng:"Make a sentence with : ` strong / стрОн / `",
+                ru:"сильный",
+                },
+                {
+                id:280,
+                eng:"Make a sentence with : ` stupid / стьЮпид / `",
+                ru:"тупой",
+                },
+                {
+                id:281,
+                eng:"Make a sentence with : ` successful / саксЭсфул / `",
+                ru:"успешный",
+                },
+                {
+                id:282,
+                eng:"Make a sentence with : ` sunny / сАнни / `",
+                ru:"солнечный",
+                },
+                {
+                id:283,
+                eng:"Make a sentence with : ` sweaty / свЭти / `",
+                ru:"потный",
+                },
+                {
+                id:284,
+                eng:"Make a sentence with : ` sweet / свит / `",
+                ru:"сладкий",
+                },
+    ],
+    adjTUVWY: [
+        {
+            id:185,
+            eng:"How do you translate : ` загорелый `",
+            ru:"TANNED  / тЭнд /",
+            },
+            {
+            id:186,
+            eng:"How do you translate : ` вкусный `",
+            ru:"TASTY  / тЭйсти /",
+            },
+            {
+            id:187,
+            eng:"How do you translate : ` тонкий/толстый `",
+            ru:"THIN/THICK  / Thын Thык /",
+            },
+            {
+            id:188,
+            eng:"How do you translate : ` жаждущий `",
+            ru:"THIRSTY  / Thёсти /",
+            },
+            {
+            id:189,
+            eng:"How do you translate : ` крошечный `",
+            ru:"TINY  / тАйни /",
+            },
+            {
+            id:190,
+            eng:"How do you translate : ` хитрый `",
+            ru:"TRICKY  / трИки /",
+            },
+            {
+            id:191,
+            eng:"How do you translate : ` верный `",
+            ru:"TRUE  / тру /",
+            },
+            {
+            id:192,
+            eng:"How do you translate : ` уродливый `",
+            ru:"UGLY  / Агли /",
+            },
+            {
+            id:193,
+            eng:"How do you translate : ` вульгарный `",
+            ru:"VULGAR  / вАлгар /",
+            },
+            {
+            id:194,
+            eng:"How do you translate : ` теплый `",
+            ru:"WARM  / вОм /",
+            },
+            {
+            id:195,
+            eng:"How do you translate : ` слабый `",
+            ru:"WEAK  / уИк /",
+            },
+            {
+            id:196,
+            eng:"How do you translate : ` состоятельный `",
+            ru:"WEALTHY  / уЭлTHи /",
+            },
+            {
+            id:197,
+            eng:"How do you translate : ` мокрый `",
+            ru:"WET  / уЭт /",
+            },
+            {
+            id:198,
+            eng:"How do you translate : ` широкий `",
+            ru:"WIDE  / уАйд /",
+            },
+            {
+            id:199,
+            eng:"How do you translate : ` дикий `",
+            ru:"WILD  / уАйлд /",
+            },
+            {
+            id:200,
+            eng:"How do you translate : ` ветреный `",
+            ru:"WINDY  / уИнди /",
+            },
+            {
+            id:201,
+            eng:"How do you translate : ` мудрый `",
+            ru:"WISE  / уАйз /",
+            },
+            {
+            id:202,
+            eng:"How do you translate : ` замечательный `",
+            ru:"WONDERFUL  / уандэрфул /",
+            },
+            {
+            id:203,
+            eng:"How do you translate : ` достойный `",
+            ru:"WORTHY  / уОрTHи /",
+            },
+            {
+            id:204,
+            eng:"How do you translate : ` молодой `",
+            ru:"YOUNG  / ян /",
+            },
+            {
+            id:205,
+            eng:"How do you translate : ` высокий (о людях) `",
+            ru:"TALL  / тОл /",
+            },
+            {
+                id:285,
+                eng:"Make a sentence with : ` tanned / тЭнд / `",
+                ru:"загорелый",
+                },
+                {
+                id:286,
+                eng:"Make a sentence with : ` tasty / тЭйсти / `",
+                ru:"вкусный",
+                },
+                {
+                id:287,
+                eng:"Make a sentence with : ` thin/thick / Thын Thык / `",
+                ru:"тонкий/толстый",
+                },
+                {
+                id:288,
+                eng:"Make a sentence with : ` thirsty / Thёсти / `",
+                ru:"жаждущий",
+                },
+                {
+                id:289,
+                eng:"Make a sentence with : ` tiny / тАйни / `",
+                ru:"крошечный",
+                },
+                {
+                id:290,
+                eng:"Make a sentence with : ` tricky / трИки / `",
+                ru:"хитрый",
+                },
+                {
+                id:291,
+                eng:"Make a sentence with : ` TRUE / тру / `",
+                ru:"верный",
+                },
+                {
+                id:292,
+                eng:"Make a sentence with : ` ugly / Агли / `",
+                ru:"уродливый",
+                },
+                {
+                id:293,
+                eng:"Make a sentence with : ` vulgar / вАлгар / `",
+                ru:"вульгарный",
+                },
+                {
+                id:294,
+                eng:"Make a sentence with : ` warm / вОм / `",
+                ru:"теплый",
+                },
+                {
+                id:295,
+                eng:"Make a sentence with : ` weak / уИк / `",
+                ru:"слабый",
+                },
+                {
+                id:296,
+                eng:"Make a sentence with : ` wealthy / уЭлTHи / `",
+                ru:"состоятельный",
+                },
+                {
+                id:297,
+                eng:"Make a sentence with : ` wet / уЭт / `",
+                ru:"мокрый",
+                },
+                {
+                id:298,
+                eng:"Make a sentence with : ` wide / уАйд / `",
+                ru:"широкий",
+                },
+                {
+                id:299,
+                eng:"Make a sentence with : ` wild / уАйлд / `",
+                ru:"дикий",
+                },
+                {
+                id:300,
+                eng:"Make a sentence with : ` windy / уИнди / `",
+                ru:"ветреный",
+                },
+                {
+                id:301,
+                eng:"Make a sentence with : ` wise / уАйз / `",
+                ru:"мудрый",
+                },
+                {
+                id:302,
+                eng:"Make a sentence with : ` wonderful / уандэрфул / `",
+                ru:"замечательный",
+                },
+                {
+                id:303,
+                eng:"Make a sentence with : ` worthy / уОрTHи / `",
+                ru:"достойный",
+                },
+                {
+                id:304,
+                eng:"Make a sentence with : ` young / ян / `",
+                ru:"молодой",
+                },
+                {
+                id:305,
+                eng:"Make a sentence with : ` tall / тОл / `",
+                ru:"высокий (о людях)",
+                },
+    ],
+    adjectivesall: [
+        {
+            id:1,
+            eng:"alive / элАйв /",
+            ru:"живой",
+            },
+            {
+            id:2,
+            eng:"amazing / эмЭйзин /",
+            ru:"удивительный",
+            },
+            {
+            id:3,
+            eng:"angry / Энгри /",
+            ru:"сердитый",
+            },
+            {
+            id:4,
+            eng:"annoying / энОин /",
+            ru:"бесящий",
+            },
+            {
+            id:5,
+            eng:"attractive / этрЭктив /",
+            ru:"привлекательный",
+            },
+            {
+            id:6,
+            eng:"awesome / Осм /",
+            ru:"офигенный",
+            },
+            {
+            id:7,
+            eng:"accurate / Экьюрэт /",
+            ru:"точный (верный)",
+            },
+            {
+            id:8,
+            eng:"agile / эджАйл /",
+            ru:"ловкий",
+            },
+            {
+            id:9,
+            eng:"bad / бЭд /",
+            ru:"плохой",
+            },
+            {
+            id:10,
+            eng:"bald / бОлд /",
+            ru:"лысый",
+            },
+            {
+            id:11,
+            eng:"beautiful / бьютифул /",
+            ru:"красивая",
+            },
+            {
+            id:12,
+            eng:"big / биГ /",
+            ru:"большой",
+            },
+            {
+            id:13,
+            eng:"black / блЭк /",
+            ru:"Черный",
+            },
+            {
+            id:14,
+            eng:"bloody / блАди /",
+            ru:"кровавый",
+            },
+            {
+            id:15,
+            eng:"blue / блУ /",
+            ru:"синий",
+            },
+            {
+            id:16,
+            eng:"bold / бОлд /",
+            ru:"смелый",
+            },
+            {
+            id:17,
+            eng:"boring / бОрин /",
+            ru:"скучный",
+            },
+            {
+            id:18,
+            eng:"bossy / бОсси /",
+            ru:"властный",
+            },
+            {
+            id:19,
+            eng:"bothering / бАthэрин /",
+            ru:"раздражающий",
+            },
+            {
+            id:20,
+            eng:"brave / брЭйв /",
+            ru:"храбрый",
+            },
+            {
+            id:21,
+            eng:"breathtaking / брэth тэйкин /",
+            ru:"захватывающий дух",
+            },
+            {
+            id:22,
+            eng:"bright / брАйт /",
+            ru:"яркий",
+            },
+            {
+            id:23,
+            eng:"busy / бИзи /",
+            ru:"занятой",
+            },
+            {
+            id:24,
+            eng:"calm / кам /",
+            ru:"спокойный",
+            },
+            {
+            id:25,
+            eng:"cheap / чип /",
+            ru:"дешевый",
+            },
+            {
+            id:26,
+            eng:"clean / клин /",
+            ru:"чистый",
+            },
+            {
+            id:27,
+            eng:"close / клоуС /",
+            ru:"близкий",
+            },
+            {
+            id:28,
+            eng:"cloudy / клАуди /",
+            ru:"облачный",
+            },
+            {
+            id:29,
+            eng:"clumsy / клАмзи /",
+            ru:"неуклюжий",
+            },
+            {
+            id:30,
+            eng:"cold / коУлд /",
+            ru:"холодный",
+            },
+            {
+            id:31,
+            eng:"cool / кул /",
+            ru:"крутой",
+            },
+            {
+            id:32,
+            eng:"correct / корЭкт /",
+            ru:"верный",
+            },
+            {
+            id:33,
+            eng:"cozy / кОузи /",
+            ru:"уютный",
+            },
+            {
+            id:34,
+            eng:"crazy / крЭйзи /",
+            ru:"сумасшедший",
+            },
+            {
+            id:35,
+            eng:"crispy / крИспи /",
+            ru:"хрустящий",
+            },
+            {
+            id:36,
+            eng:"curly / кёли /",
+            ru:"кудрявый",
+            },
+            {
+            id:37,
+            eng:"cute / кьЮт /",
+            ru:"милый",
+            },
+            {
+            id:38,
+            eng:"dark / дарк /",
+            ru:"темный",
+            },
+            {
+            id:39,
+            eng:"deadly / дЭдли /",
+            ru:"смертельный",
+            },
+            {
+            id:40,
+            eng:"deep / дип /",
+            ru:"глубокий",
+            },
+            {
+            id:41,
+            eng:"dirty / дёти /",
+            ru:"грязный",
+            },
+            {
+            id:42,
+            eng:"disgusting / дисгАстин /",
+            ru:"отвратительный",
+            },
+            {
+            id:43,
+            eng:"drunk / дрАнк /",
+            ru:"пьяный",
+            },
+            {
+            id:44,
+            eng:"dry / дрАй /",
+            ru:"сухой",
+            },
+            {
+            id:45,
+            eng:"dull / дал /",
+            ru:"затупившийся",
+            },
+            {
+            id:46,
+            eng:"dumb / дам /",
+            ru:"болван",
+            },
+            {
+            id:47,
+            eng:"dusty / дАсти /",
+            ru:"пыльный",
+            },
+            {
+            id:48,
+            eng:"early / ёли /",
+            ru:"ранний",
+            },
+            {
+            id:49,
+            eng:"easy / Изи /",
+            ru:"легкий",
+            },
+            {
+            id:50,
+            eng:"evil / Ивэл /",
+            ru:"злой",
+            },
+            {
+            id:51,
+            eng:"expensive / экспЭнсив /",
+            ru:"дорогой",
+            },
+            {
+            id:52,
+            eng:"fabulous / фЭбьюлэс /",
+            ru:"поразительный",
+            },
+            {
+            id:53,
+            eng:"fair / фЭа /",
+            ru:"справедливый",
+            },
+            {
+            id:54,
+            eng:"fancy / фЭнси /",
+            ru:"изысканный",
+            },
+            {
+            id:55,
+            eng:"fantastic / фэнстэстик /",
+            ru:"фантастичный",
+            },
+            {
+            id:56,
+            eng:"far / фа /",
+            ru:"далекий",
+            },
+            {
+            id:57,
+            eng:"fashionable / фЭшэнэбл /",
+            ru:"модный",
+            },
+            {
+            id:58,
+            eng:"fast / фаст /",
+            ru:"быстрый",
+            },
+            {
+            id:59,
+            eng:"fat / фэт /",
+            ru:"жирный",
+            },
+            {
+            id:60,
+            eng:"favorite / фЭйворит /",
+            ru:"любимый",
+            },
+            {
+            id:61,
+            eng:"few / фью /",
+            ru:"несколько, мало",
+            },
+            {
+            id:62,
+            eng:"fierce / фИрс /",
+            ru:"свирепый",
+            },
+            {
+            id:63,
+            eng:"filthy / филTHи /",
+            ru:"мерзкий",
+            },
+            {
+            id:64,
+            eng:"firm / фЁрм /",
+            ru:"упругий",
+            },
+            {
+            id:65,
+            eng:"flat / флЭт /",
+            ru:"плоский",
+            },
+            {
+            id:66,
+            eng:"flexible / флЭксибл /",
+            ru:"гибкий",
+            },
+            {
+            id:67,
+            eng:"fresh / фрЭш /",
+            ru:"свежий",
+            },
+            {
+            id:68,
+            eng:"friendly / фрЭндли /",
+            ru:"дружелюбный",
+            },
+            {
+            id:69,
+            eng:"full / фУл /",
+            ru:"полный",
+            },
+            {
+            id:70,
+            eng:"funny / фАнни /",
+            ru:"смешной",
+            },
+            {
+            id:71,
+            eng:"gentle / джЭнтл /",
+            ru:"нежный",
+            },
+            {
+            id:72,
+            eng:"gloomy / глУми /",
+            ru:"мрачный",
+            },
+            {
+            id:73,
+            eng:"good / гуД /",
+            ru:"хороший",
+            },
+            {
+            id:74,
+            eng:"great / грЭйт /",
+            ru:"великий",
+            },
+            {
+            id:75,
+            eng:"greedy / грИди /",
+            ru:"жадный",
+            },
+            {
+            id:76,
+            eng:"green / грин /",
+            ru:"зелёный",
+            },
+            {
+            id:77,
+            eng:"hairy / хЭйри /",
+            ru:"волосатый",
+            },
+            {
+            id:78,
+            eng:"handsome / хЭнсам /",
+            ru:"красивый (муж)",
+            },
+            {
+            id:79,
+            eng:"happy / хЭппи /",
+            ru:"счастливый",
+            },
+            {
+            id:80,
+            eng:"hard / хАрд /",
+            ru:"трудный",
+            },
+            {
+            id:81,
+            eng:"harsh / хАрш /",
+            ru:"суровый",
+            },
+            {
+            id:82,
+            eng:"healthy / хЭлTHи /",
+            ru:"здоровый",
+            },
+            {
+            id:83,
+            eng:"heavy / хЭви /",
+            ru:"тяжелый",
+            },
+            {
+            id:84,
+            eng:"high / хай /",
+            ru:"высокий (о зданиях)",
+            },
+            {
+            id:85,
+            eng:"hollow / хОлоу /",
+            ru:"пустотелый",
+            },
+            {
+            id:86,
+            eng:"hot / хот или хат /",
+            ru:"горячий",
+            },
+            {
+            id:87,
+            eng:"humble / хАмбл /",
+            ru:"скромный",
+            },
+            {
+            id:88,
+            eng:"hungry / хАнгри /",
+            ru:"голодный",
+            },
+            {
+            id:89,
+            eng:"icy / Айси /",
+            ru:"ледяной",
+            },
+            {
+            id:90,
+            eng:"immortal / иммОртал /",
+            ru:"бессмертный",
+            },
+            {
+            id:91,
+            eng:"incredible / инкрЭдбл /",
+            ru:"невероятный",
+            },
+            {
+            id:92,
+            eng:"intelligent / интэлиджент /",
+            ru:"образованный",
+            },
+            {
+            id:93,
+            eng:"interesting / ИНтрэстин /",
+            ru:"интересный",
+            },
+            {
+            id:94,
+            eng:"itchy / Итчи /",
+            ru:"зудящий",
+            },
+            {
+            id:95,
+            eng:"juicy / джУси /",
+            ru:"сочный",
+            },
+            {
+            id:96,
+            eng:"kind / кАйнд /",
+            ru:"добрый",
+            },
+            {
+            id:97,
+            eng:"large / лАдж /",
+            ru:"большой",
+            },
+            {
+            id:98,
+            eng:"late / лЭйт /",
+            ru:"поздний",
+            },
+            {
+            id:99,
+            eng:"lazy / лЭйзи /",
+            ru:"ленивый",
+            },
+            {
+            id:100,
+            eng:"legendary / лэДЖэндэри /",
+            ru:"легендарный",
+            },
+            {
+            id:101,
+            eng:"light / лАйт /",
+            ru:"светлый",
+            },
+            {
+            id:102,
+            eng:"little / лИтл /",
+            ru:"мало",
+            },
+            {
+            id:103,
+            eng:"long / лОн /",
+            ru:"длинный",
+            },
+            {
+            id:104,
+            eng:"loud / лАуд /",
+            ru:"громкий",
+            },
+            {
+            id:105,
+            eng:"low / лОу /",
+            ru:"низкий",
+            },
+            {
+            id:106,
+            eng:"mad / мЭд /",
+            ru:"безумный",
+            },
+            {
+            id:107,
+            eng:"muscular / мАскьюла /",
+            ru:"мускулистый",
+            },
+            {
+            id:108,
+            eng:"mean / мин /",
+            ru:"злобный",
+            },
+            {
+            id:109,
+            eng:"merry / мЭри /",
+            ru:"веселый",
+            },
+            {
+            id:110,
+            eng:"messy / мЭси /",
+            ru:"неряшливый",
+            },
+            {
+            id:111,
+            eng:"much or many / мач о мэни /",
+            ru:"много",
+            },
+            {
+            id:112,
+            eng:"narrow / нЭроу /",
+            ru:"узкий",
+            },
+            {
+            id:113,
+            eng:"nasty / нЭсти /",
+            ru:"противный",
+            },
+            {
+            id:114,
+            eng:"naughty / нОти /",
+            ru:"непослушный",
+            },
+            {
+            id:115,
+            eng:"near / нИа /",
+            ru:"ближайший",
+            },
+            {
+            id:116,
+            eng:"neat / нит /",
+            ru:"аккуратный",
+            },
+            {
+            id:117,
+            eng:"needy / нИди /",
+            ru:"нуждающийся",
+            },
+            {
+            id:118,
+            eng:"nervous / нЁвэс /",
+            ru:"нервный",
+            },
+            {
+            id:119,
+            eng:"new / ньЮ /",
+            ru:"новый",
+            },
+            {
+            id:120,
+            eng:"nice / нАйс /",
+            ru:"приятный",
+            },
+            {
+            id:121,
+            eng:"noisy / нОйзи /",
+            ru:"шумный",
+            },
+            {
+            id:122,
+            eng:"oily / Ойли /",
+            ru:"маслянистый",
+            },
+            {
+            id:123,
+            eng:"old / оУлд /",
+            ru:"старый",
+            },
+            {
+            id:124,
+            eng:"overweight / ОувэУэйт /",
+            ru:"полноватый",
+            },
+            {
+            id:125,
+            eng:"picky / пИки /",
+            ru:"придирчивый",
+            },
+            {
+            id:126,
+            eng:"simple / симпл /",
+            ru:"простой, обычный",
+            },
+            {
+            id:127,
+            eng:"polite / полАйт /",
+            ru:"вежливый",
+            },
+            {
+            id:128,
+            eng:"poor / пУэ /",
+            ru:"бедный",
+            },
+            {
+            id:129,
+            eng:"pretty / прИти /",
+            ru:"симпотный",
+            },
+            {
+            id:130,
+            eng:"proud / прАуд /",
+            ru:"гордый",
+            },
+            {
+            id:131,
+            eng:"pure / пьЮэ /",
+            ru:"безпримесный",
+            },
+            {
+            id:132,
+            eng:"quick / квик /",
+            ru:"быстрый",
+            },
+            {
+            id:133,
+            eng:"quiet / куАйет /",
+            ru:"тихий",
+            },
+            {
+            id:134,
+            eng:"rare / рЭа /",
+            ru:"редкий",
+            },
+            {
+            id:135,
+            eng:"raw / ро /",
+            ru:"сырой",
+            },
+            {
+            id:136,
+            eng:"reliable / рилАибл /",
+            ru:"надёжный",
+            },
+            {
+            id:137,
+            eng:"rich / рич /",
+            ru:"богатый",
+            },
+            {
+            id:138,
+            eng:"ripe / рАйп /",
+            ru:"спелый",
+            },
+            {
+            id:139,
+            eng:"risky / рИски /",
+            ru:"рискованный",
+            },
+            {
+            id:140,
+            eng:"rough / рАф /",
+            ru:"черствый, грубый",
+            },
+            {
+            id:141,
+            eng:"rude / рУд /",
+            ru:"грубый в общении",
+            },
+            {
+            id:142,
+            eng:"rusty / рАсти /",
+            ru:"ржавый",
+            },
+            {
+            id:143,
+            eng:"sad / сЭд /",
+            ru:"грустный",
+            },
+            {
+            id:144,
+            eng:"safe / сЭйф /",
+            ru:"безопасный",
+            },
+            {
+            id:145,
+            eng:"salty / сОлти /",
+            ru:"соленый",
+            },
+            {
+            id:146,
+            eng:"sane / сЭйн /",
+            ru:"здравомыслящий",
+            },
+            {
+            id:147,
+            eng:"scared / скЭад /",
+            ru:"напуганный",
+            },
+            {
+            id:148,
+            eng:"scary / скЭри /",
+            ru:"пугающий",
+            },
+            {
+            id:149,
+            eng:"selfish / сЭлфиш /",
+            ru:"эгоистичный",
+            },
+            {
+            id:150,
+            eng:"sexy / сэкси /",
+            ru:"сексуальный",
+            },
+            {
+            id:151,
+            eng:"sharp / шАрп /",
+            ru:"острый",
+            },
+            {
+            id:152,
+            eng:"shiny / шАйни /",
+            ru:"светящийся",
+            },
+            {
+            id:153,
+            eng:"shitty / щИти /",
+            ru:"дерьмовенький",
+            },
+            {
+            id:154,
+            eng:"shocking / шОкин /",
+            ru:"шокирующий",
+            },
+            {
+            id:155,
+            eng:"short / шорт /",
+            ru:"короткий, низкий",
+            },
+            {
+            id:156,
+            eng:"shy / шАй /",
+            ru:"застенчивый",
+            },
+            {
+            id:157,
+            eng:"silly / сИли /",
+            ru:"глупый",
+            },
+            {
+            id:158,
+            eng:"sincere / синсИэ /",
+            ru:"искренний",
+            },
+            {
+            id:159,
+            eng:"skinny / скИни /",
+            ru:"тощий",
+            },
+            {
+            id:160,
+            eng:"sleepy / слИпи /",
+            ru:"сонный",
+            },
+            {
+            id:161,
+            eng:"slim / слИм /",
+            ru:"стройный",
+            },
+            {
+            id:162,
+            eng:"slimy / слАйми /",
+            ru:"слизкий",
+            },
+            {
+            id:163,
+            eng:"slow / слОу /",
+            ru:"медленный",
+            },
+            {
+            id:164,
+            eng:"small / смОл /",
+            ru:"маленький",
+            },
+            {
+            id:165,
+            eng:"smart / смАрт /",
+            ru:"сообразительный",
+            },
+            {
+            id:166,
+            eng:"smelly / смЭли /",
+            ru:"вонючий",
+            },
+            {
+            id:167,
+            eng:"smoky / смОуки /",
+            ru:"дымный",
+            },
+            {
+            id:168,
+            eng:"smooth / смуз /",
+            ru:"гладкий",
+            },
+            {
+            id:169,
+            eng:"soft / софт /",
+            ru:"мягкий",
+            },
+            {
+            id:170,
+            eng:"soon / сун /",
+            ru:"скоро",
+            },
+            {
+            id:171,
+            eng:"sorry / сори /",
+            ru:"сожалеющий",
+            },
+            {
+            id:172,
+            eng:"sour / сАуэ /",
+            ru:"кислый",
+            },
+            {
+            id:173,
+            eng:"spacious / спЭйшэс /",
+            ru:"просторный",
+            },
+            {
+            id:174,
+            eng:"special / спЭшл /",
+            ru:"особенный",
+            },
+            {
+            id:175,
+            eng:"spicy / спАйси /",
+            ru:"острый",
+            },
+            {
+            id:176,
+            eng:"steep / стИп /",
+            ru:"крутой (наклон)",
+            },
+            {
+            id:177,
+            eng:"strange/weird / weird /",
+            ru:"странный",
+            },
+            {
+            id:178,
+            eng:"strict / стрИкт /",
+            ru:"строгий",
+            },
+            {
+            id:179,
+            eng:"strong / стрОн /",
+            ru:"сильный",
+            },
+            {
+            id:180,
+            eng:"stupid / стьЮпид /",
+            ru:"тупой",
+            },
+            {
+            id:181,
+            eng:"successful / саксЭсфул /",
+            ru:"успешный",
+            },
+            {
+            id:182,
+            eng:"sunny / сАнни /",
+            ru:"солнечный",
+            },
+            {
+            id:183,
+            eng:"sweaty / свЭти /",
+            ru:"потный",
+            },
+            {
+            id:184,
+            eng:"sweet / свит /",
+            ru:"сладкий",
+            },
+            {
+            id:185,
+            eng:"tanned / тЭнд /",
+            ru:"загорелый",
+            },
+            {
+            id:186,
+            eng:"tasty / тЭйсти /",
+            ru:"вкусный",
+            },
+            {
+            id:187,
+            eng:"thin/thick / Thын Thык /",
+            ru:"тонкий/толстый",
+            },
+            {
+            id:188,
+            eng:"thirsty / Thёсти /",
+            ru:"жаждущий",
+            },
+            {
+            id:189,
+            eng:"tiny / тАйни /",
+            ru:"крошечный",
+            },
+            {
+            id:190,
+            eng:"tricky / трИки /",
+            ru:"хитрый",
+            },
+            {
+            id:191,
+            eng:"TRUE / тру /",
+            ru:"верный",
+            },
+            {
+            id:192,
+            eng:"ugly / Агли /",
+            ru:"уродливый",
+            },
+            {
+            id:193,
+            eng:"vulgar / вАлгар /",
+            ru:"вульгарный",
+            },
+            {
+            id:194,
+            eng:"warm / вОм /",
+            ru:"теплый",
+            },
+            {
+            id:195,
+            eng:"weak / уИк /",
+            ru:"слабый",
+            },
+            {
+            id:196,
+            eng:"wealthy / уЭлTHи /",
+            ru:"состоятельный",
+            },
+            {
+            id:197,
+            eng:"wet / уЭт /",
+            ru:"мокрый",
+            },
+            {
+            id:198,
+            eng:"wide / уАйд /",
+            ru:"широкий",
+            },
+            {
+            id:199,
+            eng:"wild / уАйлд /",
+            ru:"дикий",
+            },
+            {
+            id:200,
+            eng:"windy / уИнди /",
+            ru:"ветреный",
+            },
+            {
+            id:201,
+            eng:"wise / уАйз /",
+            ru:"мудрый",
+            },
+            {
+            id:202,
+            eng:"wonderful / уандэрфул /",
+            ru:"замечательный",
+            },
+            {
+            id:203,
+            eng:"worthy / уОрTHи /",
+            ru:"достойный",
+            },
+            {
+            id:204,
+            eng:"young / ян /",
+            ru:"молодой",
+            },
+            {
+            id:205,
+            eng:"tall / тОл /",
+            ru:"высокий (о людях)",
+            },
     ],
     adjCompareAll: [
         {
             id:1,
             eng:"Сравнительная и превосходная степень прилагательного: ` alive / элАйв / `",
             ru:"ЖИВОЙ - alive более - MORE ALIVE самый - THE MOST ALIVE ",
-            
             },
             {
             id:2,
             eng:"Сравнительная и превосходная степень прилагательного: ` amazing / эмЭйзин / `",
             ru:"УДИВИТЕЛЬНЫЙ - amazing более - MORE AMAZING самый - THE MOST AMAZING ",
-            
             },
             {
             id:3,
             eng:"Сравнительная и превосходная степень прилагательного: ` angry / Энгри / `",
             ru:"СЕРДИТЫЙ - angry более - ANGRIER самый - THE ANGRIEST ",
-            
             },
             {
             id:4,
             eng:"Сравнительная и превосходная степень прилагательного: ` annoying / энОин / `",
             ru:"БЕСЯЩИЙ - annoying более - MORE ANNOYING самый - THE MOST ANNOYING ",
-            
             },
             {
             id:5,
             eng:"Сравнительная и превосходная степень прилагательного: ` attractive / этрЭктив / `",
             ru:"ПРИВЛЕКАТЕЛЬНЫЙ - attractive более - MORE ATTRACTIVE самый - THE MOST ATTRACTIVE ",
-            
             },
             {
             id:6,
             eng:"Сравнительная и превосходная степень прилагательного: ` awesome / Осм / `",
             ru:"ОФИГЕННЫЙ - awesome более - MORE AWESOME самый - THE MOST AWESOME ",
-            
             },
             {
             id:7,
             eng:"Сравнительная и превосходная степень прилагательного: ` accurate / Экьюрэт / `",
             ru:"ТОЧНЫЙ (ВЕРНЫЙ) - accurate более - MORE ACCURATE самый - THE MOST ACCURATE ",
-            
             },
             {
             id:8,
             eng:"Сравнительная и превосходная степень прилагательного: ` agile / эджАйл / `",
             ru:"ЛОВКИЙ - agile более - MORE AGILE самый - THE MOST AGILE ",
-            
             },
             {
             id:9,
             eng:"Сравнительная и превосходная степень прилагательного: ` bad / бЭд / `",
             ru:"ПЛОХОЙ - bad более - WORSE самый - THE WORST ",
-            
             },
             {
             id:10,
             eng:"Сравнительная и превосходная степень прилагательного: ` bald / бОлд / `",
             ru:"ЛЫСЫЙ - bald более - BALDER самый - THE BALDEST ",
-            
             },
             {
             id:11,
             eng:"Сравнительная и превосходная степень прилагательного: ` beautiful / бьютифул / `",
             ru:"КРАСИВАЯ - beautiful более - MORE BEAUTIFUL самый - THE MOST BEAUTIFUL ",
-            
             },
             {
             id:12,
             eng:"Сравнительная и превосходная степень прилагательного: ` big / биГ / `",
             ru:"БОЛЬШОЙ - big более - BIGGER самый - THE BIGGEST ",
-            
             },
             {
             id:13,
             eng:"Сравнительная и превосходная степень прилагательного: ` black / блЭк / `",
             ru:"ЧЕРНЫЙ - black более - BLACKER самый - THE BLACKEST ",
-            
             },
             {
             id:14,
             eng:"Сравнительная и превосходная степень прилагательного: ` bloody / блАди / `",
             ru:"КРОВАВЫЙ - bloody более - BLOODIER самый - THE BLOODIEST ",
-            
             },
             {
             id:15,
             eng:"Сравнительная и превосходная степень прилагательного: ` blue / блУ / `",
             ru:"СИНИЙ - blue более - BLUER самый - THE BLUEST ",
-            
             },
             {
             id:16,
             eng:"Сравнительная и превосходная степень прилагательного: ` bold / бОлд / `",
             ru:"СМЕЛЫЙ - bold более - BOLDER самый - THE BOLDEST ",
-            
             },
             {
             id:17,
             eng:"Сравнительная и превосходная степень прилагательного: ` boring / бОрин / `",
             ru:"СКУЧНЫЙ - boring более - MORE BORING самый - THE MOST BORING ",
-            
             },
             {
             id:18,
             eng:"Сравнительная и превосходная степень прилагательного: ` bossy / бОсси / `",
             ru:"ВЛАСТНЫЙ - bossy более - BOSSIER самый - THE BOSSIEST ",
-            
             },
             {
             id:19,
             eng:"Сравнительная и превосходная степень прилагательного: ` bothering / бАthэрин / `",
             ru:"РАЗДРАЖАЮЩИЙ - bothering более - MORE BOTHERING самый - THE MOST BOTHERING ",
-            
             },
             {
             id:20,
             eng:"Сравнительная и превосходная степень прилагательного: ` brave / брЭйв / `",
             ru:"ХРАБРЫЙ - brave более - BRAVER самый - THE BRAVEST ",
-            
             },
             {
             id:21,
             eng:"Сравнительная и превосходная степень прилагательного: ` breathtaking / брэth тэйкин / `",
             ru:"ЗАХВАТЫВАЮЩИЙ ДУХ - breathtaking более - MORE BREATHTAKING самый - THE MOST BREATHTAKING ",
-            
             },
             {
             id:22,
             eng:"Сравнительная и превосходная степень прилагательного: ` bright / брАйт / `",
             ru:"ЯРКИЙ - bright более - BRIGHTER самый - THE BRIGHTEST ",
-            
             },
             {
             id:23,
             eng:"Сравнительная и превосходная степень прилагательного: ` busy / бИзи / `",
             ru:"ЗАНЯТОЙ - busy более - BUSIER самый - THE BUSIEST ",
-            
             },
             {
             id:24,
             eng:"Сравнительная и превосходная степень прилагательного: ` calm / кам / `",
             ru:"СПОКОЙНЫЙ - calm более - CALMER самый - THE CALMEST ",
-            
             },
             {
             id:25,
             eng:"Сравнительная и превосходная степень прилагательного: ` cheap / чип / `",
             ru:"ДЕШЕВЫЙ - cheap более - CHEAPER самый - THE CHEAPEST ",
-            
             },
             {
             id:26,
             eng:"Сравнительная и превосходная степень прилагательного: ` clean / клин / `",
             ru:"ЧИСТЫЙ - clean более - CLEANER самый - THE CLEANEST ",
-            
             },
             {
             id:27,
             eng:"Сравнительная и превосходная степень прилагательного: ` close / клоуС / `",
             ru:"БЛИЗКИЙ - close более - CLOSER самый - THE CLOSEST ",
-            
             },
             {
             id:28,
             eng:"Сравнительная и превосходная степень прилагательного: ` cloudy / клАуди / `",
             ru:"ОБЛАЧНЫЙ - cloudy более - CLOUDIER самый - THE CLOUDIEST ",
-            
             },
             {
             id:29,
             eng:"Сравнительная и превосходная степень прилагательного: ` clumsy / клАмзи / `",
             ru:"НЕУКЛЮЖИЙ - clumsy более - CLUMSIER самый - THE CLUMSIEST ",
-            
             },
             {
             id:30,
             eng:"Сравнительная и превосходная степень прилагательного: ` cold / коУлд / `",
             ru:"ХОЛОДНЫЙ - cold более - COLDER самый - THE COLDEST ",
-            
             },
             {
             id:31,
             eng:"Сравнительная и превосходная степень прилагательного: ` cool / кул / `",
             ru:"КРУТОЙ - cool более - COOLER самый - THE COOLEST ",
-            
             },
             {
             id:32,
             eng:"Сравнительная и превосходная степень прилагательного: ` correct / корЭкт / `",
             ru:"ВЕРНЫЙ - correct более - MORE CORRECT самый - THE MOST CORRECT ",
-            
             },
             {
             id:33,
             eng:"Сравнительная и превосходная степень прилагательного: ` cozy / кОузи / `",
             ru:"УЮТНЫЙ - cozy более - HANDIER самый - THE HANDIEST ",
-            
             },
             {
             id:34,
             eng:"Сравнительная и превосходная степень прилагательного: ` crazy / крЭйзи / `",
             ru:"СУМАСШЕДШИЙ - crazy более - CRAZIER самый - THE CRAZIEST ",
-            
             },
             {
             id:35,
             eng:"Сравнительная и превосходная степень прилагательного: ` crispy / крИспи / `",
             ru:"ХРУСТЯЩИЙ - crispy более - CRISPIER самый - THE CRISPIEST ",
-            
             },
             {
             id:36,
             eng:"Сравнительная и превосходная степень прилагательного: ` curly / кёли / `",
             ru:"КУДРЯВЫЙ - curly более - CURLIER самый - THE CURLIEST ",
-            
             },
             {
             id:37,
             eng:"Сравнительная и превосходная степень прилагательного: ` cute / кьЮт / `",
             ru:"МИЛЫЙ - cute более - CUTER самый - THE CUTEST ",
-            
             },
             {
             id:38,
             eng:"Сравнительная и превосходная степень прилагательного: ` dark / дарк / `",
             ru:"ТЕМНЫЙ - dark более - DARKER самый - THE DARKEST ",
-            
             },
             {
             id:39,
             eng:"Сравнительная и превосходная степень прилагательного: ` deadly / дЭдли / `",
             ru:"СМЕРТЕЛЬНЫЙ - deadly более - DEADLIER самый - THE DEADLIEST ",
-            
             },
             {
             id:40,
             eng:"Сравнительная и превосходная степень прилагательного: ` deep / дип / `",
             ru:"ГЛУБОКИЙ - deep более - DEEPER самый - THE DEEPEST ",
-            
             },
             {
             id:41,
             eng:"Сравнительная и превосходная степень прилагательного: ` dirty / дёти / `",
             ru:"ГРЯЗНЫЙ - dirty более - DIRTIER самый - THE DIRTIEST ",
-            
             },
             {
             id:42,
             eng:"Сравнительная и превосходная степень прилагательного: ` disgusting / дисгАстин / `",
             ru:"ОТВРАТИТЕЛЬНЫЙ - disgusting более - MORE DISGUSTING самый - THE MOST DISGUSTING ",
-            
             },
             {
             id:43,
             eng:"Сравнительная и превосходная степень прилагательного: ` drunk / дрАнк / `",
             ru:"ПЬЯНЫЙ - drunk более - DRUNKER самый - THE DRUNKEST ",
-            
             },
             {
             id:44,
             eng:"Сравнительная и превосходная степень прилагательного: ` dry / дрАй / `",
             ru:"СУХОЙ - dry более - DRIER самый - THE DRIEST ",
-            
             },
             {
             id:45,
             eng:"Сравнительная и превосходная степень прилагательного: ` dull / дал / `",
             ru:"ЗАТУПИВШИЙСЯ - dull более - DULLER самый - THE DULLEST ",
-            
             },
             {
             id:46,
             eng:"Сравнительная и превосходная степень прилагательного: ` dumb / дам / `",
             ru:"БОЛВАН - dumb более - DUMBER самый - THE DUMBEST ",
-            
             },
             {
             id:47,
             eng:"Сравнительная и превосходная степень прилагательного: ` dusty / дАсти / `",
             ru:"ПЫЛЬНЫЙ - dusty более - DUSTIER самый - THE DUSTIEST ",
-            
             },
             {
             id:48,
             eng:"Сравнительная и превосходная степень прилагательного: ` early / ёли / `",
             ru:"РАННИЙ - early более - EARLIER самый - THE EARLIEST ",
-            
             },
             {
             id:49,
             eng:"Сравнительная и превосходная степень прилагательного: ` easy / Изи / `",
             ru:"ЛЕГКИЙ - easy более - EASIER самый - THE EASIEST ",
-            
             },
             {
             id:50,
             eng:"Сравнительная и превосходная степень прилагательного: ` evil / Ивэл / `",
             ru:"ЗЛОЙ - evil более - MORE EVIL самый - THE MOST EVIL ",
-            
             },
             {
             id:51,
             eng:"Сравнительная и превосходная степень прилагательного: ` expensive / экспЭнсив / `",
             ru:"ДОРОГОЙ - expensive более - MORE EXPENSIVE самый - THE MOST EXPENSIVE ",
-            
             },
             {
             id:52,
             eng:"Сравнительная и превосходная степень прилагательного: ` fabulous / фЭбьюлэс / `",
             ru:"ПОРАЗИТЕЛЬНЫЙ - fabulous более - MORE FABULOUS самый - THE MOST FABULOUS ",
-            
             },
             {
             id:53,
             eng:"Сравнительная и превосходная степень прилагательного: ` fair / фЭа / `",
             ru:"СПРАВЕДЛИВЫЙ - fair более - FAIRER самый - THE FAIREST ",
-            
             },
             {
             id:54,
             eng:"Сравнительная и превосходная степень прилагательного: ` fancy / фЭнси / `",
             ru:"ИЗЫСКАННЫЙ - fancy более - FANCIER самый - THE FANCIEST ",
-            
             },
             {
             id:55,
             eng:"Сравнительная и превосходная степень прилагательного: ` fantastic / фэнстэстик / `",
             ru:"ФАНТАСТИЧНЫЙ - fantastic более - MORE FANTASTIC самый - THE MOST FANTASTIC ",
-            
             },
             {
             id:56,
             eng:"Сравнительная и превосходная степень прилагательного: ` far / фа / `",
             ru:"ДАЛЕКИЙ - far более - FARTHER самый - THE FARTHEST ",
-            
             },
             {
             id:57,
             eng:"Сравнительная и превосходная степень прилагательного: ` fashionable / фЭшэнэбл / `",
             ru:"МОДНЫЙ - fashionable более - MORE FASHIONABLE самый - THE MOST FASHIONABLE ",
-            
             },
             {
             id:58,
             eng:"Сравнительная и превосходная степень прилагательного: ` fast / фаст / `",
             ru:"БЫСТРЫЙ - fast более - FASTER самый - THE FASTEST ",
-            
             },
             {
             id:59,
             eng:"Сравнительная и превосходная степень прилагательного: ` fat / фэт / `",
             ru:"ЖИРНЫЙ - fat более - FATTER самый - THE FATTEST ",
-            
             },
             {
             id:60,
             eng:"Сравнительная и превосходная степень прилагательного: ` favorite / фЭйворит / `",
             ru:"ЛЮБИМЫЙ - favorite более - MORE FAVORITE самый - THE MOST FAVORITE ",
-            
             },
             {
             id:61,
             eng:"Сравнительная и превосходная степень прилагательного: ` few / фью / `",
             ru:"МАЛО, НЕСКОЛЬКО - few меньше - FEWER меньше всего - THE FEWEST / фьЮэст /",
-            
             },
             {
             id:62,
             eng:"Сравнительная и превосходная степень прилагательного: ` fierce / фИрс / `",
             ru:"СВИРЕПЫЙ - fierce более - FIERCER самый - THE FIERCEST ",
-            
             },
             {
             id:63,
             eng:"Сравнительная и превосходная степень прилагательного: ` filthy / филTHи / `",
             ru:"МЕРЗКИЙ - filthy более - FILTHIER самый - THE FILTHIEST ",
-            
             },
             {
             id:64,
             eng:"Сравнительная и превосходная степень прилагательного: ` firm / фЁрм / `",
             ru:"УПРУГИЙ - firm более - FIRMER самый - THE FIRMEST ",
-            
             },
             {
             id:65,
             eng:"Сравнительная и превосходная степень прилагательного: ` flat / флЭт / `",
             ru:"ПЛОСКИЙ - flat более - FLATTER самый - THE FLATTEST ",
-            
             },
             {
             id:66,
             eng:"Сравнительная и превосходная степень прилагательного: ` flexible / флЭксибл / `",
             ru:"ГИБКИЙ - flexible более - MORE FLEXIBLE самый - THE MOST FLEXIBLE ",
-            
             },
             {
             id:67,
             eng:"Сравнительная и превосходная степень прилагательного: ` fresh / фрЭш / `",
             ru:"СВЕЖИЙ - fresh более - MORE FRESH самый - THE FRESHEST ",
-            
             },
             {
             id:68,
             eng:"Сравнительная и превосходная степень прилагательного: ` friendly / фрЭндли / `",
             ru:"ДРУЖЕЛЮБНЫЙ - friendly более - FRESHER самый - THE FRIENDLIEST ",
-            
             },
             {
             id:69,
             eng:"Сравнительная и превосходная степень прилагательного: ` full / фУл / `",
             ru:"ПОЛНЫЙ - full более - FRIENDLIER самый - THE FULLEST ",
-            
             },
             {
             id:70,
             eng:"Сравнительная и превосходная степень прилагательного: ` funny / фАнни / `",
             ru:"СМЕШНОЙ - funny более - FULLER самый - THE FUNNIEST ",
-            
             },
             {
             id:71,
             eng:"Сравнительная и превосходная степень прилагательного: ` gentle / джЭнтл / `",
             ru:"НЕЖНЫЙ - gentle более - FUNNIER самый - THE GENTLEST ",
-            
             },
             {
             id:72,
             eng:"Сравнительная и превосходная степень прилагательного: ` gloomy / глУми / `",
             ru:"МРАЧНЫЙ - gloomy более - GENTLER самый - THE GLOOMIEST ",
-            
             },
             {
             id:73,
             eng:"Сравнительная и превосходная степень прилагательного: ` good / гуД / `",
             ru:"ХОРОШИЙ - good более - GLOOMIER самый - THE BEST ",
-            
             },
             {
             id:74,
             eng:"Сравнительная и превосходная степень прилагательного: ` great / грЭйт / `",
             ru:"ВЕЛИКИЙ - great более - BETTER самый - THE GREATEST ",
-            
             },
             {
             id:75,
             eng:"Сравнительная и превосходная степень прилагательного: ` greedy / грИди / `",
             ru:"ЖАДНЫЙ - greedy более - GREEDIER самый - THE GREEDIEST ",
-            
             },
             {
             id:76,
             eng:"Сравнительная и превосходная степень прилагательного: ` green / грин / `",
             ru:"ЗЕЛЁНЫЙ - green более - GREENER самый - THE GREENEST ",
-            
             },
             {
             id:77,
             eng:"Сравнительная и превосходная степень прилагательного: ` hairy / хЭйри / `",
             ru:"ВОЛОСАТЫЙ - hairy более - HAIRIER самый - THE HAIRIEST ",
-            
             },
             {
             id:78,
             eng:"Сравнительная и превосходная степень прилагательного: ` handsome / хЭнсам / `",
             ru:"КРАСИВЫЙ (МУЖ) - handsome более - MORE HANDSOME самый - THE MOST HANDSOME ",
-            
             },
             {
             id:79,
             eng:"Сравнительная и превосходная степень прилагательного: ` happy / хЭппи / `",
             ru:"СЧАСТЛИВЫЙ - happy более - HAPPIER самый - THE HAPPIEST ",
-            
             },
             {
             id:80,
             eng:"Сравнительная и превосходная степень прилагательного: ` hard / хАрд / `",
             ru:"ТРУДНЫЙ - hard более - HARDER самый - THE HARDEST ",
-            
             },
             {
             id:81,
             eng:"Сравнительная и превосходная степень прилагательного: ` harsh / хАрш / `",
             ru:"СУРОВЫЙ - harsh более - HARSHER самый - THE HARSHEST ",
-            
             },
             {
             id:82,
             eng:"Сравнительная и превосходная степень прилагательного: ` healthy / хЭлTHи / `",
             ru:"ЗДОРОВЫЙ - healthy более - HEALTHIER самый - THE HEALTHIEST ",
-            
             },
             {
             id:83,
             eng:"Сравнительная и превосходная степень прилагательного: ` heavy / хЭви / `",
             ru:"ТЯЖЕЛЫЙ - heavy более - HEAVIER самый - THE HEAVIEST ",
-            
             },
             {
             id:84,
             eng:"Сравнительная и превосходная степень прилагательного: ` high / хай / `",
             ru:"ВЫСОКИЙ (О ЗДАНИЯХ) - high более - HIGHER самый - THE HIGHEST ",
-            
             },
             {
             id:85,
             eng:"Сравнительная и превосходная степень прилагательного: ` hollow / хОлоу / `",
             ru:"ПУСТОТЕЛЫЙ - hollow более - MORE HOLLOW самый - THE MOST HOLLOW ",
-            
             },
             {
             id:86,
             eng:"Сравнительная и превосходная степень прилагательного: ` hot / хот или хат / `",
             ru:"ГОРЯЧИЙ - hot более - HOTTER самый - THE HOTTEST ",
-            
             },
             {
             id:87,
             eng:"Сравнительная и превосходная степень прилагательного: ` humble / хАмбл / `",
             ru:"СКРОМНЫЙ - humble более - HUMBLER самый - THE HUMBLEST ",
-            
             },
             {
             id:88,
             eng:"Сравнительная и превосходная степень прилагательного: ` hungry / хАнгри / `",
             ru:"ГОЛОДНЫЙ - hungry более - HUNGRIER самый - THE HUNGRIEST ",
-            
             },
             {
             id:89,
             eng:"Сравнительная и превосходная степень прилагательного: ` icy / Айси / `",
             ru:"ЛЕДЯНОЙ - icy более - ICIER самый - THE ICIEST ",
-            
             },
             {
             id:90,
             eng:"Сравнительная и превосходная степень прилагательного: ` immortal / иммОртал / `",
             ru:"БЕССМЕРТНЫЙ - immortal более - MORE IMMORTAL самый - THE MOST IMMORTAL ",
-            
             },
             {
             id:91,
             eng:"Сравнительная и превосходная степень прилагательного: ` incredible / инкрЭдбл / `",
             ru:"НЕВЕРОЯТНЫЙ - incredible более - MORE INCREDIBLE самый - THE MOST INCREDIBLE ",
-            
             },
             {
             id:92,
             eng:"Сравнительная и превосходная степень прилагательного: ` intelligent / интэлиджент / `",
             ru:"ОБРАЗОВАННЫЙ - intelligent более - MORE INTELLIGENT самый - THE MOST INTELLIGENT ",
-            
             },
             {
             id:93,
             eng:"Сравнительная и превосходная степень прилагательного: ` interesting / ИНтрэстин / `",
             ru:"ИНТЕРЕСНЫЙ - interesting более - MORE INTERESTING самый - THE MOST INTERESTING ",
-            
             },
             {
             id:94,
             eng:"Сравнительная и превосходная степень прилагательного: ` itchy / Итчи / `",
             ru:"ЗУДЯЩИЙ - itchy более - ITCHIER самый - THE ITCHIEST ",
-            
             },
             {
             id:95,
             eng:"Сравнительная и превосходная степень прилагательного: ` juicy / джУси / `",
             ru:"СОЧНЫЙ - juicy более - JUICIER самый - THE JUICIEST ",
-            
             },
             {
             id:96,
             eng:"Сравнительная и превосходная степень прилагательного: ` kind / кАйнд / `",
             ru:"ДОБРЫЙ - kind более - KINDER самый - THE KINDEST ",
-            
             },
             {
             id:97,
             eng:"Сравнительная и превосходная степень прилагательного: ` large / лАдж / `",
             ru:"БОЛЬШОЙ - large более - LARGER самый - THE LARGEST ",
-            
             },
             {
             id:98,
             eng:"Сравнительная и превосходная степень прилагательного: ` late / лЭйт / `",
             ru:"ПОЗДНИЙ - late более - LATER самый - THE LATEST ",
-            
             },
             {
             id:99,
             eng:"Сравнительная и превосходная степень прилагательного: ` lazy / лЭйзи / `",
             ru:"ЛЕНИВЫЙ - lazy более - LAZIER самый - THE LAZIEST ",
-            
             },
             {
             id:100,
             eng:"Сравнительная и превосходная степень прилагательного: ` legendary / лэДЖэндэри / `",
             ru:"ЛЕГЕНДАРНЫЙ - legendary более - MORE LEGENDARY самый - THE MOST LEGENDARY ",
-            
             },
             {
             id:101,
             eng:"Сравнительная и превосходная степень прилагательного: ` light / лАйт / `",
             ru:"СВЕТЛЫЙ - light более - LIGHTER самый - THE LIGHTEST ",
-            
             },
             {
             id:102,
             eng:"Сравнительная и превосходная степень прилагательного: ` little / лИтл / `",
             ru:"МАЛО - little меньше - LESS меньше всего - THE LEAST ",
-            
             },
             {
             id:103,
             eng:"Сравнительная и превосходная степень прилагательного: ` long / лОн / `",
             ru:"ДЛИННЫЙ - long более - LONGER самый - THE LONGEST ",
-            
             },
             {
             id:104,
             eng:"Сравнительная и превосходная степень прилагательного: ` loud / лАуд / `",
             ru:"ГРОМКИЙ - loud более - LOUDER самый - THE LOUDEST ",
-            
             },
             {
             id:105,
             eng:"Сравнительная и превосходная степень прилагательного: ` low / лОу / `",
             ru:"НИЗКИЙ - low более - LOWER самый - THE LOWEST ",
-            
             },
             {
             id:106,
             eng:"Сравнительная и превосходная степень прилагательного: ` mad / мЭд / `",
             ru:"БЕЗУМНЫЙ - mad более - MADDER самый - THE MADDEST ",
-            
             },
             {
             id:107,
             eng:"Сравнительная и превосходная степень прилагательного: ` muscular / мАскьюла / `",
             ru:"МУСКУЛИСТЫЙ - muscular более - MORE MUSCULAR самый - THE MOST MUSCULAR ",
-            
             },
             {
             id:108,
             eng:"Сравнительная и превосходная степень прилагательного: ` mean / мин / `",
             ru:"ЗЛОБНЫЙ - mean более - MEANER самый - THE MEANEST ",
-            
             },
             {
             id:109,
             eng:"Сравнительная и превосходная степень прилагательного: ` merry / мЭри / `",
             ru:"ВЕСЕЛЫЙ - merry более - MERRIER самый - THE MERRIEST ",
-            
             },
             {
             id:110,
             eng:"Сравнительная и превосходная степень прилагательного: ` messy / мЭси / `",
             ru:"НЕРЯШЛИВЫЙ - messy более - MESSIER самый - THE MESSIEST ",
-            
             },
             {
             id:111,
             eng:"Сравнительная и превосходная степень прилагательного: ` much or many / мач о мэни / `",
             ru:"МНОГО - much и many больше - MORE больше всего - THE MOST",
-            
             },
             {
             id:112,
             eng:"Сравнительная и превосходная степень прилагательного: ` narrow / нЭроу / `",
             ru:"УЗКИЙ - narrow более - NARROWER самый - THE NARROWEST ",
-            
             },
             {
             id:113,
             eng:"Сравнительная и превосходная степень прилагательного: ` nasty / нЭсти / `",
             ru:"ПРОТИВНЫЙ - nasty более - NASTIER самый - THE NASTIEST ",
-            
             },
             {
             id:114,
             eng:"Сравнительная и превосходная степень прилагательного: ` naughty / нОти / `",
             ru:"НЕПОСЛУШНЫЙ - naughty более - NAUGHTIER самый - THE NAUGHTIEST ",
-            
             },
             {
             id:115,
             eng:"Сравнительная и превосходная степень прилагательного: ` near / нИа / `",
             ru:"БЛИЖАЙШИЙ - near более - NEARER самый - THE NEAREST ",
-            
             },
             {
             id:116,
             eng:"Сравнительная и превосходная степень прилагательного: ` neat / нит / `",
             ru:"АККУРАТНЫЙ - neat более - NEATER самый - THE NEATEST ",
-            
             },
             {
             id:117,
             eng:"Сравнительная и превосходная степень прилагательного: ` needy / нИди / `",
             ru:"НУЖДАЮЩИЙСЯ - needy более - NEEDIER самый - THE NEEDIEST ",
-            
             },
             {
             id:118,
             eng:"Сравнительная и превосходная степень прилагательного: ` nervous / нЁвэс / `",
             ru:"НЕРВНЫЙ - nervous более - MORE NERVOUS самый - THE MOST NERVOUS ",
-            
             },
             {
             id:119,
             eng:"Сравнительная и превосходная степень прилагательного: ` new / ньЮ / `",
             ru:"НОВЫЙ - new более - NEWER самый - THE NEWEST ",
-            
             },
             {
             id:120,
             eng:"Сравнительная и превосходная степень прилагательного: ` nice / нАйс / `",
             ru:"ПРИЯТНЫЙ - nice более - NICER самый - THE NICEST ",
-            
             },
             {
             id:121,
             eng:"Сравнительная и превосходная степень прилагательного: ` noisy / нОйзи / `",
             ru:"ШУМНЫЙ - noisy более - NOISIER самый - THE NOISIEST ",
-            
             },
             {
             id:122,
             eng:"Сравнительная и превосходная степень прилагательного: ` oily / Ойли / `",
             ru:"МАСЛЯНИСТЫЙ - oily более - OILIER самый - THE OILIEST ",
-            
             },
             {
             id:123,
             eng:"Сравнительная и превосходная степень прилагательного: ` old / оУлд / `",
             ru:"СТАРЫЙ - old более - OLDER/ELDER самый - THE OLDEST/ELDEST ",
-            
             },
             {
             id:124,
             eng:"Сравнительная и превосходная степень прилагательного: ` overweight / ОувэУэйт / `",
             ru:"ПОЛНОВАТЫЙ - overweight более - MORE OVERWEIGHT самый - THE MOST OVERWEIGHT ",
-            
             },
             {
             id:125,
             eng:"Сравнительная и превосходная степень прилагательного: ` picky / пИки / `",
             ru:"ПРИДИРЧИВЫЙ - picky более - PICKIER самый - THE PICKIEST ",
-            
             },
             {
             id:126,
             eng:"Сравнительная и превосходная степень прилагательного: ` simple / симпл / `",
             ru:"ПРОСТОЙ, ОБЫЧНЫЙ - simple более - SIMPLER самый - THE SIMPLEST ",
-            
             },
             {
             id:127,
             eng:"Сравнительная и превосходная степень прилагательного: ` polite / полАйт / `",
             ru:"ВЕЖЛИВЫЙ - polite более - POLITER самый - THE POLITEST ",
-            
             },
             {
             id:128,
             eng:"Сравнительная и превосходная степень прилагательного: ` poor / пУэ / `",
             ru:"БЕДНЫЙ - poor более - POORER самый - THE POOREST ",
-            
             },
             {
             id:129,
             eng:"Сравнительная и превосходная степень прилагательного: ` pretty / прИти / `",
             ru:"СИМПОТНЫЙ - pretty более - PRETTIER самый - THE PRETTIEST ",
-            
             },
             {
             id:130,
             eng:"Сравнительная и превосходная степень прилагательного: ` proud / прАуд / `",
             ru:"ГОРДЫЙ - proud более - PROUDER самый - THE PROUDEST ",
-            
             },
             {
             id:131,
             eng:"Сравнительная и превосходная степень прилагательного: ` pure / пьЮэ / `",
             ru:"БЕЗПРИМЕСНЫЙ - pure более - PURER самый - THE PUREST ",
-            
             },
             {
             id:132,
             eng:"Сравнительная и превосходная степень прилагательного: ` quick / квик / `",
             ru:"БЫСТРЫЙ - quick более - QUICKER самый - THE QUICKEST ",
-            
             },
             {
             id:133,
             eng:"Сравнительная и превосходная степень прилагательного: ` quiet / куАйет / `",
             ru:"ТИХИЙ - quiet более - QUIETER самый - THE QUIETEST ",
-            
             },
             {
             id:134,
             eng:"Сравнительная и превосходная степень прилагательного: ` rare / рЭа / `",
             ru:"РЕДКИЙ - rare более - RARER самый - THE RAREST ",
-            
             },
             {
             id:135,
             eng:"Сравнительная и превосходная степень прилагательного: ` raw / ро / `",
             ru:"СЫРОЙ - raw более - RAWER самый - THE RAWEST ",
-            
             },
             {
             id:136,
             eng:"Сравнительная и превосходная степень прилагательного: ` reliable / рилАибл / `",
             ru:"НАДЁЖНЫЙ - reliable более - MORE RELIABLE самый - THE MOST RELIABLE ",
-            
             },
             {
             id:137,
             eng:"Сравнительная и превосходная степень прилагательного: ` rich / рич / `",
             ru:"БОГАТЫЙ - rich более - RICHER самый - THE RICHEST ",
-            
             },
             {
             id:138,
             eng:"Сравнительная и превосходная степень прилагательного: ` ripe / рАйп / `",
             ru:"СПЕЛЫЙ - ripe более - RIPER самый - THE RIPEST ",
-            
             },
             {
             id:139,
             eng:"Сравнительная и превосходная степень прилагательного: ` risky / рИски / `",
             ru:"РИСКОВАННЫЙ - risky более - RISKIER самый - THE RISKIEST ",
-            
             },
             {
             id:140,
             eng:"Сравнительная и превосходная степень прилагательного: ` rough / рАф / `",
             ru:"ЧЕРСТВЫЙ, ГРУБЫЙ - rough более - ROUGHER самый - THE ROUGHEST ",
-            
             },
             {
             id:141,
             eng:"Сравнительная и превосходная степень прилагательного: ` rude / рУд / `",
             ru:"ГРУБЫЙ В ОБЩЕНИИ - rude более - RUDER самый - THE RUDEST ",
-            
             },
             {
             id:142,
             eng:"Сравнительная и превосходная степень прилагательного: ` rusty / рАсти / `",
             ru:"РЖАВЫЙ - rusty более - RUSTIER самый - THE RUSTIEST ",
-            
             },
             {
             id:143,
             eng:"Сравнительная и превосходная степень прилагательного: ` sad / сЭд / `",
             ru:"ГРУСТНЫЙ - sad более - SADDER самый - THE SADDEST ",
-            
             },
             {
             id:144,
             eng:"Сравнительная и превосходная степень прилагательного: ` safe / сЭйф / `",
             ru:"БЕЗОПАСНЫЙ - safe более - SAFER самый - THE SAFEST ",
-            
             },
             {
             id:145,
             eng:"Сравнительная и превосходная степень прилагательного: ` salty / сОлти / `",
             ru:"СОЛЕНЫЙ - salty более - SALTIER самый - THE SALTIEST ",
-            
             },
             {
             id:146,
             eng:"Сравнительная и превосходная степень прилагательного: ` sane / сЭйн / `",
             ru:"ЗДРАВОМЫСЛЯЩИЙ - sane более - SANER самый - THE SANEST ",
-            
             },
             {
             id:147,
             eng:"Сравнительная и превосходная степень прилагательного: ` scared / скЭад / `",
             ru:"НАПУГАННЫЙ - scared более - MORE SCARED самый - THE MOST SCARED ",
-            
             },
             {
             id:148,
             eng:"Сравнительная и превосходная степень прилагательного: ` scary / скЭри / `",
             ru:"ПУГАЮЩИЙ - scary более - SCARIER самый - THE SCARIEST ",
-            
             },
             {
             id:149,
             eng:"Сравнительная и превосходная степень прилагательного: ` selfish / сЭлфиш / `",
             ru:"ЭГОИСТИЧНЫЙ - selfish более - MORE SELFISH самый - THE MOST SELFISH ",
-            
             },
             {
             id:150,
             eng:"Сравнительная и превосходная степень прилагательного: ` sexy / сэкси / `",
             ru:"СЕКСУАЛЬНЫЙ - sexy более - SEXIER самый - THE SEXIEST ",
-            
             },
             {
             id:151,
             eng:"Сравнительная и превосходная степень прилагательного: ` sharp / шАрп / `",
             ru:"ОСТРЫЙ - sharp более - SHARPER самый - THE SHARPEST ",
-            
             },
             {
             id:152,
             eng:"Сравнительная и превосходная степень прилагательного: ` shiny / шАйни / `",
             ru:"СВЕТЯЩИЙСЯ - shiny более - SHINIER самый - THE SHINIEST ",
-            
             },
             {
             id:153,
             eng:"Сравнительная и превосходная степень прилагательного: ` shitty / щИти / `",
             ru:"ДЕРЬМОВЕНЬКИЙ - shitty более - SHITTIER самый - THE SHITTIEST ",
-            
             },
             {
             id:154,
             eng:"Сравнительная и превосходная степень прилагательного: ` shocking / шОкин / `",
             ru:"ШОКИРУЮЩИЙ - shocking более - MORE SHOCKING самый - THE MOST SHOCKING ",
-            
             },
             {
             id:155,
             eng:"Сравнительная и превосходная степень прилагательного: ` short / шорт / `",
             ru:"КОРОТКИЙ, НИЗКИЙ - short более - SHORTER самый - THE SHORTEST ",
-            
             },
             {
             id:156,
             eng:"Сравнительная и превосходная степень прилагательного: ` shy / шАй / `",
             ru:"ЗАСТЕНЧИВЫЙ - shy более - SHYER самый - THE SHYEST ",
-            
             },
             {
             id:157,
             eng:"Сравнительная и превосходная степень прилагательного: ` silly / сИли / `",
             ru:"ГЛУПЫЙ - silly более - SILLIER самый - THE SILLIEST ",
-            
             },
             {
             id:158,
             eng:"Сравнительная и превосходная степень прилагательного: ` sincere / синсИэ / `",
             ru:"ИСКРЕННИЙ - sincere более - MORE SINCERE самый - THE MOST SINCERE ",
-            
             },
             {
             id:159,
             eng:"Сравнительная и превосходная степень прилагательного: ` skinny / скИни / `",
             ru:"ТОЩИЙ - skinny более - SKINNIER самый - THE SKINNIEST ",
-            
             },
             {
             id:160,
             eng:"Сравнительная и превосходная степень прилагательного: ` sleepy / слИпи / `",
             ru:"СОННЫЙ - sleepy более - SLEEPIER самый - THE SLEEPIEST ",
-            
             },
             {
             id:161,
             eng:"Сравнительная и превосходная степень прилагательного: ` slim / слИм / `",
             ru:"СТРОЙНЫЙ - slim более - SLIMMER самый - THE SLIMMEST ",
-            
             },
             {
             id:162,
             eng:"Сравнительная и превосходная степень прилагательного: ` slimy / слАйми / `",
             ru:"СЛИЗКИЙ - slimy более - SLIMIER самый - THE SLIMIEST ",
-            
             },
             {
             id:163,
             eng:"Сравнительная и превосходная степень прилагательного: ` slow / слОу / `",
             ru:"МЕДЛЕННЫЙ - slow более - SLOWER самый - THE SLOWEST ",
-            
             },
             {
             id:164,
             eng:"Сравнительная и превосходная степень прилагательного: ` small / смОл / `",
             ru:"МАЛЕНЬКИЙ - small более - SMALLER самый - THE SMALLEST ",
-            
             },
             {
             id:165,
             eng:"Сравнительная и превосходная степень прилагательного: ` smart / смАрт / `",
             ru:"СООБРАЗИТЕЛЬНЫЙ - smart более - SMARTER самый - THE SMARTEST ",
-            
             },
             {
             id:166,
             eng:"Сравнительная и превосходная степень прилагательного: ` smelly / смЭли / `",
             ru:"ВОНЮЧИЙ - smelly более - SMELLIER самый - THE SMELLIEST ",
-            
             },
             {
             id:167,
             eng:"Сравнительная и превосходная степень прилагательного: ` smoky / смОуки / `",
             ru:"ДЫМНЫЙ - smoky более - SMOKIER самый - THE SMOKIEST ",
-            
             },
             {
             id:168,
             eng:"Сравнительная и превосходная степень прилагательного: ` smooth / смуз / `",
             ru:"ГЛАДКИЙ - smooth более - SMOOTHER самый - THE SMOOTHEST ",
-            
             },
             {
             id:169,
             eng:"Сравнительная и превосходная степень прилагательного: ` soft / софт / `",
             ru:"МЯГКИЙ - soft более - SOFTER самый - THE SOFTEST ",
-            
             },
             {
             id:170,
             eng:"Сравнительная и превосходная степень прилагательного: ` soon / сун / `",
             ru:"СКОРО - soon более - SOONER самый - THE SOONEST ",
-            
             },
             {
             id:171,
             eng:"Сравнительная и превосходная степень прилагательного: ` sorry / сори / `",
             ru:"СОЖАЛЕЮЩИЙ - sorry более - SORRIER самый - THE SORRIEST ",
-            
             },
             {
             id:172,
             eng:"Сравнительная и превосходная степень прилагательного: ` sour / сАуэ / `",
             ru:"КИСЛЫЙ - sour более - SOURER самый - THE SOUREST ",
-            
             },
             {
             id:173,
             eng:"Сравнительная и превосходная степень прилагательного: ` spacious / спЭйшэс / `",
             ru:"ПРОСТОРНЫЙ - spacious более - MORE SPACIOUS самый - THE MOST SPACIOUS ",
-            
             },
             {
             id:174,
             eng:"Сравнительная и превосходная степень прилагательного: ` special / спЭшл / `",
             ru:"ОСОБЕННЫЙ - special более - MORE SPECIAL самый - THE MOST SPECIAL ",
-            
             },
             {
             id:175,
             eng:"Сравнительная и превосходная степень прилагательного: ` spicy / спАйси / `",
             ru:"ОСТРЫЙ - spicy более - SPICIER самый - THE SPICIEST ",
-            
             },
             {
             id:176,
             eng:"Сравнительная и превосходная степень прилагательного: ` steep / стИп / `",
             ru:"КРУТОЙ (НАКЛОН) - steep более - STEEPER самый - THE STEEPEST ",
-            
             },
             {
             id:177,
             eng:"Сравнительная и превосходная степень прилагательного: ` strange/weird / weird / `",
             ru:"СТРАННЫЙ - strange/weird более - STRANGER самый - THE STRANGEST ",
-            
             },
             {
             id:178,
             eng:"Сравнительная и превосходная степень прилагательного: ` strict / стрИкт / `",
             ru:"СТРОГИЙ - strict более - STRICTER самый - THE STRICTEST ",
-            
             },
             {
             id:179,
             eng:"Сравнительная и превосходная степень прилагательного: ` strong / стрОн / `",
             ru:"СИЛЬНЫЙ - strong более - STRONGER самый - THE STRONGEST ",
-            
             },
             {
             id:180,
             eng:"Сравнительная и превосходная степень прилагательного: ` stupid / стьЮпид / `",
             ru:"ТУПОЙ - stupid более - MORE STUPID самый - THE MOST STUPID ",
-            
             },
             {
             id:181,
             eng:"Сравнительная и превосходная степень прилагательного: ` successful / саксЭсфул / `",
             ru:"УСПЕШНЫЙ - successful более - MORE SUCCESSFUL самый - THE MOST SUCCESSFUL ",
-            
             },
             {
             id:182,
             eng:"Сравнительная и превосходная степень прилагательного: ` sunny / сАнни / `",
             ru:"СОЛНЕЧНЫЙ - sunny более - SUNNIER самый - THE SUNNIEST ",
-            
             },
             {
             id:183,
             eng:"Сравнительная и превосходная степень прилагательного: ` sweaty / свЭти / `",
             ru:"ПОТНЫЙ - sweaty более - SWEATIER самый - THE SWEATIEST ",
-            
             },
             {
             id:184,
             eng:"Сравнительная и превосходная степень прилагательного: ` sweet / свит / `",
             ru:"СЛАДКИЙ - sweet более - SWEETER самый - THE SWEETEST ",
-            
             },
             {
             id:185,
             eng:"Сравнительная и превосходная степень прилагательного: ` tanned / тЭнд / `",
             ru:"ЗАГОРЕЛЫЙ - tanned более - MORE TANNED самый - THE MOST TANNED ",
-            
             },
             {
             id:186,
             eng:"Сравнительная и превосходная степень прилагательного: ` tasty / тЭйсти / `",
             ru:"ВКУСНЫЙ - tasty более - TASTIER самый - THE TASTIEST ",
-            
             },
             {
             id:187,
             eng:"Сравнительная и превосходная степень прилагательного: ` thin/thick / Thын Thык / `",
             ru:"ТОНКИЙ/ТОЛСТЫЙ - thin/thick более - THINNER самый - THE THINNEST ",
-            
             },
             {
             id:188,
             eng:"Сравнительная и превосходная степень прилагательного: ` thirsty / Thёсти / `",
             ru:"ЖАЖДУЩИЙ - thirsty более - THIRSTIER самый - THE THIRSTIEST ",
-            
             },
             {
             id:189,
             eng:"Сравнительная и превосходная степень прилагательного: ` tiny / тАйни / `",
             ru:"КРОШЕЧНЫЙ - tiny более - TINIER самый - THE TINIEST ",
-            
             },
             {
             id:190,
             eng:"Сравнительная и превосходная степень прилагательного: ` tricky / трИки / `",
             ru:"ХИТРЫЙ - tricky более - TRICKIER самый - THE TRICKIEST ",
-            
             },
             {
             id:191,
             eng:"Сравнительная и превосходная степень прилагательного: ` TRUE / тру / `",
             ru:"ВЕРНЫЙ - TRUE более - TRUER самый - THE TRUEST ",
-            
             },
             {
             id:192,
             eng:"Сравнительная и превосходная степень прилагательного: ` ugly / Агли / `",
             ru:"УРОДЛИВЫЙ - ugly более - UGLIER самый - THE UGLIEST ",
-            
             },
             {
             id:193,
             eng:"Сравнительная и превосходная степень прилагательного: ` vulgar / вАлгар / `",
             ru:"ВУЛЬГАРНЫЙ - vulgar более - MORE VULGAR самый - THE MOST VULGAR ",
-            
             },
             {
             id:194,
             eng:"Сравнительная и превосходная степень прилагательного: ` warm / вОм / `",
             ru:"ТЕПЛЫЙ - warm более - WARMER самый - THE WARMEST ",
-            
             },
             {
             id:195,
             eng:"Сравнительная и превосходная степень прилагательного: ` weak / уИк / `",
             ru:"СЛАБЫЙ - weak более - WEAKER самый - THE WEAKEST ",
-            
             },
             {
             id:196,
             eng:"Сравнительная и превосходная степень прилагательного: ` wealthy / уЭлTHи / `",
             ru:"СОСТОЯТЕЛЬНЫЙ - wealthy более - WEALTHIER самый - THE WEALTHIEST ",
-            
             },
             {
             id:197,
             eng:"Сравнительная и превосходная степень прилагательного: ` wet / уЭт / `",
             ru:"МОКРЫЙ - wet более - WETTER самый - THE WETTEST ",
-            
             },
             {
             id:198,
             eng:"Сравнительная и превосходная степень прилагательного: ` wide / уАйд / `",
             ru:"ШИРОКИЙ - wide более - WIDER самый - THE WIDEST ",
-            
             },
             {
             id:199,
             eng:"Сравнительная и превосходная степень прилагательного: ` wild / уАйлд / `",
             ru:"ДИКИЙ - wild более - WILDER самый - THE WILDEST ",
-            
             },
             {
             id:200,
             eng:"Сравнительная и превосходная степень прилагательного: ` windy / уИнди / `",
             ru:"ВЕТРЕНЫЙ - windy более - WINDIER самый - THE WINDIEST ",
-            
             },
             {
             id:201,
             eng:"Сравнительная и превосходная степень прилагательного: ` wise / уАйз / `",
             ru:"МУДРЫЙ - wise более - WISER самый - THE WISEST ",
-            
             },
             {
             id:202,
             eng:"Сравнительная и превосходная степень прилагательного: ` wonderful / уандэрфул / `",
             ru:"ЗАМЕЧАТЕЛЬНЫЙ - wonderful более - MORE WONDERFUL самый - THE MOST WONDERFUL ",
-            
             },
             {
             id:203,
             eng:"Сравнительная и превосходная степень прилагательного: ` worthy / уОрTHи / `",
             ru:"ДОСТОЙНЫЙ - worthy более - WORTHIER самый - THE WORTHIEST ",
-            
             },
             {
             id:204,
             eng:"Сравнительная и превосходная степень прилагательного: ` young / ян / `",
             ru:"МОЛОДОЙ - young более - YOUNGER самый - THE YOUNGEST ",
-            
             },
             {
             id:205,
             eng:"Сравнительная и превосходная степень прилагательного: ` tall / тОл / `",
             ru:"ВЫСОКИЙ (О ЛЮДЯХ) - tall более - TALLER самый - THE TALLEST ",
-            
             },
     ],
-    verbs001: [
+    verbs002: [
         {
             id:1,
             eng:"How do you translate : ` целовать кого-то `",
             ru:"TO KISS SOMEBODY  / кис сАмбади /",
-            
             },
             {
             id:2,
             eng:"How do you translate : ` ходить на работу `",
             ru:"TO GO TO WORK  / гОУ ту ворк /",
-            
             },
             {
             id:3,
             eng:"How do you translate : ` делать или выполнять домашку `",
             ru:"TO DO HOMEWORK  / ду хОумворк /",
-            
             },
             {
             id:4,
             eng:"How do you translate : ` спать `",
             ru:"TO SLEEP  / слип /",
-            
             },
             {
             id:5,
             eng:"How do you translate : ` бегать `",
             ru:"TO RUN  / рАн /",
-            
             },
             {
             id:6,
             eng:"How do you translate : ` прыгать `",
             ru:"TO JUMP  / джАмп /",
-            
             },
             {
             id:7,
             eng:"How do you translate : ` ходить 'по-маленькому' (писать) `",
             ru:"TO DO NUMBER ONE  / ду нАмбэ уАн /",
-            
             },
             {
             id:8,
             eng:"How do you translate : ` ходить 'по-большому' (какать) `",
             ru:"TO DO NUMBER TWO  / ду нАмбэ ту /",
-            
             },
             {
             id:9,
             eng:"How do you translate : ` гулять `",
             ru:"TO WALK  / уОлк /",
-            
             },
             {
             id:10,
             eng:"How do you translate : ` играть в футбол `",
             ru:"TO PLAY FOOTBALL  / плэй фУтбол /",
-            
             },
             {
             id:11,
             eng:"How do you translate : ` играть в игры `",
             ru:"TO PLAY GAMES  / плэй гЕймz /",
-            
             },
             {
             id:12,
             eng:"How do you translate : ` играть на гитаре `",
             ru:"TO PLAY THE GUITAR  / плЭй дэ гитА /",
-            
             },
             {
             id:13,
             eng:"How do you translate : ` петь песню `",
             ru:"TO SING A SONG  / сИн э сОн /",
-            
             },
             {
             id:14,
             eng:"How do you translate : ` смотреть фильмы `",
             ru:"TO WATCH MOVIES  / уОч мУвиz /",
-            
             },
             {
             id:15,
             eng:"How do you translate : ` пить `",
             ru:"TO DRINK  / дринк /",
-            
             },
             {
             id:16,
             eng:"How do you translate : ` закрывать `",
             ru:"TO CLOSE  / клОУz /",
-            
             },
             {
             id:17,
             eng:"How do you translate : ` открывать `",
             ru:"TO OPEN  / Оупэн /",
-            
             },
             {
             id:18,
             eng:"How do you translate : ` смотреть на учителя `",
             ru:"TO LOOK AT A TEACHER  / лук эт э тИче /",
-            
             },
             {
             id:19,
             eng:"How do you translate : ` давать `",
             ru:"TO GIVE  / гив /",
-            
             },
             {
             id:20,
             eng:"How do you translate : ` брать `",
             ru:"TO TAKE  / тЭйк /",
-            
             },
             {
             id:21,
             eng:"How do you translate : ` делать что-то `",
             ru:"TO DO SOMETHING  / ду самTHын /",
-            
             },
             {
             id:22,
             eng:"How do you translate : ` создавать что-то `",
             ru:"TO MAKE SOMETHING  / мЭйк самTHын /",
-            
             },
             {
             id:23,
             eng:"How do you translate : ` читать книги `",
             ru:"TO READ BOOKS  / рид букс /",
-            
             },
             {
                 id:101,
                 eng:"Translate: ` to kiss somebody / кис сАмбади / `",
                 ru:"целовать кого-то",
-                
                 },
                 {
                 id:102,
                 eng:"Translate: ` to go to work / гОУ ту ворк / `",
                 ru:"How do you translate : ` ходить на работу `",
-                
                 },
                 {
                 id:103,
                 eng:"Translate: ` to do homework / ду хОумворк / `",
                 ru:"How do you translate : ` делать или выполнять домашку `",
-                
                 },
                 {
                 id:104,
                 eng:"Translate: ` to sleep / слип / `",
                 ru:"How do you translate : ` спать `",
-                
                 },
                 {
                 id:105,
                 eng:"Translate: ` to run / рАн / `",
                 ru:"How do you translate : ` бегать `",
-                
                 },
                 {
                 id:106,
                 eng:"Translate: ` to jump / джАмп / `",
                 ru:"How do you translate : ` прыгать `",
-                
                 },
                 {
                 id:107,
                 eng:"Translate: ` to do number one / ду нАмбэ уАн / `",
                 ru:"How do you translate : ` ходить 'по-маленькому' (писать) `",
-                
                 },
                 {
                 id:108,
                 eng:"Translate: ` to do number two / ду нАмбэ ту / `",
                 ru:"How do you translate : ` ходить 'по-большому' (какать) `",
-                
                 },
                 {
                 id:109,
                 eng:"Translate: ` to walk / уОлк / `",
                 ru:"How do you translate : ` гулять `",
-                
                 },
                 {
                 id:110,
                 eng:"Translate: ` to play football / плэй фУтбол / `",
                 ru:"How do you translate : ` играть в футбол `",
-                
                 },
                 {
                 id:111,
                 eng:"Translate: ` to play games / плэй гЕймz / `",
                 ru:"How do you translate : ` играть в игры `",
-                
                 },
                 {
                 id:112,
                 eng:"Translate: ` to play the guitar / плЭй дэ гитА / `",
                 ru:"How do you translate : ` играть на гитаре `",
-                
                 },
                 {
                 id:113,
                 eng:"Translate: ` to sing a song / сИн э сОн / `",
                 ru:"How do you translate : ` петь песню `",
-                
                 },
                 {
                 id:114,
                 eng:"Translate: ` to watch movies / уОч мУвиz / `",
                 ru:"How do you translate : ` смотреть фильмы `",
-                
                 },
                 {
                 id:115,
                 eng:"Translate: ` to drink / дринк / `",
                 ru:"How do you translate : ` пить `",
-                
                 },
                 {
                 id:116,
                 eng:"Translate: ` to close / клОУz / `",
                 ru:"How do you translate : ` закрывать `",
-                
                 },
                 {
                 id:117,
                 eng:"Translate: ` to open / Оупэн / `",
                 ru:"How do you translate : ` открывать `",
-                
                 },
                 {
                 id:118,
                 eng:"Translate: ` to look at a teacher / лук эт э тИче / `",
                 ru:"How do you translate : ` смотреть на учителя `",
-                
                 },
                 {
                 id:119,
                 eng:"Translate: ` to give / гив / `",
                 ru:"How do you translate : ` давать `",
-                
                 },
                 {
                 id:120,
                 eng:"Translate: ` to take / тЭйк / `",
                 ru:"How do you translate : ` брать `",
-                
                 },
                 {
                 id:121,
                 eng:"Translate: ` to do something / ду самTHын / `",
                 ru:"How do you translate : ` делать что-то `",
-                
                 },
                 {
                 id:122,
                 eng:"Translate: ` to make something / мЭйк самTHын / `",
                 ru:"How do you translate : ` создавать что-то `",
-                
                 },
                 {
                 id:123,
                 eng:"Translate: ` to read books / рид букс / `",
                 ru:"How do you translate : ` читать книги `",
-                
                 },
     ],
     grammarTo: [
@@ -21494,145 +23899,121 @@ const allQuestionsOneDeck = {
             id:1,
             ru:"ломать",
             eng:" How  do  you  translate : break, broke, broken / брЭйк брОУк брОУкэн /",
-            
             },
             {
             id:2,
             ru:"побить",
             eng:" How  do  you  translate : beat, beat, beaten / бит бит битн /",
-            
             },
             {
             id:3,
             ru:"становиться",
             eng:" How  do  you  translate : become, became, become / бекАм бекЕйм бекАм /",
-            
             },
             {
             id:4,
             ru:"начинать",
             eng:" How  do  you  translate : begin, began, begun / бегИн бегЭн бегАн /",
-            
             },
             {
             id:5,
             ru:"дуть",
             eng:" How  do  you  translate : blow, blew, blown / блОу блУ блОун /",
-            
             },
             {
             id:6,
             ru:"брать в долг",
             eng:" How  do  you  translate : borrow, borrowed, borrowed / бОроу бОроуд бОроуд /",
-            
             },
             {
             id:7,
             ru:"строить",
             eng:" How  do  you  translate : build, built, built / билд билт билт /",
-            
             },
             {
             id:8,
             ru:"сжигать, гореть",
             eng:" How  do  you  translate : burn, burnt, burnt / бЁрн бёрнт бёрнт /",
-            
             },
             {
             id:9,
             ru:"покупать",
             eng:" How  do  you  translate : buy, bought, bought / бАй бот бот /",
-            
             },
             {
             id:10,
             ru:"приносить",
             eng:" How  do  you  translate : bring, brought, brought / брин брот брот /",
-            
             },
             {
             id:11,
             ru:"быть, были",
             eng:" How  do  you  translate : be, (was,were), been / эм из а воз вё бин /",
-            
             },
             {
             id:12,
             ru:"кусать",
             eng:" How  do  you  translate : bite, bit, bit / бАйт бит бит /",
-            
             },
             {
                 id:101,
                 ru:"BREAK, BROKE, BROKEN / брЭйк брОУк брОУкэн /",
                 eng:"Tell me all three forms of the verb: ` ломать `",
-                
                 },
                 {
                 id:102,
                 ru:"BEAT, BEAT, BEATEN / бит бит битн /",
                 eng:"Tell me all three forms of the verb: ` побить `",
-                
                 },
                 {
                 id:103,
                 ru:"BECOME, BECAME, BECOME / бекАм бекЕйм бекАм /",
                 eng:"Tell me all three forms of the verb: ` становиться `",
-                
                 },
                 {
                 id:104,
                 ru:"BEGIN, BEGAN, BEGUN / бегИн бегЭн бегАн /",
                 eng:"Tell me all three forms of the verb: ` начинать `",
-                
                 },
                 {
                 id:105,
                 ru:"BLOW, BLEW, BLOWN / блОу блУ блОун /",
                 eng:"Tell me all three forms of the verb: ` дуть `",
-                
                 },
                 {
                 id:106,
                 ru:"BORROW, BORROWED, BORROWED / бОроу бОроуд бОроуд /",
                 eng:"Tell me all three forms of the verb: ` брать в долг `",
-                
                 },
                 {
                 id:107,
                 ru:"BUILD, BUILT, BUILT / билд билт билт /",
                 eng:"Tell me all three forms of the verb: ` строить `",
-                
                 },
                 {
                 id:108,
                 ru:"BURN, BURNT, BURNT / бЁрн бёрнт бёрнт /",
                 eng:"Tell me all three forms of the verb: ` сжигать, гореть `",
-                
                 },
                 {
                 id:109,
                 ru:"BUY, BOUGHT, BOUGHT / бАй бот бот /",
                 eng:"Tell me all three forms of the verb: ` покупать `",
-                
                 },
                 {
                 id:110,
                 ru:"BRING, BROUGHT, BROUGHT / брин брот брот /",
                 eng:"Tell me all three forms of the verb: ` приносить `",
-                
                 },
                 {
                 id:111,
                 ru:"BE, (WAS,WERE), BEEN / эм из а воз вё бин /",
                 eng:"Tell me all three forms of the verb: ` быть `",
-                
                 },
                 {
                 id:112,
                 ru:"BITE, BIT, BIT / бАйт бит бит /",
                 eng:"Tell me all three forms of the verb: ` кусать `",
-                
                 },
     ],
     naughtyVerbsCD: [
@@ -21640,146 +24021,2585 @@ const allQuestionsOneDeck = {
             id:13,
             ru:"приходить",
             eng:" How  do  you  translate : come, came, come / кАм кейм кАм /",
-            
             },
             {
             id:14,
             ru:"выбирать",
             eng:" How  do  you  translate : choose, chose, chosen / чУз чОуз чОуzэн /",
-            
             },
             {
             id:15,
             ru:"ловить",
             eng:" How  do  you  translate : catch, caught, caught / кЭч кот кот /",
-            
             },
             {
             id:16,
             ru:"ползать",
             eng:" How  do  you  translate : creep, crept, crept / крИп крэпт крэпт /",
-            
             },
             {
             id:17,
             ru:"стоить",
             eng:" How  do  you  translate : cost, cost, cost / кост кост кост /",
-            
             },
             {
             id:18,
             ru:"резать",
             eng:" How  do  you  translate : cut, cut, cut / кАт кат кат /",
-            
             },
             {
             id:19,
             ru:"иметь дела",
             eng:" How  do  you  translate : deal, dealt, dealt / дИл дэлт дэлт /",
-            
             },
             {
             id:20,
             ru:"копать",
             eng:" How  do  you  translate : dig, dug, dug / диГ даг даг /",
-            
             },
             {
             id:21,
             ru:"делать",
             eng:" How  do  you  translate : do, did, done / ду дид дан /",
-            
             },
             {
             id:22,
             ru:"водить",
             eng:" How  do  you  translate : drive, drove, driven / дрАйв дроув дривн /",
-            
             },
             {
             id:23,
             ru:"рисовать",
             eng:" How  do  you  translate : draw, drew, drawn / дрО дрУ дроун /",
-            
             },
             {
             id:24,
             ru:"пить",
             eng:" How  do  you  translate : drink, drank, drunk / дринк дрЭнк дрАнк /",
-            
             },,
             {
                 id:113,
                 ru:"COME, CAME, COME / кАм кейм кАм /",
                 eng:"Tell me all three forms of the verb: ` приходить `",
-                
                 },
                 {
                 id:114,
                 ru:"CHOOSE, CHOSE, CHOSEN / чУз чОуз чОуzэн /",
                 eng:"Tell me all three forms of the verb: ` выбирать `",
-                
                 },
                 {
                 id:115,
                 ru:"CATCH, CAUGHT, CAUGHT / кЭч кот кот /",
                 eng:"Tell me all three forms of the verb: ` ловить `",
-                
                 },
                 {
                 id:116,
                 ru:"CREEP, CREPT, CREPT / крИп крэпт крэпт /",
                 eng:"Tell me all three forms of the verb: ` ползать `",
-                
                 },
                 {
                 id:117,
                 ru:"COST, COST, COST / кост кост кост /",
                 eng:"Tell me all three forms of the verb: ` стоить `",
-                
                 },
                 {
                 id:118,
                 ru:"CUT, CUT, CUT / кАт кат кат /",
                 eng:"Tell me all three forms of the verb: ` резать `",
-                
                 },
                 {
                 id:119,
                 ru:"DEAL, DEALT, DEALT / дИл дэлт дэлт /",
                 eng:"Tell me all three forms of the verb: ` иметь дела `",
-                
                 },
                 {
                 id:120,
                 ru:"DIG, DUG, DUG / диГ даг даг /",
                 eng:"Tell me all three forms of the verb: ` копать `",
-                
                 },
                 {
                 id:121,
                 ru:"DO, DID, DONE / ду дид дан /",
                 eng:"Tell me all three forms of the verb: ` делать `",
-                
                 },
                 {
                 id:122,
                 ru:"DRIVE, DROVE, DRIVEN / дрАйв дроув дривн /",
                 eng:"Tell me all three forms of the verb: ` водить `",
-                
                 },
                 {
                 id:123,
                 ru:"DRAW, DREW, DRAWN / дрО дрУ дроун /",
                 eng:"Tell me all three forms of the verb: ` рисовать `",
-                
                 },
                 {
                 id:124,
                 ru:"DRINK, DRANK, DRUNK / дринк дрЭнк дрАнк /",
                 eng:"Tell me all three forms of the verb: ` пить `",
-                
                 },
+    ],
+    naughtyVerbsEF: [
+        {
+            id:25,
+            ru:"кушать",
+            eng:" How  do  you  translate : eat, ate, eaten / ит эйт Итн /",
+            },
+            {
+            id:26,
+            ru:"падать",
+            eng:" How  do  you  translate : fall, fell, fallen / фол фэл фОлэн /",
+            },
+            {
+            id:27,
+            ru:"кормить",
+            eng:" How  do  you  translate : feed, fed, fed / фиД фэд фэд /",
+            },
+            {
+            id:28,
+            ru:"чувствовать",
+            eng:" How  do  you  translate : feel, felt, felt / фил фэлт фэлт /",
+            },
+            {
+            id:29,
+            ru:"сражаться",
+            eng:" How  do  you  translate : fight, fought, fought / фАйт фот фот /",
+            },
+            {
+            id:30,
+            ru:"находить",
+            eng:" How  do  you  translate : find, found, found / фАйнд фАунд фАунд /",
+            },
+            {
+            id:31,
+            ru:"летать",
+            eng:" How  do  you  translate : fly, flew, flown / флАй флу флОун /",
+            },
+            {
+            id:32,
+            ru:"запрещать",
+            eng:" How  do  you  translate : forbid, forbade, forbidden / фобИд фобЭйд фобИдэн /",
+            },
+            {
+            id:33,
+            ru:"забывать",
+            eng:" How  do  you  translate : forget, forgot, forgotten / фогОт фогОт фогОтэн /",
+            },
+            {
+            id:34,
+            ru:"прощать",
+            eng:" How  do  you  translate : forgive, forgave, forgiven / фогИв фогЕйв фогИвэн /",
+            },
+            {
+            id:35,
+            ru:"замерзать",
+            eng:" How  do  you  translate : freeze, froze, frozen / фриз фрОуз фрОузэн /",
+            },
+            {
+                id:125,
+                ru:"EAT, ATE, EATEN / ит эйт Итн /",
+                eng:"Tell me all three forms of the verb: ` кушать `",
+                },
+                {
+                id:126,
+                ru:"FALL, FELL, FALLEN / фол фэл фОлэн /",
+                eng:"Tell me all three forms of the verb: ` падать `",
+                },
+                {
+                id:127,
+                ru:"FEED, FED, FED / фиД фэд фэд /",
+                eng:"Tell me all three forms of the verb: ` кормить `",
+                },
+                {
+                id:128,
+                ru:"FEEL, FELT, FELT / фил фэлт фэлт /",
+                eng:"Tell me all three forms of the verb: ` чувствовать `",
+                },
+                {
+                id:129,
+                ru:"FIGHT, FOUGHT, FOUGHT / фАйт фот фот /",
+                eng:"Tell me all three forms of the verb: ` сражаться `",
+                },
+                {
+                id:130,
+                ru:"FIND, FOUND, FOUND / фАйнд фАунд фАунд /",
+                eng:"Tell me all three forms of the verb: ` находить `",
+                },
+                {
+                id:131,
+                ru:"FLY, FLEW, FLOWN / флАй флу флОун /",
+                eng:"Tell me all three forms of the verb: ` летать `",
+                },
+                {
+                id:132,
+                ru:"FORBID, FORBADE, FORBIDDEN / фобИд фобЭйд фобИдэн /",
+                eng:"Tell me all three forms of the verb: ` запрещать `",
+                },
+                {
+                id:133,
+                ru:"FORGET, FORGOT, FORGOTTEN / фогОт фогОт фогОтэн /",
+                eng:"Tell me all three forms of the verb: ` забывать `",
+                },
+                {
+                id:134,
+                ru:"FORGIVE, FORGAVE, FORGIVEN / фогИв фогЕйв фогИвэн /",
+                eng:"Tell me all three forms of the verb: ` прощать `",
+                },
+                {
+                id:135,
+                ru:"FREEZE, FROZE, FROZEN / фриз фрОуз фрОузэн /",
+                eng:"Tell me all three forms of the verb: ` замерзать `",
+                },
+    ],
+    naughtyVerbsGH: [
+        {
+            id:36,
+            ru:"расти",
+            eng:" How  do  you  translate : grow, grew, grown / грОу грУ грОун /",
+            },
+            {
+            id:37,
+            ru:"получать",
+            eng:" How  do  you  translate : get, got, got / гет гот гот /",
+            },
+            {
+            id:38,
+            ru:"давать",
+            eng:" How  do  you  translate : give, gave, given / гив гэйв гИвэн /",
+            },
+            {
+            id:39,
+            ru:"ходить",
+            eng:" How  do  you  translate : go, went, gone / гОУ уэнт ган /",
+            },
+            {
+            id:40,
+            ru:"иметь",
+            eng:" How  do  you  translate : have, had, had / хэв хэд хэд /",
+            },
+            {
+            id:41,
+            ru:"слышать",
+            eng:" How  do  you  translate : hear, heard, heard / хИэ хёд хёд /",
+            },
+            {
+            id:42,
+            ru:"прятать",
+            eng:" How  do  you  translate : hide, hid, hidden / хайд хид хИддэн /",
+            },
+            {
+            id:43,
+            ru:"ударять",
+            eng:" How  do  you  translate : hit, hit, hit / хит хит хит /",
+            },
+            {
+            id:44,
+            ru:"причинять боль",
+            eng:" How  do  you  translate : hurt, hurt, hurt / хЁрт хёрт хёрт /",
+            },
+            {
+            id:45,
+            ru:"держать",
+            eng:" How  do  you  translate : hold, held, held / хОулд хэлд хэлд /",
+            },
+            {
+                id:136,
+                ru:"GROW, GREW, GROWN / грОу грУ грОун /",
+                eng:"Tell me all three forms of the verb: ` расти `",
+                },
+                {
+                id:137,
+                ru:"GET, GOT, GOT / гет гот гот /",
+                eng:"Tell me all three forms of the verb: ` получать `",
+                },
+                {
+                id:138,
+                ru:"GIVE, GAVE, GIVEN / гив гэйв гИвэн /",
+                eng:"Tell me all three forms of the verb: ` давать `",
+                },
+                {
+                id:139,
+                ru:"GO, WENT, GONE / гОУ уэнт ган /",
+                eng:"Tell me all three forms of the verb: ` ходить `",
+                },
+                {
+                id:140,
+                ru:"HAVE, HAD, HAD / хэв хэд хэд /",
+                eng:"Tell me all three forms of the verb: ` иметь `",
+                },
+                {
+                id:141,
+                ru:"HEAR, HEARD, HEARD / хИэ хёд хёд /",
+                eng:"Tell me all three forms of the verb: ` слышать `",
+                },
+                {
+                id:142,
+                ru:"HIDE, HID, HIDDEN / хайд хид хИддэн /",
+                eng:"Tell me all three forms of the verb: ` прятать `",
+                },
+                {
+                id:143,
+                ru:"HIT, HIT, HIT / хит хит хит /",
+                eng:"Tell me all three forms of the verb: ` ударять `",
+                },
+                {
+                id:144,
+                ru:"HURT, HURT, HURT / хЁрт хёрт хёрт /",
+                eng:"Tell me all three forms of the verb: ` причинять боль `",
+                },
+                {
+                id:145,
+                ru:"HOLD, HELD, HELD / хОулд хэлд хэлд /",
+                eng:"Tell me all three forms of the verb: ` держать `",
+                },
+    ],
+    naughtyVerbsKL: [
+        {
+            id:46,
+            ru:"хранить",
+            eng:" How  do  you  translate : keep, kept, kept / кип кэпт кэпт /",
+            },
+            {
+            id:47,
+            ru:"знать",
+            eng:" How  do  you  translate : know, knew, known / нОу ню нОун /",
+            },
+            {
+            id:48,
+            ru:"вести, приводить",
+            eng:" How  do  you  translate : lead, led, led / лид лэд лэд /",
+            },
+            {
+            id:49,
+            ru:"изучать",
+            eng:" How  do  you  translate : learn, learnt, learnt / лЁрн лёрнт лёрнт /",
+            },
+            {
+            id:50,
+            ru:"покидать",
+            eng:" How  do  you  translate : leave, left, left / лив лЭфт лЭфт /",
+            },
+            {
+            id:51,
+            ru:"давать в долг",
+            eng:" How  do  you  translate : lend, lent, lent / лЭнд лэнт лэнт /",
+            },
+            {
+            id:52,
+            ru:"позволять",
+            eng:" How  do  you  translate : let, let, let / лЭт лэт лэт /",
+            },
+            {
+            id:53,
+            ru:"терять",
+            eng:" How  do  you  translate : lose, lost, lost / лУз лост лост /",
+            },
+            {
+            id:54,
+            ru:"говорить ложь",
+            eng:" How  do  you  translate : tell a lie, told a lie, told a lie / тэл э лай толд э лай толд э лай /",
+            },
+            {
+            id:55,
+            ru:"лежать",
+            eng:" How  do  you  translate : lie, lay, lain / лай лэй лЭйн /",
+            },
+            {
+                id:146,
+                ru:"KEEP, KEPT, KEPT / кип кэпт кэпт /",
+                eng:"Tell me all three forms of the verb: ` хранить `",
+                },
+                {
+                id:147,
+                ru:"KNOW, KNEW, KNOWN / нОу ню нОун /",
+                eng:"Tell me all three forms of the verb: ` знать `",
+                },
+                {
+                id:148,
+                ru:"LEAD, LED, LED / лид лэд лэд /",
+                eng:"Tell me all three forms of the verb: ` вести, приводить `",
+                },
+                {
+                id:149,
+                ru:"LEARN, LEARNT, LEARNT / лЁрн лёрнт лёрнт /",
+                eng:"Tell me all three forms of the verb: ` изучать `",
+                },
+                {
+                id:150,
+                ru:"LEAVE, LEFT, LEFT / лив лЭфт лЭфт /",
+                eng:"Tell me all three forms of the verb: ` покидать `",
+                },
+                {
+                id:151,
+                ru:"LEND, LENT, LENT / лЭнд лэнт лэнт /",
+                eng:"Tell me all three forms of the verb: ` давать в долг `",
+                },
+                {
+                id:152,
+                ru:"LET, LET, LET / лЭт лэт лэт /",
+                eng:"Tell me all three forms of the verb: ` позволять `",
+                },
+                {
+                id:153,
+                ru:"LOSE, LOST, LOST / лУз лост лост /",
+                eng:"Tell me all three forms of the verb: ` терять `",
+                },
+                {
+                id:154,
+                ru:"TELL A LIE, TOLD A LIE, TOLD A LIE / тэл э лай толд э лай толд э лай /",
+                eng:"Tell me all three forms of the verb: ` говорить ложь `",
+                },
+                {
+                id:155,
+                ru:"LIE, LAY, LAIN / лай лэй лЭйн /",
+                eng:"Tell me all three forms of the verb: ` лежать `",
+                },
+    ],
+    naughtyVerbsMPR: [
+        {
+            id:56,
+            ru:"создавать",
+            eng:" How  do  you  translate : make, made, made / мЭйк мэйд мэйд /",
+            },
+            {
+            id:57,
+            ru:"иметь ввиду",
+            eng:" How  do  you  translate : mean, meant, meant / мИн мэнт мэнт /",
+            },
+            {
+            id:58,
+            ru:"встречать(ся)",
+            eng:" How  do  you  translate : meet, met, met / мит мэт мэт /",
+            },
+            {
+            id:59,
+            ru:"платить",
+            eng:" How  do  you  translate : pay, paid, paid / пЭй пэйд пэйд /",
+            },
+            {
+            id:60,
+            ru:"класть",
+            eng:" How  do  you  translate : put, put, put / пУт пут пут /",
+            },
+            {
+            id:61,
+            ru:"читать",
+            eng:" How  do  you  translate : read, read, read / рИд рЭд рЭд /",
+            },
+            {
+            id:62,
+            ru:"ездить верхом",
+            eng:" How  do  you  translate : ride, rode, ridden / рАйд роуд рИддэн /",
+            },
+            {
+            id:63,
+            ru:"звенеть, звонить",
+            eng:" How  do  you  translate : ring, rang, rung / рИн рэн ран /",
+            },
+            {
+            id:64,
+            ru:"бегать",
+            eng:" How  do  you  translate : run, ran, run / рАн рэн ран /",
+            },
+            {
+            id:65,
+            ru:"подниматься",
+            eng:" How  do  you  translate : rise, rose, risen / рАйз роуз рИzэн /",
+            },
+            {
+                id:156,
+                ru:"MAKE, MADE, MADE / мЭйк мэйд мэйд /",
+                eng:"Tell me all three forms of the verb: ` создавать `",
+                },
+                {
+                id:157,
+                ru:"MEAN, MEANT, MEANT / мИн мэнт мэнт /",
+                eng:"Tell me all three forms of the verb: ` иметь ввиду `",
+                },
+                {
+                id:158,
+                ru:"MEET, MET, MET / мит мэт мэт /",
+                eng:"Tell me all three forms of the verb: ` встречать(ся) `",
+                },
+                {
+                id:159,
+                ru:"PAY, PAID, PAID / пЭй пэйд пэйд /",
+                eng:"Tell me all three forms of the verb: ` платить `",
+                },
+                {
+                id:160,
+                ru:"PUT, PUT, PUT / пУт пут пут /",
+                eng:"Tell me all three forms of the verb: ` класть `",
+                },
+                {
+                id:161,
+                ru:"READ, READ, READ / рИд рЭд рЭд /",
+                eng:"Tell me all three forms of the verb: ` читать `",
+                },
+                {
+                id:162,
+                ru:"RIDE, RODE, RIDDEN / рАйд роуд рИддэн /",
+                eng:"Tell me all three forms of the verb: ` ездить верхом `",
+                },
+                {
+                id:163,
+                ru:"RING, RANG, RUNG / рИн рэн ран /",
+                eng:"Tell me all three forms of the verb: ` звенеть, звонить `",
+                },
+                {
+                id:164,
+                ru:"RUN, RAN, RUN / рАн рэн ран /",
+                eng:"Tell me all three forms of the verb: ` бегать `",
+                },
+                {
+                id:165,
+                ru:"RISE, ROSE, RISEN / рАйз роуз рИzэн /",
+                eng:"Tell me all three forms of the verb: ` подниматься `",
+                },
+    ],
+    naughtyVerbsS: [
+        {
+            id:66,
+            ru:"сказать, произнести",
+            eng:" How  do  you  translate : say, said, said / сЭй сЭд сЭд /",
+            },
+            {
+            id:67,
+            ru:"увидеть",
+            eng:" How  do  you  translate : see, saw, seen / си со син /",
+            },
+            {
+            id:68,
+            ru:"продавать",
+            eng:" How  do  you  translate : sell, sold, sold / сЭл солд солд /",
+            },
+            {
+            id:69,
+            ru:"отправлять",
+            eng:" How  do  you  translate : send, sent, sent / сэнД сэнт сэнт /",
+            },
+            {
+            id:70,
+            ru:"трясти",
+            eng:" How  do  you  translate : shake, shook, shaken / шЭйк шук шэйкэн /",
+            },
+            {
+            id:71,
+            ru:"стрелять",
+            eng:" How  do  you  translate : shoot, shot, shot / шУт шот шот /",
+            },
+            {
+            id:72,
+            ru:"захлопнуть",
+            eng:" How  do  you  translate : shut, shut, shut / щАт щат щат /",
+            },
+            {
+            id:73,
+            ru:"петь",
+            eng:" How  do  you  translate : sing, sang, sung / сИн сэн сэн /",
+            },
+            {
+            id:74,
+            ru:"затонуть",
+            eng:" How  do  you  translate : sink, sank, sunk / синк сэнк сэнк /",
+            },
+            {
+            id:75,
+            ru:"сидеть",
+            eng:" How  do  you  translate : sit, sat, sat / сит сэт сэт /",
+            },
+            {
+            id:76,
+            ru:"спать",
+            eng:" How  do  you  translate : sleep, slept, slept / слИп слэпт слэпт /",
+            },
+            {
+            id:77,
+            ru:"скользить",
+            eng:" How  do  you  translate : slide, slid, slid / слайд слид слид /",
+            },
+            {
+            id:78,
+            ru:"разговаривать",
+            eng:" How  do  you  translate : speak, spoke, spoken / спИк споук споукэн /",
+            },
+            {
+            id:79,
+            ru:"тратить",
+            eng:" How  do  you  translate : spend, spent, spent / спЭнд спэнт спэнт /",
+            },
+            {
+            id:80,
+            ru:"плеваться",
+            eng:" How  do  you  translate : spit, spat, spat / спИт спэт спэт /",
+            },
+            {
+            id:81,
+            ru:"встать, стоять",
+            eng:" How  do  you  translate : stand, stood, stood / стЭнд студ студ /",
+            },
+            {
+            id:82,
+            ru:"воровать",
+            eng:" How  do  you  translate : steal, stole, stolen / стИл стоул стОулэн /",
+            },
+            {
+            id:83,
+            ru:"приклеить, застрять ",
+            eng:" How  do  you  translate : stick, stuck, stuck / стик стак стак /",
+            },
+            {
+            id:84,
+            ru:"вонять",
+            eng:" How  do  you  translate : stink, stank, stunk / стинк стэнк станк /",
+            },
+            {
+            id:85,
+            ru:"ударять",
+            eng:" How  do  you  translate : strike, struck, struck / стрАйк страк страк /",
+            },
+            {
+            id:86,
+            ru:"клясться, материться ",
+            eng:" How  do  you  translate : swear, swore, sworn / суЭа сво сворн /",
+            },
+            {
+            id:87,
+            ru:"подметать",
+            eng:" How  do  you  translate : sweep, swept, swept / свип свэпт свэпт /",
+            },
+            {
+            id:88,
+            ru:"плавать",
+            eng:" How  do  you  translate : swim, swam, swum / свим свэм свам /",
+            },
+            {
+            id:89,
+            ru:"качаться",
+            eng:" How  do  you  translate : swing, swung, swung / свИн сван сван /",
+            },
+            {
+                id:166,
+                ru:"SAY, SAID, SAID / сЭй сЭд сЭд /",
+                eng:"Tell me all three forms of the verb: ` сказать, произнести `",
+                },
+                {
+                id:167,
+                ru:"SEE, SAW, SEEN / си со син /",
+                eng:"Tell me all three forms of the verb: ` увидеть `",
+                },
+                {
+                id:168,
+                ru:"SELL, SOLD, SOLD / сЭл солд солд /",
+                eng:"Tell me all three forms of the verb: ` продавать `",
+                },
+                {
+                id:169,
+                ru:"SEND, SENT, SENT / сэнД сэнт сэнт /",
+                eng:"Tell me all three forms of the verb: ` отправлять `",
+                },
+                {
+                id:170,
+                ru:"SHAKE, SHOOK, SHAKEN / шЭйк шук шэйкэн /",
+                eng:"Tell me all three forms of the verb: ` трясти `",
+                },
+                {
+                id:171,
+                ru:"SHOOT, SHOT, SHOT / шУт шот шот /",
+                eng:"Tell me all three forms of the verb: ` стрелять `",
+                },
+                {
+                id:172,
+                ru:"SHUT, SHUT, SHUT / щАт щат щат /",
+                eng:"Tell me all three forms of the verb: ` захлопнуть `",
+                },
+                {
+                id:173,
+                ru:"SING, SANG, SUNG / сИн сэн сэн /",
+                eng:"Tell me all three forms of the verb: ` петь `",
+                },
+                {
+                id:174,
+                ru:"SINK, SANK, SUNK / синк сэнк сэнк /",
+                eng:"Tell me all three forms of the verb: ` затонуть `",
+                },
+                {
+                id:175,
+                ru:"SIT, SAT, SAT / сит сэт сэт /",
+                eng:"Tell me all three forms of the verb: ` сидеть `",
+                },
+                {
+                id:176,
+                ru:"SLEEP, SLEPT, SLEPT / слИп слэпт слэпт /",
+                eng:"Tell me all three forms of the verb: ` спать `",
+                },
+                {
+                id:177,
+                ru:"SLIDE, SLID, SLID / слайд слид слид /",
+                eng:"Tell me all three forms of the verb: ` скользить `",
+                },
+                {
+                id:178,
+                ru:"SPEAK, SPOKE, SPOKEN / спИк споук споукэн /",
+                eng:"Tell me all three forms of the verb: ` разговаривать `",
+                },
+                {
+                id:179,
+                ru:"SPEND, SPENT, SPENT / спЭнд спэнт спэнт /",
+                eng:"Tell me all three forms of the verb: ` тратить `",
+                },
+                {
+                id:180,
+                ru:"SPIT, SPAT, SPAT / спИт спэт спэт /",
+                eng:"Tell me all three forms of the verb: ` плеваться `",
+                },
+                {
+                id:181,
+                ru:"STAND, STOOD, STOOD / стЭнд студ студ /",
+                eng:"Tell me all three forms of the verb: ` встать, стоять `",
+                },
+                {
+                id:182,
+                ru:"STEAL, STOLE, STOLEN / стИл стоул стОулэн /",
+                eng:"Tell me all three forms of the verb: ` воровать `",
+                },
+                {
+                id:183,
+                ru:"STICK, STUCK, STUCK / стик стак стак /",
+                eng:"Tell me all three forms of the verb: ` приклеить, застрять  `",
+                },
+                {
+                id:184,
+                ru:"STINK, STANK, STUNK / стинк стэнк станк /",
+                eng:"Tell me all three forms of the verb: ` вонять `",
+                },
+                {
+                id:185,
+                ru:"STRIKE, STRUCK, STRUCK / стрАйк страк страк /",
+                eng:"Tell me all three forms of the verb: ` ударять `",
+                },
+                {
+                id:186,
+                ru:"SWEAR, SWORE, SWORN / суЭа сво сворн /",
+                eng:"Tell me all three forms of the verb: ` клясться, материться  `",
+                },
+                {
+                id:187,
+                ru:"SWEEP, SWEPT, SWEPT / свип свэпт свэпт /",
+                eng:"Tell me all three forms of the verb: ` подметать `",
+                },
+                {
+                id:188,
+                ru:"SWIM, SWAM, SWUM / свим свэм свам /",
+                eng:"Tell me all three forms of the verb: ` плавать `",
+                },
+                {
+                id:189,
+                ru:"SWING, SWUNG, SWUNG / свИн сван сван /",
+                eng:"Tell me all three forms of the verb: ` качаться `",
+                },
+    ],
+    naughtyVerbsTUW: [
+        {
+            id:90,
+            ru:"брать",
+            eng:" How  do  you  translate : take, took, taken / тЭйк тук тЭйкэн /",
+            },
+            {
+            id:91,
+            ru:"обучать",
+            eng:" How  do  you  translate : teach, taught, taught / тИч тот тот /",
+            },
+            {
+            id:92,
+            ru:"порвать",
+            eng:" How  do  you  translate : tear, tore, torn / тЭа то торн /",
+            },
+            {
+            id:93,
+            ru:"рассказывать",
+            eng:" How  do  you  translate : tell, told, told / тЭл тОлд толд /",
+            },
+            {
+            id:94,
+            ru:"думать",
+            eng:" How  do  you  translate : think, thought, thought / thЫНК thОт thОт /",
+            },
+            {
+            id:95,
+            ru:"бросать",
+            eng:" How  do  you  translate : throw, threw, thrown / thрОу thру thрОун /",
+            },
+            {
+            id:96,
+            ru:"понимать",
+            eng:" How  do  you  translate : understand, understood, understood / андэстЭнд андэстУд андэстУд /",
+            },
+            {
+            id:97,
+            ru:"просыпаться",
+            eng:" How  do  you  translate : wake up, woke up, woken up / уЭйк ап уОук ап уОукэн ап /",
+            },
+            {
+            id:98,
+            ru:"носить одежду",
+            eng:" How  do  you  translate : wear, wore, worn / уЭа уо уорн /",
+            },
+            {
+            id:99,
+            ru:"писАть",
+            eng:" How  do  you  translate : write, wrote, written / рАйт рОут рИтэн /",
+            },
+            {
+            id:100,
+            ru:"хныкать",
+            eng:" How  do  you  translate : weep, wept, wept / уИп уЭпт уЭпт /",
+            },
+            {
+            id:101,
+            ru:"выигрывать",
+            eng:" How  do  you  translate : win, won, won / уИн уан или уон уан или уон /",
+            },
+            {
+                id:190,
+                ru:"TAKE, TOOK, TAKEN / тЭйк тук тЭйкэн /",
+                eng:"Tell me all three forms of the verb: ` брать `",
+                },
+                {
+                id:191,
+                ru:"TEACH, TAUGHT, TAUGHT / тИч тот тот /",
+                eng:"Tell me all three forms of the verb: ` обучать `",
+                },
+                {
+                id:192,
+                ru:"TEAR, TORE, TORN / тЭа то торн /",
+                eng:"Tell me all three forms of the verb: ` порвать `",
+                },
+                {
+                id:193,
+                ru:"TELL, TOLD, TOLD / тЭл тОлд толд /",
+                eng:"Tell me all three forms of the verb: ` рассказывать `",
+                },
+                {
+                id:194,
+                ru:"THINK, THOUGHT, THOUGHT / thЫНК thОт thОт /",
+                eng:"Tell me all three forms of the verb: ` думать `",
+                },
+                {
+                id:195,
+                ru:"THROW, THREW, THROWN / thрОу thру thрОун /",
+                eng:"Tell me all three forms of the verb: ` бросать `",
+                },
+                {
+                id:196,
+                ru:"UNDERSTAND, UNDERSTOOD, UNDERSTOOD / андэстЭнд андэстУд андэстУд /",
+                eng:"Tell me all three forms of the verb: ` понимать `",
+                },
+                {
+                id:197,
+                ru:"WAKE UP, WOKE UP, WOKEN UP / уЭйк ап уОук ап уОукэн ап /",
+                eng:"Tell me all three forms of the verb: ` просыпаться `",
+                },
+                {
+                id:198,
+                ru:"WEAR, WORE, WORN / уЭа уо уорн /",
+                eng:"Tell me all three forms of the verb: ` носить одежду `",
+                },
+                {
+                id:199,
+                ru:"WRITE, WROTE, WRITTEN / рАйт рОут рИтэн /",
+                eng:"Tell me all three forms of the verb: ` писАть `",
+                },
+                {
+                id:200,
+                ru:"WEEP, WEPT, WEPT / уИп уЭпт уЭпт /",
+                eng:"Tell me all three forms of the verb: ` хныкать `",
+                },
+                {
+                id:201,
+                ru:"WIN, WON, WON / уИн уан или уон уан или уон /",
+                eng:"Tell me all three forms of the verb: ` выигрывать `",
+                },
+    ],
+    naughtyVerbsLast: [
+        {
+            id:102,
+            ru:"неправильно понять",
+            eng:" How  do  you  translate : misunderstand, misunderstood, misunderstood / мисандэстЭнд мисандэстУд мисандэстУд /",
+            },
+            {
+            id:103,
+            ru:"неправильно написать",
+            eng:" How  do  you  translate : misspell, misspelt, misspelt / миспЭл миспЛлт миспЛлт /",
+            },
+            {
+            id:104,
+            ru:"ошибаться",
+            eng:" How  do  you  translate : mistake, mistook, mistaken / мистЭйк мистук мистук /",
+            },
+            {
+            id:105,
+            ru:"неправильно услышать",
+            eng:" How  do  you  translate : mishear, misheard, misheard / мисхИа мисхёд мисхёд /",
+            },
+            {
+            id:106,
+            ru:"проспать",
+            eng:" How  do  you  translate : oversleep, overslept, overslept / оУвэслип оУвэслэпт оУвэслэпт /",
+            },
+            {
+            id:107,
+            ru:"переесть ",
+            eng:" How  do  you  translate : overeat, overate, overeaten / оУвэИт оУвэЭйт оУвэИтэн /",
+            },
+            {
+            id:108,
+            ru:"переплатить",
+            eng:" How  do  you  translate : overpay, overpaid, overpaid / оУвэпЭй оУвэпЭйд оУвэпЭйд /",
+            },
+            {
+            id:109,
+            ru:"возникнуть",
+            eng:" How  do  you  translate : arise, arose, arisen / эрАйз эрОуз эрИзн /",
+            },
+            {
+            id:110,
+            ru:"пробудиться",
+            eng:" How  do  you  translate : awake, awoke, awoken / эуЭйк эвОук эвОукэн /",
+            },
+            {
+            id:111,
+            ru:"соблюдать пребывать обитать",
+            eng:" How  do  you  translate : abide, abode, abidden / эбАйд эбОуд эбИдэн /",
+            },
+            {
+                id:202,
+                ru:"MISUNDERSTAND, MISUNDERSTOOD, MISUNDERSTOOD / мисандэстЭнд мисандэстУд мисандэстУд /",
+                eng:"Tell me all three forms of the verb: ` неправильно понять `",
+                },
+                {
+                id:203,
+                ru:"MISSPELL, MISSPELT, MISSPELT / миспЭл миспЛлт миспЛлт /",
+                eng:"Tell me all three forms of the verb: ` неправильно написать `",
+                },
+                {
+                id:204,
+                ru:"MISTAKE, MISTOOK, MISTAKEN / мистЭйк мистук мистук /",
+                eng:"Tell me all three forms of the verb: ` ошибаться `",
+                },
+                {
+                id:205,
+                ru:"MISHEAR, MISHEARD, MISHEARD / мисхИа мисхёд мисхёд /",
+                eng:"Tell me all three forms of the verb: ` неправильно услышать `",
+                },
+                {
+                id:206,
+                ru:"OVERSLEEP, OVERSLEPT, OVERSLEPT / оУвэслип оУвэслэпт оУвэслэпт /",
+                eng:"Tell me all three forms of the verb: ` проспать `",
+                },
+                {
+                id:207,
+                ru:"OVEREAT, OVERATE, OVEREATEN / оУвэИт оУвэЭйт оУвэИтэн /",
+                eng:"Tell me all three forms of the verb: ` переесть  `",
+                },
+                {
+                id:208,
+                ru:"OVERPAY, OVERPAID, OVERPAID / оУвэпЭй оУвэпЭйд оУвэпЭйд /",
+                eng:"Tell me all three forms of the verb: ` переплатить `",
+                },
+                {
+                id:209,
+                ru:"ARISE, AROSE, ARISEN / эрАйз эрОуз эрИзн /",
+                eng:"Tell me all three forms of the verb: ` возникнуть `",
+                },
+                {
+                id:210,
+                ru:"AWAKE, AWOKE, AWOKEN / эуЭйк эвОук эвОукэн /",
+                eng:"Tell me all three forms of the verb: ` пробудиться `",
+                },
+                {
+                id:211,
+                ru:"ABIDE, ABODE, ABIDDEN / эбАйд эбОуд эбИдэн /",
+                eng:"Tell me all three forms of the verb: ` соблюдать пребывать обитать `",
+                },
+    ],
+    naughtyVerbs99: [
+        {
+            id:1,
+            ru:"ломать",
+            eng:" How  do  you  translate : break, broke, broken / брЭйк брОУк брОУкэн /",
+            },
+            {
+            id:2,
+            ru:"побить",
+            eng:" How  do  you  translate : beat, beat, beaten / бит бит битн /",
+            },
+            {
+            id:3,
+            ru:"становиться",
+            eng:" How  do  you  translate : become, became, become / бекАм бекЕйм бекАм /",
+            },
+            {
+            id:4,
+            ru:"начинать",
+            eng:" How  do  you  translate : begin, began, begun / бегИн бегЭн бегАн /",
+            },
+            {
+            id:5,
+            ru:"дуть",
+            eng:" How  do  you  translate : blow, blew, blown / блОу блУ блОун /",
+            },
+            {
+            id:6,
+            ru:"брать в долг",
+            eng:" How  do  you  translate : borrow, borrowed, borrowed / бОроу бОроуд бОроуд /",
+            },
+            {
+            id:7,
+            ru:"строить",
+            eng:" How  do  you  translate : build, built, built / билд билт билт /",
+            },
+            {
+            id:8,
+            ru:"сжигать, гореть",
+            eng:" How  do  you  translate : burn, burnt, burnt / бЁрн бёрнт бёрнт /",
+            },
+            {
+            id:9,
+            ru:"покупать",
+            eng:" How  do  you  translate : buy, bought, bought / бАй бот бот /",
+            },
+            {
+            id:10,
+            ru:"приносить",
+            eng:" How  do  you  translate : bring, brought, brought / брин брот брот /",
+            },
+            {
+            id:11,
+            ru:"быть",
+            eng:" How  do  you  translate : be, (was,were), been / эм из а воз вё бин /",
+            },
+            {
+            id:12,
+            ru:"кусать",
+            eng:" How  do  you  translate : bite, bit, bit / бАйт бит бит /",
+            },
+            {
+            id:13,
+            ru:"приходить",
+            eng:" How  do  you  translate : come, came, come / кАм кейм кАм /",
+            },
+            {
+            id:14,
+            ru:"выбирать",
+            eng:" How  do  you  translate : choose, chose, chosen / чУз чОуз чОуzэн /",
+            },
+            {
+            id:15,
+            ru:"ловить",
+            eng:" How  do  you  translate : catch, caught, caught / кЭч кот кот /",
+            },
+            {
+            id:16,
+            ru:"ползать",
+            eng:" How  do  you  translate : creep, crept, crept / крИп крэпт крэпт /",
+            },
+            {
+            id:17,
+            ru:"стоить",
+            eng:" How  do  you  translate : cost, cost, cost / кост кост кост /",
+            },
+            {
+            id:18,
+            ru:"резать",
+            eng:" How  do  you  translate : cut, cut, cut / кАт кат кат /",
+            },
+            {
+            id:19,
+            ru:"иметь дела",
+            eng:" How  do  you  translate : deal, dealt, dealt / дИл дэлт дэлт /",
+            },
+            {
+            id:20,
+            ru:"копать",
+            eng:" How  do  you  translate : dig, dug, dug / диГ даг даг /",
+            },
+            {
+            id:21,
+            ru:"делать",
+            eng:" How  do  you  translate : do, did, done / ду дид дан /",
+            },
+            {
+            id:22,
+            ru:"водить",
+            eng:" How  do  you  translate : drive, drove, driven / дрАйв дроув дривн /",
+            },
+            {
+            id:23,
+            ru:"рисовать",
+            eng:" How  do  you  translate : draw, drew, drawn / дрО дрУ дроун /",
+            },
+            {
+            id:24,
+            ru:"пить",
+            eng:" How  do  you  translate : drink, drank, drunk / дринк дрЭнк дрАнк /",
+            },
+            {
+            id:25,
+            ru:"кушать",
+            eng:" How  do  you  translate : eat, ate, eaten / ит эйт Итн /",
+            },
+            {
+            id:26,
+            ru:"падать",
+            eng:" How  do  you  translate : fall, fell, fallen / фол фэл фОлэн /",
+            },
+            {
+            id:27,
+            ru:"кормить",
+            eng:" How  do  you  translate : feed, fed, fed / фиД фэд фэд /",
+            },
+            {
+            id:28,
+            ru:"чувствовать",
+            eng:" How  do  you  translate : feel, felt, felt / фил фэлт фэлт /",
+            },
+            {
+            id:29,
+            ru:"сражаться",
+            eng:" How  do  you  translate : fight, fought, fought / фАйт фот фот /",
+            },
+            {
+            id:30,
+            ru:"находить",
+            eng:" How  do  you  translate : find, found, found / фАйнд фАунд фАунд /",
+            },
+            {
+            id:31,
+            ru:"летать",
+            eng:" How  do  you  translate : fly, flew, flown / флАй флу флОун /",
+            },
+            {
+            id:32,
+            ru:"запрещать",
+            eng:" How  do  you  translate : forbid, forbade, forbidden / фобИд фобЭйд фобИдэн /",
+            },
+            {
+            id:33,
+            ru:"забывать",
+            eng:" How  do  you  translate : forget, forgot, forgotten / фогОт фогОт фогОтэн /",
+            },
+            {
+            id:34,
+            ru:"прощать",
+            eng:" How  do  you  translate : forgive, forgave, forgiven / фогИв фогЕйв фогИвэн /",
+            },
+            {
+            id:35,
+            ru:"замерзать",
+            eng:" How  do  you  translate : freeze, froze, frozen / фриз фрОуз фрОузэн /",
+            },
+            {
+            id:36,
+            ru:"расти",
+            eng:" How  do  you  translate : grow, grew, grown / грОу грУ грОун /",
+            },
+            {
+            id:37,
+            ru:"получать",
+            eng:" How  do  you  translate : get, got, got / гет гот гот /",
+            },
+            {
+            id:38,
+            ru:"давать",
+            eng:" How  do  you  translate : give, gave, given / гив гэйв гИвэн /",
+            },
+            {
+            id:39,
+            ru:"ходить",
+            eng:" How  do  you  translate : go, went, gone / гОУ уэнт ган /",
+            },
+            {
+            id:40,
+            ru:"иметь",
+            eng:" How  do  you  translate : have, had, had / хэв хэд хэд /",
+            },
+            {
+            id:41,
+            ru:"слышать",
+            eng:" How  do  you  translate : hear, heard, heard / хИэ хёд хёд /",
+            },
+            {
+            id:42,
+            ru:"прятать",
+            eng:" How  do  you  translate : hide, hid, hidden / хайд хид хИддэн /",
+            },
+            {
+            id:43,
+            ru:"ударять",
+            eng:" How  do  you  translate : hit, hit, hit / хит хит хит /",
+            },
+            {
+            id:44,
+            ru:"причинять боль",
+            eng:" How  do  you  translate : hurt, hurt, hurt / хЁрт хёрт хёрт /",
+            },
+            {
+            id:45,
+            ru:"держать",
+            eng:" How  do  you  translate : hold, held, held / хОулд хэлд хэлд /",
+            },
+            {
+            id:46,
+            ru:"хранить",
+            eng:" How  do  you  translate : keep, kept, kept / кип кэпт кэпт /",
+            },
+            {
+            id:47,
+            ru:"знать",
+            eng:" How  do  you  translate : know, knew, known / нОу ню нОун /",
+            },
+            {
+            id:48,
+            ru:"вести, приводить",
+            eng:" How  do  you  translate : lead, led, led / лид лэд лэд /",
+            },
+            {
+            id:49,
+            ru:"изучать",
+            eng:" How  do  you  translate : learn, learnt, learnt / лЁрн лёрнт лёрнт /",
+            },
+            {
+            id:50,
+            ru:"покидать",
+            eng:" How  do  you  translate : leave, left, left / лив лЭфт лЭфт /",
+            },
+            {
+            id:51,
+            ru:"давать в долг",
+            eng:" How  do  you  translate : lend, lent, lent / лЭнд лэнт лэнт /",
+            },
+            {
+            id:52,
+            ru:"позволять",
+            eng:" How  do  you  translate : let, let, let / лЭт лэт лэт /",
+            },
+            {
+            id:53,
+            ru:"терять",
+            eng:" How  do  you  translate : lose, lost, lost / лУз лост лост /",
+            },
+            {
+            id:54,
+            ru:"говорить ложь",
+            eng:" How  do  you  translate : tell a lie, told a lie, told a lie / тэл э лай толд э лай толд э лай /",
+            },
+            {
+            id:55,
+            ru:"лежать",
+            eng:" How  do  you  translate : lie, lay, lain / лай лэй лЭйн /",
+            },
+            {
+            id:56,
+            ru:"создавать",
+            eng:" How  do  you  translate : make, made, made / мЭйк мэйд мэйд /",
+            },
+            {
+            id:57,
+            ru:"иметь ввиду",
+            eng:" How  do  you  translate : mean, meant, meant / мИн мэнт мэнт /",
+            },
+            {
+            id:58,
+            ru:"встречать(ся)",
+            eng:" How  do  you  translate : meet, met, met / мит мэт мэт /",
+            },
+            {
+            id:59,
+            ru:"платить",
+            eng:" How  do  you  translate : pay, paid, paid / пЭй пэйд пэйд /",
+            },
+            {
+            id:60,
+            ru:"класть",
+            eng:" How  do  you  translate : put, put, put / пУт пут пут /",
+            },
+            {
+            id:61,
+            ru:"читать",
+            eng:" How  do  you  translate : read, read, read / рИд рЭд рЭд /",
+            },
+            {
+            id:62,
+            ru:"ездить верхом",
+            eng:" How  do  you  translate : ride, rode, ridden / рАйд роуд рИддэн /",
+            },
+            {
+            id:63,
+            ru:"звенеть, звонить",
+            eng:" How  do  you  translate : ring, rang, rung / рИн рэн ран /",
+            },
+            {
+            id:64,
+            ru:"бегать",
+            eng:" How  do  you  translate : run, ran, run / рАн рэн ран /",
+            },
+            {
+            id:65,
+            ru:"подниматься",
+            eng:" How  do  you  translate : rise, rose, risen / рАйз роуз рИzэн /",
+            },
+            {
+            id:66,
+            ru:"сказать, произнести",
+            eng:" How  do  you  translate : say, said, said / сЭй сЭд сЭд /",
+            },
+            {
+            id:67,
+            ru:"увидеть",
+            eng:" How  do  you  translate : see, saw, seen / си со син /",
+            },
+            {
+            id:68,
+            ru:"продавать",
+            eng:" How  do  you  translate : sell, sold, sold / сЭл солд солд /",
+            },
+            {
+            id:69,
+            ru:"отправлять",
+            eng:" How  do  you  translate : send, sent, sent / сэнД сэнт сэнт /",
+            },
+            {
+            id:70,
+            ru:"трясти",
+            eng:" How  do  you  translate : shake, shook, shaken / шЭйк шук шэйкэн /",
+            },
+            {
+            id:71,
+            ru:"стрелять",
+            eng:" How  do  you  translate : shoot, shot, shot / шУт шот шот /",
+            },
+            {
+            id:72,
+            ru:"захлопнуть",
+            eng:" How  do  you  translate : shut, shut, shut / щАт щат щат /",
+            },
+            {
+            id:73,
+            ru:"петь",
+            eng:" How  do  you  translate : sing, sang, sung / сИн сэн сэн /",
+            },
+            {
+            id:74,
+            ru:"затонуть",
+            eng:" How  do  you  translate : sink, sank, sunk / синк сэнк сэнк /",
+            },
+            {
+            id:75,
+            ru:"сидеть",
+            eng:" How  do  you  translate : sit, sat, sat / сит сэт сэт /",
+            },
+            {
+            id:76,
+            ru:"спать",
+            eng:" How  do  you  translate : sleep, slept, slept / слИп слэпт слэпт /",
+            },
+            {
+            id:77,
+            ru:"скользить",
+            eng:" How  do  you  translate : slide, slid, slid / слайд слид слид /",
+            },
+            {
+            id:78,
+            ru:"разговаривать",
+            eng:" How  do  you  translate : speak, spoke, spoken / спИк споук споукэн /",
+            },
+            {
+            id:79,
+            ru:"тратить",
+            eng:" How  do  you  translate : spend, spent, spent / спЭнд спэнт спэнт /",
+            },
+            {
+            id:80,
+            ru:"плеваться",
+            eng:" How  do  you  translate : spit, spat, spat / спИт спэт спэт /",
+            },
+            {
+            id:81,
+            ru:"встать, стоять",
+            eng:" How  do  you  translate : stand, stood, stood / стЭнд студ студ /",
+            },
+            {
+            id:82,
+            ru:"воровать",
+            eng:" How  do  you  translate : steal, stole, stolen / стИл стоул стОулэн /",
+            },
+            {
+            id:83,
+            ru:"приклеить, застрять ",
+            eng:" How  do  you  translate : stick, stuck, stuck / стик стак стак /",
+            },
+            {
+            id:84,
+            ru:"вонять",
+            eng:" How  do  you  translate : stink, stank, stunk / стинк стэнк станк /",
+            },
+            {
+            id:85,
+            ru:"ударять",
+            eng:" How  do  you  translate : strike, struck, struck / стрАйк страк страк /",
+            },
+            {
+            id:86,
+            ru:"клясться, материться ",
+            eng:" How  do  you  translate : swear, swore, sworn / суЭа сво сворн /",
+            },
+            {
+            id:87,
+            ru:"подметать",
+            eng:" How  do  you  translate : sweep, swept, swept / свип свэпт свэпт /",
+            },
+            {
+            id:88,
+            ru:"плавать",
+            eng:" How  do  you  translate : swim, swam, swum / свим свэм свам /",
+            },
+            {
+            id:89,
+            ru:"качаться",
+            eng:" How  do  you  translate : swing, swung, swung / свИн сван сван /",
+            },
+            {
+            id:90,
+            ru:"брать",
+            eng:" How  do  you  translate : take, took, taken / тЭйк тук тЭйкэн /",
+            },
+            {
+            id:91,
+            ru:"обучать",
+            eng:" How  do  you  translate : teach, taught, taught / тИч тот тот /",
+            },
+            {
+            id:92,
+            ru:"порвать",
+            eng:" How  do  you  translate : tear, tore, torn / тЭа то торн /",
+            },
+            {
+            id:93,
+            ru:"рассказывать",
+            eng:" How  do  you  translate : tell, told, told / тЭл тОлд толд /",
+            },
+            {
+            id:94,
+            ru:"думать",
+            eng:" How  do  you  translate : think, thought, thought / thЫНК thОт thОт /",
+            },
+            {
+            id:95,
+            ru:"бросать",
+            eng:" How  do  you  translate : throw, threw, thrown / thрОу thру thрОун /",
+            },
+            {
+            id:96,
+            ru:"понимать",
+            eng:" How  do  you  translate : understand, understood, understood / андэстЭнд андэстУд андэстУд /",
+            },
+            {
+            id:97,
+            ru:"просыпаться",
+            eng:" How  do  you  translate : wake up, woke up, woken up / уЭйк ап уОук ап уОукэн ап /",
+            },
+            {
+            id:98,
+            ru:"носить одежду",
+            eng:" How  do  you  translate : wear, wore, worn / уЭа уо уорн /",
+            },
+            {
+            id:99,
+            ru:"писАть",
+            eng:" How  do  you  translate : write, wrote, written / рАйт рОут рИтэн /",
+            },
+            {
+            id:100,
+            ru:"хныкать",
+            eng:" How  do  you  translate : weep, wept, wept / уИп уЭпт уЭпт /",
+            },
+            {
+            id:101,
+            ru:"выигрывать",
+            eng:" How  do  you  translate : win, won, won / уИн уан или уон уан или уон /",
+            },
+            {
+            id:102,
+            ru:"неправильно понять",
+            eng:" How  do  you  translate : misunderstand, misunderstood, misunderstood / мисандэстЭнд мисандэстУд мисандэстУд /",
+            },
+            {
+            id:103,
+            ru:"неправильно написать",
+            eng:" How  do  you  translate : misspell, misspelt, misspelt / миспЭл миспЛлт миспЛлт /",
+            },
+            {
+            id:104,
+            ru:"ошибаться",
+            eng:" How  do  you  translate : mistake, mistook, mistaken / мистЭйк мистук мистук /",
+            },
+            {
+            id:105,
+            ru:"неправильно услышать",
+            eng:" How  do  you  translate : mishear, misheard, misheard / мисхИа мисхёд мисхёд /",
+            },
+            {
+            id:106,
+            ru:"проспать",
+            eng:" How  do  you  translate : oversleep, overslept, overslept / оУвэслип оУвэслэпт оУвэслэпт /",
+            },
+            {
+            id:107,
+            ru:"переесть ",
+            eng:" How  do  you  translate : overeat, overate, overeaten / оУвэИт оУвэЭйт оУвэИтэн /",
+            },
+            {
+            id:108,
+            ru:"переплатить",
+            eng:" How  do  you  translate : overpay, overpaid, overpaid / оУвэпЭй оУвэпЭйд оУвэпЭйд /",
+            },
+            {
+            id:109,
+            ru:"возникнуть",
+            eng:" How  do  you  translate : arise, arose, arisen / эрАйз эрОуз эрИзн /",
+            },
+            {
+            id:110,
+            ru:"пробудиться",
+            eng:" How  do  you  translate : awake, awoke, awoken / эуЭйк эвОук эвОукэн /",
+            },
+            {
+            id:111,
+            ru:"соблюдать пребывать обитать",
+            eng:" How  do  you  translate : abide, abode, abidden / эбАйд эбОуд эбИдэн /",
+            },
+            {
+                id:201,
+                ru:"BREAK, BROKE, BROKEN / брЭйк брОУк брОУкэн /",
+                eng:"Tell me all three forms of the verb: ` ломать `",
+                },
+                {
+                id:202,
+                ru:"BEAT, BEAT, BEATEN / бит бит битн /",
+                eng:"Tell me all three forms of the verb: ` побить `",
+                },
+                {
+                id:203,
+                ru:"BECOME, BECAME, BECOME / бекАм бекЕйм бекАм /",
+                eng:"Tell me all three forms of the verb: ` становиться `",
+                },
+                {
+                id:204,
+                ru:"BEGIN, BEGAN, BEGUN / бегИн бегЭн бегАн /",
+                eng:"Tell me all three forms of the verb: ` начинать `",
+                },
+                {
+                id:205,
+                ru:"BLOW, BLEW, BLOWN / блОу блУ блОун /",
+                eng:"Tell me all three forms of the verb: ` дуть `",
+                },
+                {
+                id:206,
+                ru:"BORROW, BORROWED, BORROWED / бОроу бОроуд бОроуд /",
+                eng:"Tell me all three forms of the verb: ` брать в долг `",
+                },
+                {
+                id:207,
+                ru:"BUILD, BUILT, BUILT / билд билт билт /",
+                eng:"Tell me all three forms of the verb: ` строить `",
+                },
+                {
+                id:208,
+                ru:"BURN, BURNT, BURNT / бЁрн бёрнт бёрнт /",
+                eng:"Tell me all three forms of the verb: ` сжигать, гореть `",
+                },
+                {
+                id:209,
+                ru:"BUY, BOUGHT, BOUGHT / бАй бот бот /",
+                eng:"Tell me all three forms of the verb: ` покупать `",
+                },
+                {
+                id:210,
+                ru:"BRING, BROUGHT, BROUGHT / брин брот брот /",
+                eng:"Tell me all three forms of the verb: ` приносить `",
+                },
+                {
+                id:211,
+                ru:"BE, (WAS,WERE), BEEN / эм из а воз вё бин /",
+                eng:"Tell me all three forms of the verb: ` быть `",
+                },
+                {
+                id:212,
+                ru:"BITE, BIT, BIT / бАйт бит бит /",
+                eng:"Tell me all three forms of the verb: ` кусать `",
+                },
+                {
+                id:213,
+                ru:"COME, CAME, COME / кАм кейм кАм /",
+                eng:"Tell me all three forms of the verb: ` приходить `",
+                },
+                {
+                id:214,
+                ru:"CHOOSE, CHOSE, CHOSEN / чУз чОуз чОуzэн /",
+                eng:"Tell me all three forms of the verb: ` выбирать `",
+                },
+                {
+                id:215,
+                ru:"CATCH, CAUGHT, CAUGHT / кЭч кот кот /",
+                eng:"Tell me all three forms of the verb: ` ловить `",
+                },
+                {
+                id:216,
+                ru:"CREEP, CREPT, CREPT / крИп крэпт крэпт /",
+                eng:"Tell me all three forms of the verb: ` ползать `",
+                },
+                {
+                id:217,
+                ru:"COST, COST, COST / кост кост кост /",
+                eng:"Tell me all three forms of the verb: ` стоить `",
+                },
+                {
+                id:218,
+                ru:"CUT, CUT, CUT / кАт кат кат /",
+                eng:"Tell me all three forms of the verb: ` резать `",
+                },
+                {
+                id:219,
+                ru:"DEAL, DEALT, DEALT / дИл дэлт дэлт /",
+                eng:"Tell me all three forms of the verb: ` иметь дела `",
+                },
+                {
+                id:220,
+                ru:"DIG, DUG, DUG / диГ даг даг /",
+                eng:"Tell me all three forms of the verb: ` копать `",
+                },
+                {
+                id:221,
+                ru:"DO, DID, DONE / ду дид дан /",
+                eng:"Tell me all three forms of the verb: ` делать `",
+                },
+                {
+                id:222,
+                ru:"DRIVE, DROVE, DRIVEN / дрАйв дроув дривн /",
+                eng:"Tell me all three forms of the verb: ` водить `",
+                },
+                {
+                id:223,
+                ru:"DRAW, DREW, DRAWN / дрО дрУ дроун /",
+                eng:"Tell me all three forms of the verb: ` рисовать `",
+                },
+                {
+                id:224,
+                ru:"DRINK, DRANK, DRUNK / дринк дрЭнк дрАнк /",
+                eng:"Tell me all three forms of the verb: ` пить `",
+                },
+                {
+                id:225,
+                ru:"EAT, ATE, EATEN / ит эйт Итн /",
+                eng:"Tell me all three forms of the verb: ` кушать `",
+                },
+                {
+                id:226,
+                ru:"FALL, FELL, FALLEN / фол фэл фОлэн /",
+                eng:"Tell me all three forms of the verb: ` падать `",
+                },
+                {
+                id:227,
+                ru:"FEED, FED, FED / фиД фэд фэд /",
+                eng:"Tell me all three forms of the verb: ` кормить `",
+                },
+                {
+                id:228,
+                ru:"FEEL, FELT, FELT / фил фэлт фэлт /",
+                eng:"Tell me all three forms of the verb: ` чувствовать `",
+                },
+                {
+                id:229,
+                ru:"FIGHT, FOUGHT, FOUGHT / фАйт фот фот /",
+                eng:"Tell me all three forms of the verb: ` сражаться `",
+                },
+                {
+                id:230,
+                ru:"FIND, FOUND, FOUND / фАйнд фАунд фАунд /",
+                eng:"Tell me all three forms of the verb: ` находить `",
+                },
+                {
+                id:231,
+                ru:"FLY, FLEW, FLOWN / флАй флу флОун /",
+                eng:"Tell me all three forms of the verb: ` летать `",
+                },
+                {
+                id:232,
+                ru:"FORBID, FORBADE, FORBIDDEN / фобИд фобЭйд фобИдэн /",
+                eng:"Tell me all three forms of the verb: ` запрещать `",
+                },
+                {
+                id:233,
+                ru:"FORGET, FORGOT, FORGOTTEN / фогОт фогОт фогОтэн /",
+                eng:"Tell me all three forms of the verb: ` забывать `",
+                },
+                {
+                id:234,
+                ru:"FORGIVE, FORGAVE, FORGIVEN / фогИв фогЕйв фогИвэн /",
+                eng:"Tell me all three forms of the verb: ` прощать `",
+                },
+                {
+                id:235,
+                ru:"FREEZE, FROZE, FROZEN / фриз фрОуз фрОузэн /",
+                eng:"Tell me all three forms of the verb: ` замерзать `",
+                },
+                {
+                id:236,
+                ru:"GROW, GREW, GROWN / грОу грУ грОун /",
+                eng:"Tell me all three forms of the verb: ` расти `",
+                },
+                {
+                id:237,
+                ru:"GET, GOT, GOT / гет гот гот /",
+                eng:"Tell me all three forms of the verb: ` получать `",
+                },
+                {
+                id:238,
+                ru:"GIVE, GAVE, GIVEN / гив гэйв гИвэн /",
+                eng:"Tell me all three forms of the verb: ` давать `",
+                },
+                {
+                id:239,
+                ru:"GO, WENT, GONE / гОУ уэнт ган /",
+                eng:"Tell me all three forms of the verb: ` ходить `",
+                },
+                {
+                id:240,
+                ru:"HAVE, HAD, HAD / хэв хэд хэд /",
+                eng:"Tell me all three forms of the verb: ` иметь `",
+                },
+                {
+                id:241,
+                ru:"HEAR, HEARD, HEARD / хИэ хёд хёд /",
+                eng:"Tell me all three forms of the verb: ` слышать `",
+                },
+                {
+                id:242,
+                ru:"HIDE, HID, HIDDEN / хайд хид хИддэн /",
+                eng:"Tell me all three forms of the verb: ` прятать `",
+                },
+                {
+                id:243,
+                ru:"HIT, HIT, HIT / хит хит хит /",
+                eng:"Tell me all three forms of the verb: ` ударять `",
+                },
+                {
+                id:244,
+                ru:"HURT, HURT, HURT / хЁрт хёрт хёрт /",
+                eng:"Tell me all three forms of the verb: ` причинять боль `",
+                },
+                {
+                id:245,
+                ru:"HOLD, HELD, HELD / хОулд хэлд хэлд /",
+                eng:"Tell me all three forms of the verb: ` держать `",
+                },
+                {
+                id:246,
+                ru:"KEEP, KEPT, KEPT / кип кэпт кэпт /",
+                eng:"Tell me all three forms of the verb: ` хранить `",
+                },
+                {
+                id:247,
+                ru:"KNOW, KNEW, KNOWN / нОу ню нОун /",
+                eng:"Tell me all three forms of the verb: ` знать `",
+                },
+                {
+                id:248,
+                ru:"LEAD, LED, LED / лид лэд лэд /",
+                eng:"Tell me all three forms of the verb: ` вести, приводить `",
+                },
+                {
+                id:249,
+                ru:"LEARN, LEARNT, LEARNT / лЁрн лёрнт лёрнт /",
+                eng:"Tell me all three forms of the verb: ` изучать `",
+                },
+                {
+                id:250,
+                ru:"LEAVE, LEFT, LEFT / лив лЭфт лЭфт /",
+                eng:"Tell me all three forms of the verb: ` покидать `",
+                },
+                {
+                id:251,
+                ru:"LEND, LENT, LENT / лЭнд лэнт лэнт /",
+                eng:"Tell me all three forms of the verb: ` давать в долг `",
+                },
+                {
+                id:252,
+                ru:"LET, LET, LET / лЭт лэт лэт /",
+                eng:"Tell me all three forms of the verb: ` позволять `",
+                },
+                {
+                id:253,
+                ru:"LOSE, LOST, LOST / лУз лост лост /",
+                eng:"Tell me all three forms of the verb: ` терять `",
+                },
+                {
+                id:254,
+                ru:"TELL A LIE, TOLD A LIE, TOLD A LIE / тэл э лай толд э лай толд э лай /",
+                eng:"Tell me all three forms of the verb: ` говорить ложь `",
+                },
+                {
+                id:255,
+                ru:"LIE, LAY, LAIN / лай лэй лЭйн /",
+                eng:"Tell me all three forms of the verb: ` лежать `",
+                },
+                {
+                id:256,
+                ru:"MAKE, MADE, MADE / мЭйк мэйд мэйд /",
+                eng:"Tell me all three forms of the verb: ` создавать `",
+                },
+                {
+                id:257,
+                ru:"MEAN, MEANT, MEANT / мИн мэнт мэнт /",
+                eng:"Tell me all three forms of the verb: ` иметь ввиду `",
+                },
+                {
+                id:258,
+                ru:"MEET, MET, MET / мит мэт мэт /",
+                eng:"Tell me all three forms of the verb: ` встречать(ся) `",
+                },
+                {
+                id:259,
+                ru:"PAY, PAID, PAID / пЭй пэйд пэйд /",
+                eng:"Tell me all three forms of the verb: ` платить `",
+                },
+                {
+                id:260,
+                ru:"PUT, PUT, PUT / пУт пут пут /",
+                eng:"Tell me all three forms of the verb: ` класть `",
+                },
+                {
+                id:261,
+                ru:"READ, READ, READ / рИд рЭд рЭд /",
+                eng:"Tell me all three forms of the verb: ` читать `",
+                },
+                {
+                id:262,
+                ru:"RIDE, RODE, RIDDEN / рАйд роуд рИддэн /",
+                eng:"Tell me all three forms of the verb: ` ездить верхом `",
+                },
+                {
+                id:263,
+                ru:"RING, RANG, RUNG / рИн рэн ран /",
+                eng:"Tell me all three forms of the verb: ` звенеть, звонить `",
+                },
+                {
+                id:264,
+                ru:"RUN, RAN, RUN / рАн рэн ран /",
+                eng:"Tell me all three forms of the verb: ` бегать `",
+                },
+                {
+                id:265,
+                ru:"RISE, ROSE, RISEN / рАйз роуз рИzэн /",
+                eng:"Tell me all three forms of the verb: ` подниматься `",
+                },
+                {
+                id:266,
+                ru:"SAY, SAID, SAID / сЭй сЭд сЭд /",
+                eng:"Tell me all three forms of the verb: ` сказать, произнести `",
+                },
+                {
+                id:267,
+                ru:"SEE, SAW, SEEN / си со син /",
+                eng:"Tell me all three forms of the verb: ` увидеть `",
+                },
+                {
+                id:268,
+                ru:"SELL, SOLD, SOLD / сЭл солд солд /",
+                eng:"Tell me all three forms of the verb: ` продавать `",
+                },
+                {
+                id:269,
+                ru:"SEND, SENT, SENT / сэнД сэнт сэнт /",
+                eng:"Tell me all three forms of the verb: ` отправлять `",
+                },
+                {
+                id:270,
+                ru:"SHAKE, SHOOK, SHAKEN / шЭйк шук шэйкэн /",
+                eng:"Tell me all three forms of the verb: ` трясти `",
+                },
+                {
+                id:271,
+                ru:"SHOOT, SHOT, SHOT / шУт шот шот /",
+                eng:"Tell me all three forms of the verb: ` стрелять `",
+                },
+                {
+                id:272,
+                ru:"SHUT, SHUT, SHUT / щАт щат щат /",
+                eng:"Tell me all three forms of the verb: ` захлопнуть `",
+                },
+                {
+                id:273,
+                ru:"SING, SANG, SUNG / сИн сэн сэн /",
+                eng:"Tell me all three forms of the verb: ` петь `",
+                },
+                {
+                id:274,
+                ru:"SINK, SANK, SUNK / синк сэнк сэнк /",
+                eng:"Tell me all three forms of the verb: ` затонуть `",
+                },
+                {
+                id:275,
+                ru:"SIT, SAT, SAT / сит сэт сэт /",
+                eng:"Tell me all three forms of the verb: ` сидеть `",
+                },
+                {
+                id:276,
+                ru:"SLEEP, SLEPT, SLEPT / слИп слэпт слэпт /",
+                eng:"Tell me all three forms of the verb: ` спать `",
+                },
+                {
+                id:277,
+                ru:"SLIDE, SLID, SLID / слайд слид слид /",
+                eng:"Tell me all three forms of the verb: ` скользить `",
+                },
+                {
+                id:278,
+                ru:"SPEAK, SPOKE, SPOKEN / спИк споук споукэн /",
+                eng:"Tell me all three forms of the verb: ` разговаривать `",
+                },
+                {
+                id:279,
+                ru:"SPEND, SPENT, SPENT / спЭнд спэнт спэнт /",
+                eng:"Tell me all three forms of the verb: ` тратить `",
+                },
+                {
+                id:280,
+                ru:"SPIT, SPAT, SPAT / спИт спэт спэт /",
+                eng:"Tell me all three forms of the verb: ` плеваться `",
+                },
+                {
+                id:281,
+                ru:"STAND, STOOD, STOOD / стЭнд студ студ /",
+                eng:"Tell me all three forms of the verb: ` встать, стоять `",
+                },
+                {
+                id:282,
+                ru:"STEAL, STOLE, STOLEN / стИл стоул стОулэн /",
+                eng:"Tell me all three forms of the verb: ` воровать `",
+                },
+                {
+                id:283,
+                ru:"STICK, STUCK, STUCK / стик стак стак /",
+                eng:"Tell me all three forms of the verb: ` приклеить, застрять  `",
+                },
+                {
+                id:284,
+                ru:"STINK, STANK, STUNK / стинк стэнк станк /",
+                eng:"Tell me all three forms of the verb: ` вонять `",
+                },
+                {
+                id:285,
+                ru:"STRIKE, STRUCK, STRUCK / стрАйк страк страк /",
+                eng:"Tell me all three forms of the verb: ` ударять `",
+                },
+                {
+                id:286,
+                ru:"SWEAR, SWORE, SWORN / суЭа сво сворн /",
+                eng:"Tell me all three forms of the verb: ` клясться, материться  `",
+                },
+                {
+                id:287,
+                ru:"SWEEP, SWEPT, SWEPT / свип свэпт свэпт /",
+                eng:"Tell me all three forms of the verb: ` подметать `",
+                },
+                {
+                id:288,
+                ru:"SWIM, SWAM, SWUM / свим свэм свам /",
+                eng:"Tell me all three forms of the verb: ` плавать `",
+                },
+                {
+                id:289,
+                ru:"SWING, SWUNG, SWUNG / свИн сван сван /",
+                eng:"Tell me all three forms of the verb: ` качаться `",
+                },
+                {
+                id:290,
+                ru:"TAKE, TOOK, TAKEN / тЭйк тук тЭйкэн /",
+                eng:"Tell me all three forms of the verb: ` брать `",
+                },
+                {
+                id:291,
+                ru:"TEACH, TAUGHT, TAUGHT / тИч тот тот /",
+                eng:"Tell me all three forms of the verb: ` обучать `",
+                },
+                {
+                id:292,
+                ru:"TEAR, TORE, TORN / тЭа то торн /",
+                eng:"Tell me all three forms of the verb: ` порвать `",
+                },
+                {
+                id:293,
+                ru:"TELL, TOLD, TOLD / тЭл тОлд толд /",
+                eng:"Tell me all three forms of the verb: ` рассказывать `",
+                },
+                {
+                id:294,
+                ru:"THINK, THOUGHT, THOUGHT / thЫНК thОт thОт /",
+                eng:"Tell me all three forms of the verb: ` думать `",
+                },
+                {
+                id:295,
+                ru:"THROW, THREW, THROWN / thрОу thру thрОун /",
+                eng:"Tell me all three forms of the verb: ` бросать `",
+                },
+                {
+                id:296,
+                ru:"UNDERSTAND, UNDERSTOOD, UNDERSTOOD / андэстЭнд андэстУд андэстУд /",
+                eng:"Tell me all three forms of the verb: ` понимать `",
+                },
+                {
+                id:297,
+                ru:"WAKE UP, WOKE UP, WOKEN UP / уЭйк ап уОук ап уОукэн ап /",
+                eng:"Tell me all three forms of the verb: ` просыпаться `",
+                },
+                {
+                id:298,
+                ru:"WEAR, WORE, WORN / уЭа уо уорн /",
+                eng:"Tell me all three forms of the verb: ` носить одежду `",
+                },
+                {
+                id:299,
+                ru:"WRITE, WROTE, WRITTEN / рАйт рОут рИтэн /",
+                eng:"Tell me all three forms of the verb: ` писАть `",
+                },
+                {
+                id:300,
+                ru:"WEEP, WEPT, WEPT / уИп уЭпт уЭпт /",
+                eng:"Tell me all three forms of the verb: ` хныкать `",
+                },
+                {
+                id:301,
+                ru:"WIN, WON, WON / уИн уан или уон уан или уон /",
+                eng:"Tell me all three forms of the verb: ` выигрывать `",
+                },
+                {
+                id:302,
+                ru:"MISUNDERSTAND, MISUNDERSTOOD, MISUNDERSTOOD / мисандэстЭнд мисандэстУд мисандэстУд /",
+                eng:"Tell me all three forms of the verb: ` неправильно понять `",
+                },
+                {
+                id:303,
+                ru:"MISSPELL, MISSPELT, MISSPELT / миспЭл миспЛлт миспЛлт /",
+                eng:"Tell me all three forms of the verb: ` неправильно написать `",
+                },
+                {
+                id:304,
+                ru:"MISTAKE, MISTOOK, MISTAKEN / мистЭйк мистук мистук /",
+                eng:"Tell me all three forms of the verb: ` ошибаться `",
+                },
+                {
+                id:305,
+                ru:"MISHEAR, MISHEARD, MISHEARD / мисхИа мисхёд мисхёд /",
+                eng:"Tell me all three forms of the verb: ` неправильно услышать `",
+                },
+                {
+                id:306,
+                ru:"OVERSLEEP, OVERSLEPT, OVERSLEPT / оУвэслип оУвэслэпт оУвэслэпт /",
+                eng:"Tell me all three forms of the verb: ` проспать `",
+                },
+                {
+                id:307,
+                ru:"OVEREAT, OVERATE, OVEREATEN / оУвэИт оУвэЭйт оУвэИтэн /",
+                eng:"Tell me all three forms of the verb: ` переесть  `",
+                },
+                {
+                id:308,
+                ru:"OVERPAY, OVERPAID, OVERPAID / оУвэпЭй оУвэпЭйд оУвэпЭйд /",
+                eng:"Tell me all three forms of the verb: ` переплатить `",
+                },
+                {
+                id:309,
+                ru:"ARISE, AROSE, ARISEN / эрАйз эрОуз эрИзн /",
+                eng:"Tell me all three forms of the verb: ` возникнуть `",
+                },
+                {
+                id:310,
+                ru:"AWAKE, AWOKE, AWOKEN / эуЭйк эвОук эвОукэн /",
+                eng:"Tell me all three forms of the verb: ` пробудиться `",
+                },
+                {
+                id:311,
+                ru:"ABIDE, ABODE, ABIDDEN / эбАйд эбОуд эбИдэн /",
+                eng:"Tell me all three forms of the verb: ` соблюдать пребывать обитать `",
+                },
+    ],
+    naughtyVerbsQuestionsAll: [
+        {
+            id:1,
+            eng:"What did you break last week? Or maybe last month?",
+            ru:"Что ты разбил на прошлой неделе? Или может в прошлом месяце?"
+            },
+            {
+            id:2,
+            eng:"Why did you break the window of Vincent's car?",
+            ru:"Почему ты разбил окно в машине Винсента?"
+            },
+            {
+            id:3,
+            eng:"Why did your teacher break your phone?",
+            ru:"Почему твой учитель разбил твой телефон?"
+            },
+            {
+            id:4,
+            eng:"What rules of the discipline did you break at school?",
+            ru:"Какие правила дисциплины ты нарушил в школе?"
+            },
+            {
+            id:5,
+            eng:"Did you break your teacher's phone or somebody else broke it?",
+            ru:"Ты разбил телефон своего учителя или кто-то другой его разбил?"
+            },
+            {
+            id:6,
+            eng:"How often does your car break?",
+            ru:"Как часто ломается ваш автомобиль? "
+            },
+            {
+            id:7,
+            eng:"How often do you break something?",
+            ru:"Как часто вы что-то ломаете? "
+            },
+            {
+            id:8,
+            eng:"Does the screen on your phone break sometimes?",
+            ru:"Экран на вашем телефоне разбивается иногда? "
+            },
+            {
+            id:9,
+            eng:"Is the screen of your phone broken now?",
+            ru:"Сломан ли сейчас экран вашего телефона? "
+            },
+            {
+            id:10,
+            eng:"How can I fix a broken screen on my phone?",
+            ru:"Как я могу починить сломанный экран на телефоне?"
+            },
+            {
+            id:11,
+            eng:"Did you break any parts of your body in childhood?",
+            ru:"Ты ломал какие-либо части своего тела в детстве?"
+            },
+            {
+            id:12,
+            eng:"Did you break any things at home or at work?",
+            ru:"Ты ломал что-нибудь дома или на работе?"
+            },
+            {
+            id:13,
+            eng:"How do you feel if somebody breaks your things?",
+            ru:"Как ты чувствуешь себя, если кто-то ломает твои вещи?"
+            },
+            {
+            id:14,
+            eng:"Is anything broken at your house now?",
+            ru:"Что-нибудь из вещей сломано у вас дома сейчас? "
+            },
+            {
+            id:15,
+            eng:"What things are easy to break?",
+            ru:"Какие вещи легко ломаются?"
+            },
+            {
+            id:16,
+            eng:"Who did you beat in the tennis tournament last weekend?",
+            ru:"Кого ты победил в теннисном турнире на прошлых выходных?"
+            },
+            {
+            id:17,
+            eng:"Why did you beat your teacher?",
+            ru:"Почему ты избил своего учителя?"
+            },
+            {
+            id:18,
+            eng:"What was the highest score you ever beat in that game?",
+            ru:"Какой самый высокий счёт ты когда-либо побеждал в этой игре?"
+            },
+            {
+            id:19,
+            eng:"Did you beat anybody at chess or any othe board games?",
+            ru:"Ты побеждал кого-нибудь в шахматы или другие настольные игры?"
+            },
+            {
+            id:20,
+            eng:"Who did you want to become when you studied at school?",
+            ru:"Кем ты хотел стать, когда учился в школе?"
+            },
+            {
+            id:21,
+            eng:"Who became the new president of your country last elections?",
+            ru:"Кто стал новым президентом твоей страны на последних выборах?"
+            },
+            {
+            id:22,
+            eng:"How did you become the best student in the classrom?",
+            ru:"Как ты стал лучшим учеником в классе?"
+            },
+            {
+            id:23,
+            eng:"Why do some people become vegetarians?",
+            ru:"Почему некоторые люди становятся вегетарианцами?"
+            },
+            {
+            id:24,
+            eng:"How did you become so strong?",
+            ru:"Как ты стал таким сильным?"
+            },
+            {
+            id:25,
+            eng:"How do you like to begin your day?",
+            ru:"Как тебе нравится начинать свой день?"
+            },
+            {
+            id:26,
+            eng:"What new hobby did you begin?",
+            ru:"Какое новое хобби ты начал?"
+            },
+            {
+            id:27,
+            eng:"What movie or a tv-series you recommend me to begin to watch?",
+            ru:"Какой фильм или сериал ты порекомендуешь мне начать смотреть?"
+            },
+            {
+            id:28,
+            eng:"Why did you begin to study English?",
+            ru:"Почему ты начал учить английский?"
+            },
+            {
+            id:29,
+            eng:"When did you begin your YouTube channel?",
+            ru:"Когда ты начал свой канал на YouTube?"
+            },
+            {
+            id:30,
+            eng:"When did you begin to learn English?",
+            ru:"Когда ты начал изучать английский?"
+            },
+            {
+            id:31,
+            eng:"Is it hard for you to begin something new?",
+            ru:"Тяжело ли для тебя начинать что-то новое?"
+            },
+            {
+            id:32,
+            eng:"What hobby did you begin the last?",
+            ru:"Какое хобби ты начал последнее?"
+            },
+            {
+            id:33,
+            eng:"Do you have any special traditions to begin the year?",
+            ru:"У тебя есть какие-то особенные традиции, чтобы начать новый год?"
+            },
+            {
+            id:34,
+            eng:"Can you blow the air from your mouth and from your nose at the same time?",
+            ru:"Можешь ли ты дуть воздух изо рта и из носа одновременно?"
+            },
+            {
+            id:35,
+            eng:"When did the very strong wind blow?",
+            ru:"Когда дул очень сильный ветер?"
+            },
+            {
+            id:36,
+            eng:"Can you whistle? Show me if you can. I can only blow air but without a sound",
+            ru:"Умеешь ли ты свистеть? Покажи мне, если умеешь. Я могу только дуть воздух, но без звука."
+            },
+            {
+            id:37,
+            eng:"How many candles on a cake can you blow out at once?",
+            ru:"Сколько свечей на торте ты можешь задуть за один раз?"
+            },
+            {
+            id:38,
+            eng:"Do people need to make a wish first and then  blow out the candles on a cake? Or do we blow first and then we make a wish?",
+            ru:"Нужно ли людям сначала загадывать желание, а потом задувать свечи на торте? Или мы сначала задуваем, а потом загадываем желание?"
+            },
+            {
+            id:39,
+            eng:"Did you blow balloons for a party? What party was it?",
+            ru:"Надувал ли ты шарики для вечеринки? Что это была за вечеринка?"
+            },
+            {
+            id:40,
+            eng:"What do we have to do, to stop the fire on a candle ? /кэндл/ свеча ",
+            ru:"Что нужно сделать, чтобы погасить огонь на свече?"
+            },
+            {
+            id:41,
+            eng:"What did you borrow from your friends? Or maybe they borrowed something from you?",
+            ru:"Что ты брал взаймы у своих друзей? Или, может быть, они что-то брали взаймы у тебя?"
+            },
+            {
+            id:42,
+            eng:"Why is it not good to borrow money from friends?",
+            ru:"Почему нехорошо занимать деньги в долг у друзей?"
+            },
+            {
+            id:43,
+            eng:"If a friend wants to borrrow money from you… Will you give her some money?",
+            ru:"Если друг захочет взять у тебя деньги в долг… Дашь ли ты ему денег?"
+            },
+            {
+            id:44,
+            eng:"Why do people borrow money from the bank?",
+            ru:"Почему люди занимают деньги в долг в банке?"
+            },
+            {
+            id:45,
+            eng:"Do you have any assosiation with the verb BORROW ?",
+            ru:"Есть ли у тебя какие-то ассоциации со словом ЗАНИМАТЬ?"
+            },
+            {
+            id:46,
+            eng:"What did you build with your father in childhood?",
+            ru:"Что ты построил с отцом в детстве?"
+            },
+            {
+            id:47,
+            eng:"Who is the builder of your house?",
+            ru:"Кто строитель твоего дома?"
+            },
+            {
+            id:48,
+            eng:"What was the last thing you built with Legos?",
+            ru:"Что последнее ты построил из Лего?"
+            },
+            {
+            id:49,
+            eng:"Did you build a birdhouse?",
+            ru:"Строил ли ты скворечник?"
+            },
+            {
+            id:50,
+            eng:"Tell me some names of people who built big companies.",
+            ru:"Назови имена людей, которые построили крупные компании."
+            },
+            {
+            id:51,
+            eng:"Do you like to build something from LEGO?",
+            ru:"Тебе нравится что-то строить из LEGO?"
+            },
+            {
+            id:52,
+            eng:"Did you build anything?",
+            ru:"Вы что-нибудь построили?"
+            },
+            {
+            id:53,
+            eng:"What do you think about body-building?",
+            ru:"Что ты думаешь о бодибилдинге?"
+            },
+            {
+            id:54,
+            eng:"Do you want to buy or build a house for your family?",
+            ru:"Ты хочешь купить или построить дом для своей семьи?"
+            },
+            {
+            id:55,
+            eng:"Did you build a house on a tree in childhood?",
+            ru:"Ты строил дом на дереве в детстве?"
+            },
+            {
+            id:56,
+            eng:"When did you buy your phone?",
+            ru:"Когда вы купили свой телефон? "
+            },
+            {
+            id:57,
+            eng:"What did you buy at the shop yesterday?",
+            ru:"Что ты купил в магазине вчера?"
+            },
+            {
+            id:58,
+            eng:"Why do people buy lottery tickets?",
+            ru:"Почему или зачем люди покупают лотерейные билеты?"
+            },
+            {
+            id:59,
+            eng:"How much money do I need to buy a house?",
+            ru:"Сколько денег нужно, чтобы купитьдом?"
+            },
+            {
+            id:60,
+            eng:"What do you really want to buy?",
+            ru:"Что вы очень прям хотите купить? "
+            },
+            {
+            id:61,
+            eng:"Did you buy your phone or maybe somebody bought it for you?",
+            ru:"Вы купили свой телефон или, может быть, кто-то купил его для вас? "
+            },
+            {
+            id:62,
+            eng:"Did you buy food yesterday?",
+            ru:"Вы покупали еду вчера?"
+            },
+            {
+            id:63,
+            eng:"Tell me about a time when you saved money to buy something special?",
+            ru:"Расскажи мне о случае, когда ты копил деньги, чтобы купить что-то особенное?"
+            },
+            {
+            id:64,
+            eng:"Name 3 things (that) you bought last week",
+            ru:"Назови 3 вещи, которые ты купил на прошлой неделе."
+            },
+            {
+            id:65,
+            eng:"Do you sometimes burn food when you cook?",
+            ru:"Ты иногда сжигаешь еду, когда готовишь?"
+            },
+            {
+            id:66,
+            eng:"Did you burn sausages on grill?",
+            ru:"Ты сжигал сосиски на гриле?"
+            },
+            {
+            id:67,
+            eng:"Why do people burn clothes sometimes?",
+            ru:"Почему люди иногда сжигают одежду?"
+            },
+            {
+            id:68,
+            eng:"Did you burn your hand when you cooked food?",
+            ru:"Ты обжёг руку, когда готовил еду?"
+            },
+            {
+            id:69,
+            eng:"When was the last time you burnt a match? /мэч/ спичка",
+            ru:"Когда ты последний раз поджигал спичку?"
+            },
+            {
+            id:70,
+            eng:"Do you like to burn marshmallows over a campfire?",
+            ru:"Тебе нравится жарить зефир над костром?"
+            },
+            {
+            id:71,
+            eng:"Can you name 5 things that people can burn?",
+            ru:"Можешь ли назвать 5 вещей, которые люди могут поджигать?"
+            },
+            {
+            id:72,
+            eng:"Did you drink the energy drink that has a name “Burn”? If yes - Did you like it?",
+            ru:"Ты пил энергетический напиток с названием 'Burn'? Если да - тебе он понравился?"
+            },
+            {
+            id:73,
+            eng:"What can happen with paper when you bring it to fire? ",
+            ru:"Что может произойти с бумагой, когда ты подносишь ее к огню?"
+            },
+            {
+            id:74,
+            eng:"Did you burn anything when you cooked?",
+            ru:"Ты что-нибудь сжигал, когда готовил еду?"
+            },
+            {
+            id:75,
+            eng:"Do you like the atmosphere when candles burn /кЭндлz/  свечи",
+            ru:"Тебе нравится атмосфера, когда горят свечи?"
+            },
+            {
+            id:76,
+            eng:"What do you bring to the party usually? Food or drinks?",
+            ru:"Что вы обычно приносите на вечеринку? Еду или напитки?"
+            },
+            {
+            id:77,
+            eng:"What do you have to bring with you when you go camping? ",
+            ru:"Что ты должен взять с собой, когда идешь в поход?"
+            },
+            {
+            id:78,
+            eng:"What do people usually bring when they come back home from other countries?",
+            ru:"Что обычно люди привозят с собой, когда возвращаются домой из других стран?"
+            },
+            {
+            id:79,
+            eng:"Did you bring animals to your house from the streets?",
+            ru:"Ты приносил животных с улицы к себе домой?"
+            },
+            {
+            id:80,
+            eng:"Do you like when people bring cakes to your birthday? What cakes do you like?",
+            ru:"Тебе нравится, когда люди приносят торты? Какой торт тебе нравится?"
+            },
+            {
+            id:81,
+            eng:"Were you a good child or a naughty child?",
+            ru:"Ты был хорошим ребёнком или непослушным?"
+            },
+            {
+            id:82,
+            eng:"Where were you yesterday?",
+            ru:"Где ты был вчера?"
+            },
+            {
+            id:83,
+            eng:"Why were you angry yesterday?",
+            ru:"Почему ты был зол вчера?"
+            },
+            {
+            id:84,
+            eng:"How old were you last year?",
+            ru:"Сколько тебе было лет в прошлом году?"
+            },
+            {
+            id:85,
+            eng:"When was your last birthday? What day of the week was it?",
+            ru:""
+            },
+            {
+            id:86,
+            eng:"When you are in the process of thinking… do you bite your nails?",
+            ru:"Когда ты думаешь… ты грызёшь ногти?"
+            },
+            {
+            id:87,
+            eng:"Do you bite your nails when you are nervous?",
+            ru:"Ты грызёшь ногти, когда нервничаешь?"
+            },
+            {
+            id:88,
+            eng:"What's your favorite food to bite?",
+            ru:"Что тебе больше всего нравится кусать из еды?"
+            },
+            {
+            id:89,
+            eng:"Do you sometimes bite your tongue when you eat?",
+            ru:"Do you sometimes bite your tongue / тан / ( язык ) when you eat something?"
+            },
+            {
+            id:90,
+            eng:"When did you bite your tongue the last time?",
+            ru:"Когда ты в последний раз прикусывал язык?"
+            },
+            {
+            id:91,
+            eng:"Do you like when children play with you and bite you?",
+            ru:"Тебе нравится, когда дети играют с тобой и кусают?"
+            },
+            {
+            id:92,
+            eng:"Do you know anybody who bites their nails?",
+            ru:"Ты знаешь кого-то, кто грызет ногти?"
+            },
+            {
+            id:93,
+            eng:"Can you bite your elbow? /Элбоу/",
+            ru:"Можешь ли ты укусить локоть?"
+            },
     ],
     naughtyVerbsBquestions: [
         {

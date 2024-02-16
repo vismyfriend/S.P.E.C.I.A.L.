@@ -2907,7 +2907,7 @@ const quizQuesstionsList = {
             ]
             },
     ],
-    m005: [
+    m004: [
         {
             id: 1,
             quizQuestion: "Как на английском сказать: Я",
@@ -2936,312 +2936,312 @@ const quizQuesstionsList = {
             },
             {
             id: 2,
-            quizQuestion: "Как на английском сказать: ты или вы",
+            quizQuestion: "В косых скобках: / А / написано произношение одной из букв английского алфавита. Что же это за буква, которая произносится / А / ?",
             answers: [
             {
-            answer: "you",
+            answer: "R",
             correct: true
             },
             {
-            answer: "ti",
+            answer: "A",
             correct: false
             },
             {
-            answer: "we",
+            answer: "U",
             correct: false
             },
             {
-            answer: "they",
+            answer: "i",
             correct: false
             },
             {
-            answer: "our",
+            answer: "Y",
             correct: false
             },
             ]
             },
             {
             id: 3,
-            quizQuestion: "Как на английском сказать: мы",
+            quizQuestion: "Twelve это",
             answers: [
             {
-            answer: "we",
+            answer: "12",
             correct: true
             },
             {
-            answer: "they",
+            answer: "20",
             correct: false
             },
             {
-            answer: "our",
+            answer: "21",
             correct: false
             },
             {
-            answer: "mi",
+            answer: "22",
             correct: false
             },
             {
-            answer: "you",
+            answer: "222",
             correct: false
             },
             ]
             },
             {
             id: 4,
-            quizQuestion: "Как на английском сказать: они",
+            quizQuestion: "Twenty это",
             answers: [
             {
-            answer: "they",
+            answer: "20",
             correct: true
             },
             {
-            answer: "we",
+            answer: "12",
             correct: false
             },
             {
-            answer: "our",
+            answer: "202",
             correct: false
             },
             {
-            answer: "your",
+            answer: "22",
             correct: false
             },
             {
-            answer: "him",
+            answer: "2",
             correct: false
             },
             ]
             },
             {
             id: 5,
-            quizQuestion: "Как на английском сказать: он",
+            quizQuestion: "Айфон и Айндроид это",
             answers: [
             {
-            answer: "he",
+            answer: "they",
             correct: true
             },
             {
-            answer: "his",
-            correct: false
-            },
-            {
-            answer: "him",
-            correct: false
-            },
-            {
-            answer: "her",
+            answer: "he",
             correct: false
             },
             {
             answer: "she",
+            correct: false
+            },
+            {
+            answer: "we",
+            correct: false
+            },
+            {
+            answer: "I have",
             correct: false
             },
             ]
             },
             {
             id: 6,
-            quizQuestion: "Как на английском сказать: она",
+            quizQuestion: "Восемь на английском это",
             answers: [
             {
-            answer: "she",
+            answer: "eight",
             correct: true
             },
             {
-            answer: "he",
+            answer: "nine",
             correct: false
             },
             {
-            answer: "her",
+            answer: "eleven",
             correct: false
             },
             {
-            answer: "his",
+            answer: "twelve",
             correct: false
             },
             {
-            answer: "girl",
+            answer: "twenty",
             correct: false
             },
             ]
             },
             {
             id: 7,
-            quizQuestion: "Как на английском сказать: это",
+            quizQuestion: "Девять на английском это",
             answers: [
             {
-            answer: "it",
+            answer: "nine",
             correct: true
             },
             {
-            answer: "he",
+            answer: "eight",
             correct: false
             },
             {
-            answer: "she",
+            answer: "dievьять",
             correct: false
             },
             {
-            answer: "eto",
+            answer: "twelve",
             correct: false
             },
             {
-            answer: "they",
+            answer: "twenty",
             correct: false
             },
             ]
             },
             {
             id: 8,
-            quizQuestion: "Как на английском сказать: мой, моя, мои, моё",
+            quizQuestion: "Как на английском произносится местоимение: 'Вы' ?",
             answers: [
             {
-            answer: "my",
+            answer: "/ю/",
             correct: true
             },
             {
-            answer: "mai",
+            answer: "/уи/",
             correct: false
             },
             {
-            answer: "me",
+            answer: "/дэй/",
             correct: false
             },
             {
-            answer: "moy",
+            answer: "/ё/",
             correct: false
             },
             {
-            answer: "mi",
+            answer: "/йо/",
             correct: false
             },
             ]
             },
             {
             id: 9,
-            quizQuestion: "Как на английском сказать: его пёс",
+            quizQuestion: "Как на английском произносится местоимение: 'Мы' ?",
             answers: [
             {
-            answer: "his dog",
+            answer: "/уи/",
             correct: true
             },
             {
-            answer: "her dog",
+            answer: "/вы/",
             correct: false
             },
             {
-            answer: "him dog",
+            answer: "/ми/",
             correct: false
             },
             {
-            answer: "she dog",
+            answer: "/ауа/",
             correct: false
             },
             {
-            answer: "he dog",
+            answer: "/дэй/",
             correct: false
             },
             ]
             },
             {
             id: 10,
-            quizQuestion: "Как на английском сказать: её",
+            quizQuestion: "Как на английском произносится местоимение: 'Он' ?",
             answers: [
             {
-            answer: "her",
+            answer: "/хи/",
             correct: true
             },
             {
-            answer: "his",
+            answer: "/щи/",
             correct: false
             },
             {
-            answer: "her",
+            answer: "/уи/",
             correct: false
             },
             {
-            answer: "him",
+            answer: "/дэй/",
             correct: false
             },
             {
-            answer: "she",
+            answer: "/дыс/",
             correct: false
             },
             ]
             },
             {
             id: 11,
-            quizQuestion: "Как на английском сказать: наш, наша, наше, наши",
+            quizQuestion: "Как на английском произносится местоимение: 'Она' ?",
             answers: [
             {
-            answer: "our",
+            answer: "/щи/",
             correct: true
             },
             {
-            answer: "their",
+            answer: "/щит/",
             correct: false
             },
             {
-            answer: "your",
+            answer: "/хи/",
             correct: false
             },
             {
-            answer: "my",
+            answer: "/хё/",
             correct: false
             },
             {
-            answer: "hour",
+            answer: "/гёрл/",
             correct: false
             },
             ]
             },
             {
             id: 12,
-            quizQuestion: "Как на английском сказать: твой, твоё, твоя, ваш, ваше, ваша, ваши, твои",
+            quizQuestion: "Как на английском произносится местоимение: 'Они' ?",
             answers: [
             {
-            answer: "your",
+            answer: "/дэй/",
             correct: true
             },
             {
-            answer: "their",
+            answer: "/дэм/",
             correct: false
             },
             {
-            answer: "you",
+            answer: "/дей/",
             correct: false
             },
             {
-            answer: "our",
+            answer: "/дэир/",
             correct: false
             },
             {
-            answer: "tvoy",
+            answer: "/зум/",
             correct: false
             },
             ]
             },
             {
             id: 13,
-            quizQuestion: "Как на английском сказать: их",
+            quizQuestion: "Как на английском произносится местоимение: 'Оно или это' ?",
             answers: [
             {
-            answer: "their /дэир/",
+            answer: "/ит/",
             correct: true
             },
             {
-            answer: "them /дэм/",
+            answer: "/щит/",
             correct: false
             },
             {
-            answer: "that /дэт/",
+            answer: "/ано/",
             correct: false
             },
             {
-            answer: "this /дыС/",
+            answer: "/оно/",
             correct: false
             },
             {
-            answer: "these /дыЗ/",
+            answer: "/ви/",
             correct: false
             },
             ]
@@ -3274,214 +3274,6 @@ const quizQuesstionsList = {
             },
             {
             id: 15,
-            quizQuestion: "Как на английском произносится местоимение: 'Вы' ?",
-            answers: [
-            {
-            answer: "/ю/",
-            correct: true
-            },
-            {
-            answer: "/уи/",
-            correct: false
-            },
-            {
-            answer: "/дэй/",
-            correct: false
-            },
-            {
-            answer: "/ё/",
-            correct: false
-            },
-            {
-            answer: "/йо/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 16,
-            quizQuestion: "Как на английском произносится местоимение: 'Она' ?",
-            answers: [
-            {
-            answer: "/щи/",
-            correct: true
-            },
-            {
-            answer: "/щит/",
-            correct: false
-            },
-            {
-            answer: "/хи/",
-            correct: false
-            },
-            {
-            answer: "/хё/",
-            correct: false
-            },
-            {
-            answer: "/гёрл/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 17,
-            quizQuestion: "Как на английском произносится местоимение: 'Он' ?",
-            answers: [
-            {
-            answer: "/хи/",
-            correct: true
-            },
-            {
-            answer: "/щи/",
-            correct: false
-            },
-            {
-            answer: "/уи/",
-            correct: false
-            },
-            {
-            answer: "/дэй/",
-            correct: false
-            },
-            {
-            answer: "/дыс/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 18,
-            quizQuestion: "Как на английском произносится местоимение: 'Мы' ?",
-            answers: [
-            {
-            answer: "/уи/",
-            correct: true
-            },
-            {
-            answer: "/вы/",
-            correct: false
-            },
-            {
-            answer: "/ми/",
-            correct: false
-            },
-            {
-            answer: "/ауа/",
-            correct: false
-            },
-            {
-            answer: "/дэй/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 19,
-            quizQuestion: "Как на английском произносится указательное местоимение: 'Вот этот' ?",
-            answers: [
-            {
-            answer: "/дыс/",
-            correct: true
-            },
-            {
-            answer: "/дэт/",
-            correct: false
-            },
-            {
-            answer: "/дат/",
-            correct: false
-            },
-            {
-            answer: "/дэм/",
-            correct: false
-            },
-            {
-            answer: "/доуз/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 20,
-            quizQuestion: "Как на английском произносится местоимение: 'Оно или это' ?",
-            answers: [
-            {
-            answer: "/ит/",
-            correct: true
-            },
-            {
-            answer: "/щит/",
-            correct: false
-            },
-            {
-            answer: "/ано/",
-            correct: false
-            },
-            {
-            answer: "/оно/",
-            correct: false
-            },
-            {
-            answer: "/ви/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 21,
-            quizQuestion: "Как на английском произносится местоимение: 'Они' ?",
-            answers: [
-            {
-            answer: "/дэй/",
-            correct: true
-            },
-            {
-            answer: "/дэм/",
-            correct: false
-            },
-            {
-            answer: "/дей/",
-            correct: false
-            },
-            {
-            answer: "/дэир/",
-            correct: false
-            },
-            {
-            answer: "/зум/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 22,
-            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Наш' ?",
-            answers: [
-            {
-            answer: "/ауа/",
-            correct: true
-            },
-            {
-            answer: "/маё/",
-            correct: false
-            },
-            {
-            answer: "/аур/",
-            correct: false
-            },
-            {
-            answer: "/оур/",
-            correct: false
-            },
-            {
-            answer: "/аригато/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 23,
             quizQuestion: "Как на английском произносится притяжательное местоимение: 'Ваш' ?",
             answers: [
             {
@@ -3507,85 +3299,7 @@ const quizQuesstionsList = {
             ]
             },
             {
-            id: 24,
-            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Её' ?",
-            answers: [
-            {
-            answer: "/хё/",
-            correct: true
-            },
-            {
-            answer: "/щи/",
-            correct: false
-            },
-            {
-            answer: "/щит/",
-            correct: false
-            },
-            {
-            answer: "/хйор/",
-            correct: false
-            },
-            {
-            answer: "/хёрс/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 25,
-            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Их' ?",
-            answers: [
-            {
-            answer: "/дэир/",
-            correct: true
-            },
-            {
-            answer: "/дэм/",
-            correct: false
-            },
-            {
-            answer: "/дыс/",
-            correct: false
-            },
-            {
-            answer: "/дэт/",
-            correct: false
-            },
-            {
-            answer: "/Zэир/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 26,
-            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Твой' ?",
-            answers: [
-            {
-            answer: "/ё/",
-            correct: true
-            },
-            {
-            answer: "/йор/",
-            correct: false
-            },
-            {
-            answer: "/уо/",
-            correct: false
-            },
-            {
-            answer: "/йоу/",
-            correct: false
-            },
-            {
-            answer: "/туой/",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 27,
+            id: 16,
             quizQuestion: "Как на английском произносится притяжательное местоимение: 'Его' ?",
             answers: [
             {
@@ -3611,123 +3325,279 @@ const quizQuesstionsList = {
             ]
             },
             {
-            id: 28,
-            quizQuestion: "Каким местоимением можно заменить слово 'Машина'?",
+            id: 17,
+            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Её' ?",
             answers: [
             {
-            answer: "it",
+            answer: "/хё/",
             correct: true
             },
             {
-            answer: "he",
+            answer: "/щи/",
             correct: false
             },
             {
-            answer: "they",
+            answer: "/щит/",
             correct: false
             },
             {
-            answer: "your",
+            answer: "/хйор/",
             correct: false
             },
             {
-            answer: "our",
+            answer: "/хёрс/",
             correct: false
             },
             ]
             },
             {
-            id: 29,
-            quizQuestion: "Каким местоимением можно заменить слово 'Родители'?",
+            id: 18,
+            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Их' ?",
             answers: [
             {
-            answer: "they",
+            answer: "/дэир/",
             correct: true
             },
             {
-            answer: "he",
+            answer: "/дэм/",
+            correct: false
+            },
+            {
+            answer: "/дыс/",
+            correct: false
+            },
+            {
+            answer: "/дэт/",
+            correct: false
+            },
+            {
+            answer: "/Zэир/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Наш' ?",
+            answers: [
+            {
+            answer: "/ауа/",
+            correct: true
+            },
+            {
+            answer: "/маё/",
+            correct: false
+            },
+            {
+            answer: "/аур/",
+            correct: false
+            },
+            {
+            answer: "/оур/",
+            correct: false
+            },
+            {
+            answer: "/аригато/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Как на английском произносится притяжательное местоимение: 'Твой' ?",
+            answers: [
+            {
+            answer: "/ё/",
+            correct: true
+            },
+            {
+            answer: "/йор/",
+            correct: false
+            },
+            {
+            answer: "/уо/",
+            correct: false
+            },
+            {
+            answer: "/йоу/",
+            correct: false
+            },
+            {
+            answer: "/туой/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Как произносится указательное местоимение: 'Вот этот' ?",
+            answers: [
+            {
+            answer: "/дыс/",
+            correct: true
+            },
+            {
+            answer: "/дэт/",
+            correct: false
+            },
+            {
+            answer: "/дат/",
+            correct: false
+            },
+            {
+            answer: "/дэм/",
+            correct: false
+            },
+            {
+            answer: "/доуз/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "Как на английском сказать: его пёс",
+            answers: [
+            {
+            answer: "his dog",
+            correct: true
+            },
+            {
+            answer: "her dog",
+            correct: false
+            },
+            {
+            answer: "him dog",
+            correct: false
+            },
+            {
+            answer: "she dog",
+            correct: false
+            },
+            {
+            answer: "he dog",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "Как на английском сказать: её",
+            answers: [
+            {
+            answer: "her",
+            correct: true
+            },
+            {
+            answer: "his",
+            correct: false
+            },
+            {
+            answer: "her",
+            correct: false
+            },
+            {
+            answer: "him",
             correct: false
             },
             {
             answer: "she",
             correct: false
             },
-            {
-            answer: "it",
-            correct: false
-            },
-            {
-            answer: "I",
-            correct: false
-            },
             ]
             },
             {
-            id: 30,
-            quizQuestion: "Каким местоимением можно заменить слова 'Черепашки Ниндзя'?",
+            id: 24,
+            quizQuestion: "Как на английском сказать: их",
             answers: [
             {
-            answer: "they",
+            answer: "their /дэир/",
             correct: true
             },
             {
-            answer: "he",
+            answer: "them /дэм/",
             correct: false
             },
             {
-            answer: "she",
+            answer: "that /дэт/",
             correct: false
             },
             {
-            answer: "it",
+            answer: "this /дыС/",
             correct: false
             },
             {
-            answer: "I",
+            answer: "these /дыЗ/",
             correct: false
             },
             ]
             },
             {
-            id: 31,
-            quizQuestion: "Каким местоимением можно заменить слово 'Друзья'?",
+            id: 25,
+            quizQuestion: "Как на английском сказать: мой, моя, мои, моё",
+            answers: [
+            {
+            answer: "my",
+            correct: true
+            },
+            {
+            answer: "mai",
+            correct: false
+            },
+            {
+            answer: "me",
+            correct: false
+            },
+            {
+            answer: "moy",
+            correct: false
+            },
+            {
+            answer: "mi",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "Как на английском сказать: мы",
             answers: [
             {
             answer: "we",
             correct: true
             },
             {
-            answer: "he",
+            answer: "they",
             correct: false
             },
             {
-            answer: "she",
+            answer: "our",
             correct: false
             },
             {
-            answer: "your",
+            answer: "mi",
             correct: false
             },
             {
-            answer: "it",
+            answer: "you",
             correct: false
             },
             ]
             },
             {
-            id: 32,
-            quizQuestion: "Каким местоимением можно заменить слово 'Винсент'?",
+            id: 27,
+            quizQuestion: "Как на английском сказать: наш, наша, наше, наши",
             answers: [
             {
-            answer: "he",
+            answer: "our",
             correct: true
             },
             {
-            answer: "she",
+            answer: "their",
             correct: false
             },
             {
-            answer: "you",
+            answer: "your",
             correct: false
             },
             {
@@ -3735,14 +3605,196 @@ const quizQuesstionsList = {
             correct: false
             },
             {
-            answer: "it",
+            answer: "hour",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Как на английском сказать: он",
+            answers: [
+            {
+            answer: "he",
+            correct: true
+            },
+            {
+            answer: "his",
+            correct: false
+            },
+            {
+            answer: "him",
+            correct: false
+            },
+            {
+            answer: "her",
+            correct: false
+            },
+            {
+            answer: "she",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "Как на английском сказать: она",
+            answers: [
+            {
+            answer: "she",
+            correct: true
+            },
+            {
+            answer: "he",
+            correct: false
+            },
+            {
+            answer: "her",
+            correct: false
+            },
+            {
+            answer: "his",
+            correct: false
+            },
+            {
+            answer: "girl",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Как на английском сказать: они",
+            answers: [
+            {
+            answer: "they",
+            correct: true
+            },
+            {
+            answer: "we",
+            correct: false
+            },
+            {
+            answer: "our",
+            correct: false
+            },
+            {
+            answer: "your",
+            correct: false
+            },
+            {
+            answer: "him",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "Как на английском сказать: твой, твоё, твоя, ваш, ваше, ваша, ваши, твои",
+            answers: [
+            {
+            answer: "your",
+            correct: true
+            },
+            {
+            answer: "their",
+            correct: false
+            },
+            {
+            answer: "you",
+            correct: false
+            },
+            {
+            answer: "our",
+            correct: false
+            },
+            {
+            answer: "tvoy",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Как на английском сказать: ты или вы",
+            answers: [
+            {
+            answer: "you",
+            correct: true
+            },
+            {
+            answer: "ti",
+            correct: false
+            },
+            {
+            answer: "we",
+            correct: false
+            },
+            {
+            answer: "they",
+            correct: false
+            },
+            {
+            answer: "our",
             correct: false
             },
             ]
             },
             {
             id: 33,
-            quizQuestion: "Каким местоимением можно заменить слова 'ты и я'?",
+            quizQuestion: "Как на английском сказать: это",
+            answers: [
+            {
+            answer: "it",
+            correct: true
+            },
+            {
+            answer: "he",
+            correct: false
+            },
+            {
+            answer: "she",
+            correct: false
+            },
+            {
+            answer: "eto",
+            correct: false
+            },
+            {
+            answer: "they",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "Каким ОДНИМ словом (местоимением) можно заменить словосочетание : 'Их имена'?",
+            answers: [
+            {
+            answer: "they",
+            correct: true
+            },
+            {
+            answer: "you",
+            correct: false
+            },
+            {
+            answer: "we",
+            correct: false
+            },
+            {
+            answer: "it",
+            correct: false
+            },
+            {
+            answer: "our",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "Каким ОДНИМ словом (местоимением) можно заменить словосочетание :  'ты и я'?",
             answers: [
             {
             answer: "we",
@@ -3767,34 +3819,8 @@ const quizQuesstionsList = {
             ]
             },
             {
-            id: 34,
-            quizQuestion: "Каким местоимением можно заменить слово 'обезьяны'?",
-            answers: [
-            {
-            answer: "you",
-            correct: true
-            },
-            {
-            answer: "he",
-            correct: false
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "it",
-            correct: false
-            },
-            {
-            answer: "Vincent",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 35,
-            quizQuestion: "Каким местоимением можно заменить слова 'Умные люди'?",
+            id: 36,
+            quizQuestion: "Каким ОДНИМ словом (местоимением) можно заменить словосочетание :  'Умные люди'?",
             answers: [
             {
             answer: "we",
@@ -3814,325 +3840,39 @@ const quizQuesstionsList = {
             },
             {
             answer: "I",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 36,
-            quizQuestion: "Что пропущено? I ___ not a stupid monkey.",
-            answers: [
-            {
-            answer: "am",
-            correct: true
-            },
-            {
-            answer: "is",
-            correct: false
-            },
-            {
-            answer: "are",
-            correct: false
-            },
-            {
-            answer: "isn't",
-            correct: false
-            },
-            {
-            answer: "aren't",
             correct: false
             },
             ]
             },
             {
             id: 37,
-            quizQuestion: "Что пропущено? Vincent ___ my best alco-friend",
+            quizQuestion: "Каким ОДНИМ словом (местоимением) можно заменить словосочетание :  'Черепашки Ниндзя'?",
             answers: [
             {
-            answer: "is",
+            answer: "they",
             correct: true
-            },
-            {
-            answer: "am",
-            correct: false
-            },
-            {
-            answer: "are",
-            correct: false
             },
             {
             answer: "he",
             correct: false
             },
             {
-            answer: "you",
+            answer: "she",
+            correct: false
+            },
+            {
+            answer: "it",
+            correct: false
+            },
+            {
+            answer: "I",
             correct: false
             },
             ]
             },
             {
             id: 38,
-            quizQuestion: "Что пропущено? Vincent ___ not my teacher, he ___ my friend",
-            answers: [
-            {
-            answer: "is, is",
-            correct: true
-            },
-            {
-            answer: "you, is",
-            correct: false
-            },
-            {
-            answer: "you, are",
-            correct: false
-            },
-            {
-            answer: "is, are",
-            correct: false
-            },
-            {
-            answer: "am, is",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 39,
-            quizQuestion: "Что пропущено? What ___ their names?",
-            answers: [
-            {
-            answer: "are",
-            correct: true
-            },
-            {
-            answer: "am",
-            correct: false
-            },
-            {
-            answer: "is",
-            correct: false
-            },
-            {
-            answer: "have",
-            correct: false
-            },
-            {
-            answer: "do",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 40,
-            quizQuestion: "Что пропущено? ___ names are Tom and Jerry",
-            answers: [
-            {
-            answer: "their /дэир/ их",
-            correct: true
-            },
-            {
-            answer: "they /дэй/ они",
-            correct: false
-            },
-            {
-            answer: "them /дэм/ им",
-            correct: false
-            },
-            {
-            answer: "this /дыС/ это",
-            correct: false
-            },
-            {
-            answer: "voobshe HZ",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 41,
-            quizQuestion: "Каким местоимением можно заменить слова 'Их имена'?",
-            answers: [
-            {
-            answer: "they",
-            correct: true
-            },
-            {
-            answer: "you",
-            correct: false
-            },
-            {
-            answer: "we",
-            correct: false
-            },
-            {
-            answer: "it",
-            correct: false
-            },
-            {
-            answer: "our",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 42,
-            quizQuestion: "Мои друзья - это тоже самое, что и",
-            answers: [
-            {
-            answer: "they",
-            correct: true
-            },
-            {
-            answer: "he",
-            correct: false
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "it",
-            correct: false
-            },
-            {
-            answer: "I",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 43,
-            quizQuestion: "Хорошие и умные студенты - это тоже самое что и",
-            answers: [
-            {
-            answer: "we",
-            correct: true
-            },
-            {
-            answer: "he",
-            correct: false
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "it",
-            correct: false
-            },
-            {
-            answer: "stupid monkeys",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 44,
-            quizQuestion: "Робот - это тоже самое, что и",
-            answers: [
-            {
-            answer: "it",
-            correct: true
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "I",
-            correct: false
-            },
-            {
-            answer: "we",
-            correct: false
-            },
-            {
-            answer: "they",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 45,
-            quizQuestion: "Ножка стола - это тоже самое что и ",
-            answers: [
-            {
-            answer: "it",
-            correct: true
-            },
-            {
-            answer: "he",
-            correct: false
-            },
-            {
-            answer: "you",
-            correct: false
-            },
-            {
-            answer: "we",
-            correct: false
-            },
-            {
-            answer: "they",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 46,
-            quizQuestion: "Куринный супчик это тоже самое что и ",
-            answers: [
-            {
-            answer: "it",
-            correct: true
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "KFC",
-            correct: false
-            },
-            {
-            answer: "you",
-            correct: false
-            },
-            {
-            answer: "chickens",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 47,
-            quizQuestion: "Айфон и Айндроид это",
-            answers: [
-            {
-            answer: "they",
-            correct: true
-            },
-            {
-            answer: "he",
-            correct: false
-            },
-            {
-            answer: "she",
-            correct: false
-            },
-            {
-            answer: "we",
-            correct: false
-            },
-            {
-            answer: "I have",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 48,
-            quizQuestion: "Каким местоимением можно заменить слово 'iPhone'?",
+            quizQuestion: "Каким словом (местоимением) можно заменить слово 'iPhone'?",
             answers: [
             {
             answer: "it",
@@ -4157,319 +3897,163 @@ const quizQuesstionsList = {
             ]
             },
             {
-            id: 49,
-            quizQuestion: "Что пропущено? Where ___ my money?",
+            id: 39,
+            quizQuestion: "Каким словом (местоимением) можно заменить  слово 'Винсент'?",
             answers: [
             {
-            answer: "is",
+            answer: "he",
             correct: true
             },
             {
-            answer: "am",
-            correct: false
-            },
-            {
-            answer: "are",
-            correct: false
-            },
-            {
-            answer: "have",
+            answer: "she",
             correct: false
             },
             {
             answer: "you",
             correct: false
             },
-            ]
-            },
             {
-            id: 50,
-            quizQuestion: "Что пропущено? Where ___ you?",
-            answers: [
-            {
-            answer: "are",
-            correct: true
-            },
-            {
-            answer: "is",
+            answer: "my",
             correct: false
             },
             {
-            answer: "am",
-            correct: false
-            },
-            {
-            answer: "do",
-            correct: false
-            },
-            {
-            answer: "sleep",
+            answer: "it",
             correct: false
             },
             ]
             },
             {
-            id: 51,
-            quizQuestion: "Нажми на букву, которая произносится  / эй /",
+            id: 40,
+            quizQuestion: "Каким словом (местоимением) можно заменить слово 'Друзья'?",
             answers: [
             {
-            answer: "a",
+            answer: "we",
             correct: true
             },
             {
-            answer: "e",
+            answer: "he",
             correct: false
             },
             {
-            answer: "i",
+            answer: "she",
             correct: false
             },
             {
-            answer: "y",
+            answer: "your",
             correct: false
             },
             {
-            answer: "u",
+            answer: "it",
             correct: false
             },
             ]
             },
             {
-            id: 52,
-            quizQuestion: "Нажми на букву, которая произносится  / си /",
+            id: 41,
+            quizQuestion: "Каким словом (местоимением) можно заменить слово 'Машина'?",
             answers: [
             {
-            answer: "c",
+            answer: "it",
             correct: true
             },
             {
-            answer: "s",
+            answer: "he",
             correct: false
             },
             {
-            answer: "see",
+            answer: "they",
             correct: false
             },
             {
-            answer: "sea",
+            answer: "your",
             correct: false
             },
             {
-            answer: "si",
+            answer: "our",
             correct: false
             },
             ]
             },
             {
-            id: 53,
-            quizQuestion: "Нажми на букву, которая произносится  / эс /",
+            id: 42,
+            quizQuestion: "Каким словом (местоимением) можно заменить слово 'обезьяны'?",
             answers: [
             {
-            answer: "s",
+            answer: "you",
             correct: true
             },
             {
-            answer: "c",
+            answer: "he",
             correct: false
             },
             {
-            answer: "j",
+            answer: "she",
             correct: false
             },
             {
-            answer: "g",
+            answer: "it",
             correct: false
             },
             {
-            answer: "x",
+            answer: "Vincent",
             correct: false
             },
             ]
             },
             {
-            id: 54,
-            quizQuestion: "Нажми на букву, которая произносится  / и /",
+            id: 43,
+            quizQuestion: "Каким словом (местоимением) можно заменить слово 'Родители'?",
             answers: [
             {
-            answer: "e",
+            answer: "they",
             correct: true
             },
             {
-            answer: "i",
+            answer: "he",
             correct: false
             },
             {
-            answer: "y",
+            answer: "she",
             correct: false
             },
             {
-            answer: "&",
-            correct: false
-            },
-            {
-            answer: "u",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 55,
-            quizQuestion: "Нажми на букву, которая произносится  / и /",
-            answers: [
-            {
-            answer: "E",
-            correct: true
-            },
-            {
-            answer: "i",
-            correct: false
-            },
-            {
-            answer: "J",
+            answer: "it",
             correct: false
             },
             {
             answer: "I",
             correct: false
             },
-            {
-            answer: "N",
-            correct: false
-            },
             ]
             },
             {
-            id: 56,
-            quizQuestion: "Нажми на букву, которая произносится  / джи /",
+            id: 44,
+            quizQuestion: "Куринный супчик это тоже самое что и местоимение:",
             answers: [
             {
-            answer: "g",
+            answer: "it",
             correct: true
             },
             {
-            answer: "j",
+            answer: "she",
             correct: false
             },
             {
-            answer: "J",
+            answer: "KFC",
             correct: false
             },
             {
-            answer: "q",
+            answer: "you",
             correct: false
             },
             {
-            answer: "i",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 57,
-            quizQuestion: "Нажми на букву, которая произносится  / эйч /",
-            answers: [
-            {
-            answer: "h",
-            correct: true
-            },
-            {
-            answer: "q",
-            correct: false
-            },
-            {
-            answer: "x",
-            correct: false
-            },
-            {
-            answer: "s",
-            correct: false
-            },
-            {
-            answer: "R",
+            answer: "chickens",
             correct: false
             },
             ]
             },
             {
-            id: 58,
-            quizQuestion: "Нажми на букву, которая произносится  / ай /",
-            answers: [
-            {
-            answer: "i",
-            correct: true
-            },
-            {
-            answer: "e",
-            correct: false
-            },
-            {
-            answer: "a",
-            correct: false
-            },
-            {
-            answer: "y",
-            correct: false
-            },
-            {
-            answer: "u",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 59,
-            quizQuestion: "Нажми на букву, которая произносится  / джэй /",
-            answers: [
-            {
-            answer: "j",
-            correct: true
-            },
-            {
-            answer: "g",
-            correct: false
-            },
-            {
-            answer: "G",
-            correct: false
-            },
-            {
-            answer: "i",
-            correct: false
-            },
-            {
-            answer: "q",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 60,
-            quizQuestion: "Нажми на букву, которая произносится  / кей /",
-            answers: [
-            {
-            answer: "k",
-            correct: true
-            },
-            {
-            answer: "q",
-            correct: false
-            },
-            {
-            answer: "c",
-            correct: false
-            },
-            {
-            answer: "q",
-            correct: false
-            },
-            {
-            answer: "Q",
-            correct: false
-            },
-            ]
-            },
-            {
-            id: 61,
+            id: 45,
             quizQuestion: "Местоимения - это слова, которые используются вместо имени. Какие местоимения есть в английском?",
             answers: [
             {
@@ -4495,112 +4079,608 @@ const quizQuesstionsList = {
             ]
             },
             {
-            id: 62,
-            quizQuestion: "Twelve это",
+            id: 46,
+            quizQuestion: "Мои друзья - это тоже самое, что и местоимение:",
             answers: [
             {
-            answer: "12",
+            answer: "they",
             correct: true
             },
             {
-            answer: "20",
+            answer: "he",
             correct: false
             },
             {
-            answer: "21",
+            answer: "she",
             correct: false
             },
             {
-            answer: "22",
+            answer: "it",
             correct: false
             },
             {
-            answer: "222",
+            answer: "I",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "Нажми на букву, которая произносится  / ай /",
+            answers: [
+            {
+            answer: "i",
+            correct: true
+            },
+            {
+            answer: "e",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "Нажми на букву, которая произносится  / джи /",
+            answers: [
+            {
+            answer: "g",
+            correct: true
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 49,
+            quizQuestion: "Нажми на букву, которая произносится  / джэй /",
+            answers: [
+            {
+            answer: "j",
+            correct: true
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "G",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 50,
+            quizQuestion: "Нажми на букву, которая произносится  / и /",
+            answers: [
+            {
+            answer: "e",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "&",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 51,
+            quizQuestion: "Нажми на букву, которая произносится  / и /",
+            answers: [
+            {
+            answer: "E",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "I",
+            correct: false
+            },
+            {
+            answer: "N",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 52,
+            quizQuestion: "Нажми на букву, которая произносится  / кей /",
+            answers: [
+            {
+            answer: "k",
+            correct: true
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "c",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "Q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 53,
+            quizQuestion: "Нажми на букву, которая произносится  / си /",
+            answers: [
+            {
+            answer: "c",
+            correct: true
+            },
+            {
+            answer: "s",
+            correct: false
+            },
+            {
+            answer: "see",
+            correct: false
+            },
+            {
+            answer: "sea",
+            correct: false
+            },
+            {
+            answer: "si",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 54,
+            quizQuestion: "Нажми на букву, которая произносится  / эй /",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "e",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 55,
+            quizQuestion: "Нажми на букву, которая произносится  / эйч /",
+            answers: [
+            {
+            answer: "h",
+            correct: true
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "x",
+            correct: false
+            },
+            {
+            answer: "s",
+            correct: false
+            },
+            {
+            answer: "R",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 56,
+            quizQuestion: "Нажми на букву, которая произносится  / эс /",
+            answers: [
+            {
+            answer: "s",
+            correct: true
+            },
+            {
+            answer: "c",
+            correct: false
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "x",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 57,
+            quizQuestion: "Ножка стола - это тоже самое что местоимение",
+            answers: [
+            {
+            answer: "it",
+            correct: true
+            },
+            {
+            answer: "he",
+            correct: false
+            },
+            {
+            answer: "you",
+            correct: false
+            },
+            {
+            answer: "we",
+            correct: false
+            },
+            {
+            answer: "they",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 58,
+            quizQuestion: "Робот - это тоже самое, что и местоимение",
+            answers: [
+            {
+            answer: "it",
+            correct: true
+            },
+            {
+            answer: "she",
+            correct: false
+            },
+            {
+            answer: "I",
+            correct: false
+            },
+            {
+            answer: "we",
+            correct: false
+            },
+            {
+            answer: "they",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 59,
+            quizQuestion: "Хорошие и умные студенты - это тоже самое что и",
+            answers: [
+            {
+            answer: "we",
+            correct: true
+            },
+            {
+            answer: "he",
+            correct: false
+            },
+            {
+            answer: "she",
+            correct: false
+            },
+            {
+            answer: "it",
+            correct: false
+            },
+            {
+            answer: "stupid monkeys",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 60,
+            quizQuestion: "Что пропущено? ___ names are Tom and Jerry",
+            answers: [
+            {
+            answer: "their /дэир/ их",
+            correct: true
+            },
+            {
+            answer: "they /дэй/ они",
+            correct: false
+            },
+            {
+            answer: "them /дэм/ им",
+            correct: false
+            },
+            {
+            answer: "this /дыС/ это",
+            correct: false
+            },
+            {
+            answer: "voobshe HZ",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 61,
+            quizQuestion: "Что пропущено? I ___ not a stupid monkey.",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "isn't",
+            correct: false
+            },
+            {
+            answer: "aren't",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 62,
+            quizQuestion: "Что пропущено? Vincent ___ my best alco-friend",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "he",
+            correct: false
+            },
+            {
+            answer: "you",
             correct: false
             },
             ]
             },
             {
             id: 63,
-            quizQuestion: "Twenty это",
+            quizQuestion: "Что пропущено? Vincent ___ not my teacher, he ___ my friend",
             answers: [
             {
-            answer: "20",
+            answer: "is, is",
             correct: true
             },
             {
-            answer: "12",
+            answer: "you, is",
             correct: false
             },
             {
-            answer: "202",
+            answer: "you, are",
             correct: false
             },
             {
-            answer: "22",
+            answer: "is, are",
             correct: false
             },
             {
-            answer: "2",
+            answer: "am, is",
             correct: false
             },
             ]
             },
             {
             id: 64,
-            quizQuestion: "Восемь на английском это",
+            quizQuestion: "Что пропущено? What ___ their names?",
             answers: [
             {
-            answer: "eight",
+            answer: "are",
             correct: true
             },
             {
-            answer: "nine",
+            answer: "am",
             correct: false
             },
             {
-            answer: "eleven",
+            answer: "is",
             correct: false
             },
             {
-            answer: "twelve",
+            answer: "have",
             correct: false
             },
             {
-            answer: "twenty",
+            answer: "do",
             correct: false
             },
             ]
             },
             {
             id: 65,
-            quizQuestion: "Девять на английском это",
+            quizQuestion: "Что пропущено? Where ___ my money?",
             answers: [
             {
-            answer: "nine",
+            answer: "is",
             correct: true
             },
             {
-            answer: "eight",
+            answer: "am",
             correct: false
             },
             {
-            answer: "dievьять",
+            answer: "are",
             correct: false
             },
             {
-            answer: "twelve",
+            answer: "have",
             correct: false
             },
             {
-            answer: "twenty",
+            answer: "you",
             correct: false
             },
             ]
             },
             {
             id: 66,
-            quizQuestion: "/ A / - это произношение одной из самых коварных букв английского алфавита. Что же это за буква, как она пишется?",
+            quizQuestion: "Что пропущено? Where ___ you?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "sleep",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 67,
+            quizQuestion: "Переведи на английский: У меня нет домашнего животного",
+            answers: [
+            {
+            answer: "I don't have a pet",
+            correct: true
+            },
+            {
+            answer: "I haven't a pet",
+            correct: false
+            },
+            {
+            answer: "I don't have a home animal",
+            correct: false
+            },
+            {
+            answer: "I haven't a cat",
+            correct: false
+            },
+            {
+            answer: "I want to have a dog",
+            correct: false
+            },
+            ]
+            },
+    ],
+    lettersQuiz: [
+        {
+            id: 1,
+            quizQuestion: "Нажми на букву, которая произносится  / эй /",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "e",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "/ а / - это произношение одной из самых коварных букв английского алфавита. Что же это за буква, как она пишется?",
             answers: [
             {
             answer: "R",
@@ -4624,1101 +4704,1148 @@ const quizQuesstionsList = {
             },
             ]
             },
-    ],
-  			
-    lettersQuiz: [
-        {
-            id: 1,
-quizQuestion: "Нажми на букву, которая произносится  / эй /",
-answers: [
-{
-answer: "a",
-correct: true
-},
-{
-answer: "e",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-{
-answer: "u",
-correct: false
-},
-]
-},
-{
-id: 2,
-quizQuestion: "/ A / - это произношение одной из самых коварных букв английского алфавита. Что же это за буква, как она пишется?",
-answers: [
-{
-answer: "R",
-correct: true
-},
-{
-answer: "A",
-correct: false
-},
-{
-answer: "U",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "Y",
-correct: false
-},
-]
-},
-{
-id: 3,
-quizQuestion: "/ A / - это произношение одной из самых коварных букв английского алфавита. Что же это за буква, как она пишется?",
-answers: [
-{
-answer: "r",
-correct: true
-},
-{
-answer: "a",
-correct: false
-},
-{
-answer: "u",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-]
-},
-{
-id: 4,
-quizQuestion: "/ ай / так произносится какая буква?",
-answers: [
-{
-answer: "i",
-correct: true
-},
-{
-answer: "u",
-correct: false
-},
-{
-answer: "a",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-{
-answer: "e",
-correct: false
-},
-]
-},
-{
-id: 5,
-quizQuestion: "/ кью / так произносится какая буква?",
-answers: [
-{
-answer: "q",
-correct: true
-},
-{
-answer: "j",
-correct: false
-},
-{
-answer: "k",
-correct: false
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-]
-},
-{
-id: 6,
-quizQuestion: "/ кью / так произносится какая буква?",
-answers: [
-{
-answer: "Q",
-correct: true
-},
-{
-answer: "J",
-correct: false
-},
-{
-answer: "K",
-correct: false
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "G",
-correct: false
-},
-]
-},
-{
-id: 7,
-quizQuestion: "Как произносится английская буква 'A' ?",
-answers: [
-{
-answer: "/ эй /",
-correct: true
-},
-{
-answer: "/ а /",
-correct: false
-},
-{
-answer: "/ ау /",
-correct: false
-},
-{
-answer: "/ ей /",
-correct: false
-},
-{
-answer: "так и произносится",
-correct: false
-},
-]
-},
-{
-id: 8,
-quizQuestion: "Как произносится английская буква 'A' ?",
-answers: [
-{
-answer: "/ эй /",
-correct: true
-},
-{
-answer: "/ а /",
-correct: false
-},
-{
-answer: "/ ей /",
-correct: false
-},
-{
-answer: "/ э /",
-correct: false
-},
-{
-answer: "ну типа не / А / чтоли?",
-correct: false
-},
-]
-},
-{
-id: 9,
-quizQuestion: "Как произносится английская буква 'E' ?",
-answers: [
-{
-answer: "/и/",
-correct: true
-},
-{
-answer: "/е/",
-correct: false
-},
-{
-answer: "/йе/",
-correct: false
-},
-{
-answer: "/как русская е/",
-correct: false
-},
-{
-answer: "/долгий звук Е/",
-correct: false
-},
-]
-},
-{
-id: 10,
-quizQuestion: "Как произносится английская буква 'e' ?",
-answers: [
-{
-answer: "/и/",
-correct: true
-},
-{
-answer: "/йе/",
-correct: false
-},
-{
-answer: "/э/",
-correct: false
-},
-{
-answer: "/как русская е/",
-correct: false
-},
-{
-answer: "/долго тянем ЙЕЕЕ/",
-correct: false
-},
-]
-},
-{
-id: 11,
-quizQuestion: "Как произносится английская буква 'R' ?",
-answers: [
-{
-answer: "/а/",
-correct: true
-},
-{
-answer: "/ар/",
-correct: false
-},
-{
-answer: "/эр/",
-correct: false
-},
-{
-answer: "/рэ/",
-correct: false
-},
-{
-answer: "/жэ/",
-correct: false
-},
-]
-},
-{
-id: 12,
-quizQuestion: "Как произносится английская буква 'r' ?",
-answers: [
-{
-answer: "/а/",
-correct: true
-},
-{
-answer: "/я/",
-correct: false
-},
-{
-answer: "/RЭ/",
-correct: false
-},
-{
-answer: "/рычим как тигр/",
-correct: false
-},
-{
-answer: "/арэ/",
-correct: false
-},
-]
-},
-{
-id: 13,
-quizQuestion: "Как произносится буква 's' ?",
-answers: [
-{
-answer: "/эс/",
-correct: true
-},
-{
-answer: "как змея",
-correct: false
-},
-{
-answer: "/сэ/",
-correct: false
-},
-{
-answer: "/си/",
-correct: false
-},
-{
-answer: "ну типа как доллар, но это не точно",
-correct: false
-},
-]
-},
-{
-id: 14,
-quizQuestion: "Как произносится буква 'S' ?",
-answers: [
-{
-answer: "/эс/",
-correct: true
-},
-{
-answer: "/эйс/",
-correct: false
-},
-{
-answer: "/сэ/",
-correct: false
-},
-{
-answer: "/си/",
-correct: false
-},
-{
-answer: "/как доллар/",
-correct: false
-},
-]
-},
-{
-id: 15,
-quizQuestion: "Как произносится буква 'y' ?",
-answers: [
-{
-answer: "/уай/",
-correct: true
-},
-{
-answer: "/ай/",
-correct: false
-},
-{
-answer: "/У/",
-correct: false
-},
-{
-answer: "/и/",
-correct: false
-},
-{
-answer: "/ууу/",
-correct: false
-},
-]
-},
-{
-id: 16,
-quizQuestion: "Как произносится буква 'Y' ?",
-answers: [
-{
-answer: "/уай/",
-correct: true
-},
-{
-answer: "/игрик/",
-correct: false
-},
-{
-answer: "/ю/",
-correct: false
-},
-{
-answer: "как русская у",
-correct: false
-},
-{
-answer: "/ууу длинно тянем Уууу/",
-correct: false
-},
-]
-},
-{
-id: 17,
-quizQuestion: "Нажми на букву /джи/",
-answers: [
-{
-answer: "G",
-correct: true
-},
-{
-answer: "j",
-correct: false
-},
-{
-answer: "J",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "si",
-correct: false
-},
-]
-},
-{
-id: 18,
-quizQuestion: "Нажми на букву /джи/",
-answers: [
-{
-answer: "g",
-correct: true
-},
-{
-answer: "j",
-correct: false
-},
-{
-answer: "J",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "Q",
-correct: false
-},
-]
-},
-{
-id: 19,
-quizQuestion: "Нажми на букву /джэй/",
-answers: [
-{
-answer: "J",
-correct: true
-},
-{
-answer: "G",
-correct: false
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "Q",
-correct: false
-},
-]
-},
-{
-id: 20,
-quizQuestion: "Нажми на букву /джэй/",
-answers: [
-{
-answer: "j",
-correct: true
-},
-{
-answer: "z",
-correct: false
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "L",
-correct: false
-},
-]
-},
-{
-id: 21,
-quizQuestion: "Нажми на букву, которая произносится  / а /",
-answers: [
-{
-answer: "R",
-correct: true
-},
-{
-answer: "A",
-correct: false
-},
-{
-answer: "U",
-correct: false
-},
-{
-answer: "Y",
-correct: false
-},
-{
-answer: "a",
-correct: false
-},
-]
-},
-{
-id: 22,
-quizQuestion: "Нажми на букву, которая произносится  / а /",
-answers: [
-{
-answer: "r",
-correct: true
-},
-{
-answer: "a",
-correct: false
-},
-{
-answer: "u",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-{
-answer: "Y",
-correct: false
-},
-]
-},
-{
-id: 23,
-quizQuestion: "Нажми на букву, которая произносится  / ай /",
-answers: [
-{
-answer: "i",
-correct: true
-},
-{
-answer: "e",
-correct: false
-},
-{
-answer: "a",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-{
-answer: "u",
-correct: false
-},
-]
-},
-{
-id: 24,
-quizQuestion: "Нажми на букву, которая произносится  / би /",
-answers: [
-{
-answer: "b",
-correct: true
-},
-{
-answer: "d",
-correct: false
-},
-{
-answer: "Б",
-correct: false
-},
-{
-answer: "v",
-correct: false
-},
-{
-answer: "W",
-correct: false
-},
-]
-},
-{
-id: 25,
-quizQuestion: "Нажми на букву, которая произносится  / ви /",
-answers: [
-{
-answer: "V",
-correct: true
-},
-{
-answer: "W",
-correct: false
-},
-{
-answer: "Y",
-correct: false
-},
-{
-answer: "E",
-correct: false
-},
-{
-answer: "U",
-correct: false
-},
-]
-},
-{
-id: 26,
-quizQuestion: "Нажми на букву, которая произносится  / джи /",
-answers: [
-{
-answer: "g",
-correct: true
-},
-{
-answer: "j",
-correct: false
-},
-{
-answer: "J",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-]
-},
-{
-id: 27,
-quizQuestion: "Нажми на букву, которая произносится  / джэй /",
-answers: [
-{
-answer: "j",
-correct: true
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "G",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-]
-},
-{
-id: 28,
-quizQuestion: "Нажми на букву, которая произносится  / и /",
-answers: [
-{
-answer: "e",
-correct: true
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "y",
-correct: false
-},
-{
-answer: "&",
-correct: false
-},
-{
-answer: "u",
-correct: false
-},
-]
-},
-{
-id: 29,
-quizQuestion: "Нажми на букву, которая произносится  / и /",
-answers: [
-{
-answer: "E",
-correct: true
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "J",
-correct: false
-},
-{
-answer: "I",
-correct: false
-},
-{
-answer: "N",
-correct: false
-},
-]
-},
-{
-id: 30,
-quizQuestion: "Нажми на букву, которая произносится  / кей /",
-answers: [
-{
-answer: "k",
-correct: true
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "c",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "Q",
-correct: false
-},
-]
-},
-{
-id: 31,
-quizQuestion: "Нажми на букву, которая произносится  / си /",
-answers: [
-{
-answer: "c",
-correct: true
-},
-{
-answer: "s",
-correct: false
-},
-{
-answer: "see",
-correct: false
-},
-{
-answer: "sea",
-correct: false
-},
-{
-answer: "si",
-correct: false
-},
-]
-},
-{
-id: 32,
-quizQuestion: "Нажми на букву, которая произносится  / уай /",
-answers: [
-{
-answer: "y",
-correct: true
-},
-{
-answer: "u",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "I",
-correct: false
-},
-{
-answer: "w",
-correct: false
-},
-]
-},
-{
-id: 33,
-quizQuestion: "Нажми на букву, которая произносится  / уай /",
-answers: [
-{
-answer: "Y",
-correct: true
-},
-{
-answer: "U",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "W",
-correct: false
-},
-{
-answer: "J",
-correct: false
-},
-]
-},
-{
-id: 34,
-quizQuestion: "Нажми на букву, которая произносится  / эйч /",
-answers: [
-{
-answer: "h",
-correct: true
-},
-{
-answer: "q",
-correct: false
-},
-{
-answer: "x",
-correct: false
-},
-{
-answer: "s",
-correct: false
-},
-{
-answer: "R",
-correct: false
-},
-]
-},
-{
-id: 35,
-quizQuestion: "Нажми на букву, которая произносится  / эс /",
-answers: [
-{
-answer: "s",
-correct: true
-},
-{
-answer: "c",
-correct: false
-},
-{
-answer: "j",
-correct: false
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "x",
-correct: false
-},
-]
-},
-{
-id: 36,
-quizQuestion: "Нажми на букву, которая произносится  / ю /",
-answers: [
-{
-answer: "u",
-correct: true
-},
-{
-answer: "y",
-correct: false
-},
-{
-answer: "j",
-correct: false
-},
-{
-answer: "g",
-correct: false
-},
-{
-answer: "q",
-correct: false
-},
-]
-},
-{
-id: 37,
-quizQuestion: "Нажми на букву, которая произносится  / ю /",
-answers: [
-{
-answer: "U",
-correct: true
-},
-{
-answer: "Y",
-correct: false
-},
-{
-answer: "J",
-correct: false
-},
-{
-answer: "V",
-correct: false
-},
-{
-answer: "you",
-correct: false
-},
-]
-},
-{
-id: 38,
-quizQuestion: "Так произносится одна из самых коварных букв /А/ что же это за буква?",
-answers: [
-{
-answer: "R",
-correct: true
-},
-{
-answer: "A",
-correct: false
-},
-{
-answer: "U",
-correct: false
-},
-{
-answer: "i",
-correct: false
-},
-{
-answer: "H",
-correct: false
-},
-]
-},
-{
-id: 39,
-quizQuestion: "Как на английском произносится слово KEY ?",
-answers: [
-{
-answer: "/ки/",
-correct: true
-},
-{
-answer: "ключ",
-correct: false
-},
-{
-answer: "/кей/",
-correct: false
-},
-{
-answer: "/кеу/",
-correct: false
-},
-{
-answer: "/кий/",
-correct: false
-},
-]
-},
-{
-id: 40,
-quizQuestion: "Произнеси английским буквами слово МАШИНА",
-answers: [
-{
-answer: "си эй а",
-correct: true
-},
-{
-answer: "кей эй ар",
-correct: false
-},
-{
-answer: "кей эй а",
-correct: false
-},
-{
-answer: "цэ а эр",
-correct: false
-},
-{
-answer: "к а р",
-correct: false
-},
-]
-},
-{
-id: 41,
-quizQuestion: "Как произносится буква 'C' ?",
-answers: [
-{
-answer: "/си/",
-correct: true
-},
-{
-answer: "/эс/",
-correct: false
-},
-{
-answer: "/цэ/",
-correct: false
-},
-{
-answer: "/кэ/",
-correct: false
-},
-{
-answer: "/с/",
-correct: false
-},
-]
-},
-{
-id: 42,
-quizQuestion: "Как произносится буква 'K' ?",
-answers: [
-{
-answer: "/кей/",
-correct: true
-},
-{
-answer: "/ка/",
-correct: false
-},
-{
-answer: "/кэ/",
-correct: false
-},
-{
-answer: "/кью/",
-correct: false
-},
-{
-answer: "/ку/",
-correct: false
-},
-]
-},
+            {
+            id: 3,
+            quizQuestion: "произношение коварной буквы английского алфавита написано в этих косых скобках / а / . Какая буква так произносится?",
+            answers: [
+            {
+            answer: "r",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "/ ай / так произносится какая буква?",
+            answers: [
+            {
+            answer: "i",
+            correct: true
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "e",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "/ кью / так произносится какая буква?",
+            answers: [
+            {
+            answer: "q",
+            correct: true
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "k",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "/ кью / так произносится какая буква?",
+            answers: [
+            {
+            answer: "Q",
+            correct: true
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "K",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "G",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Как произносится английская буква 'A' ?",
+            answers: [
+            {
+            answer: "/ эй /",
+            correct: true
+            },
+            {
+            answer: "/ а /",
+            correct: false
+            },
+            {
+            answer: "/ ау /",
+            correct: false
+            },
+            {
+            answer: "/ ей /",
+            correct: false
+            },
+            {
+            answer: "так и произносится",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Как произносится английская буква 'A' ?",
+            answers: [
+            {
+            answer: "/ эй /",
+            correct: true
+            },
+            {
+            answer: "/ а /",
+            correct: false
+            },
+            {
+            answer: "/ ей /",
+            correct: false
+            },
+            {
+            answer: "/ э /",
+            correct: false
+            },
+            {
+            answer: "ну типа не / А / чтоли?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Как произносится английская буква 'E' ?",
+            answers: [
+            {
+            answer: "/и/",
+            correct: true
+            },
+            {
+            answer: "/е/",
+            correct: false
+            },
+            {
+            answer: "/йе/",
+            correct: false
+            },
+            {
+            answer: "/как русская е/",
+            correct: false
+            },
+            {
+            answer: "/долгий звук Е/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Как произносится английская буква 'e' ?",
+            answers: [
+            {
+            answer: "/и/",
+            correct: true
+            },
+            {
+            answer: "/йе/",
+            correct: false
+            },
+            {
+            answer: "/э/",
+            correct: false
+            },
+            {
+            answer: "/как русская е/",
+            correct: false
+            },
+            {
+            answer: "/долго тянем ЙЕЕЕ/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "Как произносится английская буква 'R' ?",
+            answers: [
+            {
+            answer: "/а/",
+            correct: true
+            },
+            {
+            answer: "/ар/",
+            correct: false
+            },
+            {
+            answer: "/эр/",
+            correct: false
+            },
+            {
+            answer: "/рэ/",
+            correct: false
+            },
+            {
+            answer: "/жэ/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "Как произносится английская буква 'r' ?",
+            answers: [
+            {
+            answer: "/а/",
+            correct: true
+            },
+            {
+            answer: "/я/",
+            correct: false
+            },
+            {
+            answer: "/RЭ/",
+            correct: false
+            },
+            {
+            answer: "/рычим как тигр/",
+            correct: false
+            },
+            {
+            answer: "/арэ/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "Как произносится буква 's' ?",
+            answers: [
+            {
+            answer: "/эс/",
+            correct: true
+            },
+            {
+            answer: "как змея",
+            correct: false
+            },
+            {
+            answer: "/сэ/",
+            correct: false
+            },
+            {
+            answer: "/си/",
+            correct: false
+            },
+            {
+            answer: "ну типа как доллар, но это не точно",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "Как произносится буква 'S' ?",
+            answers: [
+            {
+            answer: "/эс/",
+            correct: true
+            },
+            {
+            answer: "/эйс/",
+            correct: false
+            },
+            {
+            answer: "/сэ/",
+            correct: false
+            },
+            {
+            answer: "/си/",
+            correct: false
+            },
+            {
+            answer: "/как доллар/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Как произносится буква 'y' ?",
+            answers: [
+            {
+            answer: "/уай/",
+            correct: true
+            },
+            {
+            answer: "/ай/",
+            correct: false
+            },
+            {
+            answer: "/У/",
+            correct: false
+            },
+            {
+            answer: "/и/",
+            correct: false
+            },
+            {
+            answer: "/ууу/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Как произносится буква 'Y' ?",
+            answers: [
+            {
+            answer: "/уай/",
+            correct: true
+            },
+            {
+            answer: "/игрик/",
+            correct: false
+            },
+            {
+            answer: "/ю/",
+            correct: false
+            },
+            {
+            answer: "как русская у",
+            correct: false
+            },
+            {
+            answer: "/ууу длинно тянем Уууу/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Нажми на букву /джи/",
+            answers: [
+            {
+            answer: "G",
+            correct: true
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "si",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "Нажми на букву /джи/",
+            answers: [
+            {
+            answer: "g",
+            correct: true
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "Q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Нажми на букву /джэй/",
+            answers: [
+            {
+            answer: "J",
+            correct: true
+            },
+            {
+            answer: "G",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "Q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Нажми на букву /джэй/",
+            answers: [
+            {
+            answer: "j",
+            correct: true
+            },
+            {
+            answer: "z",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "L",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Нажми на букву, которая произносится  / а /",
+            answers: [
+            {
+            answer: "R",
+            correct: true
+            },
+            {
+            answer: "A",
+            correct: false
+            },
+            {
+            answer: "U",
+            correct: false
+            },
+            {
+            answer: "Y",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "Нажми на букву, которая произносится  / а /",
+            answers: [
+            {
+            answer: "r",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "Y",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "Нажми на букву, которая произносится  / ай /",
+            answers: [
+            {
+            answer: "i",
+            correct: true
+            },
+            {
+            answer: "e",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "Нажми на букву, которая произносится  / би /",
+            answers: [
+            {
+            answer: "b",
+            correct: true
+            },
+            {
+            answer: "d",
+            correct: false
+            },
+            {
+            answer: "Б",
+            correct: false
+            },
+            {
+            answer: "v",
+            correct: false
+            },
+            {
+            answer: "W",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "Нажми на букву, которая произносится  / ви /",
+            answers: [
+            {
+            answer: "V",
+            correct: true
+            },
+            {
+            answer: "W",
+            correct: false
+            },
+            {
+            answer: "Y",
+            correct: false
+            },
+            {
+            answer: "E",
+            correct: false
+            },
+            {
+            answer: "U",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "Нажми на букву, которая произносится  / джи /",
+            answers: [
+            {
+            answer: "g",
+            correct: true
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "Нажми на букву, которая произносится  / джэй /",
+            answers: [
+            {
+            answer: "j",
+            correct: true
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "G",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Нажми на букву, которая произносится  / и /",
+            answers: [
+            {
+            answer: "e",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "&",
+            correct: false
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "Нажми на букву, которая произносится  / и /",
+            answers: [
+            {
+            answer: "E",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "I",
+            correct: false
+            },
+            {
+            answer: "N",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Нажми на букву, которая произносится  / кей /",
+            answers: [
+            {
+            answer: "k",
+            correct: true
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "c",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "Q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "Нажми на букву, которая произносится  / си /",
+            answers: [
+            {
+            answer: "c",
+            correct: true
+            },
+            {
+            answer: "s",
+            correct: false
+            },
+            {
+            answer: "see",
+            correct: false
+            },
+            {
+            answer: "sea",
+            correct: false
+            },
+            {
+            answer: "si",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Нажми на букву, которая произносится  / уай /",
+            answers: [
+            {
+            answer: "y",
+            correct: true
+            },
+            {
+            answer: "u",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "I",
+            correct: false
+            },
+            {
+            answer: "w",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "Нажми на букву, которая произносится  / уай /",
+            answers: [
+            {
+            answer: "Y",
+            correct: true
+            },
+            {
+            answer: "U",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "W",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "Нажми на букву, которая произносится  / эйч /",
+            answers: [
+            {
+            answer: "h",
+            correct: true
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            {
+            answer: "x",
+            correct: false
+            },
+            {
+            answer: "s",
+            correct: false
+            },
+            {
+            answer: "R",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "Нажми на букву, которая произносится  / эс /",
+            answers: [
+            {
+            answer: "s",
+            correct: true
+            },
+            {
+            answer: "c",
+            correct: false
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "x",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "Нажми на букву, которая произносится  / ю /",
+            answers: [
+            {
+            answer: "u",
+            correct: true
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            {
+            answer: "j",
+            correct: false
+            },
+            {
+            answer: "g",
+            correct: false
+            },
+            {
+            answer: "q",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "Нажми на букву, которая произносится  / ю /",
+            answers: [
+            {
+            answer: "U",
+            correct: true
+            },
+            {
+            answer: "Y",
+            correct: false
+            },
+            {
+            answer: "J",
+            correct: false
+            },
+            {
+            answer: "V",
+            correct: false
+            },
+            {
+            answer: "you",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "Так произносится одна из самых коварных букв /А/ что же это за буква?",
+            answers: [
+            {
+            answer: "R",
+            correct: true
+            },
+            {
+            answer: "A",
+            correct: false
+            },
+            {
+            answer: "U",
+            correct: false
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            {
+            answer: "H",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "Как на английском произносится слово KEY ?",
+            answers: [
+            {
+            answer: "/ки/",
+            correct: true
+            },
+            {
+            answer: "ключ",
+            correct: false
+            },
+            {
+            answer: "/кей/",
+            correct: false
+            },
+            {
+            answer: "/кеу/",
+            correct: false
+            },
+            {
+            answer: "/кий/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 40,
+            quizQuestion: "Произнеси английским буквами слово МАШИНА",
+            answers: [
+            {
+            answer: "си эй а",
+            correct: true
+            },
+            {
+            answer: "кей эй ар",
+            correct: false
+            },
+            {
+            answer: "кей эй а",
+            correct: false
+            },
+            {
+            answer: "цэ а эр",
+            correct: false
+            },
+            {
+            answer: "к а р",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 41,
+            quizQuestion: "Как произносится буква 'C' ?",
+            answers: [
+            {
+            answer: "/си/",
+            correct: true
+            },
+            {
+            answer: "/эс/",
+            correct: false
+            },
+            {
+            answer: "/цэ/",
+            correct: false
+            },
+            {
+            answer: "/кэ/",
+            correct: false
+            },
+            {
+            answer: "/с/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 42,
+            quizQuestion: "Как произносится буква 'K' ?",
+            answers: [
+            {
+            answer: "/кей/",
+            correct: true
+            },
+            {
+            answer: "/ка/",
+            correct: false
+            },
+            {
+            answer: "/кэ/",
+            correct: false
+            },
+            {
+            answer: "/кью/",
+            correct: false
+            },
+            {
+            answer: "/ку/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 43,
+            quizQuestion: "Нажми на букву, которая произносится  / ди /",
+            answers: [
+            {
+            answer: "d",
+            correct: true
+            },
+            {
+            answer: "b",
+            correct: false
+            },
+            {
+            answer: "W",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 44,
+            quizQuestion: "Нажми на букву / би /",
+            answers: [
+            {
+            answer: "b",
+            correct: true
+            },
+            {
+            answer: "d",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 45,
+            quizQuestion: "Нажми на букву / ай /",
+            answers: [
+            {
+            answer: "i",
+            correct: true
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 46,
+            quizQuestion: "Нажми на букву / и /",
+            answers: [
+            {
+            answer: "e",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "Нажми на букву / эй /",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "Нажми на букву / уай /",
+            answers: [
+            {
+            answer: "y",
+            correct: true
+            },
+            {
+            answer: "i",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 49,
+            quizQuestion: "Нажми на букву / ю /",
+            answers: [
+            {
+            answer: "u",
+            correct: true
+            },
+            {
+            answer: "y",
+            correct: false
+            },
+            ]
+            },
     ],
     lettersc2: [
         {
@@ -6372,553 +6499,1709 @@ correct: false
             ]
         },
     ],
-    m009old: [
+    verbToVerb: [
         {
+            id: 1,
+            quizQuestion: "I want ___ sleep. ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "She wants ___ sleep ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "I don't ___ have time. ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "I ilke ___ study English. ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Where do you need ___ go after this lesson? ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "To be or not ___ be? ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "My friends usually ___ play video games with me. ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "If you want ___ study English you must find a very good teacher ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Show must ___ go on ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Moscow never ___ sleeps ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "Do you ___ understand this grammar? ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "My family always ___ help me ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "When you want ___ do something very well, ___ do it yourself ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to, -",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "When is your ___ birthday? ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Vincent doesn't want ___ help me! ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Let's go! I want ___ party with you! ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Darling, you've gotta let me know: ___ should I ___ stay or ___ should I ___ go? ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: " - , - , - , -",
+            correct: true
+            },
+            {
+            answer: " to, to, to, to",
+            correct: false
+            },
+            {
+            answer: " - , to , - , to",
+            correct: false
+            },
+            {
+            answer: " to , - , to , -",
+            correct: false
+            },
+            {
+            answer: "Ааааа, капец я запутался, объясни!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "No woman, no ___ cry ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Some people eat to live, some people live___eat. ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Come closer, I really need ___ tell you something ( нужно to или не нужно - )",
+            answers: [
+            {
+            answer: "to",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            ]
+            },
+    ],
+    doOrdoes: [
+        {
+            id: 1,
+            quizQuestion: "______ your mother drive a car?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "_______his son go to school every day?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "______a cat like fish?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "______your grandmother work?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "_____ Lada dance well?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "_____her mother work?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "_____she swim in the lake?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "____he take a shower every day?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "____your dog bark every night?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "____my father work in the morning?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "____she brush her teeth 2 times a day?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "____Shally speak Chinese?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "____ Mirra swim very fast?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "_____animals eat every day?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "_____they swim every weekend?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "____Cristina and Marta sing well?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "____dogs run?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "____Jim and Jack play the guitar?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "____Mick and Mark like eating ice cream?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "____my brother and I study every day?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "____we go to the cinema on Saturday?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "____we speak English every day?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "____we watch TV on the weekend?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "____you and your family have dinner together?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "____you eat breakfast every morning?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "____your mom have breakfast with you in the morning?",
+            answers: [
+            {
+            answer: "does",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "___they play football every week?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "___you see animals at the zoo?",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+    ],
+    m012: [
+        {
+            id: 1,
+            quizQuestion: "Нажми на 101",
+            answers: [
+            {
+            answer: "a hundred one",
+            correct: true
+            },
+            {
+            answer: "one hundred",
+            correct: false
+            },
+            {
+            answer: "a hundred",
+            correct: false
+            },
+            {
+            answer: "one and one hundred",
+            correct: false
+            },
+            {
+            answer: "one zero hundred",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Нажми на 202",
+            answers: [
+            {
+            answer: "two hundred two",
+            correct: true
+            },
+            {
+            answer: "two hundreds two",
+            correct: false
+            },
+            {
+            answer: "twenty two",
+            correct: false
+            },
+            {
+            answer: "a hundred and two",
+            correct: false
+            },
+            {
+            answer: "twelve hundred two",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Нажми на 12",
+            answers: [
+            {
+            answer: "twelve",
+            correct: true
+            },
+            {
+            answer: "twenty",
+            correct: false
+            },
+            {
+            answer: "eleven",
+            correct: false
+            },
+            {
+            answer: "thirty two",
+            correct: false
+            },
+            {
+            answer: "ten and two",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Нажми на 22",
+            answers: [
+            {
+            answer: "twenty two",
+            correct: true
+            },
+            {
+            answer: "twelve two",
+            correct: false
+            },
+            {
+            answer: "eleven plus eleven",
+            correct: false
+            },
+            {
+            answer: "twenteen",
+            correct: false
+            },
+            {
+            answer: "twelveteen",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Нажми на 20",
+            answers: [
+            {
+            answer: "twenty",
+            correct: true
+            },
+            {
+            answer: "twelve",
+            correct: false
+            },
+            {
+            answer: "twenteen",
+            correct: false
+            },
+            {
+            answer: "twelveteen",
+            correct: false
+            },
+            {
+            answer: "two zero",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Нажми на 222",
+            answers: [
+            {
+            answer: "two hundred twenty two",
+            correct: true
+            },
+            {
+            answer: "two hundred twelve two",
+            correct: false
+            },
+            {
+            answer: "two hundred two twenty",
+            correct: false
+            },
+            {
+            answer: "twenty two hundred two",
+            correct: false
+            },
+            {
+            answer: "twelve hundred twenty two",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Нажми на 12",
+            answers: [
+            {
+            answer: "twelve",
+            correct: true
+            },
+            {
+            answer: "twenteen",
+            correct: false
+            },
+            {
+            answer: "twelveteen",
+            correct: false
+            },
+            {
+            answer: "one and two",
+            correct: false
+            },
+            {
+            answer: "ten plus two",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Как произносится 14 ?",
+            answers: [
+            {
+            answer: "/фотИИИН/",
+            correct: true
+            },
+            {
+            answer: "/фёртин/",
+            correct: false
+            },
+            {
+            answer: "/фёрти/",
+            correct: false
+            },
+            {
+            answer: "/фоутин/",
+            correct: false
+            },
+            {
+            answer: "/фОти/",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "How much is nine plus eleven? (Сколько будет nine plus eleven?)",
+            answers: [
+            {
+            answer: "twenty",
+            correct: true
+            },
+            {
+            answer: "twelve",
+            correct: false
+            },
+            {
+            answer: "twenteen",
+            correct: false
+            },
+            {
+            answer: "twelveteen",
+            correct: false
+            },
+            {
+            answer: "I don't know",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Twelve это",
+            answers: [
+            {
+            answer: "12",
+            correct: true
+            },
+            {
+            answer: "20",
+            correct: false
+            },
+            {
+            answer: "21",
+            correct: false
+            },
+            {
+            answer: "22",
+            correct: false
+            },
+            {
+            answer: "222",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "Twenty это",
+            answers: [
+            {
+            answer: "20",
+            correct: true
+            },
+            {
+            answer: "12",
+            correct: false
+            },
+            {
+            answer: "202",
+            correct: false
+            },
+            {
+            answer: "22",
+            correct: false
+            },
+            {
+            answer: "2",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "Thirty это",
+            answers: [
+            {
+            answer: "30",
+            correct: true
+            },
+            {
+            answer: "13",
+            correct: false
+            },
+            {
+            answer: "14",
+            correct: false
+            },
+            {
+            answer: "40",
+            correct: false
+            },
+            {
+            answer: "18",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "Fourteen это",
+            answers: [
+            {
+            answer: "14",
+            correct: true
+            },
+            {
+            answer: "40",
+            correct: false
+            },
+            {
+            answer: "13",
+            correct: false
+            },
+            {
+            answer: "30",
+            correct: false
+            },
+            {
+            answer: "19",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "Forty это",
+            answers: [
+            {
+            answer: "40",
+            correct: true
+            },
+            {
+            answer: "14",
+            correct: false
+            },
+            {
+            answer: "13",
+            correct: false
+            },
+            {
+            answer: "13",
+            correct: false
+            },
+            {
+            answer: "80",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Eighteen это",
+            answers: [
+            {
+            answer: "18",
+            correct: true
+            },
+            {
+            answer: "80",
+            correct: false
+            },
+            {
+            answer: "17",
+            correct: false
+            },
+            {
+            answer: "70",
+            correct: false
+            },
+            {
+            answer: "19",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Eighty это",
+            answers: [
+            {
+            answer: "80",
+            correct: true
+            },
+            {
+            answer: "18",
+            correct: false
+            },
+            {
+            answer: "90",
+            correct: false
+            },
+            {
+            answer: "19",
+            correct: false
+            },
+            {
+            answer: "17",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Eighteen hundred eighty eight это",
+            answers: [
+            {
+            answer: "888",
+            correct: true
+            },
+            {
+            answer: "818",
+            correct: false
+            },
+            {
+            answer: "881",
+            correct: false
+            },
+            {
+            answer: "808",
+            correct: false
+            },
+            {
+            answer: "188",
+            correct: false
+            },
+            ]
+            },
+            {
             id: 18,
             quizQuestion: "12 + 12 is ?",
             answers: [
-                {
-                    answer: "twenty four",
-                    correct: true
-                },
-                {
-                    answer: "twenty two",
-                    correct: false
-                },
-                {
-                    answer: "twelve",
-                    correct: false
-                },
-                {
-                    answer: "twelve two",
-                    correct: false
-                },
-                {
-                    answer: "twelve four",
-                    correct: false
-                },
+            {
+            answer: "twenty four",
+            correct: true
+            },
+            {
+            answer: "twenty two",
+            correct: false
+            },
+            {
+            answer: "twelve",
+            correct: false
+            },
+            {
+            answer: "twelve two",
+            correct: false
+            },
+            {
+            answer: "twelve four",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 19,
             quizQuestion: "10 + 10 is ?",
             answers: [
-                {
-                    answer: "twenty",
-                    correct: true
-                },
-                {
-                    answer: "twelve",
-                    correct: false
-                },
-                {
-                    answer: "twenteen",
-                    correct: false
-                },
-                {
-                    answer: "twelveteen",
-                    correct: false
-                },
-                {
-                    answer: "two zero",
-                    correct: false
-                },
+            {
+            answer: "twenty",
+            correct: true
+            },
+            {
+            answer: "twelve",
+            correct: false
+            },
+            {
+            answer: "twenteen",
+            correct: false
+            },
+            {
+            answer: "twelveteen",
+            correct: false
+            },
+            {
+            answer: "two zero",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 20,
             quizQuestion: "15 + 15 = ?",
             answers: [
-                {
-                    answer: "thirty",
-                    correct: true
-                },
-                {
-                    answer: "thirteen",
-                    correct: false
-                },
-                {
-                    answer: "fifteen",
-                    correct: false
-                },
-                {
-                    answer: "fifty",
-                    correct: false
-                },
-                {
-                    answer: "thirty five",
-                    correct: false
-                },
+            {
+            answer: "thirty",
+            correct: true
+            },
+            {
+            answer: "thirteen",
+            correct: false
+            },
+            {
+            answer: "fifteen",
+            correct: false
+            },
+            {
+            answer: "fifty",
+            correct: false
+            },
+            {
+            answer: "thirty five",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 21,
             quizQuestion: "Fifteen это",
             answers: [
-                {
-                    answer: "15",
-                    correct: true
-                },
-                {
-                    answer: "50",
-                    correct: false
-                },
-                {
-                    answer: "55",
-                    correct: false
-                },
-                {
-                    answer: "18",
-                    correct: false
-                },
-                {
-                    answer: "80",
-                    correct: false
-                },
+            {
+            answer: "15",
+            correct: true
+            },
+            {
+            answer: "50",
+            correct: false
+            },
+            {
+            answer: "55",
+            correct: false
+            },
+            {
+            answer: "18",
+            correct: false
+            },
+            {
+            answer: "80",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 22,
             quizQuestion: "Fifty это",
             answers: [
-                {
-                    answer: "50",
-                    correct: true
-                },
-                {
-                    answer: "15",
-                    correct: false
-                },
-                {
-                    answer: "55",
-                    correct: false
-                },
-                {
-                    answer: "30",
-                    correct: false
-                },
-                {
-                    answer: "13",
-                    correct: false
-                },
+            {
+            answer: "50",
+            correct: true
+            },
+            {
+            answer: "15",
+            correct: false
+            },
+            {
+            answer: "55",
+            correct: false
+            },
+            {
+            answer: "30",
+            correct: false
+            },
+            {
+            answer: "13",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 23,
             quizQuestion: "Как произносится 18 по-английски?",
             answers: [
-                {
-                    answer: "/эйтИИИН/",
-                    correct: true
-                },
-                {
-                    answer: "/найнтИИИН/",
-                    correct: false
-                },
-                {
-                    answer: "/найнти/",
-                    correct: false
-                },
-                {
-                    answer: "/эйти/",
-                    correct: false
-                },
-                {
-                    answer: "/найди/",
-                    correct: false
-                },
+            {
+            answer: "/эйтИИИН/",
+            correct: true
+            },
+            {
+            answer: "/найнтИИИН/",
+            correct: false
+            },
+            {
+            answer: "/найнти/",
+            correct: false
+            },
+            {
+            answer: "/эйти/",
+            correct: false
+            },
+            {
+            answer: "/найди/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 24,
             quizQuestion: "Как произносится 19 по-английски?",
             answers: [
-                {
-                    answer: "/найнтИИИН/",
-                    correct: true
-                },
-                {
-                    answer: "/найти/",
-                    correct: false
-                },
-                {
-                    answer: "/эйти/",
-                    correct: false
-                },
-                {
-                    answer: "/эйтИИИН/",
-                    correct: false
-                },
-                {
-                    answer: "/эйди/",
-                    correct: false
-                },
+            {
+            answer: "/найнтИИИН/",
+            correct: true
+            },
+            {
+            answer: "/найти/",
+            correct: false
+            },
+            {
+            answer: "/эйти/",
+            correct: false
+            },
+            {
+            answer: "/эйтИИИН/",
+            correct: false
+            },
+            {
+            answer: "/эйди/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 25,
             quizQuestion: "Как произносится 80 по-английски?",
             answers: [
-                {
-                    answer: "/эйти/",
-                    correct: true
-                },
-                {
-                    answer: "/найди/",
-                    correct: false
-                },
-                {
-                    answer: "/эйтИИИН/",
-                    correct: false
-                },
-                {
-                    answer: "/найнтИИИН/",
-                    correct: false
-                },
-                {
-                    answer: "/найнти/",
-                    correct: false
-                },
+            {
+            answer: "/эйти/",
+            correct: true
+            },
+            {
+            answer: "/найди/",
+            correct: false
+            },
+            {
+            answer: "/эйтИИИН/",
+            correct: false
+            },
+            {
+            answer: "/найнтИИИН/",
+            correct: false
+            },
+            {
+            answer: "/найнти/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 26,
             quizQuestion: "Как произносится 90 по-английски?",
             answers: [
-                {
-                    answer: "/найнди/",
-                    correct: true
-                },
-                {
-                    answer: "/эйти/",
-                    correct: false
-                },
-                {
-                    answer: "/эйти/",
-                    correct: false
-                },
-                {
-                    answer: "/эйтИИИН/",
-                    correct: false
-                },
-                {
-                    answer: "/эйди/",
-                    correct: false
-                },
+            {
+            answer: "/найти/",
+            correct: true
+            },
+            {
+            answer: "/эйти/",
+            correct: false
+            },
+            {
+            answer: "/эйти/",
+            correct: false
+            },
+            {
+            answer: "/эйтИИИН/",
+            correct: false
+            },
+            {
+            answer: "/эйди/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 27,
             quizQuestion: "Знак + плюс по английски произносится:",
             answers: [
-                {
-                    answer: "/плас/",
-                    correct: true
-                },
-                {
-                    answer: "/плус/",
-                    correct: false
-                },
-                {
-                    answer: "/плис/",
-                    correct: false
-                },
-                {
-                    answer: "/плаус/",
-                    correct: false
-                },
-                {
-                    answer: "/плюс/",
-                    correct: false
-                },
+            {
+            answer: "/плас/",
+            correct: true
+            },
+            {
+            answer: "/плус/",
+            correct: false
+            },
+            {
+            answer: "/плис/",
+            correct: false
+            },
+            {
+            answer: "/плаус/",
+            correct: false
+            },
+            {
+            answer: "/плюс/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 28,
             quizQuestion: "Знак - минус по английски произносится:",
             answers: [
-                {
-                    answer: "/майнэс/",
-                    correct: true
-                },
-                {
-                    answer: "/минус/",
-                    correct: false
-                },
-                {
-                    answer: "/так и произносится/",
-                    correct: false
-                },
-                {
-                    answer: "/мэйнус/",
-                    correct: false
-                },
-                {
-                    answer: "/минусик/",
-                    correct: false
-                },
+            {
+            answer: "/майнэс/",
+            correct: true
+            },
+            {
+            answer: "/минус/",
+            correct: false
+            },
+            {
+            answer: "/так и произносится/",
+            correct: false
+            },
+            {
+            answer: "/мэйнус/",
+            correct: false
+            },
+            {
+            answer: "/минусик/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 29,
             quizQuestion: "Знак = равно по английски можно произнести:",
             answers: [
-                {
-                    answer: "/из/",
-                    correct: true
-                },
-                {
-                    answer: "/ravno/",
-                    correct: false
-                },
-                {
-                    answer: "/ravnyaetsya/",
-                    correct: false
-                },
-                {
-                    answer: "/эквал/",
-                    correct: false
-                },
-                {
-                    answer: "/экуал/",
-                    correct: false
-                },
+            {
+            answer: "/из/",
+            correct: true
+            },
+            {
+            answer: "/ravno/",
+            correct: false
+            },
+            {
+            answer: "/ravnyaetsya/",
+            correct: false
+            },
+            {
+            answer: "/эквал/",
+            correct: false
+            },
+            {
+            answer: "/экуал/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 30,
             quizQuestion: "ПЕРВЫЙ по-английски:",
             answers: [
-                {
-                    answer: "/дэ фёст/",
-                    correct: true
-                },
-                {
-                    answer: "/дэ фист/",
-                    correct: false
-                },
-                {
-                    answer: "/дэ фаст/",
-                    correct: false
-                },
-                {
-                    answer: "/zэ фёрст/",
-                    correct: false
-                },
-                {
-                    answer: "/зе фёст/",
-                    correct: false
-                },
+            {
+            answer: "/дэ фёст/",
+            correct: true
+            },
+            {
+            answer: "/дэ фист/",
+            correct: false
+            },
+            {
+            answer: "/дэ фаст/",
+            correct: false
+            },
+            {
+            answer: "/zэ фёрст/",
+            correct: false
+            },
+            {
+            answer: "/зе фёст/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 31,
             quizQuestion: "ПОСЛЕДНИЙ по-английски:",
             answers: [
-                {
-                    answer: "the last",
-                    correct: true
-                },
-                {
-                    answer: "the lost",
-                    correct: false
-                },
-                {
-                    answer: "the loser",
-                    correct: false
-                },
-                {
-                    answer: "the end",
-                    correct: false
-                },
-                {
-                    answer: "the final",
-                    correct: false
-                },
+            {
+            answer: "the last",
+            correct: true
+            },
+            {
+            answer: "the lost",
+            correct: false
+            },
+            {
+            answer: "the loser",
+            correct: false
+            },
+            {
+            answer: "the end",
+            correct: false
+            },
+            {
+            answer: "the final",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 32,
             quizQuestion: "ВОСЬМОЙ на английском это:",
             answers: [
-                {
-                    answer: "the eighth",
-                    correct: true
-                },
-                {
-                    answer: "the nineth",
-                    correct: false
-                },
-                {
-                    answer: "the tenth",
-                    correct: false
-                },
-                {
-                    answer: "the seventh",
-                    correct: false
-                },
-                {
-                    answer: "the twelfth",
-                    correct: false
-                },
+            {
+            answer: "the eighth",
+            correct: true
+            },
+            {
+            answer: "the nineth",
+            correct: false
+            },
+            {
+            answer: "the tenth",
+            correct: false
+            },
+            {
+            answer: "the seventh",
+            correct: false
+            },
+            {
+            answer: "the twelfth",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 33,
             quizQuestion: "9 тысяч по-английски это",
             answers: [
-                {
-                    answer: "nine thousand",
-                    correct: true
-                },
-                {
-                    answer: "nine hundred",
-                    correct: false
-                },
-                {
-                    answer: "nine thousands",
-                    correct: false
-                },
-                {
-                    answer: "nine hundreds",
-                    correct: false
-                },
-                {
-                    answer: "eight thousand",
-                    correct: false
-                },
+            {
+            answer: "nine thousand",
+            correct: true
+            },
+            {
+            answer: "nine hundred",
+            correct: false
+            },
+            {
+            answer: "nine thousands",
+            correct: false
+            },
+            {
+            answer: "nine hundreds",
+            correct: false
+            },
+            {
+            answer: "eight thousand",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 34,
             quizQuestion: "сто долларов это",
             answers: [
-                {
-                    answer: "a hundred dollars",
-                    correct: true
-                },
-                {
-                    answer: "one thousand dollars",
-                    correct: false
-                },
-                {
-                    answer: "a hundred dollar",
-                    correct: false
-                },
-                {
-                    answer: "1 thousand dollars",
-                    correct: false
-                },
-                {
-                    answer: "1 hundreds dollars",
-                    correct: false
-                },
+            {
+            answer: "a hundred dollars",
+            correct: true
+            },
+            {
+            answer: "one thousand dollars",
+            correct: false
+            },
+            {
+            answer: "a hundred dollar",
+            correct: false
+            },
+            {
+            answer: "1 thousand dollars",
+            correct: false
+            },
+            {
+            answer: "1 hundreds dollars",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 35,
             quizQuestion: "двести баксов на инглише это $200",
             answers: [
-                {
-                    answer: "two hundred bucks",
-                    correct: true
-                },
-                {
-                    answer: "2 hundreds bucks",
-                    correct: false
-                },
-                {
-                    answer: "too much",
-                    correct: false
-                },
-                {
-                    answer: "a lot of money",
-                    correct: false
-                },
-                {
-                    answer: "2 thousand bucks",
-                    correct: false
-                },
+            {
+            answer: "two hundred bucks",
+            correct: true
+            },
+            {
+            answer: "2 hundreds bucks",
+            correct: false
+            },
+            {
+            answer: "too much",
+            correct: false
+            },
+            {
+            answer: "a lot of money",
+            correct: false
+            },
+            {
+            answer: "2 thousand bucks",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 36,
             quizQuestion: "Как НЕ произносится НОЛЬ на английском?",
             answers: [
-                {
-                    answer: "/zЭро/ или /зирО/" ,
-                    correct: true
-                },
-                {
-                    answer: "/зИроу/",
-                    correct: false
-                },
-                {
-                    answer: "/оу/",
-                    correct: false
-                },
-                {
-                    answer: "/нот/",
-                    correct: false
-                },
-                {
-                    answer: "/oh/",
-                    correct: false
-                },
+            {
+            answer: "/zЭро/",
+            correct: true
+            },
+            {
+            answer: "/зИроу/",
+            correct: false
+            },
+            {
+            answer: "/оу/",
+            correct: false
+            },
+            {
+            answer: "/зирО/",
+            correct: false
+            },
+            {
+            answer: "/oh/",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 37,
             quizQuestion: "Половина по английски это",
             answers: [
-                {
-                    answer: " a half",
-                    correct: true
-                },
-                {
-                    answer: "a quartret",
-                    correct: false
-                },
-                {
-                    answer: "a percent",
-                    correct: false
-                },
-                {
-                    answer: "a second",
-                    correct: false
-                },
-                {
-                    answer: "a polovina",
-                    correct: false
-                },
+            {
+            answer: " a half",
+            correct: true
+            },
+            {
+            answer: "a quartret",
+            correct: false
+            },
+            {
+            answer: "a percent",
+            correct: false
+            },
+            {
+            answer: "a second",
+            correct: false
+            },
+            {
+            answer: "a polovina",
+            correct: false
+            },
             ]
-        },
-        {
+            },
+            {
             id: 38,
             quizQuestion: "Как сказать по-английски: посчитай от 10 до 0",
             answers: [
-                {
-                    answer: "count from ten to zero",
-                    correct: true
-                },
-                {
-                    answer: "count from zero to ten",
-                    correct: false
-                },
-                {
-                    answer: "count to ten from zero",
-                    correct: false
-                },
-                {
-                    answer: "take a calculator",
-                    correct: false
-                },
-                {
-                    answer: "GOD, please help",
-                    correct: false
-                },
+            {
+            answer: "count from ten to zero",
+            correct: true
+            },
+            {
+            answer: "count from zero to ten",
+            correct: false
+            },
+            {
+            answer: "count to ten from zero",
+            correct: false
+            },
+            {
+            answer: "take a calculator",
+            correct: false
+            },
+            {
+            answer: "GOD, please help",
+            correct: false
+            },
             ]
-        },
+            },
+            {
+            id: 39,
+            quizQuestion: "Равняется или равно на английском произносится :",
+            answers: [
+            {
+            answer: "/Иквэлz/",
+            correct: true
+            },
+            {
+            answer: "/ravno/",
+            correct: false
+            },
+            {
+            answer: "/ravnyaetsya/",
+            correct: false
+            },
+            {
+            answer: "/ит/",
+            correct: false
+            },
+            {
+            answer: "/икуЭжн/",
+            correct: false
+            },
+            ]
+            },
     ],
     numbersa1: [
         {

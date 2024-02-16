@@ -1,5 +1,4 @@
 // чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R  ^(\s)*$\n 
-
 const benderWordOrderSentences = {
     devmode1: [
         {
@@ -40,117 +39,131 @@ const benderWordOrderSentences = {
             ru:"Я робот и моё имя Бендер.",
            },
     ],
-    m006: [
+    m003: [
+        {
+            id:101,
+            eng:"my friends are good .",
+            ru:"мои друзья хорошие.",
+            },
+            {
+            id:102,
+            eng:"are your friends good ?",
+            ru:"твои друзья хорошие?",
+            },
+            {
+            id:103,
+            eng:"we are not stupid students !",
+            ru:"мы не глупые студенты!",
+            },
+            {
+            id:104,
+            eng:"what is his name ?",
+            ru:"Какое его имя?",
+            },
+            {
+            id:105,
+            eng:"it is a good robot .",
+            ru:"это хороший робот.",
+            },
+            {
+            id:106,
+            eng:"am I a stupid robot ?",
+            ru:"я глупый робот?",
+            },
+    ],
+    m009old: [
         {
             id:1,
             eng:"we are good friends .",
             ru:"мы хорошие друзья",
-            
             },
             {
             id:2,
             eng:"Vincent is a cool teacher.",
             ru:"Винсент классный учитель",
-            
             },
             {
             id:3,
             eng:"Vincent is not a teacher he is my friend .",
             ru:"Винсент не учитель, он мой друг",
-            
             },
             {
             id:4,
             eng:"where are you from ?",
             ru:"откуда вы родом?",
-            
             },
             {
             id:5,
             eng:"how are you today ?",
             ru:"как вы сегодня себя чувствуете?",
-            
             },
             {
             id:6,
             eng:"I am not a stupid student .",
             ru:"я не тупой студент",
-            
             },
             {
             id:7,
             eng:"I am not lazy /лЭйзи/ .",
             ru:"я не ленивый.",
-            
             },
             {
             id:8,
             eng:"you are very slow !",
             ru:"вы очень медленная",
-            
             },
             {
             id:9,
             eng:"I am not fat .",
             ru:"я не жирная",
-            
             },
             {
             id:10,
             eng:"you are my buddy .",
             ru:"вы мой приятель",
-            
             },
             {
             id:11,
             eng:"it is their dog .",
             ru:"это их собака",
-            
             },
             {
             id:12,
             eng:"their cat is ugly .",
             ru:"их кошка уродлива",
-            
             },
             {
             id:13,
             eng:"our cat is always hungry .",
             ru:"наша кошка всегда голодная",
-            
             },
             {
             id:14,
             eng:"bananas are yellow .",
             ru:"бананы желтые",
-            
             },
             {
             id:15,
             eng:"It is a very good game .",
             ru:"Это очень хорошая игра.",
-            
             },
             {
             id:16,
             eng:"how do you feel today ?",
             ru:"Как вы себя чувствуете сегодня?",
-            
             },
             {
             id:17,
             eng:"a robot wants to speak English .",
             ru:"Робот хочет разговаривать на английском.",
-            
             },
             {
             id:18,
             eng:"I am a robot and my name is Bender.",
             ru:"Я робот и моё имя Бендер.",
-            
             },
     ],
-    interview1: [
+    m007: [
         {
             id:1,
             eng:"I am clever .",
@@ -241,94 +254,78 @@ const benderWordOrderSentences = {
             id:1,
             eng:"where does Bender work ?",
             ru:"Где работает Бендер?",
-            
             },
             {
             id:2,
             eng:"what time do you do homework ?",
             ru:"Во сколько ты делаешь домашнюю работу?",
-            
             },
             {
             id:3,
             eng:"where does your best friend live ?",
             ru:"Где живет твой лучший друг?",
-            
             },
             {
             id:4,
             eng:"how often do you study English ?",
             ru:"Как часто вы учите английский?",
-            
             },
             {
             id:5,
             eng:"my teacher is the best !",
             ru:"Мой учитель самый лучший!",
-            
             },
             {
             id:6,
             eng:"it is not an easy test .",
             ru:"Это не лёгкий тест.",
-            
             },
             {
             id:7,
             eng:"do you like dogs or cats more ?",
             ru:"Вам больше нравятся собаки или кошки?",
-            
             },
             {
             id:8,
             eng:"a robot does not understand .",
             ru:"Робот не понимает.",
-            
             },
             {
             id:9,
             eng:"what is your phone number ?",
             ru:"Какой ваш номер телефона?",
-            
             },
             {
             id:10,
             eng:"what car does she have ?",
             ru:"Какая у неемашина?",
-            
             },
             {
             id:11,
             eng:"he does not do homework every day.",
             ru:"Он не выполняет домашку каждый день.",
-            
             },
             {
             id:12,
             eng:"does Vincent help you with English ?",
             ru:"Винсент помогает вам с английским?",
-            
             },
             {
             id:13,
             eng:"you are a very smart student .",
             ru:"Вы учень сообразительный студент",
-            
             },
             {
             id:14,
             eng:"am I your best friend ?",
             ru:"Я твой лучший друг?",
-            
             },
             {
             id:15,
             eng:"My teacher has a young cat and an old monkey.",
             ru:"У моего учителя есть молодой кот и старая обезьяна",
-            
             },
     ],
-   
     m013: [
         {
             id:1,
