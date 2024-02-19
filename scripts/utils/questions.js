@@ -37,6 +37,614 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    advice02: [
+        {
+            id:1,
+            eng:"Smoke",
+            ru:"Курить",
+            hint:""
+            },
+            {
+            id:2,
+            eng:"Take drugs",
+            ru:"Употреблять наркотики",
+            hint:""
+            },
+            {
+            id:3,
+            eng:"drink alcohol",
+            ru:"злоупотреблять алкоголем",
+            hint:""
+            },
+            {
+            id:4,
+            eng:"be lazy",
+            ru:"лениться",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"eat after eight",
+            ru:"есть после шести",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"Sleep 12 hours",
+            ru:"спать 12 часов",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"kiss Vincent",
+            ru:"целовать вИнсента",
+            hint:""
+            },
+            {
+            id:8,
+            eng:"Compare yourself to others",
+            ru:"Сравнивать себя с другими",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"Surround yourself with negative people",
+            ru:"Окружать себя негативными людьми",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"cry about the past",
+            ru:"плакать, рыдать о прошлом",
+            hint:""
+            },
+            {
+            id:11,
+            eng:"Fear the future",
+            ru:"Бояться будущего",
+            hint:""
+            },
+            {
+            id:12,
+            eng:"Procrastinate",
+            ru:"Откладывать дела на потом",
+            hint:""
+            },
+            {
+            id:13,
+            eng:"agree for less than you deserve",
+            ru:"Соглашаться на меньшее, чем заслуживаешь",
+            hint:""
+            },
+            {
+            id:14,
+            eng:"Sacrifice your happiness for others",
+            ru:"Жертвовать своим счастьем ради других",
+            hint:""
+            },
+            {
+            id:15,
+            eng:"spend more money than you have",
+            ru:"тратить больше, чем имеешь",
+            hint:""
+            },
+            {
+            id:16,
+            eng:"make many debts",
+            ru:"входить в долги",
+            hint:""
+            },
+            {
+            id:17,
+            eng:"Gamble",
+            ru:"Ввязываться в азартные игры",
+            hint:""
+            },
+            {
+            id:18,
+            eng:"Take loans that you can't pay off",
+            ru:"Брать кредиты, которые не можешь оплатить",
+            hint:""
+            },
+            {
+            id:19,
+            eng:"Buy things you don't need",
+            ru:"Покупать вещи, которые тебе не нужны",
+            hint:""
+            },
+            {
+            id:20,
+            eng:"Spend too much time on social media",
+            ru:"Тратить слишком много времени на социальные сети",
+            hint:""
+            },
+            {
+            id:21,
+            eng:"Gossip about others",
+            ru:"Сплетничать о других",
+            hint:""
+            },
+            {
+            id:22,
+            eng:"Complain about life",
+            ru:"Жаловаться на жизнь",
+            hint:""
+            },
+            {
+            id:23,
+            eng:"Be pessimistic",
+            ru:"Быть пессимистом",
+            hint:""
+            },
+            {
+            id:24,
+            eng:"Give up easily",
+            ru:"Сдаваться при первых же трудностях",
+            hint:""
+            },
+            {
+            id:25,
+            eng:"Envy others",
+            ru:"Завидовать другим",
+            hint:""
+            },
+            {
+            id:26,
+            eng:"tell a lie",
+            ru:"Лгать",
+            hint:""
+            },
+            {
+            id:27,
+            eng:"Steal",
+            ru:"Воровать",
+            hint:""
+            },
+            {
+            id:28,
+            eng:"Murder",
+            ru:"Убивать",
+            hint:""
+            },
+            {
+            id:29,
+            eng:"pick your nose",
+            ru:"Ковырять в носу",
+            hint:""
+            },
+            {
+            id:30,
+            eng:"lick fingers",
+            ru:"облизывать пальцы",
+            hint:""
+            },
+            {
+            id:31,
+            eng:"Eat boogers",
+            ru:"Есть козявки",
+            hint:""
+            },
+            {
+            id:32,
+            eng:"Make funny faces at strangers",
+            ru:"Корчить рожи незнакомцам",
+            hint:""
+            },
+            {
+            id:33,
+            eng:"Tell bad things about Vincent",
+            ru:"гговорить гадости про Винсента",
+            hint:""
+            },
+            {
+            id:34,
+            eng:"Pretend somebody else",
+            ru:"притворятся кем-то другим",
+            hint:""
+            },
+            {
+            id:35,
+            eng:"Play with food",
+            ru:"Играть с едой",
+            hint:""
+            },
+            {
+            id:36,
+            eng:"Draw on walls or furniture",
+            ru:"Рисовать на стенах или мебели",
+            hint:""
+            },
+            {
+            id:37,
+            eng:"Make a mess",
+            ru:"Устраивать беспорядок",
+            hint:""
+            },
+            {
+            id:38,
+            eng:"Run around naked",
+            ru:"Бегать голышом",
+            hint:""
+            },
+            {
+            id:39,
+            eng:"Yell and scream for no reason",
+            ru:"Кричать и визжать без причины",
+            hint:""
+            },
+            {
+            id:40,
+            eng:"make drama",
+            ru:"Устраивать истерики",
+            hint:""
+            },
+            {
+            id:41,
+            eng:"Bite nails",
+            ru:"Грызть ногти",
+            hint:""
+            },
+            {
+            id:42,
+            eng:"eat yellow snow",
+            ru:"есть желтый снег",
+            hint:""
+            },
+            {
+            id:43,
+            eng:"Play with fire",
+            ru:"Играть с огнем",
+            hint:""
+            },
+            {
+            id:44,
+            eng:"try to put fingers into a socket",
+            ru:"пытаться вставить пальцы в розетку",
+            hint:""
+            },
+            {
+            id:45,
+            eng:"Run into the street without looking",
+            ru:"Выбегать на дорогу, не глядя по сторонам",
+            hint:""
+            },
+            {
+            id:46,
+            eng:"make a dog angry",
+            ru:"злить собаку",
+            hint:""
+            },
+            {
+            id:47,
+            eng:"Jump on cars in the streets",
+            ru:"запрыгивать на машины на улице",
+            hint:""
+            },
+            {
+            id:48,
+            eng:"Play with sharp objects",
+            ru:"Играть с острыми предметами",
+            hint:""
+            },
+            {
+            id:49,
+            eng:"eat stones",
+            ru:"есть камни",
+            hint:""
+            },
+            {
+            id:50,
+            eng:"Touch animals in the street",
+            ru:"Трогать животных на улице",
+            hint:""
+            },
+            {
+            id:51,
+            eng:"Talk to strangers online",
+            ru:"Общаться с незнакомцами в интернете",
+            hint:""
+            },
+            {
+            id:52,
+            eng:"go to forest without a hat in winter",
+            ru:"Ходить зимой в лес без шапки",
+            hint:""
+            },
+            {
+            id:53,
+            eng:"play computer games all night",
+            ru:"играть в компьютерные игры всю ночь",
+            hint:""
+            },
+            {
+            id:54,
+            eng:"Eat too much sugar",
+            ru:"Есть слишком много сахара",
+            hint:""
+            },
+            {
+            id:55,
+            eng:"Watch too much TV",
+            ru:"Слишком много смотреть телевизор",
+            hint:""
+            },
+            {
+            id:56,
+            eng:"Be a lazy ass",
+            ru:"быть ленивой жопкой",
+            hint:""
+            },
+            {
+            id:57,
+            eng:"Be mean to others",
+            ru:"Быть злым по отношению к другим",
+            hint:""
+            },
+            {
+            id:58,
+            eng:"Brush teeth twice a day",
+            ru:"Чистить зубы два раза в день",
+            hint:""
+            },
+            {
+            id:59,
+            eng:"Wash hands often",
+            ru:"Часто мыть руки",
+            hint:""
+            },
+            {
+            id:60,
+            eng:"Do exercise",
+            ru:"Делать упражнения",
+            hint:""
+            },
+            {
+            id:61,
+            eng:"Eat healthy food",
+            ru:"Питаться здоровой пищей",
+            hint:""
+            },
+            {
+            id:62,
+            eng:"Sleep enough",
+            ru:"Высыпаться",
+            hint:""
+            },
+            {
+            id:63,
+            eng:"Be kind to others",
+            ru:"Быть добрым к другим",
+            hint:""
+            },
+            {
+            id:64,
+            eng:"Help friends",
+            ru:"Помогать друзьям",
+            hint:""
+            },
+            {
+            id:65,
+            eng:"Read books",
+            ru:"Читать книги",
+            hint:""
+            },
+            {
+            id:66,
+            eng:"Play outside",
+            ru:"Играть на улице",
+            hint:""
+            },
+            {
+            id:67,
+            eng:"Get creative",
+            ru:"Творить",
+            hint:""
+            },
+            {
+            id:68,
+            eng:"Have fun!",
+            ru:"Веселиться!",
+            hint:""
+            },
+            {
+            id:69,
+            eng:"Be honest",
+            ru:"Быть честным",
+            hint:""
+            },
+            {
+            id:70,
+            eng:"Be responsible",
+            ru:"Быть ответственным",
+            hint:""
+            },
+            {
+            id:71,
+            eng:"Be respectful",
+            ru:"Быть уважительным",
+            hint:""
+            },
+            {
+            id:72,
+            eng:"Be a good friend",
+            ru:"Быть хорошим другом",
+            hint:""
+            },
+            {
+            id:73,
+            eng:"Be a nice student",
+            ru:"Быть хорошим учеником",
+            hint:""
+            },
+            {
+            id:74,
+            eng:"Be a role model for your children",
+            ru:"Быть хорошим примером для подражания для своих детей",
+            hint:""
+            },
+            {
+            id:75,
+            eng:"Respect people for their actions",
+            ru:"уважать людей за их поступки",
+            hint:""
+            },
+            {
+            id:76,
+            eng:"respect a teacher",
+            ru:"уважать училку!",
+            hint:""
+            },
+            {
+            id:77,
+            eng:"Drink water with lemon",
+            ru:"Пить воду с лимоном",
+            hint:""
+            },
+            {
+            id:78,
+            eng:"go to a dentist once a year",
+            ru:"ходить к стоматологу раз в год",
+            hint:""
+            },
+            {
+            id:79,
+            eng:"Be a leader",
+            ru:"Быть лидером",
+            hint:""
+            },
+            {
+            id:80,
+            eng:"make a world a better place",
+            ru:"Менять мир к лучшему",
+            hint:""
+            },
+            {
+            id:81,
+            eng:"Be happy",
+            ru:"Быть счастливым",
+            hint:""
+            },
+            {
+            id:82,
+            eng:"Be healthy",
+            ru:"Быть здоровым",
+            hint:""
+            },
+            {
+            id:83,
+            eng:"Be safe",
+            ru:"Быть в безопасности",
+            hint:""
+            },
+            {
+            id:84,
+            eng:"Be smart",
+            ru:"Быть умным",
+            hint:""
+            },
+            {
+            id:85,
+            eng:"Be strong",
+            ru:"Быть сильным",
+            hint:""
+            },
+            {
+            id:86,
+            eng:"be brave",
+            ru:"Быть смелым",
+            hint:""
+            },
+            {
+            id:87,
+            eng:"Be yourself",
+            ru:"Быть собой!",
+            hint:""
+            },
+            {
+            id:88,
+            eng:"Be kind to your family",
+            ru:"Будьте добры к своим братьям и сестрам.",
+            hint:""
+            },
+            {
+            id:89,
+            eng:"drink with Vincent behind the garages",
+            ru:"выпивать с Винсентом за гаражами",
+            hint:""
+            },
+            {
+            id:90,
+            eng:"Make your bed every morning.",
+            ru:"Заправляйте свою кровать каждое утро.",
+            hint:""
+            },
+            {
+            id:91,
+            eng:"Wash your plate after dinner.",
+            ru:"Помыть свою тарелку после ужина.",
+            hint:""
+            },
+            {
+            id:92,
+            eng:"Take out the trash.",
+            ru:"Выносите мусор.",
+            hint:""
+            },
+            {
+            id:93,
+            eng:"Sweep the floor.",
+            ru:"Подметайте пол.",
+            hint:""
+            },
+            {
+            id:94,
+            eng:"Wash the floor.",
+            ru:"Мойте пол.",
+            hint:""
+            },
+            {
+            id:95,
+            eng:"Play with toys",
+            ru:"играть в игрушки",
+            hint:""
+            },
+            {
+            id:96,
+            eng:"Help with the laundry.",
+            ru:"Помогайте со стиркой.",
+            hint:""
+            },
+            {
+            id:97,
+            eng:"Be thankful",
+            ru:"Быть благодарным",
+            hint:""
+            },
+            {
+            id:98,
+            eng:"Be polite",
+            ru:"быть вежливым",
+            hint:""
+            },
+            {
+            id:99,
+            eng:"sing songs that Vincent sings",
+            ru:"петь песни, которые поет Винсент",
+            hint:""
+            },
+            {
+            id:100,
+            eng:"look attractive",
+            ru:"выглядеть привлекательно",
+            hint:""
+            },
+            {
+            id:101,
+            eng:"Do your homework",
+            ru:"Делать домашнее задание",
+            hint:""
+            },
+    ],
     randomverbA1: [
         {
             id:1,
