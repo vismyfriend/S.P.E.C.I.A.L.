@@ -46,33 +46,33 @@ const allQuestionsOneDeck = {
             },
             {
             id:2,
-            eng:"Take drugs",
+            eng:"Take drugs / тэйк дрАгз /",
             ru:"Употреблять наркотики",
-            hint:""
+            hint:" / тэйк дрАгз /"
             },
             {
             id:3,
-            eng:"drink alcohol",
+            eng:"drink alcohol / Элкохол /",
             ru:"злоупотреблять алкоголем",
-            hint:""
+            hint:" / Элкохол /"
             },
             {
             id:4,
-            eng:"be lazy",
+            eng:"be lazy / би лЭйзи /",
             ru:"лениться",
-            hint:""
+            hint:" / би лЭйзи /"
             },
             {
             id:5,
-            eng:"eat after eight",
+            eng:"eat after eight / ит Афтэ эйт /",
             ru:"есть после шести",
-            hint:""
+            hint:" / ит Афтэ эйт /"
             },
             {
             id:6,
-            eng:"Sleep 12 hours",
+            eng:"Sleep 12 hours / туЭлв Аурз /",
             ru:"спать 12 часов",
-            hint:""
+            hint:" / туЭлв Аурз /"
             },
             {
             id:7,
@@ -82,45 +82,45 @@ const allQuestionsOneDeck = {
             },
             {
             id:8,
-            eng:"Compare yourself to others",
+            eng:"Compare yourself to others / компЭэ /",
             ru:"Сравнивать себя с другими",
-            hint:""
+            hint:" / компЭэ /"
             },
             {
             id:9,
-            eng:"Surround yourself with negative people",
+            eng:"Surround yourself with negative people / сэрАунд ёсэлф  /",
             ru:"Окружать себя негативными людьми",
-            hint:""
+            hint:" / сэрАунд ёсэлф  /"
             },
             {
             id:10,
-            eng:"cry about the past",
+            eng:"cry about the past / крАй эбАут дэ пАст /",
             ru:"плакать, рыдать о прошлом",
-            hint:""
+            hint:" / крАй эбАут дэ пАст /"
             },
             {
             id:11,
-            eng:"Fear the future",
+            eng:"Fear the future / фИа дэ фьЮчэ /",
             ru:"Бояться будущего",
-            hint:""
+            hint:" / фИа дэ фьЮчэ /"
             },
             {
             id:12,
-            eng:"Procrastinate",
+            eng:"Procrastinate / прокрАстинэйт /",
             ru:"Откладывать дела на потом",
-            hint:""
+            hint:" / прокрАстинэйт /"
             },
             {
             id:13,
-            eng:"agree for less than you deserve",
+            eng:"agree for less than you deserve / эгрИ фо лЭс дэн ю дезЁрв /",
             ru:"Соглашаться на меньшее, чем заслуживаешь",
-            hint:""
+            hint:" / эгрИ фо лЭс дэн ю дезЁрв /"
             },
             {
             id:14,
-            eng:"Sacrifice your happiness for others",
+            eng:"Sacrifice your happiness for others / сЭкрифайс йо хЭпинэс /",
             ru:"Жертвовать своим счастьем ради других",
-            hint:""
+            hint:" / сЭкрифайс йо хЭпинэс /"
             },
             {
             id:15,
@@ -130,21 +130,21 @@ const allQuestionsOneDeck = {
             },
             {
             id:16,
-            eng:"make many debts",
+            eng:"make many debts / дЭтс /",
             ru:"входить в долги",
-            hint:""
+            hint:" / дЭтс /"
             },
             {
             id:17,
-            eng:"Gamble",
+            eng:"Gamble / гЭмбл /",
             ru:"Ввязываться в азартные игры",
-            hint:""
+            hint:" / гЭмбл /"
             },
             {
             id:18,
-            eng:"Take loans that you can't pay off",
+            eng:"Take loans that you can't pay off / тэй лОунс /",
             ru:"Брать кредиты, которые не можешь оплатить",
-            hint:""
+            hint:" / тэй лОунс /"
             },
             {
             id:19,
@@ -154,21 +154,21 @@ const allQuestionsOneDeck = {
             },
             {
             id:20,
-            eng:"Spend too much time on social media",
+            eng:"Spend too much time on social media / соУшиал мЕдиа /",
             ru:"Тратить слишком много времени на социальные сети",
-            hint:""
+            hint:" / соУшиал мЕдиа /"
             },
             {
             id:21,
-            eng:"Gossip about others",
+            eng:"Gossip about others / гОссип /",
             ru:"Сплетничать о других",
-            hint:""
+            hint:" / гОссип /"
             },
             {
             id:22,
-            eng:"Complain about life",
+            eng:"Complain about life / комплЭйн /",
             ru:"Жаловаться на жизнь",
-            hint:""
+            hint:" / комплЭйн /"
             },
             {
             id:23,
@@ -178,57 +178,57 @@ const allQuestionsOneDeck = {
             },
             {
             id:24,
-            eng:"Give up easily",
+            eng:"Give up easily / Изили /",
             ru:"Сдаваться при первых же трудностях",
-            hint:""
+            hint:" / Изили /"
             },
             {
             id:25,
-            eng:"Envy others",
+            eng:"Envy others / Энви Адэрз /",
             ru:"Завидовать другим",
-            hint:""
+            hint:" / Энви Адэрз /"
             },
             {
             id:26,
-            eng:"tell a lie",
+            eng:"tell a lie / тэл э лай /",
             ru:"Лгать",
-            hint:""
+            hint:" / тэл э лай /"
             },
             {
             id:27,
-            eng:"Steal",
+            eng:"Steal / стил /",
             ru:"Воровать",
-            hint:""
+            hint:" / стил /"
             },
             {
             id:28,
-            eng:"Murder",
+            eng:"Murder / мёрдэр /",
             ru:"Убивать",
-            hint:""
+            hint:" / мёрдэр /"
             },
             {
             id:29,
-            eng:"pick your nose",
+            eng:"pick your nose / пик ё ноуз /",
             ru:"Ковырять в носу",
-            hint:""
+            hint:" / пик ё ноуз /"
             },
             {
             id:30,
-            eng:"lick fingers",
+            eng:"lick fingers / лик фингерз /",
             ru:"облизывать пальцы",
-            hint:""
+            hint:" / лик фингерз /"
             },
             {
             id:31,
-            eng:"Eat boogers",
+            eng:"Eat boogers / бУгэрz /",
             ru:"Есть козявки",
-            hint:""
+            hint:" / бУгэрz /"
             },
             {
             id:32,
-            eng:"Make funny faces at strangers",
+            eng:"Make funny faces at strangers / стрэйнджерз /",
             ru:"Корчить рожи незнакомцам",
-            hint:""
+            hint:" / стрэйнджерз /"
             },
             {
             id:33,
@@ -238,9 +238,9 @@ const allQuestionsOneDeck = {
             },
             {
             id:34,
-            eng:"Pretend somebody else",
+            eng:"Pretend somebody else / претенд сАмбади Элс /",
             ru:"притворятся кем-то другим",
-            hint:""
+            hint:" / претенд сАмбади Элс /"
             },
             {
             id:35,
@@ -250,27 +250,27 @@ const allQuestionsOneDeck = {
             },
             {
             id:36,
-            eng:"Draw on walls or furniture",
+            eng:"Draw on walls or furniture / дро он уолz  фЁрниче /",
             ru:"Рисовать на стенах или мебели",
-            hint:""
+            hint:" / дро он уолz  фЁрниче /"
             },
             {
             id:37,
-            eng:"Make a mess",
+            eng:"Make a mess / мЭйк э мэс /",
             ru:"Устраивать беспорядок",
-            hint:""
+            hint:" / мЭйк э мэс /"
             },
             {
             id:38,
-            eng:"Run around naked",
+            eng:"Run around naked / ран эрАунд нЭйкид /",
             ru:"Бегать голышом",
-            hint:""
+            hint:" / ран эрАунд нЭйкид /"
             },
             {
             id:39,
-            eng:"Yell and scream for no reason",
+            eng:"Yell and scream for no reason / йел энд скрим /",
             ru:"Кричать и визжать без причины",
-            hint:""
+            hint:" / йел энд скрим /"
             },
             {
             id:40,
@@ -280,9 +280,9 @@ const allQuestionsOneDeck = {
             },
             {
             id:41,
-            eng:"Bite nails",
+            eng:"Bite nails / байт нЭйлз /",
             ru:"Грызть ногти",
-            hint:""
+            hint:" / байт нЭйлз /"
             },
             {
             id:42,
@@ -298,9 +298,9 @@ const allQuestionsOneDeck = {
             },
             {
             id:44,
-            eng:"try to put fingers into a socket",
+            eng:"try to put fingers into a socket / трай ту пут фИнгерз инто э сОкет /",
             ru:"пытаться вставить пальцы в розетку",
-            hint:""
+            hint:" / трай ту пут фИнгерз инто э сОкет /"
             },
             {
             id:45,
@@ -310,15 +310,15 @@ const allQuestionsOneDeck = {
             },
             {
             id:46,
-            eng:"make a dog angry",
+            eng:"make a dog angry / энгри /",
             ru:"злить собаку",
-            hint:""
+            hint:" / энгри /"
             },
             {
             id:47,
-            eng:"Jump on cars in the streets",
+            eng:"Jump on cars in the streets / джамп /",
             ru:"запрыгивать на машины на улице",
-            hint:""
+            hint:" / джамп /"
             },
             {
             id:48,
@@ -328,21 +328,21 @@ const allQuestionsOneDeck = {
             },
             {
             id:49,
-            eng:"eat stones",
+            eng:"eat stones / ит стОунz /",
             ru:"есть камни",
-            hint:""
+            hint:" / ит стОунz /"
             },
             {
             id:50,
-            eng:"Touch animals in the street",
+            eng:"Touch animals in the street / тач Энималз /",
             ru:"Трогать животных на улице",
-            hint:""
+            hint:" / тач Энималз /"
             },
             {
             id:51,
-            eng:"Talk to strangers online",
+            eng:"Talk to strangers online / ток ту стрЭнджерз /",
             ru:"Общаться с незнакомцами в интернете",
-            hint:""
+            hint:" / ток ту стрЭнджерз /"
             },
             {
             id:52,
@@ -358,63 +358,63 @@ const allQuestionsOneDeck = {
             },
             {
             id:54,
-            eng:"Eat too much sugar",
+            eng:"Eat too much sugar / щУга /",
             ru:"Есть слишком много сахара",
-            hint:""
+            hint:" / щУга /"
             },
             {
             id:55,
-            eng:"Watch too much TV",
+            eng:"Watch too much TV / уОч ту мач ТиВи /",
             ru:"Слишком много смотреть телевизор",
-            hint:""
+            hint:" / уОч ту мач ТиВи /"
             },
             {
             id:56,
-            eng:"Be a lazy ass",
+            eng:"Be a lazy ass / би э лЭйзи Эсс /",
             ru:"быть ленивой жопкой",
-            hint:""
+            hint:" / би э лЭйзи Эсс /"
             },
             {
             id:57,
-            eng:"Be mean to others",
-            ru:"Быть злым по отношению к другим",
-            hint:""
+            eng:"Be mean to others / би мИн /",
+            ru:"Быть грубым по отношению к другим",
+            hint:" / би мИн /"
             },
             {
             id:58,
-            eng:"Brush teeth twice a day",
+            eng:"Brush teeth twice a day / твАйс э дэй /",
             ru:"Чистить зубы два раза в день",
-            hint:""
+            hint:" / твАйс э дэй /"
             },
             {
             id:59,
-            eng:"Wash hands often",
+            eng:"Wash hands often / уОш /",
             ru:"Часто мыть руки",
-            hint:""
+            hint:" / уОш /"
             },
             {
             id:60,
-            eng:"Do exercise",
+            eng:"Do exercise / ду Эксэсайz /",
             ru:"Делать упражнения",
-            hint:""
+            hint:" / ду Эксэсайz /"
             },
             {
             id:61,
-            eng:"Eat healthy food",
+            eng:"Eat healthy food / ит хЭлthи фуД /",
             ru:"Питаться здоровой пищей",
-            hint:""
+            hint:" / ит хЭлthи фуД /"
             },
             {
             id:62,
-            eng:"Sleep enough",
+            eng:"Sleep enough / слип инАф /",
             ru:"Высыпаться",
-            hint:""
+            hint:" / слип инАф /"
             },
             {
             id:63,
-            eng:"Be kind to others",
+            eng:"Be kind to others / би кАйнд ту Адэрз /",
             ru:"Быть добрым к другим",
-            hint:""
+            hint:" / би кАйнд ту Адэрз /"
             },
             {
             id:64,
@@ -430,15 +430,15 @@ const allQuestionsOneDeck = {
             },
             {
             id:66,
-            eng:"Play outside",
+            eng:"Play outside / Аутсайд /",
             ru:"Играть на улице",
-            hint:""
+            hint:" / Аутсайд /"
             },
             {
             id:67,
-            eng:"Get creative",
+            eng:"Get creative / гет криЭйтив /",
             ru:"Творить",
-            hint:""
+            hint:" / гет криЭйтив /"
             },
             {
             id:68,
@@ -448,21 +448,21 @@ const allQuestionsOneDeck = {
             },
             {
             id:69,
-            eng:"Be honest",
+            eng:"Be honest / би Онэст /",
             ru:"Быть честным",
-            hint:""
+            hint:" / би Онэст /"
             },
             {
             id:70,
-            eng:"Be responsible",
+            eng:"Be responsible / би риспОнсибл /",
             ru:"Быть ответственным",
-            hint:""
+            hint:" / би риспОнсибл /"
             },
             {
             id:71,
-            eng:"Be respectful",
+            eng:"Be respectful / би респЕктфул /",
             ru:"Быть уважительным",
-            hint:""
+            hint:" / би респЕктфул /"
             },
             {
             id:72,
@@ -478,15 +478,15 @@ const allQuestionsOneDeck = {
             },
             {
             id:74,
-            eng:"Be a role model for your children",
+            eng:"Be a role model for your children / би э рОул мОдел фо ё чИлдрэн /",
             ru:"Быть хорошим примером для подражания для своих детей",
-            hint:""
+            hint:" / би э рОул мОдел фо ё чИлдрэн /"
             },
             {
             id:75,
-            eng:"Respect people for their actions",
+            eng:"Respect people for their actions / риспЭкт пипл фо дЭир экшенz /",
             ru:"уважать людей за их поступки",
-            hint:""
+            hint:" / риспЭкт пипл фо дЭир экшенz /"
             },
             {
             id:76,
@@ -502,21 +502,21 @@ const allQuestionsOneDeck = {
             },
             {
             id:78,
-            eng:"go to a dentist once a year",
+            eng:"go to a dentist once a year / уАнс э йИэ /",
             ru:"ходить к стоматологу раз в год",
-            hint:""
+            hint:" / уАнс э йИэ /"
             },
             {
             id:79,
-            eng:"Be a leader",
+            eng:"Be a leader / би э лИдэ /",
             ru:"Быть лидером",
-            hint:""
+            hint:" / би э лИдэ /"
             },
             {
             id:80,
-            eng:"make a world a better place",
+            eng:"make a world a better place / мэйк э ворлд э бЭттэ плЭйс /",
             ru:"Менять мир к лучшему",
-            hint:""
+            hint:" / мэйк э ворлд э бЭттэ плЭйс /"
             },
             {
             id:81,
@@ -526,15 +526,15 @@ const allQuestionsOneDeck = {
             },
             {
             id:82,
-            eng:"Be healthy",
+            eng:"Be healthy / би  хЭлthи /",
             ru:"Быть здоровым",
-            hint:""
+            hint:" / би  хЭлthи /"
             },
             {
             id:83,
-            eng:"Be safe",
+            eng:"Be safe / би сЭйф /",
             ru:"Быть в безопасности",
-            hint:""
+            hint:" / би сЭйф /"
             },
             {
             id:84,
@@ -550,27 +550,27 @@ const allQuestionsOneDeck = {
             },
             {
             id:86,
-            eng:"be brave",
+            eng:"be brave / би брЭйв /",
             ru:"Быть смелым",
-            hint:""
+            hint:" / би брЭйв /"
             },
             {
             id:87,
-            eng:"Be yourself",
+            eng:"Be yourself / би ёсЭлф /",
             ru:"Быть собой!",
-            hint:""
+            hint:" / би ёсЭлф /"
             },
             {
             id:88,
-            eng:"Be kind to your family",
+            eng:"Be kind to your family / би кайнд ту ё фЭмили /",
             ru:"Будьте добры к своим братьям и сестрам.",
-            hint:""
+            hint:" / би кайнд ту ё фЭмили /"
             },
             {
             id:89,
-            eng:"drink with Vincent behind the garages",
+            eng:"drink with Vincent behind the garages / бихАйнд гарАжэz /",
             ru:"выпивать с Винсентом за гаражами",
-            hint:""
+            hint:" / бихАйнд гарАжэz /"
             },
             {
             id:90,
@@ -580,27 +580,27 @@ const allQuestionsOneDeck = {
             },
             {
             id:91,
-            eng:"Wash your plate after dinner.",
+            eng:"Wash your plate after dinner. / уОш ё плэйт /",
             ru:"Помыть свою тарелку после ужина.",
-            hint:""
+            hint:" / уОш ё плэйт /"
             },
             {
             id:92,
-            eng:"Take out the trash.",
+            eng:"Take out the trash. / тЭйк Аут дэ трЭш /",
             ru:"Выносите мусор.",
-            hint:""
+            hint:" / тЭйк Аут дэ трЭш /"
             },
             {
             id:93,
-            eng:"Sweep the floor.",
+            eng:"Sweep the floor. / свип дэ фло /",
             ru:"Подметайте пол.",
-            hint:""
+            hint:" / свип дэ фло /"
             },
             {
             id:94,
-            eng:"Wash the floor.",
+            eng:"Wash the floor. / Ош дэ флО /",
             ru:"Мойте пол.",
-            hint:""
+            hint:" / Ош дэ флО /"
             },
             {
             id:95,
@@ -610,21 +610,21 @@ const allQuestionsOneDeck = {
             },
             {
             id:96,
-            eng:"Help with the laundry.",
+            eng:"Help with the laundry. / лОндри /",
             ru:"Помогайте со стиркой.",
-            hint:""
+            hint:" / лОндри /"
             },
             {
             id:97,
-            eng:"Be thankful",
+            eng:"Be thankful / би thЭнкфул /",
             ru:"Быть благодарным",
-            hint:""
+            hint:" / би thЭнкфул /"
             },
             {
             id:98,
-            eng:"Be polite",
+            eng:"Be polite / би полАйт /",
             ru:"быть вежливым",
-            hint:""
+            hint:" / би полАйт /"
             },
             {
             id:99,
@@ -634,15 +634,15 @@ const allQuestionsOneDeck = {
             },
             {
             id:100,
-            eng:"look attractive",
+            eng:"look attractive / лук этрЭктив /",
             ru:"выглядеть привлекательно",
-            hint:""
+            hint:" / лук этрЭктив /"
             },
             {
             id:101,
-            eng:"Do your homework",
+            eng:"Do your homework / ду ё хОумворк /",
             ru:"Делать домашнее задание",
-            hint:""
+            hint:" / ду ё хОумворк /"
             },
     ],
     randomverbA1: [
