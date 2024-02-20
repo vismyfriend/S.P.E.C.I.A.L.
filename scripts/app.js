@@ -1198,6 +1198,7 @@ function compareTNTinput() {
         //  scoreTNTGame += 1
         scoreTNTGame++
         TNTbeforeExplosion += 12
+        TNTgameCounter.classList.remove("none")
         TNTuserInput.value = ""
         // typeOrWriteGameСounter.textContent = `верно:  ${scoreTNTGame} out of ${chooseTypeOrWrite.length}`
         // typeOrWriteGameСounter.classList.add("green")

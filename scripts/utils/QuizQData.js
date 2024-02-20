@@ -97,6 +97,1048 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    advice01: [
+        {
+            id: 1,
+            quizQuestion: "Тебе не следует переживать",
+            answers: [
+            {
+            answer: "You shouldn't worry",
+            correct: true
+            },
+            {
+            answer: "You don't should worry",
+            correct: false
+            },
+            {
+            answer: "You shouldn't to worry",
+            correct: false
+            },
+            {
+            answer: "You mustn't worry",
+            correct: false
+            },
+            {
+            answer: "Don't worry, be happy",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Тебе не следует сдаваться",
+            answers: [
+            {
+            answer: "You shouldn't give up",
+            correct: true
+            },
+            {
+            answer: "You shouldn't to give up",
+            correct: false
+            },
+            {
+            answer: "You don't should give up",
+            correct: false
+            },
+            {
+            answer: "You don't shouldto give up",
+            correct: false
+            },
+            {
+            answer: "Never give up! Don't be a loser!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Ты не нуждаешься в помощи",
+            answers: [
+            {
+            answer: "You don't need help",
+            correct: true
+            },
+            {
+            answer: "You no need help",
+            correct: false
+            },
+            {
+            answer: "You doesn't need help",
+            correct: false
+            },
+            {
+            answer: "You shouldn't help",
+            correct: false
+            },
+            {
+            answer: "You haven't help",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "У него нет нужды делать что-то сверхестественное",
+            answers: [
+            {
+            answer: "He doesn't need to do something supernatural",
+            correct: true
+            },
+            {
+            answer: "He don't need to do something supernatural",
+            correct: false
+            },
+            {
+            answer: "He mustn't to do something supernatural",
+            correct: false
+            },
+            {
+            answer: "He is not a superman",
+            correct: false
+            },
+            {
+            answer: "He doesn't gotta do something supernatural",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Ей не надо идти в магазин",
+            answers: [
+            {
+            answer: "She doesn't have to go to a shop",
+            correct: true
+            },
+            {
+            answer: "She mustn't go to a shop",
+            correct: false
+            },
+            {
+            answer: "She don't need to go to a shop",
+            correct: false
+            },
+            {
+            answer: "She has to go to a shop",
+            correct: false
+            },
+            {
+            answer: "She doesn't needs to go to a shop",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Мне это не надо, не нужно, незачем",
+            answers: [
+            {
+            answer: "I don't need it",
+            correct: true
+            },
+            {
+            answer: "I don't have it",
+            correct: false
+            },
+            {
+            answer: "I mustn't",
+            correct: false
+            },
+            {
+            answer: "I shouldn't",
+            correct: false
+            },
+            {
+            answer: "I don't it nothing",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Мои советы просты и логичны",
+            answers: [
+            {
+            answer: "My advice is simple and logical",
+            correct: true
+            },
+            {
+            answer: "My advice are simple and logical",
+            correct: false
+            },
+            {
+            answer: "My advices are simple and logical",
+            correct: false
+            },
+            {
+            answer: "My advice simple and logical",
+            correct: false
+            },
+            {
+            answer: "My advices is simple and logical",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Я каждый день даю тебе один совет",
+            answers: [
+            {
+            answer: "I give you advice",
+            correct: true
+            },
+            {
+            answer: "I am advising you",
+            correct: false
+            },
+            {
+            answer: "I give you an advice",
+            correct: false
+            },
+            {
+            answer: "I every day give you one advice",
+            correct: false
+            },
+            {
+            answer: "shut up!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Тебе нужно дать мне совет",
+            answers: [
+            {
+            answer: "You have to give me advice",
+            correct: true
+            },
+            {
+            answer: "You should giving me advice",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "You must to advice me",
+            correct: false
+            },
+            {
+            answer: "You need give advice to me",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Мне нужно дать тебе совет",
+            answers: [
+            {
+            answer: "I have to give you advice",
+            correct: true
+            },
+            {
+            answer: "I need to give an advice you",
+            correct: false
+            },
+            {
+            answer: "I need to advicing you",
+            correct: false
+            },
+            {
+            answer: "I need to giving you advice",
+            correct: false
+            },
+            {
+            answer: "I am needing to giving you advicing",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "Ты можешь ходить в спортзал",
+            answers: [
+            {
+            answer: "You can go to the GYM",
+            correct: true
+            },
+            {
+            answer: "You have legs",
+            correct: false
+            },
+            {
+            answer: "You could go to the ZAL",
+            correct: false
+            },
+            {
+            answer: "You should go to the GYM",
+            correct: false
+            },
+            {
+            answer: "You need to go to the GYM",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "Ты бы мог ходить в спортзал",
+            answers: [
+            {
+            answer: "You could go to the GYM",
+            correct: true
+            },
+            {
+            answer: "You could go to the GYM",
+            correct: false
+            },
+            {
+            answer: "You need to go to the GYM",
+            correct: false
+            },
+            {
+            answer: "You can go to the ZAL",
+            correct: false
+            },
+            {
+            answer: "You've gotta go to the GYM",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "Тебе необходимо ходить в спортзал",
+            answers: [
+            {
+            answer: "You need to go to the GYM",
+            correct: true
+            },
+            {
+            answer: "You should to go to the GYM",
+            correct: false
+            },
+            {
+            answer: "You have to go to the ZAL",
+            correct: false
+            },
+            {
+            answer: "You must go to the GYM",
+            correct: false
+            },
+            {
+            answer: "Go to the GYM! NOW!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "Тебе нужно ходить в спортзал",
+            answers: [
+            {
+            answer: "You have to go to the GYM",
+            correct: true
+            },
+            {
+            answer: "You must go to the GYM",
+            correct: false
+            },
+            {
+            answer: "You need to go to the ZAL",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Ты обязан ходить в спортзал",
+            answers: [
+            {
+            answer: "You must go to the GYM",
+            correct: true
+            },
+            {
+            answer: "You have to go to the GYM",
+            correct: false
+            },
+            {
+            answer: "You need to go to the GYM",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Я не обязан делать этого",
+            answers: [
+            {
+            answer: "I don't have to do it",
+            correct: true
+            },
+            {
+            answer: "I mustn't do it",
+            correct: false
+            },
+            {
+            answer: "I must not do it",
+            correct: false
+            },
+            {
+            answer: "I shouldn't do it",
+            correct: false
+            },
+            {
+            answer: "I don't need to do it",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Мне не нужно делать этого",
+            answers: [
+            {
+            answer: "I don't have to do it",
+            correct: true
+            },
+            {
+            answer: "I mustn't do it",
+            correct: false
+            },
+            {
+            answer: "I must not do it",
+            correct: false
+            },
+            {
+            answer: "I shouldn't do it",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "У меня нет необходимости делать этого",
+            answers: [
+            {
+            answer: "I don't need to do it",
+            correct: true
+            },
+            {
+            answer: "I mustn't do it",
+            correct: false
+            },
+            {
+            answer: "I must not do it",
+            correct: false
+            },
+            {
+            answer: "I shouldn't do it",
+            correct: false
+            },
+            {
+            answer: "I don't gotta do it",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Она обязана готовить борщи",
+            answers: [
+            {
+            answer: "She must cook borschi =)",
+            correct: true
+            },
+            {
+            answer: "She has to cook soups",
+            correct: false
+            },
+            {
+            answer: "She needs to cook borsch",
+            correct: false
+            },
+            {
+            answer: "She should cook soup",
+            correct: false
+            },
+            {
+            answer: "She's gotta kiss me",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Ей не нужно ничего делать",
+            answers: [
+            {
+            answer: "She doesn't have to do anything",
+            correct: true
+            },
+            {
+            answer: "She must do nothing",
+            correct: false
+            },
+            {
+            answer: "She mustn't do nothing",
+            correct: false
+            },
+            {
+            answer: "She doesn't need doing anything",
+            correct: false
+            },
+            {
+            answer: "She doesn't has to do anything",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Мне нужно поспать",
+            answers: [
+            {
+            answer: "I have to sleep",
+            correct: true
+            },
+            {
+            answer: "I must sleep",
+            correct: false
+            },
+            {
+            answer: "I need to sleeping",
+            correct: false
+            },
+            {
+            answer: "I am need to sleep",
+            correct: false
+            },
+            {
+            answer: "I am have to sleep",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "Нам нужно сделать домаху",
+            answers: [
+            {
+            answer: "We have to do omework",
+            correct: true
+            },
+            {
+            answer: "They have to do homework",
+            correct: false
+            },
+            {
+            answer: "Our have to do homework",
+            correct: false
+            },
+            {
+            answer: "My have to do homework",
+            correct: false
+            },
+            {
+            answer: "You have to do my homework",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "Винсенту следует прекратить пить за гаражами",
+            answers: [
+            {
+            answer: "Vincent should stop drinking behind the garages",
+            correct: true
+            },
+            {
+            answer: "Really.",
+            correct: false
+            },
+            {
+            answer: "Vincent must not give up",
+            correct: false
+            },
+            {
+            answer: "Vincent should think about his family",
+            correct: false
+            },
+            {
+            answer: "Vincent shouldn't stop drinking behind the garages",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "Мне нужно бежать",
+            answers: [
+            {
+            answer: "I have to run",
+            correct: true
+            },
+            {
+            answer: "I need to running",
+            correct: false
+            },
+            {
+            answer: "I am have to run",
+            correct: false
+            },
+            {
+            answer: "I am running",
+            correct: false
+            },
+            {
+            answer: "I musting run",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "надо бежать",
+            answers: [
+            {
+            answer: "I've gotta run",
+            correct: true
+            },
+            {
+            answer: "Mne nado bezhat",
+            correct: false
+            },
+            {
+            answer: "I must run",
+            correct: false
+            },
+            {
+            answer: "I need run",
+            correct: false
+            },
+            {
+            answer: "Me need run",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "Мне необходимо принять лекарства",
+            answers: [
+            {
+            answer: "I need to take medicine",
+            correct: true
+            },
+            {
+            answer: "Me need a doctor",
+            correct: false
+            },
+            {
+            answer: "I must take medicine",
+            correct: false
+            },
+            {
+            answer: "I have to drugs",
+            correct: false
+            },
+            {
+            answer: "I've gotta eat drugs",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "Я обязан слушаться доктороа",
+            answers: [
+            {
+            answer: "I must listen to doctors",
+            correct: true
+            },
+            {
+            answer: "I need listen a doctor",
+            correct: false
+            },
+            {
+            answer: "I have to listen doctor",
+            correct: false
+            },
+            {
+            answer: "I must to listen to a doctor",
+            correct: false
+            },
+            {
+            answer: "I don't need to listen to a doctor",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Мне нельзя сдаваться",
+            answers: [
+            {
+            answer: "I mustn't give up",
+            correct: true
+            },
+            {
+            answer: "I can't giving up",
+            correct: false
+            },
+            {
+            answer: "I never give up",
+            correct: false
+            },
+            {
+            answer: "I haven't to give up",
+            correct: false
+            },
+            {
+            answer: "I couldn't give up",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "Ему нужно позвонить мне",
+            answers: [
+            {
+            answer: "He has to call me",
+            correct: true
+            },
+            {
+            answer: "Him has to call me",
+            correct: false
+            },
+            {
+            answer: "His has to call me",
+            correct: false
+            },
+            {
+            answer: "Him must call me",
+            correct: false
+            },
+            {
+            answer: "He need to call me",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Я не должен верить политикам",
+            answers: [
+            {
+            answer: "I don't have to trust politicians",
+            correct: true
+            },
+            {
+            answer: "I can't trust nobody",
+            correct: false
+            },
+            {
+            answer: "I mustn't trust nobody",
+            correct: false
+            },
+            {
+            answer: "I don't need tryst politicians",
+            correct: false
+            },
+            {
+            answer: "Единая Россия",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "Следует ли нам потанцевать?",
+            answers: [
+            {
+            answer: "Shall we dance?",
+            correct: true
+            },
+            {
+            answer: "Shouldn't we dance?",
+            correct: false
+            },
+            {
+            answer: "Let's dance!",
+            correct: false
+            },
+            {
+            answer: "Dance with me!",
+            correct: false
+            },
+            {
+            answer: "You and me dance now?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Мне следует уйти или остаться?",
+            answers: [
+            {
+            answer: "Should I stay or should I go?",
+            correct: true
+            },
+            {
+            answer: "Need I stay or need I go?",
+            correct: false
+            },
+            {
+            answer: "Must I stay or must I go?",
+            correct: false
+            },
+            {
+            answer: "Go or no?",
+            correct: false
+            },
+            {
+            answer: "me go now?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "Следовало ли бы мне сделать это… ?",
+            answers: [
+            {
+            answer: "Should I do it?",
+            correct: true
+            },
+            {
+            answer: "Do I must do it?",
+            correct: false
+            },
+            {
+            answer: "shall I doing it?",
+            correct: false
+            },
+            {
+            answer: "I should do it?",
+            correct: false
+            },
+            {
+            answer: "Should me do it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "Следует ли ей целовать его",
+            answers: [
+            {
+            answer: "Shall she kiss him?",
+            correct: true
+            },
+            {
+            answer: "Should she kisses him?",
+            correct: false
+            },
+            {
+            answer: "Shall he kiss her?",
+            correct: false
+            },
+            {
+            answer: "Shall they kiss?",
+            correct: false
+            },
+            {
+            answer: "Should I kiss her?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "Мне действительно необходимо это?",
+            answers: [
+            {
+            answer: "Do I really need it?",
+            correct: true
+            },
+            {
+            answer: "Do I really must it?",
+            correct: false
+            },
+            {
+            answer: "Do I really have it?",
+            correct: false
+            },
+            {
+            answer: "Do I really should it?",
+            correct: false
+            },
+            {
+            answer: "My really need this?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "Мне нужно это делать?",
+            answers: [
+            {
+            answer: "Do I have to do this?",
+            correct: true
+            },
+            {
+            answer: "Do I must do it?",
+            correct: false
+            },
+            {
+            answer: "Do I need do it?",
+            correct: false
+            },
+            {
+            answer: "Do I should do it?",
+            correct: false
+            },
+            {
+            answer: "Must I do it?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "Никто ничего не должен делать",
+            answers: [
+            {
+            answer: "Nobody has to do anything",
+            correct: true
+            },
+            {
+            answer: "Nobody must do nothing",
+            correct: false
+            },
+            {
+            answer: "Nobody nothing no must do",
+            correct: false
+            },
+            {
+            answer: "Nobody need to do anything",
+            correct: false
+            },
+            {
+            answer: "Nobody doesn't nothing do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "Им не следует доверять нам",
+            answers: [
+            {
+            answer: "They shouldn't trust us",
+            correct: true
+            },
+            {
+            answer: "Them shouldn't trust us",
+            correct: false
+            },
+            {
+            answer: "Their shouldn't trust us",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "Ему нужно идти прямо сейчас",
+            answers: [
+            {
+            answer: "He's gotta go now",
+            correct: true
+            },
+            {
+            answer: "He need go right now",
+            correct: false
+            },
+            {
+            answer: "He is needing to go right now",
+            correct: false
+            },
+            {
+            answer: "He is having to go right now",
+            correct: false
+            },
+            {
+            answer: "He must going now",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 40,
+            quizQuestion: "У нее нет необходимости идти в магазин",
+            answers: [
+            {
+            answer: "She doesn't need to go to a shop",
+            correct: true
+            },
+            {
+            answer: "She mustn't go to a shop",
+            correct: false
+            },
+            {
+            answer: "She don't need to go to a shop",
+            correct: false
+            },
+            {
+            answer: "She hasn't to go to a shop",
+            correct: false
+            },
+            {
+            answer: "She doesn't needs to go to a shop",
+            correct: false
+            },
+            ]
+            },
+    ],
     articles01: [
         {
             id: 1,
