@@ -135,9 +135,10 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     // console.log(set)
     chosenSet.textContent = textTheNameOfTheChosenSet
     // console.log("название миссии=", textTheNameOfTheChosenSet)
-    popupMissionsAndSetsTitle.textContent = "You chose mission: Вы выбрали мишн:"
+    popupMissionsAndSetsTitle.textContent = "show your best result:"
     popupMissionsAndSetsTitle.classList.add("greyText")
     popupMissionsAndSetsDescription.textContent = "Чтобы пройти миссию выполни tasks задания 👇 "
+    popupMissionsAndSetsDescription.textContent = "Покажи свой лучший результат  / шоу ё бэст резАлт /"
     fryFuturamaMainScreenIntro.classList.add("noshow")
     userSearchesForMission.classList.add("none")
     // userSearchesForMission.value = ""
@@ -176,7 +177,7 @@ function backToTheVeryFirstScreen() {
     
 
     
-    popupMissionsAndSetsDescription.textContent = "👈 choose your mission to practice 👉 "
+    popupMissionsAndSetsDescription.textContent = "👈 choose your mission to practise 👉 / чУз ё мишн ту прЭктис /"
     userSearchesForMission.classList.remove("none")
     popupMissionsAndSetsSets.classList.remove("hide")
     popupMissionsAndSetsTitle.classList.add("none")
@@ -365,7 +366,7 @@ function startGameFindPairs() {
     howManyTimesSkipped = 0
     pairsRemainToMatch = chosenArray.length
     foundPairs = 0
-    gameFindAPairInfo.textContent = `Нажимай на слова слева и на подходящую пару:`
+    gameFindAPairInfo.textContent = `/ файнд э пЭа /  -  найди пару`
     usedCheatsText.textContent = `читов использовано: ${howManyTimesSkipped}. Твои звёзды за задание:`
     popupMissionsAndSets.classList.add("close")
     logoSpecial.classList.add("hidden")
