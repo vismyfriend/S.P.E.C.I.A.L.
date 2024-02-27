@@ -97,6 +97,1829 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    suchSo: [
+        {
+            id: 1,
+            quizQuestion: "They were _____ happy that they started dancing.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "He speaks Chinese _____ well!",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Julie is _____ amazing writer.",
+            answers: [
+            {
+            answer: "such an",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "She swims _____ quickly!",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "It was _____ late and we missed the last train.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "They have _____ a big house that I get lost sometimes!",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "She has _____ a sweet puppy.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "That was _____ an interesting book.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "The weather was _____ cold, so I stayed at home.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "He's _____ a teenager!",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "He was _____ handsome.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "It was _____ a beautiful day that we went on a picnic",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "You're not usually _____ tired! Is everything okay?",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "He doesn't often work _____ much.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Children have so many_____ strange toys now.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "She's _____ a bookworm! Friends call her a nerd.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "I had _____ much work I couldn't go out.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "You shouldn't drink _____ little in this weather.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "She has ____ much money she doesn't need to work.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "There are ___ many things in the world to see.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "I understand _____ little.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "I don’t understand _____ much.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "There’re ____ many places to go.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "I have ____ many things to do.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "I have ____ a lot of work to do.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "His hands are ____ little.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "He has _____ little hands.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Try to do this exercise, it is _____ simple.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "Does anybody understand _____ rules?",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "I think I understand.  _____ an easy test!",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "Why is my teacher _____ cool ?",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Grandparents grew ____ few vegetables, so they didn't give us any.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "We stayed on the top floor suite. There was ______ lovely view from the terrace.",
+            answers: [
+            {
+            answer: "such a",
+            correct: true
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "It was ______ late and we decided to leave.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "The music was ______ loud, we called the police",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "John! I'm ______ happy to see you!",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "You speak English  ____  fluently! It's incredible.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "I've never seen  ____  amazing views before.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "Why did you buy  ____  expensive car? You don't even like driving.",
+            answers: [
+            {
+            answer: "such an",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 40,
+            quizQuestion: "I'd be happier if I didn't have  ____  problems. I really have a lot of problems.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 41,
+            quizQuestion: "You are  ____  idiot!",
+            answers: [
+            {
+            answer: "such an",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 42,
+            quizQuestion: "He has  ____  much money that he could buy any house in the city.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 43,
+            quizQuestion: "Why did she say  ____  terrible things?",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 44,
+            quizQuestion: "She entered the room  ____  quietly that we didn't hear her.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 45,
+            quizQuestion: "You are  ____  liar! You never tell the truth.",
+            answers: [
+            {
+            answer: "such a",
+            correct: true
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 46,
+            quizQuestion: "We really liked the music at the concert. It was ____ great performance!",
+            answers: [
+            {
+            answer: "such a",
+            correct: true
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "It's  _____ warm today that I'm going to the beach.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "He has done _____ foolish things that he will get into serious trouble.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 49,
+            quizQuestion: "He has read that book _____ many times that he knows it by heart.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 50,
+            quizQuestion: "He is _____ extravagant that all his money is spent long before his next pay check.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 51,
+            quizQuestion: "He made _____ generous contributions to the university that they are naming one of the new buildings after him.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 52,
+            quizQuestion: "He wastes _____ much time watching television that he never finishes his homework.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 53,
+            quizQuestion: "Her work at the university has been _____ poor that she is thinking of leaving.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 54,
+            quizQuestion: "It was  _____ delicious meal that we asked the chef for its recipe.",
+            answers: [
+            {
+            answer: "such a",
+            correct: true
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 55,
+            quizQuestion: "The thief came in _____ quietly that the sleeping couple never heard him.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 56,
+            quizQuestion: "There was _____ crowd in the street that we could hardly move.",
+            answers: [
+            {
+            answer: "such a",
+            correct: true
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 57,
+            quizQuestion: "They are _____ boring people that we hate to visit them.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 58,
+            quizQuestion: "This is _____ beautiful piano that I'm sorry I have to sell it.",
+            answers: [
+            {
+            answer: "such a",
+            correct: true
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 59,
+            quizQuestion: "This tree grows _____ fast that we have to trim it often.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 60,
+            quizQuestion: "Those are _____ great moments that will never be forgotten.",
+            answers: [
+            {
+            answer: "such",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 61,
+            quizQuestion: "We're  _____ pleased with these new towels that we're going to buy some more.",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 62,
+            quizQuestion: "Vincent is _____ awesome teacherKA !",
+            answers: [
+            {
+            answer: "such an",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 63,
+            quizQuestion: "Vincent loves me _______ much",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 64,
+            quizQuestion: "He smokes _______.",
+            answers: [
+            {
+            answer: "so much",
+            correct: true
+            },
+            {
+            answer: "so very",
+            correct: false
+            },
+            {
+            answer: "such much",
+            correct: false
+            },
+            {
+            answer: "so many",
+            correct: false
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 65,
+            quizQuestion: "My teacher eats _______ sugar.",
+            answers: [
+            {
+            answer: "so much",
+            correct: true
+            },
+            {
+            answer: "so very",
+            correct: false
+            },
+            {
+            answer: "such much",
+            correct: false
+            },
+            {
+            answer: "so many",
+            correct: false
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 66,
+            quizQuestion: "I can't eat _______ pelmenis",
+            answers: [
+            {
+            answer: "so many",
+            correct: true
+            },
+            {
+            answer: "so much",
+            correct: false
+            },
+            {
+            answer: "such much",
+            correct: false
+            },
+            {
+            answer: "much",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 67,
+            quizQuestion: "I have ________ tasks to do at home",
+            answers: [
+            {
+            answer: "so many",
+            correct: true
+            },
+            {
+            answer: "so much",
+            correct: false
+            },
+            {
+            answer: "such much",
+            correct: false
+            },
+            {
+            answer: "much",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 68,
+            quizQuestion: "I never had _______ money and time to spend",
+            answers: [
+            {
+            answer: "so much",
+            correct: true
+            },
+            {
+            answer: "so very",
+            correct: false
+            },
+            {
+            answer: "such much",
+            correct: false
+            },
+            {
+            answer: "so many",
+            correct: false
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 69,
+            quizQuestion: "Shut up! You said ________ already .",
+            answers: [
+            {
+            answer: "so much",
+            correct: true
+            },
+            {
+            answer: "so very",
+            correct: false
+            },
+            {
+            answer: "such much",
+            correct: false
+            },
+            {
+            answer: "so many",
+            correct: false
+            },
+            {
+            answer: "too many",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 70,
+            quizQuestion: "Everybody likes Vincent _______ much!",
+            answers: [
+            {
+            answer: "so",
+            correct: true
+            },
+            {
+            answer: "such a",
+            correct: false
+            },
+            {
+            answer: "such",
+            correct: false
+            },
+            {
+            answer: "such an",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            
+    ],
     advice01: [
         {
             id: 1,
