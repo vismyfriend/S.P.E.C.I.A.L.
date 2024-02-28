@@ -6405,7 +6405,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:148,
             eng:"CHRISTMAS",
-            ru:"С ЭйчА Ай Эс Ти Эм Эй Эс",
+            ru:"Си Эйч А Ай Эс Ти Эм Эй Эс",
             },
             {
             id:149,
@@ -6470,7 +6470,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:161,
             eng:"HOSPITAL",
-            ru:"Эйч Оу Эс Пи Ти Эй Эл",
+            ru:"Эйч Оу Эс Пи Ай Ти Эй Эл",
             },
     ],
     lettersc2: [
