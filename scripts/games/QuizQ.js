@@ -39,6 +39,28 @@ export class QuizQ {
         this.showTheTask(this.quizAllQuestions[this.currentIndex])
         this.AnswersButtonsContainer.classList.remove("none")
         this.task.classList.remove("none")
+
+
+        this.QuizTimerMechanics
+        this.timerResult = 0
+        this.QuizTimerFormat
+        clearInterval(this.QuizTimerMechanics)
+        this.quizStartTimer()
+
+    }
+    quizStartTimer() {
+    this.QuizTimerMechanics = setInterval(() => {
+        
+        this.QuizTimerFormat = `${Math.trunc(this.timerResult / 60) > 9
+            ? Math.trunc(this.timerResult / 60)
+            : '0' + Math.trunc(this.timerResult / 60)}:${Math.trunc(this.timerResult % 60) > 9
+                ? Math.trunc(this.timerResult % 60)
+                : '0' + Math.trunc(this.timerResult % 60)}`
+
+                
+                this.timerResult++
+                console.log(this.QuizTimerFormat)
+    }, 1000) //1000 это одна секунда (в милискунда)
     }
 
     showTheTask(data) {
@@ -106,12 +128,13 @@ export class QuizQ {
 
     gameOver() {
         
-        this.rules.textContent = ` 🏆 Этот вариант пройден! 🏆 Сделай скриншот и отправь в наш чат. Vincent, я тренировал ${this.QuizgameTheNameOfTheChosenSet.textContent} и случайно не туда ткнул : ${this.mistakesCounter} раз(а)`
+        this.rules.textContent = ` 🏆 Один из вариантов пройден! 🏆 результат: ${this.QuizTimerFormat}  Сделай скриншот и отправь в наш чат. Vincent, я тренировал ${this.QuizgameTheNameOfTheChosenSet.textContent} и случайно не туда ткнул : ${this.mistakesCounter} раз(а)`
         this.buttonTryAgainOneMoreTime.classList.remove("none")
         this.rules.classList.add("yellow")
         this.AnswersButtonsContainer.classList.add("none")
         this.task.classList.add("none")
         this.logoRedCap.classList.remove("none")
+        clearInterval(this.QuizTimerMechanics)
     }
 
 
