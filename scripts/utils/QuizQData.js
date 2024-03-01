@@ -97,6 +97,268 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    m000: [
+        {
+            id: 1,
+            quizQuestion: "How many times a week do you want to practice English?",
+            answers: [
+            {
+            answer: "two times a week",
+            correct: true
+            },
+            {
+            answer: "one time a week",
+            correct: true
+            },
+            {
+            answer: "three times a week",
+            correct: true
+            },
+            {
+            answer: "А сколько надо?",
+            correct: false
+            },
+            {
+            answer: "Моя твоя не понимай",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Как по-английски сказать : У меня нет большой тетради",
+            answers: [
+            {
+            answer: "I don't have a big notebook",
+            correct: true
+            },
+            {
+            answer: "I haven't big copybook",
+            correct: false
+            },
+            {
+            answer: "I haven't a big copybook",
+            correct: false
+            },
+            {
+            answer: "I haven't a big notebook",
+            correct: false
+            },
+            {
+            answer: "I haven't big notebook",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "What is your teacher's name?",
+            answers: [
+            {
+            answer: "ВИнсэнт",
+            correct: true
+            },
+            {
+            answer: "Winston",
+            correct: false
+            },
+            {
+            answer: "Vasya",
+            correct: false
+            },
+            {
+            answer: "Valentina Mikhailovna",
+            correct: false
+            },
+            {
+            answer: "ВинсЭнт",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Do you agree to do homework?",
+            answers: [
+            {
+            answer: "Yes, I understand it is important",
+            correct: true
+            },
+            {
+            answer: "Ой ну всё, начинается…. Goodbye",
+            correct: false
+            },
+            {
+            answer: "No! Please, noooooo",
+            correct: false
+            },
+            {
+            answer: "Если она небольшая, то ok!",
+            correct: false
+            },
+            {
+            answer: "Что такое homework?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "What color are Vincent's eyes?",
+            answers: [
+            {
+            answer: "his eyes are blue",
+            correct: true
+            },
+            {
+            answer: "his eyes are green",
+            correct: false
+            },
+            {
+            answer: "his eyes are brown",
+            correct: false
+            },
+            {
+            answer: "his eyes are red",
+            correct: false
+            },
+            {
+            answer: "his eyes are drunk",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Как по-английски сказать : Мне нравится смотреть Youtube",
+            answers: [
+            {
+            answer: "I like to watch YouTube",
+            correct: true
+            },
+            {
+            answer: "I likes watching YouTube",
+            correct: false
+            },
+            {
+            answer: "I like watch YouTube",
+            correct: false
+            },
+            {
+            answer: "Me like look Youtube",
+            correct: false
+            },
+            {
+            answer: "My like look YouTube",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Как по-английски сказать цифру 20?",
+            answers: [
+            {
+            answer: "twenty",
+            correct: true
+            },
+            {
+            answer: "twelve",
+            correct: false
+            },
+            {
+            answer: "eleven",
+            correct: false
+            },
+            {
+            answer: "twenteen",
+            correct: false
+            },
+            {
+            answer: "twelveteen",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Как по-английски сказать цифру 9?",
+            answers: [
+            {
+            answer: "nine",
+            correct: true
+            },
+            {
+            answer: "eight",
+            correct: false
+            },
+            {
+            answer: "ща, посчитаю, 1234568910",
+            correct: false
+            },
+            {
+            answer: "six",
+            correct: false
+            },
+            {
+            answer: "ten",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Как по-английски сказать : 8 + 12 = 20",
+            answers: [
+            {
+            answer: "eight plus twelve is twenty",
+            correct: true
+            },
+            {
+            answer: "eight plus twenty is twelve",
+            correct: false
+            },
+            {
+            answer: "nine plus twelve is twenty",
+            correct: false
+            },
+            {
+            answer: "nine plus twenty is twelve",
+            correct: false
+            },
+            {
+            answer: "Запутать меня пытаешься?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Как по-английски сказать: У Винсента нет занятий по вторникам и по четвергам",
+            answers: [
+            {
+            answer: "Vincent doesn't have lessons on Tuesdays and on Thursdays",
+            correct: true
+            },
+            {
+            answer: "Ой, да я всегда путаю эти дни!",
+            correct: false
+            },
+            {
+            answer: "Vincent doesn't have lessons on Thursdays and on Tuesdays",
+            correct: false
+            },
+            {
+            answer: "Vincent hasn't lessons on Thursdays and on Tuesdays",
+            correct: false
+            },
+            {
+            answer: "Vincent hasn't lessons on Tuesdays and on Thursdays",
+            correct: false
+            },
+            ]
+            },
+    ],
     suchSo: [
         {
             id: 1,

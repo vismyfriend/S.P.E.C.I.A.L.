@@ -20,6 +20,80 @@ const allWordsForGameTypeOrWrite = {
             ru:"третий"
             },
     ],
+    m000: [
+        {
+            id:1,
+            eng:"headphones",
+            ru:"наушники",
+            hint:" / хЭдфоунз /"
+            },
+            {
+            id:2,
+            eng:"notebook",
+            ru:"тетрадь",
+            hint:" / нОутбук /"
+            },
+            {
+            id:3,
+            eng:"awesome",
+            ru:"офигенно",
+            hint:" / Осм /"
+            },
+            {
+            id:4,
+            eng:"eye",
+            ru:"глаз",
+            hint:" / ай /"
+            },
+            {
+            id:5,
+            eng:"head",
+            ru:"голова",
+            hint:" / хэд /"
+            },
+            {
+            id:6,
+            eng:"hand",
+            ru:"кисть руки",
+            hint:" / хэнд /"
+            },
+            {
+            id:7,
+            eng:"knee",
+            ru:"коленка",
+            hint:" / ни /"
+            },
+            {
+            id:8,
+            eng:"hair",
+            ru:"волосы",
+            hint:" / хЭа /"
+            },
+            {
+            id:9,
+            eng:"ear",
+            ru:"ухо",
+            hint:" / Иа /"
+            },
+            {
+            id:10,
+            eng:"leg",
+            ru:"нога",
+            hint:" / лэг /"
+            },
+            {
+            id:11,
+            eng:"foot",
+            ru:"стопа, ступня",
+            hint:" / фут /"
+            },
+            {
+            id:12,
+            eng:"achievements",
+            ru:"достижения",
+            hint:" / эчИвмэнтс /"
+            },
+    ],
     daysMonth: [
         {
             id:1,
