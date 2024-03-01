@@ -178,7 +178,7 @@ const quizQuesstionsList = {
             },
             {
             id: 4,
-            quizQuestion: "Do you agree to do homework?",
+            quizQuestion: "Do you agree to do homework? ( Высогласны делать домашку? )",
             answers: [
             {
             answer: "Yes, I understand it is important",
@@ -327,7 +327,7 @@ const quizQuesstionsList = {
             correct: false
             },
             {
-            answer: "Запутать меня пытаешься?",
+            answer: "Vosem plus dvenadsat eto dvasat",
             correct: false
             },
             ]
