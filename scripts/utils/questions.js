@@ -1,6 +1,6 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
-    homework001: [
+    m001: [
         
         {
             id:1,

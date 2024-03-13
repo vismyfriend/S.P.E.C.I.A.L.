@@ -76,7 +76,7 @@ const allCardsGameFindAPair = {
             
             },
     ],
-     m000: [
+    m000: [
         {
             id:1,
             eng:"headphones / хЭдфоунз /",
@@ -150,7 +150,7 @@ const allCardsGameFindAPair = {
             
             },
     ],
-    homework001: [
+    m001: [
         {
             id:1,
             eng:"My collection is not very big yet / йет /",
@@ -661,7 +661,7 @@ const allCardsGameFindAPair = {
             hint: " / из /"
         },
     ],
-    m001: [
+    mZero: [
         {
             id: 1,
             eng: "I / ай /",

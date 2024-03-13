@@ -20,18 +20,18 @@ const allWordsForGameTypeOrWrite = {
             ru:"третий"
             },
     ],
-    homework001: [
+    m001: [
         {
             id:1,
-            eng:"my collection is not very big yet",
-            ru:"моя коллекция не очень большая пока что",
-            hint:" / йет /"
+            eng:"collection",
+            ru:"коллекция",
+            hint:" / колекшн /"
             },
             {
             id:2,
-            eng:"any object",
-            ru:"любой объект",
-            hint:" / эни Обджэкт /"
+            eng:"any",
+            ru:"любой",
+            hint:" / эни /"
             },
             {
             id:3,
@@ -107,9 +107,9 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:15,
-            eng:"I didn't get it",
-            ru:"я не уловил, до меня не дошло",
-            hint:" / диднт гет ит /"
+            eng:"yet",
+            ru:"пока ещё, пока что",
+            hint:" / йет /"
             },
             {
             id:16,
@@ -125,8 +125,8 @@ const allWordsForGameTypeOrWrite = {
             },
             {
             id:18,
-            eng:"repeat one more time",
-            ru:"повторите еще один раз",
+            eng:"one more time",
+            ru:"еще один раз",
             hint:" / уАн мо тайм /"
             },
             {
@@ -148,16 +148,10 @@ const allWordsForGameTypeOrWrite = {
             hint:" / межзубный звук /"
             },
             {
-            id:22,
-            eng:"any animal",
-            ru:"любое животное",
-            hint:" / эни Энимал /"
-            },
-            {
             id:23,
-            eng:"any food",
-            ru:"любая еда",
-            hint:" / эни фуД /"
+            eng:"food",
+            ru:"еда",
+            hint:" / фууД /"
             },
             {
             id:24,
