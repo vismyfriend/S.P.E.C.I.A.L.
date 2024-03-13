@@ -12,6 +12,10 @@
 </head>
 
 <body class="body">
+    <div class="wallpaper none">
+        <img src="/images/springwallpaper.jpg" alt="wallpaper">
+    </div>
+    <!-- включить нкосмос - убрать none -->
     <div class="fullscreen-bg">
 
         <video loop="" muted="" autoplay="" poster="./video/starsBGfade.mp4" class="backgroundVideo">
@@ -19,6 +23,7 @@
             <!-- <source src="video/plane.webm" type="video/webm"> -->
         </video>
     </div>
+
     <header class="header">
         <div class="headerContainer1">
             <!-- <p class="headerPageReoad"> перезагрузить ❌ </p> -->
@@ -53,27 +58,30 @@
                     <li class="popupMissionsAndSets__set green" data-set="devmode2">devmode 2</li>
                     <li class="popupMissionsAndSets__set green" data-set="devmode3">devmode 3</li> -->
                     <li class="popupMissionsAndSets__set" data-set="m000">Intro<br> Введение</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m001">Mission 01</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m002">Mission 02</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m003">Mission 03</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m004">Mission 04</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m005">Mission 05</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m006">Mission 06</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="m001">Mission One</li>
+                    <li class="popupMissionsAndSets__set " data-set="homework001">hw 001 <br>Words</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="m002">Mission Two</li>
+                    <li class="popupMissionsAndSets__set " data-set="homework002">hw 002 <br>Letters</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="spellAllLetters">Spell <br> all letters</li>
+                    <li class="popupMissionsAndSets__set green" data-set="ach001">Achievement <br>1 numbers</li>
+                    <li class="popupMissionsAndSets__set green" data-set="ach002">Achievement <br>2 numbers</li>
+                    <li class="popupMissionsAndSets__set yellow" data-set="ach003">Achievement <br>3 numbers</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="m012">12 or 20 ? <br>quiz</li>
+                    <li class="popupMissionsAndSets__set " data-set="helpArobot">help this robot</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="m003">Mission <br>003</li>
+                    <li class="popupMissionsAndSets__set " data-set="hw3">hw 003 <br>help Bender</li>
+                    <li class="popupMissionsAndSets__set orange" data-set="questions001"> Questions 001 </li>
+                    <li class="popupMissionsAndSets__set pink" data-set="questions001teams"> Questions 001 <br>in teams</li>
+                    <li class="popupMissionsAndSets__set blue" data-set="m004">Mission 4 <br> to be +</li>
                     <li class="popupMissionsAndSets__set green" data-set="interview1">interview 1</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m007">Mission 07</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m008">Mission 08</li>
                     <li class="popupMissionsAndSets__set green" data-set="alphabeta1">Alphabet A1</li>
                     <li class="popupMissionsAndSets__set green" data-set="alphabeta2">Alphabet A2</li>
                     <li class="popupMissionsAndSets__set green" data-set="alphabetb1">Alphabet B1</li>
                     <li class="popupMissionsAndSets__set green" data-set="alphabetb2">Alphabet B2</li>
                     <li class="popupMissionsAndSets__set green" data-set="alphabetc1">Alphabet C1</li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="alphabetc2">доступ по паролю</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m009">Mission 09</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m010">Mission 10</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m011">Mission 11</li>
-                    <li class="popupMissionsAndSets__set blue" data-set="m012">12 or 20 ?</li>
-                    <li class="popupMissionsAndSets__set yellow" data-set="questions001"> Questions 001 </li>
-                    <li class="popupMissionsAndSets__set yellow" data-set="questions002">Questions 002</li>
+                    <li class="popupMissionsAndSets__set yellow" data-set="questions002"> Questions 002 </li>
+                    <li class="popupMissionsAndSets__set yellow" data-set="questions003">Questions 003</li>
                     <li class="popupMissionsAndSets__set blue" data-set="firstSecond">1st 2nd 3rd 5th</li>
                     <li class="popupMissionsAndSets__set orange" data-set="lettersQuiz">Letters Quiz</li>
                     <li class="popupMissionsAndSets__set orange" data-set="numbersQuiz">Numbers Quiz</li>
@@ -242,15 +250,12 @@
                     <li class="popupMissionsAndSets__set comingSoon" data-set="animals">животные </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="seasons"> сезоны </li>
                     <li class="popupMissionsAndSets__set comingSoon" data-set="bodypartsa2">body parts A2</li>
+                    
 
 
 
 
                 </ul>
-                <div class="allSetsStyle popupMissionsAndSets__letsSpeak">
-                    <img src="./images/cards.png">
-                    <p>Decks of cards</p>
-                </div>
                 <div class="allSetsStyle popupMissionsAndSets__gameFindAPair">
                     <img src="./images/findApair.png">
                     <p>Find a pair</p>
@@ -274,6 +279,10 @@
                 <div class="allSetsStyle popupMissionsAndSets__slot-machine">
                     <img src="./images/earsmonkey.png">
                     <p> Slot machine</p>
+                </div>
+                <div class="allSetsStyle popupMissionsAndSets__letsSpeak">
+                    <img src="./images/cards.png">
+                    <p>Decks of cards</p>
                 </div>
                 <!-- раскомментировать и скопировать кнопку ниже для новой игры-->
                 <!-- <div class="popupMissionsAndSets__copyThisForNewGames">
@@ -458,6 +467,7 @@
                     <div class="key keyJ">J</div>
                     <div class="key keyK">K</div>
                     <div class="key keyL">L</div>
+                    <div class="key keyOpostrophy none">'</div>
                     <div class="key keyZ key-span-1">Z</div>
                     <div class="key keyX">X</div>
                     <div class="key keyC">C</div>

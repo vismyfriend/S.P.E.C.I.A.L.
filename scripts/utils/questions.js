@@ -1,5 +1,296 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+    homework001: [
+        
+        {
+            id:1,
+            eng:"How  do  you  translate : ` моя коллекция не очень большая пока что `",
+            ru:"MY COLLECTION IS NOT VERY BIG YET  / йет /",
+            
+            },
+            {
+            id:2,
+            eng:"How  do  you  translate : ` любой объект `",
+            ru:"ANY OBJECT  / эни Обджэкт /",
+            
+            },
+            {
+            id:3,
+            eng:"How  do  you  translate : ` ручки `",
+            ru:"PENS  / пэнz /",
+            
+            },
+            {
+            id:4,
+            eng:"How  do  you  translate : ` экран `",
+            ru:"SCREEN  / скрин /",
+            
+            },
+            {
+            id:5,
+            eng:"How  do  you  translate : ` кнопки `",
+            ru:"BUTTONS  / бАтэнz /",
+            
+            },
+            {
+            id:6,
+            eng:"How  do  you  translate : ` наушники `",
+            ru:"HEADPHONES  / хЭдфоунз /",
+            
+            },
+            {
+            id:7,
+            eng:"How  do  you  translate : ` достижения `",
+            ru:"ACHIEVEMENTS  / эчИвмэнтс /",
+            
+            },
+            {
+            id:8,
+            eng:"How  do  you  translate : ` миссия `",
+            ru:"MISSION  / мишн /",
+            
+            },
+            {
+            id:9,
+            eng:"How  do  you  translate : ` каждый, все `",
+            ru:"EVERYBODY  / Эврибади /",
+            
+            },
+            {
+            id:10,
+            eng:"How  do  you  translate : ` питомцы, домашние животные `",
+            ru:"PETS  / пэтс /",
+            
+            },
+            {
+            id:11,
+            eng:"How  do  you  translate : ` я схожу с ума по, я без ума от `",
+            ru:"I AM CRAZY ABOUT  / крэйзи эбаут /",
+            
+            },
+            {
+            id:12,
+            eng:"How  do  you  translate : ` увлечение, хобби `",
+            ru:"HOBBY  / хобби /",
+            
+            },
+            {
+            id:13,
+            eng:"How  do  you  translate : ` коллекционировать `",
+            ru:"COLLECT  / коллЭкт /",
+            
+            },
+            {
+            id:14,
+            eng:"How  do  you  translate : ` медленно `",
+            ru:"SLOWLY  / слОули /",
+            
+            },
+            {
+            id:15,
+            eng:"How  do  you  translate : ` я не уловил, до меня не дошло `",
+            ru:"I DIDN'T GET IT  / диднт гет ит /",
+            
+            },
+            {
+            id:16,
+            eng:"How  do  you  translate : ` скажите это снова `",
+            ru:"SAY IT AGAIN  / сэй ит эгЕн /",
+            
+            },
+            {
+            id:17,
+            eng:"How  do  you  translate : ` произнесите по буквам `",
+            ru:"SPELL  / спЭл /",
+            
+            },
+            {
+            id:18,
+            eng:"How  do  you  translate : ` повторите еще один раз `",
+            ru:"REPEAT ONE MORE TIME  / уАн мо тайм /",
+            
+            },
+            {
+            id:19,
+            eng:"How  do  you  translate : ` три `",
+            ru:"THREE  / межзубный звук /",
+            
+            },
+            {
+            id:20,
+            eng:"How  do  you  translate : ` восемь `",
+            ru:"EIGHT  / эйт /",
+            
+            },
+            {
+            id:21,
+            eng:"How  do  you  translate : ` думать `",
+            ru:"THINK  / межзубный звук /",
+            
+            },
+            {
+            id:22,
+            eng:"How  do  you  translate : ` любое животное `",
+            ru:"ANY ANIMAL  / эни Энимал /",
+            
+            },
+            {
+            id:23,
+            eng:"How  do  you  translate : ` любая еда `",
+            ru:"ANY FOOD  / эни фуД /",
+            
+            },
+            {
+            id:24,
+            eng:"How  do  you  translate : ` находить, искать `",
+            ru:"FIND  / файнд /",
+            
+            },
+            {
+                id:101,
+                eng:"Translate: ` My collection is not very big yet / йет / `",
+                ru:"моя коллекция не очень большая пока что",
+                
+                },
+                {
+                id:102,
+                eng:"Translate: ` any object / эни Обджэкт / `",
+                ru:"любой объект",
+                
+                },
+                {
+                id:103,
+                eng:"Translate: ` pens / пэнz / `",
+                ru:"ручки",
+                
+                },
+                {
+                id:104,
+                eng:"Translate: ` screen / скрин / `",
+                ru:"экран",
+                
+                },
+                {
+                id:105,
+                eng:"Translate: ` buttons / бАтэнz / `",
+                ru:"кнопки",
+                
+                },
+                {
+                id:106,
+                eng:"Translate: ` headphones / хЭдфоунз / `",
+                ru:"наушники",
+                
+                },
+                {
+                id:107,
+                eng:"Translate: ` achievements / эчИвмэнтс / `",
+                ru:"достижения",
+                
+                },
+                {
+                id:108,
+                eng:"Translate: ` mission / мишн / `",
+                ru:"миссия",
+                
+                },
+                {
+                id:109,
+                eng:"Translate: ` everybody / Эврибади / `",
+                ru:"каждый, все",
+                
+                },
+                {
+                id:110,
+                eng:"Translate: ` pets / пэтс / `",
+                ru:"питомцы, домашние животные",
+                
+                },
+                {
+                id:111,
+                eng:"Translate: ` I am crazy about / крэйзи эбаут / `",
+                ru:"я схожу с ума по, я без ума от",
+                
+                },
+                {
+                id:112,
+                eng:"Translate: ` hobby / хобби / `",
+                ru:"увлечение, хобби",
+                
+                },
+                {
+                id:113,
+                eng:"Translate: ` collect / коллЭкт / `",
+                ru:"коллекционировать",
+                
+                },
+                {
+                id:114,
+                eng:"Translate: ` slowly / слОули / `",
+                ru:"медленно",
+                
+                },
+                {
+                id:115,
+                eng:"Translate: ` I didn't get it / диднт гет ит / `",
+                ru:"я не уловил, до меня не дошло",
+                
+                },
+                {
+                id:116,
+                eng:"Translate: ` say it again / сэй ит эгЕн / `",
+                ru:"скажите это снова",
+                
+                },
+                {
+                id:117,
+                eng:"Translate: ` spell / спЭл / `",
+                ru:"произнесите по буквам",
+                
+                },
+                {
+                id:118,
+                eng:"Translate: ` repeat one more time / уАн мо тайм / `",
+                ru:"повторите еще один раз",
+                
+                },
+                {
+                id:119,
+                eng:"Translate: ` three / межзубный звук / `",
+                ru:"три",
+                
+                },
+                {
+                id:120,
+                eng:"Translate: ` eight / эйт / `",
+                ru:"восемь",
+                
+                },
+                {
+                id:121,
+                eng:"Translate: ` think / межзубный звук / `",
+                ru:"думать",
+                
+                },
+                {
+                id:122,
+                eng:"Translate: ` any animal / эни Энимал / `",
+                ru:"любое животное",
+                
+                },
+                {
+                id:123,
+                eng:"Translate: ` any food / эни фуД / `",
+                ru:"любая еда",
+                
+                },
+                {
+                id:124,
+                eng:"Translate: ` find / файнд / `",
+                ru:"находить, искать",
+                
+                },
+    ],
     devmode1: [
         {
             id:1,
@@ -35,6 +326,310 @@ const allQuestionsOneDeck = {
             id:7,
             eng:"/ уот из дэ инглиш фо /   ` седьмой `",
             ru:"THE SEVENTH "
+            },
+    ],
+    questions001teams: [
+        {
+            id:1,
+            eng:"Как спросить : ` Какой твой номер телефона? `",
+            ru:"WHAT IS YOUR PHONE NUMBER?  / уОт из ё фОун нАмбэ /"
+            },
+            {
+            id:2,
+            eng:"Как спросить : ` Давайте проверим ваш телефонный номер, первые три цифры: плас+870 `",
+            ru:"LET’S CHECK YOUR PHONE NUMBER, THE FIRST 3 DIGITS ARE + ПЛАС 8 7 0, RIGHT? / лэтс чек ё фОун нАмбэ, дэ фёст диджитс а плас 870 райт? /"
+            },
+            {
+            id:3,
+            eng:"Как спросить : ` Откуда ты родом? `",
+            ru:"WHERE ARE YOU FROM? / уЭэ а ю фром /"
+            },
+            {
+            id:4,
+            eng:"Как спросить : ` Где вы родились? И где вы живете сейчас? `",
+            ru:"WHERE WERE YOU BORN? AND WHERE DO YOU LIVE NOW? / уЭэ вё ю борн энд уЭэ ду ю лив нАу /"
+            },
+            {
+            id:5,
+            eng:"Как спросить : ` Какие у вас питомцы? Какие домашние животные вам очень нравятся? `",
+            ru:"WHAT PETS DO YOU HAVE? WHAT PETS DO YOU LIKE VERY MUCH? / пЭтс /"
+            },
+            {
+            id:6,
+            eng:"Как спросить : ` По какой еде вы сходите с ума? Какая еда вам сильно нравится? `",
+            ru:"WHAT FOOD ARE YOU CRAZY ABOUT? WHAT FOOD DO YOU LIKE? / фуД /"
+            },
+            {
+            id:7,
+            eng:"Как спросить : ` Какое у вас увлечение? Что вы коллекционируете? У вас большая коллекция? `",
+            ru:"WHAT HOBBY DO YOU HAVE? WHAT DO YOU COLLECT? DO YOU HAVE A BIG COLLECTION? / коллект и колекшн /"
+            },
+            {
+            id:8,
+            eng:"Как спросить : ` Произнесите ваше имя по буквам, пожалуйста `",
+            ru:"SPELL YOUR NAME, PLEASE. / спэл ё нэйм плиз /"
+            },
+            {
+            id:9,
+            eng:"Как спросить : ` Какой номе вашей машины? `",
+            ru:"WHAT IS YOUR CAR NUMBER?  / уОт из ё ка намбэ /"
+            },
+            {
+            id:10,
+            eng:"Как спросить : ` Какой ваш заказ в кафэ Драйв Thру обычно? `",
+            ru:"WHAT IS YOUR ORDER IN DRIVE THROUGH USUALLY? / уОт из ё Одэ Южали /"
+            },
+            {
+            id:11,
+            eng:"Как спросить : ` Какого вы возраста? Сколько вам лет? `",
+            ru:"HOW OLD ARE YOU? / хау оулд а ю /"
+            },
+            {
+            id:12,
+            eng:"Как спросить : ` Какой номер твоего дома? `",
+            ru:"WHAT IS YOUR HOUSE NUMBER? / уОт из ё хАус нАмбэ /"
+            },
+            {
+            id:13,
+            eng:"Как спросить : ` Чему равняется 12 плас 12 ? `",
+            ru:"WHAT IS 12 PLUS 12 ? / туэлв плас туэлв /"
+            },
+            {
+            id:14,
+            eng:"Как спросить : ` Чему равняется 20 плас 20 ? `",
+            ru:"WHAT IS 20 PLUS 20 ? / туЭнти плас туЭнти /"
+            },
+            {
+            id:15,
+            eng:"Как спросить : ` Чему равняется 15 плас 50 ? `",
+            ru:"WHAT IS 15 PLUS 50 ? / фифтИИИн плас фИфти /"
+            },
+            {
+            id:16,
+            eng:"Как спросить : ` Чему равняется 40 плас 14 ? `",
+            ru:"WHAT IS 40 PLUS 14 ? / фОти плас фотИИИн /"
+            },
+            {
+            id:17,
+            eng:"Как сказать : ` Произнесите имя вашего учителя по буквам, пожалуйста `",
+            ru:"SPELL YOUR TEACHER'S NAME, PLEASE "
+            },
+            {
+            id:18,
+            eng:"Как спросить : ` Какое у вас счастливое число? `",
+            ru:"WHAT IS YOUR LUCKY NUMBER? / лаки нАмбэ /"
+            },
+            {
+            id:19,
+            eng:"Как спросить : ` Как вы себя чувствуете? `",
+            ru:"HOW ARE YOU? / хАу а ю /"
+            },
+            {
+            id:20,
+            eng:"Как спросить : ` Как ваша жизнь? ( ответ на этот вопрос звучит так: My life is good ) `",
+            ru:"HOW IS YOUR LIFE? / хау из ё лайф /"
+            },
+            {
+                id:101,
+                eng:"    Как переводится :         ` What is your phone number?  / уОт из ё фОун нАмбэ / `",
+                ru:"КАКОЙ ТВОЙ НОМЕР ТЕЛЕФОНА?"
+                },
+                {
+                id:102,
+                eng:"    Как переводится :         ` Let’s check your phone number, the first 3 digits are + плас 8 7 0, right? / лэтс чек ё фОун нАмбэ, дэ фёст диджитс а плас 870 райт? / `",
+                ru:"ДАВАЙТЕ ПРОВЕРИМ ВАШ ТЕЛЕФОННЫЙ НОМЕР, ПЕРВЫЕ ТРИ ЦИФРЫ: ПЛАС+870"
+                },
+                {
+                id:103,
+                eng:"    Как переводится :         ` Where are you from? / уЭэ а ю фром / `",
+                ru:"ОТКУДА ТЫ РОДОМ?"
+                },
+                {
+                id:104,
+                eng:"    Как переводится :         ` Where were you born? And where do you live now? / уЭэ вё ю борн энд уЭэ ду ю лив нАу / `",
+                ru:"ГДЕ ВЫ РОДИЛИСЬ? И ГДЕ ВЫ ЖИВЕТЕ СЕЙЧАС?"
+                },
+                {
+                id:105,
+                eng:"    Как переводится :         ` What pets do you have? What pets do you like very much? / пЭтс / `",
+                ru:"КАКИЕ У ВАС ПИТОМЦЫ? КАКИЕ ДОМАШНИЕ ЖИВОТНЫЕ ВАМ ОЧЕНЬ НРАВЯТСЯ?"
+                },
+                {
+                id:106,
+                eng:"    Как переводится :         ` What food are you crazy about? What food do you like? / фуД / `",
+                ru:"ПО КАКОЙ ЕДЕ ВЫ СХОДИТЕ С УМА? КАКАЯ ЕДА ВАМ СИЛЬНО НРАВИТСЯ?"
+                },
+                {
+                id:107,
+                eng:"    Как переводится :         ` What hobby do you have? What do you collect? Do you have a big collection? / коллект и колекшн / `",
+                ru:"КАКОЕ У ВАС УВЛЕЧЕНИЕ? ЧТО ВЫ КОЛЛЕКЦИОНИРУЕТЕ? У ВАС БОЛЬШАЯ КОЛЛЕКЦИЯ?"
+                },
+                {
+                id:108,
+                eng:"    Как переводится :         ` Spell your name, please. / спэл ё нэйм плиз / `",
+                ru:"ПРОИЗНЕСИТЕ ВАШЕ ИМЯ ПО БУКВАМ, ПОЖАЛУЙСТА"
+                },
+                {
+                id:109,
+                eng:"    Как переводится :         ` What is your car number?  / уОт из ё ка намбэ / `",
+                ru:"КАКОЙ НОМЕ ВАШЕЙ МАШИНЫ?"
+                },
+                {
+                id:110,
+                eng:"    Как переводится :         ` What is your order in Drive Through usually? / уОт из ё Одэ Южали / `",
+                ru:"КАКОЙ ВАШ ЗАКАЗ В КАФЭ ДРАЙВ THРУ ОБЫЧНО?"
+                },
+                {
+                id:111,
+                eng:"    Как переводится :         ` How old are you? / хау оулд а ю / `",
+                ru:"КАКОГО ВЫ ВОЗРАСТА? СКОЛЬКО ВАМ ЛЕТ?"
+                },
+                {
+                id:112,
+                eng:"    Как переводится :         ` What is your house number? / уОт из ё хАус нАмбэ / `",
+                ru:"КАКОЙ НОМЕР ТВОЕГО ДОМА?"
+                },
+                {
+                id:113,
+                eng:"    Как переводится :         ` What is 12 plus 12 ? / туэлв плас туэлв / `",
+                ru:"ЧЕМУ РАВНЯЕТСЯ 12 ПЛАС 12 ?"
+                },
+                {
+                id:114,
+                eng:"    Как переводится :         ` What is 20 plus 20 ? / туЭнти плас туЭнти / `",
+                ru:"ЧЕМУ РАВНЯЕТСЯ 20 ПЛАС 20 ?"
+                },
+                {
+                id:115,
+                eng:"    Как переводится :         ` What is 15 plus 50 ? / фифтИИИн плас фИфти / `",
+                ru:"ЧЕМУ РАВНЯЕТСЯ 15 ПЛАС 50 ?"
+                },
+                {
+                id:116,
+                eng:"    Как переводится :         ` What is 40 plus 14 ? / фОти плас фотИИИн / `",
+                ru:"ЧЕМУ РАВНЯЕТСЯ 40 ПЛАС 14 ?"
+                },
+                {
+                id:117,
+                eng:"    Как переводится :         ` Spell your teacher's name, please  `",
+                ru:"ПРОИЗНЕСИТЕ ИМЯ ВАШЕГО УЧИТЕЛЯ ПО БУКВАМ, ПОЖАЛУЙСТА"
+                },
+                {
+                id:118,
+                eng:"    Как переводится :         ` What is your lucky number? / лаки нАмбэ / `",
+                ru:"КАКОЕ У ВАС СЧАСТЛИВОЕ ЧИСЛО?"
+                },
+                {
+                id:119,
+                eng:"    Как переводится :         ` How are you? / хАу а ю / `",
+                ru:"КАК ВЫ СЕБЯ ЧУВСТВУЕТЕ?"
+                },
+                {
+                id:120,
+                eng:"    Как переводится :         ` How is your life? / хау из ё лайф / `",
+                ru:"КАК ВАША ЖИЗНЬ? ( ОТВЕТ НА ЭТОТ ВОПРОС ЗВУЧИТ ТАК: MY LIFE IS GOOD )"
+                },
+    ],
+    questions001: [
+        {
+            id:1,
+            eng:"What is your phone number?  / уОт из ё фОун нАмбэ /",
+            ru:"Какой твой номер телефона?"
+            },
+            {
+            id:2,
+            eng:"Let’s check your phone number, the first 3 digits are + плас 8 7 0, right? / лэтс чек ё фОун нАмбэ, дэ фёст диджитс а плас 870 райт? /",
+            ru:"Давайте проверим ваш телефонный номер, первые три цифры: плас+870"
+            },
+            {
+            id:3,
+            eng:"Where are you from? / уЭэ а ю фром /",
+            ru:"Откуда ты родом?"
+            },
+            {
+            id:4,
+            eng:"Where were you born? And where do you live now? / уЭэ вё ю борн энд уЭэ ду ю лив нАу /",
+            ru:"Где вы родились? И где вы живете сейчас?"
+            },
+            {
+            id:5,
+            eng:"What pets do you have? What pets do you like very much? / пЭтс /",
+            ru:"Какие у вас питомцы? Какие домашние животные вам очень нравятся?"
+            },
+            {
+            id:6,
+            eng:"What food are you crazy about? What food do you like? / фуД /",
+            ru:"По какой еде вы сходите с ума? Какая еда вам сильно нравится?"
+            },
+            {
+            id:7,
+            eng:"What hobby do you have? What do you collect? Do you have a big collection? / коллект и колекшн /",
+            ru:"Какое у вас увлечение? Что вы коллекционируете? У вас большая коллекция?"
+            },
+            {
+            id:8,
+            eng:"Spell your name, please. / спэл ё нэйм плиз /",
+            ru:"Произнесите ваше имя по буквам, пожалуйста"
+            },
+            {
+            id:9,
+            eng:"What is your car number?  / уОт из ё ка намбэ /",
+            ru:"Какой номе вашей машины?"
+            },
+            {
+            id:10,
+            eng:"What is your order in Drive Through usually? / уОт из ё Одэ Южали /",
+            ru:"Какой ваш заказ в кафэ Драйв Thру обычно?"
+            },
+            {
+            id:11,
+            eng:"How old are you? / хау оулд а ю /",
+            ru:"Какого вы возраста? Сколько вам лет?"
+            },
+            {
+            id:12,
+            eng:"What is your house number? / уОт из ё хАус нАмбэ /",
+            ru:"Какой номер твоего дома?"
+            },
+            {
+            id:13,
+            eng:"What is 12 plus 12 ? / туэлв плас туэлв /",
+            ru:"Чему равняется 12 плас 12 ?"
+            },
+            {
+            id:14,
+            eng:"What is 20 plus 20 ? / туЭнти плас туЭнти /",
+            ru:"Чему равняется 20 плас 20 ?"
+            },
+            {
+            id:15,
+            eng:"What is 15 plus 50 ? / фифтИИИн плас фИфти /",
+            ru:"Чему равняется 15 плас 50 ?"
+            },
+            {
+            id:16,
+            eng:"What is 40 plus 14 ? / фОти плас фотИИИн /",
+            ru:"Чему равняется 40 плас 14 ?"
+            },
+            {
+            id:17,
+            eng:"Spell your teacher's name, please ",
+            ru:"Произнесите имя вашего учителя по буквам, пожалуйста"
+            },
+            {
+            id:18,
+            eng:"What is your lucky number? / лаки нАмбэ /",
+            ru:"Какое у вас счастливое число?"
+            },
+            {
+            id:19,
+            eng:"How are you? / хАу а ю /",
+            ru:"Как вы себя чувствуете?"
+            },
+            {
+            id:20,
+            eng:"How is your life? / хау из ё лайф /",
+            ru:"Как ваша жизнь? ( My life is good )"
             },
     ],
     advice02: [

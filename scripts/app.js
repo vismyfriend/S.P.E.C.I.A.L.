@@ -641,7 +641,9 @@ function previousQuestion() {
 function getquestions() {
     // usedCheatsText.textContent = `1 ) Ты читаешь, собеседник отвечает / выполняет. 2 ) Нужен перевод? - нажми на размытый текст. 
     // 3 ) Кто отвечал, тот задаёт следующий вопрос . Если вопрос повторился  -  повторяй ! Тренируйтесь много раз говорить одно и тоже. It is life. Кто скажет: "это уже было", тот лузер! `
-    usedCheatsText.textContent = ` Задание написано на карточке. Чтобы проверить ответ или перевод нажми на размытый текст. Кто скажет: "Это уже было", тот лузер! `
+    // usedCheatsText.textContent = ` Правило 1: Кто скажет: "Это уже было", тот лузер! Правило 2: Читай вслух, что написано, напарник отвечает или переводит. Чтобы проверить ответ или перевод нажми на размытый текст. Кто скажет: "Это уже было", тот лузер! `
+    // usedCheatsText.textContent = ` Задание написано на карточке. Чтобы проверить ответ или перевод нажми на размытый текст. Кто скажет: "Это уже было", тот лузер! `
+    usedCheatsText.textContent = ` Задание : Ты читаешь текст на карточке вслух. Твой напарник отвечает тебе. Для проверки и перевода нажми ниже (на размытый текст) Следующую карточку читает твой напарник`
 
     // backToChoosingTheMissions.classList.remove("opacityZero")
     // resetPageButton.classList.remove("opacityZero")
@@ -918,7 +920,6 @@ const playerInputType = document.querySelector(".playerInputType")
 const typeOrWriteGameButtonCompare = document.querySelector(".typeOrWriteGameButtonCompare")
 
 function startGameInputTypeOrWriteGame() {
-    body.classList.add("BenderWordOrderGameBackgroundPicture")
 
     mainContainerIntroAnd2games.classList.add("none")
     gameBender.classList.add("none")
@@ -996,6 +997,7 @@ const keyH = document.querySelector(".keyH")
 const keyJ = document.querySelector(".keyJ")
 const keyK = document.querySelector(".keyK")
 const keyL = document.querySelector(".keyL")
+const keyOpostrophy = document.querySelector(".keyOpostrophy")
 const keyZ = document.querySelector(".keyZ")
 const keyX = document.querySelector(".keyX")
 const keyC = document.querySelector(".keyC")
@@ -1067,6 +1069,9 @@ keyL.addEventListener("click", () => {
 })
 keyZ.addEventListener("click", () => {
     TNTuserInput.value = TNTuserInput.value + "Z"
+})
+keyOpostrophy.addEventListener("click", () => {
+    TNTuserInput.value = TNTuserInput.value + "'"
 })
 keyX.addEventListener("click", () => {
     TNTuserInput.value = TNTuserInput.value + "X"

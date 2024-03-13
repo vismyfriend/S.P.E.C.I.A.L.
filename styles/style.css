@@ -13,7 +13,16 @@
     width: 310px;
     user-select: none;
 }
-
+.wallpaper {
+    background-image: url(../images/springwallpaper.jpg);
+    opacity: 0.5;
+    overflow: hidden;
+    z-index: -100;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+}
 /* для всех кнопок базовый дизайн (стили) устанавливаем, поэтому без точки здесь. Дополнительные стили уже у нужных кнопок отдельно пропишем*/
 
 button {
@@ -1367,6 +1376,7 @@ font-size: 20px;
     /* padding-top:45%; */
 }
  
+
 
 
 /* выше фон на сайте */

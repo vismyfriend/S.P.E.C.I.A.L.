@@ -39,7 +39,7 @@ const benderWordOrderSentences = {
             ru:"Я робот и моё имя Бендер.",
            },
     ],
-    m003: [
+    helpArobot: [
         {
             id:101,
             eng:"my friends are good .",
@@ -163,7 +163,7 @@ const benderWordOrderSentences = {
             ru:"Я робот и моё имя Бендер.",
             },
     ],
-    m007: [
+    hw3: [
         {
             id:1,
             eng:"I am clever .",

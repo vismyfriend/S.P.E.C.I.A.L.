@@ -20,6 +20,152 @@ const allWordsForGameTypeOrWrite = {
             ru:"третий"
             },
     ],
+    homework001: [
+        {
+            id:1,
+            eng:"my collection is not very big yet",
+            ru:"моя коллекция не очень большая пока что",
+            hint:" / йет /"
+            },
+            {
+            id:2,
+            eng:"any object",
+            ru:"любой объект",
+            hint:" / эни Обджэкт /"
+            },
+            {
+            id:3,
+            eng:"pens",
+            ru:"ручки",
+            hint:" / пэнz /"
+            },
+            {
+            id:4,
+            eng:"screen",
+            ru:"экран",
+            hint:" / скрин /"
+            },
+            {
+            id:5,
+            eng:"buttons",
+            ru:"кнопки",
+            hint:" / бАтэнz /"
+            },
+            {
+            id:6,
+            eng:"headphones",
+            ru:"наушники",
+            hint:" / хЭдфоунз /"
+            },
+            {
+            id:7,
+            eng:"achievements",
+            ru:"достижения",
+            hint:" / эчИвмэнтс /"
+            },
+            {
+            id:8,
+            eng:"mission",
+            ru:"миссия",
+            hint:" / мишн /"
+            },
+            {
+            id:9,
+            eng:"everybody",
+            ru:"каждый, все",
+            hint:" / Эврибади /"
+            },
+            {
+            id:10,
+            eng:"pets",
+            ru:"питомцы, домашние животные",
+            hint:" / пэтс /"
+            },
+            {
+            id:11,
+            eng:"I am crazy about",
+            ru:"я схожу с ума по, я без ума от",
+            hint:" / крэйзи эбаут /"
+            },
+            {
+            id:12,
+            eng:"hobby",
+            ru:"увлечение, хобби",
+            hint:" / хобби /"
+            },
+            {
+            id:13,
+            eng:"collect",
+            ru:"коллекционировать",
+            hint:" / коллЭкт /"
+            },
+            {
+            id:14,
+            eng:"slowly",
+            ru:"медленно",
+            hint:" / слОули /"
+            },
+            {
+            id:15,
+            eng:"I didn't get it",
+            ru:"я не уловил, до меня не дошло",
+            hint:" / диднт гет ит /"
+            },
+            {
+            id:16,
+            eng:"say it again",
+            ru:"скажите это снова",
+            hint:" / сэй ит эгЕн /"
+            },
+            {
+            id:17,
+            eng:"spell",
+            ru:"произнесите по буквам",
+            hint:" / спЭл /"
+            },
+            {
+            id:18,
+            eng:"repeat one more time",
+            ru:"повторите еще один раз",
+            hint:" / уАн мо тайм /"
+            },
+            {
+            id:19,
+            eng:"three",
+            ru:"три",
+            hint:" / межзубный звук /"
+            },
+            {
+            id:20,
+            eng:"eight",
+            ru:"восемь",
+            hint:" / эйт /"
+            },
+            {
+            id:21,
+            eng:"think",
+            ru:"думать",
+            hint:" / межзубный звук /"
+            },
+            {
+            id:22,
+            eng:"any animal",
+            ru:"любое животное",
+            hint:" / эни Энимал /"
+            },
+            {
+            id:23,
+            eng:"any food",
+            ru:"любая еда",
+            hint:" / эни фуД /"
+            },
+            {
+            id:24,
+            eng:"find",
+            ru:"находить, искать",
+            hint:" / файнд /"
+            },
+    ],
     m000: [
         {
             id:1,
@@ -314,7 +460,7 @@ const allWordsForGameTypeOrWrite = {
             hint:" / ё /"
             },
     ],
-    m005: [
+    spellAllLetters: [
         {
             id:101,
             eng:"A",
@@ -472,7 +618,7 @@ const allWordsForGameTypeOrWrite = {
             hint:""
             },
     ],
-    m008: [
+    m004: [
         {
             id:1,
             eng:"I am clever",
@@ -552,7 +698,7 @@ const allWordsForGameTypeOrWrite = {
             hint:" / аУа кЭт из кул /"
             },
     ],
-    m010: [
+    ach002: [
         {
             id:1,
             eng:"zero",

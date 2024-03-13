@@ -150,6 +150,152 @@ const allCardsGameFindAPair = {
             
             },
     ],
+    homework001: [
+        {
+            id:1,
+            eng:"My collection is not very big yet / йет /",
+            ru:"моя коллекция не очень большая пока что",
+            
+            },
+            {
+            id:2,
+            eng:"any object / эни Обджэкт /",
+            ru:"любой объект",
+            
+            },
+            {
+            id:3,
+            eng:"pens / пэнz /",
+            ru:"ручки",
+            
+            },
+            {
+            id:4,
+            eng:"screen / скрин /",
+            ru:"экран",
+            
+            },
+            {
+            id:5,
+            eng:"buttons / бАтэнz /",
+            ru:"кнопки",
+            
+            },
+            {
+            id:6,
+            eng:"headphones / хЭдфоунз /",
+            ru:"наушники",
+            
+            },
+            {
+            id:7,
+            eng:"achievements / эчИвмэнтс /",
+            ru:"достижения",
+            
+            },
+            {
+            id:8,
+            eng:"mission / мишн /",
+            ru:"миссия",
+            
+            },
+            {
+            id:9,
+            eng:"everybody / Эврибади /",
+            ru:"каждый, все",
+            
+            },
+            {
+            id:10,
+            eng:"pets / пэтс /",
+            ru:"питомцы, домашние животные",
+            
+            },
+            {
+            id:11,
+            eng:"I am crazy about / крэйзи эбаут /",
+            ru:"я схожу с ума по, я без ума от",
+            
+            },
+            {
+            id:12,
+            eng:"hobby / хобби /",
+            ru:"увлечение, хобби",
+            
+            },
+            {
+            id:13,
+            eng:"collect / коллЭкт /",
+            ru:"коллекционировать",
+            
+            },
+            {
+            id:14,
+            eng:"slowly / слОули /",
+            ru:"медленно",
+            
+            },
+            {
+            id:15,
+            eng:"I didn't get it / диднт гет ит /",
+            ru:"я не уловил, до меня не дошло",
+            
+            },
+            {
+            id:16,
+            eng:"say it again / сэй ит эгЕн /",
+            ru:"скажите это снова",
+            
+            },
+            {
+            id:17,
+            eng:"spell / спЭл /",
+            ru:"произнесите по буквам",
+            
+            },
+            {
+            id:18,
+            eng:"repeat one more time / уАн мо тайм /",
+            ru:"повторите еще один раз",
+            
+            },
+            {
+            id:19,
+            eng:"three / межзубный звук /",
+            ru:"три",
+            
+            },
+            {
+            id:20,
+            eng:"eight / эйт /",
+            ru:"восемь",
+            
+            },
+            {
+            id:21,
+            eng:"think / межзубный звук /",
+            ru:"думать",
+            
+            },
+            {
+            id:22,
+            eng:"any animal / эни Энимал /",
+            ru:"любое животное",
+            
+            },
+            {
+            id:23,
+            eng:"any food / эни фуД /",
+            ru:"любая еда",
+            
+            },
+            {
+            id:24,
+            eng:"find / файнд /",
+            ru:"находить, искать",
+            
+            },
+    ],
     devmode1: [
         {
             id: 1,
@@ -577,7 +723,7 @@ const allCardsGameFindAPair = {
             ru: "твой, твоё, твоя, ваш, ваше, ваша, ваши, твои"
         },
     ],
-    m006: [
+    homework002: [
         {
             id:1,
             eng:"A ",
@@ -1195,7 +1341,7 @@ const allCardsGameFindAPair = {
             ru: "/кИ/ и только так произносится"
         },
     ],
-    m009: [
+    ach001: [
         {
             id:1,
             eng:"zero / зИроу /",
@@ -1312,7 +1458,7 @@ const allCardsGameFindAPair = {
             ru:"минус",
             },
     ],
-    m011: [
+    ach003: [
             {
             id:24,
             eng:"nine plus two / плас /",
@@ -2848,7 +2994,7 @@ const allCardsGameFindAPair = {
             ru: "8000"
         },
     ],
-    questions001: [
+    questions002: [
         {
             id: 1,
             eng: "When? / уэн /",
@@ -2940,7 +3086,7 @@ const allCardsGameFindAPair = {
             ru: "Который час? Сколько время?"
         },
     ],
-    questions002: [
+    questions003: [
         {
             id: 19,
             eng: "What shape? / уот шэйп /",
