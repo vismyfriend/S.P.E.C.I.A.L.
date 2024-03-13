@@ -328,6 +328,218 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    pancakeDay: [
+        {
+            id:1,
+            eng:"How often do you cook pancakes? ",
+            ru:"Как часто ты готовишь блины?"
+            },
+            {
+            id:2,
+            eng:"When did you cook pancakes last time? ",
+            ru:"Когда ты в последний раз готовил блины?"
+            },
+            {
+            id:3,
+            eng:"What do you like to eat pancakes with? ",
+            ru:"С чем ты любишь есть блины?"
+            },
+            {
+            id:4,
+            eng:"Do you believe in a phrase : ‘The first pancake always looks the worst’ ",
+            ru:"Ты веришь в фразу: 'Первый блин комом'?"
+            },
+            {
+            id:5,
+            eng:"What ingredients do you need to make pancakes? ",
+            ru:"Какие ингредиенты тебе нужны, чтобы приготовить блины?"
+            },
+            {
+            id:6,
+            eng:"How long does it take to make 15 pancakes? ",
+            ru:"Сколько времени занимает готовка 15 блинов?"
+            },
+            {
+            id:7,
+            eng:"Will you cook some pancakes for me? ",
+            ru:"Приготовишь мне блинчиков?"
+            },
+            {
+            id:8,
+            eng:"When are you cooking pancakes soon? ",
+            ru:"Когда ты собираешься приготовить блины?"
+            },
+            {
+            id:9,
+            eng:"Do you have a special recipe to cook pancakes or do you follow your heart when you make them? ",
+            ru:"У тебя есть особый рецепт для готовки блинов или ты следуешь своему сердцу, когда их готовишь?"
+            },
+            {
+            id:10,
+            eng:"Is it hard for you to cook pancakes? ",
+            ru:"Тебе сложно дается приготовление блинов?"
+            },
+            {
+            id:11,
+            eng:"Did anybody cook pancakes for you when you were a kid? ",
+            ru:"Кто-то готовил тебе блины, когда ты был ребенком?"
+            },
+            {
+            id:12,
+            eng:"Can you throw a pancake and catch it with a pan? ",
+            ru:"Ты можешь подбросить блин и поймать его на сковороду?"
+            },
+            {
+            id:13,
+            eng:"Did you drop a pancake on the floor? ",
+            ru:"Ты ронял блин на пол?"
+            },
+            {
+            id:14,
+            eng:"Is it okay to eat pancake from the floor if you dropped it? (do you know about 10 second rule?) ",
+            ru:"Нормально ли съесть блин с пола, если ты его уронил? (ты знаешь о правиле 10 секунд?)"
+            },
+            {
+            id:15,
+            eng:"Do you like thin pancakes or thick pancakes? ",
+            ru:"Тебе нравятся тонкие блины или толстые блины?"
+            },
+            {
+            id:16,
+            eng:"Did you try to eat pancakes with salmon and cheese? ",
+            ru:"Пробовал ли ты есть блины с лососем и сыром?"
+            },
+            {
+            id:17,
+            eng:"What will you choose? A pancake with chocolate or a pancake with salmon? ",
+            ru:"Что выберешь? Блин с шоколадом или блин с лососем?"
+            },
+            {
+            id:18,
+            eng:"Will you eat pancakes with Vincent behind the garages if he invites you? What drink will you bring with you? ",
+            ru:"Ты будешь есть блины с Винсентом за гаражами, если он пригласит тебя? Какой напиток принесешь с собой?"
+            },
+            {
+            id:19,
+            eng:"What are you doing tomorrow? Are you cooking pancakes? ",
+            ru:"Что делаешь завтра? Блины готовить?"
+            },
+            {
+            id:20,
+            eng:"What will you do tomorrow? Will you cook pancakes? ",
+            ru:"Что сделаешь завтра? Приготовишь блинов?"
+            },
+            {
+            id:21,
+            eng:"What name of this holiday do you like more? Mardi Gras or Maslenitsa or Fat Tuesday or Shrove Tuesday? ",
+            ru:"Какое название этого праздника нравится тебе больше?"
+            },
+            {
+            id:22,
+            eng:"Do you know or maybe do you have any traditions what to do for Pancake day or Maslenitsa? How to have fun? ",
+            ru:"Ты знаешь какие-нибудь традиции на Масленицу? Как весело провести время?"
+            },
+            {
+                id:23,
+                eng:"What is the English for: ` миска `",
+                ru:"A BOWL / бОул /"
+                },
+                {
+                id:24,
+                eng:"What is the English for: ` гонка блинов `",
+                ru:"A PANCAKE RACE / рЭйс /"
+                },
+                {
+                id:25,
+                eng:"What is the English for: ` растительное масло и сливочное масло `",
+                ru:"OIL AND BUTTER / Оил эн бАтэ /"
+                },
+                {
+                id:26,
+                eng:"What is the English for: ` отмечать, праздновать `",
+                ru:"CELEBRATE / сэлебрэйт /"
+                },
+                {
+                id:27,
+                eng:"What is the English for: ` Пасха `",
+                ru:"EASTER / Истэ /"
+                },
+                {
+                id:28,
+                eng:"What is the English for: ` перемешивать `",
+                ru:"MIX "
+                },
+                {
+                id:29,
+                eng:"What is the English for: ` мука `",
+                ru:"FLOUR / флАуэ /"
+                },
+                {
+                id:30,
+                eng:"What is the English for: ` яйца `",
+                ru:"EGGS / эГZ /"
+                },
+                {
+                id:31,
+                eng:"What is the English for: ` сахар `",
+                ru:"SUGAR / Щуга /"
+                },
+                {
+                id:32,
+                eng:"What is the English for: ` соль `",
+                ru:"SALT / сОлт /"
+                },
+                {
+                    id:123,
+                    eng:"    Как переводится :         ` a bowl / бОул / `",
+                    ru:"МИСКА"
+                    },
+                    {
+                    id:124,
+                    eng:"    Как переводится :         ` a pancake race / рЭйс / `",
+                    ru:"ГОНКА БЛИНОВ"
+                    },
+                    {
+                    id:125,
+                    eng:"    Как переводится :         ` Oil and butter / Оил эн бАтэ / `",
+                    ru:"РАСТИТЕЛЬНОЕ МАСЛО И СЛИВОЧНОЕ МАСЛО"
+                    },
+                    {
+                    id:126,
+                    eng:"    Как переводится :         ` celebrate / сэлебрэйт / `",
+                    ru:"ОТМЕЧАТЬ, ПРАЗДНОВАТЬ"
+                    },
+                    {
+                    id:127,
+                    eng:"    Как переводится :         ` Easter / Истэ / `",
+                    ru:"ПАСХА"
+                    },
+                    {
+                    id:128,
+                    eng:"    Как переводится :         ` mix  `",
+                    ru:"ПЕРЕМЕШИВАТЬ"
+                    },
+                    {
+                    id:129,
+                    eng:"    Как переводится :         ` flour / флАуэ / `",
+                    ru:"МУКА"
+                    },
+                    {
+                    id:130,
+                    eng:"    Как переводится :         ` eggs / эГZ / `",
+                    ru:"ЯЙЦА"
+                    },
+                    {
+                    id:131,
+                    eng:"    Как переводится :         ` sugar / Щуга / `",
+                    ru:"САХАР"
+                    },
+                    {
+                    id:132,
+                    eng:"    Как переводится :         ` salt / сОлт / `",
+                    ru:"СОЛЬ"
+                    },
+    ],
     questions001teams: [
         {
             id:1,
