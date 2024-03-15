@@ -333,6 +333,818 @@ const allCardsGameFindAPair = {
             ru: "седьмой"
         },
     ],
+    allCountriesAndCapitals: [
+        {
+            id:1,
+            eng:" / æb'kɑːzɪə / Abkhazia",
+            ru:" / su'huːm(ɪ) / Sukhum",
+            
+            },
+            {
+            id:2,
+            eng:" / æfˌɡænɪˈstɑːn / Afghanistan",
+            ru:" / ˈkɑːbʊl / Kabul",
+            
+            },
+            {
+            id:3,
+            eng:" / ælˈbeɪniə / Albania",
+            ru:" / tɪˈrɑːnə / Tirana",
+            
+            },
+            {
+            id:4,
+            eng:" / ælˈdʒɪəriə / Algeria",
+            ru:" / ælˈdʒɪəz / Algiers",
+            
+            },
+            {
+            id:5,
+            eng:" / ˌɑːdʒənˈtiːnə / Argentina",
+            ru:" / ˈbweɪnosˈeriz / Buenos Aires",
+            
+            },
+            {
+            id:6,
+            eng:" / ɑːˈmiːniə / Armenia",
+            ru:" / ˌjerɪˈvɑːn / Yerevan",
+            
+            },
+            {
+            id:7,
+            eng:" / ɒˈstreɪliə / Australia",
+            ru:" / ˈkænbərə / Canberra",
+            
+            },
+            {
+            id:8,
+            eng:" / ˈɒstriə / Austria",
+            ru:" / vɪˈenə / Vienna",
+            
+            },
+            {
+            id:9,
+            eng:" / ˌɑːzərbaɪˈdʒɑːn / Azerbaijan",
+            ru:" / ˈbækuː / Baku",
+            
+            },
+            {
+            id:10,
+            eng:" / bəˈhɑːməz / Bahamas",
+            ru:" / ˈnæsɒ / Nassau",
+            
+            },
+            {
+            id:11,
+            eng:" / bɑːˈreɪn / Bahrain",
+            ru:" / ˈmænəmə / Manama",
+            
+            },
+            {
+            id:12,
+            eng:" / ˌbæŋɡləˈdeʃ / Bangladesh",
+            ru:" / ˈdækə / Dacca",
+            
+            },
+            {
+            id:13,
+            eng:" / belə'rus / Belarus",
+            ru:" / mɪnsk / Minsk",
+            
+            },
+            {
+            id:14,
+            eng:" / ˈbeldʒəm / Belgium",
+            ru:" / ˈbrʌsəlz / Brussels",
+            
+            },
+            {
+            id:15,
+            eng:" / bəˈmjuːdəˈaɪlən / Bermuda Islands",
+            ru:" / ˈhæmɪltən / Hamilton",
+            
+            },
+            {
+            id:16,
+            eng:" / bəˈlɪvɪə / Bolivia",
+            ru:" / lɑːˈpɑːz / La Paz",
+            
+            },
+            {
+            id:17,
+            eng:" / brəˈzɪl / Brazil",
+            ru:" / brəˈzɪlɪə / Brasilia",
+            
+            },
+            {
+            id:18,
+            eng:" / bʌlˈɡeərɪə / Bulgaria",
+            ru:" / ˈsəʊfɪə / Sofia",
+            
+            },
+            {
+            id:19,
+            eng:" / bʊˈrʊndi / Burundi",
+            ru:" / buːdʒəmˈbʊrə / Bujumbura",
+            
+            },
+            {
+            id:20,
+            eng:" / kæmˈbəʊdɪə / Cambodia",
+            ru:" / 'nɒm'pen / Pnompenh",
+            
+            },
+            {
+            id:21,
+            eng:" / ˌkæməˈruːn / Cameroon",
+            ru:" / ͵jɑ:u:nʹdeı / Yaounde",
+            
+            },
+            {
+            id:22,
+            eng:" / ˈkænədə / Canada",
+            ru:" / ˈɒtəwə / Ottawa",
+            
+            },
+            {
+            id:23,
+            eng:" / ˈtʃɪli / Chile",
+            ru:" / ˌsæntɪˈɑːɡəʊ / Santiago",
+            
+            },
+            {
+            id:24,
+            eng:" / ˈtʃaɪnə / China",
+            ru:" / ˌbeiˈdʒɪŋ/ / Beijing",
+            
+            },
+            {
+            id:25,
+            eng:" / kəˈlɒmbɪə / Colombia",
+            ru:" / ˌbɒɡəˈtɑː / Bogota",
+            
+            },
+            {
+            id:26,
+            eng:" / ˈkɒŋɡəʊ / Congo",
+            ru:" / ˈbræzəˌvɪl / Brazzaville",
+            
+            },
+            {
+            id:27,
+            eng:" / ˈkɒstəˈriːkə / Costa Rica",
+            ru:" / sanˌhoˈzeɪ / San Jose",
+            
+            },
+            {
+            id:28,
+            eng:" / ˈkjuːbə / Cuba",
+            ru:" / həˈvænə / Havana",
+            
+            },
+            {
+            id:29,
+            eng:" / ˈsaɪprəs / Cyprus",
+            ru:" / nɪkəˈsiːə / Nicosia",
+            
+            },
+            {
+            id:30,
+            eng:" / tʃekrɪˈpʌblɪk / Czech Republic",
+            ru:" / prɑːɡ / Prague",
+            
+            },
+            {
+            id:31,
+            eng:" / ˈdenmɑːk / Denmark",
+            ru:" / ˌkəʊpənˈheɪɡən / Copenhagen",
+            
+            },
+            {
+            id:32,
+            eng:" / dəˈmɪnɪkənrɪˈpʌ / Dominican Republic",
+            ru:" / ˈsæntəʊdoˈmɪŋɡəʊ / Santo Domingo",
+            
+            },
+            {
+            id:33,
+            eng:" / ˈekwədɔː / Ecuador",
+            ru:" / ˈkiːtəʊ / Quito",
+            
+            },
+            {
+            id:34,
+            eng:" / ˈiːdʒɪpt / Egypt",
+            ru:" / ˈkaɪrəʊ / Cairo",
+            
+            },
+            {
+            id:35,
+            eng:" / ˌelˈniːnjəʊˈsæ / El Salvador",
+            ru:" / sanˈsælvədɔː / San Salvador",
+            
+            },
+            {
+            id:36,
+            eng:" / eˈstəʊniə / Estonia",
+            ru:" / 'tælɪn / Tallinn",
+            
+            },
+            {
+            id:37,
+            eng:" / ˌiːθɪˈəʊpɪə / Ethiopia",
+            ru:" / ˌædɪs'æbəbə / Addis Ababa",
+            
+            },
+            {
+            id:38,
+            eng:" / ˈfɪnlənd / Finland",
+            ru:" / ˈhelsɪŋki / Helsinki",
+            
+            },
+            {
+            id:39,
+            eng:" / frɑːns / France",
+            ru:" / ˈpærɪs / Paris",
+            
+            },
+            {
+            id:40,
+            eng:" / ˈdʒɔːdʒə / Georgia",
+            ru:" / ˌtəbɪˈliːsi / Tbilisi",
+            
+            },
+            {
+            id:41,
+            eng:" / ˈdʒɜːməni / Germany",
+            ru:" / bɜːˈlɪn / Berlin",
+            
+            },
+            {
+            id:42,
+            eng:" / ˈɡɑːnə / Ghana",
+            ru:" / əˈkrɑː / Accra",
+            
+            },
+            {
+            id:43,
+            eng:" / dʒɪˈbrɔːltə / Gibraltar",
+            ru:" / dʒɪˈbrɔːltətaʊn / Gibraltar Town",
+            
+            },
+            {
+            id:44,
+            eng:" / ˈɡreɪtˈbrɪtən / Great Britain",
+            ru:" / ˈlʌndən / London",
+            
+            },
+            {
+            id:45,
+            eng:" / ɡrɪs / Greece",
+            ru:" / ˈæθɪnz / Athens",
+            
+            },
+            {
+            id:46,
+            eng:" / ˌɡwɑːtəˈmɑːlə / Guatemala",
+            ru:" / ˌɡwɑːtəˈmɑːləˈsɪti / Guatemala City",
+            
+            },
+            {
+            id:47,
+            eng:" / ˈɡɪni / Guinea",
+            ru:" / ˈkɒnəkri / Conakry",
+            
+            },
+            {
+            id:48,
+            eng:" / ˈheɪti / Haiti",
+            ru:" / ˌpɔːtəʊˈprɪns / Port-au-Prince",
+            
+            },
+            {
+            id:49,
+            eng:" / həˈwaɪiː / Hawaii",
+            ru:" / ˌhɑːnəˈluːluː / Honolulu",
+            
+            },
+            {
+            id:50,
+            eng:" / hɒnˈdjʊərəs / Honduras",
+            ru:" / teɡuːsiˈɡælpə / Tegucigalpa",
+            
+            },
+            {
+            id:51,
+            eng:" / hʊŋkʰʊŋ / Hong Kong",
+            ru:" / ˌhɒŋ'kɒŋ / Hong Kong",
+            
+            },
+            {
+            id:52,
+            eng:" / ˈhʌŋɡr̩i / Hungary",
+            ru:" / ˈbjuːdəpest / Budapest",
+            
+            },
+            {
+            id:53,
+            eng:" / ˈaɪslənd / Iceland",
+            ru:" / ˈreɪkjəvɪk / Reykjavik",
+            
+            },
+            {
+            id:54,
+            eng:" / ˈɪndɪə / India",
+            ru:" / njuːˈdeli / New Delhi",
+            
+            },
+            {
+            id:55,
+            eng:" / ˌɪndəˈniːzɪə / Indonesia",
+            ru:" / dʒəˈkɑːtə / Jakarta",
+            
+            },
+            {
+            id:56,
+            eng:" / ɪˈrɑːn / Iran",
+            ru:" / ˌteˈrɑːn / Tehran",
+            
+            },
+            {
+            id:57,
+            eng:" / ɪˈrɑːk / Iraq",
+            ru:" / ˌbæɡˈdæd / Baghdad",
+            
+            },
+            {
+            id:58,
+            eng:" / ˈaɪələnd / Ireland",
+            ru:" / ˈdʌblɪn / Dublin",
+            
+            },
+            {
+            id:59,
+            eng:" / ˈɪzreɪl / Israel",
+            ru:" / dʒəˈruːsələm / Jerusalem",
+            
+            },
+            {
+            id:60,
+            eng:" / ˈɪtəli / Italy",
+            ru:" / rəʊm / Rome",
+            
+            },
+            {
+            id:61,
+            eng:" / ˈaɪvərikəʊst / Ivory Coast",
+            ru:" / ˌæbiː'ʤɑːn / Abidjan",
+            
+            },
+            {
+            id:62,
+            eng:" / dʒəˈmeɪkə / Jamaica",
+            ru:" / ˈkɪŋstən / Kingston",
+            
+            },
+            {
+            id:63,
+            eng:" / dʒəˈpæn / Japan",
+            ru:" / ˈtəʊkjəʊ / Tokyo",
+            
+            },
+            {
+            id:64,
+            eng:" / ˌkɑːzakˈstɑːn / Kazakhstan",
+            ru:" / æstæ'nɑː / Astana",
+            
+            },
+            {
+            id:65,
+            eng:" / ˈkenjə / Kenya",
+            ru:" / naɪˈrəʊbi / Nairobi",
+            
+            },
+            {
+            id:66,
+            eng:" / kʊˈweɪt / Kuwait",
+            ru:" / kʊˈweɪtˈsɪti / Kuwait City",
+            
+            },
+            {
+            id:67,
+            eng:" / ˈkɪrɡəˌstæn / Kyrgyzstan",
+            ru:" / bɪʃ'kek / Bishkek",
+            
+            },
+            {
+            id:68,
+            eng:" / ˈlætviə / Latvia",
+            ru:" / ˈriːɡə / Riga",
+            
+            },
+            {
+            id:69,
+            eng:" / ˈlebənən / Lebanon",
+            ru:" / ˌbeɪˈruːt / Beirut",
+            
+            },
+            {
+            id:70,
+            eng:" / laɪˈbɪərɪə / Liberia",
+            ru:" / ˌmɑːnˈroviə / Monrovia",
+            
+            },
+            {
+            id:71,
+            eng:" / ˈlɪbɪə / Libya",
+            ru:" / ˈtrɪpəli / Tripoli",
+            
+            },
+            {
+            id:72,
+            eng:" / ˌlɪθəˈweɪniə / Lithuania",
+            ru:" / ˈvɪlniəs / Vilnius",
+            
+            },
+            {
+            id:73,
+            eng:" / ˈlʌksəmbɜːɡ / Luxemburg",
+            ru:" / ˈlʌksəmbɜːɡ / Luxemburg",
+            
+            },
+            {
+            id:74,
+            eng:" / ˌmædəˈɡæskə / Madagascar",
+            ru:" / antəˌnanəˈriːvəʊ / Antananarivo",
+            
+            },
+            {
+            id:75,
+            eng:" / məˈlɑːwi / Malawi",
+            ru:" / lɪˈlɒŋweɪ / Lilongwe",
+            
+            },
+            {
+            id:76,
+            eng:" / məˈleɪzɪə / Malaysia",
+            ru:" / ˈkwɑːləˌləmˈpʊr / Kuala Lumpur",
+            
+            },
+            {
+            id:77,
+            eng:" / ˈmɔːltə / Malta",
+            ru:" / və'letə / Valletta",
+            
+            },
+            {
+            id:78,
+            eng:" / ˈmeksɪkəʊ / Mexico",
+            ru:" / ˈmeksɪkəʊˈsɪti / Mexico City",
+            
+            },
+            {
+            id:79,
+            eng:" / ˌmolˈdovə / Moldova",
+            ru:" / ˌkɪʃɪ'nəu / Chisinau (Kishinev)",
+            
+            },
+            {
+            id:80,
+            eng:" / ˈmɒnəkəʊ / Monaco",
+            ru:" / 'mɔnəkəuvɪl / Monaco-Ville",
+            
+            },
+            {
+            id:81,
+            eng:" / mɒŋˈɡəʊlɪə / Mongolia",
+            ru:" / ʊ'lɑːn'bɑːtɔː / Ulan Bator",
+            
+            },
+            {
+            id:82,
+            eng:" / məˈrɒkəʊ / Morocco",
+            ru:" / rabat / Rabat",
+            
+            },
+            {
+            id:83,
+            eng:" / nɪ'pɔːl / Nepal",
+            ru:" / ˌkatmanˈduː / Kathmandu",
+            
+            },
+            {
+            id:84,
+            eng:" / ˈneðələndz / Netherlands",
+            ru:" / ˈæmstədæm / Amsterdam",
+            
+            },
+            {
+            id:85,
+            eng:" / ˌnjuː'ziːlənd / New Zeland",
+            ru:" / ˈwelɪŋtən / Wellington",
+            
+            },
+            {
+            id:86,
+            eng:" / ˌnɪkəˈræɡjʊə / Nicaragua",
+            ru:" / məˈnɑːɡwə / Managua",
+            
+            },
+            {
+            id:87,
+            eng:" / naɪˈdʒɪərɪə / Nigeria",
+            ru:" / ˈleɪɡɒs / Lagos",
+            
+            },
+            {
+            id:88,
+            eng:" / nɔːθkəˈrɪə / North Korea",
+            ru:" / ˌpjɒŋˈjæŋ / Pyongyang",
+            
+            },
+            {
+            id:89,
+            eng:" / ˈnɔːweɪ / Norway",
+            ru:" / ˈɒzləʊ / Oslo",
+            
+            },
+            {
+            id:90,
+            eng:" / əʊˈmɑːn / Oman",
+            ru:" / ˈmʌskæt / Muscat",
+            
+            },
+            {
+            id:91,
+            eng:" / ˌpɑːkɪˈstɑːn / Pakistan",
+            ru:" / ˌɪsˈlæməbæd / Islamabad",
+            
+            },
+            {
+            id:92,
+            eng:" / ˈpænəmɑː / Panama",
+            ru:" / ˈpænəmɑːˈsɪti / Panama City",
+            
+            },
+            {
+            id:93,
+            eng:" / pæpjʊənjuːˈɡɪn / Papua New Guinea",
+            ru:" / ˌpɔːtˈmɔːzbi / Port Moresby",
+            
+            },
+            {
+            id:94,
+            eng:" / ˈpærəɡwaɪ / Paraguay",
+            ru:" / əˈsənʃən / Asuncion",
+            
+            },
+            {
+            id:95,
+            eng:" / pəˈruː / Peru",
+            ru:" / ˈliːmə / Lima",
+            
+            },
+            {
+            id:96,
+            eng:" / ˈfɪlɪpiːnz / Philippines",
+            ru:" / məˈnɪlə / Manila",
+            
+            },
+            {
+            id:97,
+            eng:" / ˈpəʊlənd / Poland",
+            ru:" / ˈwɔːsɔː / Warsaw",
+            
+            },
+            {
+            id:98,
+            eng:" / ˈpɔːtʃʊɡəl / Portugal",
+            ru:" / ˈlɪzbən / Lisbon",
+            
+            },
+            {
+            id:99,
+            eng:" / pwerˌtəʊˈriːkəʊ / Puerto Rico",
+            ru:" / santɕyɛn / San Juan",
+            
+            },
+            {
+            id:100,
+            eng:" / rəˈmeɪnɪə / Romania",
+            ru:" / ˈbjuːkəˌrest / Bucharest",
+            
+            },
+            {
+            id:101,
+            eng:" / ˈrʌʃə / Russia",
+            ru:" / ˈmɒskəʊ / Moscow",
+            
+            },
+            {
+            id:102,
+            eng:" / rʊˈændə / Rwanda",
+            ru:" / kiˈɡɑːli / Kigali",
+            
+            },
+            {
+            id:103,
+            eng:" / saudiəˈreɪbiə / Saudi Arabia",
+            ru:" / riˈæd / Riyadh",
+            
+            },
+            {
+            id:104,
+            eng:" / ˌsenɪˈɡɔːl / Senegal",
+            ru:" / ˈdækə / Dakar",
+            
+            },
+            {
+            id:105,
+            eng:" / sɪˈeərəleone / Sierra Leone",
+            ru:" / ˈfriːˌtɑːwn / Freetown",
+            
+            },
+            {
+            id:106,
+            eng:" / ˌsɪŋəˈpɔː / Singapore",
+            ru:" / ˌsɪŋəˈpɔːˈsɪti / Singapore City",
+            
+            },
+            {
+            id:107,
+            eng:" / sˌloˈvɑːkiə / Slovakia",
+            ru:" / ˌbrætɪˈslɑːvə / Bratislava",
+            
+            },
+            {
+            id:108,
+            eng:" / sˌloˈviːniə / Slovenia",
+            ru:" / ˌljuːblɪˈɑːnə / Ljubljana",
+            
+            },
+            {
+            id:109,
+            eng:" / saʊθˈæfrɪkə / South Africa",
+            ru:" / prɪˈtɔːrɪə / Pretoria",
+            
+            },
+            {
+            id:110,
+            eng:" / saʊθkəˈrɪə / South Korea",
+            ru:" / səʊl / Seoul",
+            
+            },
+            {
+            id:111,
+            eng:" / saʊθˌɑːˈseʃjə / South Ossetia",
+            ru:" / tskɪnˈvɑːl(i) / Tskhinval(i)",
+            
+            },
+            {
+            id:112,
+            eng:" / speɪn / Spain",
+            ru:" / məˈdrɪd / Madrid",
+            
+            },
+            {
+            id:113,
+            eng:" / ˈʃriːˈlæŋkə / Sri Lanka",
+            ru:" / kəˈlɒmbəʊ / Colombo",
+            
+            },
+            {
+            id:114,
+            eng:" / suːˈdɑːn / Sudan",
+            ru:" / ˌkɑːˈtuːm / Khartoum",
+            
+            },
+            {
+            id:115,
+            eng:" / ˈswiːdən / Sweden",
+            ru:" / ˈstɒkhəʊm / Stockholm",
+            
+            },
+            {
+            id:116,
+            eng:" / ˈswɪtsələnd / Switzerland",
+            ru:" / ˈbɜːn / Berne",
+            
+            },
+            {
+            id:117,
+            eng:" / ˈsɪrɪə / Syria",
+            ru:" / dəˈmæskəs / Damascus",
+            
+            },
+            {
+            id:118,
+            eng:" / taɪˈwɑːn / Taiwan",
+            ru:" / ˌtaɪˈpeɪ / Taipei",
+            
+            },
+            {
+            id:119,
+            eng:" / ˌtɑːˈdʒiːkəˌstæn / Tajikistan",
+            ru:" / duː'ʃænbə / Dushanbe",
+            
+            },
+            {
+            id:120,
+            eng:" / ˈtaɪlænd / Thailand",
+            ru:" / ˌbæŋˈkɒk / Bangkok",
+            
+            },
+            {
+            id:121,
+            eng:" / ˈtəʊɡəʊ / Togo",
+            ru:" / 'ləumeɪ / Lome",
+            
+            },
+            {
+            id:122,
+            eng:" / tjuːˈnɪzɪə / Tunisia",
+            ru:" / ˈtjuːnɪs / Tunis",
+            
+            },
+            {
+            id:123,
+            eng:" / ˈtɜːki / Turkey",
+            ru:" / 'æŋkərə / Ankara",
+            
+            },
+            {
+            id:124,
+            eng:" / tərkˈmenəˌstæn / Turkmenistan",
+            ru:" / ˌɑːʃgɑː'bɑːt / Ashgabat",
+            
+            },
+            {
+            id:125,
+            eng:" / juːˈɡændə / Uganda",
+            ru:" / kəmˈpɑːlə / Kampala",
+            
+            },
+            {
+            id:126,
+            eng:" / juːˈkreɪn / Ukraine",
+            ru:" / ˈkɪjɪf / Kyiv (Kiev)",
+            
+            },
+            {
+            id:127,
+            eng:" / juːˈnaɪtɪdˈærəb / United Arab Emirates",
+            ru:" / ˈæbuːˈdɑːbi / Abu Dhabi",
+            
+            },
+            {
+            id:128,
+            eng:" / juːˈˌesˈeɪ / USA",
+            ru:" / ˈwɒʃɪŋtən / Washington",
+            
+            },
+            {
+            id:129,
+            eng:" / ˈjʊərəɡwaɪ / Uruguay",
+            ru:" / ˌmɒntɪvɪˈdeɪəʊ / Montevideo",
+            
+            },
+            {
+            id:130,
+            eng:" / uːzˈbekəˌstæn / Uzbekistan",
+            ru:" / ˌtæʃˈkent / Tashkent",
+            
+            },
+            {
+            id:131,
+            eng:" / ˌvenɪˈzweɪlə / Venezuela",
+            ru:" / kəˈrækəs / Caracas",
+            
+            },
+            {
+            id:132,
+            eng:" / ˈjemən / Yemen",
+            ru:" / sə'nɑː / Sana'a",
+            
+            },
+            {
+            id:133,
+            eng:" / zɑːˈɪə / Zaire",
+            ru:" / kɪnˈʃɑːsə / Kinshasa",
+            
+            },
+            {
+            id:134,
+            eng:" / ˈzæmbɪə / Zambia",
+            ru:" / luːˈsɑːkə / Lusaka",
+            
+            },
+            {
+            id:135,
+            eng:" / zɪmˈbɑːbwi / Zimbabwe",
+            ru:" / həˈrɑːi / Harare",
+            
+            },
+    ],
     daysMonth: [
         {
             id:1,

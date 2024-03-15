@@ -15,6 +15,7 @@
 }
 .wallpaper {
     background-image: url(../images/springwallpaper.jpg);
+    background-color: #ffffff;
     opacity: 0.5;
     overflow: hidden;
     z-index: -100;
@@ -863,7 +864,7 @@ font-size: 20px;
 .gameFindAPair {
     background-size: 100% 100%;
     display: none;
-    background-color: #000000;
+    /* background-color: #000000; */
 }
 
 .InputTypeOrWriteGameFryFuturama {
@@ -986,7 +987,7 @@ font-size: 20px;
 
 .card {
     margin: 0;
-    background: #ffffff00;
+    background: #0000007a;
     color: #ffffff;
     border-radius: 20px;
     display: -webkit-box;
@@ -1373,6 +1374,7 @@ font-size: 20px;
     width: 100%;
     left: 0;
     opacity: 0.7;
+    user-select: none;
     /* padding-top:45%; */
 }
  

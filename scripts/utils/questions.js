@@ -328,25 +328,1119 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    allCountriesAndCapitals: [
+        {
+            id:1,
+            eng:"in the year 2023 the land area of Afghanistan was 652,860 squared kilometres. The population was about 42,239,854 people. The capital city of Afghanistan is...",
+            ru:"Kabul",
+            
+            },
+            {
+            id:2,
+            eng:"in the year 2023 the land area of Albania was 27,400 squared kilometres. The population was about 2,832,439 people. The capital city of Albania is...",
+            ru:"Tirana",
+            
+            },
+            {
+            id:3,
+            eng:"in the year 2023 the land area of Algeria was 2,381,740 squared kilometres. The population was about 45,606,480 people. The capital city of Algeria is...",
+            ru:"Algiers",
+            
+            },
+            {
+            id:4,
+            eng:"in the year 2023 the land area of Andorra was 470 squared kilometres. The population was about 80,088 people. The capital city of Andorra is...",
+            ru:"Andorra la Vella",
+            
+            },
+            {
+            id:5,
+            eng:"in the year 2023 the land area of Angola was 1,246,700 squared kilometres. The population was about 36,684,202 people. The capital city of Angola is...",
+            ru:"Luanda",
+            
+            },
+            {
+            id:6,
+            eng:"in the year 2023 the land area of Argentina was 2,736,690 squared kilometres. The population was about 45,773,884 people. The capital city of Argentina is...",
+            ru:"Buenos Aires",
+            
+            },
+            {
+            id:7,
+            eng:"in the year 2023 the land area of Armenia was 28,470 squared kilometres. The population was about 2,777,970 people. The capital city of Armenia is...",
+            ru:"Yerevan",
+            
+            },
+            {
+            id:8,
+            eng:"in the year 2023 the land area of Australia was 7,682,300 squared kilometres. The population was about 26,439,111 people. The capital city of Australia is...",
+            ru:"Canberra",
+            
+            },
+            {
+            id:9,
+            eng:"in the year 2023 the land area of Austria was 82,409 squared kilometres. The population was about 8,958,960 people. The capital city of Austria is...",
+            ru:"Vienna",
+            
+            },
+            {
+            id:10,
+            eng:"in the year 2023 the land area of Azerbaijan was 82,658 squared kilometres. The population was about 10,412,651 people. The capital city of Azerbaijan is...",
+            ru:"Baku",
+            
+            },
+            {
+            id:11,
+            eng:"in the year 2023 the land area of Bahamas was 10,010 squared kilometres. The population was about 412,623 people. The capital city of Bahamas is...",
+            ru:"Nassau",
+            
+            },
+            {
+            id:12,
+            eng:"in the year 2023 the land area of Bahrain was 760 squared kilometres. The population was about 1,485,509 people. The capital city of Bahrain is...",
+            ru:"Manama",
+            
+            },
+            {
+            id:13,
+            eng:"in the year 2023 the land area of Bangladesh was 130,170 squared kilometres. The population was about 172,954,319 people. The capital city of Bangladesh is...",
+            ru:"Dhaka",
+            
+            },
+            {
+            id:14,
+            eng:"in the year 2023 the land area of Barbados was 430 squared kilometres. The population was about 281,995 people. The capital city of Barbados is...",
+            ru:"Bridgetown",
+            
+            },
+            {
+            id:15,
+            eng:"in the year 2023 the land area of Belarus was 202,910 squared kilometres. The population was about 9,498,238 people. The capital city of Belarus is...",
+            ru:"Minsk",
+            
+            },
+            {
+            id:16,
+            eng:"in the year 2023 the land area of Belgium was 30,280 squared kilometres. The population was about 11,686,140 people. The capital city of Belgium is...",
+            ru:"Brussels",
+            
+            },
+            {
+            id:17,
+            eng:"in the year 2023 the land area of Belize was 22,810 squared kilometres. The population was about 410,825 people. The capital city of Belize is...",
+            ru:"Belmopan",
+            
+            },
+            {
+            id:18,
+            eng:"in the year 2023 the land area of Benin was 112,760 squared kilometres. The population was about 13,712,828 people. The capital city of Benin is...",
+            ru:"Porto-Novo",
+            
+            },
+            {
+            id:19,
+            eng:"in the year 2023 the land area of Bhutan was 38,117 squared kilometres. The population was about 787,424 people. The capital city of Bhutan is...",
+            ru:"Thimphu",
+            
+            },
+            {
+            id:20,
+            eng:"in the year 2023 the land area of Bolivia was 1,083,300 squared kilometres. The population was about 12,388,571 people. The capital city of Bolivia is...",
+            ru:"Sucre (de jure),",
+            
+            },
+            {
+            id:21,
+            eng:"in the year 2023 the land area of Botswana was 566,730 squared kilometres. The population was about 2,675,352 people. The capital city of Botswana is...",
+            ru:"Sarajevo",
+            
+            },
+            {
+            id:22,
+            eng:"in the year 2023 the land area of Brazil was 8,358,140 squared kilometres. The population was about 216,422,446 people. The capital city of Brazil is...",
+            ru:"Gaborone",
+            
+            },
+            {
+            id:23,
+            eng:"in the year 2023 the land area of Brunei was 5,270 squared kilometres. The population was about 452,524 people. The capital city of Brunei is...",
+            ru:"Brasilia",
+            
+            },
+            {
+            id:24,
+            eng:"in the year 2023 the land area of Bulgaria was 108,560 squared kilometres. The population was about 6,687,717 people. The capital city of Bulgaria is...",
+            ru:"Bandar Seri Begawan",
+            
+            },
+            {
+            id:25,
+            eng:"in the year 2023 the land area of Burkina Faso was 273,600 squared kilometres. The population was about 23,251,485 people. The capital city of Burkina Faso is...",
+            ru:"Sofia",
+            
+            },
+            {
+            id:26,
+            eng:"in the year 2023 the land area of Burundi was 25,680 squared kilometres. The population was about 13,238,559 people. The capital city of Burundi is...",
+            ru:"Ouagadougou",
+            
+            },
+            {
+            id:27,
+            eng:"in the year 2023 the land area of Côte d'Ivoire was 318,000 squared kilometres. The population was about 28,873,034 people. The capital city of Côte d'Ivoire is...",
+            ru:"Gitega",
+            
+            },
+            {
+            id:28,
+            eng:"in the year 2023 the land area of Cabo Verde was 4,030 squared kilometres. The population was about 598,682 people. The capital city of Cabo Verde is...",
+            ru:"Praia",
+            
+            },
+            {
+            id:29,
+            eng:"in the year 2023 the land area of Cambodia was 176,520 squared kilometres. The population was about 16,944,826 people. The capital city of Cambodia is...",
+            ru:"Phnom Penh",
+            
+            },
+            {
+            id:30,
+            eng:"in the year 2023 the land area of Cameroon was 472,710 squared kilometres. The population was about 28,647,293 people. The capital city of Cameroon is...",
+            ru:"Yaounde",
+            
+            },
+            {
+            id:31,
+            eng:"in the year 2023 the land area of Canada was 9,093,510 squared kilometres. The population was about 38,781,291 people. The capital city of Canada is...",
+            ru:"Ottawa",
+            
+            },
+            {
+            id:32,
+            eng:"in the year 2023 the land area of Chad was 1,259,200 squared kilometres. The population was about 18,278,568 people. The capital city of Chad is...",
+            ru:"N'Djamena",
+            
+            },
+            {
+            id:33,
+            eng:"in the year 2023 the land area of Chile was 743,532 squared kilometres. The population was about 19,629,590 people. The capital city of Chile is...",
+            ru:"Santiago",
+            
+            },
+            {
+            id:34,
+            eng:"in the year 2023 the land area of China was 9,388,211 squared kilometres. The population was about 1,425,671,352 people. The capital city of China is...",
+            ru:"Beijing",
+            
+            },
+            {
+            id:35,
+            eng:"in the year 2023 the land area of Colombia was 1,109,500 squared kilometres. The population was about 52,085,168 people. The capital city of Colombia is...",
+            ru:"Bogotá",
+            
+            },
+            {
+            id:36,
+            eng:"in the year 2023 the land area of Comoros was 1,861 squared kilometres. The population was about 852,075 people. The capital city of Comoros is...",
+            ru:"Moroni",
+            
+            },
+            {
+            id:37,
+            eng:"in the year 2023 the land area of Costa Rica was 51,060 squared kilometres. The population was about 5,212,173 people. The capital city of Costa Rica is...",
+            ru:"San Jose",
+            
+            },
+            {
+            id:38,
+            eng:"in the year 2023 the land area of Croatia was 55,960 squared kilometres. The population was about 4,008,617 people. The capital city of Croatia is...",
+            ru:"Zagreb",
+            
+            },
+            {
+            id:39,
+            eng:"in the year 2023 the land area of Cuba was 106,440 squared kilometres. The population was about 11,194,449 people. The capital city of Cuba is...",
+            ru:"Havana",
+            
+            },
+            {
+            id:40,
+            eng:"in the year 2023 the land area of Cyprus was 9,240 squared kilometres. The population was about 1,260,138 people. The capital city of Cyprus is...",
+            ru:"Nicosia",
+            
+            },
+            {
+            id:41,
+            eng:"in the year 2023 the land area of Czech Republic was 77,240 squared kilometres. The population was about 10,495,295 people. The capital city of Czech Republic is...",
+            ru:"Prague",
+            
+            },
+            {
+            id:42,
+            eng:"in the year 2023 the land area of Denmark was 42,430 squared kilometres. The population was about 5,910,913 people. The capital city of Denmark is...",
+            ru:"Copenhagen",
+            
+            },
+            {
+            id:43,
+            eng:"in the year 2023 the land area of Djibouti was 23,180 squared kilometres. The population was about 1,136,455 people. The capital city of Djibouti is...",
+            ru:"Djibouti (city)",
+            
+            },
+            {
+            id:44,
+            eng:"in the year 2023 the land area of Dominica was 750 squared kilometres. The population was about 73,040 people. The capital city of Dominica is...",
+            ru:"Roseau",
+            
+            },
+            {
+            id:45,
+            eng:"in the year 2023 the land area of Dominican Republic was 48,320 squared kilometres. The population was about 11,332,972 people. The capital city of Dominican Republic is...",
+            ru:"Santo Domingo",
+            
+            },
+            {
+            id:46,
+            eng:"in the year 2023 the land area of Ecuador was 248,360 squared kilometres. The population was about 18,190,484 people. The capital city of Ecuador is...",
+            ru:"Quito",
+            
+            },
+            {
+            id:47,
+            eng:"in the year 2023 the land area of Egypt was 995,450 squared kilometres. The population was about 112,716,598 people. The capital city of Egypt is...",
+            ru:"Cairo",
+            
+            },
+            {
+            id:48,
+            eng:"in the year 2023 the land area of El Salvador was 20,720 squared kilometres. The population was about 6,364,943 people. The capital city of El Salvador is...",
+            ru:"San Salvador",
+            
+            },
+            {
+            id:49,
+            eng:"in the year 2023 the land area of Eritrea was 101,000 squared kilometres. The population was about 3,748,901 people. The capital city of Eritrea is...",
+            ru:"Asmara",
+            
+            },
+            {
+            id:50,
+            eng:"in the year 2023 the land area of Estonia was 42,390 squared kilometres. The population was about 1,322,765 people. The capital city of Estonia is...",
+            ru:"Tallinn",
+            
+            },
+            {
+            id:51,
+            eng:"in the year 2023 the land area of Ethiopia was 1,000,000 squared kilometres. The population was about 126,527,060 people. The capital city of Ethiopia is...",
+            ru:"Addis Ababa",
+            
+            },
+            {
+            id:52,
+            eng:"in the year 2023 the land area of Fiji was 18,270 squared kilometres. The population was about 936,375 people. The capital city of Fiji is...",
+            ru:"Suva",
+            
+            },
+            {
+            id:53,
+            eng:"in the year 2023 the land area of Finland was 303,890 squared kilometres. The population was about 5,545,475 people. The capital city of Finland is...",
+            ru:"Helsinki",
+            
+            },
+            {
+            id:54,
+            eng:"in the year 2023 the land area of France was 547,557 squared kilometres. The population was about 64,756,584 people. The capital city of France is...",
+            ru:"Paris",
+            
+            },
+            {
+            id:55,
+            eng:"in the year 2023 the land area of Gabon was 257,670 squared kilometres. The population was about 2,436,566 people. The capital city of Gabon is...",
+            ru:"Libreville",
+            
+            },
+            {
+            id:56,
+            eng:"in the year 2023 the land area of Gambia was 10,120 squared kilometres. The population was about 2,773,168 people. The capital city of Gambia is...",
+            ru:"Banjul",
+            
+            },
+            {
+            id:57,
+            eng:"in the year 2023 the land area of Georgia was 69,490 squared kilometres. The population was about 3,728,282 people. The capital city of Georgia is...",
+            ru:"Tbilisi",
+            
+            },
+            {
+            id:58,
+            eng:"in the year 2023 the land area of Germany was 348,560 squared kilometres. The population was about 83,294,633 people. The capital city of Germany is...",
+            ru:"Berlin",
+            
+            },
+            {
+            id:59,
+            eng:"in the year 2023 the land area of Ghana was 227,540 squared kilometres. The population was about 34,121,985 people. The capital city of Ghana is...",
+            ru:"Accra",
+            
+            },
+            {
+            id:60,
+            eng:"in the year 2023 the land area of Greece was 128,900 squared kilometres. The population was about 10,341,277 people. The capital city of Greece is...",
+            ru:"Athens",
+            
+            },
+            {
+            id:61,
+            eng:"in the year 2023 the land area of Grenada was 340 squared kilometres. The population was about 126,183 people. The capital city of Grenada is...",
+            ru:"Saint George's",
+            
+            },
+            {
+            id:62,
+            eng:"in the year 2023 the land area of Guatemala was 107,160 squared kilometres. The population was about 18,092,026 people. The capital city of Guatemala is...",
+            ru:"Guatemala City",
+            
+            },
+            {
+            id:63,
+            eng:"in the year 2023 the land area of Guinea was 245,720 squared kilometres. The population was about 14,190,612 people. The capital city of Guinea is...",
+            ru:"Conakry",
+            
+            },
+            {
+            id:64,
+            eng:"in the year 2023 the land area of Guinea-Bissau was 28,120 squared kilometres. The population was about 2,150,842 people. The capital city of Guinea-Bissau is...",
+            ru:"Bissau",
+            
+            },
+            {
+            id:65,
+            eng:"in the year 2023 the land area of Guyana was 196,850 squared kilometres. The population was about 813,834 people. The capital city of Guyana is...",
+            ru:"Georgetown",
+            
+            },
+            {
+            id:66,
+            eng:"in the year 2023 the land area of Haiti was 27,560 squared kilometres. The population was about 11,724,763 people. The capital city of Haiti is...",
+            ru:"Port-au-Prince",
+            
+            },
+            {
+            id:67,
+            eng:"in the year 2023 the land area of Honduras was 111,890 squared kilometres. The population was about 10,593,798 people. The capital city of Honduras is...",
+            ru:"Tegucigalpa",
+            
+            },
+            {
+            id:68,
+            eng:"in the year 2023 the land area of Hungary was 90,530 squared kilometres. The population was about 10,156,239 people. The capital city of Hungary is...",
+            ru:"Budapest",
+            
+            },
+            {
+            id:69,
+            eng:"in the year 2023 the land area of Iceland was 100,250 squared kilometres. The population was about 375,318 people. The capital city of Iceland is...",
+            ru:"Reykjavik",
+            
+            },
+            {
+            id:70,
+            eng:"in the year 2023 the land area of India was 2,973,190 squared kilometres. The population was about 1,428,627,663 people. The capital city of India is...",
+            ru:"New Delhi",
+            
+            },
+            {
+            id:71,
+            eng:"in the year 2023 the land area of Indonesia was 1,811,570 squared kilometres. The population was about 277,534,122 people. The capital city of Indonesia is...",
+            ru:"Jakarta",
+            
+            },
+            {
+            id:72,
+            eng:"in the year 2023 the land area of Iran was 1,628,550 squared kilometres. The population was about 89,172,767 people. The capital city of Iran is...",
+            ru:"Tehran",
+            
+            },
+            {
+            id:73,
+            eng:"in the year 2023 the land area of Iraq was 434,320 squared kilometres. The population was about 45,504,560 people. The capital city of Iraq is...",
+            ru:"Baghdad",
+            
+            },
+            {
+            id:74,
+            eng:"in the year 2023 the land area of Ireland was 68,890 squared kilometres. The population was about 5,056,935 people. The capital city of Ireland is...",
+            ru:"Dublin",
+            
+            },
+            {
+            id:75,
+            eng:"in the year 2023 the land area of Israel was 21,640 squared kilometres. The population was about 9,174,520 people. The capital city of Israel is...",
+            ru:"Jerusalem",
+            
+            },
+            {
+            id:76,
+            eng:"in the year 2023 the land area of Italy was 294,140 squared kilometres. The population was about 58,870,762 people. The capital city of Italy is...",
+            ru:"Rome",
+            
+            },
+            {
+            id:77,
+            eng:"in the year 2023 the land area of Jamaica was 10,830 squared kilometres. The population was about 2,825,544 people. The capital city of Jamaica is...",
+            ru:"Kingston",
+            
+            },
+            {
+            id:78,
+            eng:"in the year 2023 the land area of Japan was 364,555 squared kilometres. The population was about 123,294,513 people. The capital city of Japan is...",
+            ru:"Tokyo",
+            
+            },
+            {
+            id:79,
+            eng:"in the year 2023 the land area of Jordan was 88,780 squared kilometres. The population was about 11,337,052 people. The capital city of Jordan is...",
+            ru:"Amman",
+            
+            },
+            {
+            id:80,
+            eng:"in the year 2023 the land area of Kazakhstan was 2,699,700 squared kilometres. The population was about 19,606,633 people. The capital city of Kazakhstan is...",
+            ru:"Astana",
+            
+            },
+            {
+            id:81,
+            eng:"in the year 2023 the land area of Kenya was 569,140 squared kilometres. The population was about 55,100,586 people. The capital city of Kenya is...",
+            ru:"Nairobi",
+            
+            },
+            {
+            id:82,
+            eng:"in the year 2023 the land area of Kiribati was 810 squared kilometres. The population was about 133,515 people. The capital city of Kiribati is...",
+            ru:"Tarawa",
+            
+            },
+            {
+            id:83,
+            eng:"in the year 2023 the land area of Kuwait was 17,820 squared kilometres. The population was about 4,310,108 people. The capital city of Kuwait is...",
+            ru:"Kuwait City",
+            
+            },
+            {
+            id:84,
+            eng:"in the year 2023 the land area of Kyrgyzstan was 191,800 squared kilometres. The population was about 6,735,347 people. The capital city of Kyrgyzstan is...",
+            ru:"Bishkek",
+            
+            },
+            {
+            id:85,
+            eng:"in the year 2023 the land area of Laos was 230,800 squared kilometres. The population was about 7,633,779 people. The capital city of Laos is...",
+            ru:"Vientiane",
+            
+            },
+            {
+            id:86,
+            eng:"in the year 2023 the land area of Latvia was 62,200 squared kilometres. The population was about 1,830,211 people. The capital city of Latvia is...",
+            ru:"Riga",
+            
+            },
+            {
+            id:87,
+            eng:"in the year 2023 the land area of Lebanon was 10,230 squared kilometres. The population was about 5,353,930 people. The capital city of Lebanon is...",
+            ru:"Beirut",
+            
+            },
+            {
+            id:88,
+            eng:"in the year 2023 the land area of Lesotho was 30,360 squared kilometres. The population was about 2,330,318 people. The capital city of Lesotho is...",
+            ru:"Maseru",
+            
+            },
+            {
+            id:89,
+            eng:"in the year 2023 the land area of Liberia was 96,320 squared kilometres. The population was about 5,418,377 people. The capital city of Liberia is...",
+            ru:"Monrovia",
+            
+            },
+            {
+            id:90,
+            eng:"in the year 2023 the land area of Libya was 1,759,540 squared kilometres. The population was about 6,888,388 people. The capital city of Libya is...",
+            ru:"Tripoli",
+            
+            },
+            {
+            id:91,
+            eng:"in the year 2023 the land area of Liechtenstein was 160 squared kilometres. The population was about 39,584 people. The capital city of Liechtenstein is...",
+            ru:"Vaduz",
+            
+            },
+            {
+            id:92,
+            eng:"in the year 2023 the land area of Lithuania was 62,674 squared kilometres. The population was about 2,718,352 people. The capital city of Lithuania is...",
+            ru:"Vilnius",
+            
+            },
+            {
+            id:93,
+            eng:"in the year 2023 the land area of Luxembourg was 2,590 squared kilometres. The population was about 654,768 people. The capital city of Luxembourg is...",
+            ru:"Luxembourg (city)",
+            
+            },
+            {
+            id:94,
+            eng:"in the year 2023 the land area of Madagascar was 581,795 squared kilometres. The population was about 30,325,732 people. The capital city of Madagascar is...",
+            ru:"Antananarivo",
+            
+            },
+            {
+            id:95,
+            eng:"in the year 2023 the land area of Malawi was 94,280 squared kilometres. The population was about 20,931,751 people. The capital city of Malawi is...",
+            ru:"Lilongwe",
+            
+            },
+            {
+            id:96,
+            eng:"in the year 2023 the land area of Malaysia was 328,550 squared kilometres. The population was about 34,308,525 people. The capital city of Malaysia is...",
+            ru:"Kuala Lumpur",
+            
+            },
+            {
+            id:97,
+            eng:"in the year 2023 the land area of Maldives was 300 squared kilometres. The population was about 521,021 people. The capital city of Maldives is...",
+            ru:"Male",
+            
+            },
+            {
+            id:98,
+            eng:"in the year 2023 the land area of Mali was 1,220,190 squared kilometres. The population was about 23,293,698 people. The capital city of Mali is...",
+            ru:"Bamako",
+            
+            },
+            {
+            id:99,
+            eng:"in the year 2023 the land area of Malta was 320 squared kilometres. The population was about 535,064 people. The capital city of Malta is...",
+            ru:"Valletta",
+            
+            },
+            {
+            id:100,
+            eng:"in the year 2023 the land area of Marshall Islands was 180 squared kilometres. The population was about 41,996 people. The capital city of Marshall Islands is...",
+            ru:"Majuro",
+            
+            },
+            {
+            id:101,
+            eng:"in the year 2023 the land area of Mauritania was 1,030,700 squared kilometres. The population was about 4,862,989 people. The capital city of Mauritania is...",
+            ru:"Nouakchott",
+            
+            },
+            {
+            id:102,
+            eng:"in the year 2023 the land area of Mauritius was 2,030 squared kilometres. The population was about 1,300,557 people. The capital city of Mauritius is...",
+            ru:"Port Louis",
+            
+            },
+            {
+            id:103,
+            eng:"in the year 2023 the land area of Mexico was 1,943,950 squared kilometres. The population was about 128,455,567 people. The capital city of Mexico is...",
+            ru:"Mexico City",
+            
+            },
+            {
+            id:104,
+            eng:"in the year 2023 the land area of Micronesia was 700 squared kilometres. The population was about 544,321 people. The capital city of Micronesia is...",
+            ru:"Palikir",
+            
+            },
+            {
+            id:105,
+            eng:"in the year 2023 the land area of Moldova was 32,850 squared kilometres. The population was about 3,435,931 people. The capital city of Moldova is...",
+            ru:"Chisinau",
+            
+            },
+            {
+            id:106,
+            eng:"in the year 2023 the land area of Monaco was 1 squared kilometres. The population was about 36,297 people. The capital city of Monaco is...",
+            ru:"Monaco",
+            
+            },
+            {
+            id:107,
+            eng:"in the year 2023 the land area of Mongolia was 1,553,560 squared kilometres. The population was about 3,447,157 people. The capital city of Mongolia is...",
+            ru:"Ulaanbaatar",
+            
+            },
+            {
+            id:108,
+            eng:"in the year 2023 the land area of Montenegro was 13,450 squared kilometres. The population was about 626,485 people. The capital city of Montenegro is...",
+            ru:"Podgorica",
+            
+            },
+            {
+            id:109,
+            eng:"in the year 2023 the land area of Morocco was 446,300 squared kilometres. The population was about 37,840,044 people. The capital city of Morocco is...",
+            ru:"Rabat",
+            
+            },
+            {
+            id:110,
+            eng:"in the year 2023 the land area of Mozambique was 786,380 squared kilometres. The population was about 33,897,354 people. The capital city of Mozambique is...",
+            ru:"Maputo",
+            
+            },
+            {
+            id:111,
+            eng:"in the year 2023 the land area of Namibia was 823,290 squared kilometres. The population was about 2,604,172 people. The capital city of Namibia is...",
+            ru:"Windhoek",
+            
+            },
+            {
+            id:112,
+            eng:"in the year 2023 the land area of Nauru was 20 squared kilometres. The population was about 12,780 people. The capital city of Nauru is...",
+            ru:"Yaren District (de facto)",
+            
+            },
+            {
+            id:113,
+            eng:"in the year 2023 the land area of Nepal was 143,350 squared kilometres. The population was about 30,896,590 people. The capital city of Nepal is...",
+            ru:"Kathmandu",
+            
+            },
+            {
+            id:114,
+            eng:"in the year 2023 the land area of Netherlands was 33,720 squared kilometres. The population was about 17,618,299 people. The capital city of Netherlands is...",
+            ru:"Amsterdam",
+            
+            },
+            {
+            id:115,
+            eng:"in the year 2023 the land area of New Zealand was 263,310 squared kilometres. The population was about 5,228,100 people. The capital city of New Zealand is...",
+            ru:"Wellington",
+            
+            },
+            {
+            id:116,
+            eng:"in the year 2023 the land area of Nicaragua was 120,340 squared kilometres. The population was about 7,046,310 people. The capital city of Nicaragua is...",
+            ru:"Managua",
+            
+            },
+            {
+            id:117,
+            eng:"in the year 2023 the land area of Niger was 1,266,700 squared kilometres. The population was about 27,202,843 people. The capital city of Niger is...",
+            ru:"Niamey",
+            
+            },
+            {
+            id:118,
+            eng:"in the year 2023 the land area of Nigeria was 910,770 squared kilometres. The population was about 223,804,632 people. The capital city of Nigeria is...",
+            ru:"Abuja",
+            
+            },
+            {
+            id:119,
+            eng:"in the year 2023 the land area of North Korea was 120,410 squared kilometres. The population was about 26,160,821 people. The capital city of North Korea is...",
+            ru:"Pyongyang",
+            
+            },
+            {
+            id:120,
+            eng:"in the year 2023 the land area of North Macedonia was 25,220 squared kilometres. The population was about 2,085,679 people. The capital city of North Macedonia is...",
+            ru:"Skopje",
+            
+            },
+            {
+            id:121,
+            eng:"in the year 2023 the land area of Norway was 365,268 squared kilometres. The population was about 5,474,360 people. The capital city of Norway is...",
+            ru:"Oslo",
+            
+            },
+            {
+            id:122,
+            eng:"in the year 2023 the land area of Oman was 309,500 squared kilometres. The population was about 4,644,384 people. The capital city of Oman is...",
+            ru:"Muscat",
+            
+            },
+            {
+            id:123,
+            eng:"in the year 2023 the land area of Pakistan was 770,880 squared kilometres. The population was about 240,485,658 people. The capital city of Pakistan is...",
+            ru:"Islamabad",
+            
+            },
+            {
+            id:124,
+            eng:"in the year 2023 the land area of Palau was 460 squared kilometres. The population was about 18,058 people. The capital city of Palau is...",
+            ru:"Ngerulmud",
+            
+            },
+            {
+            id:125,
+            eng:"in the year 2023 the land area of Panama was 74,340 squared kilometres. The population was about 4,468,087 people. The capital city of Panama is...",
+            ru:"Panama City",
+            
+            },
+            {
+            id:126,
+            eng:"in the year 2023 the land area of Papua New Guinea was 452,860 squared kilometres. The population was about 10,329,931 people. The capital city of Papua New Guinea is...",
+            ru:"Port Moresby",
+            
+            },
+            {
+            id:127,
+            eng:"in the year 2023 the land area of Paraguay was 397,300 squared kilometres. The population was about 6,861,524 people. The capital city of Paraguay is...",
+            ru:"Asunción",
+            
+            },
+            {
+            id:128,
+            eng:"in the year 2023 the land area of Peru was 1,280,000 squared kilometres. The population was about 34,352,719 people. The capital city of Peru is...",
+            ru:"Lima",
+            
+            },
+            {
+            id:129,
+            eng:"in the year 2023 the land area of Philippines was 298,170 squared kilometres. The population was about 117,337,368 people. The capital city of Philippines is...",
+            ru:"Manila",
+            
+            },
+            {
+            id:130,
+            eng:"in the year 2023 the land area of Poland was 306,230 squared kilometres. The population was about 41,026,067 people. The capital city of Poland is...",
+            ru:"Warsaw",
+            
+            },
+            {
+            id:131,
+            eng:"in the year 2023 the land area of Portugal was 91,590 squared kilometres. The population was about 10,247,605 people. The capital city of Portugal is...",
+            ru:"Lisbon",
+            
+            },
+            {
+            id:132,
+            eng:"in the year 2023 the land area of Qatar was 11,610 squared kilometres. The population was about 2,716,391 people. The capital city of Qatar is...",
+            ru:"Doha",
+            
+            },
+            {
+            id:133,
+            eng:"in the year 2023 the land area of Romania was 230,170 squared kilometres. The population was about 19,892,812 people. The capital city of Romania is...",
+            ru:"Bucharest",
+            
+            },
+            {
+            id:134,
+            eng:"in the year 2023 the land area of Russia was 16,376,870 squared kilometres. The population was about 144,444,359 people. The capital city of Russia is...",
+            ru:"Moscow",
+            
+            },
+            {
+            id:135,
+            eng:"in the year 2023 the land area of Rwanda was 24,670 squared kilometres. The population was about 14,094,683 people. The capital city of Rwanda is...",
+            ru:"Kigali",
+            
+            },
+            {
+            id:136,
+            eng:"in the year 2023 the land area of Saint Kitts and Nevis was 260 squared kilometres. The population was about 47,755 people. The capital city of Saint Kitts and Nevis is...",
+            ru:"Basseterre",
+            
+            },
+            {
+            id:137,
+            eng:"in the year 2023 the land area of Saint Lucia was 610 squared kilometres. The population was about 180,251 people. The capital city of Saint Lucia is...",
+            ru:"Castries",
+            
+            },
+            {
+            id:138,
+            eng:"in the year 2023 the land area of Saint Vincent and the Grenadines was 390 squared kilometres. The population was about 103,698 people. The capital city is...",
+            ru:"Kingstown",
+            
+            },
+            {
+            id:139,
+            eng:"in the year 2023 the land area of Samoa was 2,830 squared kilometres. The population was about 225,681 people. The capital city of Samoa is...",
+            ru:"Apia",
+            
+            },
+            {
+            id:140,
+            eng:"in the year 2023 the land area of San Marino was 60 squared kilometres. The population was about 33,642 people. The capital city of San Marino is...",
+            ru:"San Marino",
+            
+            },
+            {
+            id:141,
+            eng:"in the year 2023 the land area of Saudi Arabia was 2,149,690 squared kilometres. The population was about 36,947,025 people. The capital city of Saudi Arabia is...",
+            ru:"Riyadh",
+            
+            },
+            {
+            id:142,
+            eng:"in the year 2023 the land area of Senegal was 192,530 squared kilometres. The population was about 17,763,163 people. The capital city of Senegal is...",
+            ru:"Dakar",
+            
+            },
+            {
+            id:143,
+            eng:"in the year 2023 the land area of Serbia was 87,460 squared kilometres. The population was about 7,149,077 people. The capital city of Serbia is...",
+            ru:"Belgrade",
+            
+            },
+            {
+            id:144,
+            eng:"in the year 2023 the land area of Seychelles was 460 squared kilometres. The population was about 107,660 people. The capital city of Seychelles is...",
+            ru:"Victoria",
+            
+            },
+            {
+            id:145,
+            eng:"in the year 2023 the land area of Sierra Leone was 72,180 squared kilometres. The population was about 8,791,092 people. The capital city of Sierra Leone is...",
+            ru:"Freetown",
+            
+            },
+            {
+            id:146,
+            eng:"in the year 2023 the land area of Singapore was 700 squared kilometres. The population was about 6,014,723 people. The capital city of Singapore is...",
+            ru:"Singapore",
+            
+            },
+            {
+            id:147,
+            eng:"in the year 2023 the land area of Slovakia was 48,088 squared kilometres. The population was about 5,795,199 people. The capital city of Slovakia is...",
+            ru:"Bratislava",
+            
+            },
+            {
+            id:148,
+            eng:"in the year 2023 the land area of Slovenia was 20,140 squared kilometres. The population was about 2,119,675 people. The capital city of Slovenia is...",
+            ru:"Ljubljana",
+            
+            },
+            {
+            id:149,
+            eng:"in the year 2023 the land area of Solomon Islands was 27,990 squared kilometres. The population was about 740,424 people. The capital city of Solomon Islands is...",
+            ru:"Honiara",
+            
+            },
+            {
+            id:150,
+            eng:"in the year 2023 the land area of Somalia was 627,340 squared kilometres. The population was about 18,143,378 people. The capital city of Somalia is...",
+            ru:"Mogadishu",
+            
+            },
+            {
+            id:151,
+            eng:"in the year 2023 the land area of South Korea was 97,230 squared kilometres. The population was about 51,784,059 people. The capital city of South Korea is...",
+            ru:"Seoul",
+            
+            },
+            {
+            id:152,
+            eng:"in the year 2023 the land area of South Sudan was 610,952 squared kilometres. The population was about 11,088,796 people. The capital city of South Sudan is...",
+            ru:"Juba",
+            
+            },
+            {
+            id:153,
+            eng:"in the year 2023 the land area of Spain was 498,800 squared kilometres. The population was about 47,519,628 people. The capital city of Spain is...",
+            ru:"Madrid",
+            
+            },
+            {
+            id:154,
+            eng:"in the year 2023 the land area of Sri Lanka was 62,710 squared kilometres. The population was about 21,893,579 people. The capital city of Sri Lanka is...",
+            ru:"Sri Jayawardenepura Kotte",
+            
+            },
+            {
+            id:155,
+            eng:"in the year 2023 the land area of Sudan was 1,765,048 squared kilometres. The population was about 48,109,006 people. The capital city of Sudan is...",
+            ru:"Khartoum",
+            
+            },
+            {
+            id:156,
+            eng:"in the year 2023 the land area of Suriname was 156,000 squared kilometres. The population was about 623,236 people. The capital city of Suriname is...",
+            ru:"Paramaribo",
+            
+            },
+            {
+            id:157,
+            eng:"in the year 2023 the land area of Sweden was 410,340 squared kilometres. The population was about 10,612,086 people. The capital city of Sweden is...",
+            ru:"Stockholm",
+            
+            },
+            {
+            id:158,
+            eng:"in the year 2023 the land area of Switzerland was 39,516 squared kilometres. The population was about 8,796,669 people. The capital city of Switzerland is...",
+            ru:"Bern",
+            
+            },
+            {
+            id:159,
+            eng:"in the year 2023 the land area of Syria was 183,630 squared kilometres. The population was about 23,227,014 people. The capital city of Syria is...",
+            ru:"Damascus",
+            
+            },
+            {
+            id:160,
+            eng:"in the year 2023 the land area of Tajikistan was 139,960 squared kilometres. The population was about 10,143,543 people. The capital city of Tajikistan is...",
+            ru:"Dushanbe",
+            
+            },
+            {
+            id:161,
+            eng:"in the year 2023 the land area of Tanzania was 885,800 squared kilometres. The population was about 67,438,106 people. The capital city of Tanzania is...",
+            ru:"Dodoma",
+            
+            },
+            {
+            id:162,
+            eng:"in the year 2023 the land area of Thailand was 510,890 squared kilometres. The population was about 71,801,279 people. The capital city of Thailand is...",
+            ru:"Bangkok",
+            
+            },
+            {
+            id:163,
+            eng:"in the year 2023 the land area of Timor-Leste was 14,870 squared kilometres. The population was about 1,360,596 people. The capital city of Timor-Leste is...",
+            ru:"Dili",
+            
+            },
+            {
+            id:164,
+            eng:"in the year 2023 the land area of Togo was 54,390 squared kilometres. The population was about 9,053,799 people. The capital city of Togo is...",
+            ru:"Lomé",
+            
+            },
+            {
+            id:165,
+            eng:"in the year 2023 the land area of Tonga was 720 squared kilometres. The population was about 107,773 people. The capital city of Tonga is...",
+            ru:"Nukuʻalofa",
+            
+            },
+            {
+            id:166,
+            eng:"in the year 2023 the land area of Trinidad and Tobago was 5,130 squared kilometres. The population was about 1,534,937 people. The capital city of Trinidad and Tobago is...",
+            ru:"Port of Spain",
+            
+            },
+            {
+            id:167,
+            eng:"in the year 2023 the land area of Tunisia was 155,360 squared kilometres. The population was about 12,458,223 people. The capital city of Tunisia is...",
+            ru:"Tunis",
+            
+            },
+            {
+            id:168,
+            eng:"in the year 2023 the land area of Turkey was 769,630 squared kilometres. The population was about 85,816,199 people. The capital city of Turkey is...",
+            ru:"Ankara",
+            
+            },
+            {
+            id:169,
+            eng:"in the year 2023 the land area of Turkmenistan was 469,930 squared kilometres. The population was about 6,516,100 people. The capital city of Turkmenistan is...",
+            ru:"Ashgabat",
+            
+            },
+            {
+            id:170,
+            eng:"in the year 2023 the land area of Uganda was 199,810 squared kilometres. The population was about 48,582,334 people. The capital city of Uganda is...",
+            ru:"Kampala",
+            
+            },
+            {
+            id:171,
+            eng:"in the year 2023 the land area of Ukraine was 579,320 squared kilometres. The population was about 36,744,634 people. The capital city of Ukraine is...",
+            ru:"Kyiv (also known as Kiev)",
+            
+            },
+            {
+            id:172,
+            eng:"in the year 2023 the land area of UAE was 83,600 squared kilometres. The population was about 9,516,871 people. The capital city of UAE is...",
+            ru:"Abu Dhabi",
+            
+            },
+            {
+            id:173,
+            eng:"in the year 2023 the land area of UK was 241,930 squared kilometres. The population was about 67,736,802 people. The capital city of UK is...",
+            ru:"London",
+            
+            },
+            {
+            id:174,
+            eng:"in the year 2023 the land area of USA was 9,147,420 squared kilometres. The population was about 339,996,563 people. The capital city of USA is...",
+            ru:"Washington, D.C.",
+            
+            },
+            {
+            id:175,
+            eng:"in the year 2023 the land area of Uruguay was 175,020 squared kilometres. The population was about 3,423,108 people. The capital city of Uruguay is...",
+            ru:"Montevideo",
+            
+            },
+            {
+            id:176,
+            eng:"in the year 2023 the land area of Uzbekistan was 425,400 squared kilometres. The population was about 35,163,944 people. The capital city of Uzbekistan is...",
+            ru:"Tashkent",
+            
+            },
+            {
+            id:177,
+            eng:"in the year 2023 the land area of Vanuatu was 12,190 squared kilometres. The population was about 334,506 people. The capital city of Vanuatu is...",
+            ru:"Port Vila",
+            
+            },
+            {
+            id:178,
+            eng:"in the year 2023 the land area of Venezuela was 882,050 squared kilometres. The population was about 28,838,499 people. The capital city of Venezuela is...",
+            ru:"Caracas",
+            
+            },
+            {
+            id:179,
+            eng:"in the year 2023 the land area of Vietnam was 310,070 squared kilometres. The population was about 98,858,950 people. The capital city of Vietnam is...",
+            ru:"Hanoi",
+            
+            },
+            {
+            id:180,
+            eng:"in the year 2023 the land area of Yemen was 527,970 squared kilometres. The population was about 34,449,825 people. The capital city of Yemen is...",
+            ru:"Sana'a",
+            
+            },
+            {
+            id:181,
+            eng:"in the year 2023 the land area of Zambia was 743,390 squared kilometres. The population was about 20,569,737 people. The capital city of Zambia is...",
+            ru:"Lusaka",
+            
+            },
+            {
+            id:182,
+            eng:"in the year 2023 the land area of Zimbabwe was 386,850 squared kilometres. The population was about 16,665,409 people. The capital city of Zimbabwe is...",
+            ru:"Harare",
+            
+            },
+    ],
     pancakeDay: [
         {
             id:1,
-            eng:"How often do you cook pancakes? ",
+            eng:"How often do you cook pancakes? / пЭнкейкс / ударение на первый слог. ",
             ru:"Как часто ты готовишь блины?"
             },
             {
             id:2,
-            eng:"When did you cook pancakes last time? ",
+            eng:"When did you cook pancakes last time? / пЭнкейкс / ударение на первый слог. ",
             ru:"Когда ты в последний раз готовил блины?"
             },
             {
             id:3,
-            eng:"What do you like to eat pancakes with? ",
+            eng:"What do you like to eat pancakes with? (всегда такой порядок слов, в вопросах начинающихся 'c чЕМ ты + глагол') ",
             ru:"С чем ты любишь есть блины?"
             },
             {
             id:4,
-            eng:"Do you believe in a phrase : ‘The first pancake always looks the worst’ ",
+            eng:"Do you believe in a phrase /  фрЭйз / ‘The first pancake always looks the worst’ ",
             ru:"Ты веришь в фразу: 'Первый блин комом'?"
             },
             {
@@ -361,57 +1455,57 @@ const allQuestionsOneDeck = {
             },
             {
             id:7,
-            eng:"Will you cook some pancakes for me? ",
+            eng:"Will you cook some pancakes for me? / пЭнкейкс / ударение на первый слог. ",
             ru:"Приготовишь мне блинчиков?"
             },
             {
             id:8,
-            eng:"When are you cooking pancakes soon? ",
+            eng:"When are you cooking pancakes? Are you cooking them soon? ",
             ru:"Когда ты собираешься приготовить блины?"
             },
             {
             id:9,
-            eng:"Do you have a special recipe to cook pancakes or do you follow your heart when you make them? ",
+            eng:"Do you follow a special recipe / рЭсыпи / to cook pancakes or do you follow your heart / хАрт / when you make them? ",
             ru:"У тебя есть особый рецепт для готовки блинов или ты следуешь своему сердцу, когда их готовишь?"
             },
             {
             id:10,
-            eng:"Is it hard for you to cook pancakes? ",
+            eng:"Is it hard for you to cook pancakes? / пЭнкейкс / ударение на первый слог. ",
             ru:"Тебе сложно дается приготовление блинов?"
             },
             {
             id:11,
-            eng:"Did anybody cook pancakes for you when you were a kid? ",
+            eng:"Did anybody cook pancakes for you when you were a kid? Who did it? Who cooked pancakes for you? ",
             ru:"Кто-то готовил тебе блины, когда ты был ребенком?"
             },
             {
             id:12,
-            eng:"Can you throw a pancake and catch it with a pan? ",
-            ru:"Ты можешь подбросить блин и поймать его на сковороду?"
+            eng:"Can you throw a pancake in the air, flip it and catch it with a pan? Did you try it? ",
+            ru:"Ты можешь подбросить блин, пеевернуть его и поймать его на сковороду?"
             },
             {
             id:13,
-            eng:"Did you drop a pancake on the floor? ",
-            ru:"Ты ронял блин на пол?"
+            eng:"Did you drop a pancake on the floor by accident? / бай Эксидент /  ",
+            ru:"Вы когда-нибудь роняли блин на пол случайно?"
             },
             {
             id:14,
-            eng:"Is it okay to eat pancake from the floor if you dropped it? (do you know about 10 second rule?) ",
+            eng:"Is it okay to eat pancake from the floor if you dropped it? (do you know about 8 second rule?) ",
             ru:"Нормально ли съесть блин с пола, если ты его уронил? (ты знаешь о правиле 10 секунд?)"
             },
             {
             id:15,
-            eng:"Do you like thin pancakes or thick pancakes? ",
+            eng:"Do you like thin / thын / тонкие or thick / thык / pancakes? ",
             ru:"Тебе нравятся тонкие блины или толстые блины?"
             },
             {
             id:16,
-            eng:"Did you try to eat pancakes with salmon and cheese? ",
+            eng:"Did you try to eat pancakes with salmon / сЭмон / and cheese? ",
             ru:"Пробовал ли ты есть блины с лососем и сыром?"
             },
             {
             id:17,
-            eng:"What will you choose? A pancake with chocolate or a pancake with salmon? ",
+            eng:"What will you choose? A pancake with chocolate or a pancake with salmon / сЭмон / ? ",
             ru:"Что выберешь? Блин с шоколадом или блин с лососем?"
             },
             {
@@ -436,109 +1530,89 @@ const allQuestionsOneDeck = {
             },
             {
             id:22,
-            eng:"Do you know or maybe do you have any traditions what to do for Pancake day or Maslenitsa? How to have fun? ",
+            eng:"What do people usually do on Maslenitsa? Maybe you know some traditions or funny activities (занятия, развлечения)? ",
             ru:"Ты знаешь какие-нибудь традиции на Масленицу? Как весело провести время?"
             },
             {
-                id:23,
+            id:23,
+            eng:"Do pancakes look like the Sun? ",
+            ru:"Похожи ли блины на Солнце? Выглядят ли блины как Солнце?"
+            },
+            {
+            id:24,
+            eng:"What do you know about a tradition in England that is called Pancake Race? ",
+            ru:"Что вы знаете о традиции, которая в Англии называется гонка блинов?"
+            },
+            {
+            id:25,
+            eng:"Do you like pancakes with toppings or without toppings? ",
+            ru:"Вам нравятся блины с начинкой или без начинки?"
+            },
+            {
+            id:26,
+            eng:"Does your family celebrate Pancake Day? What other holidays do you like to celebrate? ",
+            ru:"В вашей семье празднуют, отмечают День Блина? Какие другие праздники вы отмечаете своей семьёй?"
+            },
+            {
+                id:27,
+                eng:"What is the English for: ` заправка, начинка `",
+                ru:"TOPPINGS / топпинз /"
+                },
+                {
+                id:28,
                 eng:"What is the English for: ` миска `",
                 ru:"A BOWL / бОул /"
                 },
                 {
-                id:24,
+                id:29,
                 eng:"What is the English for: ` гонка блинов `",
                 ru:"A PANCAKE RACE / рЭйс /"
                 },
                 {
-                id:25,
+                id:30,
                 eng:"What is the English for: ` растительное масло и сливочное масло `",
                 ru:"OIL AND BUTTER / Оил эн бАтэ /"
                 },
                 {
-                id:26,
+                id:31,
                 eng:"What is the English for: ` отмечать, праздновать `",
                 ru:"CELEBRATE / сэлебрэйт /"
                 },
                 {
-                id:27,
+                id:32,
                 eng:"What is the English for: ` Пасха `",
                 ru:"EASTER / Истэ /"
                 },
                 {
-                id:28,
+                id:33,
                 eng:"What is the English for: ` перемешивать `",
                 ru:"MIX "
                 },
                 {
-                id:29,
+                id:34,
                 eng:"What is the English for: ` мука `",
                 ru:"FLOUR / флАуэ /"
                 },
                 {
-                id:30,
+                id:35,
                 eng:"What is the English for: ` яйца `",
                 ru:"EGGS / эГZ /"
                 },
                 {
-                id:31,
+                id:36,
                 eng:"What is the English for: ` сахар `",
                 ru:"SUGAR / Щуга /"
                 },
                 {
-                id:32,
+                id:37,
                 eng:"What is the English for: ` соль `",
                 ru:"SALT / сОлт /"
                 },
                 {
-                    id:123,
-                    eng:"    Как переводится :         ` a bowl / бОул / `",
-                    ru:"МИСКА"
-                    },
-                    {
-                    id:124,
-                    eng:"    Как переводится :         ` a pancake race / рЭйс / `",
-                    ru:"ГОНКА БЛИНОВ"
-                    },
-                    {
-                    id:125,
-                    eng:"    Как переводится :         ` Oil and butter / Оил эн бАтэ / `",
-                    ru:"РАСТИТЕЛЬНОЕ МАСЛО И СЛИВОЧНОЕ МАСЛО"
-                    },
-                    {
-                    id:126,
-                    eng:"    Как переводится :         ` celebrate / сэлебрэйт / `",
-                    ru:"ОТМЕЧАТЬ, ПРАЗДНОВАТЬ"
-                    },
-                    {
-                    id:127,
-                    eng:"    Как переводится :         ` Easter / Истэ / `",
-                    ru:"ПАСХА"
-                    },
-                    {
-                    id:128,
-                    eng:"    Как переводится :         ` mix  `",
-                    ru:"ПЕРЕМЕШИВАТЬ"
-                    },
-                    {
-                    id:129,
-                    eng:"    Как переводится :         ` flour / флАуэ / `",
-                    ru:"МУКА"
-                    },
-                    {
-                    id:130,
-                    eng:"    Как переводится :         ` eggs / эГZ / `",
-                    ru:"ЯЙЦА"
-                    },
-                    {
-                    id:131,
-                    eng:"    Как переводится :         ` sugar / Щуга / `",
-                    ru:"САХАР"
-                    },
-                    {
-                    id:132,
-                    eng:"    Как переводится :         ` salt / сОлт / `",
-                    ru:"СОЛЬ"
-                    },
+                id:38,
+                eng:"What is the English for: ` рецепт `",
+                ru:"RECIPE / рЭсыпи /"
+                },
     ],
     questions001teams: [
         {
