@@ -328,6 +328,898 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    bodyA1: [
+        {
+            id:1,
+            eng:"A HEAD  / э хэд /",
+            ru:"ГОЛОВА",
+            
+            },
+            {
+            id:2,
+            eng:"AN EAR  / эн иэ /",
+            ru:"УХО",
+            
+            },
+            {
+            id:3,
+            eng:"HAIR  / хЭа /",
+            ru:"ВОЛОСЫ",
+            
+            },
+            {
+            id:4,
+            eng:"AN EYE  / эн Ай /",
+            ru:"ГЛАЗ",
+            
+            },
+            {
+            id:5,
+            eng:"A CHIN  / чин /",
+            ru:"ПОДБОРОДОК",
+            
+            },
+            {
+            id:6,
+            eng:"A NOSE  / э ноуз /",
+            ru:"НОС",
+            
+            },
+            {
+            id:7,
+            eng:"A NECK  / э нэк /",
+            ru:"ШЕЯ",
+            
+            },
+            {
+            id:8,
+            eng:"A MOUTH  / ау /",
+            ru:"РОТ",
+            
+            },
+            {
+            id:9,
+            eng:"LIPS  / липс /",
+            ru:"ГУБЫ",
+            
+            },
+            {
+            id:10,
+            eng:"TEETH  / тиTH /",
+            ru:"ЗУБЫ",
+            
+            },
+            {
+            id:11,
+            eng:"A TOOTH  / туTH /",
+            ru:"ЗУБ",
+            
+            },
+            {
+            id:12,
+            eng:"EYEBROWS  / ай брАуз /",
+            ru:"БРОВИ",
+            
+            },
+            {
+            id:13,
+            eng:"A BEARD  / э бИЕд /",
+            ru:"БОРОДА",
+            
+            },
+            {
+            id:14,
+            eng:"A MOUSTACHE  / э мАсташ /",
+            ru:"УСЫ",
+            
+            },
+            {
+            id:15,
+            eng:"FRECKLES  / фрЭклз /",
+            ru:"ВЕСНУШКИ",
+            
+            },
+            {
+            id:16,
+            eng:"CHEEKS  / чикс /",
+            ru:"ЩЁКИ",
+            
+            },
+            {
+            id:17,
+            eng:"WRINKLES  / ринклз /",
+            ru:"МОРЩИНКИ, CКЛАДКИ",
+            
+            },
+            {
+            id:18,
+            eng:"SHOULDERS  / шОулдэрз /",
+            ru:"ПЛЕЧИ",
+            
+            },
+            {
+            id:19,
+            eng:"ARMS  / амз /",
+            ru:"РУКИ ( ЦЕЛИКОМ )",
+            
+            },
+            {
+            id:20,
+            eng:"AN ARM  / эн арм /",
+            ru:"РУКА (ЦЕЛИКОМ)",
+            
+            },
+            {
+            id:21,
+            eng:"A CHEST  / чест /",
+            ru:"ГРУДНАЯ КЛЕТКА",
+            
+            },
+            {
+            id:22,
+            eng:"HANDS  / хэндз /",
+            ru:"КИСТИ РУК",
+            
+            },
+            {
+            id:23,
+            eng:"A BELLY  / э бЭли /",
+            ru:"ПУЗИКО",
+            
+            },
+            {
+            id:24,
+            eng:"A TUMMY  / э тамми /",
+            ru:"ЖИВОТИК",
+            
+            },
+            {
+            id:25,
+            eng:"FINGERS  / фИнГерз /",
+            ru:"ПАЛЬЦЫ НА РУКАХ",
+            
+            },
+            {
+            id:26,
+            eng:"A TOE  / э тОу /",
+            ru:"ПАЛЕЦ НА НОГЕ",
+            
+            },
+            {
+            id:27,
+            eng:"A BOTTOM  / э бОттом /",
+            ru:"ПОПА",
+            
+            },
+            {
+            id:28,
+            eng:"BODY PARTS  / боди партс /",
+            ru:"ЧАСТИ ТЕЛА",
+            
+            },
+            {
+            id:29,
+            eng:"A KNEE  / э ни /",
+            ru:"КОЛЕНО",
+            
+            },
+            {
+            id:30,
+            eng:"KNEES  / низ /",
+            ru:"КОЛЕНИ",
+            
+            },
+            {
+            id:31,
+            eng:"LEGS  / лэгз /",
+            ru:"НОГИ (ЦЕЛИКОМ)",
+            
+            },
+            {
+            id:32,
+            eng:"A FOOT  / фут /",
+            ru:"СТУПНЯ, СТОПА",
+            
+            },
+            {
+            id:33,
+            eng:"TOES  / тоУз /",
+            ru:"ПАЛЬЦЫ НА НОГАХ",
+            
+            },
+            {
+            id:34,
+            eng:"FEET  / фит /",
+            ru:"СТУПНИ, СТОПЫ",
+            
+            },
+            {
+            id:35,
+            eng:"A LEG  / э лэг /",
+            ru:"НОГА (ЦЕЛИКОМ)",
+            
+            },
+            {
+                id:101,
+                eng:"What is the English for: ` ГОЛОВА `",
+                ru:"голова",
+                
+                },
+                {
+                id:2,
+                eng:"What is the English for: ` УХО `",
+                ru:"AN EAR  / эн иэ /",
+                
+                },
+                {
+                id:3,
+                eng:"What is the English for: ` ВОЛОСЫ `",
+                ru:"HAIR  / хЭа /",
+                
+                },
+                {
+                id:4,
+                eng:"What is the English for: ` ГЛАЗ `",
+                ru:"AN EYE  / эн Ай /",
+                
+                },
+                {
+                id:5,
+                eng:"What is the English for: ` ПОДБОРОДОК `",
+                ru:"A CHIN  / чин /",
+                
+                },
+                {
+                id:6,
+                eng:"What is the English for: ` НОС `",
+                ru:"A NOSE  / э ноуз /",
+                
+                },
+                {
+                id:7,
+                eng:"What is the English for: ` ШЕЯ `",
+                ru:"A NECK  / э нэк /",
+                
+                },
+                {
+                id:8,
+                eng:"What is the English for: ` РОТ `",
+                ru:"A MOUTH  / ау /",
+                
+                },
+                {
+                id:9,
+                eng:"What is the English for: ` ГУБЫ `",
+                ru:"LIPS  / липс /",
+                
+                },
+                {
+                id:10,
+                eng:"What is the English for: ` ЗУБЫ `",
+                ru:"TEETH  / тиTH /",
+                
+                },
+                {
+                id:11,
+                eng:"What is the English for: ` ЗУБ `",
+                ru:"A TOOTH  / туTH /",
+                
+                },
+                {
+                id:12,
+                eng:"What is the English for: ` БРОВИ `",
+                ru:"EYEBROWS  / ай брАуз /",
+                
+                },
+                {
+                id:13,
+                eng:"What is the English for: ` БОРОДА `",
+                ru:"A BEARD  / э бИЕд /",
+                
+                },
+                {
+                id:14,
+                eng:"What is the English for: ` УСЫ `",
+                ru:"A MOUSTACHE  / э мАсташ /",
+                
+                },
+                {
+                id:15,
+                eng:"What is the English for: ` ВЕСНУШКИ `",
+                ru:"FRECKLES  / фрЭклз /",
+                
+                },
+                {
+                id:16,
+                eng:"What is the English for: ` ЩЁКИ `",
+                ru:"CHEEKS  / чикс /",
+                
+                },
+                {
+                id:17,
+                eng:"What is the English for: ` МОРЩИНКИ, CКЛАДКИ `",
+                ru:"WRINKLES  / ринклз /",
+                
+                },
+                {
+                id:18,
+                eng:"What is the English for: ` ПЛЕЧИ `",
+                ru:"SHOULDERS  / шОулдэрз /",
+                
+                },
+                {
+                id:19,
+                eng:"What is the English for: ` РУКИ ( ЦЕЛИКОМ ) `",
+                ru:"ARMS  / амз /",
+                
+                },
+                {
+                id:20,
+                eng:"What is the English for: ` РУКА (ЦЕЛИКОМ) `",
+                ru:"AN ARM  / эн арм /",
+                
+                },
+                {
+                id:21,
+                eng:"What is the English for: ` ГРУДНАЯ КЛЕТКА `",
+                ru:"A CHEST  / чест /",
+                
+                },
+                {
+                id:22,
+                eng:"What is the English for: ` КИСТИ РУК `",
+                ru:"HANDS  / хэндз /",
+                
+                },
+                {
+                id:23,
+                eng:"What is the English for: ` ПУЗИКО `",
+                ru:"A BELLY  / э бЭли /",
+                
+                },
+                {
+                id:24,
+                eng:"What is the English for: ` ЖИВОТИК `",
+                ru:"A TUMMY  / э тамми /",
+                
+                },
+                {
+                id:25,
+                eng:"What is the English for: ` ПАЛЬЦЫ НА РУКАХ `",
+                ru:"FINGERS  / фИнГерз /",
+                
+                },
+                {
+                id:26,
+                eng:"What is the English for: ` ПАЛЕЦ НА НОГЕ `",
+                ru:"A TOE  / э тОу /",
+                
+                },
+                {
+                id:27,
+                eng:"What is the English for: ` ПОПА `",
+                ru:"A BOTTOM  / э бОттом /",
+                
+                },
+                {
+                id:28,
+                eng:"What is the English for: ` ЧАСТИ ТЕЛА `",
+                ru:"BODY PARTS  / боди партс /",
+                
+                },
+                {
+                id:29,
+                eng:"What is the English for: ` КОЛЕНО `",
+                ru:"A KNEE  / э ни /",
+                
+                },
+                {
+                id:30,
+                eng:"What is the English for: ` КОЛЕНИ `",
+                ru:"KNEES  / низ /",
+                
+                },
+                {
+                id:31,
+                eng:"What is the English for: ` НОГИ (ЦЕЛИКОМ) `",
+                ru:"LEGS  / лэгз /",
+                
+                },
+                {
+                id:32,
+                eng:"What is the English for: ` СТУПНЯ, СТОПА `",
+                ru:"A FOOT  / фут /",
+                
+                },
+                {
+                id:33,
+                eng:"What is the English for: ` ПАЛЬЦЫ НА НОГАХ `",
+                ru:"TOES  / тоУз /",
+                
+                },
+                {
+                id:34,
+                eng:"What is the English for: ` СТУПНИ, СТОПЫ `",
+                ru:"FEET  / фит /",
+                
+                },
+                {
+                id:35,
+                eng:"What is the English for: ` НОГА (ЦЕЛИКОМ) `",
+                ru:"A LEG  / э лэг /",
+                
+                },
+    ],
+    bodyA2: [
+        {
+            id:1,
+            eng:"A HEAD  / э хэд /",
+            ru:"ГОЛОВА",
+            
+            },
+            {
+            id:2,
+            eng:"AN EAR  / эн иэ /",
+            ru:"УХО",
+            
+            },
+            {
+            id:3,
+            eng:"EARS  / Иаз /",
+            ru:"УШИ",
+            
+            },
+            {
+            id:4,
+            eng:"AN EYE  / эн Ай /",
+            ru:"ГЛАЗ",
+            
+            },
+            {
+            id:5,
+            eng:"EYES  / айз /",
+            ru:"ГЛАЗА",
+            
+            },
+            {
+            id:6,
+            eng:"A NOSE  / э ноуз /",
+            ru:"НОС",
+            
+            },
+            {
+            id:7,
+            eng:"A NECK  / э нэк /",
+            ru:"ШЕЯ",
+            
+            },
+            {
+            id:8,
+            eng:"A MOUTH  / ау /",
+            ru:"РОТ",
+            
+            },
+            {
+            id:9,
+            eng:"LIPS  / липс /",
+            ru:"ГУБЫ",
+            
+            },
+            {
+            id:10,
+            eng:"TEETH  / тиTH /",
+            ru:"ЗУБЫ",
+            
+            },
+            {
+            id:11,
+            eng:"A TOOTH  / туTH /",
+            ru:"ЗУБ",
+            
+            },
+            {
+            id:12,
+            eng:"EYEBROWS  / ай брАуз /",
+            ru:"БРОВИ",
+            
+            },
+            {
+            id:13,
+            eng:"LONG HAIR  / лон хЭа /",
+            ru:"ДЛИННЫЕ ВОЛОСЫ",
+            
+            },
+            {
+            id:14,
+            eng:"SHORT HAIR  / шот хЭа /",
+            ru:"КОРОТКИЕ ВОЛОСЫ",
+            
+            },
+            {
+            id:15,
+            eng:"STRAIGHT HAIR  / стрЭйт хЭа /",
+            ru:"ПРЯМЫЕ ВОЛОСЫ",
+            
+            },
+            {
+            id:16,
+            eng:"WAVY HAIR  / уэйви хэа /",
+            ru:"ВОЛНИСТЫЕ ВОЛОСЫ",
+            
+            },
+            {
+            id:17,
+            eng:"CURLY HAIR  / кЁли хэа /",
+            ru:"КУДРЯВЫЕ ВОЛОСЫ",
+            
+            },
+            {
+            id:18,
+            eng:"BALD  / бОлд /",
+            ru:"ЛЫСЫЙ",
+            
+            },
+            {
+            id:19,
+            eng:"A BEARD  / э бИЕд /",
+            ru:"БОРОДА",
+            
+            },
+            {
+            id:20,
+            eng:"A MOUSTACHE  / э мАсташ /",
+            ru:"УСЫ",
+            
+            },
+            {
+            id:21,
+            eng:"A FOREHEAD  / фОхэд /",
+            ru:"ЛОБ",
+            
+            },
+            {
+            id:22,
+            eng:"A TONGUE  / тан /",
+            ru:"ЯЗЫК (ОРГАН)",
+            
+            },
+            {
+            id:23,
+            eng:"CHEEKS  / чикс /",
+            ru:"ЩЁКИ",
+            
+            },
+            {
+            id:24,
+            eng:"A CHIN  / чин /",
+            ru:"ПОДБОРОДОК",
+            
+            },
+            {
+            id:25,
+            eng:"A FRINGE  / фриндж /",
+            ru:"ЧЁЛКА",
+            
+            },
+            {
+            id:26,
+            eng:"FRECKLES  / фрЭклз /",
+            ru:"ВЕСНУШКИ",
+            
+            },
+            {
+            id:27,
+            eng:"WRINKLES  / ринклз /",
+            ru:"МОРЩИНКИ, CКЛАДКИ",
+            
+            },
+            {
+            id:28,
+            eng:"TATTOOS  / татУ /",
+            ru:"ТАТУИРОВКИ",
+            
+            },
+            {
+            id:29,
+            eng:"SHOULDERS  / шОулдэрз /",
+            ru:"ПЛЕЧИ",
+            
+            },
+            {
+            id:30,
+            eng:"ARMS  / амз /",
+            ru:"РУКИ ( ЦЕЛИКОМ )",
+            
+            },
+            {
+            id:31,
+            eng:"AN ARM  / эн арм /",
+            ru:"РУКА (ЦЕЛИКОМ)",
+            
+            },
+            {
+            id:32,
+            eng:"A BREAST  / э брэст /",
+            ru:"ГРУДЬ",
+            
+            },
+            {
+            id:33,
+            eng:"A CHEST  / чест /",
+            ru:"ГРУДНАЯ КЛЕТКА",
+            
+            },
+            {
+            id:34,
+            eng:"A BODY  / боди /",
+            ru:"ТЕЛО, ТУЛОВИЩЕ",
+            
+            },
+            {
+            id:35,
+            eng:"HANDS  / хэндз /",
+            ru:"КИСТИ РУК",
+            
+            },
+            {
+            id:36,
+            eng:"A BELLY BUTTON  / э бЭли батн /",
+            ru:"ПУПОК",
+            
+            },
+            {
+            id:37,
+            eng:"A BELLY  / э бЭли /",
+            ru:"ПУЗИКО",
+            
+            },
+            {
+            id:38,
+            eng:"A TUMMY  / э тамми /",
+            ru:"ЖИВОТИК",
+            
+            },
+            {
+            id:39,
+            eng:"AN ELBOW  / эн Элбоу /",
+            ru:"ЛОКОТЬ",
+            
+            },
+            {
+            id:40,
+            eng:"MY BEER BELLY  / май бИр бЭли /",
+            ru:"ПИВНОЕ ПУЗО",
+            
+            },
+            {
+            id:41,
+            eng:"FINGERS  / фИнГерз /",
+            ru:"ПАЛЬЦЫ НА РУКАХ",
+            
+            },
+            {
+            id:42,
+            eng:"A WRIST  / э рист /",
+            ru:"ЗАПЯСТЬЕ",
+            
+            },
+            {
+            id:43,
+            eng:"A LOWER BACK  / э лОуэ бэк /",
+            ru:"ПОЯСНИЦА",
+            
+            },
+            {
+            id:44,
+            eng:"A BOTTOM  / э бОттом /",
+            ru:"ПОПА",
+            
+            },
+            {
+            id:45,
+            eng:"BODY PARTS  / боди партс /",
+            ru:"ЧАСТИ ТЕЛА",
+            
+            },
+            {
+            id:46,
+            eng:"A KNEE  / э ни /",
+            ru:"КОЛЕНО",
+            
+            },
+            {
+            id:47,
+            eng:"KNEES  / низ /",
+            ru:"КОЛЕНИ",
+            
+            },
+            {
+            id:48,
+            eng:"LEGS  / лэгз /",
+            ru:"НОГИ (ЦЕЛИКОМ)",
+            
+            },
+            {
+            id:49,
+            eng:"A FOOT  / фут /",
+            ru:"СТУПНЯ, СТОПА",
+            
+            },
+            {
+            id:50,
+            eng:"TOES  / тоУз /",
+            ru:"ПАЛЬЦЫ НА НОГАХ",
+            
+            },
+            {
+            id:51,
+            eng:"HAIR  / хЭа /",
+            ru:"ВОЛОСЫ",
+            
+            },
+            {
+            id:52,
+            eng:"A BACK  / э бЭк /",
+            ru:"СПИНА",
+            
+            },
+            {
+            id:53,
+            eng:"A SCAR  / э скА /",
+            ru:"ШРАМ",
+            
+            },
+            {
+            id:54,
+            eng:"A BIRTHMARK  / бЁthмак /",
+            ru:"РОДИМОЕ ПЯТНО",
+            
+            },
+            {
+            id:55,
+            eng:"A MOLE  / э мОул /",
+            ru:"РОДИНКА",
+            
+            },
+            {
+            id:56,
+            eng:"HEELS  / хилz /",
+            ru:"ПЯТКИ",
+            
+            },
+            {
+            id:57,
+            eng:"ABS  / Эбс /",
+            ru:"ПРЕСС (КУБИКИ НА ЖИВОТЕ)",
+            
+            },
+            {
+            id:58,
+            eng:"FIRM  / фёрм /",
+            ru:"УПРУГИЙ",
+            
+            },
+            {
+            id:59,
+            eng:"FIT  / фит /",
+            ru:"СПОРТИВНЫЙ, АТЛЕТИЧНЫЙ, ПОДТЯНУТЫЙ",
+            
+            },
+            {
+            id:60,
+            eng:"SLIM  / слим /",
+            ru:"СТРОЙНЫЙ",
+            
+            },
+            {
+            id:61,
+            eng:"WIDE  / уайд /",
+            ru:"ШИРОКИЙ",
+            
+            },
+            {
+            id:62,
+            eng:"FAT  / фэт /",
+            ru:"ЖИРНЫЙ",
+            
+            },
+            {
+            id:63,
+            eng:"SHORT  / шорт /",
+            ru:"КОРОТКИЙ",
+            
+            },
+            {
+            id:64,
+            eng:"HAIRY  / хЭйри /",
+            ru:"ВОЛОСАТЫЙ",
+            
+            },
+            {
+            id:65,
+            eng:"MUSCULAR  / мАскьюла /",
+            ru:"МУСКУЛИСТЫЙ",
+            
+            },
+            {
+            id:66,
+            eng:"LARGE  / ладж /",
+            ru:"КРУПНЫЙ",
+            
+            },
+            {
+            id:67,
+            eng:"LONG  / лон /",
+            ru:"ДЛИННЫЙ",
+            
+            },
+            {
+            id:68,
+            eng:"PIERCED  / пирст /",
+            ru:"ПРОКОЛОТОЫЙ",
+            
+            },
+            {
+            id:69,
+            eng:"CROOKED  / крукИд /",
+            ru:"КРИВЫЕ",
+            
+            },
+            {
+            id:70,
+            eng:"ROUND  / рАунд /",
+            ru:"КРУГЛЫЙ",
+            
+            },
+            {
+            id:71,
+            eng:"SQUARE  / скуЭэ /",
+            ru:"КВАДРАТНЫЙ",
+            
+            },
+            {
+            id:72,
+            eng:"SKINNY  / скИни /",
+            ru:"ТОЩИЙ",
+            
+            },
+            {
+            id:73,
+            eng:"THICK  / Thык /",
+            ru:"ТОЛСТЫЙ",
+            
+            },
+            {
+            id:74,
+            eng:"THIN  / Thын /",
+            ru:"ХУДОЙ, ТОНКИЙ",
+            
+            },
+            {
+            id:75,
+            eng:"BIG  / биг /",
+            ru:"БОЛЬШОЙ",
+            
+            },
+            {
+            id:76,
+            eng:"SMALL  / смОл /",
+            ru:"МАЛЕНЬКИЙ",
+            
+            },
+            {
+            id:77,
+            eng:"FEET  / фит /",
+            ru:"СТУПНИ, СТОПЫ",
+            
+            },
+            {
+            id:78,
+            eng:"A LEG  / э лэг /",
+            ru:"НОГА (ЦЕЛИКОМ)",
+            
+            },
+    ],
     allCountriesAndCapitals: [
         {
             id:1,
