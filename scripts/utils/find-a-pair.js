@@ -4018,7 +4018,7 @@ const allCardsGameFindAPair = {
             ru: "8000"
         },
     ],
-    questions002: [
+    questionWords1: [
         {
             id: 1,
             eng: "When? / уэн /",
@@ -4110,7 +4110,7 @@ const allCardsGameFindAPair = {
             ru: "Который час? Сколько время?"
         },
     ],
-    questions003: [
+    questionWords2: [
         {
             id: 19,
             eng: "What shape? / уот шэйп /",

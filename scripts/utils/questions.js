@@ -2540,12 +2540,12 @@ const allQuestionsOneDeck = {
             {
             id:7,
             eng:"Как спросить : ` Какое у вас увлечение? Что вы коллекционируете? У вас большая коллекция? `",
-            ru:"WHAT HOBBY DO YOU HAVE? WHAT DO YOU COLLECT? DO YOU HAVE A BIG COLLECTION? / коллект и колекшн /"
+            ru:"WHAT HOBBY DO YOU HAVE? WHAT DO YOU COLLECT? IS YOUR COLLECTION BIG? / коллект и колекшн /"
             },
             {
             id:8,
             eng:"Как спросить : ` Произнесите ваше имя по буквам, пожалуйста `",
-            ru:"SPELL YOUR NAME, PLEASE. / спэл ё нэйм плиз /"
+            ru:"PLEASE, SPELL YOUR NAME. / спэл ё нэйм плиз /"
             },
             {
             id:9,
@@ -2608,6 +2608,16 @@ const allQuestionsOneDeck = {
             ru:"HOW IS YOUR LIFE? / хау из ё лайф /"
             },
             {
+            id:21,
+            eng:"Как спросить : ` Чему равняется 11 плас 11 ? `",
+            ru:"WHAT IS 11 PLUS 11 ? / илЭвн плас илЭвн /"
+            },
+            {
+            id:22,
+            eng:"Как спросить : ` Чему равняется 13 плас 14 ? `",
+            ru:"WHAT IS 13 PLUS 14 ? / thётииин плас фотииин /"
+            },
+            {
                 id:101,
                 eng:"    Как переводится :         ` What is your phone number?  / уОт из ё фОун нАмбэ / `",
                 ru:"КАКОЙ ТВОЙ НОМЕР ТЕЛЕФОНА?"
@@ -2639,12 +2649,12 @@ const allQuestionsOneDeck = {
                 },
                 {
                 id:107,
-                eng:"    Как переводится :         ` What hobby do you have? What do you collect? Do you have a big collection? / коллект и колекшн / `",
+                eng:"    Как переводится :         ` What hobby do you have? What do you collect? Is your collection big? / коллект и колекшн / `",
                 ru:"КАКОЕ У ВАС УВЛЕЧЕНИЕ? ЧТО ВЫ КОЛЛЕКЦИОНИРУЕТЕ? У ВАС БОЛЬШАЯ КОЛЛЕКЦИЯ?"
                 },
                 {
                 id:108,
-                eng:"    Как переводится :         ` Spell your name, please. / спэл ё нэйм плиз / `",
+                eng:"    Как переводится :         ` Please, spell your name. / спэл ё нэйм плиз / `",
                 ru:"ПРОИЗНЕСИТЕ ВАШЕ ИМЯ ПО БУКВАМ, ПОЖАЛУЙСТА"
                 },
                 {
@@ -2707,6 +2717,16 @@ const allQuestionsOneDeck = {
                 eng:"    Как переводится :         ` How is your life? / хау из ё лайф / `",
                 ru:"КАК ВАША ЖИЗНЬ? ( ОТВЕТ НА ЭТОТ ВОПРОС ЗВУЧИТ ТАК: MY LIFE IS GOOD )"
                 },
+                {
+                id:121,
+                eng:"    Как переводится :         ` What is 11 plus 11 ? / илЭвн плас илЭвн / `",
+                ru:"ЧЕМУ РАВНЯЕТСЯ 11 ПЛАС 11 ?"
+                },
+                {
+                id:122,
+                eng:"    Как переводится :         ` What is 13 plus 14 ? / thётииин плас фотииин / `",
+                ru:"ЧЕМУ РАВНЯЕТСЯ 13 ПЛАС 14 ?"
+                },
     ],
     questions001: [
         {
@@ -2741,12 +2761,12 @@ const allQuestionsOneDeck = {
             },
             {
             id:7,
-            eng:"What hobby do you have? What do you collect? Do you have a big collection? / коллект и колекшн /",
+            eng:"What hobby do you have? What do you collect? Is your collection big? / коллект и колекшн /",
             ru:"Какое у вас увлечение? Что вы коллекционируете? У вас большая коллекция?"
             },
             {
             id:8,
-            eng:"Spell your name, please. / спэл ё нэйм плиз /",
+            eng:"Please, spell your name. / спэл ё нэйм плиз /",
             ru:"Произнесите ваше имя по буквам, пожалуйста"
             },
             {
@@ -2807,7 +2827,329 @@ const allQuestionsOneDeck = {
             {
             id:20,
             eng:"How is your life? / хау из ё лайф /",
-            ru:"Как ваша жизнь? ( My life is good )"
+            ru:"Как ваша жизнь? ( ответ на этот вопрос звучит так: My life is good )"
+            },
+            {
+            id:21,
+            eng:"What is 11 plus 11 ? / илЭвн плас илЭвн /",
+            ru:"Чему равняется 11 плас 11 ?"
+            },
+            {
+            id:22,
+            eng:"What is 13 plus 14 ? / thётииин плас фотииин /",
+            ru:"Чему равняется 13 плас 14 ?"
+            },
+    ],
+    questions002: [
+        {
+            id:26,
+            eng:"What is your phone number?  / уОт из ё фОун нАмбэ /",
+            ru:"Какой твой номер телефона?"
+            },
+            {
+            id:27,
+            eng:"Let’s check your phone number, the first 3 digits are + плас 9 1 1, right? / лэтс чек ё фОун нАмбэ, дэ фёст диджитс а плас 870 райт? /",
+            ru:"Давайте проверим ваш телефонный номер, первые три цифры: плас+911 верно?"
+            },
+            {
+            id:28,
+            eng:"Where are you from? / уЭэ а ю фром /",
+            ru:"Откуда ты родом?"
+            },
+            {
+            id:29,
+            eng:"Where were you born? And where do you live now? / уЭэ вё ю борн энд уЭэ ду ю лив нАу /",
+            ru:"Где вы родились? И где вы живете сейчас?"
+            },
+            {
+            id:30,
+            eng:"Where do you live now? / уЭэ ду ю лив нАу /",
+            ru:"Где вы сейчас живёте?"
+            },
+            {
+            id:31,
+            eng:"What pets do you have?  / пЭтс /",
+            ru:"Какие у вас питомцы?"
+            },
+            {
+            id:32,
+            eng:"What pets do you like very much? / пЭтс /",
+            ru:"Какие домашние животные вам очень нравятся?"
+            },
+            {
+            id:33,
+            eng:"What food are you crazy about?  / фуД /",
+            ru:"По какой еде вы сходите с ума?"
+            },
+            {
+            id:34,
+            eng:"What food do you like? / фуД /",
+            ru:"Какая еда вам сильно нравится?"
+            },
+            {
+            id:35,
+            eng:"What hobby do you have?  ",
+            ru:"Какое у вас увлечение?"
+            },
+            {
+            id:36,
+            eng:"What do you collect? / колЭкт /",
+            ru:"Что вы коллекционируете?"
+            },
+            {
+            id:37,
+            eng:"Is your collection big? / коллЭкшн /",
+            ru:"У вас большая коллекция?"
+            },
+            {
+            id:38,
+            eng:"What is your order in Drive Through or KFC or McDonalds usually? / уОт из ё Одэ Южали /",
+            ru:"Какой ваш заказ в кафэ Драйв Thру обычно? Или в кей эф си или МакДаке"
+            },
+            {
+            id:39,
+            eng:"What is your car number? / уОт из ё ка намбэ /",
+            ru:"Какой номе вашей машины?"
+            },
+            {
+            id:40,
+            eng:"What is your house number? / уОт из ё фОун нАмбэ /",
+            ru:"Какой номер твоего дома?"
+            },
+            {
+            id:41,
+            eng:"What is your lucky number? /  лаки нАмбэ /",
+            ru:"Какое у вас счастливое число?"
+            },
+            {
+            id:42,
+            eng:"Please, spell your name. / спэл ё нэйм плиз /",
+            ru:"Произнесите ваше имя по буквам, пожалуйста"
+            },
+            {
+            id:43,
+            eng:"What is your name? / уОт из ё нЭйм /",
+            ru:"Как вас зовут? Какое у вас имя?"
+            },
+            {
+            id:44,
+            eng:"What is 15 + 50 ? (чему равно) ",
+            ru:"Чему равняется 11 плас 11 ?"
+            },
+            {
+            id:45,
+            eng:"What is 13 + 30 ?  / thётииин плас thёти  /",
+            ru:"Чему равняется 13 плас 30 ?"
+            },
+            {
+            id:46,
+            eng:"What is 40 - 14 ?  / фОти майнэс фотИИИн /",
+            ru:"Чему равняется 40 майнэс 14 ?"
+            },
+            {
+            id:47,
+            eng:"What is 18 + 81 ?  / эйтИн плас Эйти уАн /",
+            ru:"Чему равняется 18 плас 81 ?"
+            },
+            {
+            id:48,
+            eng:"What is 12 plus 12 ? / туэлв плас туэлв /",
+            ru:"Чему равняется 12 плас 12 ?"
+            },
+            {
+            id:49,
+            eng:"What is 20 plus 20 ? / туЭнти плас туЭнти /",
+            ru:"Чему равняется 20 плас 20 ?"
+            },
+            {
+            id:50,
+            eng:"What is 15 plus 50 ? / фифтИИИн плас фИфти /",
+            ru:"Чему равняется 15 плас 50 ?"
+            },
+            {
+            id:51,
+            eng:"What is 40 plus 14 ? / фОти плас фотИИИн /",
+            ru:"Чему равняется 40 плас 14 ?"
+            },
+            {
+            id:52,
+            eng:"What is 11 plus 11 ? / илЭвн плас илЭвн /",
+            ru:"Чему равняется 11 плас 11 ?"
+            },
+            {
+            id:53,
+            eng:"What is 13 plus 14 ? / thётииин плас фотииин /",
+            ru:"Чему равняется 13 плас 14 ?"
+            },
+            {
+            id:54,
+            eng:"How old are you? ",
+            ru:"Сколько вам лет?"
+            },
+            {
+            id:55,
+            eng:"How old is your pet? ",
+            ru:"Сколько лет вашему питомцу?"
+            },
+            {
+            id:56,
+            eng:"How are you?  ",
+            ru:"Как вы?"
+            },
+            {
+            id:57,
+            eng:"How are you doing?  ",
+            ru:"Как вы себя чувствуете?"
+            },
+            {
+            id:58,
+            eng:"How have you been? ",
+            ru:"Как поживаете?"
+            },
+            {
+            id:59,
+            eng:"What’s up? ",
+            ru:"Ну что, вы как?"
+            },
+            {
+            id:60,
+            eng:"How is your life?  ",
+            ru:"Как жизнь?"
+            },
+            {
+            id:61,
+            eng:"Are cats cute or ugly? ",
+            ru:"Кошки милые или уродливые?"
+            },
+            {
+            id:62,
+            eng:"Is your teacher stupid? ",
+            ru:"Ваша училка тупенькая?"
+            },
+            {
+            id:63,
+            eng:"Is English difficult for you? ",
+            ru:"Английский для вас сложный?"
+            },
+            {
+            id:64,
+            eng:"Is English interesting? ",
+            ru:"Английский интересный?"
+            },
+            {
+            id:65,
+            eng:"Am I your friend? ",
+            ru:"Я ваш друг?"
+            },
+            {
+            id:66,
+            eng:"Am I thick or thin? ",
+            ru:"Я худенькая или толстенькая?"
+            },
+            {
+            id:67,
+            eng:"Am I silly or clever? ",
+            ru:"Я глупая или умная?"
+            },
+            {
+            id:68,
+            eng:"Are we good friends? ",
+            ru:"Мы хорошие друзья?"
+            },
+            {
+            id:69,
+            eng:"Are your friends lazy? ",
+            ru:"Ваши друзья ленивые?"
+            },
+            {
+            id:70,
+            eng:"Is our homework hard? ",
+            ru:"Наша домашка трудная?"
+            },
+            {
+            id:71,
+            eng:"What is your favorite season of the year? ",
+            ru:"Каккое ваше любимое время года?"
+            },
+            {
+            id:72,
+            eng:"What is your favorite day of the week? ",
+            ru:"Какой ваш любимый день недели?"
+            },
+            {
+            id:73,
+            eng:"What is your favorite month? / манTH /",
+            ru:"Какой ваш любимый месяц?"
+            },
+            {
+            id:74,
+            eng:"What are fall’s months? / фОлс манTHс /",
+            ru:"Какие месяцы осени?"
+            },
+            {
+            id:75,
+            eng:"What are autumn’s months? / Отэмс манTHс /",
+            ru:"Какие месяцы осени?"
+            },
+            {
+            id:76,
+            eng:"What are winter’s months? / манTHс /",
+            ru:"Какие месяцы зимы?"
+            },
+            {
+            id:77,
+            eng:"What are spring’s month? / манTHс /",
+            ru:"Какие месяцы весны?"
+            },
+            {
+            id:78,
+            eng:"What are summer’s months? / манTHс /",
+            ru:"Какие месяцы лета?"
+            },
+            {
+            id:79,
+            eng:"What is your teacher's name? ",
+            ru:"Как зовут вашего учителя?"
+            },
+            {
+            id:80,
+            eng:"Please, spell your teacher's name ",
+            ru:"Произнесите имя вашего учителя по буквам, пожалуйста"
+            },
+            {
+            id:81,
+            eng:"Please, spell your mother’s name ",
+            ru:"Произнесите имя вашей мамы по буквам, пожалуйста"
+            },
+            {
+            id:82,
+            eng:"When is Halloween? / хЭлоуин ударение только одно на букву Э /",
+            ru:"Какого числа хЭлоуин?"
+            },
+            {
+            id:83,
+            eng:"When is New Year holiday? ",
+            ru:"Какого числа Новый Год?"
+            },
+            {
+            id:84,
+            eng:"When is your birthday? ",
+            ru:"Когда ваш день рождения?"
+            },
+            {
+            id:85,
+            eng:"When is your teacher's birthday? ",
+            ru:"Когда день рождения вашего учителя?"
+            },
+            {
+            id:86,
+            eng:"When is your mother's birthday? ",
+            ru:"Когда у вашей мамы день рождения?"
+            },
+            {
+            id:87,
+            eng:"When is your father's birthday? ",
+            ru:"Когда у вашего отца день рождения?"
             },
     ],
     advice02: [
