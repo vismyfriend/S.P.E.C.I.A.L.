@@ -8757,5 +8757,187 @@ roblox: [
         hint:""
         },
 ],
+grabit: [
+    {
+        id:1,
+        eng:"Treasure hunt",
+        ru:"охота за сокровищем, кладом",
+        hint:" / трЭжэ хант /"
+        },
+        {
+        id:2,
+        eng:"Glasses",
+        ru:"очки",
+        hint:" / глЭсиз /"
+        },
+        {
+        id:3,
+        eng:"ID",
+        ru:"удостоверение личности",
+        hint:" / ай ди /"
+        },
+        {
+        id:4,
+        eng:"A candy",
+        ru:"конфетка",
+        hint:""
+        },
+        {
+        id:5,
+        eng:"Some cash",
+        ru:"немного наличных денег",
+        hint:""
+        },
+        {
+        id:6,
+        eng:"A lipstick",
+        ru:"помада губная",
+        hint:""
+        },
+        {
+        id:7,
+        eng:"A receipt",
+        ru:"квитанция",
+        hint:" / рисИт /"
+        },
+        {
+        id:8,
+        eng:"Clean socks",
+        ru:"чистые носки",
+        hint:""
+        },
+        {
+        id:9,
+        eng:"A photo of a friend",
+        ru:"фотография друга",
+        hint:""
+        },
+        {
+        id:10,
+        eng:"A digital photo",
+        ru:"цифровое фото",
+        hint:" / диджитал /"
+        },
+        {
+        id:11,
+        eng:"A comb",
+        ru:"расческа",
+        hint:" / кОУм /"
+        },
+        {
+        id:12,
+        eng:"A chewing gum",
+        ru:"жевачка",
+        hint:" / чюин гам /"
+        },
+        {
+        id:13,
+        eng:"A handkerchief",
+        ru:"носовой платочек",
+        hint:" / хЭнкэрчиф /"
+        },
+        {
+        id:14,
+        eng:"Wet wipes",
+        ru:"влажные салфетки",
+        hint:" / уэт уайпс /"
+        },
+        {
+        id:15,
+        eng:"Tissues",
+        ru:"бумажные платочки, салфетки",
+        hint:" / тИшьюз /"
+        },
+        {
+        id:16,
+        eng:"A lighter or matches",
+        ru:"зажигалка или спички",
+        hint:" / э лАйтэ /"
+        },
+        {
+        id:17,
+        eng:"A contact lens case",
+        ru:"контейнер для линз",
+        hint:""
+        },
+        {
+        id:18,
+        eng:"A planner or a diary",
+        ru:"ежедневник",
+        hint:" / дАйэри /"
+        },
+        {
+        id:19,
+        eng:"A fork and a knife",
+        ru:"вилка и нож",
+        hint:" / нАйф /"
+        },
+        {
+        id:20,
+        eng:"A gun",
+        ru:"оружие огнестрельное",
+        hint:" / гАн /"
+        },
+        {
+        id:21,
+        eng:"A toy",
+        ru:"игрушка",
+        hint:""
+        },
+        {
+        id:22,
+        eng:"A pet",
+        ru:"домашнее животное",
+        hint:" / э пЭт /"
+        },
+        {
+        id:23,
+        eng:"An airplane",
+        ru:"самолет",
+        hint:""
+        },
+        {
+        id:24,
+        eng:"A strange object",
+        ru:"странный объект",
+        hint:" / обджэкт /"
+        },
+        {
+        id:25,
+        eng:"A pocket mirror",
+        ru:"карманное зеркальце",
+        hint:" / мИрэ /"
+        },
+        {
+        id:26,
+        eng:"Some pills",
+        ru:"какие-то таблетки",
+        hint:" / пилз /"
+        },
+        {
+        id:27,
+        eng:"Handcuffs",
+        ru:"наручники",
+        hint:" / хЭнкафс /"
+        },
+        {
+        id:28,
+        eng:"A musical instrument",
+        ru:"музыкальный инструмент",
+        hint:""
+        },
+        {
+        id:29,
+        eng:"Batteries",
+        ru:"батарейки",
+        hint:" / бЭттэриз /"
+        },
+        {
+        id:30,
+        eng:"A sim card",
+        ru:"сим карта",
+        hint:" / э сим кад /"
+        },
+],
 }
 export default allWordsForGameTypeOrWrite

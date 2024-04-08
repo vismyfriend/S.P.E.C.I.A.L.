@@ -328,6 +328,368 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    grabit: [
+        {
+            id:1,
+            eng:"How do you translate : ` охота за сокровищем, кладом `",
+            ru:"TREASURE HUNT  / трЭжэ хант /",
+            hint:" / трЭжэ хант /"
+            },
+            {
+            id:2,
+            eng:"How do you translate : ` очки `",
+            ru:"GLASSES  / глЭсиз /",
+            hint:" / глЭсиз /"
+            },
+            {
+            id:3,
+            eng:"How do you translate : ` удостоверение личности `",
+            ru:"ID  / ай ди /",
+            hint:" / ай ди /"
+            },
+            {
+            id:4,
+            eng:"How do you translate : ` конфетка `",
+            ru:"A CANDY ",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"How do you translate : ` немного наличных денег `",
+            ru:"SOME CASH ",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"How do you translate : ` помада губная `",
+            ru:"A LIPSTICK ",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"How do you translate : ` квитанция `",
+            ru:"A RECEIPT  / рисИт /",
+            hint:" / рисИт /"
+            },
+            {
+            id:8,
+            eng:"How do you translate : ` чистые носки `",
+            ru:"CLEAN SOCKS ",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"How do you translate : ` фотография друга `",
+            ru:"A PHOTO OF A FRIEND ",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"How do you translate : ` цифровое фото `",
+            ru:"A DIGITAL PHOTO  / диджитал /",
+            hint:" / диджитал /"
+            },
+            {
+            id:11,
+            eng:"How do you translate : ` расческа `",
+            ru:"A COMB  / кОУм /",
+            hint:" / кОУм /"
+            },
+            {
+            id:12,
+            eng:"How do you translate : ` жевачка `",
+            ru:"A CHEWING GUM  / чюин гам /",
+            hint:" / чюин гам /"
+            },
+            {
+            id:13,
+            eng:"How do you translate : ` носовой платочек `",
+            ru:"A HANDKERCHIEF  / хЭнкэрчиф /",
+            hint:" / хЭнкэрчиф /"
+            },
+            {
+            id:14,
+            eng:"How do you translate : ` влажные салфетки `",
+            ru:"WET WIPES  / уэт уайпс /",
+            hint:" / уэт уайпс /"
+            },
+            {
+            id:15,
+            eng:"How do you translate : ` бумажные платочки, салфетки `",
+            ru:"TISSUES  / тИшьюз /",
+            hint:" / тИшьюз /"
+            },
+            {
+            id:16,
+            eng:"How do you translate : ` зажигалка или спички `",
+            ru:"A LIGHTER OR MATCHES  / э лАйтэ /",
+            hint:" / э лАйтэ /"
+            },
+            {
+            id:17,
+            eng:"How do you translate : ` контейнер для линз `",
+            ru:"A CONTACT LENS CASE ",
+            hint:""
+            },
+            {
+            id:18,
+            eng:"How do you translate : ` ежедневник `",
+            ru:"A PLANNER OR A DIARY  / дАйэри /",
+            hint:" / дАйэри /"
+            },
+            {
+            id:19,
+            eng:"How do you translate : ` вилка и нож `",
+            ru:"A FORK AND A KNIFE  / нАйф /",
+            hint:" / нАйф /"
+            },
+            {
+            id:20,
+            eng:"How do you translate : ` оружие огнестрельное `",
+            ru:"A GUN  / гАн /",
+            hint:" / гАн /"
+            },
+            {
+            id:21,
+            eng:"How do you translate : ` игрушка `",
+            ru:"A TOY ",
+            hint:""
+            },
+            {
+            id:22,
+            eng:"How do you translate : ` домашнее животное `",
+            ru:"A PET  / э пЭт /",
+            hint:" / э пЭт /"
+            },
+            {
+            id:23,
+            eng:"How do you translate : ` самолет `",
+            ru:"AN AIRPLANE ",
+            hint:""
+            },
+            {
+            id:24,
+            eng:"How do you translate : ` странный объект `",
+            ru:"A STRANGE OBJECT  / обджэкт /",
+            hint:" / обджэкт /"
+            },
+            {
+            id:25,
+            eng:"How do you translate : ` карманное зеркальце `",
+            ru:"A POCKET MIRROR  / мИрэ /",
+            hint:" / мИрэ /"
+            },
+            {
+            id:26,
+            eng:"How do you translate : ` какие-то таблетки `",
+            ru:"SOME PILLS  / пилз /",
+            hint:" / пилз /"
+            },
+            {
+            id:27,
+            eng:"How do you translate : ` наручники `",
+            ru:"HANDCUFFS  / хЭнкафс /",
+            hint:" / хЭнкафс /"
+            },
+            {
+            id:28,
+            eng:"How do you translate : ` музыкальный инструмент `",
+            ru:"A MUSICAL INSTRUMENT ",
+            hint:""
+            },
+            {
+            id:29,
+            eng:"How do you translate : ` батарейки `",
+            ru:"BATTERIES  / бЭттэриз /",
+            hint:" / бЭттэриз /"
+            },
+            {
+            id:30,
+            eng:"How do you translate : ` сим карта `",
+            ru:"A SIM CARD  / э сим кад /",
+            hint:" / э сим кад /"
+            },
+            {
+                id:101,
+                eng:"Translate: ` Treasure hunt / трЭжэ хант / `",
+                ru:"охота за сокровищем, кладом",
+                hint:" / трЭжэ хант /"
+                },
+                {
+                id:102,
+                eng:"Translate: ` Glasses / глЭсиз / `",
+                ru:"очки",
+                hint:" / глЭсиз /"
+                },
+                {
+                id:103,
+                eng:"Translate: ` ID / ай ди / `",
+                ru:"удостоверение личности",
+                hint:" / ай ди /"
+                },
+                {
+                id:104,
+                eng:"Translate: ` A candy `",
+                ru:"конфетка",
+                hint:""
+                },
+                {
+                id:105,
+                eng:"Translate: ` Some cash `",
+                ru:"немного наличных денег",
+                hint:""
+                },
+                {
+                id:106,
+                eng:"Translate: ` A lipstick `",
+                ru:"помада губная",
+                hint:""
+                },
+                {
+                id:107,
+                eng:"Translate: ` A receipt / рисИт / `",
+                ru:"квитанция",
+                hint:" / рисИт /"
+                },
+                {
+                id:108,
+                eng:"Translate: ` Clean socks `",
+                ru:"чистые носки",
+                hint:""
+                },
+                {
+                id:109,
+                eng:"Translate: ` A photo of a friend `",
+                ru:"фотография друга",
+                hint:""
+                },
+                {
+                id:110,
+                eng:"Translate: ` A digital photo / диджитал / `",
+                ru:"цифровое фото",
+                hint:" / диджитал /"
+                },
+                {
+                id:111,
+                eng:"Translate: ` A comb / кОУм / `",
+                ru:"расческа",
+                hint:" / кОУм /"
+                },
+                {
+                id:112,
+                eng:"Translate: ` A chewing gum / чюин гам / `",
+                ru:"жевачка",
+                hint:" / чюин гам /"
+                },
+                {
+                id:113,
+                eng:"Translate: ` A handkerchief / хЭнкэрчиф / `",
+                ru:"носовой платочек",
+                hint:" / хЭнкэрчиф /"
+                },
+                {
+                id:114,
+                eng:"Translate: ` Wet wipes / уэт уайпс / `",
+                ru:"влажные салфетки",
+                hint:" / уэт уайпс /"
+                },
+                {
+                id:115,
+                eng:"Translate: ` Tissues / тИшьюз / `",
+                ru:"бумажные платочки, салфетки",
+                hint:" / тИшьюз /"
+                },
+                {
+                id:116,
+                eng:"Translate: ` A lighter or matches / э лАйтэ / `",
+                ru:"зажигалка или спички",
+                hint:" / э лАйтэ /"
+                },
+                {
+                id:117,
+                eng:"Translate: ` A contact lens case `",
+                ru:"контейнер для линз",
+                hint:""
+                },
+                {
+                id:118,
+                eng:"Translate: ` A planner or a diary / дАйэри / `",
+                ru:"ежедневник",
+                hint:" / дАйэри /"
+                },
+                {
+                id:119,
+                eng:"Translate: ` A fork and a knife / нАйф / `",
+                ru:"вилка и нож",
+                hint:" / нАйф /"
+                },
+                {
+                id:120,
+                eng:"Translate: ` A gun / гАн / `",
+                ru:"оружие огнестрельное",
+                hint:" / гАн /"
+                },
+                {
+                id:121,
+                eng:"Translate: ` A toy `",
+                ru:"игрушка",
+                hint:""
+                },
+                {
+                id:122,
+                eng:"Translate: ` A pet / э пЭт / `",
+                ru:"домашнее животное",
+                hint:" / э пЭт /"
+                },
+                {
+                id:123,
+                eng:"Translate: ` An airplane `",
+                ru:"самолет",
+                hint:""
+                },
+                {
+                id:124,
+                eng:"Translate: ` A strange object / обджэкт / `",
+                ru:"странный объект",
+                hint:" / обджэкт /"
+                },
+                {
+                id:125,
+                eng:"Translate: ` A pocket mirror / мИрэ / `",
+                ru:"карманное зеркальце",
+                hint:" / мИрэ /"
+                },
+                {
+                id:126,
+                eng:"Translate: ` Some pills / пилз / `",
+                ru:"какие-то таблетки",
+                hint:" / пилз /"
+                },
+                {
+                id:127,
+                eng:"Translate: ` Handcuffs / хЭнкафс / `",
+                ru:"наручники",
+                hint:" / хЭнкафс /"
+                },
+                {
+                id:128,
+                eng:"Translate: ` A musical instrument `",
+                ru:"музыкальный инструмент",
+                hint:""
+                },
+                {
+                id:129,
+                eng:"Translate: ` Batteries / бЭттэриз / `",
+                ru:"батарейки",
+                hint:" / бЭттэриз /"
+                },
+                {
+                id:130,
+                eng:"Translate: ` A sim card / э сим кад / `",
+                ru:"сим карта",
+                hint:" / э сим кад /"
+                },
+    ],
     bodyA1: [
         {
             id:1,

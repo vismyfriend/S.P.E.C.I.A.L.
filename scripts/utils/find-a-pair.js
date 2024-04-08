@@ -545,6 +545,188 @@ const allCardsGameFindAPair = {
             ru: "седьмой"
         },
     ],
+    grabit: [
+        {
+            id:1,
+            eng:"Treasure hunt / трЭжэ хант /",
+            ru:"охота за сокровищем, кладом",
+            hint:" / трЭжэ хант /"
+            },
+            {
+            id:2,
+            eng:"Glasses / глЭсиз /",
+            ru:"очки",
+            hint:" / глЭсиз /"
+            },
+            {
+            id:3,
+            eng:"ID / ай ди /",
+            ru:"удостоверение личности",
+            hint:" / ай ди /"
+            },
+            {
+            id:4,
+            eng:"A candy",
+            ru:"конфетка",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"Some cash",
+            ru:"немного наличных денег",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"A lipstick",
+            ru:"помада губная",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"A receipt / рисИт /",
+            ru:"квитанция",
+            hint:" / рисИт /"
+            },
+            {
+            id:8,
+            eng:"Clean socks",
+            ru:"чистые носки",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"A photo of a friend",
+            ru:"фотография друга",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"A digital photo / диджитал /",
+            ru:"цифровое фото",
+            hint:" / диджитал /"
+            },
+            {
+            id:11,
+            eng:"A comb / кОУм /",
+            ru:"расческа",
+            hint:" / кОУм /"
+            },
+            {
+            id:12,
+            eng:"A chewing gum / чюин гам /",
+            ru:"жевачка",
+            hint:" / чюин гам /"
+            },
+            {
+            id:13,
+            eng:"A handkerchief / хЭнкэрчиф /",
+            ru:"носовой платочек",
+            hint:" / хЭнкэрчиф /"
+            },
+            {
+            id:14,
+            eng:"Wet wipes / уэт уайпс /",
+            ru:"влажные салфетки",
+            hint:" / уэт уайпс /"
+            },
+            {
+            id:15,
+            eng:"Tissues / тИшьюз /",
+            ru:"бумажные платочки, салфетки",
+            hint:" / тИшьюз /"
+            },
+            {
+            id:16,
+            eng:"A lighter or matches / э лАйтэ /",
+            ru:"зажигалка или спички",
+            hint:" / э лАйтэ /"
+            },
+            {
+            id:17,
+            eng:"A contact lens case",
+            ru:"контейнер для линз",
+            hint:""
+            },
+            {
+            id:18,
+            eng:"A planner or a diary / дАйэри /",
+            ru:"ежедневник",
+            hint:" / дАйэри /"
+            },
+            {
+            id:19,
+            eng:"A fork and a knife / нАйф /",
+            ru:"вилка и нож",
+            hint:" / нАйф /"
+            },
+            {
+            id:20,
+            eng:"A gun / гАн /",
+            ru:"оружие огнестрельное",
+            hint:" / гАн /"
+            },
+            {
+            id:21,
+            eng:"A toy",
+            ru:"игрушка",
+            hint:""
+            },
+            {
+            id:22,
+            eng:"A pet / э пЭт /",
+            ru:"домашнее животное",
+            hint:" / э пЭт /"
+            },
+            {
+            id:23,
+            eng:"An airplane",
+            ru:"самолет",
+            hint:""
+            },
+            {
+            id:24,
+            eng:"A strange object / обджэкт /",
+            ru:"странный объект",
+            hint:" / обджэкт /"
+            },
+            {
+            id:25,
+            eng:"A pocket mirror / мИрэ /",
+            ru:"карманное зеркальце",
+            hint:" / мИрэ /"
+            },
+            {
+            id:26,
+            eng:"Some pills / пилз /",
+            ru:"какие-то таблетки",
+            hint:" / пилз /"
+            },
+            {
+            id:27,
+            eng:"Handcuffs / хЭнкафс /",
+            ru:"наручники",
+            hint:" / хЭнкафс /"
+            },
+            {
+            id:28,
+            eng:"A musical instrument",
+            ru:"музыкальный инструмент",
+            hint:""
+            },
+            {
+            id:29,
+            eng:"Batteries / бЭттэриз /",
+            ru:"батарейки",
+            hint:" / бЭттэриз /"
+            },
+            {
+            id:30,
+            eng:"A sim card / э сим кад /",
+            ru:"сим карта",
+            hint:" / э сим кад /"
+            },
+    ],
     allCountriesAndCapitals: [
         {
             id:1,
