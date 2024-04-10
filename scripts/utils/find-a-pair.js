@@ -545,6 +545,212 @@ const allCardsGameFindAPair = {
             ru: "седьмой"
         },
     ],
+    jobs01: [
+        {
+            id:1,
+            eng:"A dentist / дЭнтист /",
+            ru:"Зубной врач",
+            
+            },
+            {
+            id:2,
+            eng:"A singer / сИнгэ /",
+            ru:"Певец",
+            
+            },
+            {
+            id:3,
+            eng:"A chef / шЭф /",
+            ru:"Повар",
+            
+            },
+            {
+            id:4,
+            eng:"A baker / бЭйкэр /",
+            ru:"Пекарь",
+            
+            },
+            {
+            id:5,
+            eng:"An actor / Эктор /",
+            ru:"Актер",
+            
+            },
+            {
+            id:6,
+            eng:"A tailor / тЭлор /",
+            ru:"Портной",
+            
+            },
+            {
+            id:7,
+            eng:"A teacher / тИчэ /",
+            ru:"Учитель",
+            
+            },
+            {
+            id:8,
+            eng:"A magician / мэджИшэн /",
+            ru:"Фокусник",
+            
+            },
+            {
+            id:9,
+            eng:"An artist / Атист /",
+            ru:"Художник",
+            
+            },
+            {
+            id:10,
+            eng:"A hairdresser / хЭЭдрэсэ /",
+            ru:"Парикмахер",
+            
+            },
+            {
+            id:11,
+            eng:"An HR agent / Эйч Ар Эйджэнт /",
+            ru:"HR агент",
+            
+            },
+            {
+            id:12,
+            eng:"A nurse / нЁс /",
+            ru:"Медсестра",
+            
+            },
+            {
+            id:13,
+            eng:"A farmer / фАмэ /",
+            ru:"Фермер",
+            
+            },
+            {
+            id:14,
+            eng:"A florist / лОрист /",
+            ru:"Флорист",
+            
+            },
+            {
+            id:15,
+            eng:"A plumber / плАмэ /",
+            ru:"Сантехник",
+            
+            },
+            {
+            id:16,
+            eng:"A doctor / дОктэ /",
+            ru:"Доктор",
+            
+            },
+            {
+            id:17,
+            eng:"A police officer / полИс /",
+            ru:"Полицейский",
+            
+            },
+            {
+            id:18,
+            eng:"A detective / дэтЭктив /",
+            ru:"Детектив",
+            
+            },
+            {
+            id:19,
+            eng:"A dancer / дЭнсэ /",
+            ru:"Танцор",
+            
+            },
+            {
+            id:20,
+            eng:"An agent / Эйджэнт /",
+            ru:"Секрет",
+            
+            },
+            {
+            id:21,
+            eng:"A big boss",
+            ru:"Большой начальник",
+            
+            },
+            {
+            id:22,
+            eng:"A lazy ass / лЭйзи Эс /",
+            ru:"Ленивая жопка",
+            
+            },
+            {
+            id:23,
+            eng:"A baby / бЭйби /",
+            ru:"Ребёнок",
+            
+            },
+            {
+            id:24,
+            eng:"An electrician / электрИшэн /",
+            ru:"Электрик",
+            
+            },
+            {
+            id:25,
+            eng:"A writer / рАйтэр /",
+            ru:"Писатель",
+            
+            },
+            {
+            id:26,
+            eng:"A reader / рИдэр /",
+            ru:"Читатель",
+            
+            },
+            {
+            id:27,
+            eng:"A journalist / джОнэлист /",
+            ru:"Журналист",
+            
+            },
+            {
+            id:28,
+            eng:"An IT specialist / АйТи спЭшэлист /",
+            ru:"Айтишник",
+            
+            },
+            {
+            id:29,
+            eng:"A designer / дизАйнэр /",
+            ru:"Дизайнер",
+            
+            },
+            {
+            id:30,
+            eng:"A driver / дрАйвэ /",
+            ru:"Водитель",
+            
+            },
+            {
+            id:31,
+            eng:"An accountant / экАунтэнт /",
+            ru:"Бухгалтер",
+            
+            },
+            {
+            id:32,
+            eng:"A strip dancer / стрип дэнсэ /",
+            ru:"стриптизр",
+            
+            },
+            {
+            id:33,
+            eng:"A builder / бИлдэр /",
+            ru:"строитель",
+            
+            },
+            {
+            id:34,
+            eng:"A body builder / бОди бИлдэ /",
+            ru:"бодибилдер",
+            
+            },
+    ],
     grabit: [
         {
             id:1,

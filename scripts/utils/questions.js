@@ -328,6 +328,630 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    jobs02: [
+        {
+            id:101,
+            eng:"What does a dentist do?",
+            ru:"A dentist pulls out teeth in his clinic",
+            
+            },
+            {
+            id:102,
+            eng:"What does a singer do?",
+            ru:"A singer sings different songs in a concert",
+            
+            },
+            {
+            id:103,
+            eng:"What does a chef do?",
+            ru:"A chef cooks delicious food in a restaurant",
+            
+            },
+            {
+            id:104,
+            eng:"What does a baker do?",
+            ru:"A baker bakes pies and makes bread",
+            
+            },
+            {
+            id:105,
+            eng:"What does an actor do?",
+            ru:"An actor plays in movies and TV-series",
+            
+            },
+            {
+            id:106,
+            eng:"What does a tailor do?",
+            ru:"A tailor makes clothes",
+            
+            },
+            {
+            id:107,
+            eng:"What does a teacher do?",
+            ru:"A teacher teaches students at school",
+            
+            },
+            {
+            id:108,
+            eng:"What does a magician do?",
+            ru:"A magician does tricks and shows magic in a circus",
+            
+            },
+            {
+            id:109,
+            eng:"What does an artist do?",
+            ru:"An artist paints pictures",
+            
+            },
+            {
+            id:110,
+            eng:"What does a hairdresser do?",
+            ru:"A hairdresser does your hair in her salon",
+            
+            },
+            {
+            id:111,
+            eng:"What does an HR-agent do?",
+            ru:"An HR agent hires and fires people",
+            
+            },
+            {
+            id:112,
+            eng:"What does a nurse do?",
+            ru:"A nurse helps doctors",
+            
+            },
+            {
+            id:113,
+            eng:"What does a farmer do?",
+            ru:"A farmer grows vegetables and fruits on his farm",
+            
+            },
+            {
+            id:114,
+            eng:"What does a florist do?",
+            ru:"A florist sells flowers in her shop",
+            
+            },
+            {
+            id:115,
+            eng:"What does a plumber do?",
+            ru:"A plumber repairs a sink or a toilet",
+            
+            },
+            {
+            id:116,
+            eng:"What does a doctor do?",
+            ru:"A doctor examines and treats patients in a hospital",
+            
+            },
+            {
+            id:117,
+            eng:"What does a police officer do?",
+            ru:"A police officer deals with hooligans",
+            
+            },
+            {
+            id:118,
+            eng:"What does a detective do?",
+            ru:"A detective follows bad guys",
+            
+            },
+            {
+            id:119,
+            eng:"What does a dancer do?",
+            ru:"A dancer dances different dances",
+            
+            },
+            {
+            id:120,
+            eng:"What does an agent do?",
+            ru:"A secret agent does secret things",
+            
+            },
+            {
+            id:121,
+            eng:"What does a big boss do?",
+            ru:"A big boss rules and runs a big company",
+            
+            },
+            {
+            id:122,
+            eng:"What does a lazy ass do?",
+            ru:"A lazy ass does nothing all day long",
+            
+            },
+            {
+            id:123,
+            eng:"What does a baby do?",
+            ru:"A baby cries and poops all the time",
+            
+            },
+            {
+            id:124,
+            eng:"What does an electrician do?",
+            ru:"An electrician works with electricity",
+            
+            },
+            {
+            id:125,
+            eng:"What does a writer do?",
+            ru:"A writer writes different books",
+            
+            },
+            {
+            id:126,
+            eng:"What does a reader do?",
+            ru:"A reader reads books and magazines",
+            
+            },
+            {
+            id:127,
+            eng:"What does a journalist do?",
+            ru:"A journalist takes interviews and tells news",
+            
+            },
+            {
+            id:128,
+            eng:"What does an it specialist do?",
+            ru:"An IT specialist works with computers",
+            
+            },
+            {
+            id:129,
+            eng:"What does a designer do?",
+            ru:"A designer creates the design",
+            
+            },
+            {
+            id:130,
+            eng:"What does a driver do?",
+            ru:"A driver drives different transport",
+            
+            },
+            {
+            id:131,
+            eng:"What does an accountant do?",
+            ru:"An accountant counts money and salary in a company",
+            
+            },
+            {
+            id:132,
+            eng:"What does a strip dancer do?",
+            ru:"A strip dancer takes off clothes when dances",
+            
+            },
+            {
+            id:133,
+            eng:"What does a builder do?",
+            ru:"A builder builds something",
+            
+            },
+            {
+            id:134,
+            eng:"What does a body builder do?",
+            ru:"A body builder builds a stong and muscular body",
+            
+            },
+            {
+            id:135,
+            eng:"What do you do every day? What is your job? Where do you work?",
+            ru:"Что ты делаешь каждый день? Какая у тебя работа? Где ты работаешь? Учишься? Ничего не делаешь?",
+            
+            },
+    ],
+    jobs03: [
+        {
+            id:201,
+            eng:"Who pulls out teeth?",
+            ru:" / дЭнтист / A dentist does it.",
+            
+            },
+            {
+            id:202,
+            eng:"Who sings different songs?",
+            ru:" / сИнгэ / A singer does it.",
+            
+            },
+            {
+            id:203,
+            eng:"Who cooks delicious food?",
+            ru:" / шЭф / A chef does it.",
+            
+            },
+            {
+            id:204,
+            eng:"Who bakes pies and makes bread?",
+            ru:" / бЭйкэр / A baker does it.",
+            
+            },
+            {
+            id:205,
+            eng:"Who plays in movies and TV-series?",
+            ru:" / Эктор / An actor does it.",
+            
+            },
+            {
+            id:206,
+            eng:"Who makes clothes?",
+            ru:" / тЭлор / A tailor does it.",
+            
+            },
+            {
+            id:207,
+            eng:"Who teaches students at school?",
+            ru:" / тИчэ / A teacher does it.",
+            
+            },
+            {
+            id:208,
+            eng:"Who does tricks and shows magic?",
+            ru:" / мэджИшэн / A magician does it.",
+            
+            },
+            {
+            id:209,
+            eng:"Who paints pictures?",
+            ru:" / Атист / An artist does it.",
+            
+            },
+            {
+            id:210,
+            eng:"Who does your hair in a salon?",
+            ru:" / хЭЭдрэсэ / A hairdresser does it.",
+            
+            },
+            {
+            id:211,
+            eng:"Who hires and fires people?",
+            ru:" / Эйч Ар Эйджэнт / An HR agent does it.",
+            
+            },
+            {
+            id:212,
+            eng:"Who helps doctors?",
+            ru:" / нЁс / A nurse does it.",
+            
+            },
+            {
+            id:213,
+            eng:"Who grows vegetables and fruits?",
+            ru:" / фАмэ / A farmer does it.",
+            
+            },
+            {
+            id:214,
+            eng:"Who sells flowers?",
+            ru:" / лОрист / A florist does it.",
+            
+            },
+            {
+            id:215,
+            eng:"Who repairs a sink or a toilet?",
+            ru:" / плАмэ / A plumber does it.",
+            
+            },
+            {
+            id:216,
+            eng:"Who treats patients in a hospital?",
+            ru:" / дОктэ / A doctor does it.",
+            
+            },
+            {
+            id:217,
+            eng:"Who deals with hooligans?",
+            ru:" / полИс / A police officer does it.",
+            
+            },
+            {
+            id:218,
+            eng:"Who follows and catches bad guys?",
+            ru:" / дэтЭктив / A detective does it.",
+            
+            },
+            {
+            id:219,
+            eng:"Who dances different dances?",
+            ru:" / дЭнсэ / A dancer does it.",
+            
+            },
+            {
+            id:220,
+            eng:"Who does secret things?",
+            ru:" / Эйджэнт / An agent does it.",
+            
+            },
+            {
+            id:221,
+            eng:"Who rules and runs a big company?",
+            ru:" A big boss does it.",
+            
+            },
+            {
+            id:222,
+            eng:"Who does nothing all day long?",
+            ru:" / лЭйзи Эс / A lazy ass does it.",
+            
+            },
+            {
+            id:223,
+            eng:"Who cries and poops all the time?",
+            ru:" / бЭйби / A baby does it.",
+            
+            },
+            {
+            id:224,
+            eng:"Who work with electricity?",
+            ru:" / электрИшэн / An electrician does it.",
+            
+            },
+            {
+            id:225,
+            eng:"Who writes different books?",
+            ru:" / рАйтэр / A writer does it.",
+            
+            },
+            {
+            id:226,
+            eng:"Who reads books and magazines?",
+            ru:" / рИдэр / A reader does it.",
+            
+            },
+            {
+            id:227,
+            eng:"Who takes interviews and tells news?",
+            ru:" / джОнэлист / A journalist does it.",
+            
+            },
+            {
+            id:228,
+            eng:"Who works with computers?",
+            ru:" / АйТи спЭшэлист / An IT specialist does it.",
+            
+            },
+            {
+            id:229,
+            eng:"Who creates the design?",
+            ru:" / дизАйнэр / A designer does it.",
+            
+            },
+            {
+            id:230,
+            eng:"Who drives different transport?",
+            ru:" / дрАйвэ / A driver does it.",
+            
+            },
+            {
+            id:231,
+            eng:"Who counts money and salary in a company?",
+            ru:" / экАунтэнт / An accountant does it.",
+            
+            },
+            {
+            id:232,
+            eng:"Who takes off clothes when dances?",
+            ru:" / стрип дэнсэ / A strip dancer does it.",
+            
+            },
+            {
+            id:233,
+            eng:"Who builds something?",
+            ru:" / бИлдэр / A builder does it.",
+            
+            },
+            {
+            id:234,
+            eng:"Who builds a stong muscular body?",
+            ru:" / бОди бИлдэ / A body builder does it.",
+            
+            },
+    ],
+    jobs04: [
+        {
+            id:37,
+            eng:"pull out teeth",
+            ru:"выдёргивать зубы",
+            
+            },
+            {
+            id:38,
+            eng:"sing different songs",
+            ru:"петь разные песни",
+            
+            },
+            {
+            id:39,
+            eng:"cook delicious food / делИшэз /",
+            ru:"готовить вкусную еду",
+            
+            },
+            {
+            id:40,
+            eng:"bake pies and make bread / бЭйк пАйз /",
+            ru:"печь пироги и делать хлеб",
+            
+            },
+            {
+            id:41,
+            eng:"play in movies and TV-series",
+            ru:"сниматься в фильмах и телесериалах",
+            
+            },
+            {
+            id:42,
+            eng:"make clothes / клОУз /",
+            ru:"делать одежду",
+            
+            },
+            {
+            id:43,
+            eng:"teach students at school / тич /",
+            ru:"преподавать ученикам в школе",
+            
+            },
+            {
+            id:44,
+            eng:"do tricks and show magic / мЭджик /",
+            ru:"делать трюки и показывать магию",
+            
+            },
+            {
+            id:45,
+            eng:"paint pictures / пИкчез /",
+            ru:"рисовать картины",
+            
+            },
+            {
+            id:46,
+            eng:"do hair in a salon / ду хЭЭ ин э сэлУн /",
+            ru:"делать прически в салоне, заниматься волосами",
+            
+            },
+            {
+            id:47,
+            eng:"hire and fire people / хАйэ эн фАйэ пипл /",
+            ru:"нанимать и увольнять людей",
+            
+            },
+            {
+            id:48,
+            eng:"help doctors",
+            ru:"помогать врачам",
+            
+            },
+            {
+            id:49,
+            eng:"grow vegetables and fruits / вЭджэтэблз /",
+            ru:"выращивать овощи и фрукты",
+            
+            },
+            {
+            id:50,
+            eng:"sell flowers",
+            ru:"продавать цветы",
+            
+            },
+            {
+            id:51,
+            eng:"repair a sink or a toilet / рипЭЭ /",
+            ru:"ремонтировать раковину или унитаз",
+            
+            },
+            {
+            id:52,
+            eng:"treat patients in a hospital / трИ пЭйшэнтс /",
+            ru:"лечить пациентов в больнице",
+            
+            },
+            {
+            id:53,
+            eng:"deal with hooligans / дИл /",
+            ru:"иметь дело с хулиганами",
+            
+            },
+            {
+            id:54,
+            eng:"follow and catch bad guys / фОллоу эн кЭч /",
+            ru:"следить и ловить плохих парней",
+            
+            },
+            {
+            id:55,
+            eng:"dance different dances",
+            ru:"танцевать разные танцы",
+            
+            },
+            {
+            id:56,
+            eng:"do secret things",
+            ru:"делать секретные вещи",
+            
+            },
+            {
+            id:57,
+            eng:"rule and run a big company",
+            ru:"управлять и вести большую компанию",
+            
+            },
+            {
+            id:58,
+            eng:"do nothing all day long",
+            ru:"ничего не делать весь день напролёт",
+            
+            },
+            {
+            id:59,
+            eng:"cry and poop all the time",
+            ru:"ныть, плакать и какать все время",
+            
+            },
+            {
+            id:60,
+            eng:"work with electricity / электрИсити /",
+            ru:"работать с электричеством",
+            
+            },
+            {
+            id:61,
+            eng:"write different books",
+            ru:"писать разные книги",
+            
+            },
+            {
+            id:62,
+            eng:"read books and magazines",
+            ru:"читать книги и журналы",
+            
+            },
+            {
+            id:63,
+            eng:"take interviews and tell news / Интэрвьюз /",
+            ru:"брать интервью и рассказывать новости",
+            
+            },
+            {
+            id:64,
+            eng:"work with computers",
+            ru:"работать с компьютерами",
+            
+            },
+            {
+            id:65,
+            eng:"create the design / криЭйт дэ дизАйн /",
+            ru:"создавать дизайн",
+            
+            },
+            {
+            id:66,
+            eng:"drive different transport",
+            ru:"управлять, водить разный транспорт",
+            
+            },
+            {
+            id:67,
+            eng:"count money and salary in a company / кАунт мАни эн сЭлэри /",
+            ru:"считать деньги и зарплату в компании",
+            
+            },
+            {
+            id:68,
+            eng:"take off clothes when dances",
+            ru:"снимать одежду когда тунцуешь",
+            
+            },
+            {
+            id:69,
+            eng:"build something / билД /",
+            ru:"строить что-нибудь",
+            
+            },
+            {
+            id:70,
+            eng:"build a stong and muscular body / билд мАскула боди /",
+            ru:"строить сильное и мускулистое тело",
+            
+            },
+    ],
     grabit: [
         {
             id:1,

@@ -97,6 +97,1256 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    examT1: [
+        {
+            id: 1,
+            quizQuestion: "Did you buy ….. good vegetables?",
+            answers: [
+            {
+            answer: "any",
+            correct: true
+            },
+            {
+            answer: "some",
+            correct: false
+            },
+            {
+            answer: "anything",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "She …….. speaks on the phone.",
+            answers: [
+            {
+            answer: "never",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "isn't",
+            correct: false
+            },
+            {
+            answer: "doesn't never",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "We have ……. sugar in the kitchen.",
+            answers: [
+            {
+            answer: "little",
+            correct: true
+            },
+            {
+            answer: "few",
+            correct: false
+            },
+            {
+            answer: "any",
+            correct: false
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "I am sure I ……… read it.",
+            answers: [
+            {
+            answer: "can",
+            correct: true
+            },
+            {
+            answer: "can to",
+            correct: false
+            },
+            {
+            answer: "doesn't should",
+            correct: false
+            },
+            {
+            answer: "should to",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "This man…….. home.",
+            answers: [
+            {
+            answer: "has to go",
+            correct: true
+            },
+            {
+            answer: "must to go",
+            correct: false
+            },
+            {
+            answer: "have to go",
+            correct: false
+            },
+            {
+            answer: "have to goes",
+            correct: false
+            },
+            {
+            answer: "needs go",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "I know her, but I don’t know……..",
+            answers: [
+            {
+            answer: "him",
+            correct: true
+            },
+            {
+            answer: "hers",
+            correct: false
+            },
+            {
+            answer: "his",
+            correct: false
+            },
+            {
+            answer: "theirs",
+            correct: false
+            },
+            {
+            answer: "its",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "She ……. help me.",
+            answers: [
+            {
+            answer: "can't",
+            correct: true
+            },
+            {
+            answer: "can't to",
+            correct: false
+            },
+            {
+            answer: "doesn't can to",
+            correct: false
+            },
+            {
+            answer: "can't to",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "I ……. a dog.",
+            answers: [
+            {
+            answer: "haven't",
+            correct: true
+            },
+            {
+            answer: "don't has",
+            correct: false
+            },
+            {
+            answer: "don't have",
+            correct: false
+            },
+            {
+            answer: "hasn't",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "It ……. rains in Ireland.",
+            answers: [
+            {
+            answer: "often",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "is always",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "I never shout at ………",
+            answers: [
+            {
+            answer: "them",
+            correct: true
+            },
+            {
+            answer: "their",
+            correct: false
+            },
+            {
+            answer: "our",
+            correct: false
+            },
+            {
+            answer: "his",
+            correct: false
+            },
+            {
+            answer: "my",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "She ………!!!!",
+            answers: [
+            {
+            answer: "is always eating",
+            correct: true
+            },
+            {
+            answer: "always eat",
+            correct: false
+            },
+            {
+            answer: "is always eats",
+            correct: false
+            },
+            {
+            answer: "eating",
+            correct: false
+            },
+            {
+            answer: "ates",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "He enjoys …………",
+            answers: [
+            {
+            answer: "playing Poker",
+            correct: true
+            },
+            {
+            answer: "to playing Poker",
+            correct: false
+            },
+            {
+            answer: "to play Poker",
+            correct: false
+            },
+            {
+            answer: "to plays Poker",
+            correct: false
+            },
+            {
+            answer: "play Poker",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "They must ….. everything.",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "to do",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            {
+            answer: "doing",
+            correct: false
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "I have a lot of …………",
+            answers: [
+            {
+            answer: "teeth",
+            correct: true
+            },
+            {
+            answer: "tooth",
+            correct: false
+            },
+            {
+            answer: "tooths",
+            correct: false
+            },
+            {
+            answer: "toothes",
+            correct: false
+            },
+            {
+            answer: "teeths",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "She didn’t drink   ……. coffee.",
+            answers: [
+            {
+            answer: "much",
+            correct: true
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            {
+            answer: "a few",
+            correct: false
+            },
+            {
+            answer: "few",
+            correct: false
+            },
+            {
+            answer: "no",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Who …….. with you?",
+            answers: [
+            {
+            answer: "lives",
+            correct: true
+            },
+            {
+            answer: "does live",
+            correct: false
+            },
+            {
+            answer: "live",
+            correct: false
+            },
+            {
+            answer: "do live",
+            correct: false
+            },
+            {
+            answer: "is live",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "How ….. cheese do they have?",
+            answers: [
+            {
+            answer: "much",
+            correct: true
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            {
+            answer: "a lot of",
+            correct: false
+            },
+            {
+            answer: "few",
+            correct: false
+            },
+            {
+            answer: "lots of",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "He wants to ……….. some sport.",
+            answers: [
+            {
+            answer: "do",
+            correct: true
+            },
+            {
+            answer: "make",
+            correct: false
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            {
+            answer: "go",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "I …….. it 2 years ago.",
+            answers: [
+            {
+            answer: "didn't do",
+            correct: true
+            },
+            {
+            answer: "don't did",
+            correct: false
+            },
+            {
+            answer: "don't do",
+            correct: false
+            },
+            {
+            answer: "wasn't do",
+            correct: false
+            },
+            {
+            answer: "were",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Where ….…… last night?",
+            answers: [
+            {
+            answer: "were you",
+            correct: true
+            },
+            {
+            answer: "was you",
+            correct: false
+            },
+            {
+            answer: "you were",
+            correct: false
+            },
+            {
+            answer: "did you be",
+            correct: false
+            },
+            {
+            answer: "did you was",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "I want to give up………",
+            answers: [
+            {
+            answer: "smoking",
+            correct: true
+            },
+            {
+            answer: "smoke",
+            correct: false
+            },
+            {
+            answer: "to smoke",
+            correct: false
+            },
+            {
+            answer: "to smoking",
+            correct: false
+            },
+            {
+            answer: "smoked",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "They like……but they don’t know……names",
+            answers: [
+            {
+            answer: "us , our",
+            correct: true
+            },
+            {
+            answer: "ours , us",
+            correct: false
+            },
+            {
+            answer: "our , ours",
+            correct: false
+            },
+            {
+            answer: "our , us",
+            correct: false
+            },
+            {
+            answer: "our , our",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "There …… windows in my living room.",
+            answers: [
+            {
+            answer: "are some",
+            correct: true
+            },
+            {
+            answer: "is some",
+            correct: false
+            },
+            {
+            answer: "aren't some",
+            correct: false
+            },
+            {
+            answer: "is any",
+            correct: false
+            },
+            {
+            answer: "aren't no",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "……. car is it? – It’s mine.",
+            answers: [
+            {
+            answer: "whose",
+            correct: true
+            },
+            {
+            answer: "where",
+            correct: false
+            },
+            {
+            answer: "why",
+            correct: false
+            },
+            {
+            answer: "when",
+            correct: false
+            },
+            {
+            answer: "whom",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "Are you going to the party? – Yes, I…….",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "did",
+            correct: false
+            },
+            {
+            answer: "going",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "The milk ……. good yesterday.",
+            answers: [
+            {
+            answer: "was",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "were",
+            correct: false
+            },
+            {
+            answer: "did",
+            correct: false
+            },
+            {
+            answer: "will be",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "How many brothers and sisters……..?",
+            answers: [
+            {
+            answer: "do you have",
+            correct: true
+            },
+            {
+            answer: "are you having",
+            correct: false
+            },
+            {
+            answer: "you have",
+            correct: false
+            },
+            {
+            answer: "have you",
+            correct: false
+            },
+            {
+            answer: "are you",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "We called …. when we ……. in France.",
+            answers: [
+            {
+            answer: "them , were",
+            correct: true
+            },
+            {
+            answer: "them , was",
+            correct: false
+            },
+            {
+            answer: "their , were",
+            correct: false
+            },
+            {
+            answer: "theirs , was",
+            correct: false
+            },
+            {
+            answer: "they , were",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "……….... cat is stupid.",
+            answers: [
+            {
+            answer: "Rachel and Oliver's",
+            correct: true
+            },
+            {
+            answer: "Rachel's and Oliver's",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "…… you going to the concert tonight?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "do",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "when",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "…. you …. him at the museum?",
+            answers: [
+            {
+            answer: "did , find",
+            correct: true
+            },
+            {
+            answer: "did , found",
+            correct: false
+            },
+            {
+            answer: "were , find",
+            correct: false
+            },
+            {
+            answer: "were , finding",
+            correct: false
+            },
+            {
+            answer: "do , found",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "My aunt is going ……… me on Sunday.",
+            answers: [
+            {
+            answer: "to visit",
+            correct: true
+            },
+            {
+            answer: "visiting",
+            correct: false
+            },
+            {
+            answer: "to visiting",
+            correct: false
+            },
+            {
+            answer: "visit",
+            correct: false
+            },
+            {
+            answer: "to visits",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "Would you do it? – No, I……. never do it.",
+            answers: [
+            {
+            answer: "would",
+            correct: true
+            },
+            {
+            answer: "don't would",
+            correct: false
+            },
+            {
+            answer: "wouldn't",
+            correct: false
+            },
+            {
+            answer: "wasn't",
+            correct: false
+            },
+            {
+            answer: "will not",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "Who are ……. people?",
+            answers: [
+            {
+            answer: "those",
+            correct: true
+            },
+            {
+            answer: "this",
+            correct: false
+            },
+            {
+            answer: "that",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "them",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "My niece wants ……… a dancer.",
+            answers: [
+            {
+            answer: "to become",
+            correct: true
+            },
+            {
+            answer: "to becoming",
+            correct: false
+            },
+            {
+            answer: "to became",
+            correct: false
+            },
+            {
+            answer: "to becomes",
+            correct: false
+            },
+            {
+            answer: "becoming",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "Where …… her trousers?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "did",
+            correct: false
+            },
+            {
+            answer: "be",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "…… children are clever.",
+            answers: [
+            {
+            answer: "your",
+            correct: true
+            },
+            {
+            answer: "you",
+            correct: false
+            },
+            {
+            answer: "yours",
+            correct: false
+            },
+            {
+            answer: "them",
+            correct: false
+            },
+            {
+            answer: "ours",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "Now she ……..   him.",
+            answers: [
+            {
+            answer: "hates",
+            correct: true
+            },
+            {
+            answer: "hate",
+            correct: false
+            },
+            {
+            answer: "is hating",
+            correct: false
+            },
+            {
+            answer: "don't hate",
+            correct: false
+            },
+            {
+            answer: "hating",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "I’m going ……. home with you.",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "at",
+            correct: false
+            },
+            {
+            answer: "to",
+            correct: false
+            },
+            {
+            answer: "in",
+            correct: false
+            },
+            {
+            answer: "inside",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 40,
+            quizQuestion: "She ……… soon.",
+            answers: [
+            {
+            answer: "is leaving",
+            correct: true
+            },
+            {
+            answer: "leaves",
+            correct: false
+            },
+            {
+            answer: "can leaves",
+            correct: false
+            },
+            {
+            answer: "leave",
+            correct: false
+            },
+            {
+            answer: "leaving",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 41,
+            quizQuestion: "What time ………. home yesterday?",
+            answers: [
+            {
+            answer: "did Vincent come",
+            correct: true
+            },
+            {
+            answer: "as Vincent come",
+            correct: false
+            },
+            {
+            answer: "Vincent came",
+            correct: false
+            },
+            {
+            answer: "did Vincent came",
+            correct: false
+            },
+            {
+            answer: "did Vincent comes",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 42,
+            quizQuestion: "I …….. silly.",
+            answers: [
+            {
+            answer: "am not",
+            correct: true
+            },
+            {
+            answer: "amn't",
+            correct: false
+            },
+            {
+            answer: "isn't",
+            correct: false
+            },
+            {
+            answer: "aren't",
+            correct: false
+            },
+            {
+            answer: "be not",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 43,
+            quizQuestion: "Who ….… breakfast with?",
+            answers: [
+            {
+            answer: "did you have",
+            correct: true
+            },
+            {
+            answer: "did you had",
+            correct: false
+            },
+            {
+            answer: "had",
+            correct: false
+            },
+            {
+            answer: "had you",
+            correct: false
+            },
+            {
+            answer: "you ate",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 44,
+            quizQuestion: "What …….?",
+            answers: [
+            {
+            answer: "does she want",
+            correct: true
+            },
+            {
+            answer: "she wants",
+            correct: false
+            },
+            {
+            answer: "does she wants",
+            correct: false
+            },
+            {
+            answer: "wants she",
+            correct: false
+            },
+            {
+            answer: "is she wanting",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 45,
+            quizQuestion: "His friends are ……………………",
+            answers: [
+            {
+            answer: "firemen",
+            correct: true
+            },
+            {
+            answer: "a fireman",
+            correct: false
+            },
+            {
+            answer: "firemens",
+            correct: false
+            },
+            {
+            answer: "a firemen",
+            correct: false
+            },
+            {
+            answer: "firemans",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 46,
+            quizQuestion: "London is ……. than Paris.",
+            answers: [
+            {
+            answer: "better",
+            correct: true
+            },
+            {
+            answer: "more good",
+            correct: false
+            },
+            {
+            answer: "gooder",
+            correct: false
+            },
+            {
+            answer: "the best",
+            correct: false
+            },
+            {
+            answer: "the besterest",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "….. help me?",
+            answers: [
+            {
+            answer: "can you",
+            correct: true
+            },
+            {
+            answer: "can you to",
+            correct: false
+            },
+            {
+            answer: "do you can",
+            correct: false
+            },
+            {
+            answer: "you can",
+            correct: false
+            },
+            {
+            answer: "are you can",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "I ….. agree.",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "am not",
+            correct: false
+            },
+            {
+            answer: "wasn't",
+            correct: false
+            },
+            {
+            answer: "am never",
+            correct: false
+            },
+            ]
+            },
+    ],
     m000: [
         {
             id: 1,
