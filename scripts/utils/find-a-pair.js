@@ -663,7 +663,7 @@ const allCardsGameFindAPair = {
             {
             id:20,
             eng:"An agent / Эйджэнт /",
-            ru:"Секрет",
+            ru:"Агент",
             
             },
             {

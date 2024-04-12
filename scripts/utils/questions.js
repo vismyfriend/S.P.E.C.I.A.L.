@@ -445,7 +445,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:120,
-            eng:"What does an agent do?",
+            eng:"What does a secret agent do?",
             ru:"A secret agent does secret things",
             
             },
@@ -530,7 +530,7 @@ const allQuestionsOneDeck = {
             {
             id:134,
             eng:"What does a body builder do?",
-            ru:"A body builder builds a stong and muscular body",
+            ru:"A body builder builds a strong and muscular body",
             
             },
             {
@@ -741,7 +741,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:234,
-            eng:"Who builds a stong muscular body?",
+            eng:"Who builds a strong muscular body?",
             ru:" / бОди бИлдэ / A body builder does it.",
             
             },
@@ -947,7 +947,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:70,
-            eng:"build a stong and muscular body / билд мАскула боди /",
+            eng:"build a strong and muscular body / билд мАскула боди /",
             ru:"строить сильное и мускулистое тело",
             
             },
