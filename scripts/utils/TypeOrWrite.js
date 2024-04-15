@@ -8135,6 +8135,80 @@ const allWordsForGameTypeOrWrite = {
                 hint:"/ бит /"
                 },
 ],
+m12bombs: [
+    {
+        id:1,
+        eng:"dictionary",
+        ru:"словарь",
+        hint:" / дИкшэнэри /"
+        },
+        {
+        id:2,
+        eng:"nose",
+        ru:"нос",
+        hint:" / ноуз /"
+        },
+        {
+        id:3,
+        eng:"head",
+        ru:"голова",
+        hint:" / хэд /"
+        },
+        {
+        id:4,
+        eng:"leg",
+        ru:"нога",
+        hint:" / лэг /"
+        },
+        {
+        id:5,
+        eng:"foot",
+        ru:"ступня",
+        hint:" / фут /"
+        },
+        {
+        id:6,
+        eng:"eye",
+        ru:"глаз",
+        hint:" / ай /"
+        },
+        {
+        id:7,
+        eng:"ear",
+        ru:"ухо",
+        hint:" / Иа /"
+        },
+        {
+        id:8,
+        eng:"knee",
+        ru:"коленка",
+        hint:" / ни /"
+        },
+        {
+        id:9,
+        eng:"mouth",
+        ru:"рот",
+        hint:" / мауTH /"
+        },
+        {
+        id:10,
+        eng:"teeth",
+        ru:"зубы",
+        hint:" / тиTH /"
+        },
+        {
+        id:11,
+        eng:"find",
+        ru:"находить ",
+        hint:" / файнд /"
+        },
+        {
+        id:12,
+        eng:"words",
+        ru:"слова",
+        hint:" / вордз /"
+        },
+],
 tagquestions: [
     {
         id:1,
