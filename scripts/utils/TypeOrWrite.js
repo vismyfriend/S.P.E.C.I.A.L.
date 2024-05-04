@@ -8152,19 +8152,19 @@ m12bombs: [
         id:3,
         eng:"head",
         ru:"голова",
-        hint:" / хэд /"
+        hint:" / хЭд /"
         },
         {
         id:4,
-        eng:"leg",
-        ru:"нога",
-        hint:" / лэг /"
+        eng:"hair",
+        ru:"волосы",
+        hint:" / хЭa /"
         },
         {
         id:5,
-        eng:"foot",
-        ru:"ступня",
-        hint:" / фут /"
+        eng:"lazy",
+        ru:"ленивые",
+        hint:" / лЭйзи /"
         },
         {
         id:6,
