@@ -97,6 +97,632 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    areamis1: [
+        {
+            id: 1,
+            quizQuestion: "You ___ my teacher.",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "My teacher ___ not boring",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "I ___ collect money ( деньги )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "My collection of money ___ not very big yet",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "They ___ collect magnets ( магниты )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "You ___ good / гуд / хороший",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "It ___ good / гуд / хорошо",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "I ___ like Vincent ( мне нравится Винсент )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "I ___ fat /фэт/",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "They ___ help you ( они помогают тебе )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "They ___ awesome / осм /",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "She ___ slim",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "She ___ loves English ( она любит английский )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "He ___ invisible / инвИзибл /",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "He ___ a bad boy! ( он плохой мальчик )",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "He ___ plays games ( он играет в игры )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "We ___ speak Russian and English ( мы говорим на русском и на английском )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "We ___ handsome boys",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "You ___ beautiful girls",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Без чего не бывает ни одного английского предложения?",
+            answers: [
+            {
+            answer: "без глаголов",
+            correct: true
+            },
+            {
+            answer: "без   Are, Am, Is",
+            correct: false
+            },
+            {
+            answer: "без Google-переводчика",
+            correct: false
+            },
+            {
+            answer: "без предлогов",
+            correct: false
+            },
+            {
+            answer: "без прилагательных",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Как переводятся Are , am , is ?",
+            answers: [
+            {
+            answer: "никак не переводятся, это глаголы-невидимки",
+            correct: true
+            },
+            {
+            answer: "есть, пить, спать",
+            correct: false
+            },
+            {
+            answer: "быть, буду, есть",
+            correct: false
+            },
+            {
+            answer: "I am, You are, She is",
+            correct: false
+            },
+            {
+            answer: "Мушкетёр Арамис Имя",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "I ___ not ugly / Агли /",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "I ___ not disgusting / дисгАстин /",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего)",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "I ___ love you",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+    ],
     examT1: [
         {
             id: 1,

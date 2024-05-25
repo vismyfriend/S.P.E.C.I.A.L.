@@ -20,6 +20,80 @@ const allWordsForGameTypeOrWrite = {
             ru:"третий"
             },
     ],
+    spellingbombs: [
+        {
+            id:1,
+            eng:"invisible",
+            ru:"невидимый",
+            hint:" / инвИзибл /"
+            },
+            {
+            id:2,
+            eng:"awesome",
+            ru:"обалденный, офигенный",
+            hint:" / осм /"
+            },
+            {
+            id:3,
+            eng:"handsome",
+            ru:"красивый ( о мужчинах )",
+            hint:" / хЭнсам /"
+            },
+            {
+            id:4,
+            eng:"fat",
+            ru:"жирный",
+            hint:" / фэт /"
+            },
+            {
+            id:5,
+            eng:"bad",
+            ru:"плохой",
+            hint:" / бэд /"
+            },
+            {
+            id:6,
+            eng:"boring",
+            ru:"скучные",
+            hint:" / бОрин /"
+            },
+            {
+            id:7,
+            eng:"special",
+            ru:"особенный",
+            hint:" / спэшл /"
+            },
+            {
+            id:8,
+            eng:"disgusting",
+            ru:"отвратительные",
+            hint:" / дисгАстин /"
+            },
+            {
+            id:9,
+            eng:"slim",
+            ru:"стройный",
+            hint:" / слим /"
+            },
+            {
+            id:10,
+            eng:"old",
+            ru:"старый",
+            hint:" / олд /"
+            },
+            {
+            id:11,
+            eng:"ugly",
+            ru:"уродливые",
+            hint:" / Агли /"
+            },
+            {
+            id:12,
+            eng:"big",
+            ru:"большой, большая, большое, большие",
+            hint:" / биг /"
+            },
+    ],
     bodyA1: [
         {
             id:101,
@@ -232,7 +306,7 @@ const allWordsForGameTypeOrWrite = {
             hint:" / э лэг /"
             },
     ],
-    m001: [
+    first2lessons: [
         {
             id:1,
             eng:"collection",
@@ -7130,7 +7204,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:6,
             eng:"are",
-            ru:"ARE  или  AM  или  IS  ? My bro and my sis ___ cool."
+            ru:"ARE  или  AM  или  IS  ? My brother and my sister ___ cool."
             },
             {
             id:7,
