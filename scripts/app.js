@@ -2,6 +2,7 @@ import allCardsGameFindAPair from "./utils/find-a-pair.js"
 import allQuestionsOneDeck from "./utils/questions.js"
 // import allQuestionsSecondDeck from "./utils/questions.js"
 import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
+import allWordsForScrambledGame from "./utils/ScrambledGame.js"
 import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
 import quizQuestionsList from "./utils/QuizQData.js"
@@ -90,6 +91,9 @@ function getArray(set) {
     chooseTypeOrWrite = allWordsForGameTypeOrWrite[set]?.sort(function () {
         return Math.random() - 0.5;
     });
+    chooseScrambledGame = allWordsForScrambledGame[set]?.sort(function () {
+        return Math.random() - 0.5;
+    });
     benderWordOrderSentences[set]?.sort(function () {
         return Math.random() - 0.5;
     });
@@ -105,6 +109,7 @@ function doWeHaveThisGame(set) {
     if (!quizQuestionsList[set]) multipleChoiceQuiz.classList.remove("show")
     if (!benderWordOrderSentences[set]) BenderWordOrderGameButton.classList.remove("show")
     if (!allWordsForGameTypeOrWrite[set]) startGameTNTbutton.classList.remove("show")
+    if (!allWordsForScrambledGame[set]) scrambledstartGameTNTbutton.classList.remove("show")
 
 
 
@@ -149,6 +154,7 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     // InputTypeOrWriteGame.classList.add("show")
     popupMissionsAndSetsGameFindAPair.classList.add("show")
     startGameTNTbutton.classList.add("show")
+    scrambledstartGameTNTbutton.classList.add("show")
     slotMachine.classList.add("show")
     multipleChoiceQuiz.classList.add("show")
     copyThisForNewGames?.classList.add("show")
@@ -172,6 +178,7 @@ function backToTheVeryFirstScreen() {
     scoreGameBenderWordOrderGame = 0
     scoreTypeOrWriteGame = 0
     scoreTNTGame = 0
+    scrambledscoreTNTGame = 0
     lifeGameBenderWordOrderGame = 5
     n = -1
     
@@ -187,16 +194,22 @@ function backToTheVeryFirstScreen() {
     multipleChoiceQuiz.classList.remove("show")
     BenderWordOrderGameButton.classList.remove("show")
     startGameTNTbutton.classList.remove("show")
+    scrambledstartGameTNTbutton.classList.remove("show")
     gameFindAPair.classList.remove("open")
     popupMissionsAndSets.classList.remove("close")
     popupMissionsAndSets.classList.remove("none")
     gameTNT.classList.add("none")
+    scrambledgameTNT.classList.add("none")
     clickTest.classList.add("none")
     TNTgameCounter.classList.add("none")
+    scrambledTNTgameCounter.classList.add("none")
     usedCheatsText.classList.remove("visible")
     clearInterval(TNTtimerMechanics)
+    clearInterval(scrambledTNTtimerMechanics)
     TNTbeforeExplosion = 30
+    scrambledTNTbeforeExplosion = 30
     scoreTNTGame = 0
+    scrambledscoreTNTGame = 0
     playerInputType.value = ""
     scoreTypeOrWriteGame = 0
     typeOrWriteNumber = 0
@@ -214,12 +227,16 @@ function backToTheVeryFirstScreen() {
     typeOrWriteNumber = 0
     gameFindAPairContainer.innerHTML = ""
     TNTuserInput.value = ""
+    scrambledTNTuserInput.value = ""
 
     TNTgameTaskHint.classList.remove("green")
+    scrambledTNTgameTaskHint.classList.remove("green")
 
 
     TNTgameButtonStartAgain.classList.add("none")
+    scrambledTNTgameButtonStartAgain.classList.add("none")
     TNTgameTaskHint.textContent = "Чтобы обезвредить бомбы напиши на английском:"
+    scrambledTNTgameTaskHint.textContent = "Кто-то перемешал буквы! Восстанови порядок :"
     // BenderWordOrderGameContainerOne.classList.add("none")
     // currentSet = null
     // dataFromEachPopupMissionsAndSets.forEach((set) => {
@@ -334,6 +351,7 @@ let selectCard = null
 let chosenArray = null
 let chooseQuestions = null
 let chooseTypeOrWrite = null
+let chooseScrambledGame = null
 let min = 0
 let max = 6
 let tens = "00"
@@ -346,6 +364,7 @@ let pairsRemainToMatch = 0
 let value = null
 let questionNumber = 0
 let typeOrWriteNumber = 0
+let scrambledtypeOrWriteNumber = 0
 
 popupMissionsAndSetsGameFindAPair.addEventListener("click", startGameFindPairs)
 
@@ -759,6 +778,7 @@ const typeOrWriteGameСounter = document.querySelector(".typeOrWriteGame-counter
 let scoreGameBenderWordOrderGame = 0
 let scoreTypeOrWriteGame = 0
 let scoreTNTGame = 0
+let scrambledscoreTNTGame = 0
 let lifeGameBenderWordOrderGame = 5
 // уменьшая жизни принудительно изменить width
 let n = -1
@@ -911,7 +931,7 @@ cheatGameBenderWordOrderGame.addEventListener("click", () => {
 
 
 
-// ниже spelling game TypeOrWrite правописание скоро возможно заменю ее на бомбу игру про взрывчатку
+// ниже spelling game TypeOrWrite правописание скоро возможно заменю ее на бомбу игру про взрывчатку (или уже заменил)
 const InputTypeOrWriteGame = document.querySelector(".popupMissionsAndSets__InputTypeOrWriteGame")
 const typeOrWriteGameButtonIDK = document.querySelector(".typeOrWriteGameButtonIDK")
 const typeOrWriteGameButtonSkip = document.querySelector(".typeOrWriteGameButtonSkip")
@@ -1326,6 +1346,238 @@ function restartTNTgame() {
 
 
 //новая игра про бомбу TNT выше
+
+
+
+// scrambledGame ниже
+
+let scrambledTNTtimerMechanics
+let scrambledTNTbeforeExplosion = 1
+let scrambledTNTtimerFormat
+
+const scrambledgameTNT = document.querySelector(".scrambledTNTgameContainer")
+const scrambledstartGameTNTbutton = document.querySelector(".popupMissionsAndSets__scrambledstartGameTNT")
+const scrambledTNTgameTaskValue = document.querySelector(".scrambledTNTgameTaskValue")
+const scrambledTNTgameScrambledPhraseValue = document.querySelector(".scrambledTNTgameScrambledPhraseValue")
+
+scrambledstartGameTNTbutton.addEventListener("click", scrambledstartGameTNT)
+
+
+
+
+const scrambledTNTtimer = document.querySelector(".scrambledTNTtimer")
+const scrambledTNTbuttonCompare = document.querySelector(".scrambledTNTgameButtonCompare")
+const scrambledTNTgameButtonStartAgain = document.querySelector(".scrambledTNTgameButtonStartAgain")
+const scrambledTNTuserInput = document.querySelector(".scrambledTNTgamePlayerInputType")
+const scrambledTNTgameTaskHint = document.querySelector(".scrambledTNTgameTaskHint")
+const scrambledTNTgameInfo = document.querySelector(".scrambledTNTgameInfo")
+const scrambledTNTgameCounter = document.querySelector(".scrambledTNTgame-counter")
+const scrambledTNTgameButtonIDK = document.querySelector(".scrambledTNTgameButtonIDK")
+const scrambledTNTgameButtonAnswer = document.querySelector(".scrambledTNTgameButtonAnswer")
+
+scrambledTNTbuttonCompare.addEventListener("click", scrambledcompareTNTinput)
+
+
+
+// эта функция будет перемешивать буквы и создавать квадратики для каждой буквы
+function scrambleWordFromArray() {
+    value = chooseScrambledGame[scrambledtypeOrWriteNumber]
+    console.log(value.eng)
+    
+}
+
+// сравниваем буквы
+function compareLetters() {
+
+}
+
+function scrambledstartGameTNT() {
+    scrambledTNTtimer.textContent = `00:${scrambledTNTbeforeExplosion}`
+    popupMissionsAndSets.classList.add("none")
+    gameTNT.classList.add("none")
+    scrambledgameTNT.classList.remove("none")
+    clickTest.classList.add("none")
+    value = chooseScrambledGame[scrambledtypeOrWriteNumber]
+    scrambledTNTgameTaskValue.textContent = value.ru
+    scrambledTNTgameScrambledPhraseValue.textContent = "TIHS SI HPAPSINENS" 
+    scrambledTNTgameCounter.classList.add("none")
+    usedCheatsText.classList.remove("visible")
+    clearInterval(scrambledTNTtimerMechanics)
+    scrambledTNTstartTimer()
+    scrambledTNTgameButtonIDK.classList.remove("none")
+    scrambledTNTgameButtonAnswer.classList.add("none")
+    scrambledTNTbuttonCompare.classList.remove("none")
+    scrambledTNTbuttonCompare.classList.remove("none")
+    scrambledTNTgameButtonStartAgain.classList.add("none")
+    scrambleWordFromArray()
+}
+
+function scrambledTNTstartTimer() {
+    scrambledTNTtimerMechanics = setInterval(() => {
+        if (scrambledTNTbeforeExplosion <= 0) scrambledTNTgameover()
+
+        // GREAT TIMER function by EGORCHIK!
+        // % - остаток от деления 
+        scrambledTNTtimerFormat = `${Math.trunc(scrambledTNTbeforeExplosion / 60) > 9
+            ? Math.trunc(scrambledTNTbeforeExplosion / 60)
+            : '0' + Math.trunc(scrambledTNTbeforeExplosion / 60)}:${Math.trunc(scrambledTNTbeforeExplosion % 60) > 9
+                ? Math.trunc(scrambledTNTbeforeExplosion % 60)
+                : '0' + Math.trunc(scrambledTNTbeforeExplosion % 60)}`
+
+                scrambledTNTtimer.textContent = scrambledTNTtimerFormat
+                scrambledTNTbeforeExplosion++
+    }, 1000) //1000 это одна секунда (в милискунда)
+}
+function scrambledTNTgameover() {
+    scrambledTNTgameInfo.textContent = "B💥💥m!"
+    clearInterval(scrambledTNTtimerMechanics)
+    scrambledTNTgameTaskHint.textContent = `обезврежено :  ${scrambledscoreTNTGame} out of ${chooseScrambledGame.length} bombs`
+    scrambledTNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
+    // TNTuserInput.value = `or 👇 deactivate more`
+    scrambledTNTuserInput.value = `🧨 или обезвредь больше 🧨`
+    scrambledTNTbuttonCompare.classList.add("none")
+    scrambledTNTgameButtonStartAgain.classList.remove("none")
+    scrambledTNTgameCounter.classList.add("none")
+    scrambledTNTuserInput.classList.remove("underlinedText")
+    // TNTgameTaskHint.innerHTML = `попробуй обезвредить все`
+
+}
+
+function scrambledcompareTNTinput() {
+    // console.log("ответ", value.eng)
+    // console.log(TNTuserInput)
+
+    if (scrambledTNTuserInput.value.toLowerCase() === value.eng.toLowerCase()) {
+
+        //  scoreTNTGame += 1
+        scrambledscoreTNTGame++
+        scrambledTNTbeforeExplosion += 12
+        scrambledTNTgameCounter.classList.remove("none")
+        scrambledTNTuserInput.value = ""
+        // typeOrWriteGameСounter.textContent = `верно:  ${scoreTNTGame} out of ${chooseTypeOrWrite.length}`
+        // typeOrWriteGameСounter.classList.add("green")
+        scrambledTNTgameTaskHint.innerHTML = `YES!`
+        scrambledTNTgameTaskHint.classList.remove("red")
+        scrambledTNTgameTaskHint.classList.add("green")
+        scrambledtntGameNextWordToTranslate(scrambledTNTgameTaskValue)
+        keySoundInputOk.play()
+        scrambledTNTuserInput.classList.remove("underlinedText")
+    }
+    else {
+        scrambledTNTgameTaskHint.classList.remove("green")
+        scrambledTNTgameTaskHint.classList.remove("yellow")
+        scrambledTNTgameTaskHint.classList.add("red")
+        scrambledTNTuserInput.classList.add("underlinedText")
+
+        scrambledTNTgameTaskHint.textContent = "не подходит... проверь ещё раз или отправь скриншот Винсенту"
+
+
+
+
+    }
+
+}
+
+
+function scrambledtntGameNextWordToTranslate(scrambledTNTgameTaskValue) {
+    scrambledtypeOrWriteNumber = scrambledtypeOrWriteNumber + 1
+    value = chooseScrambledGame[scrambledtypeOrWriteNumber]
+    scrambledTNTgameButtonIDK.classList.remove("none")
+    scrambledTNTgameButtonAnswer.classList.add("none")
+    if (value) {
+        scrambledTNTgameTaskValue.innerHTML = value.ru
+    } else {
+        clearInterval(scrambledTNTtimerMechanics)
+        scrambledTNTgameTaskHint.classList.add("yellow")
+        scrambledTNTgameInfo.textContent = "Времени осталось в запасе :"
+        scrambledTNTgameTaskHint.textContent = "Super! Сделай скриншот и отправь to Vincent"
+        scrambledTNTgameTaskValue.textContent = `I am the best agent`
+        scrambledTNTuserInput.value = `deactivated all ${scrambledscoreTNTGame} bombs!`
+        scrambledTNTbuttonCompare.classList.add("none")
+        scrambledTNTgameButtonStartAgain.classList.remove("none")
+    }
+    // TNTgameTaskValue.classList.add("none")
+    // TNTgameTaskHint.textContent = `вы перевели:  ${scoreTNTGame} из ${chooseTypeOrWrite.length}`
+    scrambledTNTgameCounter.textContent = `обезврежено бомб:  ${scrambledscoreTNTGame}`
+}
+
+
+// TNTgameButtonStartAgain.addEventListener("click", pageReloadRefresh)
+scrambledTNTgameButtonStartAgain.addEventListener("click", scrambledrestartTNTgame)
+
+scrambledTNTgameButtonIDK.addEventListener("click", scrambledshowHintTNT)
+
+function scrambledshowHintTNT() {
+    if (value.hint === undefined) {
+
+        scrambledTNTgameTaskHint.textContent = "🤷‍♀️ здесь нечего подсказать 🤷‍♂️ пытайся как-то перевести"
+        scrambledTNTgameTaskHint.classList.remove("red")
+        scrambledTNTgameTaskHint.classList.remove("yellow")
+        scrambledTNTgameTaskHint.classList.add("green")
+
+
+    } else {
+        // TNTgameTaskHint.textContent = "Okay , вот такая подсказка есть : " + value.hint
+        scrambledTNTgameTaskHint.textContent = "Блин! Как бы тут подсказать-то : " + value.hint
+        scrambledTNTgameTaskHint.classList.remove("red")
+        scrambledTNTgameTaskHint.classList.remove("yellow")
+        scrambledTNTgameTaskHint.classList.add("green")
+
+
+    }
+    scrambledTNTgameButtonAnswer.classList.remove("none")
+    scrambledTNTgameButtonIDK.classList.add("none")
+}
+
+scrambledTNTgameButtonAnswer.addEventListener("click", scrambledshowAnswerTNT)
+
+function scrambledshowAnswerTNT() {
+
+    scrambledTNTgameButtonIDK.classList.remove("none")
+    scrambledTNTgameButtonAnswer.classList.add("none")
+    scrambledTNTgameTaskHint.classList.remove("green")
+    scrambledTNTgameTaskHint.classList.remove("yellow")
+
+    scrambledTNTgameTaskHint.textContent = "вот ответ: " + value.eng
+    // TNTgameTaskHint.textContent = "- 5 секунд. PANIC !!! "
+    // TNTgameTaskValue.textContent = value.ru + " Быстрее!!! Вводи ответ : " + value.eng
+    // TNTgameTaskValue.textContent = " Быстрее!!! Вводи ответ : " + value.eng + " (" + value.ru + ")"
+    scrambledTNTgameTaskValue.textContent = value.ru
+    scrambledTNTbeforeExplosion -= 4
+
+}
+
+
+function scrambledrestartTNTgame() {
+    scrambledscoreTNTGame = 0
+    scrambledtypeOrWriteNumber = 0
+    scrambledTNTbeforeExplosion = 33
+    scrambledTNTgameInfo.textContent = "времени прошло : 🧨"
+    scrambledTNTuserInput.value = ""
+    scrambledTNTgameTaskHint.textContent = "расшифруй это"
+    scrambledTNTgameTaskValue.textContent = `сделай скриншот и поделись с Винсентом`
+
+    scrambledTNTbuttonCompare.classList.remove("none")
+    scrambledTNTgameButtonStartAgain.classList.add("none")
+    scrambledTNTgameCounter.classList.remove("none")
+    scrambledTNTgameTaskHint.classList.remove("red")
+    scrambledTNTgameTaskHint.classList.add("green")
+
+
+    chooseScrambledGame = chooseScrambledGame.sort(function () {
+        return Math.random() - 0.5;
+    });
+    scrambledstartGameTNT()
+
+}
+
+
+
+
+
+
+
+// scrambledGame выше
 
 
 // функция перезагрузка страницы

@@ -76,11 +76,11 @@ const allCardsGameFindAPair = {
             
             },
     ],
-    m000: [
+    m12bombs: [
         {
             id:1,
-            eng:"headphones / хЭдфоунз /",
-            ru:"наушники",
+            eng:"pens",
+            ru:"ручки",
             
             },
             {
@@ -91,8 +91,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:3,
-            eng:"awesome / Осм /",
-            ru:"офигенно",
+            eng:"Vincent",
+            ru:"училка",
             
             },
             {
@@ -143,12 +143,7 @@ const allCardsGameFindAPair = {
             ru:"стопа, ступня",
             
             },
-            {
-            id:12,
-            eng:"achievements / эчИвмэнтс /",
-            ru:"достижения",
             
-            },
     ],
     first1lesson: [
         {

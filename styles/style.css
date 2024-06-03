@@ -102,6 +102,7 @@ button {
 }
 
 .gameTypeOrWrite,
+.scrambledTNTgameContainer, 
 .TNTgameContainer {
     position: relative;
     margin-top: 15px;
@@ -270,6 +271,7 @@ button {
 }
 
 .typeOrWriteGameButtonIDK, 
+.scrambledTNTgameButtonIDK,
 .TNTgameButtonIDK,
 .TNTgameButtonAnswer {
     font-size: 20px;
@@ -281,12 +283,14 @@ button {
     text-align: center;
     padding: 0;
 }
+.scrambledTNTgameButtonAnswer,
 .TNTgameButtonAnswer {
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%),#f999d4;
 
 }
 
 .typeOrWriteGameButtonSkip, 
+.scrambledTNTgameButtonStartAgain,
 .TNTgameButtonStartAgain {
     font-size: 20px;
     text-align: center;
@@ -297,6 +301,7 @@ button {
 }
 
 .typeOrWriteGameButtonCompare,
+.scrambledTNTgameButtonCompare,
 .TNTgameButtonCompare {
     width: 150px;
     width: 195px;
@@ -356,6 +361,7 @@ button {
 
 .BenderWordOrderGameTask-eng,
 .inputTitleEng, 
+.scrambledTNTgameInfo,
 .TNTgameInfo {
     /* margin: 20px 0 0; */
     margin: 2px 0 0;
@@ -365,9 +371,11 @@ button {
     text-align: center;
     color: #000000;
 }
+.scrambledTNTgameInfo,
 .TNTgameInfo {
     font-size: 18px;
 }
+.scrambledTNTgameTimer,
 .TNTgameTimer {
     font-size: 50px;
 }
@@ -439,6 +447,7 @@ button {
 
 .BenderWordOrderGameButtons,
 .TNTgameButtons,
+.scrambledTNTgameButtons,
 .typeOrWriteGameButtons {
     /* margin: 10px 0 0 0; */
     margin: 5px 0 0 0;
@@ -534,6 +543,7 @@ button {
 }
 
 .typeOrWriteGame-counter,
+.scrambledTNTgame-counter,
 .TNTgame-counter {
     text-align: center;
     bottom: 5px;
@@ -541,9 +551,13 @@ button {
     color: #ffffff;
     font-size: 15px;
 }
+.scrambledTNTgame-counter,
 .TNTgame-counter {
 font-size: 18px;
 }
+
+.scrambledTNTgameTaskValue,
+.scrambledTNTgameScrambledPhraseValue,
 .TNTgameTaskValue
 {
     background: #FFF;
@@ -553,12 +567,15 @@ font-size: 18px;
     /* padding: 6px; */
     padding: 3px;
 }
+.scrambledTNTgameTaskHint,
 .TNTgameTaskHint {
     font-size: 20px;
     padding: 0 13px 0 13px;
     margin: 0;
 }
-
+.scrambledTNTgameTaskHint {
+    color: white;
+}
 .BenderWordOrderGameBender {
     margin-left: calc((100% - 221px) / 2);
 }
@@ -571,7 +588,9 @@ font-size: 18px;
     /* нельзя никак взаимодействовать */
 }
 
-.typeOrWriteGameMainScreen, .TNTgameMainScreen {
+.typeOrWriteGameMainScreen, 
+.scrambledTNTgameMainScreen,
+.TNTgameMainScreen {
     background: #98bcd7;
     border: 15px solid #F4F5FF;
     border-radius: 35px;
@@ -582,11 +601,17 @@ font-size: 18px;
     height: 260px;
     text-align: center;
 }
+.scrambledTNTgameMainScreen,
 .TNTgameMainScreen {
     height: 500px;
+ 
 }
-
+.scrambledTNTgameMainScreen {
+    background: none;
+    border: none;
+}
 .playerInputType,
+.scrambledTNTgamePlayerInputType,
 .TNTgamePlayerInputType {
     padding: 6px 10px 4px;
     background: linear-gradient(143.84deg, rgba(237, 193, 193, 0.008) 14.48%, rgba(254, 254, 254, 0.2) 49.03%, rgba(162, 40, 40, 0.2) 82.47%), #AFD73E;
@@ -598,6 +623,7 @@ font-size: 18px;
     margin: 35px 0 0 0;
 }
 
+.scrambledTNTgamePlayerInputType,
 .TNTgamePlayerInputType {
 margin: 0;
 width: 230px;
@@ -900,6 +926,7 @@ font-size: 20px;
     width: 67px;
     display: none;
 }
+.scrambledTNTtimer,
 .TNTtimer {
     font-size: 45px;
     color: #ffffff;
