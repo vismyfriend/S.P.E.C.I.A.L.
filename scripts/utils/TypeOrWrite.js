@@ -8230,6 +8230,39 @@ m12bombs: [
         hint:" / вордз /"
         },
 ],
+m5bombs: [
+    {
+        id:1,
+        eng:"bombs",
+        ru:"бомбы",
+        hint:" / бомбз /"
+        },
+        {
+        id:2,
+        eng:"hands",
+        ru:"кисти рук",
+        hint:" / хэндз /"
+        },
+        {
+        id:3,
+        eng:"fingers",
+        ru:"пальцы",
+        hint:" / фингерз /"
+        },
+        {
+        id:4,
+        eng:"hair",
+        ru:"волосы",
+        hint:" / хЭa /"
+        },
+        {
+        id:5,
+        eng:"Vincent",
+        ru:"Винсент",
+        hint:" посмотри в чатике"
+        },
+        
+],
 tagquestions: [
     {
         id:1,
