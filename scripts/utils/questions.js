@@ -500,6 +500,108 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    doyouhaveany: [
+        {
+            id:1,
+            eng:"Do you have any alcohol at home? / Элкохол / ударение на первую гласную букву Э ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:2,
+            eng:"Do you have any fruits in your fridge now? / фридж и фрутс / ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:3,
+            eng:"Do you have any ice-cream in your freezer? / фрИзер / морозильник ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:4,
+            eng:"Do you have any secrets from Vincent? / сИкретс / от вИнсента ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:5,
+            eng:"Do you have any children? / дети - чИлдрэн / / чайлд - ребенок / ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:6,
+            eng:"Do you have any friends? (if yes: Do you have best friends? What are their names?) ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:7,
+            eng:"Do you have any vegetables at home? / вЭджэтэблз / ударение на первую гласную букву Э ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:8,
+            eng:"Do you have any scars on your body? / скарз / шрамы ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:9,
+            eng:"Do you have any cookies in the kitchen? ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:10,
+            eng:"Do you have any musical instruments? / Инструментс / ударение на первую гласную букву И ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:11,
+            eng:"Do you have any toys? ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:12,
+            eng:"Do you have any tattoos? (if yes : “What tattoos? Where? Will you how it to me, please?”) ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:13,
+            eng:"Do you have any games on your phone? ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:14,
+            eng:"Do you like any board games? / борд геймз / настолки ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:15,
+            eng:"Do you have any transport? (skateboards, scooters, bikes…) ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:16,
+            eng:"Do you have any favorite songs or singers or bands? ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:17,
+            eng:"Do you have any favorite movies or actors or cartoons? / картУнз / ударение на последний слог ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:18,
+            eng:"Do you have any teeth? (Есть хоть немного зубов у тебя?) How many teeth do you have?  ",
+            ru:" + I have some … .  - I don't have any … ."
+            },
+            {
+            id:19,
+            eng:"Does Vincent have any secrets? ",
+            ru:"Да полюбому же есть, давай посплетничаем! Придумаем про него что-то"
+            },
+            {
+            id:20,
+            eng:"Does your family have any hobbies or traditions? ",
+            ru:"Какие-нибудь хобби у членов твоей семьи есть? Или может семейные традиции?"
+            },
+    ],
     jobs02: [
         {
             id:101,
