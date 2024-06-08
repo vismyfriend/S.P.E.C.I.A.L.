@@ -97,6 +97,1022 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    hasOrHave: [
+        {
+            id: 1,
+            quizQuestion: "I ___a cat",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: true
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "You ___ a cat",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "We ___ a cat",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "They ___ a cat",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "He ___ a cat",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "She ___ a cat",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "It ___ 40 legs",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "У моего друга есть собаки",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "У твоей сестры есть кошки",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "У нас есть пёс",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "У вас есть учитель",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "У него 3 сестры",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "У неё 40 котов",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "У моих родителей 1 ребёнок",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "У меня одна ошибка",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "У Винсента много агентов",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "У неё 10 шибок в тесте",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "У нашего друга 2 биткоина",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Our teacher ___ 10'000 agents",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Your best friend ___ blue eyes",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Everybody ___ a body",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "Everybody ___ a mouth",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "Lady Gaga ___ a beautiful voice",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "My notebook ___ 64 pages",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "A dictionary ___ a lot of words",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "Her friends ___ problems",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "Their pet ___ long hair",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Our pizza ___ tomatoes",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "У нашей подруги есть вопросик к вам",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "У каждого есть голова на плечах",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "У их собаки есть хвост",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "У их дома есть гараж",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "Their car ___  4 doors",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "Their notebooks ___ beautiful color",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            {
+            answer: "Да Х/З вообще!",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "После слов, которые можно заменить на it , he , she пишем ___ ( иметь, обладать )",
+            answers: [
+            {
+            answer: "has",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "После слов, которые можно заменить на you , we , I , they пишем ___ ( иметь, обладать )",
+            answers: [
+            {
+            answer: "have",
+            correct: true
+            },
+            {
+            answer: "has",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "Переведи : I have dogs",
+            answers: [
+            {
+            answer: "у меня есть собаки",
+            correct: true
+            },
+            {
+            answer: "я имею собак",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "Переведи : Do you have animals?",
+            answers: [
+            {
+            answer: "у вас есть животные?",
+            correct: true
+            },
+            {
+            answer: "вы имеете животных?",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "Переведи : I don't have pets",
+            answers: [
+            {
+            answer: "у меня нет домашних животных",
+            correct: true
+            },
+            {
+            answer: "я не имею домашних животных",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+    ],
     areamis1: [
         {
             id: 1,
