@@ -500,6 +500,288 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    getToKnow: [
+        {
+            id:1,
+            eng:"Can you try to guess my age? ",
+            ru:"Можешь попытаться угадать мой возраст? "
+            },
+            {
+            id:2,
+            eng:"How often does Vincent invite you to drink with him behind the garages? And How often do you agree to go?  ",
+            ru:"Как часто Винсент зовёт тебя выпить за гаражами? И как часто ты соглашаешься пойти? "
+            },
+            {
+            id:3,
+            eng:"What presents do you want to get for your next birthday?  ",
+            ru:"Какие подарки ты хочешь получить на свой следующий день рождения? "
+            },
+            {
+            id:4,
+            eng:"When is your birthday? I want to send you a postcard. ",
+            ru:"Когда у тебя день рождения? Я хочу отправить тебе открытку. "
+            },
+            {
+            id:5,
+            eng:"What animal does Vincent remind you of? ",
+            ru:"Какое животное Винсент тебе напоминает? На кого он похож? "
+            },
+            {
+            id:6,
+            eng:"What color are your teacher’s eyes? ",
+            ru:"Какого цвета глаза у твоего учителя? "
+            },
+            {
+            id:7,
+            eng:"Do you have any siblings? ",
+            ru:"У тебя есть братья или сестры? "
+            },
+            {
+            id:8,
+            eng:"What is your favorite color? ",
+            ru:"Какой твой любимый цвет? "
+            },
+            {
+            id:9,
+            eng:"What do you like to do when you have 2 or 3  free hours?  ",
+            ru:"Что тебе нравится делать, когда у тебя есть 2-3 часа свободного времени? "
+            },
+            {
+            id:10,
+            eng:"What hobby does your best friens have? What does he or she like to do?  ",
+            ru:"Какое хобби у твоего лучшего друга или подруги? Что он или она любит делать? "
+            },
+            {
+            id:11,
+            eng:"Do you like different music or do you prefer only Rock like Vincent?  ",
+            ru:"Тебе нравится разная музыка или ты предпочитаешь только рок, как Винсент?  "
+            },
+            {
+            id:12,
+            eng:"What's your favorite movie genre? (Horrors, comedies, actions, detectives, romantic comedies, drama, thrillers, animations, cartoons, fantasy, documentary)  ",
+            ru:"Какой твой любимый жанр кино?"
+            },
+            {
+            id:13,
+            eng:"What was your favorite movie when you were young? ",
+            ru:"Какой фильм был твоим любимым, когда ты был маленьким?"
+            },
+            {
+            id:14,
+            eng:"If Vincent bought tickets for you and your family, where would you like to travel? What city? ",
+            ru:"Если Винсент купил билеты для тебя и твоей семьи, куда бы вы хотели отправиться? В какой город?"
+            },
+            {
+            id:15,
+            eng:"What's something that always makes you smile? ",
+            ru:"Что всегда заставляет тебя улыбаться?"
+            },
+            {
+            id:16,
+            eng:"Is there a book that you really liked and maybe it made a good impression on you? ",
+            ru:"Есть ли книга, которая тебе действительно понравилась и, возможно, произвела хорошее впечатление на тебя?"
+            },
+            {
+            id:17,
+            eng:"What is your idea of a perfect Saturday? ",
+            ru:"Каково твое представление об идеальной субботе?"
+            },
+            {
+            id:18,
+            eng:"What's something you've always wanted to try to do? Maybe jumping with a parachute or diving in the ocean? ",
+            ru:"Есть ли что-то, что ты всегда хотел попробовать? Возможно, прыжок с парашютом или ныряние в океане?"
+            },
+            {
+            id:19,
+            eng:"How do you like to spend your weekends? ",
+            ru:"Как ты предпочитаешь проводить выходные?"
+            },
+            {
+            id:20,
+            eng:"What is something that always puts you in a good mood? ",
+            ru:"Что всегда поднимает тебе настроение?"
+            },
+            {
+            id:21,
+            eng:"How would your teacher of English describe you? ",
+            ru:"Как твой учитель английского описал бы тебя?"
+            },
+            {
+            id:22,
+            eng:"What sports do you like to watch? ",
+            ru:"Какие виды спорта тебе нравится смотреть?"
+            },
+            {
+            id:23,
+            eng:"What sports did you like when you were a kid? Do you do any sports now? ",
+            ru:"Какие спортивные виды тебе нравились, когда ты был ребенком? Занимаешься ли сейчас каким-либо спортом?"
+            },
+            {
+            id:24,
+            eng:"What's your favorite place that you've visited and why did you like it so much? ",
+            ru:"Какое твое любимое место, которое ты посетил, и почему тебе там так понравилось?"
+            },
+            {
+            id:25,
+            eng:"If you could choose any superpower, what would it be and how would you use it? ",
+            ru:"Если ты мог бы выбрать любое сверхспособность, что бы это было и как бы ты его использовал?"
+            },
+            {
+            id:26,
+            eng:"Do you have a list of goals that you want to achieve next year? ",
+            ru:"У тебя есть список целей, которые ты хочешь достичь в следующем году?"
+            },
+            {
+            id:27,
+            eng:"If you could live in any time period, past or future, when would it be and why? ",
+            ru:"Если бы ты мог жить в любом историческом периоде, прошлом или будущем, что бы выбрал и почему?"
+            },
+            {
+            id:28,
+            eng:"Do you do spontaneous things sometimes? Maybe buy a ticket to a concert without planning it. Or just give flowers to someone. Or maybe other examples? ",
+            ru:"Ты иногда делаешь спонтанные поступки? Возможно, покупаешь билет на концерт без предварительного планирования. Или другие поступки?"
+            },
+            {
+            id:29,
+            eng:"If you could switch lives with anyone for a day, who would it be? ",
+            ru:"Если бы ты мог поменяться жизнями с кем-то на один день, с кем бы это было?"
+            },
+            {
+            id:30,
+            eng:"What time do you usually wake up? ",
+            ru:"Во сколько ты обычно просыпаешься?"
+            },
+            {
+            id:31,
+            eng:"Can you name at least 3 people that you are proud of? ",
+            ru:"Можешь назвать как минимум троих человек, на которых ты гордишься?"
+            },
+            {
+            id:32,
+            eng:"If you won 20’112 dollars in a lottery, what's the first thing you would buy for your teacher? ",
+            ru:"Если бы ты выиграл 20'112 долларов в лотерею, что было бы первым, что ты купил бы для своего учителя?"
+            },
+            {
+            id:33,
+            eng:"What's a movie or TV show you can watch over and over again? ",
+            ru:"Есть ли фильм или телешоу, которые ты можешь смотреть снова и снова?"
+            },
+            {
+            id:34,
+            eng:"What qualities in people do you like?  ",
+            ru:"Какие качества в людях тебе нравятся?"
+            },
+            {
+            id:35,
+            eng:"What TV-series did you watch from the beginning to the end? ",
+            ru:"Какие телесериалы ты посмотрел с начала и до конца?"
+            },
+            {
+            id:36,
+            eng:"Do you have any medals or awards that you keep on the shelves at your house?  ",
+            ru:"У тебя есть медали или награды, которые ты хранишь на полках дома?"
+            },
+            {
+            id:37,
+            eng:"Can you whistle very loudly? ",
+            ru:"Умеешь ли ты сильно свистеть?"
+            },
+            {
+            id:38,
+            eng:"What's something that you really want to do before you die?  ",
+            ru:"Что ты действительно хотел бы сделать перед смертью?"
+            },
+            {
+            id:39,
+            eng:"Are you nervous when you speak English? Why? ",
+            ru:"Тебе нервничать, когда ты говоришь на английском? Почему?"
+            },
+            {
+            id:40,
+            eng:"What food do you usually order when you go to a restaurant? ",
+            ru:"Какую еду ты обычно заказываешь, когда идешь в ресторан?"
+            },
+            {
+            id:41,
+            eng:"What food can you cook the best?  ",
+            ru:"Какую еду ты готовишь лучше всего?"
+            },
+            {
+            id:42,
+            eng:"How would your parents describe you? ",
+            ru:"Как бы твои родители описали тебя?"
+            },
+            {
+            id:43,
+            eng:"Do you have any tattoos? What tattoos and where? Can you show? ",
+            ru:"У тебя есть татуировки? Какие татуировки и где? Можешь показать?"
+            },
+            {
+            id:44,
+            eng:"Can you play any musical instrument? What musical instruments do you like?  ",
+            ru:"Ты умеешь играть на каком-нибудь музыкальном инструменте? Какие музыкальные инструменты тебе нравятся?"
+            },
+            {
+            id:45,
+            eng:"If you had the chance to meet and spend a day with any living celebrity, who would it be and why?  ",
+            ru:"Если бы у тебя была возможность встретиться и провести день с какой-нибудь известной личностью, кто бы это был и почему?"
+            },
+            {
+            id:46,
+            eng:"Is your family big? How many people are there?  ",
+            ru:"Твоя семья большая? Сколько человек в ней?"
+            },
+            {
+            id:47,
+            eng:"Did you have any exotic pets? Parrots or snakes maybe? ",
+            ru:"У тебя когда-либо были экзотические домашние питомцы? Может быть, попугаи или змеи?"
+            },
+            {
+            id:48,
+            eng:"Does your family have any pets? ",
+            ru:"У вас в семье есть домашние животные?"
+            },
+            {
+            id:49,
+            eng:"What song can you sing with Vincent if you go to a Karaoke together?  ",
+            ru:"Какую песню ты бы спел с Винсентом, если бы пошли в караоке вместе?"
+            },
+            {
+            id:50,
+            eng:"What new things or skills do you want to learn?  ",
+            ru:"Какие новые вещи или навыки ты хотел бы выучить?"
+            },
+            {
+            id:51,
+            eng:"How many jobs have you tried in your life? What was the worst and what was the best? ",
+            ru:"Сколько разных профессий ты пробовал в своей жизни? Какая была самая худшая и какая лучшая?"
+            },
+            {
+            id:52,
+            eng:"What were you doing 5 hours ago? Where were you doing it? ",
+            ru:"Что ты делал пять часов назад? Где это было?"
+            },
+            {
+            id:53,
+            eng:"Do you sometimes sing in a shower? ",
+            ru:"Ты иногда поешь в душе?"
+            },
+            {
+            id:54,
+            eng:"What toys do you remember from your childhood? What toys did you like? ",
+            ru:"Какие игрушки ты помнишь из детства? Какие игрушки тебе нравились?"
+            },
+            {
+            id:55,
+            eng:"Do you play games on your phone?  ",
+            ru:"Ты играешь в игры на своем телефоне?"
+            },
+            {
+            id:56,
+            eng:"What Apps on your phone do you use very often?   ",
+            ru:"Какие приложения на твоем телефоне ты используешь очень часто?"
+            },
+    ],
     doyouhaveany: [
         {
             id:1,
