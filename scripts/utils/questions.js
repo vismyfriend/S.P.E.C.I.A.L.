@@ -500,6 +500,674 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    irregularVerbsAll: [
+        {
+            id:401,
+            ru:"ломать",
+            eng:"BREAK, BROKE, BROKEN / брЭйк брОУк брОУкэн /",
+            
+            },
+            {
+            id:402,
+            ru:"побить",
+            eng:"BEAT, BEAT, BEATEN / бит бит битн /",
+            
+            },
+            {
+            id:403,
+            ru:"становиться",
+            eng:"BECOME, BECAME, BECOME / бекАм бекЕйм бекАм /",
+            
+            },
+            {
+            id:404,
+            ru:"начинать",
+            eng:"BEGIN, BEGAN, BEGUN / бегИн бегЭн бегАн /",
+            
+            },
+            {
+            id:405,
+            ru:"дуть",
+            eng:"BLOW, BLEW, BLOWN / блОу блУ блОун /",
+            
+            },
+            {
+            id:406,
+            ru:"брать в долг",
+            eng:"BORROW, BORROWED, BORROWED / бОроу бОроуд бОроуд /",
+            
+            },
+            {
+            id:407,
+            ru:"строить",
+            eng:"BUILD, BUILT, BUILT / билд билт билт /",
+            
+            },
+            {
+            id:408,
+            ru:"сжигать, гореть",
+            eng:"BURN, BURNT, BURNT / бЁрн бёрнт бёрнт /",
+            
+            },
+            {
+            id:409,
+            ru:"покупать",
+            eng:"BUY, BOUGHT, BOUGHT / бАй бот бот /",
+            
+            },
+            {
+            id:410,
+            ru:"приносить",
+            eng:"BRING, BROUGHT, BROUGHT / брин брот брот /",
+            
+            },
+            {
+            id:411,
+            ru:"быть",
+            eng:"BE, (WAS,WERE), BEEN / эм из а воз вё бин /",
+            
+            },
+            {
+            id:412,
+            ru:"кусать",
+            eng:"BITE, BIT, BIT / бАйт бит бит /",
+            
+            },
+            {
+            id:413,
+            ru:"приходить",
+            eng:"COME, CAME, COME / кАм кейм кАм /",
+            
+            },
+            {
+            id:414,
+            ru:"выбирать",
+            eng:"CHOOSE, CHOSE, CHOSEN / чУз чОуз чОуzэн /",
+            
+            },
+            {
+            id:415,
+            ru:"ловить",
+            eng:"CATCH, CAUGHT, CAUGHT / кЭч кот кот /",
+            
+            },
+            {
+            id:416,
+            ru:"ползать",
+            eng:"CREEP, CREPT, CREPT / крИп крэпт крэпт /",
+            
+            },
+            {
+            id:417,
+            ru:"стоить",
+            eng:"COST, COST, COST / кост кост кост /",
+            
+            },
+            {
+            id:418,
+            ru:"резать",
+            eng:"CUT, CUT, CUT / кАт кат кат /",
+            
+            },
+            {
+            id:419,
+            ru:"иметь дела",
+            eng:"DEAL, DEALT, DEALT / дИл дэлт дэлт /",
+            
+            },
+            {
+            id:420,
+            ru:"копать",
+            eng:"DIG, DUG, DUG / диГ даг даг /",
+            
+            },
+            {
+            id:421,
+            ru:"делать",
+            eng:"DO, DID, DONE / ду дид дан /",
+            
+            },
+            {
+            id:422,
+            ru:"водить",
+            eng:"DRIVE, DROVE, DRIVEN / дрАйв дроув дривн /",
+            
+            },
+            {
+            id:423,
+            ru:"рисовать",
+            eng:"DRAW, DREW, DRAWN / дрО дрУ дроун /",
+            
+            },
+            {
+            id:424,
+            ru:"пить",
+            eng:"DRINK, DRANK, DRUNK / дринк дрЭнк дрАнк /",
+            
+            },
+            {
+            id:425,
+            ru:"кушать",
+            eng:"EAT, ATE, EATEN / ит эйт Итн /",
+            
+            },
+            {
+            id:426,
+            ru:"падать",
+            eng:"FALL, FELL, FALLEN / фол фэл фОлэн /",
+            
+            },
+            {
+            id:427,
+            ru:"кормить",
+            eng:"FEED, FED, FED / фиД фэд фэд /",
+            
+            },
+            {
+            id:428,
+            ru:"чувствовать",
+            eng:"FEEL, FELT, FELT / фил фэлт фэлт /",
+            
+            },
+            {
+            id:429,
+            ru:"сражаться",
+            eng:"FIGHT, FOUGHT, FOUGHT / фАйт фот фот /",
+            
+            },
+            {
+            id:430,
+            ru:"находить",
+            eng:"FIND, FOUND, FOUND / фАйнд фАунд фАунд /",
+            
+            },
+            {
+            id:431,
+            ru:"летать",
+            eng:"FLY, FLEW, FLOWN / флАй флу флОун /",
+            
+            },
+            {
+            id:432,
+            ru:"запрещать",
+            eng:"FORBID, FORBADE, FORBIDDEN / фобИд фобЭйд фобИдэн /",
+            
+            },
+            {
+            id:433,
+            ru:"забывать",
+            eng:"FORGET, FORGOT, FORGOTTEN / фогОт фогОт фогОтэн /",
+            
+            },
+            {
+            id:434,
+            ru:"прощать",
+            eng:"FORGIVE, FORGAVE, FORGIVEN / фогИв фогЕйв фогИвэн /",
+            
+            },
+            {
+            id:435,
+            ru:"замерзать",
+            eng:"FREEZE, FROZE, FROZEN / фриз фрОуз фрОузэн /",
+            
+            },
+            {
+            id:436,
+            ru:"расти",
+            eng:"GROW, GREW, GROWN / грОу грУ грОун /",
+            
+            },
+            {
+            id:437,
+            ru:"получать",
+            eng:"GET, GOT, GOT / гет гот гот /",
+            
+            },
+            {
+            id:438,
+            ru:"давать",
+            eng:"GIVE, GAVE, GIVEN / гив гэйв гИвэн /",
+            
+            },
+            {
+            id:439,
+            ru:"ходить",
+            eng:"GO, WENT, GONE / гОУ уэнт ган /",
+            
+            },
+            {
+            id:440,
+            ru:"иметь",
+            eng:"HAVE, HAD, HAD / хэв хэд хэд /",
+            
+            },
+            {
+            id:441,
+            ru:"слышать",
+            eng:"HEAR, HEARD, HEARD / хИэ хёд хёд /",
+            
+            },
+            {
+            id:442,
+            ru:"прятать",
+            eng:"HIDE, HID, HIDDEN / хайд хид хИддэн /",
+            
+            },
+            {
+            id:443,
+            ru:"ударять",
+            eng:"HIT, HIT, HIT / хит хит хит /",
+            
+            },
+            {
+            id:444,
+            ru:"причинять боль",
+            eng:"HURT, HURT, HURT / хЁрт хёрт хёрт /",
+            
+            },
+            {
+            id:445,
+            ru:"держать",
+            eng:"HOLD, HELD, HELD / хОулд хэлд хэлд /",
+            
+            },
+            {
+            id:446,
+            ru:"хранить",
+            eng:"KEEP, KEPT, KEPT / кип кэпт кэпт /",
+            
+            },
+            {
+            id:447,
+            ru:"знать",
+            eng:"KNOW, KNEW, KNOWN / нОу ню нОун /",
+            
+            },
+            {
+            id:448,
+            ru:"вести, приводить",
+            eng:"LEAD, LED, LED / лид лэд лэд /",
+            
+            },
+            {
+            id:449,
+            ru:"изучать",
+            eng:"LEARN, LEARNT, LEARNT / лЁрн лёрнт лёрнт /",
+            
+            },
+            {
+            id:450,
+            ru:"покидать",
+            eng:"LEAVE, LEFT, LEFT / лив лЭфт лЭфт /",
+            
+            },
+            {
+            id:451,
+            ru:"давать в долг",
+            eng:"LEND, LENT, LENT / лЭнд лэнт лэнт /",
+            
+            },
+            {
+            id:452,
+            ru:"позволять",
+            eng:"LET, LET, LET / лЭт лэт лэт /",
+            
+            },
+            {
+            id:453,
+            ru:"терять",
+            eng:"LOSE, LOST, LOST / лУз лост лост /",
+            
+            },
+            {
+            id:454,
+            ru:"говорить ложь",
+            eng:"TELL A LIE, TOLD A LIE, TOLD A LIE / тэл э лай толд э лай толд э лай /",
+            
+            },
+            {
+            id:455,
+            ru:"лежать",
+            eng:"LIE, LAY, LAIN / лай лэй лЭйн /",
+            
+            },
+            {
+            id:456,
+            ru:"создавать",
+            eng:"MAKE, MADE, MADE / мЭйк мэйд мэйд /",
+            
+            },
+            {
+            id:457,
+            ru:"иметь ввиду",
+            eng:"MEAN, MEANT, MEANT / мИн мэнт мэнт /",
+            
+            },
+            {
+            id:458,
+            ru:"встречать(ся)",
+            eng:"MEET, MET, MET / мит мэт мэт /",
+            
+            },
+            {
+            id:459,
+            ru:"платить",
+            eng:"PAY, PAID, PAID / пЭй пэйд пэйд /",
+            
+            },
+            {
+            id:460,
+            ru:"класть",
+            eng:"PUT, PUT, PUT / пУт пут пут /",
+            
+            },
+            {
+            id:461,
+            ru:"читать",
+            eng:"READ, READ, READ / рИд рЭд рЭд /",
+            
+            },
+            {
+            id:462,
+            ru:"ездить верхом",
+            eng:"RIDE, RODE, RIDDEN / рАйд роуд рИддэн /",
+            
+            },
+            {
+            id:463,
+            ru:"звенеть, звонить",
+            eng:"RING, RANG, RUNG / рИн рэн ран /",
+            
+            },
+            {
+            id:464,
+            ru:"бегать",
+            eng:"RUN, RAN, RUN / рАн рэн ран /",
+            
+            },
+            {
+            id:465,
+            ru:"подниматься",
+            eng:"RISE, ROSE, RISEN / рАйз роуз рИzэн /",
+            
+            },
+            {
+            id:466,
+            ru:"сказать, произнести",
+            eng:"SAY, SAID, SAID / сЭй сЭд сЭд /",
+            
+            },
+            {
+            id:467,
+            ru:"увидеть",
+            eng:"SEE, SAW, SEEN / си со син /",
+            
+            },
+            {
+            id:468,
+            ru:"продавать",
+            eng:"SELL, SOLD, SOLD / сЭл солд солд /",
+            
+            },
+            {
+            id:469,
+            ru:"отправлять",
+            eng:"SEND, SENT, SENT / сэнД сэнт сэнт /",
+            
+            },
+            {
+            id:470,
+            ru:"трясти",
+            eng:"SHAKE, SHOOK, SHAKEN / шЭйк шук шэйкэн /",
+            
+            },
+            {
+            id:471,
+            ru:"стрелять",
+            eng:"SHOOT, SHOT, SHOT / шУт шот шот /",
+            
+            },
+            {
+            id:472,
+            ru:"захлопнуть",
+            eng:"SHUT, SHUT, SHUT / щАт щат щат /",
+            
+            },
+            {
+            id:473,
+            ru:"петь",
+            eng:"SING, SANG, SUNG / сИн сэн сэн /",
+            
+            },
+            {
+            id:474,
+            ru:"затонуть",
+            eng:"SINK, SANK, SUNK / синк сэнк сэнк /",
+            
+            },
+            {
+            id:475,
+            ru:"сидеть",
+            eng:"SIT, SAT, SAT / сит сэт сэт /",
+            
+            },
+            {
+            id:476,
+            ru:"спать",
+            eng:"SLEEP, SLEPT, SLEPT / слИп слэпт слэпт /",
+            
+            },
+            {
+            id:477,
+            ru:"скользить",
+            eng:"SLIDE, SLID, SLID / слайд слид слид /",
+            
+            },
+            {
+            id:478,
+            ru:"разговаривать",
+            eng:"SPEAK, SPOKE, SPOKEN / спИк споук споукэн /",
+            
+            },
+            {
+            id:479,
+            ru:"тратить",
+            eng:"SPEND, SPENT, SPENT / спЭнд спэнт спэнт /",
+            
+            },
+            {
+            id:480,
+            ru:"плеваться",
+            eng:"SPIT, SPAT, SPAT / спИт спэт спэт /",
+            
+            },
+            {
+            id:481,
+            ru:"встать, стоять",
+            eng:"STAND, STOOD, STOOD / стЭнд студ студ /",
+            
+            },
+            {
+            id:482,
+            ru:"воровать",
+            eng:"STEAL, STOLE, STOLEN / стИл стоул стОулэн /",
+            
+            },
+            {
+            id:483,
+            ru:"приклеить, застрять ",
+            eng:"STICK, STUCK, STUCK / стик стак стак /",
+            
+            },
+            {
+            id:484,
+            ru:"вонять",
+            eng:"STINK, STANK, STUNK / стинк стэнк станк /",
+            
+            },
+            {
+            id:485,
+            ru:"ударять",
+            eng:"STRIKE, STRUCK, STRUCK / стрАйк страк страк /",
+            
+            },
+            {
+            id:486,
+            ru:"клясться, материться ",
+            eng:"SWEAR, SWORE, SWORN / суЭа сво сворн /",
+            
+            },
+            {
+            id:487,
+            ru:"подметать",
+            eng:"SWEEP, SWEPT, SWEPT / свип свэпт свэпт /",
+            
+            },
+            {
+            id:488,
+            ru:"плавать",
+            eng:"SWIM, SWAM, SWUM / свим свэм свам /",
+            
+            },
+            {
+            id:489,
+            ru:"качаться",
+            eng:"SWING, SWUNG, SWUNG / свИн сван сван /",
+            
+            },
+            {
+            id:490,
+            ru:"брать",
+            eng:"TAKE, TOOK, TAKEN / тЭйк тук тЭйкэн /",
+            
+            },
+            {
+            id:491,
+            ru:"обучать",
+            eng:"TEACH, TAUGHT, TAUGHT / тИч тот тот /",
+            
+            },
+            {
+            id:492,
+            ru:"порвать",
+            eng:"TEAR, TORE, TORN / тЭа то торн /",
+            
+            },
+            {
+            id:493,
+            ru:"рассказывать",
+            eng:"TELL, TOLD, TOLD / тЭл тОлд толд /",
+            
+            },
+            {
+            id:494,
+            ru:"думать",
+            eng:"THINK, THOUGHT, THOUGHT / thЫНК thОт thОт /",
+            
+            },
+            {
+            id:495,
+            ru:"бросать",
+            eng:"THROW, THREW, THROWN / thрОу thру thрОун /",
+            
+            },
+            {
+            id:496,
+            ru:"понимать",
+            eng:"UNDERSTAND, UNDERSTOOD, UNDERSTOOD / андэстЭнд андэстУд андэстУд /",
+            
+            },
+            {
+            id:497,
+            ru:"просыпаться",
+            eng:"WAKE UP, WOKE UP, WOKEN UP / уЭйк ап уОук ап уОукэн ап /",
+            
+            },
+            {
+            id:498,
+            ru:"носить одежду",
+            eng:"WEAR, WORE, WORN / уЭа уо уорн /",
+            
+            },
+            {
+            id:499,
+            ru:"писАть",
+            eng:"WRITE, WROTE, WRITTEN / рАйт рОут рИтэн /",
+            
+            },
+            {
+            id:500,
+            ru:"хныкать",
+            eng:"WEEP, WEPT, WEPT / уИп уЭпт уЭпт /",
+            
+            },
+            {
+            id:501,
+            ru:"выигрывать",
+            eng:"WIN, WON, WON / уИн уан или уон уан или уон /",
+            
+            },
+            {
+            id:502,
+            ru:"неправильно понять",
+            eng:"MISUNDERSTAND, MISUNDERSTOOD, MISUNDERSTOOD / мисандэстЭнд мисандэстУд мисандэстУд /",
+            
+            },
+            {
+            id:503,
+            ru:"неправильно написать",
+            eng:"MISSPELL, MISSPELT, MISSPELT / миспЭл миспЛлт миспЛлт /",
+            
+            },
+            {
+            id:504,
+            ru:"ошибаться",
+            eng:"MISTAKE, MISTOOK, MISTAKEN / мистЭйк мистук мистук /",
+            
+            },
+            {
+            id:505,
+            ru:"неправильно услышать",
+            eng:"MISHEAR, MISHEARD, MISHEARD / мисхИа мисхёд мисхёд /",
+            
+            },
+            {
+            id:506,
+            ru:"проспать",
+            eng:"OVERSLEEP, OVERSLEPT, OVERSLEPT / оУвэслип оУвэслэпт оУвэслэпт /",
+            
+            },
+            {
+            id:507,
+            ru:"переесть ",
+            eng:"OVEREAT, OVERATE, OVEREATEN / оУвэИт оУвэЭйт оУвэИтэн /",
+            
+            },
+            {
+            id:508,
+            ru:"переплатить",
+            eng:"OVERPAY, OVERPAID, OVERPAID / оУвэпЭй оУвэпЭйд оУвэпЭйд /",
+            
+            },
+            {
+            id:509,
+            ru:"возникнуть",
+            eng:"ARISE, AROSE, ARISEN / эрАйз эрОуз эрИзн /",
+            
+            },
+            {
+            id:510,
+            ru:"пробудиться",
+            eng:"AWAKE, AWOKE, AWOKEN / эуЭйк эвОук эвОукэн /",
+            
+            },
+            {
+            id:511,
+            ru:"соблюдать пребывать обитать",
+            eng:"ABIDE, ABODE, ABIDDEN / эбАйд эбОуд эбИдэн /",
+            
+            },
+    ],
     getToKnow: [
         {
             id:1,
