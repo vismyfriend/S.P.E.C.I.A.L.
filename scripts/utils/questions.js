@@ -500,6 +500,170 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    words001: [
+        {
+            id:1,
+            eng:"My name is agent ____ . My pets are ______ . I like ________ a lot . I am crazy about _____ . I love _____ very much . My hobby is _ . I collect _ . My collection is not big yet. ",
+            ru:"Моё имя эйДЖэнт ДЖЭК Мои дом.животные КОТЫ Мне сильно нравятся КОТЫ  Я без ума от (any food) Я очень люблю (any food) Моё Хобби. Я собираю __ . Коллекция пока что не …"
+            },
+            {
+            id:2,
+            eng:"Sorry, but I didn't get it ",
+            ru:"Извиняюсь, я не уловил"
+            },
+            {
+            id:3,
+            eng:"I like English a lot ",
+            ru:"Мне сильно нравится английский"
+            },
+            {
+            id:4,
+            eng:"I like my teacher a lot ",
+            ru:"Мне сильно нравится мой учитель"
+            },
+            {
+            id:5,
+            eng:"I love my friends very much ",
+            ru:"Я очень люблю своих друзей"
+            },
+            {
+            id:6,
+            eng:"I love my family very much ",
+            ru:"Я очень люблю свою семью"
+            },
+            {
+            id:7,
+            eng:"I like dogs a lot ",
+            ru:"Мне сильно нравятся собаки"
+            },
+            {
+            id:8,
+            eng:"I like tractors a lot ",
+            ru:"Мне сильно нравятся тракторы"
+            },
+            {
+            id:9,
+            eng:"I love Vincent very much ",
+            ru:"Я очень люблю вИнсента"
+            },
+            {
+            id:10,
+            eng:"I like you a lot . I love you very much . ",
+            ru:"Вы мне сильно нравитесь. Я очень вас люблю."
+            },
+            {
+            id:11,
+            eng:"It is disgusting ",
+            ru:"Это отвратительно"
+            },
+            {
+            id:12,
+            eng:"It is awesome ",
+            ru:"Это офигенно!"
+            },
+            {
+            id:13,
+            eng:"It is boring ",
+            ru:"Это скучно"
+            },
+            {
+            id:14,
+            eng:"It is bad ",
+            ru:"Это плохо"
+            },
+            {
+            id:15,
+            eng:"It is good ",
+            ru:"Это хорошо"
+            },
+            {
+            id:16,
+            eng:"We are good friends ",
+            ru:"Мы хорошие друзья"
+            },
+            {
+            id:17,
+            eng:"I am not ugly ",
+            ru:"Я не уродлив(а)"
+            },
+            {
+            id:18,
+            eng:"I am not fat ",
+            ru:"Я не жирный"
+            },
+            {
+            id:19,
+            eng:"I am not boring ",
+            ru:"Я не скучный"
+            },
+            {
+            id:20,
+            eng:"I am interesting ",
+            ru:"Я интересный"
+            },
+            {
+            id:21,
+            eng:"You are interesting ",
+            ru:"Вы интересные"
+            },
+            {
+            id:22,
+            eng:"You are not bad ",
+            ru:"Вы не плохие"
+            },
+            {
+            id:23,
+            eng:"You are not fat ",
+            ru:"Ты не жирная"
+            },
+            {
+            id:24,
+            eng:"You are my friend ",
+            ru:"Ты мой друг"
+            },
+            {
+            id:25,
+            eng:"You are not my teacher, you are my friend ",
+            ru:"Вы не мой учитель, вы - мой друг"
+            },
+            {
+            id:26,
+            eng:"Vincent is not my teacher, Vincent is my friend ",
+            ru:"вИнсент не мой учитель, вИнсент - мой друг"
+            },
+            {
+            id:27,
+            eng:"Monsters are ugly and disgusting ",
+            ru:"Монстры уродливые и отвратительные"
+            },
+            {
+            id:28,
+            eng:"Shrek is not ugly, he is handsome ",
+            ru:"Шрэк не уродив, он красивый"
+            },
+            {
+            id:29,
+            eng:"You are beautiful. You are handsome ",
+            ru:"Вы красивая. Вы красивый"
+            },
+            {
+            id:30,
+            eng:"We are beautiful ",
+            ru:"Мы красивые"
+            },
+            {
+            id:31,
+            eng:"We are not ugly ",
+            ru:"Мы не уродливые"
+            },
+    ],
+    spellingbombs: [
+        {
+            id:1,
+            eng:"My name is agent ____ . My pets are ______ . I like ________ a lot . I am crazy about _____ . I love _____ very much . My hobby is _ . I collect _ . My collection is not big yet. ",
+            ru:"Моё имя эйДЖэнт ДЖЭК Мои дом.животные КОТЫ Мне сильно нравятся КОТЫ  Я без ума от (any food) Я очень люблю (any food) . Моё Хобби. Я собираю __ . Коллекция пока что не …"
+            },
+    ],
     irregularVerbsAll: [
         {
             id:401,
