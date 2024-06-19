@@ -1113,6 +1113,658 @@ const quizQuesstionsList = {
             ]
             },
     ],
+    areamis0: [
+        {
+            id: 1,
+            quizQuestion: "You ___ agents.",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "My dog ___ cool",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "I ___ sexy",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "My collection of cats ___ not very big yet",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Pets ___ good",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "You ___ good / гуд / хороший",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "It ___ good / гуд / хорошо",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Vincent ___ my friend",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "I ___ fat /фэт/",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "What ___ your name?",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "They ___ awesome / осм /",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "She ___ slim",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "She ___ my friend",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "He ___ invisible / инвИзибл /",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "He ___ a bad boy! ( он плохой мальчик )",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "My dog ___ fat",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "What ___ your hobby?",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "Where ___ you from?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "You ___ beautiful girls",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Are , am , is это ____",
+            answers: [
+            {
+            answer: "глаголы-невидимки",
+            correct: true
+            },
+            {
+            answer: "прилагательные",
+            correct: false
+            },
+            {
+            answer: "существительные",
+            correct: false
+            },
+            {
+            answer: "местоимения",
+            correct: false
+            },
+            {
+            answer: "хз вообще…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Как переводятся Are , am , is ?",
+            answers: [
+            {
+            answer: "никак не переводятся, это глаголы-невидимки",
+            correct: true
+            },
+            {
+            answer: "есть, пить, спать",
+            correct: false
+            },
+            {
+            answer: "быть, буду, есть",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "I ___ not ugly / Агли /",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "I ___ not disgusting / дисгАстин /",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "I ___ love you",
+            answers: [
+            {
+            answer: "тут и так норм!",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "You and I ___ friends",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+    ],
     areamis1: [
         {
             id: 1,

@@ -435,6 +435,98 @@ const allQuestionsOneDeck = {
                 
                 },
     ],
+    m001m: [
+        {
+            id:1,
+            eng:"Hello everybody!",
+            ru:"Здравствуйте всем!",
+            
+            },
+            {
+            id:2,
+            eng:"My name is Agent Bond / эйДЖэнт / зИро зИро сЭвэн",
+            ru:"Моё имя Агент Бонд ( Джеймс Бонд 007 )",
+            
+            },
+            {
+            id:3,
+            eng:"My pets are cats and dogs",
+            ru:"Мои домашние животные коты и собаки",
+            
+            },
+            {
+            id:4,
+            eng:"I like giraffes a lot / ай лайк джирАфс э лот /",
+            ru:"Мне нравятся жирафы сильно",
+            
+            },
+            {
+            id:5,
+            eng:"I love pets very much",
+            ru:"Я люблю питомцев очень сильно",
+            
+            },
+            {
+            id:6,
+            eng:"I am crazy about sushi / ай эм крЭйзи эбАут сУши /",
+            ru:"Я без ума от суши",
+            
+            },
+            {
+            id:7,
+            eng:"Hi!",
+            ru:"Привет!",
+            
+            },
+            {
+            id:8,
+            eng:"My name is Patrik / эйДЖэнт пАтрик /",
+            ru:"Меня зовут Патрик ( Агент Патрик )",
+            
+            },
+            {
+            id:9,
+            eng:"I am crazy about English / ай эм крЭйзи эбАут Инглиш /",
+            ru:"Я без ума от английского",
+            
+            },
+            {
+            id:10,
+            eng:"I am crazy about my notebook / ай эм крЭйзи эбАут май нОутбук /",
+            ru:"Я без ума от моей тетради",
+            
+            },
+            {
+            id:11,
+            eng:"I am crazy about my teacher / ай эм крЭйзи эбАут май тИчер /",
+            ru:"Я без ума от моей училки",
+            
+            },
+            {
+            id:12,
+            eng:"I collect tractors / ай колЭкт трАкторз /",
+            ru:"Я коллекционирую тракторы",
+            
+            },
+            {
+            id:13,
+            eng:"I collect magnets / ай колЭкт мЭгнэтс /",
+            ru:"Я собираю магниты",
+            
+            },
+            {
+            id:14,
+            eng:"My hobby is tractors / май хобби из трЭкторз /",
+            ru:"Моё хобби - машины",
+            
+            },
+            {
+            id:15,
+            eng:"My hobby is magnets / май хобби из мЭгнэтс /",
+            ru:"Моё хобби - магниты",
+            
+            },
+    ],
     roles1: [
         {
             id:1,
