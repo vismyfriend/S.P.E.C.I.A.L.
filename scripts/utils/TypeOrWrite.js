@@ -8230,6 +8230,7 @@ const allWordsForGameTypeOrWrite = {
                 hint:"/ бит /"
                 },
 ],
+
 m12bombs: [
     {
         id:1,

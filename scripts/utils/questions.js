@@ -555,6 +555,529 @@ const allQuestionsOneDeck = {
             },
          
     ],
+    whenDoYouA: [
+        {
+            id:1,
+            eng:"Always",
+            ru:"всегда",
+            
+            },
+            {
+            id:2,
+            eng:"Almost always",
+            ru:"почти всегда",
+            
+            },
+            {
+            id:3,
+            eng:"Usually",
+            ru:"обычно",
+            
+            },
+            {
+            id:4,
+            eng:"Sometimes",
+            ru:"иногда ",
+            
+            },
+            {
+            id:5,
+            eng:"Often",
+            ru:"часто",
+            
+            },
+            {
+            id:6,
+            eng:"Not often",
+            ru:"не часто",
+            
+            },
+            {
+            id:7,
+            eng:"Seldom",
+            ru:"редко",
+            
+            },
+            {
+            id:8,
+            eng:"Rarely",
+            ru:"изредка",
+            
+            },
+            {
+            id:9,
+            eng:"Never",
+            ru:"никогда",
+            
+            },
+            {
+            id:10,
+            eng:"Almost never",
+            ru:"почти никогда",
+            
+            },
+            {
+            id:11,
+            eng:"Almost always",
+            ru:"почти всегда",
+            
+            },
+            {
+            id:12,
+            eng:"Almost every day",
+            ru:"почти каждый день",
+            
+            },
+            {
+            id:13,
+            eng:"Every day",
+            ru:"каждый день",
+            
+            },
+            {
+            id:14,
+            eng:"Every night ",
+            ru:"каждую ночь",
+            
+            },
+            {
+            id:15,
+            eng:"Every week",
+            ru:"каждую неделю",
+            
+            },
+            {
+            id:16,
+            eng:"Every month",
+            ru:"каждый месяц",
+            
+            },
+            {
+            id:17,
+            eng:"Every year",
+            ru:"каждый год",
+            
+            },
+            {
+            id:18,
+            eng:"Every morning ",
+            ru:"каждое утро",
+            
+            },
+            {
+            id:19,
+            eng:"Every evening",
+            ru:"каждый вечер",
+            
+            },
+            {
+            id:20,
+            eng:"Every weekend",
+            ru:"каждые выходные",
+            
+            },
+         
+    ],
+    whenDoYouQ: [
+        {
+            id:101,
+            eng:"teach / тич /",
+            ru:"обучать кого-то",
+            
+            },
+            {
+            id:102,
+            eng:"study   / стАди /",
+            ru:"изучать что-то",
+            
+            },
+            {
+            id:103,
+            eng:"read   / рИд /",
+            ru:"читать",
+            
+            },
+            {
+            id:104,
+            eng:"write / райт /",
+            ru:"писать",
+            
+            },
+            {
+            id:105,
+            eng:"dance  / дЭнс /",
+            ru:"танцев.",
+            
+            },
+            {
+            id:106,
+            eng:"kill   / кил /",
+            ru:"убивать",
+            
+            },
+            {
+            id:107,
+            eng:"rob  / роб /",
+            ru:"грабить",
+            
+            },
+            {
+            id:108,
+            eng:"drive  / дрАйв /",
+            ru:"водить",
+            
+            },
+            {
+            id:109,
+            eng:"sing  / синг /",
+            ru:"петь",
+            
+            },
+            {
+            id:110,
+            eng:"build  / бИлд /",
+            ru:"строить",
+            
+            },
+            {
+            id:111,
+            eng:"run / ран /",
+            ru:"бегать",
+            
+            },
+            {
+            id:112,
+            eng:"jump / джамп /",
+            ru:"прыгать",
+            
+            },
+            {
+            id:113,
+            eng:"swim / свим /",
+            ru:"плавать",
+            
+            },
+            {
+            id:114,
+            eng:"manage / мЭнэдж / your time",
+            ru:"управлять своим временем",
+            
+            },
+            {
+            id:115,
+            eng:"smoke / смоук /",
+            ru:"курить",
+            
+            },
+            {
+            id:116,
+            eng:"drink / дринк /",
+            ru:"пить",
+            
+            },
+            {
+            id:117,
+            eng:"do homework / ду хоумворк /",
+            ru:"делать домашнюю",
+            
+            },
+            {
+            id:118,
+            eng:"kiss / кис /",
+            ru:"целоваться",
+            
+            },
+            {
+            id:119,
+            eng:"see Vincent / си вИнсэнт /",
+            ru:"видеть вИнсента",
+            
+            },
+            {
+            id:120,
+            eng:"work / уорк /",
+            ru:"работать",
+            
+            },
+         
+    ],
+    howOftenDoYouA: [
+        {
+            id:23,
+            eng:"One time a year",
+            ru:"один раз в год",
+            
+            },
+            {
+            id:24,
+            eng:"Two times a year",
+            ru:"два раза в год",
+            
+            },
+            {
+            id:25,
+            eng:"Three times a day",
+            ru:"три раза в день",
+            
+            },
+            {
+            id:26,
+            eng:"Four times a month",
+            ru:"четыре раза в месяц",
+            
+            },
+            {
+            id:27,
+            eng:"Five times a week",
+            ru:"пять раз в неделю",
+            
+            },
+            {
+            id:28,
+            eng:"Six days a week",
+            ru:"шесть дней в неделю",
+            
+            },
+            {
+            id:29,
+            eng:"Seven days a week",
+            ru:"семь дней в неделю",
+            
+            },
+            {
+            id:30,
+            eng:"Eight hours a day",
+            ru:"восемь часов в день",
+            
+            },
+            {
+            id:31,
+            eng:"Nine month a year",
+            ru:"девять месяцев в год",
+            
+            },
+            {
+            id:32,
+            eng:"Twenty four hours a day",
+            ru:"24 часа в сутки",
+            
+            },
+            {
+            id:33,
+            eng:"All day",
+            ru:"весь день",
+            
+            },
+            {
+            id:34,
+            eng:"All night ",
+            ru:"всю ночь",
+            
+            },
+            {
+            id:35,
+            eng:"All morning",
+            ru:"всё утро",
+            
+            },
+            {
+            id:36,
+            eng:"All evening",
+            ru:"весь вечер",
+            
+            },
+            {
+            id:37,
+            eng:"All week",
+            ru:"всю неделю",
+            
+            },
+            {
+            id:38,
+            eng:"All weekends",
+            ru:"все выходные",
+            
+            },
+            {
+            id:39,
+            eng:"All month",
+            ru:"весь месяц",
+            
+            },
+            {
+            id:40,
+            eng:"All year",
+            ru:"весь год",
+            
+            },
+            {
+            id:41,
+            eng:"in the morning",
+            ru:"утром",
+            
+            },
+            {
+            id:42,
+            eng:"in the afternoon",
+            ru:"днём",
+            
+            },
+            {
+            id:43,
+            eng:"in the evening",
+            ru:"вечером",
+            
+            },
+            {
+            id:44,
+            eng:"at night",
+            ru:"ночью",
+            
+            },
+            {
+            id:45,
+            eng:"at midnight",
+            ru:"в полночь",
+            
+            },
+         
+    ],
+    howOftenDoYouQ: [
+        {
+            id:123,
+            eng:"teach Vincent bad words",
+            ru:"обучать вИнсента плохим словам ( материться )",
+            
+            },
+            {
+            id:124,
+            eng:"study English and do homework",
+            ru:"изучать английский и делать домашку",
+            
+            },
+            {
+            id:125,
+            eng:"read books",
+            ru:"читать книги",
+            
+            },
+            {
+            id:126,
+            eng:"write e-mails",
+            ru:"писать письма электронные",
+            
+            },
+            {
+            id:127,
+            eng:"dance on the table",
+            ru:"танцевать на столе",
+            
+            },
+            {
+            id:128,
+            eng:"kill time",
+            ru:"бивать время",
+            
+            },
+            {
+            id:129,
+            eng:"rob banks",
+            ru:"грабить банки",
+            
+            },
+            {
+            id:130,
+            eng:"drive very fast",
+            ru:"водить машину",
+            
+            },
+            {
+            id:131,
+            eng:"sing in a shower",
+            ru:"петь в душе",
+            
+            },
+            {
+            id:132,
+            eng:"build a house for birds",
+            ru:"строить скворечники",
+            
+            },
+            {
+            id:133,
+            eng:"run from the police",
+            ru:"убегать от полиции",
+            
+            },
+            {
+            id:134,
+            eng:"jump on left leg",
+            ru:"прыгать на одной левой ноге",
+            
+            },
+            {
+            id:135,
+            eng:"swim in a river",
+            ru:"плавать в речке",
+            
+            },
+            {
+            id:136,
+            eng:"manage people",
+            ru:"управлять людьми",
+            
+            },
+            {
+            id:137,
+            eng:"smoke cigars",
+            ru:"курить сигары",
+            
+            },
+            {
+            id:138,
+            eng:"drink beer with Vincent",
+            ru:"пить пиво с учителем",
+            
+            },
+            {
+            id:139,
+            eng:"do homework",
+            ru:"делать домашнюю",
+            
+            },
+            {
+            id:140,
+            eng:"kiss your teacher",
+            ru:"целоваться с училкой",
+            
+            },
+            {
+            id:141,
+            eng:"see your friends behind garages",
+            ru:"видеться с друзьями за гаражами",
+            
+            },
+            {
+            id:142,
+            eng:"work in an office",
+            ru:"работать в офисе",
+            
+            },
+            {
+            id:143,
+            eng:"open your English notebook",
+            ru:"открывать свою тетрадь по английскому",
+            
+            },
+            {
+            id:144,
+            eng:"open instagram",
+            ru:"открывать инстаграм",
+            
+            },
+         
+    ],
+    
     devmode1: [
         {
             id:1,

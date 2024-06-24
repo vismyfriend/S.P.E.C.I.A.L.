@@ -145,6 +145,69 @@ const allCardsGameFindAPair = {
             },
             
     ],
+    digits1: [
+        {
+            id:1,
+            eng:"zero /зИроу/",
+            ru:"O"
+            },
+            {
+            id:2,
+            eng:"one /уан/",
+            ru:"1"
+            },
+            {
+            id:3,
+            eng:"two /ту/",
+            ru:"2"
+            },
+            {
+            id:4,
+            eng:"three /Thри/",
+            ru:"3"
+            },
+            {
+            id:5,
+            eng:"four /фо/",
+            ru:"4"
+            },
+            {
+            id:6,
+            eng:"five /файв/",
+            ru:"5"
+            },
+            {
+            id:7,
+            eng:"six /сыкс/",
+            ru:"6"
+            },
+            {
+            id:8,
+            eng:"seven /сэвн/",
+            ru:"7"
+            },
+            {
+            id:9,
+            eng:"eight /эйт/",
+            ru:"8"
+            },
+            {
+            id:10,
+            eng:"nine /найн/",
+            ru:"9"
+            },
+            {
+            id:11,
+            eng:"ten /тэн/",
+            ru:"10"
+            },
+            {
+            id:12,
+            eng:"digits /дИджитс/ from 0 to 9",
+            ru:"цифры от нуля до девяти"
+            },
+            
+    ],
     m001m: [
         {
             id:1,
