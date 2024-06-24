@@ -663,7 +663,7 @@ function getquestions() {
     // usedCheatsText.textContent = ` Правило 1: Кто скажет: "Это уже было", тот лузер! Правило 2: Читай вслух, что написано, напарник отвечает или переводит. Чтобы проверить ответ или перевод нажми на размытый текст. Кто скажет: "Это уже было", тот лузер! `
     // usedCheatsText.textContent = ` Задание написано на карточке. Чтобы проверить ответ или перевод нажми на размытый текст. Кто скажет: "Это уже было", тот лузер! `
     // usedCheatsText.textContent = ` Задание : Ты читаешь текст на карточке вслух. Твой напарник отвечает тебе. Для проверки и перевода нажми ниже (на размытый текст) Следующую карточку читает твой напарник`
-    usedCheatsText.textContent = ` Прочитай вслух и переведи вслух`
+    usedCheatsText.textContent = ` Читай вслух. Уверенно и быстро. на ОДНОМ дыхании НЕ-ПО-СЛО-ГАМ  `
 
     // backToChoosingTheMissions.classList.remove("opacityZero")
     // resetPageButton.classList.remove("opacityZero")
@@ -676,7 +676,7 @@ function getquestions() {
         bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
-        oneDeckButtonText.textContent = "Быстро спросили, чётко ответили. Автоматизм практикуем, не тормозим, помогаем друг другу"
+        oneDeckButtonText.textContent = "Быстро спросили, чётко ответили. Автоматизм практикуем, не тормозим, помогаем друг другу, замечаем и исправляем ошибки напарников"
     } else {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         cardForSpeakingGame.style.border = 'none';

@@ -801,7 +801,7 @@ const allQuestionsOneDeck = {
             },
          
     ],
-    howOftenDoYouA: [
+    whatDoYouDoNeverQ: [
         {
             id:23,
             eng:"One time a year",
@@ -894,7 +894,7 @@ const allQuestionsOneDeck = {
             },
             {
             id:38,
-            eng:"All weekends",
+            eng:"All weekend",
             ru:"все выходные",
             
             },
@@ -940,9 +940,33 @@ const allQuestionsOneDeck = {
             ru:"в полночь",
             
             },
+            {
+            id:46,
+            eng:"once a day",
+            ru:"раз в день",
+            
+            },
+            {
+            id:47,
+            eng:"twice a week",
+            ru:"дважды в неделю",
+            
+            },
+            {
+            id:48,
+            eng:"once a month",
+            ru:"раз в месяц",
+            
+            },
+            {
+            id:49,
+            eng:"twice a month",
+            ru:"дважды в месяц",
+            
+            },
          
     ],
-    howOftenDoYouQ: [
+    whatDoYouDoNeverA: [
         {
             id:123,
             eng:"teach Vincent bad words",
@@ -1073,6 +1097,36 @@ const allQuestionsOneDeck = {
             id:144,
             eng:"open instagram",
             ru:"открывать инстаграм",
+            
+            },
+            {
+            id:145,
+            eng:"watch TV",
+            ru:"смотреть телевизор",
+            
+            },
+            {
+            id:146,
+            eng:"play Poker",
+            ru:"играть в Покер",
+            
+            },
+            {
+            id:147,
+            eng:"play video games",
+            ru:"играть в видео игры",
+            
+            },
+            {
+            id:148,
+            eng:"play with my pet",
+            ru:"играть с питомцем",
+            
+            },
+            {
+            id:149,
+            eng:"go to a casino",
+            ru:"ходить в казино",
             
             },
          
