@@ -97,6 +97,460 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    shortenings1: [
+        {
+            id: 1,
+            quizQuestion: "sup? /сап/",
+            answers: [
+            {
+            answer: "как дела?",
+            correct: true
+            },
+            {
+            answer: "ты на сап борде?",
+            correct: false
+            },
+            {
+            answer: "супа хочешь?",
+            correct: false
+            },
+            {
+            answer: "где?",
+            correct: false
+            },
+            {
+            answer: "кто?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "lol ",
+            answers: [
+            {
+            answer: "очень смешно",
+            correct: true
+            },
+            {
+            answer: "лох",
+            correct: false
+            },
+            {
+            answer: "неудачник",
+            correct: false
+            },
+            {
+            answer: "леденец",
+            correct: false
+            },
+            {
+            answer: "о боже",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "brb ",
+            answers: [
+            {
+            answer: "скоро вернусь",
+            correct: true
+            },
+            {
+            answer: "арендую квартиры",
+            correct: false
+            },
+            {
+            answer: "кукла барби",
+            correct: false
+            },
+            {
+            answer: "бутерброд",
+            correct: false
+            },
+            {
+            answer: "будь готов",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "ttyl ",
+            answers: [
+            {
+            answer: "позже поговорим",
+            correct: true
+            },
+            {
+            answer: "тили вили",
+            correct: false
+            },
+            {
+            answer: "трали вали",
+            correct: false
+            },
+            {
+            answer: "придем и посмотрим",
+            correct: false
+            },
+            {
+            answer: "перезвони мне",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "omg ",
+            answers: [
+            {
+            answer: "о мой бог",
+            correct: true
+            },
+            {
+            answer: "о ма гад",
+            correct: false
+            },
+            {
+            answer: "будда гангста",
+            correct: false
+            },
+            {
+            answer: "привет",
+            correct: false
+            },
+            {
+            answer: "дружище",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "idk ",
+            answers: [
+            {
+            answer: "не знаю",
+            correct: true
+            },
+            {
+            answer: "у меня идея",
+            correct: false
+            },
+            {
+            answer: "понятия не имею",
+            correct: false
+            },
+            {
+            answer: "ну и кто это",
+            correct: false
+            },
+            {
+            answer: "я отошел ненадолго",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "btw ",
+            answers: [
+            {
+            answer: "кстати",
+            correct: true
+            },
+            {
+            answer: "только между нами",
+            correct: false
+            },
+            {
+            answer: "большой секрет",
+            correct: false
+            },
+            {
+            answer: "скоро вернусь",
+            correct: false
+            },
+            {
+            answer: "добро пожаловать",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "R U here?",
+            answers: [
+            {
+            answer: "ты здесь?",
+            correct: true
+            },
+            {
+            answer: "Русские здесь?",
+            correct: false
+            },
+            {
+            answer: "Здесь говорят по-русски?",
+            correct: false
+            },
+            {
+            answer: "Интернет здесь?",
+            correct: false
+            },
+            {
+            answer: "Она русская?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "cuz",
+            answers: [
+            {
+            answer: "так как",
+            correct: true
+            },
+            {
+            answer: "поэтому",
+            correct: false
+            },
+            {
+            answer: "вот почему",
+            correct: false
+            },
+            {
+            answer: "из-за",
+            correct: false
+            },
+            {
+            answer: "коза",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "lmfao",
+            answers: [
+            {
+            answer: "капец это смешно",
+            correct: true
+            },
+            {
+            answer: "очень грустно",
+            correct: false
+            },
+            {
+            answer: "это какие-то маты…",
+            correct: false
+            },
+            {
+            answer: "НЛО прилетело",
+            correct: false
+            },
+            {
+            answer: "черт подери",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "damn!",
+            answers: [
+            {
+            answer: "ого чёрт подери!",
+            correct: true
+            },
+            {
+            answer: "дабмба!",
+            correct: false
+            },
+            {
+            answer: "добро!",
+            correct: false
+            },
+            {
+            answer: "согласен!",
+            correct: false
+            },
+            {
+            answer: "договорились!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "fyi ",
+            answers: [
+            {
+            answer: "чтобы вы знали",
+            correct: true
+            },
+            {
+            answer: "пошел ты",
+            correct: false
+            },
+            {
+            answer: "отвали",
+            correct: false
+            },
+            {
+            answer: "это вам",
+            correct: false
+            },
+            {
+            answer: "фу",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "asap ",
+            answers: [
+            {
+            answer: "как можно быстрее",
+            correct: true
+            },
+            {
+            answer: "эх молодец",
+            correct: false
+            },
+            {
+            answer: "супер умный",
+            correct: false
+            },
+            {
+            answer: "не торопись",
+            correct: false
+            },
+            {
+            answer: "офигенно",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "plz",
+            answers: [
+            {
+            answer: "пожалуйста",
+            correct: true
+            },
+            {
+            answer: "ползи",
+            correct: false
+            },
+            {
+            answer: "полезно",
+            correct: false
+            },
+            {
+            answer: "завтра",
+            correct: false
+            },
+            {
+            answer: "точно нет",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "thx ",
+            answers: [
+            {
+            answer: "спасибо",
+            correct: true
+            },
+            {
+            answer: "отвали",
+            correct: false
+            },
+            {
+            answer: "пошел ты",
+            correct: false
+            },
+            {
+            answer: "тот самый",
+            correct: false
+            },
+            {
+            answer: "артикль",
+            correct: false
+            },
+            ]
+            },
+        {
+            id: 3,
+            quizQuestion: "Как на английском сказать: мы",
+            answers: [
+                {
+                    answer: "we",
+                    correct: true
+                },
+                {
+                    answer: "they",
+                    correct: false
+                },
+                {
+                    answer: "our",
+                    correct: false
+                },
+                {
+                    answer: "mi",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 4,
+            quizQuestion: "Как на английском сказать: они",
+            answers: [
+                {
+                    answer: "they",
+                    correct: true
+                },
+                {
+                    answer: "we",
+                    correct: false
+                },
+                {
+                    answer: "our",
+                    correct: false
+                },
+                {
+                    answer: "your",
+                    correct: false
+                },
+                {
+                    answer: "him",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 5,
+            quizQuestion: "Как на английском сказать: он",
+            answers: [
+                {
+                    answer: "he",
+                    correct: true
+                },
+                {
+                    answer: "his",
+                    correct: false
+                },
+            ]
+        },
+    ],
     hasOrHave: [
         {
             id: 1,
