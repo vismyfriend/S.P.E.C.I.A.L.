@@ -1535,7 +1535,8 @@ function scrambledtntGameNextWordToTranslate(scrambledTNTgameTaskValue) {
     }
     // TNTgameTaskValue.classList.add("none")
     // TNTgameTaskHint.textContent = `вы перевели:  ${scoreTNTGame} из ${chooseTypeOrWrite.length}`
-    scrambledTNTgameCounter.textContent = `распутано слов:  ${scrambledscoreTNTGame}`
+    scrambledTNTgameCounter.textContent = `распутано слов:  ${scrambledscoreTNTGame} `
+    
 }
 
 

@@ -126,14 +126,14 @@ const quizQuesstionsList = {
             },
             {
             id: 2,
-            quizQuestion: "lol ",
+            quizQuestion: "LoL ",
             answers: [
             {
             answer: "очень смешно",
             correct: true
             },
             {
-            answer: "лох",
+            answer: "лимонад",
             correct: false
             },
             {
@@ -334,7 +334,7 @@ const quizQuesstionsList = {
             },
             {
             id: 10,
-            quizQuestion: "lmfao",
+            quizQuestion: "Lmfao",
             answers: [
             {
             answer: "капец это смешно",
@@ -488,68 +488,215 @@ const quizQuesstionsList = {
             },
             ]
             },
-        {
-            id: 3,
-            quizQuestion: "Как на английском сказать: мы",
+            {
+            id: 16,
+            quizQuestion: "L8r",
             answers: [
-                {
-                    answer: "we",
-                    correct: true
-                },
-                {
-                    answer: "they",
-                    correct: false
-                },
-                {
-                    answer: "our",
-                    correct: false
-                },
-                {
-                    answer: "mi",
-                    correct: false
-                },
+            {
+            answer: "позже",
+            correct: true
+            },
+            {
+            answer: "8 лет",
+            correct: false
+            },
+            {
+            answer: "врун",
+            correct: false
+            },
+            {
+            answer: "лжец",
+            correct: false
+            },
+            {
+            answer: "хз вообще",
+            correct: false
+            },
             ]
-        },
-        {
-            id: 4,
-            quizQuestion: "Как на английском сказать: они",
+            },
+            {
+            id: 17,
+            quizQuestion: "c u",
             answers: [
-                {
-                    answer: "they",
-                    correct: true
-                },
-                {
-                    answer: "we",
-                    correct: false
-                },
-                {
-                    answer: "our",
-                    correct: false
-                },
-                {
-                    answer: "your",
-                    correct: false
-                },
-                {
-                    answer: "him",
-                    correct: false
-                },
+            {
+            answer: "увидимся",
+            correct: true
+            },
+            {
+            answer: "медь",
+            correct: false
+            },
+            {
+            answer: "купрум",
+            correct: false
+            },
+            {
+            answer: "СУ",
+            correct: false
+            },
+            {
+            answer: "привет",
+            correct: false
+            },
             ]
-        },
-        {
-            id: 5,
-            quizQuestion: "Как на английском сказать: он",
+            },
+            {
+            id: 18,
+            quizQuestion: "c'mon",
             answers: [
-                {
-                    answer: "he",
-                    correct: true
-                },
-                {
-                    answer: "his",
-                    correct: false
-                },
+            {
+            answer: "ну же",
+            correct: true
+            },
+            {
+            answer: "до свидания",
+            correct: false
+            },
+            {
+            answer: "пока",
+            correct: false
+            },
+            {
+            answer: "уходи",
+            correct: false
+            },
+            {
+            answer: "полиция",
+            correct: false
+            },
             ]
-        },
+            },
+            {
+            id: 19,
+            quizQuestion: "smth",
+            answers: [
+            {
+            answer: "что-то",
+            correct: true
+            },
+            {
+            answer: "смит",
+            correct: false
+            },
+            {
+            answer: "сметана",
+            correct: false
+            },
+            {
+            answer: "что-угодно вообще",
+            correct: false
+            },
+            {
+            answer: "до встречи",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "evth",
+            answers: [
+            {
+            answer: "всё",
+            correct: true
+            },
+            {
+            answer: "каждый",
+            correct: false
+            },
+            {
+            answer: "ничего",
+            correct: false
+            },
+            {
+            answer: "кто-то",
+            correct: false
+            },
+            {
+            answer: "ёлки зелёные",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "r u sure?",
+            answers: [
+            {
+            answer: "ты уверен?",
+            correct: true
+            },
+            {
+            answer: "ты точно русский?",
+            correct: false
+            },
+            {
+            answer: "хз вообще!",
+            correct: false
+            },
+            {
+            answer: "не уверен?",
+            correct: false
+            },
+            {
+            answer: "что-то из интернета",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "AFK",
+            answers: [
+            {
+            answer: "отошел от клавиатуры",
+            correct: true
+            },
+            {
+            answer: "голодный как волк",
+            correct: false
+            },
+            {
+            answer: "Африканцы",
+            correct: false
+            },
+            {
+            answer: "афтомат калафникова",
+            correct: false
+            },
+            {
+            answer: "срочно",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "rofl",
+            answers: [
+            {
+            answer: "катаюсь по полу от смеха",
+            correct: true
+            },
+            {
+            answer: "тоскую",
+            correct: false
+            },
+            {
+            answer: "грущу",
+            correct: false
+            },
+            {
+            answer: "главная роль",
+            correct: false
+            },
+            {
+            answer: "дорогая машина",
+            correct: false
+            },
+            ]
+            },
+        
     ],
     hasOrHave: [
         {
