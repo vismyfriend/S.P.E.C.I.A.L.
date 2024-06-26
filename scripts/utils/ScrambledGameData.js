@@ -20,24 +20,24 @@ const allWordsForScrambledGame = {
             ru:"третий"
             },
     ],
-    spellingbombs: [
+    scrambledWords1: [
         {
             id:1,
-            eng:"this is happiess",
-            hint: "дыс из хэпинэс",
-            ru:"это счастье"
+            eng:"robbers",
+            hint: "роббэрз",
+            ru:"грабители"
             },
             {
             id:2,
-            eng:"this is not happiess",
-            hint: "дыс из нот хэпинэс",
-            ru:"это не счастье"
+            eng:"tuesday",
+            hint: "тьюсдэй",
+            ru:"вторник"
             },
             {
             id:3,
-            eng:"is this happiess?",
-            hint: "из дыс хэпинэс?",
-            ru:"это счастье?"
+            eng:"magician",
+            hint: "мэджИшен",
+            ru:"фокусник, маг"
             },
     ]
 }

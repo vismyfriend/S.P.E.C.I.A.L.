@@ -560,6 +560,7 @@ font-size: 18px;
 .scrambledTNTgameScrambledPhraseValue,
 .TNTgameTaskValue
 {
+ 
     background: #FFF;
     border-radius: 25px;
     min-height: 30px;
@@ -575,6 +576,9 @@ font-size: 18px;
 }
 .scrambledTNTgameTaskHint {
     color: white;
+}
+.scrambledTNTgameTaskValue {
+    color: #596265;
 }
 .BenderWordOrderGameBender {
     margin-left: calc((100% - 221px) / 2);
