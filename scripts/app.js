@@ -1403,12 +1403,27 @@ function shuffle(array) {
     });
 }
 
-function scrambleWords(words) {
-    return words.split(" ").map(word => shuffle(word.split("")).join("")).join(" ")
+function scrambleWords(scrambledWords) {
+    
+    // console.log('words',scrambledWords)
+    // console.log('splitValue.Eng',value.eng.split(" "))
+    // console.log('splitValue.Eng SHUFFLE',value.eng.split(" ").map(word => shuffle(word)))
+    //тут хочется снова по переменным разбить, чтобы было понятно какое действие что делает.
+    // я пытался добавить проверку, что если при перемешивании слова все таки случайно сложились в верный порядок, то чтобы он еще раз перемешал
+    // например если    on foot = on foto, то он бы еще раз перемешал
+    // devmode()
+    return scrambledWords.split(" ").map(word => shuffle(word.split("")).join("")).join(" ")
     // так как поставили пробел он разделит не по буквам а по словам
     // разделяет строку на массив split
-
+    
 }
+
+// function devmode() {
+//     console.log("test")
+//     let splittedWord = value.eng.split(" ")
+//     let shuffledWord = shuffle(splittedWord.split("")) 
+//     console.log(shuffledWord)
+// }
 
 function handleKeyup(event) {
     if (event.code === "Enter") {
@@ -1429,6 +1444,7 @@ function scrambledstartGameTNT() {
     value = chooseScrambledGame[scrambledtypeOrWriteNumber]
     scrambledTNTgameTaskValue.textContent = value.ru
     scrambledTNTgameScrambledPhraseValue.textContent = scrambleWords(value.eng)
+    
     // возвращаеем из функции переменшанные значения, которые мы в нее передали
     scrambledTNTgameCounter.classList.add("none")
     usedCheatsText.classList.remove("visible")

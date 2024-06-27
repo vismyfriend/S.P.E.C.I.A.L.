@@ -12,6 +12,18 @@ const benderWordOrderSentences = {
             ru:"Винсент мой учитель"
             }
     ],
+    devmode0: [
+        {
+            id:1,
+            eng:"we are very good friends",
+            ru:"мы хорошие друзья"
+            },
+            {
+            id:2,
+            eng:"Vincent is the best teacher",
+            ru:"Винсент мой учитель"
+            }
+    ],
     m03: [
         {
             id:101,

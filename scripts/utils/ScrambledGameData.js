@@ -20,6 +20,25 @@ const allWordsForScrambledGame = {
             ru:"третий"
             },
     ],
+    devmode0: [
+        {
+            id:1,
+            eng:"fly fly fly",
+            hint: "цифра 1",
+            ru:"первый"
+            },
+            {
+            id:2,
+            eng:"if in it",
+            hint: "два",
+            ru:"второй"
+            },
+            {
+            id:3,
+            eng:"on off on",
+            ru:"третий"
+            },
+    ],
     professions1: [
         {
             id:1,
@@ -131,6 +150,258 @@ const allWordsForScrambledGame = {
             hint: "мэджИшен",
             ru:"фокусник, маг"
             },
-    ]
+    ],
+    allPresentSimpleMarkers: [
+        {
+            id:1,
+            eng:"Always",
+            ru:"всегда",
+            
+            },
+            {
+            id:2,
+            eng:"Almost always",
+            ru:"почти всегда",
+            
+            },
+            {
+            id:3,
+            eng:"Usually",
+            ru:"обычно",
+            
+            },
+            {
+            id:4,
+            eng:"Sometimes",
+            ru:"иногда ",
+            
+            },
+            {
+            id:5,
+            eng:"Often",
+            ru:"часто",
+            
+            },
+            {
+            id:6,
+            eng:"Not often",
+            ru:"не часто",
+            
+            },
+            
+            {
+            id:9,
+            eng:"Never",
+            ru:"никогда",
+            
+            },
+            {
+            id:10,
+            eng:"Almost never",
+            ru:"почти никогда",
+            
+            },
+            {
+            id:11,
+            eng:"Almost every hour",
+            ru:"почти каждый час",
+            
+            },
+            {
+            id:12,
+            eng:"Almost every day",
+            ru:"почти каждый день",
+            
+            },
+            {
+            id:13,
+            eng:"Every day",
+            ru:"каждый день",
+            
+            },
+            {
+            id:14,
+            eng:"Every night ",
+            ru:"каждую ночь",
+            
+            },
+            {
+            id:15,
+            eng:"Every week",
+            ru:"каждую неделю",
+            
+            },
+            {
+            id:16,
+            eng:"Every month",
+            ru:"каждый месяц",
+            
+            },
+            {
+            id:17,
+            eng:"Every year",
+            ru:"каждый год",
+            
+            },
+            
+            {
+            id:19,
+            eng:"Every evening",
+            ru:"каждый вечер",
+            
+            },
+            {
+            id:20,
+            eng:"Every weekend",
+            ru:"каждые выходные",
+            
+            },
+            
+            
+            {
+            id:25,
+            eng:"Three times a day",
+            ru:"три раза в день",
+            
+            },
+            {
+            id:26,
+            eng:"Four times a month",
+            ru:"четыре раза в месяц",
+            
+            },
+            {
+            id:27,
+            eng:"Five times a week",
+            ru:"пять раз в неделю",
+            
+            },
+            {
+            id:28,
+            eng:"Six days a week",
+            ru:"шесть дней в неделю",
+            
+            },
+            {
+            id:29,
+            eng:"Seven days a week",
+            ru:"семь дней в неделю",
+            
+            },
+            {
+            id:30,
+            eng:"Eight hours a day",
+            ru:"восемь часов в день",
+            
+            },
+            {
+            id:31,
+            eng:"Nine month a year",
+            ru:"девять месяцев в год",
+            
+            },
+            
+            {
+            id:33,
+            eng:"All day",
+            ru:"весь день",
+            
+            },
+            {
+            id:34,
+            eng:"All night ",
+            ru:"всю ночь",
+            
+            },
+            {
+            id:35,
+            eng:"All morning",
+            ru:"всё утро",
+            
+            },
+            {
+            id:36,
+            eng:"All evening",
+            ru:"весь вечер",
+            
+            },
+            {
+            id:37,
+            eng:"All week",
+            ru:"всю неделю",
+            
+            },
+            {
+            id:38,
+            eng:"All weekend",
+            ru:"все выходные",
+            
+            },
+            {
+            id:39,
+            eng:"All month",
+            ru:"весь месяц",
+            
+            },
+            {
+            id:40,
+            eng:"All year",
+            ru:"весь год",
+            
+            },
+            {
+            id:41,
+            eng:"in the morning",
+            ru:"утром",
+            
+            },
+            {
+            id:42,
+            eng:"in the afternoon",
+            ru:"днём",
+            
+            },
+            {
+            id:43,
+            eng:"in the evening",
+            ru:"вечером",
+            
+            },
+            {
+            id:44,
+            eng:"at night",
+            ru:"ночью",
+            
+            },
+            
+            
+            
+           
+            {
+            id:54,
+            eng:"very often",
+            ru:"ень часто",
+            
+            },
+            {
+            id:55,
+            eng:"not very often",
+            ru:"не очень часто",
+            
+            },
+            
+            {
+            id:68,
+            eng:"on the weekend",
+            ru:"по выходным",
+            
+            },
+            {
+            id:69,
+            eng:"on work days",
+            ru:"по будням",
+            
+            },
+    ],
 }
 export default allWordsForScrambledGame
