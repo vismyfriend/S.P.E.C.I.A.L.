@@ -14,15 +14,18 @@
     user-select: none;
 }
 .wallpaper {
-    background-image: url(../images/springwallpaper.jpg);
+    /* background-image: url(../images/springwallpaper.jpg); */
+    /* background-image: url(../images/background\ agent.jpg); */
     background-color: #ffffff;
-    opacity: 0.5;
+    opacity: 0.4;
     overflow: hidden;
     z-index: -100;
     position: absolute;
     height: 100%;
     width: 100%;
     left: 0;
+
+    
 }
 /* для всех кнопок базовый дизайн (стили) устанавливаем, поэтому без точки здесь. Дополнительные стили уже у нужных кнопок отдельно пропишем*/
 
@@ -714,7 +717,7 @@ font-size: 20px;
     -ms-flex-pack: center;
     justify-content: center;
     text-align: center;
-    min-width: 100px;
+    min-width: 110px;
     height: 46px;
     left: 49.09px;
     top: 304px;

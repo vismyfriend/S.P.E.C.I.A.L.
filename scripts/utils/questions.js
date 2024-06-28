@@ -12077,7 +12077,7 @@ const allQuestionsOneDeck = {
                 ru:"минус",
                 },
     ],
-    alphabetc1: [
+    alphabetb2: [
         {
             id:1,
             eng:"Скажи 2 любых английских слова, в которых первая буква : ` / эй / `",

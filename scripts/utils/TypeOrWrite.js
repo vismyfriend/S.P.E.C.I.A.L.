@@ -6685,7 +6685,7 @@ const allWordsForGameTypeOrWrite = {
             ru:"Какая английская буква произносится :  / ЗИ и ZЭД /"
             },
     ],
-    alphabeta2: [
+    alphabeta1: [
         {
             id:1,
             eng:"A",

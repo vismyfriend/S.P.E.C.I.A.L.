@@ -203,8 +203,8 @@ const allCardsGameFindAPair = {
             },
             {
             id:12,
-            eng:"digits /дИджитс/ from 0 to 9",
-            ru:"цифры от нуля до девяти"
+            eng:"digits /дИджитс/",
+            ru:"цифры"
             },
             
     ],
@@ -279,6 +279,98 @@ const allCardsGameFindAPair = {
             id:12,
             eng:"my / май /",
             ru:"мой , моё моя , мои",
+            
+            },
+    ],
+    professions1: [
+        {
+            id:1,
+            eng:"teachers / тичерз /",
+            ru:"учителя",
+            
+            },
+            {
+            id:2,
+            eng:"students / стьюдэнтся /",
+            ru:"учащиеся",
+            
+            },
+            {
+            id:3,
+            eng:"readers / рИдэрз /",
+            ru:"читатели",
+            
+            },
+            {
+            id:4,
+            eng:"writers / райтэрз /",
+            ru:"писатели",
+            
+            },
+            {
+            id:5,
+            eng:"dancers / дэнсэрз /",
+            ru:"танцоры",
+            
+            },
+            {
+            id:6,
+            eng:"killers / килэрз /",
+            ru:"убийцы",
+            
+            },
+            {
+            id:7,
+            eng:"robbers / роббэрз /",
+            ru:"грабители",
+            
+            },
+            {
+            id:8,
+            eng:"drivers / дрАйвэрз /",
+            ru:"водители",
+            
+            },
+            {
+            id:9,
+            eng:"singers / сИнгэрз /",
+            ru:"певцы",
+            
+            },
+            {
+            id:10,
+            eng:"builders / бИлдэрз /",
+            ru:"строители",
+            
+            },
+            {
+            id:11,
+            eng:"sportsmen / спОртсмен /",
+            ru:"спортсмены",
+            
+            },
+            {
+            id:12,
+            eng:"runners / раннэрз /",
+            ru:"бегуны",
+            
+            },
+            {
+            id:13,
+            eng:"jumpers / джАмпэрз /",
+            ru:"прыгуны",
+            
+            },
+            {
+            id:14,
+            eng:"swimmers / свиммэрз /",
+            ru:"пловцы (плаватели)",
+            
+            },
+            {
+            id:15,
+            eng:"managers / мЭнэджэрз /",
+            ru:"менеджеры",
             
             },
     ],
@@ -2600,7 +2692,7 @@ const allCardsGameFindAPair = {
             {
             id:40,
             eng:"IDK",
-            ru:"/ай ди кей/ I don't know",
+            ru:"/ай ди кей/ I don't know",
             },
             {
             id:41,
@@ -2630,7 +2722,7 @@ const allCardsGameFindAPair = {
             {
             id:46,
             eng:"R",
-            ru:"/ а /",
+            ru:"никаких рычаний / а / произносится только / А /",
             },
             {
             id:47,

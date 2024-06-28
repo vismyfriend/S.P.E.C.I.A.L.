@@ -172,6 +172,9 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
 }
 
 function backToTheVeryFirstScreen() {
+    clearInterval(interval)
+   //вот сюда нужно вставить завершение таймера квиза clearInterval(this.QuizTimerMechanics)
+
 
     // console.log("начало функции")
     
@@ -206,6 +209,8 @@ function backToTheVeryFirstScreen() {
     usedCheatsText.classList.remove("visible")
     clearInterval(TNTtimerMechanics)
     clearInterval(scrambledTNTtimerMechanics)
+   
+    
     TNTbeforeExplosion = 30
     scrambledTNTbeforeExplosion = 1
     scoreTNTGame = 0
@@ -505,6 +510,7 @@ function howManyStarsScore() {
         timeToGet4StarResult = 12
         timeToGet3StarResult = 18
         timeToGet2StarResult = 22
+        console.log('чтобы получить пять звезд' + timeToGet5StarResult)
     } else if (chosenArray.length > 12 && chosenArray.length < 19) {
         timeToGet5StarResult = 15
         timeToGet4StarResult = 20
@@ -575,8 +581,11 @@ function startTimer() {
     }
     if (seconds > 9) {
         timeSeconds.textContent = seconds;
+        
     }
+    console.log(timeSeconds.textContent)
 }
+
 
 function nextCardsGameFindAPairCheatUsed() {
     gameFindAPairContainer.innerHTML = ""
@@ -636,7 +645,7 @@ function startGameQuestions() {
     oneDeckButtonText.classList.add("visible")
     popupMissionsAndSets.classList.add("close")
     cardForSpeakingGame.classList.remove("hiddenDeck")
-    interval = setInterval(startTimer, 10);
+    // interval = setInterval(startTimer, 10);
 }
 
 oneDeckButtonPrevious.addEventListener("click", shuffleDecks, startGameQuestions)
