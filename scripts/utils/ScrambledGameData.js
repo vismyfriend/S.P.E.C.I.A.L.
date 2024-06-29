@@ -20,23 +20,50 @@ const allWordsForScrambledGame = {
             ru:"третий"
             },
     ],
-    devmode0: [
+       devmode0: [
         {
             id:1,
-            eng:"fly fly fly",
-            hint: "цифра 1",
-            ru:"первый"
+            eng:"Teachers",
+            ru:"учителя",
+            hint:" / тичерз /"
             },
             {
             id:2,
-            eng:"if in it",
-            hint: "два",
-            ru:"второй"
+            eng:"Students",
+            ru:"учащиеся",
+            hint:" / стьюдэнтся /"
             },
             {
-            id:3,
-            eng:"on off on",
-            ru:"третий"
+            id:7,
+            eng:"Robbers",
+            ru:"грабители",
+            hint:" / роббэрз /"
+            },
+           
+            {
+            id:11,
+            eng:"Sportsmen",
+            ru:"спортсмены",
+            hint:" / спОртсмен /"
+            },
+            {
+            id:12,
+            eng:"Runners",
+            ru:"бегуны",
+            hint:" / раннэрз /"
+            },
+            {
+            id:13,
+            eng:"Jumpers",
+            ru:"прыгуны",
+            hint:" / джАмпэрз /"
+            },
+    
+            {
+            id:15,
+            eng:"Managers",
+            ru:"менеджеры",
+            hint:" / мЭнэджэрз /"
             },
     ],
     professions1: [

@@ -1526,7 +1526,7 @@ const allQuestionsOneDeck = {
          
     ],
     
-    devmode1: [
+    devmode0: [
         {
             id:1,
             eng:"   Как по-английски :   ` первый `",

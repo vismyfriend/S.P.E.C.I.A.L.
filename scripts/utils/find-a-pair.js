@@ -732,7 +732,7 @@ const allCardsGameFindAPair = {
             
             },
     ],
-    devmode1: [
+    devmode0: [
         {
             id: 1,
             eng: "the first / фест /",

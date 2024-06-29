@@ -1,7 +1,7 @@
 // чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R  ^(\s)*$\n 
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allWordsForGameTypeOrWrite = {
-    devmode1: [
+    devmode0: [
         {
             id:1,
             eng:"1",
