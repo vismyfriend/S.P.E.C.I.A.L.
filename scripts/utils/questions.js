@@ -648,276 +648,346 @@ const allQuestionsOneDeck = {
             ru:"каждые выходные",
             
             },
-            
             {
-            id:23,
+            id:21,
             eng:"One time a year",
             ru:"один раз в год",
             
             },
             {
-            id:24,
+            id:22,
             eng:"Two times a year",
             ru:"два раза в год",
             
             },
             {
-            id:25,
+            id:23,
             eng:"Three times a day",
             ru:"три раза в день",
             
             },
             {
-            id:26,
+            id:24,
             eng:"Four times a month",
             ru:"четыре раза в месяц",
             
             },
             {
-            id:27,
+            id:25,
             eng:"Five times a week",
             ru:"пять раз в неделю",
             
             },
             {
-            id:28,
+            id:26,
             eng:"Six days a week",
             ru:"шесть дней в неделю",
             
             },
             {
-            id:29,
+            id:27,
             eng:"Seven days a week",
             ru:"семь дней в неделю",
             
             },
             {
-            id:30,
+            id:28,
             eng:"Eight hours a day",
             ru:"восемь часов в день",
             
             },
             {
-            id:31,
+            id:29,
             eng:"Nine month a year",
             ru:"девять месяцев в год",
             
             },
             {
-            id:32,
+            id:30,
             eng:"Twenty four hours a day",
             ru:"24 часа в сутки",
             
             },
             {
-            id:33,
+            id:31,
             eng:"All day",
             ru:"весь день",
             
             },
             {
-            id:34,
+            id:32,
             eng:"All night ",
             ru:"всю ночь",
             
             },
             {
-            id:35,
+            id:33,
             eng:"All morning",
             ru:"всё утро",
             
             },
             {
-            id:36,
+            id:34,
             eng:"All evening",
             ru:"весь вечер",
             
             },
             {
-            id:37,
+            id:35,
             eng:"All week",
             ru:"всю неделю",
             
             },
             {
-            id:38,
+            id:36,
             eng:"All weekend",
             ru:"все выходные",
             
             },
             {
-            id:39,
+            id:37,
             eng:"All month",
             ru:"весь месяц",
             
             },
             {
-            id:40,
+            id:38,
             eng:"All year",
             ru:"весь год",
             
             },
             {
-            id:41,
+            id:39,
             eng:"in the morning",
             ru:"утром",
             
             },
             {
-            id:42,
+            id:40,
             eng:"in the afternoon",
             ru:"днём",
             
             },
             {
-            id:43,
+            id:41,
             eng:"in the evening",
             ru:"вечером",
             
             },
             {
-            id:44,
+            id:42,
             eng:"at night",
             ru:"ночью",
             
             },
             {
-            id:45,
+            id:43,
             eng:"at midnight",
             ru:"в полночь",
             
             },
             {
-            id:46,
+            id:44,
             eng:"once a day",
             ru:"раз в день",
             
             },
             {
-            id:47,
+            id:45,
             eng:"twice a week",
             ru:"дважды в неделю",
             
             },
             {
-            id:48,
+            id:46,
             eng:"once a month",
             ru:"раз в месяц",
             
             },
             {
-            id:49,
+            id:47,
             eng:"twice a month",
             ru:"дважды в месяц",
             
             },
-            
             {
-            id:52,
+            id:48,
             eng:"almost every month",
             ru:"почти каждый месяц",
             
             },
             {
-            id:53,
+            id:49,
             eng:"never, never, never!",
             ru:"никогда, никогда, никогда!",
             
             },
             {
-            id:54,
+            id:50,
             eng:"very often",
-            ru:"ень часто",
+            ru:"очень часто",
             
             },
             {
-            id:55,
+            id:51,
             eng:"not very often",
             ru:"не очень часто",
             
             },
             {
-            id:56,
+            id:52,
             eng:"very seldom",
             ru:"совсем изредка",
             
             },
             {
-            id:57,
+            id:53,
             eng:"very rarely",
             ru:"очень редко",
             
             },
             {
-            id:58,
+            id:54,
             eng:"every English lesson",
             ru:"каждый урок Английского",
             
             },
             {
-            id:59,
+            id:55,
             eng:"every time when I see Vincent",
             ru:"каждый раз, когда вижу Винсента",
             
             },
             {
-            id:60,
+            id:56,
             eng:"one time a week",
             ru:"один раз в неделю",
             
             },
             {
-            id:61,
+            id:57,
             eng:"once a year",
             ru:"раз в год",
             
             },
             {
-            id:62,
+            id:58,
             eng:"twice a day",
             ru:"дважды в день",
             
             },
             {
-            id:63,
+            id:59,
             eng:"three times a month",
             ru:"три раза в месяц",
             
             },
             {
-            id:64,
+            id:60,
             eng:"forty hours a week",
             ru:"сорок часов в неделю",
             
             },
             {
-            id:65,
+            id:61,
             eng:"almost every weekend",
             ru:"почти каждые выходные",
             
             },
             {
-            id:66,
+            id:62,
             eng:"every time when Vincent asks",
             ru:"каждый раз, когда Винсент просит",
             
             },
             {
-            id:67,
+            id:63,
             eng:"12 times a year",
-            ru:"",
+            ru:"двенадцать раз в году",
             
             },
             {
-            id:68,
+            id:64,
             eng:"on the weekend",
             ru:"по выходным",
             
             },
             {
-            id:69,
+            id:65,
             eng:"on work days",
             ru:"по будням",
+            
+            },
+            {
+            id:66,
+            eng:"in winter",
+            ru:"зимой",
+            
+            },
+            {
+            id:67,
+            eng:"in summer",
+            ru:"летом",
+            
+            },
+            {
+            id:68,
+            eng:"in autumn (British)",
+            ru:"осенью (по-британски)",
+            
+            },
+            {
+            id:69,
+            eng:"in fall (American)",
+            ru:"осенью (по-американски)",
+            
+            },
+            {
+            id:70,
+            eng:"in spring",
+            ru:"весной",
+            
+            },
+            {
+            id:71,
+            eng:"on Mondays",
+            ru:"по понедельникам",
+            
+            },
+            {
+            id:72,
+            eng:"on Tuesdays",
+            ru:"по вторникам",
+            
+            },
+            {
+            id:73,
+            eng:"on Wednesdays",
+            ru:"по средам",
+            
+            },
+            {
+            id:74,
+            eng:"on Thursdays",
+            ru:"по четвергам",
+            
+            },
+            {
+            id:75,
+            eng:"on Fridays",
+            ru:"по пятницам",
+            
+            },
+            {
+            id:76,
+            eng:"on Saturdays",
+            ru:"по субботам",
+            
+            },
+            {
+            id:77,
+            eng:"on Sundays",
+            ru:"по воскресеньям",
             
             },
     ],

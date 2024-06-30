@@ -24,6 +24,87 @@ const benderWordOrderSentences = {
             ru:"Винсент мой учитель"
             }
     ],
+    professions1: [
+        {
+            id:101,
+            eng:"t e a c h e r s",
+            ru:"учителя",
+            hint:" / тичерз /"
+            },
+            {
+            id:102,
+            eng:"s t u d e n t s",
+            ru:"учащиеся",
+            hint:" / стьюдэнтся /"
+            },
+            {
+            id:103,
+            eng:"r e a d e r s",
+            ru:"читатели",
+            hint:" / рИдэрз /"
+            },
+            {
+            id:104,
+            eng:"w r i t e r s",
+            ru:"писатели",
+            hint:" / райтэрз /"
+            },
+            {
+            id:105,
+            eng:"d a n c e r s",
+            ru:"танцоры",
+            hint:" / дэнсэрз /"
+            },
+            {
+            id:106,
+            eng:"k i l l e r s",
+            ru:"убийцы",
+            hint:" / килэрз /"
+            },
+            {
+            id:107,
+            eng:"r o b b e r s",
+            ru:"грабители",
+            hint:" / роббэрз /"
+            },
+            {
+            id:108,
+            eng:"d r i v e r s",
+            ru:"водители",
+            hint:" / дрАйвэрз /"
+            },
+            {
+            id:109,
+            eng:"s i n g e r s",
+            ru:"певцы",
+            hint:" / сИнгэрз /"
+            },
+            {
+            id:110,
+            eng:"b u i l d e r s",
+            ru:"строители",
+            hint:" / бИлдэрз /"
+            },
+            {
+            id:111,
+            eng:"s p o r t s m e n",
+            ru:"спортсмены",
+            hint:" / спОртсмен /"
+            },
+            {
+            id:112,
+            eng:"r u n n e r s",
+            ru:"бегуны",
+            hint:" / раннэрз /"
+            },
+            {
+            id:113,
+            eng:"j u m p e r s",
+            ru:"прыгуны",
+            hint:" / джАмпэрз /"
+            },
+    ],
+   
     digits1: [
         {
             id:1,
