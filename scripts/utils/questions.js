@@ -1633,7 +1633,7 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
-    questions220: [
+    questions210: [
         {
             id:1,
             eng:"Some people fall asleep at once. And other people can't fall asleep for long time. What about you? How fast do you fall asleep?",
@@ -1695,7 +1695,7 @@ const allQuestionsOneDeck = {
             
             },
     ],
-    questions230: [
+    questions220: [
         {
             id:11,
             eng:"Do you have book near your bed? (if YES: what is this book about?)",
@@ -1756,7 +1756,9 @@ const allQuestionsOneDeck = {
             ru:"Ваше домашнее животное спит с вами в кровати? Вы приемлете, чтобы питомцы спали с людьми в кроватях?",
             
             },
-            {
+    ],
+    questions230: [
+        {
             id:21,
             eng:"Can you and your job allow yourself a power nap during your day? (power nap is a short 20 minute sleep during a day)",
             ru:"Вы и ваша работа могут разрешить вам короткий сон перезарядку в течении дня? (обычно 15-20 минут в какое-то время дня)",
@@ -1774,6 +1776,48 @@ const allQuestionsOneDeck = {
             ru:"Вы когда-нибудь просыпали важное мероприятие? Когда? Что за мероприятие?",
             
             },
+            {
+            id:24,
+            eng:"How often do you see nightmares / нАйтмЭарз / кошмары Do you remember any nightmare dreams?",
+            ru:"Как часто вам снятся кошмары? Вы помните какие-либо кошмары?",
+            
+            },
+            {
+            id:25,
+            eng:"Can counting animals help people fall asleep? It this true? What animals do you count? Sheep or unicorns? / Юникорнз / единорогов",
+            ru:"Может ли считание животных помочь человеку уснуть? Это правда? Каких животных вы считаете? Овечек или Единорогов? ",
+            
+            },
+            {
+            id:26,
+            eng:"Is it easy for you to fall asleep when you have to wake up early next morning for something important?",
+            ru:"Вам легко дается уснуть если утром вам нужно рано проснуться ради чего-то важного?",
+            
+            },
+            {
+            id:27,
+            eng:"Do you get up at once сразу же / эт уАнс / or do you lie in bed for some time? / лай / лежать",
+            ru:"Вы встаете сразу же или вам нужно полежать в кровати какое-то время?",
+            
+            },
+            {
+            id:28,
+            eng:"Do you keep your phone under your pillow or on a table? Be honest ! / онист / будь честным!",
+            ru:"Вы храните телефон под подушкой или на столике когда спите? По честному отвечайте",
+            
+            },
+            {
+            id:29,
+            eng:"How many alarm clocks do you have? One or a few? / э фью / несколько",
+            ru:"Cсколько у вас будильников? Один или несколько?",
+            
+            },
+            {
+                id:30,
+                eng:"Do you press ' snooze ' нажимаете / cнуз / отложить на несколько минут on your alarm clock when it rings?",
+                ru:"Нажимаете кнопку отложить на пару минут будильник, когда будильник звенит?",
+                
+                },
     ],
     words001: [
         {
