@@ -1633,6 +1633,148 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    questions220: [
+        {
+            id:1,
+            eng:"Some people fall asleep at once. And other people can't fall asleep for long time. What about you? How fast do you fall asleep?",
+            ru:"Некоторые люди сразу засыпают, а другие не могут уснуть долго. А ты как быстро засыпаешь?",
+            
+            },
+            {
+            id:2,
+            eng:"What time did you go to bed yesterday? And what time did you fall asleep?",
+            ru:"Во сколько вы отправились в кровать вчера и во сколько уснули?",
+            
+            },
+            {
+            id:3,
+            eng:"Do you remember what you saw in your dreams yesterday or the day before yesterday? Can you describe it? / дискрайб / описывать",
+            ru:"Помните, что вы видели во сне вчера или позавчера? Сможете описать это?",
+            
+            },
+            {
+            id:4,
+            eng:"Do you snore sometimes? / сно / храпеть Does anybody in your family snore? /снор/ буква R вконце слова слабо произносится",
+            ru:"Вы храпите иногда? Хоть кто-то храпит в вашей семье?",
+            
+            },
+            {
+            id:5,
+            eng:"What do you think? Does you teacher snore? ХРРРАПЕТЬ / снор / буква R вконце слова слабо произносится",
+            ru:"Как вы думаете ваша училка храпит?",
+            
+            },
+            {
+            id:6,
+            eng:"Do you wake up with an alarm clock or do you wake up without an alarm clock?",
+            ru:"Вы просыпаетесь по будильнику или без будильника?",
+            
+            },
+            {
+            id:7,
+            eng:"How many hours do you need to sleep to feel really great and full of energy?",
+            ru:"Сколько часов вам нужно поспать, чтобы чувствовать себя действительно великолепно и полным энергии?",
+            
+            },
+            {
+            id:8,
+            eng:"Can any small and not loud noises wake you up at night? / нот лАуд нОизиз /  не громкие звуки",
+            ru:"Могут ли какие-либо маленькие и не громкие звуки разбудить вас ночью?",
+            
+            },
+            {
+            id:9,
+            eng:"Do you send to anybody 'Good night' messages?",
+            ru:"Вы посылаете кому-нибудь сообщения с пожеланиями спокойной ночи?",
+            
+            },
+            {
+            id:10,
+            eng:"Some people wake up at night to drink. Do you sometimes wake up and drink at night?",
+            ru:"Некоторые люди просыпаются по ночам, чтобы попить. Вы просыпаетесь время от времени и пьете?",
+            
+            },
+    ],
+    questions230: [
+        {
+            id:11,
+            eng:"Do you have book near your bed? (if YES: what is this book about?)",
+            ru:"У вас рядом с кроватью есть книга? Если ответ ДА, то о чем эта книга?",
+            
+            },
+            {
+            id:12,
+            eng:"Do you put a glass of water near your bed before you go to sleep?",
+            ru:"Вы ставите стакан с водой рядом с вашей кроватью перед тем как идете спать?",
+            
+            },
+            {
+            id:13,
+            eng:"Does anybody in your family watch YouTube before they fall asleep?",
+            ru:"Кто-нибудь в вашей семье смотрит Ютюб перед сном?",
+            
+            },
+            {
+            id:14,
+            eng:"Do you watch news before you fall asleep?",
+            ru:"вы смотрите/читаете новости перед тем как засыпаете?",
+            
+            },
+            {
+            id:15,
+            eng:"What color are your bed sheets? / бэд щиииитс / простыни",
+            ru:"Какого цвета ваши простыни?",
+            
+            },
+            {
+            id:16,
+            eng:"What color are your blanket cases? / блЭнкит кЕйсиз / пододеяльник",
+            ru:"Какого цвета ваши пододеяльники?",
+            
+            },
+            {
+            id:17,
+            eng:"What color are your pillow cases? / пИлоу кЕйсиз / наволочки",
+            ru:"Какого цвета ваши наволочки?",
+            
+            },
+            {
+            id:18,
+            eng:"Is your pillow big or small? Is it usual or special? Do you like your pillow? / пИлоу / подушко",
+            ru:"Ваша подушка большая или маленькая? Обычная или особенная? Вам она нравится?",
+            
+            },
+            {
+            id:19,
+            eng:"Do you have a single bed or a double bed? Or a super kingsize bed?",
+            ru:"У вас односпальная кровать или двухспальная? Или огромная королевская кровать?",
+            
+            },
+            {
+            id:20,
+            eng:"Does your pet sleep with you in your bed? Is it okay for pets to sleep on people's bed?",
+            ru:"Ваше домашнее животное спит с вами в кровати? Вы приемлете, чтобы питомцы спали с людьми в кроватях?",
+            
+            },
+            {
+            id:21,
+            eng:"Can you and your job allow yourself a power nap during your day? (power nap is a short 20 minute sleep during a day)",
+            ru:"Вы и ваша работа могут разрешить вам короткий сон перезарядку в течении дня? (обычно 15-20 минут в какое-то время дня)",
+            
+            },
+            {
+            id:22,
+            eng:"Are you жаворонок : an early bird / ёли бёрд / or a night owl / аул / сова? When do you feel the most productive?",
+            ru:"В какое время суток вы чувствуете себя самым продуктивным? С утра или ближе к вечеру?",
+            
+            },
+            {
+            id:23,
+            eng:"Did you ever oversleep an important event? важное мероприятие / ивЭнт / When was it? What was the event? ударение на второй слог / ивЭнт /",
+            ru:"Вы когда-нибудь просыпали важное мероприятие? Когда? Что за мероприятие?",
+            
+            },
+    ],
     words001: [
         {
             id:1,
