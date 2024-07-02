@@ -1633,6 +1633,192 @@ const allQuestionsOneDeck = {
             ru:"THE SEVENTH "
             },
     ],
+    questions70: [
+        {
+            id:1,
+            eng:"How old are you? How old am I? How old is your phone?",
+            ru:"Сколько лет тебе ? Сколько лет мне ? Сколько лет вашему телефону?",
+            
+            },
+            {
+            id:2,
+            eng:"How often do you drink alcohol?",
+            ru:"Как часто вы употребляете алкоголь?",
+            
+            },
+            {
+            id:3,
+            eng:"What presents do you want to get for your next birthday? ",
+            ru:"Какие подарки ты хочешь получить на свой следующий день рождения? ",
+            
+            },
+            {
+            id:4,
+            eng:"When is your birthday? I want to send you a postcard.",
+            ru:"Когда у тебя день рождения? Я хочу отправить тебе открытку. ",
+            
+            },
+            {
+            id:5,
+            eng:"What is your favorite animal?",
+            ru:"Какое ваше любимое животное?",
+            
+            },
+            {
+            id:6,
+            eng:"What color are your teacher’s eyes?",
+            ru:"Какого цвета глаза у твоего учителя? ",
+            
+            },
+            {
+            id:7,
+            eng:"Do you have brothers or sisters?",
+            ru:"У тебя есть братья или сестры? ",
+            
+            },
+            {
+            id:8,
+            eng:"What is your favorite color?",
+            ru:"Какой твой любимый цвет? ",
+            
+            },
+            {
+            id:9,
+            eng:"What is your hobby?",
+            ru:"Какое у вас хобби?",
+            
+            },
+            {
+            id:10,
+            eng:"What hobby does your best friend have?",
+            ru:"Какое хобби у твоего лучшего друга или подруги?",
+            
+            },
+    ],
+    questions80: [
+        {
+            id:11,
+            eng:"Do you collect anything?",
+            ru:"Вы коллекционируете что-либо?",
+            
+            },
+            {
+            id:12,
+            eng:"What's your favorite movie genre? (Horrors, comedies, actions, detectives, romantic comedies, drama, thrillers, animations, cartoons, fantasy, documentary) ",
+            ru:"Какой твой любимый жанр кино?",
+            
+            },
+            {
+            id:13,
+            eng:"What sports do you like to watch?",
+            ru:"Какие виды спорта тебе нравится смотреть?",
+            
+            },
+            {
+            id:14,
+            eng:"What is your idea of a perfect Saturday?",
+            ru:"Каково твое представление об идеальной субботе?",
+            
+            },
+            {
+            id:15,
+            eng:"What's something that always makes you smile?",
+            ru:"Что всегда заставляет тебя улыбаться?",
+            
+            },
+            {
+            id:16,
+            eng:"What time do you usually wake up?",
+            ru:"Во сколько ты обычно просыпаешься?",
+            
+            },
+            {
+            id:17,
+            eng:"Do you have any medals for something?",
+            ru:"У вас есть какие-нибудь медали за что-нибудь?",
+            
+            },
+            {
+            id:18,
+            eng:"Are you nervous when you speak English? Why?",
+            ru:"Тебе нервничать, когда ты говоришь на английском? Почему?",
+            
+            },
+            {
+            id:19,
+            eng:"What food do you usually order when you go to a restaurant?",
+            ru:"Какую еду ты обычно заказываешь, когда идешь в ресторан?",
+            
+            },
+            {
+            id:20,
+            eng:"What food do you like?",
+            ru:"Какая еда вам нравится?",
+            
+            },
+    ],
+    questions90: [
+        {
+            id:21,
+            eng:"Do you have any tattoos? What tattoos and where? Can you show?",
+            ru:"У тебя есть татуировки? Какие татуировки и где? Можешь показать?",
+            
+            },
+            {
+            id:22,
+            eng:"Do you play musical instrument? What musical instruments do you like? ",
+            ru:"Ты играешь на музыкальном инструменте? Какие музыкальные инструменты тебе нравятся?",
+            
+            },
+            {
+            id:23,
+            eng:"Do you sometimes sing in a shower?",
+            ru:"Ты иногда поешь в душе?",
+            
+            },
+            {
+            id:24,
+            eng:"What toys do you remember from your childhood?",
+            ru:"Какие игрушки ты помнишь из детства?",
+            
+            },
+            {
+            id:25,
+            eng:"Do you play games on your phone? ",
+            ru:"Ты играешь в игры на своем телефоне?",
+            
+            },
+            {
+            id:26,
+            eng:"What Apps on your phone do you use very often?  ",
+            ru:"Какие приложения на твоем телефоне ты используешь очень часто?",
+            
+            },
+            {
+            id:27,
+            eng:"When are your English lessons? What days of the week and what time?",
+            ru:"Когда у тебя занятия английским? В какие дни недели и в какое время?",
+            
+            },
+            {
+            id:28,
+            eng:"Does your family have any pets?",
+            ru:"У вас в семье есть домашние животные?",
+            
+            },
+            {
+            id:29,
+            eng:"When do you usually do sport?",
+            ru:"Когда вы обчно занимаетесь спортом?",
+            
+            },
+            {
+            id:30,
+            eng:"How often do you eat red meat?",
+            ru:"Как часто вы едите красное мясо?",
+            
+            },
+    ],
     questions210: [
         {
             id:1,
