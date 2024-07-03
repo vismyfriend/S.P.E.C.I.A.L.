@@ -182,9 +182,10 @@ function backToTheVeryFirstScreen() {
     clearInterval(interval)
    //вот сюда нужно вставить завершение таймера квиза clearInterval(this.QuizTimerMechanics)
 
+    // уточнить таймер сброс таймера то есть ломает игру если мы еще не заходили в игру квиз
 
-    console.log(quizGameClass)
-    quizGameClass.stopTimer()
+    // console.log(quizGameClass)
+    // quizGameClass.stopTimer()
     
     scoreGameBenderWordOrderGame = 0
     scoreTypeOrWriteGame = 0
@@ -335,6 +336,9 @@ function userSearchesForMissionSet() {
 // ниже игра quiz test multiple choice ниже игра quiz test multiple choice ниже игра quiz test multiple choice ниже игра quiz test multiple choice
 const mainContainerIntroAnd2games = document.querySelector(".mainContainerIntroAnd2games")
 const multipleChoiceQuiz = document.querySelector(".popupMissionsAndSets__multipleChoiceQuiz")
+
+
+
 function startGameMultipleChoiceQuiz() {
     body.classList.add("BenderWordOrderGameBackgroundPicture")
     // location.href = "https://bababum95.github.io/vinchento/slot-machine.html"
