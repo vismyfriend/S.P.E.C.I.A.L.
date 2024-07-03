@@ -5,14 +5,16 @@ const allQuestionsOneDeck = {
             id:1,
             ru:"an owl JPG",
             // eng:"/images/picturesForCards/owlJPGtrasparent.jpg",
-            eng:"./images/picturesForCards/owlJPGtrasparent.jpg",
+            // eng:"./images/picturesForCards/owlJPGtrasparent.jpg",
+            eng:"/S.P.E.C.I.A.L./images/picturesForCards/owlJPGtrasparent.jpg",
             // ru:"картинка совы JPG мало весит, но не прозрачная она",
             },
             {
             id:2,
             ru:"an owl PNG",
             // eng:"/images/picturesForCards/foxxx.png",
-            eng:"./images/picturesForCards/foxxx.png",
+            // eng:"./images/picturesForCards/foxxx.png",
+            eng:"/S.P.E.C.I.A.L./images/picturesForCards/foxxx.jpg",
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
             },
             

@@ -74,7 +74,7 @@ const mainContainer5gameTwoCardDecks = document.querySelector(".mainContainer5ga
 // уточнить, что означает set в скобках - это аргумент или параметр и разница в чем? 
 let currentSet = null
 
-let quizGameClass
+let quizGameClass = null
 
 
 
@@ -184,8 +184,8 @@ function backToTheVeryFirstScreen() {
 
     // уточнить таймер сброс таймера то есть ломает игру если мы еще не заходили в игру квиз
 
-    // console.log(quizGameClass)
-    // quizGameClass.stopTimer()
+    console.log(quizGameClass)
+    quizGameClass.stopTimer()
     
     scoreGameBenderWordOrderGame = 0
     scoreTypeOrWriteGame = 0
