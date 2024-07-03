@@ -74,6 +74,8 @@ const mainContainer5gameTwoCardDecks = document.querySelector(".mainContainer5ga
 // уточнить, что означает set в скобках - это аргумент или параметр и разница в чем? 
 let currentSet = null
 
+let quizGameClass
+
 
 
 
@@ -181,7 +183,8 @@ function backToTheVeryFirstScreen() {
    //вот сюда нужно вставить завершение таймера квиза clearInterval(this.QuizTimerMechanics)
 
 
-    // console.log("начало функции")
+    console.log(quizGameClass)
+    quizGameClass.stopTimer()
     
     scoreGameBenderWordOrderGame = 0
     scoreTypeOrWriteGame = 0
@@ -338,7 +341,7 @@ function startGameMultipleChoiceQuiz() {
     mainContainerIntroAnd2games.classList.add("none")
     gameBender.classList.add("none")
     gameTrickyQuiz.classList.remove("none")
-    new QuizQ({ quizAllQuestions: quizQuestionsList[currentSet] })
+    quizGameClass = new QuizQ({ quizAllQuestions: quizQuestionsList[currentSet] })
 }
 multipleChoiceQuiz.addEventListener("click", startGameMultipleChoiceQuiz)
 // выше игра quiz test multiple choice
@@ -418,6 +421,7 @@ function renderCards(lang) {
         return Math.random() - 0.5;
     });
     for (let i = 0; i < shuffle.length; i++) {
+        console.log(shuffle[i][lang])
         const someCard = card.cloneNode(true)
         someCard.textContent = shuffle[i][lang]
         someCard.classList.add(lang)
@@ -693,11 +697,33 @@ function getquestions() {
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
         value = chooseQuestions[questionNumber]
         bottomOfTheCard1Value.classList.remove("Unblur")
-        topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
+        if (value.eng[0] === "/" ) {
+            
+            // / Создаем элемент img
+        let imgTag = document.createElement("img");
+        // Устанавливаем атрибут src
+        imgTag.src = value.eng;
+        // Очищаем содержимое topOfTheCard1Value, если нужно
+        topOfTheCard1Value.innerHTML = "";
+        // Добавляем imgTag в topOfTheCard1Value
+        topOfTheCard1Value.appendChild(imgTag);
+            
+            // topOfTheCard1Value.textContent = `<img src="${value.eng}">`
+        // let imgTag = document.createElement("img")
+        // topOfTheCard1Value.appendChild(imgTag)
+
+
+        } else {
+        
+            topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
+        }
         bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
         oneDeckButtonText.textContent = "Быстро спросили, чётко ответили. Автоматизм практикуем, не тормозим, помогаем друг другу, замечаем и исправляем ошибки напарников"
+        console.log(value.eng[0] === "/"  )
+        // console.log(value.ru[0])
+        // показывает первый символ элемента массива из строки
     } else {
         cardForSpeakingGame.classList.remove("AnOpenCard")
         cardForSpeakingGame.style.border = 'none';

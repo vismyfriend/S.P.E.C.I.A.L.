@@ -1179,6 +1179,10 @@ font-size: 20px;
     font-size: 19px;
 }
 
+.oneDeckOfCards__topOfTheCard1Value img {
+    width: 50%;
+}
+
 .oneDeckOfCards.AnOpenCard {
     animation: card-flip 0.4s ease forwards;
     background-color: white;

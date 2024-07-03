@@ -1,5 +1,21 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+    devmode0: [
+        {
+            id:1,
+            ru:"an owl JPG",
+            eng:"/images/picturesForCards/owlJPGtrasparent.jpg",
+            // ru:"картинка совы JPG мало весит, но не прозрачная она",
+            },
+            {
+            id:2,
+            ru:"an owl PNG",
+            eng:"/images/picturesForCards/foxxx.png",
+            // ru:"картинка совы PNG, много весит, но прозрачная зато",
+            },
+            
+    ],
+    
     m001: [
         
         {
@@ -1596,43 +1612,7 @@ const allQuestionsOneDeck = {
          
     ],
     
-    devmode0: [
-        {
-            id:1,
-            eng:"   Как по-английски :   ` первый `",
-            ru:"THE FIRST / фест /"
-            },
-            {
-            id:2,
-            eng:"   Как по-английски :   ` второй `",
-            ru:"THE SECOND "
-            },
-            {
-            id:3,
-            eng:"What is the English for: ` третий `",
-            ru:"THE THIRD "
-            },
-            {
-            id:4,
-            eng:"What is the English for: ` четвертый `",
-            ru:"THE FOURTH "
-            },
-            {
-            id:5,
-            eng:"What is the English for: ` пятый `",
-            ru:"THE FIFTH / фифth /"
-            },
-            {
-            id:6,
-            eng:"/ уот из дэ инглиш фо /   ` шестой `",
-            ru:"THE SIXTH "
-            },
-            {
-            id:7,
-            eng:"/ уот из дэ инглиш фо /   ` седьмой `",
-            ru:"THE SEVENTH "
-            },
-    ],
+   
     questions70: [
         {
             id:1,

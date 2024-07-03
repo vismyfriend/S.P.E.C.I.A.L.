@@ -137,6 +137,9 @@ export class QuizQ {
         clearInterval(this.QuizTimerMechanics)
     }
 
+    stopTimer() {
+        clearInterval(this.QuizTimerMechanics)
+    }
 
     anotherVariantMultipleChoiceQuiz() {
         this.buttonTryAgainOneMoreTime.addEventListener("click", () => {
