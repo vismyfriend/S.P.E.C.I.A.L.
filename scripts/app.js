@@ -226,7 +226,7 @@ function backToTheVeryFirstScreen() {
     clearInterval(scrambledTNTtimerMechanics)
    
     
-    TNTbeforeExplosion = 30
+    TNTbeforeExplosion = 59
     scrambledTNTbeforeExplosion = 1
     scoreTNTGame = 0
     scrambledscoreTNTGame = 0
@@ -1380,7 +1380,7 @@ function showAnswerTNT() {
 function restartTNTgame() {
     scoreTNTGame = 0
     typeOrWriteNumber = 0
-    TNTbeforeExplosion = 33
+    TNTbeforeExplosion = 53
     TNTgameInfo.textContent = "🧨 До взрыва осталось: 🧨"
     TNTuserInput.value = ""
     TNTgameTaskHint.textContent = "напиши по-английски:"
