@@ -14,7 +14,7 @@ const allQuestionsOneDeck = {
             ru:"an owl PNG",
             // eng:"/images/picturesForCards/foxxx.png",
             // eng:"./images/picturesForCards/foxxx.png",
-            eng:"/S.P.E.C.I.A.L./images/picturesForCards/foxxx.jpg",
+            eng:"/S.P.E.C.I.A.L./images/picturesForCards/foxxx.png",
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
             },
             
