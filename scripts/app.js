@@ -185,8 +185,11 @@ function backToTheVeryFirstScreen() {
     // уточнить таймер сброс таймера то есть ломает игру если мы еще не заходили в игру квиз
 
     console.log(quizGameClass)
-    quizGameClass.stopTimer()
-    
+    // егорчик помоги
+    quizGameClass?.stopTimer() 
+    // поставил знак вопроса, чтобу пропускало ошибку
+
+
     scoreGameBenderWordOrderGame = 0
     scoreTypeOrWriteGame = 0
     scoreTNTGame = 0
