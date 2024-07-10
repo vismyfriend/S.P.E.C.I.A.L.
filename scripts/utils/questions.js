@@ -181,8 +181,8 @@ const allQuestionsOneDeck = {
             },
             {
             id:2,
-            eng:"it was невероятно",
-            ru:"incredible /инкрЭдэбэл/",
+            eng:"it was невероятно, сногсшибательно, в это трудно поверить! Супер - дупер!",
+            ru:" incredible  / инкрЭдэбэл / super - duper  unbelievable  / анбелИвэбэл /  ",
             
             },
             {
