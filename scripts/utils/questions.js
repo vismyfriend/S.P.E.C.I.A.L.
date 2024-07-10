@@ -19,6 +19,1254 @@ const allQuestionsOneDeck = {
             },
             
     ],
+    howWasIt: [
+        {
+            id:101,
+            eng:"How was your weekend?",
+            ru:"Какими были твои выходные?",
+            
+            },
+            {
+            id:102,
+            eng:"How was your morning?",
+            ru:"Как прошло твоё утро?",
+            
+            },
+            {
+            id:103,
+            eng:"How was your breakfast?",
+            ru:"Как прошел твой завтрак?",
+            
+            },
+            {
+            id:104,
+            eng:"How was your lunch?",
+            ru:"Как прошел твой обед?",
+            
+            },
+            {
+            id:105,
+            eng:"How was your dinner?",
+            ru:"Как прошел твой ужин?",
+            
+            },
+            {
+            id:106,
+            eng:"How was your last birthday?",
+            ru:"Как прошёл твой последний день рождения?",
+            
+            },
+            {
+            id:107,
+            eng:"How was your lesson with Vincent?",
+            ru:"Как прошёл твой урок с Винсентом?",
+            
+            },
+            {
+            id:108,
+            eng:"How was your trip to a toilet?",
+            ru:"Как прошло твоё путешествие в туалет?",
+            
+            },
+            {
+            id:109,
+            eng:"How was your sleep?",
+            ru:"Как ты поспал(а)?",
+            
+            },
+            {
+            id:110,
+            eng:"How was your night?",
+            ru:"Какой была твоя ночь?",
+            
+            },
+            {
+            id:111,
+            eng:"How was your evening?",
+            ru:"Как прошёл твой вечер?",
+            
+            },
+            {
+            id:112,
+            eng:"How was your yesterday?",
+            ru:"Как прошёл твой вчерашний день?",
+            
+            },
+            {
+            id:113,
+            eng:"How was your pizza? / пИца /",
+            ru:"Как прошла твоя пицца?",
+            
+            },
+            {
+            id:114,
+            eng:"How was your first kiss? / фёст кис /",
+            ru:"Каким был твой первый поцелуй?",
+            
+            },
+            {
+            id:115,
+            eng:"How was your first love? / фёст лАв /",
+            ru:"Какой была твоя первая любовь?",
+            
+            },
+            {
+            id:116,
+            eng:"How was your first phone? And what was the model of your first phone?",
+            ru:"Как твой первый телефон себя показал? И что за модель была у твоего первого телефона?",
+            
+            },
+            {
+            id:117,
+            eng:"How was your vacation? / вэкЭйшэн /",
+            ru:"Как прошли твои каникулы?",
+            
+            },
+            {
+            id:118,
+            eng:"How was your trip to Disneyland? / дИЗни лэнд /",
+            ru:"Как прошла твоя поездка в Диснейленд?",
+            
+            },
+            {
+            id:119,
+            eng:"How was your trip to DACHA with your parents?",
+            ru:"Как прошла твоя поездка на дачу с родителями?",
+            
+            },
+            {
+            id:120,
+            eng:"How was your meeting with the boss?",
+            ru:"Как прошла твоя встреча с боссом?",
+            
+            },
+            {
+            id:121,
+            eng:"How was your last English lesson?",
+            ru:"Как прошёл твой последний урок английского?",
+            
+            },
+            {
+            id:122,
+            eng:"How was your homework?",
+            ru:"Как прошла твоя домашняя работа?",
+            
+            },
+            {
+            id:123,
+            eng:"How was your trip to a GYM? / джим /",
+            ru:"Как прошла твоя поездка в спортзал?",
+            
+            },
+            {
+            id:124,
+            eng:"How was your summer? / сАмэр /",
+            ru:"Каким было твоё лето?",
+            
+            },
+            {
+            id:125,
+            eng:"How was your winter?",
+            ru:"Какой была твоя зима?",
+            
+            },
+            
+    ],
+    itWas: [
+        {
+            id:1,
+            eng:"it was офигенно, обалденно!",
+            ru:"awesome /осм/",
+            
+            },
+            {
+            id:2,
+            eng:"it was невероятно",
+            ru:"incredible /инкрЭдэбэл/",
+            
+            },
+            {
+            id:3,
+            eng:"it was великолепно",
+            ru:"great /грЭйт/",
+            
+            },
+            {
+            id:4,
+            eng:"it was действительно классно",
+            ru:"really cool /рИли кул/",
+            
+            },
+            {
+            id:5,
+            eng:"it was довольно таки хорошо на самом деле",
+            ru:"pretty good, actually / прИти гуд Экчели /",
+            
+            },
+            {
+            id:6,
+            eng:"Всё прошло просто хорошо",
+            ru:"everything was just fine everything was just good / эвриTHын воз джаст файн /",
+            
+            },
+            {
+            id:7,
+            eng:"it was хорошо",
+            ru:"fine and good",
+            
+            },
+            {
+            id:8,
+            eng:"it was неплохо",
+            ru:"It wasn’t bad. ",
+            
+            },
+            {
+            id:9,
+            eng:"it was пойдёт, сойдет бывало и получше",
+            ru:"It was alright / ит воз Олрайт /",
+            
+            },
+            {
+            id:10,
+            eng:"it was нормально",
+            ru:"okay = OK произносится / оУкей / никто кроме русских не говорит НОРМ. или ок. ",
+            
+            },
+            {
+            id:11,
+            eng:"it was обычно, ничего особенного",
+            ru:"usual, nothing special / Южал наTHын спэшл /",
+            
+            },
+            {
+            id:12,
+            eng:"it was так себе, 50 на 50",
+            ru:"It was so-so / cоу соу /",
+            
+            },
+            {
+            id:13,
+            eng:"it was не очень хорошо",
+            ru:"It wasn’t very good.",
+            
+            },
+            {
+            id:14,
+            eng:"it was плохо",
+            ru:"bad       / БЭД /",
+            
+            },
+            {
+            id:15,
+            eng:"it was очень плохо",
+            ru:"It was very bad / ит воз вЭри бЭд /",
+            
+            },
+            {
+            id:16,
+            eng:"it was отвратительно",
+            ru:"it was disgusting  / ит воз дисгАстин /",
+            
+            },
+            {
+            id:17,
+            eng:"it was Стрёмно (дерьмовенько)",
+            ru:"shitty / щити /",
+            
+            },
+            {
+            id:18,
+            eng:"it was супер",
+            ru:"Super! / сьюпЭ / или / сУпэ / два произношения",
+            
+            },
+            {
+            id:19,
+            eng:"it was замечательно",
+            ru:"wonderful / уАндэрфул /",
+            
+            },
+            {
+            id:20,
+            eng:"it was удивительно, чУдно",
+            ru:"amazing / эмЭйзин /",
+            
+            },
+            {
+            id:21,
+            eng:"It was странно",
+            ru:"strange / стрЭндж /",
+            
+            },
+            {
+            id:22,
+            eng:"It was скучно",
+            ru:"boring",
+            
+            },
+            {
+            id:23,
+            eng:"It was интересно",
+            ru:"interesting",
+            
+            },
+            {
+            id:24,
+            eng:"It was быстро",
+            ru:"fast",
+            
+            },
+            {
+            id:25,
+            eng:"It was so медленно",
+            ru:"so slowly / соу слОУли /",
+            
+            },
+            
+    ],
+    femaleNames: [
+        {
+            id:79,
+            eng:"Alice",
+            ru:" / ˈælɪs /",
+            
+            },
+            {
+            id:80,
+            eng:"Amber",
+            ru:" / ˈæmbər /",
+            
+            },
+            {
+            id:81,
+            eng:"Annie",
+            ru:" / ˈæni /",
+            
+            },
+            {
+            id:82,
+            eng:"Bella",
+            ru:" / ˈbɛlə /",
+            
+            },
+            {
+            id:83,
+            eng:"Beth",
+            ru:" / bɛθ /",
+            
+            },
+            {
+            id:84,
+            eng:"Brooke",
+            ru:" / brʊk /",
+            
+            },
+            {
+            id:85,
+            eng:"Carol",
+            ru:" / ˈkærəl /",
+            
+            },
+            {
+            id:86,
+            eng:"Cindy",
+            ru:" / ˈsɪndi /",
+            
+            },
+            {
+            id:87,
+            eng:"Clara",
+            ru:" / ˈklærə /",
+            
+            },
+            {
+            id:88,
+            eng:"Daisy",
+            ru:" / ˈdeɪzi /",
+            
+            },
+            {
+            id:89,
+            eng:"Diane",
+            ru:" / daɪˈæn /",
+            
+            },
+            {
+            id:90,
+            eng:"Donna",
+            ru:" / ˈdɒnə /",
+            
+            },
+            {
+            id:91,
+            eng:"Elise",
+            ru:" / ɪˈliːs /",
+            
+            },
+            {
+            id:92,
+            eng:"Emma",
+            ru:" / ˈɛmə /",
+            
+            },
+            {
+            id:93,
+            eng:"Erin",
+            ru:" / ˈɛrɪn /",
+            
+            },
+            {
+            id:94,
+            eng:"Faith",
+            ru:" / feɪθ /",
+            
+            },
+            {
+            id:95,
+            eng:"Faye",
+            ru:" / feɪ /",
+            
+            },
+            {
+            id:96,
+            eng:"Fiona",
+            ru:" / fiˈoʊnə /",
+            
+            },
+            {
+            id:97,
+            eng:"Gail",
+            ru:" / geɪl /",
+            
+            },
+            {
+            id:98,
+            eng:"Gina",
+            ru:" / ˈdʒiːnə /",
+            
+            },
+            {
+            id:99,
+            eng:"Grace",
+            ru:" / greɪs /",
+            
+            },
+            {
+            id:100,
+            eng:"Heidi",
+            ru:" / ˈhaɪdi /",
+            
+            },
+            {
+            id:101,
+            eng:"Helen",
+            ru:" / ˈhɛlən /",
+            
+            },
+            {
+            id:102,
+            eng:"Holly",
+            ru:" / ˈhɒli /",
+            
+            },
+            {
+            id:103,
+            eng:"Irene",
+            ru:" / aɪˈriːn /",
+            
+            },
+            {
+            id:104,
+            eng:"Isabel",
+            ru:" / ˈɪzəbəl /",
+            
+            },
+            {
+            id:105,
+            eng:"Ivy",
+            ru:" / ˈaɪvi /",
+            
+            },
+            {
+            id:106,
+            eng:"Jane",
+            ru:" / dʒeɪn /",
+            
+            },
+            {
+            id:107,
+            eng:"Joyce",
+            ru:" / dʒɔɪs /",
+            
+            },
+            {
+            id:108,
+            eng:"Julia",
+            ru:" / ˈdʒuːliə /",
+            
+            },
+            {
+            id:109,
+            eng:"Karen",
+            ru:" / ˈkærən /",
+            
+            },
+            {
+            id:110,
+            eng:"Kate",
+            ru:" / keɪt /",
+            
+            },
+            {
+            id:111,
+            eng:"Kelly",
+            ru:" / ˈkɛli /",
+            
+            },
+            {
+            id:112,
+            eng:"Laura",
+            ru:" / ˈlɔːrə /",
+            
+            },
+            {
+            id:113,
+            eng:"Linda",
+            ru:" / ˈlɪndə /",
+            
+            },
+            {
+            id:114,
+            eng:"Lisa",
+            ru:" / ˈliːsə /",
+            
+            },
+            {
+            id:115,
+            eng:"Mary",
+            ru:" / ˈmɛri /",
+            
+            },
+            {
+            id:116,
+            eng:"Megan",
+            ru:" / ˈmɛɡən /",
+            
+            },
+            {
+            id:117,
+            eng:"Molly",
+            ru:" / ˈmɒli /",
+            
+            },
+            {
+            id:118,
+            eng:"Nancy",
+            ru:" / ˈnænsi /",
+            
+            },
+            {
+            id:119,
+            eng:"Nina",
+            ru:" / ˈniːnə /",
+            
+            },
+            {
+            id:120,
+            eng:"Nora",
+            ru:" / ˈnɔːrə /",
+            
+            },
+            {
+            id:121,
+            eng:"Olivia",
+            ru:" / əˈlɪviə /",
+            
+            },
+            {
+            id:122,
+            eng:"Opal",
+            ru:" / ˈoʊpəl /",
+            
+            },
+            {
+            id:123,
+            eng:"Ophelia",
+            ru:" / oʊˈfiːliə /",
+            
+            },
+            {
+            id:124,
+            eng:"Paige",
+            ru:" / peɪdʒ /",
+            
+            },
+            {
+            id:125,
+            eng:"Paula",
+            ru:" / ˈpɔːlə /",
+            
+            },
+            {
+            id:126,
+            eng:"Penny",
+            ru:" / ˈpɛni /",
+            
+            },
+            {
+            id:127,
+            eng:"Queen",
+            ru:" / kwiːn /",
+            
+            },
+            {
+            id:128,
+            eng:"Quella",
+            ru:" / ˈkwɛlə /",
+            
+            },
+            {
+            id:129,
+            eng:"Quinn",
+            ru:" / kwɪn /",
+            
+            },
+            {
+            id:130,
+            eng:"Rachel",
+            ru:" / ˈreɪtʃəl /",
+            
+            },
+            {
+            id:131,
+            eng:"Rita",
+            ru:" / ˈriːtə /",
+            
+            },
+            {
+            id:132,
+            eng:"Rose",
+            ru:" / roʊz /",
+            
+            },
+            {
+            id:133,
+            eng:"Sally",
+            ru:" / ˈsæli /",
+            
+            },
+            {
+            id:134,
+            eng:"Sarah",
+            ru:" / ˈsɛrə /",
+            
+            },
+            {
+            id:135,
+            eng:"Susan",
+            ru:" / ˈsuːzən /",
+            
+            },
+            {
+            id:136,
+            eng:"Tara",
+            ru:" / ˈtærə /",
+            
+            },
+            {
+            id:137,
+            eng:"Tina",
+            ru:" / ˈtiːnə /",
+            
+            },
+            {
+            id:138,
+            eng:"Tracy",
+            ru:" / ˈtreɪsi /",
+            
+            },
+            {
+            id:139,
+            eng:"Uma",
+            ru:" / ˈuːmə /",
+            
+            },
+            {
+            id:140,
+            eng:"Unity",
+            ru:" / ˈjuːnɪti /",
+            
+            },
+            {
+            id:141,
+            eng:"Ursula",
+            ru:" / ˈɜːrsjʊlə /",
+            
+            },
+            {
+            id:142,
+            eng:"Valerie",
+            ru:" / ˈvæləri /",
+            
+            },
+            {
+            id:143,
+            eng:"Veronica",
+            ru:" / vɪˈronikə /",
+            
+            },
+            {
+            id:144,
+            eng:"Vicki",
+            ru:" / ˈvɪki /",
+            
+            },
+            {
+            id:145,
+            eng:"Wanda",
+            ru:" / ˈwɒndə /",
+            
+            },
+            {
+            id:146,
+            eng:"Wendy",
+            ru:" / ˈwɛndi /",
+            
+            },
+            {
+            id:147,
+            eng:"Willow",
+            ru:" / ˈwɪloʊ /",
+            
+            },
+            {
+            id:148,
+            eng:"Xena",
+            ru:" / ˈziːnə /",
+            
+            },
+            {
+            id:149,
+            eng:"Xia",
+            ru:" / ˈʃiːə /",
+            
+            },
+            {
+            id:150,
+            eng:"Xyla",
+            ru:" / ˈzaɪlə /",
+            
+            },
+            {
+            id:151,
+            eng:"Yasmin",
+            ru:" / ˈjæzmɪn /",
+            
+            },
+            {
+            id:152,
+            eng:"Yvette",
+            ru:" / iˈvɛt /",
+            
+            },
+            {
+            id:153,
+            eng:"Yvonne",
+            ru:" / iˈvɒn /",
+            
+            },
+            {
+            id:154,
+            eng:"Zara",
+            ru:" / ˈzɑːrə /",
+            
+            },
+            {
+            id:155,
+            eng:"Zelda",
+            ru:" / ˈzɛldə /",
+            
+            },
+            {
+            id:156,
+            eng:"Zoe",
+            ru:" / zoʊ /",
+            
+            },
+            
+    ],
+    maleNames: [
+        {
+            id:1,
+            eng:"Adam",
+            ru:" / ˈædəm /",
+            
+            },
+            {
+            id:2,
+            eng:"Andy",
+            ru:" / ˈændɪ /",
+            
+            },
+            {
+            id:3,
+            eng:"Alan",
+            ru:" / ˈælən /",
+            
+            },
+            {
+            id:4,
+            eng:"Benny",
+            ru:" / bɛnɪ /",
+            
+            },
+            {
+            id:5,
+            eng:"Brian",
+            ru:" / ˈbraɪən /",
+            
+            },
+            {
+            id:6,
+            eng:"Bruce",
+            ru:" / bruːs /",
+            
+            },
+            {
+            id:7,
+            eng:"Chris",
+            ru:" / krɪs /",
+            
+            },
+            {
+            id:8,
+            eng:"Cody",
+            ru:" / ˈkoʊdi /",
+            
+            },
+            {
+            id:9,
+            eng:"Craig",
+            ru:" / kreɪg /",
+            
+            },
+            {
+            id:10,
+            eng:"Dannie",
+            ru:" / dænɪ /",
+            
+            },
+            {
+            id:11,
+            eng:"David",
+            ru:" / ˈdeɪvɪd /",
+            
+            },
+            {
+            id:12,
+            eng:"Derek",
+            ru:" / ˈdɛrɪk /",
+            
+            },
+            {
+            id:13,
+            eng:"Edward",
+            ru:" / ˈɛdwərd /",
+            
+            },
+            {
+            id:14,
+            eng:"Eric",
+            ru:" / ˈɛrɪk /",
+            
+            },
+            {
+            id:15,
+            eng:"Evan",
+            ru:" / ˈɛvən /",
+            
+            },
+            {
+            id:16,
+            eng:"Felix",
+            ru:" / ˈfiːlɪks /",
+            
+            },
+            {
+            id:17,
+            eng:"Frank",
+            ru:" / fræŋk /",
+            
+            },
+            {
+            id:18,
+            eng:"Fred",
+            ru:" / frɛd /",
+            
+            },
+            {
+            id:19,
+            eng:"Gary",
+            ru:" / ˈgɛri /",
+            
+            },
+            {
+            id:20,
+            eng:"George",
+            ru:" / ˈdʒɔːrdʒ /",
+            
+            },
+            {
+            id:21,
+            eng:"Greg",
+            ru:" / grɛg /",
+            
+            },
+            {
+            id:22,
+            eng:"Harry",
+            ru:" / ˈhæri /",
+            
+            },
+            {
+            id:23,
+            eng:"Henry",
+            ru:" / ˈhɛnri /",
+            
+            },
+            {
+            id:24,
+            eng:"Howard",
+            ru:" / ˈhaʊərd /",
+            
+            },
+            {
+            id:25,
+            eng:"Ian",
+            ru:" / ˈiːən /",
+            
+            },
+            {
+            id:26,
+            eng:"Isaac",
+            ru:" / ˈaɪzək /",
+            
+            },
+            {
+            id:27,
+            eng:"Indie",
+            ru:" / ˈɪndɪ /",
+            
+            },
+            {
+            id:28,
+            eng:"Jack",
+            ru:" / dʒæk /",
+            
+            },
+            {
+            id:29,
+            eng:"James",
+            ru:" / dʒeɪmz /",
+            
+            },
+            {
+            id:30,
+            eng:"John",
+            ru:" / dʒɒn /",
+            
+            },
+            {
+            id:31,
+            eng:"Keith",
+            ru:" / kiːθ /",
+            
+            },
+            {
+            id:32,
+            eng:"Kevin",
+            ru:" / ˈkɛvɪn /",
+            
+            },
+            {
+            id:33,
+            eng:"Kyle",
+            ru:" / kaɪl /",
+            
+            },
+            {
+            id:34,
+            eng:"Larry",
+            ru:" / ˈlæri /",
+            
+            },
+            {
+            id:35,
+            eng:"Leo",
+            ru:" / ˈliːoʊ /",
+            
+            },
+            {
+            id:36,
+            eng:"Luke",
+            ru:" / luːk /",
+            
+            },
+            {
+            id:37,
+            eng:"Mark",
+            ru:" / mɑːrk /",
+            
+            },
+            {
+            id:38,
+            eng:"Matt",
+            ru:" / mæt /",
+            
+            },
+            {
+            id:39,
+            eng:"Mike",
+            ru:" / maɪk /",
+            
+            },
+            {
+            id:40,
+            eng:"Nathan",
+            ru:" / ˈneɪθən /",
+            
+            },
+            {
+            id:41,
+            eng:"Nick",
+            ru:" / nɪk /",
+            
+            },
+            {
+            id:42,
+            eng:"Noah",
+            ru:" / ˈnoʊ.ə /",
+            
+            },
+            {
+            id:43,
+            eng:"Oliver",
+            ru:" / ˈɒlɪvər /",
+            
+            },
+            {
+            id:44,
+            eng:"Oscar",
+            ru:" / ˈɒskər /",
+            
+            },
+            {
+            id:45,
+            eng:"Owen",
+            ru:" / ˈoʊwən /",
+            
+            },
+            {
+            id:46,
+            eng:"Patrick",
+            ru:" / ˈpætrɪk /",
+            
+            },
+            {
+            id:47,
+            eng:"Paul",
+            ru:" / pɔːl /",
+            
+            },
+            {
+            id:48,
+            eng:"Peter",
+            ru:" / ˈpiːtər /",
+            
+            },
+            {
+            id:49,
+            eng:"Quaid",
+            ru:" / kweɪd /",
+            
+            },
+            {
+            id:50,
+            eng:"Quincy",
+            ru:" / ˈkwɪnsi /",
+            
+            },
+            {
+            id:51,
+            eng:"Quinn",
+            ru:" / kwɪn /",
+            
+            },
+            {
+            id:52,
+            eng:"Ray",
+            ru:" / reɪ /",
+            
+            },
+            {
+            id:53,
+            eng:"Robert",
+            ru:" / ˈrɒbərt /",
+            
+            },
+            {
+            id:54,
+            eng:"Ryan",
+            ru:" / ˈraɪən /",
+            
+            },
+            {
+            id:55,
+            eng:"Sam",
+            ru:" / sæm /",
+            
+            },
+            {
+            id:56,
+            eng:"Scott",
+            ru:" / skɒt /",
+            
+            },
+            {
+            id:57,
+            eng:"Steve",
+            ru:" / ˈstiːv /",
+            
+            },
+            {
+            id:58,
+            eng:"Tim",
+            ru:" / tɪm /",
+            
+            },
+            {
+            id:59,
+            eng:"Tom",
+            ru:" / tɒm /",
+            
+            },
+            {
+            id:60,
+            eng:"Tony",
+            ru:" / ˈtoʊni /",
+            
+            },
+            {
+            id:61,
+            eng:"Usuf",
+            ru:" / ˈjusef /",
+            
+            },
+            {
+            id:62,
+            eng:"Urius",
+            ru:" / ˈjurius /",
+            
+            },
+            {
+            id:63,
+            eng:"Usher",
+            ru:" / ˈasher /",
+            
+            },
+            {
+            id:64,
+            eng:"Vernon",
+            ru:" / ˈvɜːrnən /",
+            
+            },
+            {
+            id:65,
+            eng:"Vincent",
+            ru:" / ˈvɪnsent /",
+            
+            },
+            {
+            id:66,
+            eng:"Vince",
+            ru:" / vɪns /",
+            
+            },
+            {
+            id:67,
+            eng:"Walter",
+            ru:" / ˈwɔːltər /",
+            
+            },
+            {
+            id:68,
+            eng:"Wayne",
+            ru:" / weɪn /",
+            
+            },
+            {
+            id:69,
+            eng:"William",
+            ru:" / ˈwɪljəm /",
+            
+            },
+            {
+            id:70,
+            eng:"Xander",
+            ru:" / ˈzændər /",
+            
+            },
+            {
+            id:71,
+            eng:"Xavier",
+            ru:" / ˈzeɪviər /",
+            
+            },
+            {
+            id:72,
+            eng:"Xeno",
+            ru:" / ˈziːnoʊ /",
+            
+            },
+            {
+            id:73,
+            eng:"Yale",
+            ru:" / jeɪl /",
+            
+            },
+            {
+            id:74,
+            eng:"Yanni",
+            ru:" / ˈjæni /",
+            
+            },
+            {
+            id:75,
+            eng:"York",
+            ru:" / jɔːrk /",
+            
+            },
+            {
+            id:76,
+            eng:"Zach",
+            ru:" / zæk /",
+            
+            },
+            {
+            id:77,
+            eng:"Zane",
+            ru:" / zeɪn /",
+            
+            },
+            {
+            id:78,
+            eng:"Zeke",
+            ru:" / ziːk /",
+            
+            },
+            
+    ],
     
     m001: [
         
@@ -1036,6 +2284,11 @@ const allQuestionsOneDeck = {
             id:5,
             eng:"Карточка №5 мЭнни My name is Manny. My pets are donkeys. I like donkeys a lot. I love sweets very much. I am crazy about sweets. I collect magnets мЭгнэтс.",
             ru:"pets /пЭтс/ питомцы  donkeys /дАнкиз/ ослики a lot /э лот/ оч.сильно sweets /свитс/ конфеты magnets /мЭгнэтс/ магниты"
+            },
+            {
+            id:6,
+            eng:"Карточка №6 сАймон My name is Simon. My pets are parrots. I like parrots a lot. I love coffee very much. I am crazy about coffee. I collect coffee cups.",
+            ru:"pets /пЭтс/ питомцы  parrots /пЭротс/ попугаи a lot /э лот/ оч.сильно / кОфи капс / кофейные чашки"
             },
          
     ],

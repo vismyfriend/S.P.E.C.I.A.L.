@@ -762,7 +762,7 @@ function switchPlayerInCardGameQuestions1() {
     oneDeckButtonSwitch.textContent = ("чего блин?")
 }
 function switchPlayerInCardGameQuestions2() {
-    oneDeckButtonSwitch.textContent = ("I'm sorry What? Ask again, plz.")
+    oneDeckButtonSwitch.textContent = ("Переключить язык RU-ENG")
 }
 // oneDeckButtonSwitch.addEventListener("click", () => switchLanguage())
 

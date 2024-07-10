@@ -163,7 +163,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:4,
-            eng:"three /Thри/",
+            eng:"three / межзубный звук /",
             ru:"3"
             },
             {
@@ -173,7 +173,7 @@ const allCardsGameFindAPair = {
             },
             {
             id:6,
-            eng:"five /файв/",
+            eng:"five /фАйв/",
             ru:"5"
             },
             {
