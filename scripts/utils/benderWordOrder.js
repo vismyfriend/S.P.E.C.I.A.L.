@@ -902,5 +902,24 @@ const benderWordOrderSentences = {
                 ru:"у Лады есть кактус?"
                 },
     ],
+    threeFormsNVb: [
+        {
+            id:1,
+            eng:"cut cut cut cut cut cut",
+            hint: "Кат кат кат",
+            ru:"резать"
+            },
+            {
+            id:2,
+            eng:"hear heard heard heard heard heard hear",
+            hint: "хИэ хёрд хёрд",
+            ru:"слышать"
+            },
+            {
+            id:3,
+            eng:". is good",
+            ru:"третий"
+            },
+    ],
 }
 export default benderWordOrderSentences

@@ -499,941 +499,940 @@ const allQuestionsOneDeck = {
     femaleNames: [
         {
             id:79,
-            eng:"Alice",
-            ru:" / ˈælɪs /",
+            eng:"Alice /  ˈælɪs  /",
+            ru:" / Элис /",
             
             },
             {
             id:80,
-            eng:"Amber",
-            ru:" / ˈæmbər /",
+            eng:"Amber /  ˈæmbər  /",
+            ru:" / Эмбэр /",
             
             },
             {
             id:81,
-            eng:"Annie",
-            ru:" / ˈæni /",
+            eng:"Annie /  ˈæni  /",
+            ru:" / Эни /",
             
             },
             {
             id:82,
-            eng:"Bella",
-            ru:" / ˈbɛlə /",
+            eng:"Bella /  ˈbɛlə  /",
+            ru:" / бЭла /",
             
             },
             {
             id:83,
-            eng:"Beth",
-            ru:" / bɛθ /",
+            eng:"Beth /  bɛθ  /",
+            ru:" / бЭт межзубный звук TH шипилявим /",
             
             },
             {
             id:84,
-            eng:"Brooke",
-            ru:" / brʊk /",
+            eng:"Brooke /  brʊk  /",
+            ru:" / брук /",
             
             },
             {
             id:85,
-            eng:"Carol",
-            ru:" / ˈkærəl /",
+            eng:"Carol /  ˈkærəl  /",
+            ru:" / кЭрол /",
             
             },
             {
             id:86,
-            eng:"Cindy",
-            ru:" / ˈsɪndi /",
+            eng:"Cindy /  ˈsɪndi  /",
+            ru:" / сИнди /",
             
             },
             {
             id:87,
-            eng:"Clara",
-            ru:" / ˈklærə /",
+            eng:"Clara /  ˈklærə  /",
+            ru:" / кЛэрэ /",
             
             },
             {
             id:88,
-            eng:"Daisy",
-            ru:" / ˈdeɪzi /",
+            eng:"Daisy /  ˈdeɪzi  /",
+            ru:" / дЭйзи /",
             
             },
             {
             id:89,
-            eng:"Diane",
-            ru:" / daɪˈæn /",
+            eng:"Diane /  daɪˈæn  /",
+            ru:" / дАЙэн /",
             
             },
             {
             id:90,
-            eng:"Donna",
-            ru:" / ˈdɒnə /",
+            eng:"Donna /  ˈdɒnə  /",
+            ru:" / дОнэ /",
             
             },
             {
             id:91,
-            eng:"Elise",
-            ru:" / ɪˈliːs /",
+            eng:"Elise /  ɪˈliːs  /",
+            ru:" / илИс /",
             
             },
             {
             id:92,
-            eng:"Emma",
-            ru:" / ˈɛmə /",
+            eng:"Emma /  ˈɛmə  /",
+            ru:" / эма /",
             
             },
             {
             id:93,
-            eng:"Erin",
-            ru:" / ˈɛrɪn /",
+            eng:"Erin /  ˈɛrɪn  /",
+            ru:" / Эрин /",
             
             },
             {
             id:94,
-            eng:"Faith",
-            ru:" / feɪθ /",
+            eng:"Faith /  feɪθ  /",
+            ru:" / фЭйth межзубный звук TH шипилявим /",
             
             },
             {
             id:95,
-            eng:"Faye",
-            ru:" / feɪ /",
+            eng:"Faye /  feɪ  /",
+            ru:" / фЭй /",
             
             },
             {
             id:96,
-            eng:"Fiona",
-            ru:" / fiˈoʊnə /",
+            eng:"Fiona /  fiˈoʊnə  /",
+            ru:" / фиОна /",
             
             },
             {
             id:97,
-            eng:"Gail",
-            ru:" / geɪl /",
+            eng:"Gail /  geɪl  /",
+            ru:" / гЭйл /",
             
             },
             {
             id:98,
-            eng:"Gina",
-            ru:" / ˈdʒiːnə /",
+            eng:"Gina /  ˈdʒiːnə  /",
+            ru:" / джина /",
             
             },
             {
             id:99,
-            eng:"Grace",
-            ru:" / greɪs /",
+            eng:"Grace /  greɪs  /",
+            ru:" / грЭйс /",
             
             },
             {
             id:100,
-            eng:"Heidi",
-            ru:" / ˈhaɪdi /",
+            eng:"Heidi /  ˈhaɪdi  /",
+            ru:" / хАйди /",
             
             },
             {
             id:101,
-            eng:"Helen",
-            ru:" / ˈhɛlən /",
+            eng:"Helen /  ˈhɛlən  /",
+            ru:" / хЭлен /",
             
             },
             {
             id:102,
-            eng:"Holly",
-            ru:" / ˈhɒli /",
+            eng:"Holly /  ˈhɒli  /",
+            ru:" / хОлли /",
             
             },
             {
             id:103,
-            eng:"Irene",
-            ru:" / aɪˈriːn /",
+            eng:"Irene /  aɪˈriːn  /",
+            ru:" / айрИн /",
             
             },
             {
             id:104,
-            eng:"Isabel",
-            ru:" / ˈɪzəbəl /",
+            eng:"Isabel /  ˈɪzəbəl  /",
+            ru:" / Изабэл /",
             
             },
             {
             id:105,
-            eng:"Ivy",
-            ru:" / ˈaɪvi /",
+            eng:"Ivy /  ˈaɪvi  /",
+            ru:" / Айви /",
             
             },
             {
             id:106,
-            eng:"Jane",
-            ru:" / dʒeɪn /",
+            eng:"Jane /  dʒeɪn  /",
+            ru:" / джЭйн /",
             
             },
             {
             id:107,
-            eng:"Joyce",
-            ru:" / dʒɔɪs /",
+            eng:"Joyce /  dʒɔɪs  /",
+            ru:" / джОйс /",
             
             },
             {
             id:108,
-            eng:"Julia",
-            ru:" / ˈdʒuːliə /",
+            eng:"Julia /  ˈdʒuːliə  /",
+            ru:" / джУлиа /",
             
             },
             {
             id:109,
-            eng:"Karen",
-            ru:" / ˈkærən /",
+            eng:"Karen /  ˈkærən  /",
+            ru:" / Эрэн /",
             
             },
             {
             id:110,
-            eng:"Kate",
-            ru:" / keɪt /",
+            eng:"Kate /  keɪt  /",
+            ru:" / кЕйт /",
             
             },
             {
             id:111,
-            eng:"Kelly",
-            ru:" / ˈkɛli /",
+            eng:"Kelly /  ˈkɛli  /",
+            ru:" / кЕлли /",
             
             },
             {
             id:112,
-            eng:"Laura",
-            ru:" / ˈlɔːrə /",
+            eng:"Laura /  ˈlɔːrə  /",
+            ru:" / лОра /",
             
             },
             {
             id:113,
-            eng:"Linda",
-            ru:" / ˈlɪndə /",
+            eng:"Linda /  ˈlɪndə  /",
+            ru:" / лИнда /",
             
             },
             {
             id:114,
-            eng:"Lisa",
-            ru:" / ˈliːsə /",
+            eng:"Lisa /  ˈliːsə  /",
+            ru:" / лИса /",
             
             },
             {
             id:115,
-            eng:"Mary",
-            ru:" / ˈmɛri /",
+            eng:"Mary /  ˈmɛri  /",
+            ru:" / мЭри /",
             
             },
             {
             id:116,
-            eng:"Megan",
-            ru:" / ˈmɛɡən /",
+            eng:"Megan /  ˈmɛɡən  /",
+            ru:" / мЕган /",
             
             },
             {
             id:117,
-            eng:"Molly",
-            ru:" / ˈmɒli /",
+            eng:"Molly /  ˈmɒli  /",
+            ru:" / мОлли /",
             
             },
             {
             id:118,
-            eng:"Nancy",
-            ru:" / ˈnænsi /",
+            eng:"Nancy /  ˈnænsi  /",
+            ru:" / нЭнси /",
             
             },
             {
             id:119,
-            eng:"Nina",
-            ru:" / ˈniːnə /",
+            eng:"Nina /  ˈniːnə  /",
+            ru:" / нИнэ /",
             
             },
             {
             id:120,
-            eng:"Nora",
-            ru:" / ˈnɔːrə /",
+            eng:"Nora /  ˈnɔːrə  /",
+            ru:" / нОра /",
             
             },
             {
             id:121,
-            eng:"Olivia",
-            ru:" / əˈlɪviə /",
+            eng:"Olivia /  əˈlɪviə  /",
+            ru:" / олИвия /",
             
             },
             {
             id:122,
-            eng:"Opal",
-            ru:" / ˈoʊpəl /",
+            eng:"Opal /  ˈoʊpəl  /",
+            ru:" / оУпэл /",
             
             },
             {
             id:123,
-            eng:"Ophelia",
-            ru:" / oʊˈfiːliə /",
+            eng:"Ophelia /  oʊˈfiːliə  /",
+            ru:" / оУфилия /",
             
             },
             {
             id:124,
-            eng:"Paige",
-            ru:" / peɪdʒ /",
+            eng:"Paige /  peɪdʒ  /",
+            ru:" / пЭйдж /",
             
             },
             {
             id:125,
-            eng:"Paula",
-            ru:" / ˈpɔːlə /",
+            eng:"Paula /  ˈpɔːlə  /",
+            ru:" / пОла /",
             
             },
             {
             id:126,
-            eng:"Penny",
-            ru:" / ˈpɛni /",
+            eng:"Penny /  ˈpɛni  /",
+            ru:" / пЭнни /",
             
             },
             {
             id:127,
-            eng:"Queen",
-            ru:" / kwiːn /",
+            eng:"Queen /  kwiːn  /",
+            ru:" / кУИн /",
             
             },
             {
             id:128,
-            eng:"Quella",
-            ru:" / ˈkwɛlə /",
+            eng:"Quella /  ˈkwɛlə  /",
+            ru:" / куЭла /",
             
             },
             {
             id:129,
-            eng:"Quinn",
-            ru:" / kwɪn /",
+            eng:"Quinn /  kwɪn  /",
+            ru:" / кУин /",
             
             },
             {
             id:130,
-            eng:"Rachel",
-            ru:" / ˈreɪtʃəl /",
+            eng:"Rachel /  ˈreɪtʃəl  /",
+            ru:" / рЭйчел /",
             
             },
             {
             id:131,
-            eng:"Rita",
-            ru:" / ˈriːtə /",
+            eng:"Rita /  ˈriːtə  /",
+            ru:" / рИтэ /",
             
             },
             {
             id:132,
-            eng:"Rose",
-            ru:" / roʊz /",
+            eng:"Rose /  roʊz  /",
+            ru:" / рОУз /",
             
             },
             {
             id:133,
-            eng:"Sally",
-            ru:" / ˈsæli /",
+            eng:"Sally /  ˈsæli  /",
+            ru:" / сЭлли /",
             
             },
             {
             id:134,
-            eng:"Sarah",
-            ru:" / ˈsɛrə /",
+            eng:"Sarah /  ˈsɛrə  /",
+            ru:" / сЭра /",
             
             },
             {
             id:135,
-            eng:"Susan",
-            ru:" / ˈsuːzən /",
+            eng:"Susan /  ˈsuːzən  /",
+            ru:" / сьЮзэн /",
             
             },
             {
             id:136,
-            eng:"Tara",
-            ru:" / ˈtærə /",
+            eng:"Tara /  ˈtærə  /",
+            ru:" / тЭра /",
             
             },
             {
             id:137,
-            eng:"Tina",
-            ru:" / ˈtiːnə /",
+            eng:"Tina /  ˈtiːnə  /",
+            ru:" / тИна /",
             
             },
             {
             id:138,
-            eng:"Tracy",
-            ru:" / ˈtreɪsi /",
+            eng:"Tracy /  ˈtreɪsi  /",
+            ru:" / трЭйси /",
             
             },
             {
             id:139,
-            eng:"Uma",
-            ru:" / ˈuːmə /",
+            eng:"Uma /  ˈuːmə  /",
+            ru:" / Ума /",
             
             },
             {
             id:140,
-            eng:"Unity",
-            ru:" / ˈjuːnɪti /",
+            eng:"Unity /  ˈjuːnɪti  /",
+            ru:" / Юнити /",
             
             },
             {
             id:141,
-            eng:"Ursula",
-            ru:" / ˈɜːrsjʊlə /",
+            eng:"Velma /  ˈvelmə  /",
+            ru:" / вЭлма /",
             
             },
             {
             id:142,
-            eng:"Valerie",
-            ru:" / ˈvæləri /",
+            eng:"Valerie /  ˈvæləri  /",
+            ru:" / вЭлэри /",
             
             },
             {
             id:143,
-            eng:"Veronica",
-            ru:" / vɪˈronikə /",
+            eng:"Veronica /  vɪˈronikə  /",
+            ru:" / вирОника /",
             
             },
             {
             id:144,
-            eng:"Vicki",
-            ru:" / ˈvɪki /",
+            eng:"Vicki /  ˈvɪki  /",
+            ru:" / вИки /",
             
             },
             {
             id:145,
-            eng:"Wanda",
-            ru:" / ˈwɒndə /",
+            eng:"Wanda /  ˈwɒndə  /",
+            ru:" / уАнда /",
             
             },
             {
             id:146,
-            eng:"Wendy",
-            ru:" / ˈwɛndi /",
+            eng:"Wendy /  ˈwɛndi  /",
+            ru:" / уЭнди /",
             
             },
             {
             id:147,
-            eng:"Willow",
-            ru:" / ˈwɪloʊ /",
+            eng:"Willow /  ˈwɪloʊ  /",
+            ru:" / уИллоу /",
             
             },
             {
             id:148,
-            eng:"Xena",
-            ru:" / ˈziːnə /",
+            eng:"Xena /  ˈziːnə  /",
+            ru:" / зИна /",
             
             },
             {
             id:149,
-            eng:"Xia",
-            ru:" / ˈʃiːə /",
+            eng:"Xia /  ˈʃiːə  /",
+            ru:" / шИя /",
             
             },
             {
             id:150,
-            eng:"Xyla",
-            ru:" / ˈzaɪlə /",
+            eng:"Xyla /  ˈzaɪlə  /",
+            ru:" / зАйла /",
             
             },
             {
             id:151,
-            eng:"Yasmin",
-            ru:" / ˈjæzmɪn /",
+            eng:"Yasmin /  ˈjæzmɪn  /",
+            ru:" / Ясмин /",
             
             },
             {
             id:152,
-            eng:"Yvette",
-            ru:" / iˈvɛt /",
+            eng:"Yvette /  iˈvɛt  /",
+            ru:" / ивЭт /",
             
             },
             {
             id:153,
-            eng:"Yvonne",
-            ru:" / iˈvɒn /",
+            eng:"Yvonne /  iˈvɒn  /",
+            ru:" / ивОн /",
             
             },
             {
             id:154,
-            eng:"Zara",
-            ru:" / ˈzɑːrə /",
+            eng:"Zara /  ˈzɑːrə  /",
+            ru:" / зАра /",
             
             },
             {
             id:155,
-            eng:"Zelda",
-            ru:" / ˈzɛldə /",
+            eng:"Zelda /  ˈzɛldə  /",
+            ru:" / зЕльда /",
             
             },
             {
             id:156,
-            eng:"Zoe",
-            ru:" / zoʊ /",
+            eng:"Zoe /  zoʊ  /",
+            ru:" / зОуи /",
             
             },
-            
     ],
     maleNames: [
         {
             id:1,
-            eng:"Adam",
-            ru:" / ˈædəm /",
+            eng:"Adam /  ˈædəm  /",
+            ru:" / Эдам /",
             
             },
             {
             id:2,
-            eng:"Andy",
-            ru:" / ˈændɪ /",
+            eng:"Andy /  ˈændɪ  /",
+            ru:" / Энди /",
             
             },
             {
             id:3,
-            eng:"Alan",
-            ru:" / ˈælən /",
+            eng:"Alan /  ˈælən  /",
+            ru:" / Элан /",
             
             },
             {
             id:4,
-            eng:"Benny",
-            ru:" / bɛnɪ /",
+            eng:"Benny /  bɛnɪ  /",
+            ru:" / бЭнни /",
             
             },
             {
             id:5,
-            eng:"Brian",
-            ru:" / ˈbraɪən /",
+            eng:"Brian /  ˈbraɪən  /",
+            ru:" / брАйан /",
             
             },
             {
             id:6,
-            eng:"Bruce",
-            ru:" / bruːs /",
+            eng:"Bruce /  bruːs  /",
+            ru:" / брЮс /",
             
             },
             {
             id:7,
-            eng:"Chris",
-            ru:" / krɪs /",
+            eng:"Chris /  krɪs  /",
+            ru:" / крис /",
             
             },
             {
             id:8,
-            eng:"Cody",
-            ru:" / ˈkoʊdi /",
+            eng:"Cody /  ˈkoʊdi  /",
+            ru:" / кОУди /",
             
             },
             {
             id:9,
-            eng:"Craig",
-            ru:" / kreɪg /",
+            eng:"Craig /  kreɪg  /",
+            ru:" / крЭйг /",
             
             },
             {
             id:10,
-            eng:"Dannie",
-            ru:" / dænɪ /",
+            eng:"Dannie /  dænɪ  /",
+            ru:" / дЭни /",
             
             },
             {
             id:11,
-            eng:"David",
-            ru:" / ˈdeɪvɪd /",
+            eng:"David /  ˈdeɪvɪd  /",
+            ru:" / дЭвид /",
             
             },
             {
             id:12,
-            eng:"Derek",
-            ru:" / ˈdɛrɪk /",
+            eng:"Derek /  ˈdɛrɪk  /",
+            ru:" / дЭрик /",
             
             },
             {
             id:13,
-            eng:"Edward",
-            ru:" / ˈɛdwərd /",
+            eng:"Edward /  ˈɛdwərd  /",
+            ru:" / Эдвард /",
             
             },
             {
             id:14,
-            eng:"Eric",
-            ru:" / ˈɛrɪk /",
+            eng:"Eric /  ˈɛrɪk  /",
+            ru:" / Эрик /",
             
             },
             {
             id:15,
-            eng:"Evan",
-            ru:" / ˈɛvən /",
+            eng:"Evan /  ˈɛvən  /",
+            ru:" / Эван /",
             
             },
             {
             id:16,
-            eng:"Felix",
-            ru:" / ˈfiːlɪks /",
+            eng:"Felix /  ˈfiːlɪks  /",
+            ru:" / фЕликс /",
             
             },
             {
             id:17,
-            eng:"Frank",
-            ru:" / fræŋk /",
+            eng:"Frank /  fræŋk  /",
+            ru:" / фрЭнк /",
             
             },
             {
             id:18,
-            eng:"Fred",
-            ru:" / frɛd /",
+            eng:"Fred /  frɛd  /",
+            ru:" / фрЭд /",
             
             },
             {
             id:19,
-            eng:"Gary",
-            ru:" / ˈgɛri /",
+            eng:"Gary /  ˈgɛri  /",
+            ru:" / гЭри /",
             
             },
             {
             id:20,
-            eng:"George",
-            ru:" / ˈdʒɔːrdʒ /",
+            eng:"George /  ˈdʒɔːrdʒ  /",
+            ru:" / джОрдж /",
             
             },
             {
             id:21,
-            eng:"Greg",
-            ru:" / grɛg /",
+            eng:"Greg /  grɛg  /",
+            ru:" / грЭг /",
             
             },
             {
             id:22,
-            eng:"Harry",
-            ru:" / ˈhæri /",
+            eng:"Harry /  ˈhæri  /",
+            ru:" / хЭри /",
             
             },
             {
             id:23,
-            eng:"Henry",
-            ru:" / ˈhɛnri /",
+            eng:"Henry /  ˈhɛnri  /",
+            ru:" / хЭнри /",
             
             },
             {
             id:24,
-            eng:"Howard",
-            ru:" / ˈhaʊərd /",
+            eng:"Howard /  ˈhaʊərd  /",
+            ru:" / хАУэрд /",
             
             },
             {
             id:25,
-            eng:"Ian",
-            ru:" / ˈiːən /",
+            eng:"Ian /  ˈiːən  /",
+            ru:" / айен /",
             
             },
             {
             id:26,
-            eng:"Isaac",
-            ru:" / ˈaɪzək /",
+            eng:"Isaac /  ˈaɪzək  /",
+            ru:" / Айзэк /",
             
             },
             {
             id:27,
-            eng:"Indie",
-            ru:" / ˈɪndɪ /",
+            eng:"Indie /  ˈɪndɪ  /",
+            ru:" / Инди /",
             
             },
             {
             id:28,
-            eng:"Jack",
-            ru:" / dʒæk /",
+            eng:"Jack /  dʒæk  /",
+            ru:" / джЭк /",
             
             },
             {
             id:29,
-            eng:"James",
-            ru:" / dʒeɪmz /",
+            eng:"James /  dʒeɪmz  /",
+            ru:" / джЭймз /",
             
             },
             {
             id:30,
-            eng:"John",
-            ru:" / dʒɒn /",
+            eng:"John /  dʒɒn  /",
+            ru:" / джОн /",
             
             },
             {
             id:31,
-            eng:"Keith",
-            ru:" / kiːθ /",
+            eng:"Keith /  kiːθ  /",
+            ru:" / Кит межзубный звук TH шипилявим /",
             
             },
             {
             id:32,
-            eng:"Kevin",
-            ru:" / ˈkɛvɪn /",
+            eng:"Kevin /  ˈkɛvɪn  /",
+            ru:" / кЕвин /",
             
             },
             {
             id:33,
-            eng:"Kyle",
-            ru:" / kaɪl /",
+            eng:"Kyle /  kaɪl  /",
+            ru:" / кАйл /",
             
             },
             {
             id:34,
-            eng:"Larry",
-            ru:" / ˈlæri /",
+            eng:"Larry /  ˈlæri  /",
+            ru:" / лЭри /",
             
             },
             {
             id:35,
-            eng:"Leo",
-            ru:" / ˈliːoʊ /",
+            eng:"Leo /  ˈliːoʊ  /",
+            ru:" / лИоу /",
             
             },
             {
             id:36,
-            eng:"Luke",
-            ru:" / luːk /",
+            eng:"Luke /  luːk  /",
+            ru:" / люк /",
             
             },
             {
             id:37,
-            eng:"Mark",
-            ru:" / mɑːrk /",
+            eng:"Mark /  mɑːrk  /",
+            ru:" / марк /",
             
             },
             {
             id:38,
-            eng:"Matt",
-            ru:" / mæt /",
+            eng:"Matt /  mæt  /",
+            ru:" / мэт /",
             
             },
             {
             id:39,
-            eng:"Mike",
-            ru:" / maɪk /",
+            eng:"Mike /  maɪk  /",
+            ru:" / майк /",
             
             },
             {
             id:40,
-            eng:"Nathan",
-            ru:" / ˈneɪθən /",
+            eng:"Nathan /  ˈneɪθən  /",
+            ru:" / нЭйтан /",
             
             },
             {
             id:41,
-            eng:"Nick",
-            ru:" / nɪk /",
+            eng:"Nick /  nɪk  /",
+            ru:" / нИк /",
             
             },
             {
             id:42,
-            eng:"Noah",
-            ru:" / ˈnoʊ.ə /",
+            eng:"Noah /  ˈnoʊ.ə  /",
+            ru:" / нОа /",
             
             },
             {
             id:43,
-            eng:"Oliver",
-            ru:" / ˈɒlɪvər /",
+            eng:"Oliver /  ˈɒlɪvər  /",
+            ru:" / Оливер /",
             
             },
             {
             id:44,
-            eng:"Oscar",
-            ru:" / ˈɒskər /",
+            eng:"Oscar /  ˈɒskər  /",
+            ru:" / Оскар /",
             
             },
             {
             id:45,
-            eng:"Owen",
-            ru:" / ˈoʊwən /",
+            eng:"Owen /  ˈoʊwən  /",
+            ru:" / Оуэн /",
             
             },
             {
             id:46,
-            eng:"Patrick",
-            ru:" / ˈpætrɪk /",
+            eng:"Patrick /  ˈpætrɪk  /",
+            ru:" / пЭтрик /",
             
             },
             {
             id:47,
-            eng:"Paul",
-            ru:" / pɔːl /",
+            eng:"Paul /  pɔːl  /",
+            ru:" / пол /",
             
             },
             {
             id:48,
-            eng:"Peter",
-            ru:" / ˈpiːtər /",
+            eng:"Peter /  ˈpiːtər  /",
+            ru:" / пИтэр /",
             
             },
             {
             id:49,
-            eng:"Quaid",
-            ru:" / kweɪd /",
+            eng:"Quaid /  kweɪd  /",
+            ru:" / куЭйд /",
             
             },
             {
             id:50,
-            eng:"Quincy",
-            ru:" / ˈkwɪnsi /",
+            eng:"Quincy /  ˈkwɪnsi  /",
+            ru:" / кУИнси /",
             
             },
             {
             id:51,
-            eng:"Quinn",
-            ru:" / kwɪn /",
+            eng:"Quinn /  kwɪn  /",
+            ru:" / кУИн /",
             
             },
             {
             id:52,
-            eng:"Ray",
-            ru:" / reɪ /",
+            eng:"Ray /  reɪ  /",
+            ru:" / рЭй /",
             
             },
             {
             id:53,
-            eng:"Robert",
-            ru:" / ˈrɒbərt /",
+            eng:"Robert /  ˈrɒbərt  /",
+            ru:" / рОберт /",
             
             },
             {
             id:54,
-            eng:"Ryan",
-            ru:" / ˈraɪən /",
+            eng:"Ryan /  ˈraɪən  /",
+            ru:" / рАйэн /",
             
             },
             {
             id:55,
-            eng:"Sam",
-            ru:" / sæm /",
+            eng:"Sam /  sæm  /",
+            ru:" / сЭм /",
             
             },
             {
             id:56,
-            eng:"Scott",
-            ru:" / skɒt /",
+            eng:"Scott /  skɒt  /",
+            ru:" / скот /",
             
             },
             {
             id:57,
-            eng:"Steve",
-            ru:" / ˈstiːv /",
+            eng:"Steve /  ˈstiːv  /",
+            ru:" / стив /",
             
             },
             {
             id:58,
-            eng:"Tim",
-            ru:" / tɪm /",
+            eng:"Tim /  tɪm  /",
+            ru:" / тим /",
             
             },
             {
             id:59,
-            eng:"Tom",
-            ru:" / tɒm /",
+            eng:"Tom /  tɒm  /",
+            ru:" / том /",
             
             },
             {
             id:60,
-            eng:"Tony",
-            ru:" / ˈtoʊni /",
+            eng:"Tony /  ˈtoʊni  /",
+            ru:" / тони /",
             
             },
             {
             id:61,
-            eng:"Usuf",
-            ru:" / ˈjusef /",
+            eng:"Usuf /  ˈjusef  /",
+            ru:" / Юсэф /",
             
             },
             {
             id:62,
-            eng:"Urius",
-            ru:" / ˈjurius /",
+            eng:"Urius /  ˈjurius  /",
+            ru:" / Юриус /",
             
             },
             {
             id:63,
-            eng:"Usher",
-            ru:" / ˈasher /",
+            eng:"Usher /  ˈasher  /",
+            ru:" / Ашэр /",
             
             },
             {
             id:64,
-            eng:"Vernon",
-            ru:" / ˈvɜːrnən /",
+            eng:"Vernon /  ˈvɜːrnən  /",
+            ru:" / вЭрнон /",
             
             },
             {
             id:65,
-            eng:"Vincent",
-            ru:" / ˈvɪnsent /",
+            eng:"Vincent /  ˈvɪnsent  /",
+            ru:" / вИнсэнт /",
             
             },
             {
             id:66,
-            eng:"Vince",
-            ru:" / vɪns /",
+            eng:"Vince /  vɪns  /",
+            ru:" / вИнс /",
             
             },
             {
             id:67,
-            eng:"Walter",
-            ru:" / ˈwɔːltər /",
+            eng:"Walter /  ˈwɔːltər  /",
+            ru:" / уОлтэр /",
             
             },
             {
             id:68,
-            eng:"Wayne",
-            ru:" / weɪn /",
+            eng:"Wayne /  weɪn  /",
+            ru:" / Эйн /",
             
             },
             {
             id:69,
-            eng:"William",
-            ru:" / ˈwɪljəm /",
+            eng:"William /  ˈwɪljəm  /",
+            ru:" / уИльэм /",
             
             },
             {
             id:70,
-            eng:"Xander",
-            ru:" / ˈzændər /",
+            eng:"Xander /  ˈzændər  /",
+            ru:" / Zэндэр /",
             
             },
             {
             id:71,
-            eng:"Xavier",
-            ru:" / ˈzeɪviər /",
+            eng:"Xavier /  ˈzeɪviər  /",
+            ru:" / ксАвиьер /",
             
             },
             {
             id:72,
-            eng:"Xeno",
-            ru:" / ˈziːnoʊ /",
+            eng:"Xeno /  ˈziːnoʊ  /",
+            ru:" / зИно /",
             
             },
             {
             id:73,
-            eng:"Yale",
-            ru:" / jeɪl /",
+            eng:"Yale /  jeɪl  /",
+            ru:" / ейл /",
             
             },
             {
             id:74,
-            eng:"Yanni",
-            ru:" / ˈjæni /",
+            eng:"Yanni /  ˈjæni  /",
+            ru:" / йЕни /",
             
             },
             {
             id:75,
-            eng:"York",
-            ru:" / jɔːrk /",
+            eng:"York /  jɔːrk  /",
+            ru:" / йОрк /",
             
             },
             {
             id:76,
-            eng:"Zach",
-            ru:" / zæk /",
+            eng:"Zach /  zæk  /",
+            ru:" / ZЭК /",
             
             },
             {
             id:77,
-            eng:"Zane",
-            ru:" / zeɪn /",
+            eng:"Zane /  zeɪn  /",
+            ru:" / Zэйн /",
             
             },
             {
             id:78,
-            eng:"Zeke",
-            ru:" / ziːk /",
+            eng:"Zeke /  ziːk  /",
+            ru:" / зИк /",
             
             },
             
