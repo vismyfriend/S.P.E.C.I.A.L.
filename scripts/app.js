@@ -866,7 +866,7 @@ BenderWordOrderGameButton.addEventListener("click", startGameBenderWordOrderGame
 // передаем set чтобы bender понимал в каком он наборе
 function renderWordsGameBenderWordOrderGame() {
     // russianHintGameBenderWordOrderGame.textContent = "Без русского перевода попробуй восстановить правильный порядок слов"
-    russianHintGameBenderWordOrderGame.textContent = "Догадайся что за предложение Робот пытается сказать. Нажми на слова в правильном порядке"
+    russianHintGameBenderWordOrderGame.textContent = "Нажимай на слова или буквы в правильном порядке"
     n = n + 1
     // russianHintGameBenderWordOrderGame.textContent = benderWordOrderSentences[currentSet][n].ru
     // console.log(life)
