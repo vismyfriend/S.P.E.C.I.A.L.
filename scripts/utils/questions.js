@@ -3412,6 +3412,166 @@ const allQuestionsOneDeck = {
                 
                 },
     ],
+    questions240: [
+        {
+            id:31,
+            eng:"Do you like graffitis? / грэффИтиз / ударение на первую И",
+            ru:"Вам нравятся граффити?",
+            
+            },
+            {
+            id:32,
+            eng:"What do you think : is graffiti an art or a vandalism?",
+            ru:"Как вы думаете: граффити - это искусство или вандализм?",
+            
+            },
+            {
+            id:33,
+            eng:"How much time and how much money does an artist spend on one graffiti?",
+            ru:"Сколько времени и денег художник тратит на одно граффити?",
+            
+            },
+            {
+            id:34,
+            eng:"Did you use a spray-paint in your life? What did you paint?",
+            ru:"Вы когда-нибудь использовали аэрозольную краску? Что вы рисовали?",
+            
+            },
+            {
+            id:35,
+            eng:"Do you have a good handwriting (почерк) with a pen? Can other people understand what you write in a notebook?",
+            ru:"У вас хороший почерк ручкой? Могут ли другие люди понять, что вы пишете в тетради?",
+            
+            },
+            {
+            id:36,
+            eng:"If Vincent gives you spray paints and if he asks you to paint a graffiti. What colors will you use? What will you write?",
+            ru:"Если Винсент даст вам аэрозольные краски и попросит нарисовать граффити, какие цвета вы будете использовать? Что вы напишете?",
+            
+            },
+            {
+            id:37,
+            eng:"What can you draw? Can you draw a smile? Can you draw a face?",
+            ru:"Что вы можете нарисовать? Можете нарисовать улыбку? Можете нарисовать лицо?",
+            
+            },
+            {
+            id:38,
+            eng:"Do you know anybody who can draw very beautifully?",
+            ru:"Вы знаете кого-нибудь, кто умеет очень красиво рисовать?",
+            
+            },
+            {
+            id:39,
+            eng:"What type of pictures do you like? Fruits, people, water, mountains, nature, fantasy, surrealism, modern art?",
+            ru:"Какие типы картин вам нравятся? Фрукты, люди, вода, горы, природа, фантазия, сюрреализм, современное искусство?",
+            
+            },
+            {
+            id:40,
+            eng:"Can you draw a car?",
+            ru:"Можете нарисовать машину?",
+            
+            },
+            {
+            id:41,
+            eng:"Can you draw any animals? A cat or a dog maybe?",
+            ru:"Можете нарисовать каких-нибудь животных? Кошку или собаку, может быть?",
+            
+            },
+            {
+            id:42,
+            eng:"Does anybody in your family draw well?",
+            ru:"Кто-нибудь в вашей семье хорошо рисует?",
+            
+            },
+            {
+            id:43,
+            eng:"What names of famous artists do you remember? Let's give 6 names together.",
+            ru:"Какие имена известных художников вы помните? Давайте назовем 6 имен вместе.",
+            
+            },
+    ],
+    questions250: [
+        {
+            id:44,
+            eng:"Who painted Mona Lisa?",
+            ru:"Кто нарисовал Мону Лизу?",
+            
+            },
+            {
+            id:45,
+            eng:"Who painted Black Square?",
+            ru:"Кто нарисовал Черный квадрат?",
+            
+            },
+            {
+            id:46,
+            eng:"Can people earn (зарабатывать) good money when they make a graffiti?",
+            ru:"Могут ли люди зарабатывать хорошие деньги, создавая граффити?",
+            
+            },
+            {
+            id:47,
+            eng:"Do you know anything about Banksy? Who is it? Why is he famous? ( фЭймос - известный )",
+            ru:"Вы что-нибудь знаете о Бэнкси? Кто это? Почему он знаменит?",
+            
+            },
+            {
+            id:48,
+            eng:"Would you agree to have a graffiti on your car?",
+            ru:"Вы согласились бы иметь граффити на своей машине?",
+            
+            },
+            {
+            id:49,
+            eng:"Did you see a graffiti on a public transport?",
+            ru:"Вы видели граффити на общественном транспорте?",
+            
+            },
+            {
+            id:50,
+            eng:"Why air-lines companies don't put a graffiti on the planes?",
+            ru:"Почему авиакомпании не наносят граффити на самолеты?",
+            
+            },
+            {
+            id:51,
+            eng:"Why do children like to draw?",
+            ru:"Почему дети любят рисовать?",
+            
+            },
+            {
+            id:52,
+            eng:"What do you do when you have free time? Do you have a bobby?",
+            ru:"Чем вы занимаетесь в свободное время?",
+            
+            },
+            {
+            id:53,
+            eng:"Do you have any pictures on the walls in your apartments?",
+            ru:"У вас в квартире на стенах есть какие-нибудь картины?",
+            
+            },
+            {
+            id:54,
+            eng:"What do you think : Can Vincent draw well? Or maybe he cannot draw?",
+            ru:"Как думаете Винсент умеет рисовать или нет?",
+            
+            },
+            {
+            id:55,
+            eng:"Did you paint any picture with real paints?",
+            ru:"Вы когда-нибудь красками картину рисовали?",
+            
+            },
+            {
+            id:56,
+            eng:"Did you take a picture of a picture?",
+            ru:"Вы когда-нибудь фотографировали картину?",
+            
+            },
+    ],
     words001: [
         {
             id:1,
