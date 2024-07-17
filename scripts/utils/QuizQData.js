@@ -8494,7 +8494,7 @@ const quizQuesstionsList = {
             },
             {
             id: 44,
-            quizQuestion: "__ one-dollar bill",
+            quizQuestion: "__ dollar",
             answers: [
             {
             answer: "a",
@@ -9660,7 +9660,7 @@ const quizQuesstionsList = {
             },
             {
             id: 44,
-            quizQuestion: "__ one-dollar bill",
+            quizQuestion: "__ dollar",
             answers: [
             {
             answer: "a",
