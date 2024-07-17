@@ -19,6 +19,183 @@ const allQuestionsOneDeck = {
             },
             
     ],
+    feb21st: [
+        {
+            id:1,
+            eng:"What is the 1st day of the week?",
+            ru:"Какой первый день недели?",
+            
+            },
+            {
+            id:2,
+            eng:"What is the 2nd day of the week?",
+            ru:"Какой второй день недели?",
+            
+            },
+            {
+            id:3,
+            eng:"What is the 3rd day of the week?",
+            ru:"Какой третий день недели?",
+            
+            },
+            {
+            id:4,
+            eng:"What is the 4th day of the week?",
+            ru:"Какой четвертый день недели?",
+            
+            },
+            {
+            id:5,
+            eng:"What is the 5th day of the week?",
+            ru:"Какой пятый день недели?",
+            
+            },
+            {
+            id:6,
+            eng:"What is the 6th day of the week?",
+            ru:"Какой шестой день недели?",
+            
+            },
+            {
+            id:7,
+            eng:"What is the 7th day of the week?",
+            ru:"Какой седьмой день недели?",
+            
+            },
+            {
+            id:8,
+            eng:"What is the last month of summer?",
+            ru:"Какой последний месяц лета?",
+            
+            },
+            {
+            id:9,
+            eng:"What is the last month of spring?",
+            ru:"Какой последний месяц весны?",
+            
+            },
+            {
+            id:10,
+            eng:"What is the last month of winter?",
+            ru:"Какой последний месяц зимы?",
+            
+            },
+            {
+            id:11,
+            eng:"What is the last month of fall?",
+            ru:"Какой последний месяц осени? (фол - это осень по-американски, отэм - по-британски, говорить можно и так и так, вас везде поймут)",
+            
+            },
+            {
+            id:12,
+            eng:"What is the last month of autumn?",
+            ru:"Какой последний месяц осени? (фол - это осень по-американски, отэм - по-британски, говорить можно и так и так, вас везде поймут)",
+            
+            },
+            {
+            id:13,
+            eng:"What is the 1st month of fall?",
+            ru:"Какой первый месяц осени? (фол - это осень по-американски, отэм - по-британски, говорить можно и так и так, вас везде поймут)",
+            
+            },
+            {
+            id:14,
+            eng:"What is the 1st month of autumn?",
+            ru:"Какой первый месяц осени? (фол - это осень по-американски, отэм - по-британски, говорить можно и так и так, вас везде поймут)",
+            
+            },
+            {
+            id:15,
+            eng:"What is the first month of summer?",
+            ru:"Какой первый месяц лета?",
+            
+            },
+            {
+            id:16,
+            eng:"What is the first month of spring?",
+            ru:"Какой первый месяц весны?",
+            
+            },
+            {
+            id:17,
+            eng:"what is the first month of winter?",
+            ru:"Какой первый месяц зимы?",
+            
+            },
+            {
+            id:18,
+            eng:"When is your birthday?",
+            ru:"Когда ваш день рождения? примеры ответа : my birthday is in winter my birthday is in February it's on the 21st of February",
+            
+            },
+            {
+            id:19,
+            eng:"When is Vincent's birthday?",
+            ru:"Когда день рождения у Винсента? примеры ответа : his birthday is in winter his birthday is in February it's on the 21st of February",
+            
+            },
+            {
+            id:20,
+            eng:"When is your mother's birthday?",
+            ru:"Когда день рождения у вашей мамы? примеры ответа : her birthday is in winter her birthday is in February it's on the 21st of February",
+            
+            },
+            {
+            id:21,
+            eng:"When is your father's birthday?",
+            ru:"Когда день рождения у вашего папы? примеры ответа : his birthday is in winter his birthday is in February it's on the 21st of February",
+            
+            },
+            {
+            id:22,
+            eng:"When is your best friend's birthday?",
+            ru:"Когда день рождения у вашего лучшего друга? примеры ответа : his birthday is in winter his birthday is in February it's on the 21st of February",
+            
+            },
+            {
+            id:23,
+            eng:"What is the English for ' январь ' ?",
+            ru:"Как будет по-английски 'январь'?",
+            
+            },
+            {
+            id:24,
+            eng:"What is the English for ' апрель' ?",
+            ru:"Как будет по-английски 'апрель'?",
+            
+            },
+            {
+            id:25,
+            eng:"What is the English for ' январь ' ?",
+            ru:"Как будет по-английски 'январь'?",
+            
+            },
+            {
+            id:26,
+            eng:"What is the English for ' октябрь' ?",
+            ru:"Как будет по-английски 'октябрь'?",
+            
+            },
+            {
+            id:27,
+            eng:"What days of the week do you like?",
+            ru:"Какие дни недели вам нравятся?",
+            
+            },
+            {
+            id:28,
+            eng:"What day of the week is hard for you?",
+            ru:"Какой день недели для вас трудный?",
+            
+            },
+            {
+            id:29,
+            eng:"Как тебе удалось запомнить английские слова ВТОРНИК и ЧЕТВЕРГ ? помоги мне запомнить их! Как они произносятся?",
+            ru:"ТЬЮСДЭЙ - вторник а вот четверг это межзубный звук TH ёрсдэй",
+            
+            },
+            
+    ],
     up1: [
         {
             id:1,
