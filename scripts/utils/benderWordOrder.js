@@ -24,6 +24,170 @@ const benderWordOrderSentences = {
             ru:"Винсент мой учитель"
             }
     ],
+    daysMonthSeasons: [
+        {
+            id:101,
+            eng:"J a n u a r y",
+            ru:"январь",
+            hint:" / джЭньюэри /"
+            },
+            {
+            id:102,
+            eng:"F e b r u a r y",
+            ru:"февраль",
+            hint:" / фЭбруэри /"
+            },
+            {
+            id:103,
+            eng:"M a r c h",
+            ru:"март",
+            hint:" / мАч /"
+            },
+            {
+            id:104,
+            eng:"A p r i l",
+            ru:"апрель",
+            hint:" / Эйприл /"
+            },
+            {
+            id:105,
+            eng:"M a y",
+            ru:"март",
+            hint:" / мЭй /"
+            },
+            {
+            id:106,
+            eng:"J u n e",
+            ru:"июнь",
+            hint:" / джУн /"
+            },
+            {
+            id:107,
+            eng:"J u l y",
+            ru:"июль",
+            hint:" / джулАй /"
+            },
+            {
+            id:108,
+            eng:"A u g u s t",
+            ru:"август",
+            hint:" / Огэст /"
+            },
+            {
+            id:109,
+            eng:"S e p t e m b e r",
+            ru:"сентябрь",
+            hint:" / сэптЭмбэ /"
+            },
+            {
+            id:110,
+            eng:"O c t o b e r",
+            ru:"октябрь",
+            hint:" / октОубэ /"
+            },
+            {
+            id:111,
+            eng:"N o v e m b e r",
+            ru:"ноябрь",
+            hint:" / новЭмбэ /"
+            },
+            {
+            id:112,
+            eng:"D e c e m b e r",
+            ru:"декабрь",
+            hint:" / дисЭмбэ /"
+            },
+            {
+            id:113,
+            eng:"w i n t e r",
+            ru:"зима",
+            hint:" / уИнтэ /"
+            },
+            {
+            id:114,
+            eng:"s p r i n g",
+            ru:"весна",
+            hint:" / сприн /"
+            },
+            {
+            id:115,
+            eng:"s u m m e r",
+            ru:"лето",
+            hint:" / сАмэ /"
+            },
+            {
+            id:116,
+            eng:"a u t u m n",
+            ru:"осень по-британски",
+            hint:" / Отэм /"
+            },
+            {
+            id:117,
+            eng:"f a l l",
+            ru:"осень по-американски",
+            hint:" / фол /"
+            },
+            {
+            id:118,
+            eng:"M o n d a y",
+            ru:"понедельник",
+            hint:" / мАндэй /"
+            },
+            {
+            id:119,
+            eng:"T u e s d a y",
+            ru:"вторник",
+            hint:" / тьЮсдэй /"
+            },
+            {
+            id:120,
+            eng:"W e d n e s d a y",
+            ru:"среда",
+            hint:" / уЭнсдэй /"
+            },
+            {
+            id:121,
+            eng:"T h u r s d a y",
+            ru:"четверг",
+            hint:" / thЁсдэй /"
+            },
+            {
+            id:122,
+            eng:"F r i d a y",
+            ru:"пятница",
+            hint:" / фрАйдэй /"
+            },
+            {
+            id:123,
+            eng:"S a t u r d a y",
+            ru:"суббота",
+            hint:" / сАтудэй /"
+            },
+            {
+            id:124,
+            eng:"S u n d a y",
+            ru:"воскресенье",
+            hint:" / сАндэй /"
+            },
+            {
+            id:125,
+            eng:"T o d a y",
+            ru:"сегодня",
+            hint:" / тудЭй /"
+            },
+            {
+            id:126,
+            eng:"T o m o r r o w",
+            ru:"завтра",
+            hint:" / тумОроу /"
+            },
+            {
+            id:127,
+            eng:"Y e s t e r d a y",
+            ru:"вчера",
+            hint:" / естэдЭй /"
+            },
+    ],
     benderVerbsB: [
         {
             id:201,
