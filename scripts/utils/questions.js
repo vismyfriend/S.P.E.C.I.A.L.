@@ -236,7 +236,7 @@ const allQuestionsOneDeck = {
             {
             id:7,
             eng:"Please / плиз /",
-            ru:"пожулуйста (просьба)",
+            ru:"пожалуйста (просьба)",
             
             },
             {
@@ -253,8 +253,47 @@ const allQuestionsOneDeck = {
             },
             {
             id:10,
-            eng:"You are welcome / ю а вЭлком /",
-            ru:"два перевода: 1 - добро пожаловать 2 - на здоровье , пожалуйста ( ответ на спасибо -thank you )",
+            eng:"You are welcome / ю а вЭлком /",
+            ru:"два перевода: 1 - добро пожаловать 2 - пожалуйста ответ на спасибо - thank you! You are welcome!",
+            
+            },
+            
+    ],
+    up2: [
+        {
+            id:11,
+            eng:"Explain it to me / эксплЭйн ит ту ми /",
+            ru:"Объясните это мне ",
+            
+            },
+            {
+            id:12,
+            eng:"Your microphone is off / ё мАйкрофон из офф /",
+            ru:"Ваш микрофон выключен ",
+            
+            },
+            {
+            id:13,
+            eng:"Turn on your mic / тёрн он ё майк /",
+            ru:"Включите ваш микрофон ",
+            
+            },
+            {
+            id:14,
+            eng:"Turn off your microphone. / тёрн офф ё майк /",
+            ru:"Выключите свой микрофон ",
+            
+            },
+            {
+            id:15,
+            eng:"Mute your microphone / мьЮт ё мАйкрофон /",
+            ru:"Приглушите свой микрофон ",
+            
+            },
+            {
+            id:16,
+            eng:"Useful phrases / юсфул фрЭйзиз /",
+            ru:"полезные фразы",
             
             },
             
