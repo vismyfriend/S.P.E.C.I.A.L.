@@ -19,6 +19,1425 @@ const allQuestionsOneDeck = {
             },
             
     ],
+    verbsss: [
+        {
+            id:1,
+            eng:"add milk to coffee",
+            ru:"добавлять молоко в кофе",
+            
+            },
+            {
+            id:2,
+            eng:"add sugar to coffee",
+            ru:"добавить сахар в кофе",
+            
+            },
+            {
+            id:3,
+            eng:"add sugar to tea",
+            ru:"добавить сахар в чай",
+            
+            },
+            {
+            id:4,
+            eng:"annoy somebody",
+            ru:"бесить кого-то",
+            
+            },
+            {
+            id:5,
+            eng:"argue with everybody",
+            ru:"спорить со всеми",
+            
+            },
+            {
+            id:6,
+            eng:"argue with somebody",
+            ru:"спорить с кем-то",
+            
+            },
+            {
+            id:7,
+            eng:"argue with someone",
+            ru:"спорить с кем-нибудь",
+            
+            },
+            {
+            id:8,
+            eng:"argue with Vincent",
+            ru:"спорить с Винсетом",
+            
+            },
+            {
+            id:9,
+            eng:"arrive late",
+            ru:"прибывать, приезжать поздно",
+            
+            },
+            {
+            id:10,
+            eng:"arrive to the airport",
+            ru:"прибывать в аэропорт",
+            
+            },
+            {
+            id:11,
+            eng:"arrive to the station",
+            ru:"прибывать на станцию",
+            
+            },
+            {
+            id:12,
+            eng:"ask for a lighter",
+            ru:"попросить зажигалку",
+            
+            },
+            {
+            id:13,
+            eng:"ask for advice",
+            ru:"просить совета",
+            
+            },
+            {
+            id:14,
+            eng:"ask for directions",
+            ru:"спросить направление",
+            
+            },
+            {
+            id:15,
+            eng:"ask for help",
+            ru:"попросить помощи",
+            
+            },
+            {
+            id:16,
+            eng:"ask for presents",
+            ru:"попросить подарков",
+            
+            },
+            {
+            id:17,
+            eng:"brush hair",
+            ru:"расчесывать волосы",
+            
+            },
+            {
+            id:18,
+            eng:"brush teeth",
+            ru:"начистить зубы",
+            
+            },
+            {
+            id:19,
+            eng:"call for help",
+            ru:"позвать на помощь",
+            
+            },
+            {
+            id:20,
+            eng:"call the ambulance",
+            ru:"позвонить в скорую",
+            
+            },
+            {
+            id:21,
+            eng:"call the police /полИс/",
+            ru:"вызвать полицию",
+            
+            },
+            {
+            id:22,
+            eng:"call Vincent at night",
+            ru:"позвонить Винсенту ночью",
+            
+            },
+            {
+            id:23,
+            eng:"change clothes",
+            ru:"переодеться",
+            
+            },
+            {
+            id:24,
+            eng:"change lifestyle",
+            ru:"изменить образ жизни",
+            
+            },
+            {
+            id:25,
+            eng:"change oil in a car",
+            ru:"поменять масло в машине",
+            
+            },
+            {
+            id:26,
+            eng:"clap hands",
+            ru:"хлопать",
+            
+            },
+            {
+            id:27,
+            eng:"clean cars in the street",
+            ru:"чистить машину Винсента",
+            
+            },
+            {
+            id:28,
+            eng:"clean teeth",
+            ru:"чистить зубы",
+            
+            },
+            {
+            id:29,
+            eng:"clean the house",
+            ru:"убираться дома",
+            
+            },
+            {
+            id:30,
+            eng:"clean the kitchen",
+            ru:"убираться на кухне",
+            
+            },
+            {
+            id:31,
+            eng:"clean the toilet",
+            ru:"чистить унитаз",
+            
+            },
+            {
+            id:32,
+            eng:"close a door",
+            ru:"закрыть дверь",
+            
+            },
+            {
+            id:33,
+            eng:"close a window",
+            ru:"закрыть окно",
+            
+            },
+            {
+            id:34,
+            eng:"close business",
+            ru:"закрыть бизнес",
+            
+            },
+            {
+            id:35,
+            eng:"close doors",
+            ru:"закрыть двери",
+            
+            },
+            {
+            id:36,
+            eng:"close eyes",
+            ru:"закрыть глаза",
+            
+            },
+            {
+            id:37,
+            eng:"collect antiques /энтИкс/",
+            ru:"собирать антиквариат",
+            
+            },
+            {
+            id:38,
+            eng:"collect forks",
+            ru:"коллекционировать вилки",
+            
+            },
+            {
+            id:39,
+            eng:"collect magnets",
+            ru:"коллекционировать магниты",
+            
+            },
+            {
+            id:40,
+            eng:"cook breakfast",
+            ru:"приготовить завтрак",
+            
+            },
+            {
+            id:41,
+            eng:"cook dinner",
+            ru:"приготовить ужин",
+            
+            },
+            {
+            id:42,
+            eng:"cook food",
+            ru:"приготовить еду",
+            
+            },
+            {
+            id:43,
+            eng:"cook lunch",
+            ru:"приготовить обед",
+            
+            },
+            {
+            id:44,
+            eng:"cook romantic dinner",
+            ru:"готовить романтический ужин",
+            
+            },
+            {
+            id:45,
+            eng:"create new things",
+            ru:"создавать новые вещи",
+            
+            },
+            {
+            id:46,
+            eng:"create something",
+            ru:"создать что-либо",
+            
+            },
+            {
+            id:47,
+            eng:"cry",
+            ru:"плакать",
+            
+            },
+            {
+            id:48,
+            eng:"cry very much",
+            ru:"много плакать",
+            
+            },
+            {
+            id:49,
+            eng:"dance",
+            ru:"танцевать",
+            
+            },
+            {
+            id:50,
+            eng:"dance",
+            ru:"танцевать",
+            
+            },
+            {
+            id:51,
+            eng:"dance like a crazy person",
+            ru:"танцевать как сумасшедший",
+            
+            },
+            {
+            id:52,
+            eng:"dance on the table",
+            ru:"танцевать на столе",
+            
+            },
+            {
+            id:53,
+            eng:"dance Polka",
+            ru:"танцевать польку",
+            
+            },
+            {
+            id:54,
+            eng:"dance some breakdance",
+            ru:"танцевать брейкданс",
+            
+            },
+            {
+            id:55,
+            eng:"dance Tango",
+            ru:"танцевать танго",
+            
+            },
+            {
+            id:56,
+            eng:"dance under the rain",
+            ru:"танцевать под дождем",
+            
+            },
+            {
+            id:57,
+            eng:"describe a person",
+            ru:"описать человека",
+            
+            },
+            {
+            id:58,
+            eng:"describe the situation",
+            ru:"описать ситуацию",
+            
+            },
+            {
+            id:59,
+            eng:"destroy something",
+            ru:"разрушить что-либо",
+            
+            },
+            {
+            id:60,
+            eng:"die of boredom",
+            ru:"умереть от скуки",
+            
+            },
+            {
+            id:61,
+            eng:"die of laughter / дай ов лАфтэ /",
+            ru:"умереть от смеха",
+            
+            },
+            {
+            id:62,
+            eng:"dream about English",
+            ru:"мечтать об английском",
+            
+            },
+            {
+            id:63,
+            eng:"drop a cake on the floor",
+            ru:"уронить торт на пол",
+            
+            },
+            {
+            id:64,
+            eng:"drop a pen",
+            ru:"уронить ручку",
+            
+            },
+            {
+            id:65,
+            eng:"drop a phone",
+            ru:"уронить телефон",
+            
+            },
+            {
+            id:66,
+            eng:"drop something",
+            ru:"уронить что-то",
+            
+            },
+            {
+            id:67,
+            eng:"dry hair",
+            ru:"сушить волосы",
+            
+            },
+            {
+            id:68,
+            eng:"end a fight",
+            ru:"закончить драку",
+            
+            },
+            {
+            id:69,
+            eng:"end a game",
+            ru:"закончить игру",
+            
+            },
+            {
+            id:70,
+            eng:"end a presentation",
+            ru:"завершить презентацию",
+            
+            },
+            {
+            id:71,
+            eng:"enter a building",
+            ru:"войти в здание",
+            
+            },
+            {
+            id:72,
+            eng:"enter a game",
+            ru:"войти в игру",
+            
+            },
+            {
+            id:73,
+            eng:"enter a house",
+            ru:"войти в дом",
+            
+            },
+            {
+            id:74,
+            eng:"enter an airport",
+            ru:"войти в аэропорт",
+            
+            },
+            {
+            id:75,
+            eng:"enter somewhere",
+            ru:"войти куда-то",
+            
+            },
+            {
+            id:76,
+            eng:"explain grammar to me",
+            ru:"объяснить мне грамматику",
+            
+            },
+            {
+            id:77,
+            eng:"explain something",
+            ru:"объяснить что-то",
+            
+            },
+            {
+            id:78,
+            eng:"explain the problem",
+            ru:"объяснить проблему",
+            
+            },
+            {
+            id:79,
+            eng:"explain the situation",
+            ru:"объяснить ситуацию",
+            
+            },
+            {
+            id:80,
+            eng:"fail a game",
+            ru:"провалить игру",
+            
+            },
+            {
+            id:81,
+            eng:"fail the mission",
+            ru:"провалить миссию",
+            
+            },
+            {
+            id:82,
+            eng:"fail the project",
+            ru:"провалить проект",
+            
+            },
+            {
+            id:83,
+            eng:"fail the task",
+            ru:"провалить задание",
+            
+            },
+            {
+            id:84,
+            eng:"fill the documents",
+            ru:"заполнить документы",
+            
+            },
+            {
+            id:85,
+            eng:"follow me home",
+            ru:"следовать за мной домой",
+            
+            },
+            {
+            id:86,
+            eng:"follow our teacher",
+            ru:"следовать за нашим учителем",
+            
+            },
+            {
+            id:87,
+            eng:"follow the foot steps",
+            ru:"следовать по шагам",
+            
+            },
+            {
+            id:88,
+            eng:"follow the heart /хАрт/",
+            ru:"следовать сердцу",
+            
+            },
+            {
+            id:89,
+            eng:"help everyone",
+            ru:"помочь кому-то",
+            
+            },
+            {
+            id:90,
+            eng:"help somebody",
+            ru:"помочь всем",
+            
+            },
+            {
+            id:91,
+            eng:"join the basketball team",
+            ru:"вступить в баскетбольную команду",
+            
+            },
+            {
+            id:92,
+            eng:"join the competition",
+            ru:"присоединиться к соревнованию",
+            
+            },
+            {
+            id:93,
+            eng:"join the contest",
+            ru:"присоединиться к конкурсу",
+            
+            },
+            {
+            id:94,
+            eng:"join the game",
+            ru:"присоединиться к игре",
+            
+            },
+            {
+            id:95,
+            eng:"join the lesson",
+            ru:"присоединиться к уроку",
+            
+            },
+            {
+            id:96,
+            eng:"jump off a bridge /бридж/",
+            ru:"спрыгнуть с моста",
+            
+            },
+            {
+            id:97,
+            eng:"jump on a bed",
+            ru:"скакать на кровати",
+            
+            },
+            {
+            id:98,
+            eng:"jump with a parachute",
+            ru:"прыгнуть с парашютом",
+            
+            },
+            {
+            id:99,
+            eng:"kill a cocroach /кОкроуч/",
+            ru:"убить таракана",
+            
+            },
+            {
+            id:100,
+            eng:"kill enemies /Энемиз/",
+            ru:"убить врагов",
+            
+            },
+            {
+            id:101,
+            eng:"kill mood /муд/",
+            ru:"убить настроение",
+            
+            },
+            {
+            id:102,
+            eng:"kill mosquitos",
+            ru:"убивать комаров",
+            
+            },
+            {
+            id:103,
+            eng:"kill somebody",
+            ru:"убить кого-то",
+            
+            },
+            {
+            id:104,
+            eng:"kill time",
+            ru:"убить время",
+            
+            },
+            {
+            id:105,
+            eng:"kiss a pet",
+            ru:"поцеловать домашнее животное",
+            
+            },
+            {
+            id:106,
+            eng:"kiss everybody",
+            ru:"поцеловать всех",
+            
+            },
+            {
+            id:107,
+            eng:"kiss somebody",
+            ru:"поцеловать кого-то",
+            
+            },
+            {
+            id:108,
+            eng:"kiss with somebody",
+            ru:"поцеловаться с кем-либо",
+            
+            },
+            {
+            id:109,
+            eng:"learn a lesson",
+            ru:"выучить урок",
+            
+            },
+            {
+            id:110,
+            eng:"learn a musical instrument",
+            ru:"научиться играть на музыкальном инструменте",
+            
+            },
+            {
+            id:111,
+            eng:"learn a new language",
+            ru:"выучить новый язык",
+            
+            },
+            {
+            id:112,
+            eng:"learn a new skill",
+            ru:"обучитьсобучитьсяновому навыку",
+            
+            },
+            {
+            id:113,
+            eng:"learn something new",
+            ru:"выучить что-то новое",
+            
+            },
+            {
+            id:114,
+            eng:"listen to a podcast",
+            ru:"слушать подкаст",
+            
+            },
+            {
+            id:115,
+            eng:"listen to a song",
+            ru:"слушать песню",
+            
+            },
+            {
+            id:116,
+            eng:"listen to a teacher",
+            ru:"слушать учителя",
+            
+            },
+            {
+            id:117,
+            eng:"listen to music",
+            ru:"слушать музыку",
+            
+            },
+            {
+            id:118,
+            eng:"listen to the radio",
+            ru:"слушать радио",
+            
+            },
+            {
+            id:119,
+            eng:"listen to the rain",
+            ru:"слушать дождь",
+            
+            },
+            {
+            id:120,
+            eng:"look at somebody",
+            ru:"посмотреть на кого-то",
+            
+            },
+            {
+            id:121,
+            eng:"look at the phone",
+            ru:"смотреть на телефон",
+            
+            },
+            {
+            id:122,
+            eng:"look at the sky",
+            ru:"смотреть на небо",
+            
+            },
+            {
+            id:123,
+            eng:"look from the window",
+            ru:"смотреть из окна",
+            
+            },
+            {
+            id:124,
+            eng:"look very attractive",
+            ru:"выглядить очень привлекательно",
+            
+            },
+            {
+            id:125,
+            eng:"mix orange juice and vodka",
+            ru:"перемешивать апельсиновый сок и водочку",
+            
+            },
+            {
+            id:126,
+            eng:"move fast",
+            ru:"двигаться быстро",
+            
+            },
+            {
+            id:127,
+            eng:"open a bottle of alcohol",
+            ru:"открыть бутылку алкоголя",
+            
+            },
+            {
+            id:128,
+            eng:"open a bottle of something",
+            ru:"открыть бутылку чего",
+            
+            },
+            {
+            id:129,
+            eng:"open a box of chocolate candies",
+            ru:"открыть коробку шоколадных конфет",
+            
+            },
+            {
+            id:130,
+            eng:"open a business",
+            ru:"открыть бизнес",
+            
+            },
+            {
+            id:131,
+            eng:"open a door",
+            ru:"открыть дверь",
+            
+            },
+            {
+            id:132,
+            eng:"open a window",
+            ru:"открыть окно",
+            
+            },
+            {
+            id:133,
+            eng:"open eyes",
+            ru:"открыть глаза",
+            
+            },
+            {
+            id:134,
+            eng:"pass the exams",
+            ru:"сдать экзамены",
+            
+            },
+            {
+            id:135,
+            eng:"pass the test",
+            ru:"пройти тест",
+            
+            },
+            {
+            id:136,
+            eng:"pick flowers",
+            ru:"собирать цветы",
+            
+            },
+            {
+            id:137,
+            eng:"pick nose",
+            ru:"ковыряться в носу",
+            
+            },
+            {
+            id:138,
+            eng:"pick something from the floor",
+            ru:"подбирать что-то с пола",
+            
+            },
+            {
+            id:139,
+            eng:"pick up girls in a bar",
+            ru:"знакомиться с девушками в баре",
+            
+            },
+            {
+            id:140,
+            eng:"plan a day",
+            ru:"спланировать день",
+            
+            },
+            {
+            id:141,
+            eng:"plan a week",
+            ru:"спланировать неделю",
+            
+            },
+            {
+            id:142,
+            eng:"plan how to rob the bank",
+            ru:"спланировать, как ограбить банк",
+            
+            },
+            {
+            id:143,
+            eng:"play basketball",
+            ru:"играть в баскетбол",
+            
+            },
+            {
+            id:144,
+            eng:"play cards",
+            ru:"играть в карты",
+            
+            },
+            {
+            id:145,
+            eng:"play hide and seek",
+            ru:"играть в прятки",
+            
+            },
+            {
+            id:146,
+            eng:"play in a casino /кэсИно/",
+            ru:"играть в казино",
+            
+            },
+            {
+            id:147,
+            eng:"play Poker",
+            ru:"играть в покер",
+            
+            },
+            {
+            id:148,
+            eng:"play the guitar",
+            ru:"играть на гитаре",
+            
+            },
+            {
+            id:149,
+            eng:"play the piano",
+            ru:"играть на пианино",
+            
+            },
+            {
+            id:150,
+            eng:"play the violin / вАйолин /",
+            ru:"играть на скрипке",
+            
+            },
+            {
+            id:151,
+            eng:"play video games",
+            ru:"играть в видеоигры",
+            
+            },
+            {
+            id:152,
+            eng:"play volleyball",
+            ru:"играть в волейбол",
+            
+            },
+            {
+            id:153,
+            eng:"play with children",
+            ru:"играть с детьми",
+            
+            },
+            {
+            id:154,
+            eng:"press buttons",
+            ru:"нажимать кнопки",
+            
+            },
+            {
+            id:155,
+            eng:"pull the door",
+            ru:"тянуть дверь",
+            
+            },
+            {
+            id:156,
+            eng:"push buttons",
+            ru:"давить на кнопки",
+            
+            },
+            {
+            id:157,
+            eng:"push the door",
+            ru:"толкать дверь",
+            
+            },
+            {
+            id:158,
+            eng:"record a video for Tik-Tok",
+            ru:"записывать тик ток видосы",
+            
+            },
+            {
+            id:159,
+            eng:"record a voice message",
+            ru:"записывать голосовые сообщения",
+            
+            },
+            {
+            id:160,
+            eng:"record videos for secret agents",
+            ru:"записывать видео для серкетных агентов",
+            
+            },
+            {
+            id:161,
+            eng:"save animals",
+            ru:"спасать животных",
+            
+            },
+            {
+            id:162,
+            eng:"save lives",
+            ru:"спасать жизни",
+            
+            },
+            {
+            id:163,
+            eng:"save money",
+            ru:"копить деньги",
+            
+            },
+            {
+            id:164,
+            eng:"save time and money",
+            ru:"сохранить время и деньги",
+            
+            },
+            {
+            id:165,
+            eng:"share ideas / шЭа айдИаз /",
+            ru:"делиться идеями",
+            
+            },
+            {
+            id:166,
+            eng:"share information",
+            ru:"делиться информацией",
+            
+            },
+            {
+            id:167,
+            eng:"share interesting posts",
+            ru:"делиться интересными публикациями",
+            
+            },
+            {
+            id:168,
+            eng:"shave a beard",
+            ru:"брить бороду",
+            
+            },
+            {
+            id:169,
+            eng:"shave a moustache /мАсташ/",
+            ru:"брить усы",
+            
+            },
+            {
+            id:170,
+            eng:"shave armpits",
+            ru:"брить подмышки",
+            
+            },
+            {
+            id:171,
+            eng:"shave legs",
+            ru:"брить ноги",
+            
+            },
+            {
+            id:172,
+            eng:"smile",
+            ru:"улыбаться",
+            
+            },
+            {
+            id:173,
+            eng:"smoke a hookah / хУка / кальян",
+            ru:"курить кальян",
+            
+            },
+            {
+            id:174,
+            eng:"smoke cigars",
+            ru:"курить сигары",
+            
+            },
+            {
+            id:175,
+            eng:"start a fight",
+            ru:"начать драку",
+            
+            },
+            {
+            id:176,
+            eng:"start a game",
+            ru:"начать игру",
+            
+            },
+            {
+            id:177,
+            eng:"start a new hobby",
+            ru:"начать новое хобби",
+            
+            },
+            {
+            id:178,
+            eng:"start a new job",
+            ru:"начать новую работу",
+            
+            },
+            {
+            id:179,
+            eng:"stop a car",
+            ru:"остановить тачку",
+            
+            },
+            {
+            id:180,
+            eng:"stop a game",
+            ru:"прекратить игру",
+            
+            },
+            {
+            id:181,
+            eng:"stop a taxi",
+            ru:"остановить такси",
+            
+            },
+            {
+            id:182,
+            eng:"stop a train",
+            ru:"остановить дождь",
+            
+            },
+            {
+            id:183,
+            eng:"switch the TV off",
+            ru:"выключить телевизор",
+            
+            },
+            {
+            id:184,
+            eng:"switch the TV on",
+            ru:"включить телевизор",
+            
+            },
+            {
+            id:185,
+            eng:"talk about life",
+            ru:"разговаривать о жизни",
+            
+            },
+            {
+            id:186,
+            eng:"talk about the Future plans",
+            ru:"говорить о планах на будущее",
+            
+            },
+            {
+            id:187,
+            eng:"talk about the past",
+            ru:"говорить о прошлом",
+            
+            },
+            {
+            id:188,
+            eng:"talk to a teacher",
+            ru:"разговаривать с учителем",
+            
+            },
+            {
+            id:189,
+            eng:"talk to Vincent",
+            ru:"разговаривать с Винсентом",
+            
+            },
+            {
+            id:190,
+            eng:"touch a cheesburger",
+            ru:"коснуться чизбургера",
+            
+            },
+            {
+            id:191,
+            eng:"touch somebody",
+            ru:"прикасаться к кому-то",
+            
+            },
+            {
+            id:192,
+            eng:"touch something hot",
+            ru:"коснуться чего-то горячего",
+            
+            },
+            {
+            id:193,
+            eng:"try a new hobby",
+            ru:"попробовать новое хобби",
+            
+            },
+            {
+            id:194,
+            eng:"try new clothes",
+            ru:"примерять новую одежду",
+            
+            },
+            {
+            id:195,
+            eng:"try new things",
+            ru:"пробовать новые вещи",
+            
+            },
+            {
+            id:196,
+            eng:"turn around",
+            ru:"развернуться",
+            
+            },
+            {
+            id:197,
+            eng:"turn car back",
+            ru:"развернуть машину",
+            
+            },
+            {
+            id:198,
+            eng:"use a computer",
+            ru:"пользоваться компьютером",
+            
+            },
+            {
+            id:199,
+            eng:"use a hammer",
+            ru:"воспользоваться молотком",
+            
+            },
+            {
+            id:200,
+            eng:"use a toilet",
+            ru:"использовать туалет",
+            
+            },
+            {
+            id:201,
+            eng:"use brains",
+            ru:"использовать мозги",
+            
+            },
+            {
+            id:202,
+            eng:"use shampoo",
+            ru:"пользоваться шампунем",
+            
+            },
+            {
+            id:203,
+            eng:"use something",
+            ru:"пользоваться чем-то",
+            
+            },
+            {
+            id:204,
+            eng:"vape",
+            ru:"курить электронные сигареты",
+            
+            },
+            {
+            id:205,
+            eng:"wait for a prince on a white horse",
+            ru:"ждать принца на белом коне",
+            
+            },
+            {
+            id:206,
+            eng:"wait for a taxi",
+            ru:"ждать такси",
+            
+            },
+            {
+            id:207,
+            eng:"wait for me",
+            ru:"ждать меня",
+            
+            },
+            {
+            id:208,
+            eng:"wait for somebody",
+            ru:"ждать кого-то",
+            
+            },
+            {
+            id:209,
+            eng:"wait for something",
+            ru:"ждать чего-то",
+            
+            },
+            {
+            id:210,
+            eng:"wait for you",
+            ru:"ждать тебя",
+            
+            },
+            {
+            id:211,
+            eng:"walk alone at night",
+            ru:"гулять ночью в одиночестве",
+            
+            },
+            {
+            id:212,
+            eng:"walk in a park",
+            ru:"гулять в парке",
+            
+            },
+            {
+            id:213,
+            eng:"walk in the forest",
+            ru:"гулять в лесу",
+            
+            },
+            {
+            id:214,
+            eng:"walk under the rain",
+            ru:"гулять под дождем",
+            
+            },
+            {
+            id:215,
+            eng:"walk with a pet",
+            ru:"улять с питомцем",
+            
+            },
+            {
+            id:216,
+            eng:"warm up food",
+            ru:"разогревать еду",
+            
+            },
+            {
+            id:217,
+            eng:"warm up muscles /мАслз/",
+            ru:"разогревать мышцы",
+            
+            },
+            {
+            id:218,
+            eng:"wash a car",
+            ru:"мыть машину",
+            
+            },
+            {
+            id:219,
+            eng:"wash clothes",
+            ru:"мыть одежду, стирать",
+            
+            },
+            {
+            id:220,
+            eng:"wash hands",
+            ru:"мыть руки",
+            
+            },
+            {
+            id:221,
+            eng:"wash the floors",
+            ru:"мыть полы",
+            
+            },
+            {
+            id:222,
+            eng:"watch a comedy movie",
+            ru:"смотреть комедию",
+            
+            },
+            {
+            id:223,
+            eng:"watch a movie",
+            ru:"смотреть фильм",
+            
+            },
+            {
+            id:224,
+            eng:"watch horrors",
+            ru:"смотреть ужастики",
+            
+            },
+            {
+            id:225,
+            eng:"watch Instagram",
+            ru:"смотреть инстаграм",
+            
+            },
+            {
+            id:226,
+            eng:"watch the news",
+            ru:"смотреть новости",
+            
+            },
+            {
+            id:227,
+            eng:"watch Tik-Toks",
+            ru:"смотрить ТикТок",
+            
+            },
+            {
+            id:228,
+            eng:"watch TV-series",
+            ru:"смотреть сериалы",
+            
+            },
+            {
+            id:229,
+            eng:"whistle /уИсэл/",
+            ru:"свистеть",
+            
+            },
+            {
+            id:230,
+            eng:"whistle /уИсэл/ a melody",
+            ru:"насвистывать мелодию",
+            
+            },
+            {
+            id:231,
+            eng:"work a lot",
+            ru:"много работать",
+            
+            },
+            {
+            id:232,
+            eng:"work at school",
+            ru:"работать в школе",
+            
+            },
+            {
+            id:233,
+            eng:"work in a bank",
+            ru:"работать в банке",
+            
+            },
+            {
+            id:234,
+            eng:"work on a computer",
+            ru:"работать за компьютером",
+            
+            },
+            {
+            id:235,
+            eng:"watch youtube",
+            ru:"смотреть ютюб",
+            
+            },
+            {
+            id:236,
+            eng:"subscribe to Vismyfriend's YouTube channel",
+            ru:"подписаться на канал Винсента",
+            
+            },
+            
+    ],
     feb21st: [
         {
             id:1,
