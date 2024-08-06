@@ -22,85 +22,85 @@ const allQuestionsOneDeck = {
     verbsss: [
         {
             id:1,
-            eng:"add milk to coffee",
+            eng:"add milk to coffee / эдд милк ту кОфе /",
             ru:"добавлять молоко в кофе",
             
             },
             {
             id:2,
-            eng:"add sugar to coffee",
+            eng:"add sugar to coffee / эдд щУга ту кОфе /",
             ru:"добавить сахар в кофе",
             
             },
             {
             id:3,
-            eng:"add sugar to tea",
+            eng:"add sugar to tea / эдд щУга ту ти /",
             ru:"добавить сахар в чай",
             
             },
             {
             id:4,
-            eng:"annoy somebody",
+            eng:"annoy somebody / эннОй сАмбади /",
             ru:"бесить кого-то",
             
             },
             {
             id:5,
-            eng:"argue with everybody",
+            eng:"argue with everybody / ударение на первую А / Агью виз Эврибади / /",
             ru:"спорить со всеми",
             
             },
             {
             id:6,
-            eng:"argue with somebody",
+            eng:"argue with somebody / ударение на первую А / Агью виз сАмбади / /",
             ru:"спорить с кем-то",
             
             },
             {
             id:7,
-            eng:"argue with someone",
+            eng:"argue with someone / ударение на первую А / Агью виз сАмуан / /",
             ru:"спорить с кем-нибудь",
             
             },
             {
             id:8,
-            eng:"argue with Vincent",
+            eng:"argue with Vincent / ударение на первую А / Агью виз вИнсэнт / /",
             ru:"спорить с Винсетом",
             
             },
             {
             id:9,
-            eng:"arrive late",
+            eng:"arrive late / эрАйв лЭйт /",
             ru:"прибывать, приезжать поздно",
             
             },
             {
             id:10,
-            eng:"arrive to the airport",
+            eng:"arrive to the airport / эрАйв ту дэ Эйрпорт /",
             ru:"прибывать в аэропорт",
             
             },
             {
             id:11,
-            eng:"arrive to the station",
+            eng:"arrive to the station / эрАйв ту дэ стЭйшен /",
             ru:"прибывать на станцию",
             
             },
             {
             id:12,
-            eng:"ask for a lighter",
+            eng:"ask for a lighter / э лАйтэр /",
             ru:"попросить зажигалку",
             
             },
             {
             id:13,
-            eng:"ask for advice",
+            eng:"ask for advice / эдвАйс /",
             ru:"просить совета",
             
             },
             {
             id:14,
-            eng:"ask for directions",
+            eng:"ask for directions / дайрЭкшенз /",
             ru:"спросить направление",
             
             },
@@ -112,49 +112,49 @@ const allQuestionsOneDeck = {
             },
             {
             id:16,
-            eng:"ask for presents",
+            eng:"ask for presents / прЭзэнтс /",
             ru:"попросить подарков",
             
             },
             {
             id:17,
-            eng:"brush hair",
+            eng:"brush hair / брАш хэа /",
             ru:"расчесывать волосы",
             
             },
             {
             id:18,
-            eng:"brush teeth",
+            eng:"brush teeth / браш тиTH /",
             ru:"начистить зубы",
             
             },
             {
             id:19,
-            eng:"call for help",
+            eng:"call for help / кОл фо хэлп /",
             ru:"позвать на помощь",
             
             },
             {
             id:20,
-            eng:"call the ambulance",
+            eng:"call the ambulance / кОл дэ Эмьбюлэнс ударение на Э /",
             ru:"позвонить в скорую",
             
             },
             {
             id:21,
-            eng:"call the police /полИс/",
+            eng:"call the police / кОл дэ полИс ударение на И последнюю /",
             ru:"вызвать полицию",
             
             },
             {
             id:22,
-            eng:"call Vincent at night",
+            eng:"call Vincent at night / кОл вИнсет эт нАйт /",
             ru:"позвонить Винсенту ночью",
             
             },
             {
             id:23,
-            eng:"change clothes",
+            eng:"change clothes / чЕндж клОуз /",
             ru:"переодеться",
             
             },
@@ -689,7 +689,7 @@ const allQuestionsOneDeck = {
             {
             id:112,
             eng:"learn a new skill",
-            ru:"обучитьсобучитьсяновому навыку",
+            ru:"обучитьcя новому навыку",
             
             },
             {
@@ -1713,6 +1713,84 @@ const allQuestionsOneDeck = {
             id:16,
             eng:"Useful phrases / юсфул фрЭйзиз /",
             ru:"полезные фразы",
+            
+            },
+            
+    ],
+    up3: [
+        {
+            id:17,
+            eng:"And what do you think?",
+            ru:"А ты как (что) думаешь?",
+            
+            },
+            {
+            id:18,
+            eng:"Are you sure about it? / а ю щУэ эбАут ит /",
+            ru:"Вы уверены в этом? Ты уверен в этом?  ",
+            
+            },
+            {
+            id:19,
+            eng:"Am I right? / Эм ай рАйт /",
+            ru:"Я прав? Да же?   Ведь я прав ?",
+            
+            },
+            {
+            id:20,
+            eng:"Is it correct? / из ит корЭкт /",
+            ru:"Это верно? Это правильно? ",
+            
+            },
+            {
+            id:21,
+            eng:"Let me think a bit.",
+            ru:"Позвольте мне подумать чуть-чуть. ",
+            
+            },
+            {
+            id:22,
+            eng:"Hold on a second. / хОУлд он э сЭконд /",
+            ru:"Подождите, потерпите секундочку. ",
+            
+            },
+            
+    ],
+    up4: [
+        {
+            id:23,
+            eng:"I want to ask you something",
+            ru:"Я хочу спросить вас что-то . ",
+            
+            },
+            {
+            id:24,
+            eng:"What is the English for ' кот ' ?",
+            ru:"Как по-английски ' кот ' ? Как на английском ' кот ' ?",
+            
+            },
+            {
+            id:25,
+            eng:"When is our lesson?",
+            ru:"Когда будет наш урок ?  ",
+            
+            },
+            {
+            id:26,
+            eng:"What is   ' our ' ? / уОт из Ауэ /",
+            ru:"Что такое  ' our ' ? ",
+            
+            },
+            {
+            id:27,
+            eng:"What time is it ?",
+            ru:"Сколько времени ? ",
+            
+            },
+            {
+            id:28,
+            eng:"How much is it ? / хАу мАч из ит /",
+            ru:"Сколько это стоит ?  ",
             
             },
             

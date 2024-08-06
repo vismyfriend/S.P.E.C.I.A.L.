@@ -6357,6 +6357,7 @@ const allCardsGameFindAPair = {
             ru: "кусать"
         },
     ],
+   
     naughtyVerbsCD: [
         {
             id:13,
