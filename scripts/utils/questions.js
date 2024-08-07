@@ -19,6 +19,196 @@ const allQuestionsOneDeck = {
             },
             
     ],
+    emails: [
+        
+        {
+            id:1,
+            eng:"kayla@lovelymail.com",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:2,
+            eng:"vincent@papa.com",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:3,
+            eng:"emily@sunshine.net",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:4,
+            eng:"david@happytimes.io",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:5,
+            eng:"sophia@flowerpower.biz",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:6,
+            eng:"michael@superstar.tv",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:7,
+            eng:"julia@smilemail.com",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:8,
+            eng:"kevin@funnybone.net",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:9,
+            eng:"sarah@lovelyday.io",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:10,
+            eng:"christopher@coolcat.biz",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:11,
+            eng:"laura@happyplace.tv",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:12,
+            eng:"matthew@friendzone.net",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:13,
+            eng:"jennifer@sparklemail.com",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:14,
+            eng:"daniel@superhero.io",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:15,
+            eng:"elizabeth@beautymail.biz",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:16,
+            eng:"william@joyfulnoise.tv",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:17,
+            eng:"aleks@brightmail.com",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:18,
+            eng:"alex@superstar.io",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:19,
+            eng:"olexs@funnybone.net",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:20,
+            eng:"alix@lovelyday.biz",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:21,
+            eng:"alyx@smilemail.tv",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:22,
+            eng:"jason@happytimes.net",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:23,
+            eng:"jayson@coolcat.io",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:24,
+            eng:"jaz@friendzone.biz",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:25,
+            eng:"jeremy@sparklemail.com",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:26,
+            eng:"jeri@beautymail.tv",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:27,
+            eng:"kate@sunshine.net",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:28,
+            eng:"katy@happyplace.io",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:29,
+            eng:"katie@superhero.biz",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:30,
+            eng:"kay@joyfulnoise.tv",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            {
+            id:31,
+            eng:"polinoshka@wife.oh",
+            ru:"A - эй         i - ай E - и          U - ю Y - уай ( не игрик ) С - си          S - эс H - эйч ( не АШ ) . точка dot     @ - at",
+            
+            },
+            
+    ],
     verbsss: [
         {
             id:1,
