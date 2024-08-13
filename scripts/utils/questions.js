@@ -1684,7 +1684,7 @@ const allQuestionsOneDeck = {
             ru: "Мне пофиг  ",
         },
     ],
-    up1_5: [
+     up1_5: [
         {
             id: 1,
             eng: "I didn’t get it  / ай диднт гет ит /",
@@ -1826,6 +1826,14 @@ const allQuestionsOneDeck = {
             ru: "Сколько это стоит ?  ",
         },
     ],
+    idioms1: [
+        {
+            id: 29,
+            eng: "Who took my phone? / ху тук май фОун /",
+            ru: " Кто взял, забрал мой телефон? ",
+        },
+    ],
+   
     monsterManeskin: [
         {
             id: 1,
@@ -10812,7 +10820,7 @@ const allQuestionsOneDeck = {
         {
             id: 187,
             eng: "to stop a train",
-            ru: "остановить дождь"
+            ru: "остановить поезд"
         },
         {
             id: 188,
