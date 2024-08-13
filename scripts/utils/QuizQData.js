@@ -97,6 +97,788 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    garagetest1: [
+        {
+            id: 1,
+            quizQuestion: "The sun rises in the _____.",
+            answers: [
+            {
+            answer: "East",
+            correct: true
+            },
+            {
+            answer: "West",
+            correct: false
+            },
+            {
+            answer: "North",
+            correct: false
+            },
+            {
+            answer: "South",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "A cow produces _____.",
+            answers: [
+            {
+            answer: "Milk",
+            correct: true
+            },
+            {
+            answer: "Juice",
+            correct: false
+            },
+            {
+            answer: "Coffee",
+            correct: false
+            },
+            {
+            answer: "Water",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "We breathe in _____ to stay alive.",
+            answers: [
+            {
+            answer: "Oxygen",
+            correct: true
+            },
+            {
+            answer: "Carbon dioxide",
+            correct: false
+            },
+            {
+            answer: "Nitrogen",
+            correct: false
+            },
+            {
+            answer: "Helium",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Fish swim in the _____.",
+            answers: [
+            {
+            answer: "Water",
+            correct: true
+            },
+            {
+            answer: "Sand",
+            correct: false
+            },
+            {
+            answer: "Sky",
+            correct: false
+            },
+            {
+            answer: "Grass",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "The capital city of France is _____.",
+            answers: [
+            {
+            answer: "Paris",
+            correct: true
+            },
+            {
+            answer: "London",
+            correct: false
+            },
+            {
+            answer: "Rome",
+            correct: false
+            },
+            {
+            answer: "Madrid",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Humans have _____ legs.",
+            answers: [
+            {
+            answer: "Two",
+            correct: true
+            },
+            {
+            answer: "Four",
+            correct: false
+            },
+            {
+            answer: "Three",
+            correct: false
+            },
+            {
+            answer: "Six",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "The opposite of hot is _____.",
+            answers: [
+            {
+            answer: "Cold",
+            correct: true
+            },
+            {
+            answer: "Warm",
+            correct: false
+            },
+            {
+            answer: "Boiling",
+            correct: false
+            },
+            {
+            answer: "Lukewarm",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "An apple a day keeps the _____ away.",
+            answers: [
+            {
+            answer: "Doctor",
+            correct: true
+            },
+            {
+            answer: "Teacher",
+            correct: false
+            },
+            {
+            answer: "Baker",
+            correct: false
+            },
+            {
+            answer: "Farmer",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "We use a _____ to write on paper.",
+            answers: [
+            {
+            answer: "Pen",
+            correct: true
+            },
+            {
+            answer: "Spoon",
+            correct: false
+            },
+            {
+            answer: "Knife",
+            correct: false
+            },
+            {
+            answer: "Brush",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "A rainbow has _____ colors.",
+            answers: [
+            {
+            answer: "Seven",
+            correct: true
+            },
+            {
+            answer: "Five",
+            correct: false
+            },
+            {
+            answer: "Ten",
+            correct: false
+            },
+            {
+            answer: "Three",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "A _____ barks.",
+            answers: [
+            {
+            answer: "Dog",
+            correct: true
+            },
+            {
+            answer: "Cat",
+            correct: false
+            },
+            {
+            answer: "Bird",
+            correct: false
+            },
+            {
+            answer: "Fish",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "The moon comes out at _____.",
+            answers: [
+            {
+            answer: "Night",
+            correct: true
+            },
+            {
+            answer: "Morning",
+            correct: false
+            },
+            {
+            answer: "Noon",
+            correct: false
+            },
+            {
+            answer: "Sunset",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "We wear _____ to protect our feet.",
+            answers: [
+            {
+            answer: "Shoes",
+            correct: true
+            },
+            {
+            answer: "Hats",
+            correct: false
+            },
+            {
+            answer: "Gloves",
+            correct: false
+            },
+            {
+            answer: "Belts",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "An elephant is a very _____ animal.",
+            answers: [
+            {
+            answer: "Large",
+            correct: true
+            },
+            {
+            answer: "Small",
+            correct: false
+            },
+            {
+            answer: "Thin",
+            correct: false
+            },
+            {
+            answer: "Tiny",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "A caterpillar turns into a _____.",
+            answers: [
+            {
+            answer: "Butterfly",
+            correct: true
+            },
+            {
+            answer: "Spider",
+            correct: false
+            },
+            {
+            answer: "Frog",
+            correct: false
+            },
+            {
+            answer: "Bird",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "A _____ tells us the time.",
+            answers: [
+            {
+            answer: "Clock",
+            correct: true
+            },
+            {
+            answer: "Book",
+            correct: false
+            },
+            {
+            answer: "Pillow",
+            correct: false
+            },
+            {
+            answer: "Chair",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "The color of the sky is usually _____.",
+            answers: [
+            {
+            answer: "Blue",
+            correct: true
+            },
+            {
+            answer: "Green",
+            correct: false
+            },
+            {
+            answer: "Yellow",
+            correct: false
+            },
+            {
+            answer: "Red",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "The _____ is known as the Red Planet.",
+            answers: [
+            {
+            answer: "Mars",
+            correct: true
+            },
+            {
+            answer: "Jupiter",
+            correct: false
+            },
+            {
+            answer: "Earth",
+            correct: false
+            },
+            {
+            answer: "Venus",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "A zebra has _____ stripes.",
+            answers: [
+            {
+            answer: "Black and white",
+            correct: true
+            },
+            {
+            answer: "Green and yellow",
+            correct: false
+            },
+            {
+            answer: "Red and blue",
+            correct: false
+            },
+            {
+            answer: "Purple and orange",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Plants need _____ to grow.",
+            answers: [
+            {
+            answer: "Water",
+            correct: true
+            },
+            {
+            answer: "Sand",
+            correct: false
+            },
+            {
+            answer: "Stones",
+            correct: false
+            },
+            {
+            answer: "Plastic",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "The lion is known as the king of the _____.",
+            answers: [
+            {
+            answer: "Jungle",
+            correct: true
+            },
+            {
+            answer: "Ocean",
+            correct: false
+            },
+            {
+            answer: "Desert",
+            correct: false
+            },
+            {
+            answer: "Mountain",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "To find the treasure, the pirates followed the _____.",
+            answers: [
+            {
+            answer: "Map",
+            correct: true
+            },
+            {
+            answer: "Cloud",
+            correct: false
+            },
+            {
+            answer: "Song",
+            correct: false
+            },
+            {
+            answer: "River",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "A baker bakes bread in a _____.",
+            answers: [
+            {
+            answer: "Oven",
+            correct: true
+            },
+            {
+            answer: "Fridge",
+            correct: false
+            },
+            {
+            answer: "Closet",
+            correct: false
+            },
+            {
+            answer: "Garden",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "Birds build their _____ high in the trees.",
+            answers: [
+            {
+            answer: "Nests",
+            correct: true
+            },
+            {
+            answer: "Camps",
+            correct: false
+            },
+            {
+            answer: "Houses",
+            correct: false
+            },
+            {
+            answer: "Roads",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "The doctor used a stethoscope to listen to the patient's _____.",
+            answers: [
+            {
+            answer: "Heart",
+            correct: true
+            },
+            {
+            answer: "Foot",
+            correct: false
+            },
+            {
+            answer: "Hair",
+            correct: false
+            },
+            {
+            answer: "Nose",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "At night, you can see the _____ shining in the sky.",
+            answers: [
+            {
+            answer: "Stars",
+            correct: true
+            },
+            {
+            answer: "Roads",
+            correct: false
+            },
+            {
+            answer: "Fish",
+            correct: false
+            },
+            {
+            answer: "Books",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "The farmer plants seeds in the _____.",
+            answers: [
+            {
+            answer: "Dirt",
+            correct: true
+            },
+            {
+            answer: "Water",
+            correct: false
+            },
+            {
+            answer: "Air",
+            correct: false
+            },
+            {
+            answer: "Fire",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "The artist painted a beautiful _____ of the sunset.",
+            answers: [
+            {
+            answer: "Picture",
+            correct: true
+            },
+            {
+            answer: "Song",
+            correct: false
+            },
+            {
+            answer: "Recipe",
+            correct: false
+            },
+            {
+            answer: "Book",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "The firefighter used a hose to put out the _____.",
+            answers: [
+            {
+            answer: "Fire",
+            correct: true
+            },
+            {
+            answer: "Light",
+            correct: false
+            },
+            {
+            answer: "Balloon",
+            correct: false
+            },
+            {
+            answer: "Pillow",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Bees make _____ in the hive.",
+            answers: [
+            {
+            answer: "Honey",
+            correct: true
+            },
+            {
+            answer: "Milk",
+            correct: false
+            },
+            {
+            answer: "Bread",
+            correct: false
+            },
+            {
+            answer: "Soup",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+    ],
     shortenings1: [
         {
             id: 1,
