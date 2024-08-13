@@ -1084,7 +1084,7 @@ const allQuestionsOneDeck = {
         {
             id: 182,
             eng: "stop a train",
-            ru: "остановить дождь",
+            ru: "остановить поезд",
         },
         {
             id: 183,
@@ -12027,7 +12027,7 @@ const allQuestionsOneDeck = {
         {
             id: 187,
             eng: "to stop a train",
-            ru: "остановить дождь"
+            ru: "остановить поезд"
         },
         {
             id: 188,
