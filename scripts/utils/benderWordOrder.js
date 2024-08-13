@@ -249,10 +249,8 @@ const benderWordOrderSentences = {
             eng:"bite bit bit - кусать.",
             ru:"кусать"
             },
-            
     ],
     benderVerbsCDE: [
-        
             {
             id:213,
             eng:"come came come - приходить.",
@@ -319,10 +317,7 @@ const benderWordOrderSentences = {
             ru:"кушать"
             },
     ],
-  
     benderVerbsF: [
-        
-            
             {
             id:226,
             eng:"fall fell fallen - падать.",
@@ -373,11 +368,8 @@ const benderWordOrderSentences = {
             eng:"freeze froze frozen - замерзать.",
             ru:"замерзать"
             },
-            
     ],
-   
     benderVerbsGH: [
-       
             {
             id:236,
             eng:"grow grew grown - расти.",
@@ -428,10 +420,8 @@ const benderWordOrderSentences = {
             eng:"hold held held - держать.",
             ru:"держать"
             },
-           
     ],
     benderVerbsKLM: [
-        
             {
             id:246,
             eng:"keep kept kept - хранить.",
@@ -492,10 +482,8 @@ const benderWordOrderSentences = {
             eng:"meet met met - встречать(ся).",
             ru:"встречать(ся)"
             },
-            
     ],
     benderVerbsPR: [
-        
             {
             id:258,
             eng:"pay paid paid - платить.",
@@ -531,10 +519,8 @@ const benderWordOrderSentences = {
             eng:"rise rose risen - подниматься.",
             ru:"подниматься"
             },
-           
     ],
     benderVerbsS: [
-        
             {
             id:265,
             eng:"say said said - сказать произнести.",
@@ -655,10 +641,8 @@ const benderWordOrderSentences = {
             eng:"swing swung swung - качаться.",
             ru:"качаться"
             },
-            
     ],
     benderVerbsTUW: [
-      
             {
             id:289,
             eng:"take took taken - брать.",
@@ -1217,61 +1201,51 @@ const benderWordOrderSentences = {
             id:101,
             eng:"s l a v e",
             ru:"раб",
-            
             },
             {
             id:102,
             eng:"m a s t e r",
             ru:"хозяин, господин",
-            
             },
             {
             id:103,
             eng:"h e a r t",
             ru:"сердце",
-            
             },
             {
             id:104,
             eng:"g a n g s t e r",
             ru:"гангстер",
-            
             },
             {
             id:105,
             eng:"m o n s t e r",
             ru:"чудовище",
-            
             },
             {
             id:106,
             eng:"b e a u t y",
             ru:"красавица",
-            
             },
             {
             id:107,
             eng:"c l o w n",
             ru:"клоун",
-            
             },
             {
             id:108,
             eng:"l o s e r",
             ru:"неудачник, проигравший",
-            
             },
             {
             id:109,
             eng:"w i n n e r",
             ru:"победитель",
-            
             },
             {
             id:110,
             eng:"l a w y e r",
             ru:"адвокат",
-            
             },
     ],
     professions1: [
@@ -1354,7 +1328,6 @@ const benderWordOrderSentences = {
             hint:" / джАмпэрз /"
             },
     ],
-   
     digits1: [
         {
             id:1,

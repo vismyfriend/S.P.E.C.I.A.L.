@@ -20,7 +20,6 @@ const allWordsForGameTypeOrWrite = {
             ru:"третий"
             },
     ],
-
     m001m: [
         {
             id:1,
@@ -540,7 +539,6 @@ const allWordsForGameTypeOrWrite = {
             ru:"ЭЙДЖЕНТ - агент",
             hint:" / Эйджент /"
             }
-            
     ],
     daysMonth: [
         {
@@ -8231,7 +8229,6 @@ const allWordsForGameTypeOrWrite = {
                 hint:"/ бит /"
                 },
 ],
-
 m12bombs: [
     {
         id:1,
@@ -8337,7 +8334,6 @@ m5bombs: [
         ru:"Винсент",
         hint:" посмотри в чатике"
         },
-        
 ],
 tagquestions: [
     {

@@ -1,4 +1,4 @@
-// чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R  ^(\s)*$\n 
+// чтобы удалить пустые строки нужно ввести в CTRL+F или CTRL R   
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
     // ^\s*$\n
@@ -117,73 +117,61 @@ const allCardsGameFindAPair = {
             id:1,
             eng:"so much",
             ru:"так много + НЕисчислимое существительное",
-            
             },
             {
             id:2,
             eng:"so many",
             ru:"так много + исчислимое существительное",
-            
             },
             {
             id:3,
             eng:"so little",
             ru:"так мало + НЕисчислимое существительное",
-            
             },
             {
             id:4,
             eng:"so few",
             ru:"так мало + исчислимое существительное",
-            
             },
             {
             id:5,
             eng:"such",
             ru:"такой + существительное",
-            
             },
             {
             id:6,
             eng:"so",
             ru:"такой + прилагательное",
-            
             },
             {
             id:7,
             eng:"so long",
             ru:"так долго такой длинный",
-            
             },
             {
             id:8,
             eng:"it's so simple it's so easy",
             ru:"так просто так легко",
-            
             },
             {
             id:9,
             eng:"it's so hard it's so difficult",
             ru:"так сложно так трудно",
-            
             },
             {
             id:10,
             eng:"such a long day",
             ru:"такой длинный день",
-            
             },
             {
             id:11,
             eng:"this teacher is so good",
             ru:"этот учитель такой хороший",
-            
             },
             {
             id:12,
             eng:"this is such a good teacher",
             ru:"это такой хороший учитель",
-            
             },
     ],
     m12bombs: [
@@ -191,69 +179,57 @@ const allCardsGameFindAPair = {
             id:1,
             eng:"pens",
             ru:"ручки",
-            
             },
             {
             id:2,
             eng:"notebook / нОутбук /",
             ru:"тетрадь",
-            
             },
             {
             id:3,
             eng:"Vincent",
             ru:"училка",
-            
             },
             {
             id:4,
             eng:"eye / ай /",
             ru:"глаз",
-            
             },
             {
             id:5,
             eng:"head / хэд /",
             ru:"голова",
-            
             },
             {
             id:6,
             eng:"hand / хэнд /",
             ru:"кисть руки",
-            
             },
             {
             id:7,
             eng:"knee / ни /",
             ru:"коленка",
-            
             },
             {
             id:8,
             eng:"hair / хЭа /",
             ru:"волосы",
-            
             },
             {
             id:9,
             eng:"ear / Иа /",
             ru:"ухо",
-            
             },
             {
             id:10,
             eng:"leg / лэг /",
             ru:"нога",
-            
             },
             {
             id:11,
             eng:"foot / фут /",
             ru:"стопа, ступня",
-            
             },
-            
     ],
     digits1: [
         {
@@ -316,80 +292,67 @@ const allCardsGameFindAPair = {
             eng:"digits /дИджитс/",
             ru:"цифры"
             },
-            
     ],
     m001m: [
         {
             id:1,
             eng:"I / ай /",
             ru:"я",
-            
             },
             {
             id:2,
             eng:"you / ю /",
             ru:"ты или вы",
-            
             },
             {
             id:3,
             eng:"we / уи /",
             ru:"мы",
-            
             },
             {
             id:4,
             eng:"they / дэй /",
             ru:"они",
-            
             },
             {
             id:5,
             eng:"he / хи /",
             ru:"он",
-            
             },
             {
             id:6,
             eng:"she / щи /",
             ru:"она",
-            
             },
             {
             id:7,
             eng:"it / ит /",
             ru:"оно или это",
-            
             },
             {
             id:8,
             eng:"pets / пэтс /",
             ru:"питомцы",
-            
             },
             {
             id:9,
             eng:"collect / колЭкт /",
             ru:"собирать или коллекционировать",
-            
             },
             {
             id:10,
             eng:"collection / колЭкшэн /",
             ru:"коллекция",
-            
             },
             {
             id:11,
             eng:"yet / йет /",
             ru:"пока что",
-            
             },
             {
             id:12,
             eng:"my / май /",
             ru:"мой , моё моя , мои",
-            
             },
     ],
     professions1: [
@@ -397,91 +360,76 @@ const allCardsGameFindAPair = {
             id:1,
             eng:"teachers / тичерз /",
             ru:"учителя",
-            
             },
             {
             id:2,
             eng:"students / стьюдэнтся /",
             ru:"учащиеся",
-            
             },
             {
             id:3,
             eng:"readers / рИдэрз /",
             ru:"читатели",
-            
             },
             {
             id:4,
             eng:"writers / райтэрз /",
             ru:"писатели",
-            
             },
             {
             id:5,
             eng:"dancers / дэнсэрз /",
             ru:"танцоры",
-            
             },
             {
             id:6,
             eng:"killers / килэрз /",
             ru:"убийцы",
-            
             },
             {
             id:7,
             eng:"robbers / роббэрз /",
             ru:"грабители",
-            
             },
             {
             id:8,
             eng:"drivers / дрАйвэрз /",
             ru:"водители",
-            
             },
             {
             id:9,
             eng:"singers / сИнгэрз /",
             ru:"певцы",
-            
             },
             {
             id:10,
             eng:"builders / бИлдэрз /",
             ru:"строители",
-            
             },
             {
             id:11,
             eng:"sportsmen / спОртсмен /",
             ru:"спортсмены",
-            
             },
             {
             id:12,
             eng:"runners / раннэрз /",
             ru:"бегуны",
-            
             },
             {
             id:13,
             eng:"jumpers / джАмпэрз /",
             ru:"прыгуны",
-            
             },
             {
             id:14,
             eng:"swimmers / свиммэрз /",
             ru:"пловцы (плаватели)",
-            
             },
             {
             id:15,
             eng:"managers / мЭнэджэрз /",
             ru:"менеджеры",
-            
             },
     ],
     first1lesson: [
@@ -489,145 +437,121 @@ const allCardsGameFindAPair = {
             id:1,
             eng:"My collection is not very big yet / йет /",
             ru:"моя коллекция не очень большая пока что",
-            
             },
             {
             id:2,
             eng:"any object / эни Обджэкт /",
             ru:"любой объект",
-            
             },
             {
             id:3,
             eng:"pens / пэнz /",
             ru:"ручки",
-            
             },
             {
             id:4,
             eng:"screen / скрин /",
             ru:"экран",
-            
             },
             {
             id:5,
             eng:"buttons / бАтэнz /",
             ru:"кнопки",
-            
             },
             {
             id:6,
             eng:"headphones / хЭдфоунз /",
             ru:"наушники",
-            
             },
             {
             id:7,
             eng:"achievements / эчИвмэнтс /",
             ru:"достижения",
-            
             },
             {
             id:8,
             eng:"mission / мишн /",
             ru:"миссия",
-            
             },
             {
             id:9,
             eng:"everybody / Эврибади /",
             ru:"каждый, все",
-            
             },
             {
             id:10,
             eng:"pets / пэтс /",
             ru:"питомцы, домашние животные",
-            
             },
             {
             id:11,
             eng:"I am crazy about / крэйзи эбаут /",
             ru:"я схожу с ума по, я без ума от",
-            
             },
             {
             id:12,
             eng:"hobby / хобби /",
             ru:"увлечение, хобби",
-            
             },
             {
             id:13,
             eng:"collect / коллЭкт /",
             ru:"коллекционировать",
-            
             },
             {
             id:14,
             eng:"slowly / слОули /",
             ru:"медленно",
-            
             },
             {
             id:15,
             eng:"I didn't get it / диднт гет ит /",
             ru:"я не уловил, до меня не дошло",
-            
             },
             {
             id:16,
             eng:"say it again / сэй ит эгЕн /",
             ru:"скажите это снова",
-            
             },
             {
             id:17,
             eng:"spell / спЭл /",
             ru:"произнесите по буквам",
-            
             },
             {
             id:18,
             eng:"repeat one more time / уАн мо тайм /",
             ru:"повторите еще один раз",
-            
             },
             {
             id:19,
             eng:"three / межзубный звук /",
             ru:"три",
-            
             },
             {
             id:20,
             eng:"eight / эйт /",
             ru:"восемь",
-            
             },
             {
             id:21,
             eng:"think / межзубный звук /",
             ru:"думать",
-            
             },
             {
             id:22,
             eng:"any animal / эни Энимал /",
             ru:"любое животное",
-            
             },
             {
             id:23,
             eng:"any food / эни фуД /",
             ru:"любая еда",
-            
             },
             {
             id:24,
             eng:"find / файнд /",
             ru:"находить, искать",
-            
             },
     ],
     bodyA1: [
@@ -635,211 +559,176 @@ const allCardsGameFindAPair = {
             id:1,
             eng:"a head / э хэд /",
             ru:"голова",
-            
             },
             {
             id:2,
             eng:"an ear / эн иэ /",
             ru:"ухо",
-            
             },
             {
             id:3,
             eng:"hair / хЭа /",
             ru:"волосы",
-            
             },
             {
             id:4,
             eng:"an eye / эн Ай /",
             ru:"глаз",
-            
             },
             {
             id:5,
             eng:"a chin / чин /",
             ru:"подбородок",
-            
             },
             {
             id:6,
             eng:"a nose / э ноуз /",
             ru:"нос",
-            
             },
             {
             id:7,
             eng:"a neck / э нэк /",
             ru:"шея",
-            
             },
             {
             id:8,
             eng:"a mouth / ау /",
             ru:"рот",
-            
             },
             {
             id:9,
             eng:"lips / липс /",
             ru:"губы",
-            
             },
             {
             id:10,
             eng:"teeth / тиTH /",
             ru:"зубы",
-            
             },
             {
             id:11,
             eng:"a tooth / туTH /",
             ru:"зуб",
-            
             },
             {
             id:12,
             eng:"eyebrows / ай брАуз /",
             ru:"брови",
-            
             },
             {
             id:13,
             eng:"a beard / э бИЕд /",
             ru:"борода",
-            
             },
             {
             id:14,
             eng:"a moustache / э мАсташ /",
             ru:"усы",
-            
             },
             {
             id:15,
             eng:"freckles / фрЭклз /",
             ru:"веснушки",
-            
             },
             {
             id:16,
             eng:"cheeks / чикс /",
             ru:"щёки",
-            
             },
             {
             id:17,
             eng:"wrinkles / ринклз /",
             ru:"морщинки, cкладки",
-            
             },
             {
             id:18,
             eng:"shoulders / шОулдэрз /",
             ru:"плечи",
-            
             },
             {
             id:19,
             eng:"arms / амз /",
             ru:"руки ( целиком )",
-            
             },
             {
             id:20,
             eng:"an arm / эн арм /",
             ru:"рука (целиком)",
-            
             },
             {
             id:21,
             eng:"a chest / чест /",
             ru:"грудная клетка",
-            
             },
             {
             id:22,
             eng:"hands / хэндз /",
             ru:"кисти рук",
-            
             },
             {
             id:23,
             eng:"a belly / э бЭли /",
             ru:"пузико",
-            
             },
             {
             id:24,
             eng:"a tummy / тамми /",
             ru:"животик",
-            
             },
             {
             id:25,
             eng:"fingers / фИнГерз /",
             ru:"пальцы на руках",
-            
             },
             {
             id:26,
             eng:"a toe / э тОу /",
             ru:"палец на ноге",
-            
             },
             {
             id:27,
             eng:"a bottom / э бОттом /",
             ru:"попа",
-            
             },
             {
             id:28,
             eng:"body parts / боди партс /",
             ru:"части тела",
-            
             },
             {
             id:29,
             eng:"a knee / э ни /",
             ru:"колено",
-            
             },
             {
             id:30,
             eng:"knees / низ /",
             ru:"колени",
-            
             },
             {
             id:31,
             eng:"legs / лэгз /",
             ru:"ноги (целиком)",
-            
             },
             {
             id:32,
             eng:"a foot / фут /",
             ru:"ступня, стопа",
-            
             },
             {
             id:33,
             eng:"toes / тоУз /",
             ru:"пальцы на ногах",
-            
             },
             {
             id:34,
             eng:"feet / фит /",
             ru:"ступни, стопы",
-            
             },
             {
             id:35,
             eng:"a leg / э лэг /",
             ru:"нога (целиком)",
-            
             },
     ],
     devmode0: [
@@ -884,205 +773,171 @@ const allCardsGameFindAPair = {
             id:1,
             eng:"A dentist / дЭнтист /",
             ru:"Зубной врач",
-            
             },
             {
             id:2,
             eng:"A singer / сИнгэ /",
             ru:"Певец",
-            
             },
             {
             id:3,
             eng:"A chef / шЭф /",
             ru:"Повар",
-            
             },
             {
             id:4,
             eng:"A baker / бЭйкэр /",
             ru:"Пекарь",
-            
             },
             {
             id:5,
             eng:"An actor / Эктор /",
             ru:"Актер",
-            
             },
             {
             id:6,
             eng:"A tailor / тЭлор /",
             ru:"Портной",
-            
             },
             {
             id:7,
             eng:"A teacher / тИчэ /",
             ru:"Учитель",
-            
             },
             {
             id:8,
             eng:"A magician / мэджИшэн /",
             ru:"Фокусник",
-            
             },
             {
             id:9,
             eng:"An artist / Атист /",
             ru:"Художник",
-            
             },
             {
             id:10,
             eng:"A hairdresser / хЭЭдрэсэ /",
             ru:"Парикмахер",
-            
             },
             {
             id:11,
             eng:"An HR agent / Эйч Ар Эйджэнт /",
             ru:"HR агент",
-            
             },
             {
             id:12,
             eng:"A nurse / нЁс /",
             ru:"Медсестра",
-            
             },
             {
             id:13,
             eng:"A farmer / фАмэ /",
             ru:"Фермер",
-            
             },
             {
             id:14,
             eng:"A florist / лОрист /",
             ru:"Флорист",
-            
             },
             {
             id:15,
             eng:"A plumber / плАмэ /",
             ru:"Сантехник",
-            
             },
             {
             id:16,
             eng:"A doctor / дОктэ /",
             ru:"Доктор",
-            
             },
             {
             id:17,
             eng:"A police officer / полИс /",
             ru:"Полицейский",
-            
             },
             {
             id:18,
             eng:"A detective / дэтЭктив /",
             ru:"Детектив",
-            
             },
             {
             id:19,
             eng:"A dancer / дЭнсэ /",
             ru:"Танцор",
-            
             },
             {
             id:20,
             eng:"An agent / Эйджэнт /",
             ru:"Агент",
-            
             },
             {
             id:21,
             eng:"A big boss",
             ru:"Большой начальник",
-            
             },
             {
             id:22,
             eng:"A lazy ass / лЭйзи Эс /",
             ru:"Ленивая жопка",
-            
             },
             {
             id:23,
             eng:"A baby / бЭйби /",
             ru:"Ребёнок",
-            
             },
             {
             id:24,
             eng:"An electrician / электрИшэн /",
             ru:"Электрик",
-            
             },
             {
             id:25,
             eng:"A writer / рАйтэр /",
             ru:"Писатель",
-            
             },
             {
             id:26,
             eng:"A reader / рИдэр /",
             ru:"Читатель",
-            
             },
             {
             id:27,
             eng:"A journalist / джОнэлист /",
             ru:"Журналист",
-            
             },
             {
             id:28,
             eng:"An IT specialist / АйТи спЭшэлист /",
             ru:"Айтишник",
-            
             },
             {
             id:29,
             eng:"A designer / дизАйнэр /",
             ru:"Дизайнер",
-            
             },
             {
             id:30,
             eng:"A driver / дрАйвэ /",
             ru:"Водитель",
-            
             },
             {
             id:31,
             eng:"An accountant / экАунтэнт /",
             ru:"Бухгалтер",
-            
             },
             {
             id:32,
             eng:"A strip dancer / стрип дэнсэ /",
             ru:"стриптизр",
-            
             },
             {
             id:33,
             eng:"A builder / бИлдэр /",
             ru:"строитель",
-            
             },
             {
             id:34,
             eng:"A body builder / бОди бИлдэ /",
             ru:"бодибилдер",
-            
             },
     ],
     grabit: [
@@ -1272,811 +1127,676 @@ const allCardsGameFindAPair = {
             id:1,
             eng:" / æb'kɑːzɪə / Abkhazia",
             ru:" / su'huːm(ɪ) / Sukhum",
-            
             },
             {
             id:2,
             eng:" / æfˌɡænɪˈstɑːn / Afghanistan",
             ru:" / ˈkɑːbʊl / Kabul",
-            
             },
             {
             id:3,
             eng:" / ælˈbeɪniə / Albania",
             ru:" / tɪˈrɑːnə / Tirana",
-            
             },
             {
             id:4,
             eng:" / ælˈdʒɪəriə / Algeria",
             ru:" / ælˈdʒɪəz / Algiers",
-            
             },
             {
             id:5,
             eng:" / ˌɑːdʒənˈtiːnə / Argentina",
             ru:" / ˈbweɪnosˈeriz / Buenos Aires",
-            
             },
             {
             id:6,
             eng:" / ɑːˈmiːniə / Armenia",
             ru:" / ˌjerɪˈvɑːn / Yerevan",
-            
             },
             {
             id:7,
             eng:" / ɒˈstreɪliə / Australia",
             ru:" / ˈkænbərə / Canberra",
-            
             },
             {
             id:8,
             eng:" / ˈɒstriə / Austria",
             ru:" / vɪˈenə / Vienna",
-            
             },
             {
             id:9,
             eng:" / ˌɑːzərbaɪˈdʒɑːn / Azerbaijan",
             ru:" / ˈbækuː / Baku",
-            
             },
             {
             id:10,
             eng:" / bəˈhɑːməz / Bahamas",
             ru:" / ˈnæsɒ / Nassau",
-            
             },
             {
             id:11,
             eng:" / bɑːˈreɪn / Bahrain",
             ru:" / ˈmænəmə / Manama",
-            
             },
             {
             id:12,
             eng:" / ˌbæŋɡləˈdeʃ / Bangladesh",
             ru:" / ˈdækə / Dacca",
-            
             },
             {
             id:13,
             eng:" / belə'rus / Belarus",
             ru:" / mɪnsk / Minsk",
-            
             },
             {
             id:14,
             eng:" / ˈbeldʒəm / Belgium",
             ru:" / ˈbrʌsəlz / Brussels",
-            
             },
             {
             id:15,
             eng:" / bəˈmjuːdəˈaɪlən / Bermuda Islands",
             ru:" / ˈhæmɪltən / Hamilton",
-            
             },
             {
             id:16,
             eng:" / bəˈlɪvɪə / Bolivia",
             ru:" / lɑːˈpɑːz / La Paz",
-            
             },
             {
             id:17,
             eng:" / brəˈzɪl / Brazil",
             ru:" / brəˈzɪlɪə / Brasilia",
-            
             },
             {
             id:18,
             eng:" / bʌlˈɡeərɪə / Bulgaria",
             ru:" / ˈsəʊfɪə / Sofia",
-            
             },
             {
             id:19,
             eng:" / bʊˈrʊndi / Burundi",
             ru:" / buːdʒəmˈbʊrə / Bujumbura",
-            
             },
             {
             id:20,
             eng:" / kæmˈbəʊdɪə / Cambodia",
             ru:" / 'nɒm'pen / Pnompenh",
-            
             },
             {
             id:21,
             eng:" / ˌkæməˈruːn / Cameroon",
             ru:" / ͵jɑ:u:nʹdeı / Yaounde",
-            
             },
             {
             id:22,
             eng:" / ˈkænədə / Canada",
             ru:" / ˈɒtəwə / Ottawa",
-            
             },
             {
             id:23,
             eng:" / ˈtʃɪli / Chile",
             ru:" / ˌsæntɪˈɑːɡəʊ / Santiago",
-            
             },
             {
             id:24,
             eng:" / ˈtʃaɪnə / China",
             ru:" / ˌbeiˈdʒɪŋ/ / Beijing",
-            
             },
             {
             id:25,
             eng:" / kəˈlɒmbɪə / Colombia",
             ru:" / ˌbɒɡəˈtɑː / Bogota",
-            
             },
             {
             id:26,
             eng:" / ˈkɒŋɡəʊ / Congo",
             ru:" / ˈbræzəˌvɪl / Brazzaville",
-            
             },
             {
             id:27,
             eng:" / ˈkɒstəˈriːkə / Costa Rica",
             ru:" / sanˌhoˈzeɪ / San Jose",
-            
             },
             {
             id:28,
             eng:" / ˈkjuːbə / Cuba",
             ru:" / həˈvænə / Havana",
-            
             },
             {
             id:29,
             eng:" / ˈsaɪprəs / Cyprus",
             ru:" / nɪkəˈsiːə / Nicosia",
-            
             },
             {
             id:30,
             eng:" / tʃekrɪˈpʌblɪk / Czech Republic",
             ru:" / prɑːɡ / Prague",
-            
             },
             {
             id:31,
             eng:" / ˈdenmɑːk / Denmark",
             ru:" / ˌkəʊpənˈheɪɡən / Copenhagen",
-            
             },
             {
             id:32,
             eng:" / dəˈmɪnɪkənrɪˈpʌ / Dominican Republic",
             ru:" / ˈsæntəʊdoˈmɪŋɡəʊ / Santo Domingo",
-            
             },
             {
             id:33,
             eng:" / ˈekwədɔː / Ecuador",
             ru:" / ˈkiːtəʊ / Quito",
-            
             },
             {
             id:34,
             eng:" / ˈiːdʒɪpt / Egypt",
             ru:" / ˈkaɪrəʊ / Cairo",
-            
             },
             {
             id:35,
             eng:" / ˌelˈniːnjəʊˈsæ / El Salvador",
             ru:" / sanˈsælvədɔː / San Salvador",
-            
             },
             {
             id:36,
             eng:" / eˈstəʊniə / Estonia",
             ru:" / 'tælɪn / Tallinn",
-            
             },
             {
             id:37,
             eng:" / ˌiːθɪˈəʊpɪə / Ethiopia",
             ru:" / ˌædɪs'æbəbə / Addis Ababa",
-            
             },
             {
             id:38,
             eng:" / ˈfɪnlənd / Finland",
             ru:" / ˈhelsɪŋki / Helsinki",
-            
             },
             {
             id:39,
             eng:" / frɑːns / France",
             ru:" / ˈpærɪs / Paris",
-            
             },
             {
             id:40,
             eng:" / ˈdʒɔːdʒə / Georgia",
             ru:" / ˌtəbɪˈliːsi / Tbilisi",
-            
             },
             {
             id:41,
             eng:" / ˈdʒɜːməni / Germany",
             ru:" / bɜːˈlɪn / Berlin",
-            
             },
             {
             id:42,
             eng:" / ˈɡɑːnə / Ghana",
             ru:" / əˈkrɑː / Accra",
-            
             },
             {
             id:43,
             eng:" / dʒɪˈbrɔːltə / Gibraltar",
             ru:" / dʒɪˈbrɔːltətaʊn / Gibraltar Town",
-            
             },
             {
             id:44,
             eng:" / ˈɡreɪtˈbrɪtən / Great Britain",
             ru:" / ˈlʌndən / London",
-            
             },
             {
             id:45,
             eng:" / ɡrɪs / Greece",
             ru:" / ˈæθɪnz / Athens",
-            
             },
             {
             id:46,
             eng:" / ˌɡwɑːtəˈmɑːlə / Guatemala",
             ru:" / ˌɡwɑːtəˈmɑːləˈsɪti / Guatemala City",
-            
             },
             {
             id:47,
             eng:" / ˈɡɪni / Guinea",
             ru:" / ˈkɒnəkri / Conakry",
-            
             },
             {
             id:48,
             eng:" / ˈheɪti / Haiti",
             ru:" / ˌpɔːtəʊˈprɪns / Port-au-Prince",
-            
             },
             {
             id:49,
             eng:" / həˈwaɪiː / Hawaii",
             ru:" / ˌhɑːnəˈluːluː / Honolulu",
-            
             },
             {
             id:50,
             eng:" / hɒnˈdjʊərəs / Honduras",
             ru:" / teɡuːsiˈɡælpə / Tegucigalpa",
-            
             },
             {
             id:51,
             eng:" / hʊŋkʰʊŋ / Hong Kong",
             ru:" / ˌhɒŋ'kɒŋ / Hong Kong",
-            
             },
             {
             id:52,
             eng:" / ˈhʌŋɡr̩i / Hungary",
             ru:" / ˈbjuːdəpest / Budapest",
-            
             },
             {
             id:53,
             eng:" / ˈaɪslənd / Iceland",
             ru:" / ˈreɪkjəvɪk / Reykjavik",
-            
             },
             {
             id:54,
             eng:" / ˈɪndɪə / India",
             ru:" / njuːˈdeli / New Delhi",
-            
             },
             {
             id:55,
             eng:" / ˌɪndəˈniːzɪə / Indonesia",
             ru:" / dʒəˈkɑːtə / Jakarta",
-            
             },
             {
             id:56,
             eng:" / ɪˈrɑːn / Iran",
             ru:" / ˌteˈrɑːn / Tehran",
-            
             },
             {
             id:57,
             eng:" / ɪˈrɑːk / Iraq",
             ru:" / ˌbæɡˈdæd / Baghdad",
-            
             },
             {
             id:58,
             eng:" / ˈaɪələnd / Ireland",
             ru:" / ˈdʌblɪn / Dublin",
-            
             },
             {
             id:59,
             eng:" / ˈɪzreɪl / Israel",
             ru:" / dʒəˈruːsələm / Jerusalem",
-            
             },
             {
             id:60,
             eng:" / ˈɪtəli / Italy",
             ru:" / rəʊm / Rome",
-            
             },
             {
             id:61,
             eng:" / ˈaɪvərikəʊst / Ivory Coast",
             ru:" / ˌæbiː'ʤɑːn / Abidjan",
-            
             },
             {
             id:62,
             eng:" / dʒəˈmeɪkə / Jamaica",
             ru:" / ˈkɪŋstən / Kingston",
-            
             },
             {
             id:63,
             eng:" / dʒəˈpæn / Japan",
             ru:" / ˈtəʊkjəʊ / Tokyo",
-            
             },
             {
             id:64,
             eng:" / ˌkɑːzakˈstɑːn / Kazakhstan",
             ru:" / æstæ'nɑː / Astana",
-            
             },
             {
             id:65,
             eng:" / ˈkenjə / Kenya",
             ru:" / naɪˈrəʊbi / Nairobi",
-            
             },
             {
             id:66,
             eng:" / kʊˈweɪt / Kuwait",
             ru:" / kʊˈweɪtˈsɪti / Kuwait City",
-            
             },
             {
             id:67,
             eng:" / ˈkɪrɡəˌstæn / Kyrgyzstan",
             ru:" / bɪʃ'kek / Bishkek",
-            
             },
             {
             id:68,
             eng:" / ˈlætviə / Latvia",
             ru:" / ˈriːɡə / Riga",
-            
             },
             {
             id:69,
             eng:" / ˈlebənən / Lebanon",
             ru:" / ˌbeɪˈruːt / Beirut",
-            
             },
             {
             id:70,
             eng:" / laɪˈbɪərɪə / Liberia",
             ru:" / ˌmɑːnˈroviə / Monrovia",
-            
             },
             {
             id:71,
             eng:" / ˈlɪbɪə / Libya",
             ru:" / ˈtrɪpəli / Tripoli",
-            
             },
             {
             id:72,
             eng:" / ˌlɪθəˈweɪniə / Lithuania",
             ru:" / ˈvɪlniəs / Vilnius",
-            
             },
             {
             id:73,
             eng:" / ˈlʌksəmbɜːɡ / Luxemburg",
             ru:" / ˈlʌksəmbɜːɡ / Luxemburg",
-            
             },
             {
             id:74,
             eng:" / ˌmædəˈɡæskə / Madagascar",
             ru:" / antəˌnanəˈriːvəʊ / Antananarivo",
-            
             },
             {
             id:75,
             eng:" / məˈlɑːwi / Malawi",
             ru:" / lɪˈlɒŋweɪ / Lilongwe",
-            
             },
             {
             id:76,
             eng:" / məˈleɪzɪə / Malaysia",
             ru:" / ˈkwɑːləˌləmˈpʊr / Kuala Lumpur",
-            
             },
             {
             id:77,
             eng:" / ˈmɔːltə / Malta",
             ru:" / və'letə / Valletta",
-            
             },
             {
             id:78,
             eng:" / ˈmeksɪkəʊ / Mexico",
             ru:" / ˈmeksɪkəʊˈsɪti / Mexico City",
-            
             },
             {
             id:79,
             eng:" / ˌmolˈdovə / Moldova",
             ru:" / ˌkɪʃɪ'nəu / Chisinau (Kishinev)",
-            
             },
             {
             id:80,
             eng:" / ˈmɒnəkəʊ / Monaco",
             ru:" / 'mɔnəkəuvɪl / Monaco-Ville",
-            
             },
             {
             id:81,
             eng:" / mɒŋˈɡəʊlɪə / Mongolia",
             ru:" / ʊ'lɑːn'bɑːtɔː / Ulan Bator",
-            
             },
             {
             id:82,
             eng:" / məˈrɒkəʊ / Morocco",
             ru:" / rabat / Rabat",
-            
             },
             {
             id:83,
             eng:" / nɪ'pɔːl / Nepal",
             ru:" / ˌkatmanˈduː / Kathmandu",
-            
             },
             {
             id:84,
             eng:" / ˈneðələndz / Netherlands",
             ru:" / ˈæmstədæm / Amsterdam",
-            
             },
             {
             id:85,
             eng:" / ˌnjuː'ziːlənd / New Zeland",
             ru:" / ˈwelɪŋtən / Wellington",
-            
             },
             {
             id:86,
             eng:" / ˌnɪkəˈræɡjʊə / Nicaragua",
             ru:" / məˈnɑːɡwə / Managua",
-            
             },
             {
             id:87,
             eng:" / naɪˈdʒɪərɪə / Nigeria",
             ru:" / ˈleɪɡɒs / Lagos",
-            
             },
             {
             id:88,
             eng:" / nɔːθkəˈrɪə / North Korea",
             ru:" / ˌpjɒŋˈjæŋ / Pyongyang",
-            
             },
             {
             id:89,
             eng:" / ˈnɔːweɪ / Norway",
             ru:" / ˈɒzləʊ / Oslo",
-            
             },
             {
             id:90,
             eng:" / əʊˈmɑːn / Oman",
             ru:" / ˈmʌskæt / Muscat",
-            
             },
             {
             id:91,
             eng:" / ˌpɑːkɪˈstɑːn / Pakistan",
             ru:" / ˌɪsˈlæməbæd / Islamabad",
-            
             },
             {
             id:92,
             eng:" / ˈpænəmɑː / Panama",
             ru:" / ˈpænəmɑːˈsɪti / Panama City",
-            
             },
             {
             id:93,
             eng:" / pæpjʊənjuːˈɡɪn / Papua New Guinea",
             ru:" / ˌpɔːtˈmɔːzbi / Port Moresby",
-            
             },
             {
             id:94,
             eng:" / ˈpærəɡwaɪ / Paraguay",
             ru:" / əˈsənʃən / Asuncion",
-            
             },
             {
             id:95,
             eng:" / pəˈruː / Peru",
             ru:" / ˈliːmə / Lima",
-            
             },
             {
             id:96,
             eng:" / ˈfɪlɪpiːnz / Philippines",
             ru:" / məˈnɪlə / Manila",
-            
             },
             {
             id:97,
             eng:" / ˈpəʊlənd / Poland",
             ru:" / ˈwɔːsɔː / Warsaw",
-            
             },
             {
             id:98,
             eng:" / ˈpɔːtʃʊɡəl / Portugal",
             ru:" / ˈlɪzbən / Lisbon",
-            
             },
             {
             id:99,
             eng:" / pwerˌtəʊˈriːkəʊ / Puerto Rico",
             ru:" / santɕyɛn / San Juan",
-            
             },
             {
             id:100,
             eng:" / rəˈmeɪnɪə / Romania",
             ru:" / ˈbjuːkəˌrest / Bucharest",
-            
             },
             {
             id:101,
             eng:" / ˈrʌʃə / Russia",
             ru:" / ˈmɒskəʊ / Moscow",
-            
             },
             {
             id:102,
             eng:" / rʊˈændə / Rwanda",
             ru:" / kiˈɡɑːli / Kigali",
-            
             },
             {
             id:103,
             eng:" / saudiəˈreɪbiə / Saudi Arabia",
             ru:" / riˈæd / Riyadh",
-            
             },
             {
             id:104,
             eng:" / ˌsenɪˈɡɔːl / Senegal",
             ru:" / ˈdækə / Dakar",
-            
             },
             {
             id:105,
             eng:" / sɪˈeərəleone / Sierra Leone",
             ru:" / ˈfriːˌtɑːwn / Freetown",
-            
             },
             {
             id:106,
             eng:" / ˌsɪŋəˈpɔː / Singapore",
             ru:" / ˌsɪŋəˈpɔːˈsɪti / Singapore City",
-            
             },
             {
             id:107,
             eng:" / sˌloˈvɑːkiə / Slovakia",
             ru:" / ˌbrætɪˈslɑːvə / Bratislava",
-            
             },
             {
             id:108,
             eng:" / sˌloˈviːniə / Slovenia",
             ru:" / ˌljuːblɪˈɑːnə / Ljubljana",
-            
             },
             {
             id:109,
             eng:" / saʊθˈæfrɪkə / South Africa",
             ru:" / prɪˈtɔːrɪə / Pretoria",
-            
             },
             {
             id:110,
             eng:" / saʊθkəˈrɪə / South Korea",
             ru:" / səʊl / Seoul",
-            
             },
             {
             id:111,
             eng:" / saʊθˌɑːˈseʃjə / South Ossetia",
             ru:" / tskɪnˈvɑːl(i) / Tskhinval(i)",
-            
             },
             {
             id:112,
             eng:" / speɪn / Spain",
             ru:" / məˈdrɪd / Madrid",
-            
             },
             {
             id:113,
             eng:" / ˈʃriːˈlæŋkə / Sri Lanka",
             ru:" / kəˈlɒmbəʊ / Colombo",
-            
             },
             {
             id:114,
             eng:" / suːˈdɑːn / Sudan",
             ru:" / ˌkɑːˈtuːm / Khartoum",
-            
             },
             {
             id:115,
             eng:" / ˈswiːdən / Sweden",
             ru:" / ˈstɒkhəʊm / Stockholm",
-            
             },
             {
             id:116,
             eng:" / ˈswɪtsələnd / Switzerland",
             ru:" / ˈbɜːn / Berne",
-            
             },
             {
             id:117,
             eng:" / ˈsɪrɪə / Syria",
             ru:" / dəˈmæskəs / Damascus",
-            
             },
             {
             id:118,
             eng:" / taɪˈwɑːn / Taiwan",
             ru:" / ˌtaɪˈpeɪ / Taipei",
-            
             },
             {
             id:119,
             eng:" / ˌtɑːˈdʒiːkəˌstæn / Tajikistan",
             ru:" / duː'ʃænbə / Dushanbe",
-            
             },
             {
             id:120,
             eng:" / ˈtaɪlænd / Thailand",
             ru:" / ˌbæŋˈkɒk / Bangkok",
-            
             },
             {
             id:121,
             eng:" / ˈtəʊɡəʊ / Togo",
             ru:" / 'ləumeɪ / Lome",
-            
             },
             {
             id:122,
             eng:" / tjuːˈnɪzɪə / Tunisia",
             ru:" / ˈtjuːnɪs / Tunis",
-            
             },
             {
             id:123,
             eng:" / ˈtɜːki / Turkey",
             ru:" / 'æŋkərə / Ankara",
-            
             },
             {
             id:124,
             eng:" / tərkˈmenəˌstæn / Turkmenistan",
             ru:" / ˌɑːʃgɑː'bɑːt / Ashgabat",
-            
             },
             {
             id:125,
             eng:" / juːˈɡændə / Uganda",
             ru:" / kəmˈpɑːlə / Kampala",
-            
             },
             {
             id:126,
             eng:" / juːˈkreɪn / Ukraine",
             ru:" / ˈkɪjɪf / Kyiv (Kiev)",
-            
             },
             {
             id:127,
             eng:" / juːˈnaɪtɪdˈærəb / United Arab Emirates",
             ru:" / ˈæbuːˈdɑːbi / Abu Dhabi",
-            
             },
             {
             id:128,
             eng:" / juːˈˌesˈeɪ / USA",
             ru:" / ˈwɒʃɪŋtən / Washington",
-            
             },
             {
             id:129,
             eng:" / ˈjʊərəɡwaɪ / Uruguay",
             ru:" / ˌmɒntɪvɪˈdeɪəʊ / Montevideo",
-            
             },
             {
             id:130,
             eng:" / uːzˈbekəˌstæn / Uzbekistan",
             ru:" / ˌtæʃˈkent / Tashkent",
-            
             },
             {
             id:131,
             eng:" / ˌvenɪˈzweɪlə / Venezuela",
             ru:" / kəˈrækəs / Caracas",
-            
             },
             {
             id:132,
             eng:" / ˈjemən / Yemen",
             ru:" / sə'nɑː / Sana'a",
-            
             },
             {
             id:133,
             eng:" / zɑːˈɪə / Zaire",
             ru:" / kɪnˈʃɑːsə / Kinshasa",
-            
             },
             {
             id:134,
             eng:" / ˈzæmbɪə / Zambia",
             ru:" / luːˈsɑːkə / Lusaka",
-            
             },
             {
             id:135,
             eng:" / zɪmˈbɑːbwi / Zimbabwe",
             ru:" / həˈrɑːi / Harare",
-            
             },
     ],
     daysMonth: [
@@ -6467,7 +6187,6 @@ const allCardsGameFindAPair = {
             ru: "кусать"
         },
     ],
-   
     naughtyVerbsCD: [
         {
             id:13,

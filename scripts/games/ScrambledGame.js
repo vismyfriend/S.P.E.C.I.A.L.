@@ -1,6 +1,5 @@
 const allQuestionsOneDeck = {
     devmode0: [
-        
         {
             id:1,
             eng:"Карточка №1 вЭлэри My name is Valery. My pets are chickens. I like chickens a lot. I love beer very much. I am crazy about beer. I collect beer bottles.",
@@ -31,8 +30,6 @@ const allQuestionsOneDeck = {
             eng:"Карточка №6 сАймон My name is Simon. My pets are parrots. I like parrots a lot. I love coffee very much. I am crazy about coffee. I collect coffee cups.",
             ru:"pets /пЭтс/ питомцы  parrots /пЭротс/ попугаи a lot /э лот/ оч.сильно / кОфи капс / кофейные чашки"
             },
-            
-            
     ],
 }
        
