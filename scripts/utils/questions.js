@@ -1828,10 +1828,89 @@ const allQuestionsOneDeck = {
     ],
     idioms1: [
         {
-            id: 29,
-            eng: "Who took my phone? / ху тук май фОун /",
-            ru: " Кто взял, забрал мой телефон? ",
-        },
+            id:1,
+            eng:"Don't tell a lie to me Don't lie / лай / не ври",
+            ru:"Don’t pull my leg",
+            
+            },
+            {
+                id:2,
+                eng:"What idiom means: ' it will never happen ' вероятность мала / пробабилити / probability is low / лоу /",
+                ru:"When pigs fly",
+                
+                },
+            {
+            id:3,
+            eng:"Somebody or something that is very annoying раздражает / эннОИнг / ",
+            ru:"A pain in the neck",
+            
+            },
+            {
+            id:4,
+            eng:"What idiom do you use when you wish somebody ' good luck '",
+            ru:"Break a leg",
+            
+            },
+            {
+            id:5,
+            eng:"Use an idiom to say about storm and strong rain",
+            ru:"It is raining cats and dogs",
+            
+            },
+            {
+            id:6,
+            eng:"What idiom do people say when they are ready to listen to somebody?",
+            ru:"I’m all ears",
+            
+            },
+            {
+            id:7,
+            eng:"Tell me the secret. Tell me what you know.",
+            ru:"Spill the beans ",
+            
+            },
+            {
+            id:8,
+            eng:"What phrase can people say when they can't or maybe they don't want to go somewhere. ",
+            ru:"Let’s take a rain check",
+            
+            },
+            {
+            id:9,
+            eng:"How do you say: ' be brave ' What idiom can you use?",
+            ru:"Bite the bullet",
+            
+            },
+            {
+            id:10,
+            eng:"X3 - this idiom means that you don't know anything about something",
+            ru:"It doesn’t ring any bell",
+            
+            },
+            {
+            id:11,
+            eng:"when something bad happened but it has a good result later. What idiom is this?",
+            ru:"A blessing in disguise",
+            
+            },
+            {
+            id:12,
+            eng:"What do you say about people who enjoy eating sugar / Щугар /",
+            ru:"They have a sweet tooth He has a sweet tooth",
+            
+            },
+            {
+            id:13,
+            eng:"When you do only one action and you finish 2 tasks or solve two problems",
+            ru:"Kill two birds with one stone",
+            
+            },
+            {
+            id:14,
+            eng:"A person who wakes up early has more chances to have something good",
+            ru:"The early bird catches the worm",
+            
+            },
     ],
    
     monsterManeskin: [
