@@ -18,6 +18,536 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    favorite1: [
+        {
+            id:1,
+            eng:"What is your favorite alcohol drink?",
+            ru:"Какой ваш любимый алкогольный напиток?",
+            
+            },
+            {
+            id:2,
+            eng:"What is your favorite animal?",
+            ru:"Какое ваше любимое животное?",
+            
+            },
+            {
+            id:3,
+            eng:"What is your favorite app on your phone?",
+            ru:"Какое ваше любимое приложение на телефоне?",
+            
+            },
+            {
+            id:4,
+            eng:"What is your favorite beach?",
+            ru:"Какой ваш любимый пляж?",
+            
+            },
+            {
+            id:5,
+            eng:"What is your favorite bird?",
+            ru:"Какая ваша любимая птица?",
+            
+            },
+            {
+            id:6,
+            eng:"What is your favorite blog?",
+            ru:"Какой ваш любимый блог?",
+            
+            },
+            {
+            id:7,
+            eng:"What is your favorite book?",
+            ru:"Какая ваша любимая книга?",
+            
+            },
+            {
+            id:8,
+            eng:"What is your favorite boy's name?",
+            ru:"Какое ваше любимое мужское имя?",
+            
+            },
+            {
+            id:9,
+            eng:"What is your favorite brand of car?",
+            ru:"Какая ваша любимая марка автомобиля?",
+            
+            },
+            {
+            id:10,
+            eng:"What is your favorite brand of electronics?",
+            ru:"Какая ваша любимая марка электроники?",
+            
+            },
+            {
+            id:11,
+            eng:"What is your favorite car number?",
+            ru:"Какой ваш любимый номер автомобиля?",
+            
+            },
+            {
+            id:12,
+            eng:"What is your favorite childhood memory?",
+            ru:"Какое ваше любимое воспоминание из детства?",
+            
+            },
+            {
+            id:13,
+            eng:"What is your favorite city?",
+            ru:"Какой ваш любимый город?",
+            
+            },
+            {
+            id:14,
+            eng:"What is your favorite clothing?",
+            ru:"Какая ваша любимая одежда?",
+            
+            },
+            {
+            id:15,
+            eng:"What is your favorite color?",
+            ru:"Какой ваш любимый цвет?",
+            
+            },
+            {
+            id:16,
+            eng:"What is your favorite constellation ? созвездие",
+            ru:"Какое ваше любимое созвездие?",
+            
+            },
+            {
+            id:17,
+            eng:"What is your favorite country?",
+            ru:"Какая ваша любимая страна?",
+            
+            },
+            {
+            id:18,
+            eng:"What is your favorite dance?",
+            ru:"Какой ваш любимый танец?",
+            
+            },
+            {
+            id:19,
+            eng:"What is your favorite day of the week?",
+            ru:"Какой ваш любимый день недели?",
+            
+            },
+            {
+            id:20,
+            eng:"What is your favorite dessert?",
+            ru:"Какой ваш любимый десерт?",
+            
+            },
+            {
+            id:21,
+            eng:"What is your favorite drink?",
+            ru:"Какой ваш любимый напиток?",
+            
+            },
+            {
+            id:22,
+            eng:"What is your favorite English word?",
+            ru:"Какое ваше любимое английское слово?",
+            
+            },
+            {
+            id:23,
+            eng:"What is your favorite fish? Red or white?",
+            ru:"Какая ваша любимая рыба? Красная или белая?",
+            
+            },
+            {
+            id:24,
+            eng:"What is your favorite flower?",
+            ru:"Какой ваш любимый цветок?",
+            
+            },
+            {
+            id:25,
+            eng:"What is your favorite food?",
+            ru:"Какое ваше любимое блюдо?",
+            
+            },
+            {
+            id:26,
+            eng:"What is your favorite fruit?",
+            ru:"Какой ваш любимый фрукт?",
+            
+            },
+            {
+            id:27,
+            eng:"What is your favorite game?",
+            ru:"Какая ваша любимая игра?",
+            
+            },
+            {
+            id:28,
+            eng:"What is your favorite gir's name?",
+            ru:"Какое ваше любимое женское имя?",
+            
+            },
+            {
+            id:29,
+            eng:"What is your favorite historical figure?",
+            ru:"Какой ваш любимый исторический персонаж?",
+            
+            },
+            {
+            id:30,
+            eng:"What is your favorite hobby?",
+            ru:"Какое ваше любимое хобби?",
+            
+            },
+            {
+            id:31,
+            eng:"What is your favorite holiday?",
+            ru:"Какой ваш любимый праздник?",
+            
+            },
+            {
+            id:32,
+            eng:"What is your favorite ice cream?",
+            ru:"Какое ваше любимое мороженое?",
+            
+            },
+            {
+            id:33,
+            eng:"What is your favorite kind of dance?",
+            ru:"Какой ваш любимый вид танца?",
+            
+            },
+            {
+            id:34,
+            eng:"What is your favorite lake?",
+            ru:"Какое ваше любимое озеро?",
+            
+            },
+            {
+            id:35,
+            eng:"What is your favorite language?",
+            ru:"Какой ваш любимый язык?",
+            
+            },
+            {
+            id:36,
+            eng:"What is your favorite magazine?",
+            ru:"Какой ваш любимый журнал?",
+            
+            },
+            {
+            id:37,
+            eng:"What is your favorite mountain?",
+            ru:"Какая ваша любимая гора?",
+            
+            },
+            {
+            id:38,
+            eng:"What is your favorite movie genre?",
+            ru:"Какой ваш любимый жанр кино?",
+            
+            },
+            {
+            id:39,
+            eng:"What is your favorite movie?",
+            ru:"Какой ваш любимый фильм?",
+            
+            },
+            {
+            id:40,
+            eng:"What is your favorite museum?",
+            ru:"Какой ваш любимый музей?",
+            
+            },
+            {
+            id:41,
+            eng:"What is your favorite musical band?",
+            ru:"Какая ваша любимая музыкальная группа?",
+            
+            },
+            {
+            id:42,
+            eng:"What is your favorite musical instrument?",
+            ru:"Какой ваш любимый музыкальный инструмент?",
+            
+            },
+            {
+            id:43,
+            eng:"What is your favorite musical?",
+            ru:"Какой ваш любимый мюзикл?",
+            
+            },
+            {
+            id:44,
+            eng:"What is your favorite newspaper?",
+            ru:"Какая ваша любимая газета?",
+            
+            },
+            {
+            id:45,
+            eng:"What is your favorite object at your house?",
+            ru:"Какой ваш любимый предмет в доме?",
+            
+            },
+            {
+            id:46,
+            eng:"What is your favorite painting?",
+            ru:"Какая ваша любимая картина?",
+            
+            },
+            {
+            id:47,
+            eng:"What is your favorite park?",
+            ru:"Какой ваш любимый парк?",
+            
+            },
+            {
+            id:48,
+            eng:"What is your favorite pet?",
+            ru:"Какое ваше любимое домашнее животное?",
+            
+            },
+            {
+            id:49,
+            eng:"What is your favorite philosopher?",
+            ru:"Какой ваш любимый философ?",
+            
+            },
+            {
+            id:50,
+            eng:"What is your favorite place in your flat?",
+            ru:"Какое ваше любимое место в квартире?",
+            
+            },
+            {
+            id:51,
+            eng:"What is your favorite place to go on vacation?",
+            ru:"Какое ваше любимое место для отпуска?",
+            
+            },
+            {
+            id:52,
+            eng:"What is your favorite planet?",
+            ru:"Какая ваша любимая планета?",
+            
+            },
+            {
+            id:53,
+            eng:"What is your favorite podcast?",
+            ru:"Какой ваш любимый подкаст?",
+            
+            },
+            {
+            id:54,
+            eng:"What is your favorite poem?",
+            ru:"Какое ваше любимое стихотворение?",
+            
+            },
+            {
+            id:55,
+            eng:"What is your favorite programming language?",
+            ru:"Какой ваш любимый язык программирования?",
+            
+            },
+            {
+            id:56,
+            eng:"What is your favorite quote?",
+            ru:"Какое ваше любимое высказывание?",
+            
+            },
+            {
+            id:57,
+            eng:"What is your favorite restaurant?",
+            ru:"Какой ваш любимый ресторан?",
+            
+            },
+            {
+            id:58,
+            eng:"What is your favorite river?",
+            ru:"Какая ваша любимая река?",
+            
+            },
+            {
+            id:59,
+            eng:"What is your favorite sculpture?",
+            ru:"Какая ваша любимая скульптура?",
+            
+            },
+            {
+            id:60,
+            eng:"What is your favorite season?",
+            ru:"Какое ваше любимое время года?",
+            
+            },
+            {
+            id:61,
+            eng:"What is your favorite shoe brand?",
+            ru:"Какая ваша любимая марка обуви?",
+            
+            },
+            {
+            id:62,
+            eng:"What is your favorite smell?",
+            ru:"Какой ваш любимый запах?",
+            
+            },
+            {
+            id:63,
+            eng:"What is your favorite social media platform?",
+            ru:"Какая ваша любимая социальная сеть?",
+            
+            },
+            {
+            id:64,
+            eng:"What is your favorite software?",
+            ru:"Какое ваше любимое программное обеспечение?",
+            
+            },
+            {
+            id:65,
+            eng:"What is your favorite song?",
+            ru:"Какая ваша любимая песня?",
+            
+            },
+            {
+            id:66,
+            eng:"What is your favorite sound?",
+            ru:"Какой ваш любимый звук?",
+            
+            },
+            {
+            id:67,
+            eng:"What is your favorite sport?",
+            ru:"Какой ваш любимый вид спорта?",
+            
+            },
+            {
+            id:68,
+            eng:"What is your favorite subject in school?",
+            ru:"Какой ваш любимый предмет в школе?",
+            
+            },
+            {
+            id:69,
+            eng:"What is your favorite theorem?",
+            ru:"Какой ваш любимый теорема?",
+            
+            },
+            {
+            id:70,
+            eng:"What is your favorite thing about your job?",
+            ru:"Что вам больше всего нравится в вашей работе?",
+            
+            },
+            {
+            id:71,
+            eng:"What is your favorite thing to do on a rainy day?",
+            ru:"Что вам нравится делать в дождливый день?",
+            
+            },
+            {
+            id:72,
+            eng:"What is your favorite thing to do on a sunny day?",
+            ru:"Что вам нравится делать в солнечный день?",
+            
+            },
+            {
+            id:73,
+            eng:"What is your favorite time of day?",
+            ru:"Какое ваше любимое время суток?",
+            
+            },
+            {
+            id:74,
+            eng:"What is your favorite tradition?",
+            ru:"Какая ваша любимая традиция?",
+            
+            },
+            {
+            id:75,
+            eng:"What is your favorite TV series?",
+            ru:"Какой ваш любимый сериал?",
+            
+            },
+            {
+            id:76,
+            eng:"What is your favorite TV show?",
+            ru:"Какое ваше любимое телешоу?",
+            
+            },
+            {
+            id:77,
+            eng:"What is your favorite type of weather?",
+            ru:"Какой ваш любимый тип погоды?",
+            
+            },
+            {
+            id:78,
+            eng:"What is your favorite vegetable?",
+            ru:"Какой ваш любимый овощ?",
+            
+            },
+            {
+            id:79,
+            eng:"What is your favorite way to relax after a long day?",
+            ru:"Как вам нравится расслабляться после долгого дня?",
+            
+            },
+            {
+            id:80,
+            eng:"What is your favorite way to relax?",
+            ru:"Как вам нравится расслабляться?",
+            
+            },
+            {
+            id:81,
+            eng:"What is your favorite way to spend a weekend?",
+            ru:"Как вам нравится проводить выходные?",
+            
+            },
+            {
+            id:82,
+            eng:"What is your favorite website?",
+            ru:"Какой ваш любимый веб-сайт?",
+            
+            },
+            {
+            id:83,
+            eng:"What is your favorite YouTube channel?",
+            ru:"Какой ваш любимый канал на YouTube?",
+            
+            },
+            {
+            id:84,
+            eng:"Who is your favorite actor?",
+            ru:"Кто ваш любимый актер?",
+            
+            },
+            {
+            id:85,
+            eng:"Who is your favorite actress?",
+            ru:"Кто ваша любимая актриса?",
+            
+            },
+            {
+            id:86,
+            eng:"Who is your favorite painter?",
+            ru:"Кто ваш любимый художник?",
+            
+            },
+            {
+            id:87,
+            eng:"Who is your favorite superhero?",
+            ru:"Кто ваш любимый супергерой?",
+            
+            },
+            {
+            id:88,
+            eng:"Who is your favorite YouTuber?",
+            ru:"Кто ваш любимый YouTuber?",
+            
+            },
+    ],
     cars1: [
         {
             id:1,
