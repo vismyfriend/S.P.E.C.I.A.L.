@@ -51,8 +51,8 @@ const allQuestionsOneDeck = {
             },
             {
             id:6,
-            eng:"What color is your phone? / уот кАла из Ё фОун /",
-            ru:"Какого цвета ваш номер телефона?",
+            eng:"What color is your phone? / уот кАла из Ё фОун /",
+            ru:"Какого цвета ваш телефон?",
             
             },
             {
@@ -70,7 +70,7 @@ const allQuestionsOneDeck = {
             {
             id:9,
             eng:"What is your phone number? / уот из Ё фОун нАмбэр /",
-            ru:"Какой ваш номер телефона? Какой номер телефона у вас?",
+            ru:"Какой ваш номер телефона? Какой номер телефона у вас?",
             
             },
             {
