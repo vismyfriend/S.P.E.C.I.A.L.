@@ -18,6 +18,86 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    questions010: [
+        {
+            id:1,
+            eng:"What is your name? / уот из Ё нЭйм /",
+            ru:"Как вас зовут ? Какое ваше имя ? Какое у вас имя ? Что есть ваше имя ?",
+            
+            },
+            {
+            id:2,
+            eng:"What is your nickname? / уот из Ё нИкнэйм /",
+            ru:"Какой ваш нИкнэм ? Какая у вас кличка? Какое прозвище ?",
+            
+            },
+            {
+            id:3,
+            eng:"What is your car number? / уот из Ё кар нАмбэр /",
+            ru:"Какой номер у вашей машины?",
+            
+            },
+            {
+            id:4,
+            eng:"What is your e-mail? / уот из ё Имэйл /",
+            ru:"Како адрес вашей электронной почты?",
+            
+            },
+            {
+            id:5,
+            eng:"What color is your car? / уот кАла из Ё кар /",
+            ru:"Какого цвета ваша машина?",
+            
+            },
+            {
+            id:6,
+            eng:"What color is your phone? / уот кАла из Ё фОун /",
+            ru:"Какого цвета ваш номер телефона?",
+            
+            },
+            {
+            id:7,
+            eng:"What color is it? / уот кАла из Ит /",
+            ru:"Какой это цвет ? Какого это цвета ? Что это за цвет ?",
+            
+            },
+            {
+            id:8,
+            eng:"How are you ? How are you doing ? / хАу  а  ю  дУин /",
+            ru:"Как ваши дела? Как вы?  Как твои дела? Как ты? Как вы поживаете? Как ты поживаешь?",
+            
+            },
+            {
+            id:9,
+            eng:"What is your phone number? / уот из Ё фОун нАмбэр /",
+            ru:"Какой ваш номер телефона? Какой номер телефона у вас?",
+            
+            },
+            {
+            id:10,
+            eng:"What color is your pen? / уот кАла из Ё  пЭн /",
+            ru:"Какого цвета твоя ручка? Какого цвета ваша ручка?",
+            
+            },
+    ],
+    devmode0: [
+        {
+            id: 1,
+            ru: "an owl JPG",
+            // eng:"/images/picturesForCards/owlJPGtrasparent.jpg",
+            // eng:"./images/picturesForCards/owlJPGtrasparent.jpg",
+            eng: "/S.P.E.C.I.A.L./images/picturesForCards/owlJPGtrasparent.jpg",
+            // ru:"картинка совы JPG мало весит, но не прозрачная она",
+        },
+        {
+            id: 2,
+            ru: "an owl PNG",
+            // eng:"/images/picturesForCards/foxxx.png",
+            // eng:"./images/picturesForCards/foxxx.png",
+            eng: "/S.P.E.C.I.A.L./images/picturesForCards/foxxx.png",
+            // ru:"картинка совы PNG, много весит, но прозрачная зато",
+        },
+    ],
     favorite1: [
         {
             id:1,
