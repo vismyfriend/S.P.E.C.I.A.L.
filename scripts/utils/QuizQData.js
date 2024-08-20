@@ -97,6 +97,1342 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    testPart1: [
+        {
+            id: 1,
+            quizQuestion: "You closed the door, …?",
+            answers: [
+            {
+            answer: "didn’t you",
+            correct: true
+            },
+            {
+            answer: "do you",
+            correct: false
+            },
+            {
+            answer: "are you",
+            correct: false
+            },
+            {
+            answer: "did you",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "I thought you … me.",
+            answers: [
+            {
+            answer: "would help",
+            correct: true
+            },
+            {
+            answer: "will help",
+            correct: false
+            },
+            {
+            answer: "help",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "It is … show I have ever seen.",
+            answers: [
+            {
+            answer: "the worst",
+            correct: true
+            },
+            {
+            answer: "the baddest",
+            correct: false
+            },
+            {
+            answer: "worse",
+            correct: false
+            },
+            {
+            answer: "worst",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Who … the table?",
+            answers: [
+            {
+            answer: "broke",
+            correct: true
+            },
+            {
+            answer: "break",
+            correct: false
+            },
+            {
+            answer: "broken",
+            correct: false
+            },
+            {
+            answer: "did break",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Look at those big black clouds! ….",
+            answers: [
+            {
+            answer: "It is going to rain",
+            correct: true
+            },
+            {
+            answer: "It will rain",
+            correct: false
+            },
+            {
+            answer: "It will have rained",
+            correct: false
+            },
+            {
+            answer: "It rains",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "What time … her today?",
+            answers: [
+            {
+            answer: "did you see",
+            correct: true
+            },
+            {
+            answer: "have you seen",
+            correct: false
+            },
+            {
+            answer: "had you seen",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "We … tomorrow at 6 p.m. Don’t be late!",
+            answers: [
+            {
+            answer: "are meeting",
+            correct: true
+            },
+            {
+            answer: "meet",
+            correct: false
+            },
+            {
+            answer: "will meet",
+            correct: false
+            },
+            {
+            answer: "met",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "I don’t have … free time",
+            answers: [
+            {
+            answer: "much",
+            correct: true
+            },
+            {
+            answer: "many",
+            correct: false
+            },
+            {
+            answer: "some",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "The conference … tomorrow at 10 a.m.",
+            answers: [
+            {
+            answer: "starts",
+            correct: true
+            },
+            {
+            answer: "will start",
+            correct: false
+            },
+            {
+            answer: "will have started",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "It’s 9 a.m. and I’m so tired! I … all morning!",
+            answers: [
+            {
+            answer: "have been working",
+            correct: true
+            },
+            {
+            answer: "am working",
+            correct: false
+            },
+            {
+            answer: "worked",
+            correct: false
+            },
+            {
+            answer: "had worked",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+    ],
+    testPart2: [
+        {
+            id: 11,
+            quizQuestion: "I … to America three times this year.",
+            answers: [
+            {
+            answer: "have been",
+            correct: true
+            },
+            {
+            answer: "was",
+            correct: false
+            },
+            {
+            answer: "had been",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "Daniel … when his wife came.",
+            answers: [
+            {
+            answer: "was sleeping",
+            correct: true
+            },
+            {
+            answer: "slept",
+            correct: false
+            },
+            {
+            answer: "has been sleeping",
+            correct: false
+            },
+            {
+            answer: "has slept",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "I like …",
+            answers: [
+            {
+            answer: "both apples and bananas",
+            correct: true
+            },
+            {
+            answer: "and apples and bananas",
+            correct: false
+            },
+            {
+            answer: "nor apples nor bananas",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "I … smoke.",
+            answers: [
+            {
+            answer: "didn’t use to",
+            correct: true
+            },
+            {
+            answer: "didn’t used to",
+            correct: false
+            },
+            {
+            answer: "usedn’t to",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "They … when I called them.",
+            answers: [
+            {
+            answer: "had already finished",
+            correct: true
+            },
+            {
+            answer: "will have already finished",
+            correct: false
+            },
+            {
+            answer: "already finished",
+            correct: false
+            },
+            {
+            answer: "have already finished",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "I knew that he … waiting for somebody.",
+            answers: [
+            {
+            answer: "was",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "would",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "- She doesn’t want to talk to me.",
+            answers: [
+            {
+            answer: "Neither does he",
+            correct: true
+            },
+            {
+            answer: "So is he",
+            correct: false
+            },
+            {
+            answer: "So does he",
+            correct: false
+            },
+            {
+            answer: "Neither is he",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "She’s my old friend – I … her … ten years.",
+            answers: [
+            {
+            answer: "have known, for",
+            correct: true
+            },
+            {
+            answer: "know, for",
+            correct: false
+            },
+            {
+            answer: "have known, since",
+            correct: false
+            },
+            {
+            answer: "know, since",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Australia … in 1606",
+            answers: [
+            {
+            answer: "was discovered",
+            correct: true
+            },
+            {
+            answer: "discovered",
+            correct: false
+            },
+            {
+            answer: "has discovered",
+            correct: false
+            },
+            {
+            answer: "has been discovered",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "As soon as she came in I knew I … her before.",
+            answers: [
+            {
+            answer: "had seen",
+            correct: true
+            },
+            {
+            answer: "have seen",
+            correct: false
+            },
+            {
+            answer: "saw",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+    ],
+    testPart3: [
+        {
+            id: 21,
+            quizQuestion: "This picture ... … a pencil.",
+            answers: [
+            {
+            answer: "was drawn, with",
+            correct: true
+            },
+            {
+            answer: "was drawed, with",
+            correct: false
+            },
+            {
+            answer: "was drawn, by",
+            correct: false
+            },
+            {
+            answer: "drawn, with",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "When I came home my room …",
+            answers: [
+            {
+            answer: "had already been cleaned",
+            correct: true
+            },
+            {
+            answer: "had already cleaned",
+            correct: false
+            },
+            {
+            answer: "had already been cleaning",
+            correct: false
+            },
+            {
+            answer: "has already been cleaned",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "I’m proud of … .",
+            answers: [
+            {
+            answer: "learning English",
+            correct: true
+            },
+            {
+            answer: "to learn English",
+            correct: false
+            },
+            {
+            answer: "learn English",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "I don’t know what….",
+            answers: [
+            {
+            answer: "they want",
+            correct: true
+            },
+            {
+            answer: "want they",
+            correct: false
+            },
+            {
+            answer: "do they want",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "John is 1 year … than me.",
+            answers: [
+            {
+            answer: "older",
+            correct: true
+            },
+            {
+            answer: "elder",
+            correct: false
+            },
+            {
+            answer: "more old",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "Please, read …",
+            answers: [
+            {
+            answer: "further",
+            correct: true
+            },
+            {
+            answer: "farther",
+            correct: false
+            },
+            {
+            answer: "more far",
+            correct: false
+            },
+            {
+            answer: "farer",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "He drives … than anybody I know.",
+            answers: [
+            {
+            answer: "faster",
+            correct: true
+            },
+            {
+            answer: "more fast",
+            correct: false
+            },
+            {
+            answer: "the fastest",
+            correct: false
+            },
+            {
+            answer: "more faster",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "They … the car for two hours when I came",
+            answers: [
+            {
+            answer: "had been repairing",
+            correct: true
+            },
+            {
+            answer: "were repairing",
+            correct: false
+            },
+            {
+            answer: "had repaired",
+            correct: false
+            },
+            {
+            answer: "repaired",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "I have won! - … !",
+            answers: [
+            {
+            answer: "So have I",
+            correct: true
+            },
+            {
+            answer: "Neither do I",
+            correct: false
+            },
+            {
+            answer: "So do I",
+            correct: false
+            },
+            {
+            answer: "Neither have I",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "… I learn … I know.",
+            answers: [
+            {
+            answer: "the more, the less",
+            correct: true
+            },
+            {
+            answer: "then more, then littler",
+            correct: false
+            },
+            {
+            answer: "more, less",
+            correct: false
+            },
+            {
+            answer: "then more, then less",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+    ],
+    testPart4: [
+        {
+            id: 31,
+            quizQuestion: "I... you if you ... that again.",
+            answers: [
+            {
+            answer: "will hit, say",
+            correct: true
+            },
+            {
+            answer: "hit, say",
+            correct: false
+            },
+            {
+            answer: "will hit, will say",
+            correct: false
+            },
+            {
+            answer: "hit, will say",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "- She doesn't like books. - Me … !",
+            answers: [
+            {
+            answer: "neither",
+            correct: true
+            },
+            {
+            answer: "either",
+            correct: false
+            },
+            {
+            answer: "so",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "The house … right now.",
+            answers: [
+            {
+            answer: "is being built",
+            correct: true
+            },
+            {
+            answer: "is building",
+            correct: false
+            },
+            {
+            answer: "is built",
+            correct: false
+            },
+            {
+            answer: "has been built",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "I … by my teacher yesterday from 10 a.m. till 11 a.m.",
+            answers: [
+            {
+            answer: "was being asked",
+            correct: true
+            },
+            {
+            answer: "am asking",
+            correct: false
+            },
+            {
+            answer: "was asked",
+            correct: false
+            },
+            {
+            answer: "had been asked",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "- I don't like football. - I don't like it ...",
+            answers: [
+            {
+            answer: "either",
+            correct: true
+            },
+            {
+            answer: "too",
+            correct: false
+            },
+            {
+            answer: "neither",
+            correct: false
+            },
+            {
+            answer: "nor",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "He runs … than we do.",
+            answers: [
+            {
+            answer: "more quickly",
+            correct: true
+            },
+            {
+            answer: "quicklier",
+            correct: false
+            },
+            {
+            answer: "more quicklier",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "I … this dog for 7 years.",
+            answers: [
+            {
+            answer: "have had",
+            correct: true
+            },
+            {
+            answer: "have",
+            correct: false
+            },
+            {
+            answer: "have been having",
+            correct: false
+            },
+            {
+            answer: "did have",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "The article … by tomorrow.",
+            answers: [
+            {
+            answer: "will have been written",
+            correct: true
+            },
+            {
+            answer: "will have written",
+            correct: false
+            },
+            {
+            answer: "will be written",
+            correct: false
+            },
+            {
+            answer: "will write",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "I … my toe. I can’t walk now.",
+            answers: [
+            {
+            answer: "have hurt",
+            correct: true
+            },
+            {
+            answer: "hurt",
+            correct: false
+            },
+            {
+            answer: "have hurted",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+    ],
+    testPart5: [
+        {
+            id: 40,
+            quizQuestion: "We believe she … .",
+            answers: [
+            {
+            answer: "will come",
+            correct: true
+            },
+            {
+            answer: "is to",
+            correct: false
+            },
+            {
+            answer: "is going to come",
+            correct: false
+            },
+            {
+            answer: "is coming",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 41,
+            quizQuestion: "When …?",
+            answers: [
+            {
+            answer: "did you call?",
+            correct: true
+            },
+            {
+            answer: "have you called?",
+            correct: false
+            },
+            {
+            answer: "had you called?",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 42,
+            quizQuestion: "As soon as she … I’ll talk to her.",
+            answers: [
+            {
+            answer: "comes",
+            correct: true
+            },
+            {
+            answer: "come",
+            correct: false
+            },
+            {
+            answer: "will come",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 43,
+            quizQuestion: "You never listen to me, …?",
+            answers: [
+            {
+            answer: "do you",
+            correct: true
+            },
+            {
+            answer: "don’t you",
+            correct: false
+            },
+            {
+            answer: "will you",
+            correct: false
+            },
+            {
+            answer: "won’t you",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 44,
+            quizQuestion: "I don’t know her and … my friends.",
+            answers: [
+            {
+            answer: "neither do",
+            correct: true
+            },
+            {
+            answer: "so do",
+            correct: false
+            },
+            {
+            answer: "so are",
+            correct: false
+            },
+            {
+            answer: "neither are",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 45,
+            quizQuestion: "This is … coffee I’ve ever drunk!",
+            answers: [
+            {
+            answer: "the most disgusting",
+            correct: true
+            },
+            {
+            answer: "more disgusting",
+            correct: false
+            },
+            {
+            answer: "the disgustingest",
+            correct: false
+            },
+            {
+            answer: "disgusting",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 46,
+            quizQuestion: "She … to London … Wednesday at 3 a.m.",
+            answers: [
+            {
+            answer: "is flying, on",
+            correct: true
+            },
+            {
+            answer: "flies, at",
+            correct: false
+            },
+            {
+            answer: "is flying, in",
+            correct: false
+            },
+            {
+            answer: "flied, on",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "This time tomorrow I ….",
+            answers: [
+            {
+            answer: "will be working",
+            correct: true
+            },
+            {
+            answer: "will work",
+            correct: false
+            },
+            {
+            answer: "will working",
+            correct: false
+            },
+            {
+            answer: "work",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "I … for 2 hours and she’s not here.",
+            answers: [
+            {
+            answer: "have been waiting",
+            correct: true
+            },
+            {
+            answer: "have waited",
+            correct: false
+            },
+            {
+            answer: "am waiting",
+            correct: false
+            },
+            {
+            answer: "wait",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 49,
+            quizQuestion: "I … her since we … children.",
+            answers: [
+            {
+            answer: "have loved, were",
+            correct: true
+            },
+            {
+            answer: "have been loving, had been",
+            correct: false
+            },
+            {
+            answer: "love, were",
+            correct: false
+            },
+            {
+            answer: "loved, have been",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 50,
+            quizQuestion: "She asked me … .",
+            answers: [
+            {
+            answer: "where I lived",
+            correct: true
+            },
+            {
+            answer: "where do I live",
+            correct: false
+            },
+            {
+            answer: "where did I live",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 51,
+            quizQuestion: "He … a lot before he got married",
+            answers: [
+            {
+            answer: "had travelled",
+            correct: true
+            },
+            {
+            answer: "travels",
+            correct: false
+            },
+            {
+            answer: "has travelled",
+            correct: false
+            },
+            {
+            answer: "has been travelling",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+    ],
     garagetest1: [
         {
             id: 1,
