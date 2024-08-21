@@ -6,7 +6,8 @@ const allQuestionsOneDeck = {
             ru: "an owl JPG",
             // eng:"/images/picturesForCards/owlJPGtrasparent.jpg",
             // eng:"./images/picturesForCards/owlJPGtrasparent.jpg",
-            eng: "/S.P.E.C.I.A.L./images/picturesForCards/owlJPGtrasparent.jpg",
+            eng: "/S.P.E.C.I.A.L./images/picturesForCards/owlJPGtrasparent.jpg", /* так будет отображаться на gitpages но не локально */
+            
             // ru:"картинка совы JPG мало весит, но не прозрачная она",
         },
         {

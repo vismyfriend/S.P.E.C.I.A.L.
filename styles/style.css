@@ -1180,7 +1180,8 @@ font-size: 20px;
 }
 
 .oneDeckOfCards__topOfTheCard1Value img {
-    width: 50%;
+    /* width: 50%; */
+    width: 130px;
 }
 
 .oneDeckOfCards.AnOpenCard {
