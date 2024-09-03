@@ -126,6 +126,9 @@ button {
 .gameTrickyQuiz.none {
     display: none;
 }
+.aNGcontainer.none {
+    display: none;
+}
 
 .usedCheatsText.visible {
     display: block;
@@ -153,7 +156,8 @@ button {
     text-align: center;
 }
 
-.gameTrickyQuizRules {
+.gameTrickyQuizRules,
+.aNGrules {
     color: rgb(0, 162, 255);
     font-size: 20px;
     text-align: center;

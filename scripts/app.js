@@ -4,6 +4,8 @@ import allQuestionsOneDeck from "./utils/questions.js"
 import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
 import allWordsForScrambledGame from "./utils/ScrambledGameData.js"
 import linksToHW from "./utils/linksToHW.js"
+import aNGPatternData from "./utils/aNGdata.js"
+import { aNGmechanic } from "./games/aNGmechanic.js"
 import slotMachineData from "./utils/slotMachineData.js"
 import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
@@ -14,6 +16,7 @@ import gameTwoDecksListData from "./utils/gameTwoDecksData.js"
 import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 
+const aNGPattern = document.querySelector(".popupMissionsAndSets__aNGPattern")
 const linksToHWbutton = document.querySelector(".popupMissionsAndSets__linksToHWbutton")
 const body = document.querySelector(".body")
 const logoSpecial = document.querySelector(".logo-special")
@@ -67,6 +70,7 @@ const bottomOfTheCard1Value = cardForSpeakingGame.querySelector(".oneDeckOfCards
 
 const gameTypeOrWrite = document.querySelector(".gameTypeOrWrite")
 const gameTrickyQuiz = document.querySelector(".gameTrickyQuiz")
+const aNGcontainer = document.querySelector(".aNGcontainer")
 
 const mainContainer5gameTwoCardDecks = document.querySelector(".mainContainer5gameTwoCardDecks")
 
@@ -75,6 +79,7 @@ const mainContainer5gameTwoCardDecks = document.querySelector(".mainContainer5ga
 let currentSet = null
 
 let quizGameClass = null
+let aNGclass = null
 
 
 
@@ -116,6 +121,7 @@ function doWeHaveThisGame(set) {
     if (!allWordsForScrambledGame[set]) scrambledstartGameTNTbutton.classList.remove("show")
     if (!linksToHW[set]) linksToHWbutton.classList.remove("show")
     if (!slotMachineData[set]) slotMachine.classList.remove("show")
+    if (!aNGPatternData[set]) aNGPattern.classList.remove("show")
 
 
 
@@ -143,6 +149,7 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
 
 function chooseSet(textTheNameOfTheChosenSet, set) {
 
+    aNGPattern.classList.add("show")
     // console.log(set)
     chosenSet.textContent = textTheNameOfTheChosenSet
     // console.log("название миссии=", textTheNameOfTheChosenSet)
@@ -174,19 +181,19 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     userSearchesForMissionSet()
     // проверка есть ли такая игра вконце всегда
     doWeHaveThisGame(set)
-    
+
 
 }
 
 function backToTheVeryFirstScreen() {
     clearInterval(interval)
-   //вот сюда нужно вставить завершение таймера квиза clearInterval(this.QuizTimerMechanics)
+    //вот сюда нужно вставить завершение таймера квиза clearInterval(this.QuizTimerMechanics)
 
     // уточнить таймер сброс таймера то есть ломает игру если мы еще не заходили в игру квиз
 
     console.log(quizGameClass)
     // егорчик помоги
-    quizGameClass?.stopTimer() 
+    quizGameClass?.stopTimer()
     // поставил знак вопроса, чтобу пропускало ошибку
 
 
@@ -196,9 +203,10 @@ function backToTheVeryFirstScreen() {
     scrambledscoreTNTGame = 0
     lifeGameBenderWordOrderGame = 5
     n = -1
-    
 
-    
+
+
+    aNGPattern.classList.remove("show")
     popupMissionsAndSetsDescription.textContent = "👈 choose your mission to practise 👉 / чУз ё мишн ту прЭктис /"
     userSearchesForMission.classList.remove("none")
     popupMissionsAndSetsSets.classList.remove("hide")
@@ -212,7 +220,7 @@ function backToTheVeryFirstScreen() {
     BenderWordOrderGameButton.classList.remove("show")
     startGameTNTbutton.classList.remove("show")
     scrambledstartGameTNTbutton.classList.remove("show")
-    
+
     gameFindAPair.classList.remove("open")
     popupMissionsAndSets.classList.remove("close")
     popupMissionsAndSets.classList.remove("none")
@@ -224,8 +232,8 @@ function backToTheVeryFirstScreen() {
     usedCheatsText.classList.remove("visible")
     clearInterval(TNTtimerMechanics)
     clearInterval(scrambledTNTtimerMechanics)
-   
-    
+
+
     TNTbeforeExplosion = 59
     scrambledTNTbeforeExplosion = 1
     scoreTNTGame = 0
@@ -285,7 +293,7 @@ function backToTheVeryFirstScreen() {
     oneDeckButtonText.classList.remove("visible")
     popupMissionsAndSets.classList.remove("close")
     cardForSpeakingGame.classList.add("hiddenDeck")
-    
+
     // chooseQuestions = chooseQuestions.sort(function () {
     //     return Math.random() - 0.5;
     // });
@@ -294,18 +302,18 @@ function backToTheVeryFirstScreen() {
     cardForSpeakingGame.classList.remove("AnOpenCard")
     cardForSpeakingGame.style.border = 'none';
 
-    
-    
+
+
     mainContainerIntroAnd2games.classList.remove("none")
     gameBender.classList.add("none")
-    
+
     gameTrickyQuiz.classList.add("none")
     body.classList.remove("BenderWordOrderGameBackgroundPicture")
-    
+
     userSearchesForMission.classList.remove("none")
-    
-    
-    
+
+
+
     containerMistakeGameBenderWordOrderGame.classList.remove("show")
     logoSpecial.classList.remove("hidden")
     // userSearchesForMission.value = ""
@@ -334,11 +342,23 @@ function userSearchesForMissionSet() {
 
 
 
+const mainContainerIntroAnd2games = document.querySelector(".mainContainerIntroAnd2games")
+const multipleChoiceQuiz = document.querySelector(".popupMissionsAndSets__multipleChoiceQuiz")
+
+function aNGstart() {
+    mainContainerIntroAnd2games.classList.add("none")
+    gameBender.classList.add("none")
+    aNGcontainer.classList.remove("none")
+    aNGclass = new aNGmechanic({ aNGdata: aNGPatternData[currentSet] })
+    
+}
+aNGPattern.addEventListener("click", aNGstart)
+
+
+
 
 
 // ниже игра quiz test multiple choice ниже игра quiz test multiple choice ниже игра quiz test multiple choice ниже игра quiz test multiple choice
-const mainContainerIntroAnd2games = document.querySelector(".mainContainerIntroAnd2games")
-const multipleChoiceQuiz = document.querySelector(".popupMissionsAndSets__multipleChoiceQuiz")
 
 
 
@@ -500,6 +520,7 @@ function finishGame() {
     multipleChoiceQuiz.classList.remove("show")
     copyThisForNewGames?.classList.remove("show")
     BenderWordOrderGameButton.classList.remove("show")
+    aNGPattern.classList.remove("show")
     linksToHWbutton.classList.remove("show")
     slotMachine.classList.remove("show")
     startGameTNTbutton.classList.remove("show")
@@ -604,7 +625,7 @@ function startTimer() {
     }
     if (seconds > 9) {
         timeSeconds.textContent = seconds;
-        
+
     }
     console.log(timeSeconds.textContent)
 }
@@ -704,31 +725,31 @@ function getquestions() {
         setTimeout(function () { cardForSpeakingGame.classList.add("AnOpenCard") }, 0);
         value = chooseQuestions[questionNumber]
         bottomOfTheCard1Value.classList.remove("Unblur")
-        if (value.eng[0] === "/" ) {
-            
+        if (value.eng[0] === "/") {
+
             // / Создаем элемент img
-        let imgTag = document.createElement("img");
-        // Устанавливаем атрибут src
-        imgTag.src = value.eng;
-        // Очищаем содержимое topOfTheCard1Value, если нужно
-        topOfTheCard1Value.innerHTML = "";
-        // Добавляем imgTag в topOfTheCard1Value
-        topOfTheCard1Value.appendChild(imgTag);
-            
+            let imgTag = document.createElement("img");
+            // Устанавливаем атрибут src
+            imgTag.src = value.eng;
+            // Очищаем содержимое topOfTheCard1Value, если нужно
+            topOfTheCard1Value.innerHTML = "";
+            // Добавляем imgTag в topOfTheCard1Value
+            topOfTheCard1Value.appendChild(imgTag);
+
             // topOfTheCard1Value.textContent = `<img src="${value.eng}">`
-        // let imgTag = document.createElement("img")
-        // topOfTheCard1Value.appendChild(imgTag)
+            // let imgTag = document.createElement("img")
+            // topOfTheCard1Value.appendChild(imgTag)
 
 
         } else {
-        
+
             topOfTheCard1Value.textContent = languageRu ? value.ru : value.eng
         }
         bottomOfTheCard1Value.textContent = languageRu ? value.eng : value.ru
         cardForSpeakingGame.style.border = "solid 4px rgb(123, 207, 255)";
         questionNumber = questionNumber + 1
         oneDeckButtonText.textContent = "Быстро спросили, чётко ответили. Автоматизм практикуем, не тормозим, помогаем друг другу, замечаем и исправляем ошибки напарников"
-        console.log(value.eng[0] === "/"  )
+        console.log(value.eng[0] === "/")
         // console.log(value.ru[0])
         // показывает первый символ элемента массива из строки
     } else {
@@ -1237,7 +1258,7 @@ function startGameTNT() {
     TNTbuttonCompare.classList.remove("none")
     TNTbuttonCompare.classList.remove("none")
     TNTgameButtonStartAgain.classList.add("none")
-    
+
     addEventListener("keyup", handleKeyup)
 }
 
@@ -1441,8 +1462,8 @@ scrambledTNTbuttonCompare.addEventListener("click", scrambledcompareTNTinput)
 // эта функция будет перемешивать буквы и создавать квадратики для каждой буквы
 function scrambleWordFromArray() {
     value = chooseScrambledGame[scrambledtypeOrWriteNumber]
-    
-    
+
+
 }
 
 // сравниваем буквы
@@ -1458,7 +1479,7 @@ function shuffle(array) {
 }
 
 function scrambleWords(scrambledWords) {
-    
+
     // console.log('words',scrambledWords)
     // console.log('splitValue.Eng',value.eng.split(" "))
     // console.log('splitValue.Eng SHUFFLE',value.eng.split(" ").map(word => shuffle(word)))
@@ -1469,7 +1490,7 @@ function scrambleWords(scrambledWords) {
     return scrambledWords.split(" ").map(word => shuffle(word.split("")).join("")).join(" ")
     // так как поставили пробел он разделит не по буквам а по словам
     // разделяет строку на массив split
-    
+
 }
 
 // function devmode() {
@@ -1498,7 +1519,7 @@ function scrambledstartGameTNT() {
     value = chooseScrambledGame[scrambledtypeOrWriteNumber]
     scrambledTNTgameTaskValue.textContent = value.ru
     scrambledTNTgameScrambledPhraseValue.textContent = scrambleWords(value.eng)
-    
+
     // возвращаеем из функции переменшанные значения, которые мы в нее передали
     scrambledTNTgameCounter.classList.add("none")
     usedCheatsText.classList.remove("visible")
@@ -1511,11 +1532,11 @@ function scrambledstartGameTNT() {
     scrambledTNTgameButtonStartAgain.classList.add("none")
     scrambledTNTtimer.classList.add("none")
 
-    
+
     scrambleWordFromArray()
-     
+
     addEventListener("keyup", handleKeyup)
-    
+
 }
 
 function scrambledTNTstartTimer() {
@@ -1530,8 +1551,8 @@ function scrambledTNTstartTimer() {
                 ? Math.trunc(scrambledTNTbeforeExplosion % 60)
                 : '0' + Math.trunc(scrambledTNTbeforeExplosion % 60)}`
 
-                scrambledTNTtimer.textContent = scrambledTNTtimerFormat
-                scrambledTNTbeforeExplosion++
+        scrambledTNTtimer.textContent = scrambledTNTtimerFormat
+        scrambledTNTbeforeExplosion++
     }, 1000) //1000 это одна секунда (в милискунда)
 }
 function scrambledTNTgameover() {
@@ -1606,7 +1627,7 @@ function scrambledtntGameNextWordToTranslate(scrambledTNTgameTaskValue) {
     // TNTgameTaskValue.classList.add("none")
     // TNTgameTaskHint.textContent = `вы перевели:  ${scoreTNTGame} из ${chooseTypeOrWrite.length}`
     scrambledTNTgameCounter.textContent = `распутано слов:  ${scrambledscoreTNTGame} `
-    
+
 }
 
 

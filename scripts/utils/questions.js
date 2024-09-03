@@ -5216,6 +5216,20 @@ const allQuestionsOneDeck = {
             ru: "pets /пЭтс/ питомцы  parrots /пЭротс/ попугаи a lot /э лот/ оч.сильно / кОфи капс / кофейные чашки"
         },
     ],
+    roles2: [
+        {
+            id:1,
+            eng:"Name: Jonathan Bolton Nickname: Johnny Rich Car Number: TYCOON1 Email: jonathan.b@uk.com Car Color: Black Phone Color: Gold Mood: I am awesome today!",
+            ru:"What is your name? What is your nickname? What is your car number? What is your e-mail? What color is your car? What color is your phone? How are you doing?",
+            
+            },
+            {
+                id:2,
+                eng:"Name: Emily Thompson Nickname: Em Spark Car Number: DRIVESTAR9 Email: emily.t@edu.org Car Color: Red Phone Color: Silver Mood: I am okay!",
+                ru:"What is your name? What is your nickname? What is your car number? What is your e-mail? What color is your car? What color is your phone? How are you doing?",
+                
+                },
+    ],
     whenDoYouA: [
         {
             id: 1,
