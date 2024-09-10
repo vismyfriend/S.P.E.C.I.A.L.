@@ -5184,7 +5184,7 @@ const allQuestionsOneDeck = {
             ru: "по воскресеньям",
         },
     ],
-    roles1: [
+    roles2: [
         {
             id: 1,
             eng: "Карточка №1 вЭлэри My name is Valery. My pets are chickens. I like chickens a lot. I love beer very much. I am crazy about beer. I collect beer bottles.",
@@ -5216,7 +5216,7 @@ const allQuestionsOneDeck = {
             ru: "pets /пЭтс/ питомцы  parrots /пЭротс/ попугаи a lot /э лот/ оч.сильно / кОфи капс / кофейные чашки"
         },
     ],
-    roles2: [
+    roles1: [
         {
             id:1,
             eng:"Name: Jonathan Bolton Nickname: Johnny Rich Car Number: TYCOON1 Email: jonathan.b@uk.com Car Color: Black Phone Color: Gold Mood: I am awesome today!",

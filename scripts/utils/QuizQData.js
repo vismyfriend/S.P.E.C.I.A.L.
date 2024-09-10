@@ -8209,6 +8209,424 @@ const quizQuesstionsList = {
             ]
             },
     ],
+    articles0: [
+        {
+            id: 167,
+            quizQuestion: "She is ___ doctor .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "вообще не понимаю!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 168,
+            quizQuestion: "He is ___ teacher .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "че делать-то?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 169,
+            quizQuestion: "Vincent is ___ good friend .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "кто бы знал…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 170,
+            quizQuestion: "It is ___ dog .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "хз…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 171,
+            quizQuestion: "You are ___ student .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "сам отвечай давай",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 172,
+            quizQuestion: "They are ___ cats .",
+            answers: [
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: true
+            },
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "ну приехали…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 173,
+            quizQuestion: "We are ___ friends .",
+            answers: [
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: true
+            },
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "вообще не понимаю!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 174,
+            quizQuestion: "My friend is ___ bad man .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "че делать-то?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 175,
+            quizQuestion: "She is not ___ bad girl .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "кто бы знал…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 176,
+            quizQuestion: "It is ___ black phone .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "хз…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 177,
+            quizQuestion: "It is ___ yellow car .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "сам отвечай давай",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 178,
+            quizQuestion: "It is ___ big collection of money .",
+            answers: [
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: true
+            },
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "ну приехали…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 179,
+            quizQuestion: "People ___ interesting .",
+            answers: [
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: true
+            },
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "вообще не понимаю!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 180,
+            quizQuestion: "These are ___ children .",
+            answers: [
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: true
+            },
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "звонок другу",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 181,
+            quizQuestion: "Pensils ___ gray",
+            answers: [
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: true
+            },
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "памагите, моя не знать",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 182,
+            quizQuestion: "Fiona and Shrek ___ monsters",
+            answers: [
+            {
+            answer: "не нужен никакой артикль, потому что множеств. число",
+            correct: true
+            },
+            {
+            answer: "говорим артикль А   / Э / ( так как единственное число )",
+            correct: false
+            },
+            {
+            answer: "тут наверное АN артикль",
+            correct: false
+            },
+            {
+            answer: "тут наверное THE артикль",
+            correct: false
+            },
+            {
+            answer: "HELP ME VINCENT!",
+            correct: false
+            },
+            ]
+            },
+    ],
     articles01: [
         {
             id: 1,
