@@ -97,6 +97,2118 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    dontordoesnt: [
+        {
+            id: 1,
+            quizQuestion: "A snail  ___  fly",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Bill _____ ride a bike on Tuesday",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Children _____ watch TV very late",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "He  ___  get up at 6 o'clock",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "My teacher  ___  like old films",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "He  ___  like reading",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "I  ___  go to the gym every Friday",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "I  ___  like rock music",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "hates",
+            correct: false
+            },
+            {
+            answer: "enjoys",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "I  ___  play golf",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "I  ___  play the guitar",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "I ____ like balloons",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            {
+            answer: "doesn’t",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "I _____ have dinner at 6 o'clock",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "I don't like ice-cream, and he  ___  like pizza",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "James _____ write e-mails",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Jenny and Peter _____ visit their grandma on Thursday",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "does",
+            correct: false
+            },
+            {
+            answer: "doesn’t",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Jessica and I  ___  go to the museum every week",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Jill ______ like fish soup",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "My dog  ___  like playing with the ball  ",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "My dog _____ eat vegetables",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "My father and my brother ________drive cars",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "My friend and I  _____ drink Coke every day",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "never don't",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "My friends ______ like cakes",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "My mother _______drink much coffee in the evening ",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "My mum _____ drive a car",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "do",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "My sister  ___  listen to music in the evening",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "No, Mary and John  ___  live here",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "Patrick and Tim  ___  watch TV every day",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            {
+            answer: "does",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Robert  ___  finish work at 5 o'clock",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "Sarah  ___  live in London",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Sarah _____ have a music lesson on Wednesday",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "She _______ like fish",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Shelly  ___  drink milk",
+            answers: [
+            {
+            answer: "doesn't",
+            correct: true
+            },
+            {
+            answer: "don't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "They  ___  go to school by bus",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "run",
+            correct: false
+            },
+            {
+            answer: "not",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "They ______ go to school on Saturday and Sunday ",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "We  ___  go to school on Saturday",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "not",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "We ________ play beseball",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "You  ___  drink coffee in the morning",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "You  ___  take a shower every morning",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "You  ___  tidy your room",
+            answers: [
+            {
+            answer: "don't",
+            correct: true
+            },
+            {
+            answer: "doesn't",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 40,
+            quizQuestion: "You and your sister_____ read books",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            {
+            answer: "как это вообще переводится?",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 41,
+            quizQuestion: "0",
+            answers: [
+            {
+            answer: "0",
+            correct: true
+            },
+            {
+            answer: "ошибка",
+            correct: false
+            },
+            {
+            answer: "пропустить пока",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+    ],
+    starlightarticles: [
+        {
+            id: 1,
+            quizQuestion: "Sam used to be ___ actor in the 1970s.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Lady Gaga is ___ popular singer.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Emily needs ___ new table in her room.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "The speed of this train was 210 km ___ hour.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Luis is ___ Chinese man.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "The new neighbour is ___ artist from Novosibirsk.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Sam has ___ dream to be a pilot.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "We listen to ___ Italian CD.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Ben has ___ tablet PC in his school bag.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Oleg is ___ new neighbour.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "There is ___ new English book on the desk.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "She's got ___ curly hair.",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "Simon has got ___ moustache.",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "She is drinking ___ cup of tea.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Sandra is ___ architect.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "The Maasai are ___ tribe.",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "She usually wears ___ heavy earrings.",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "Look! There are ___ mice running.",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "an",
+            correct: false
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "My sister is ___ honest person.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "My son wants to be ___ astronaut.",
+            answers: [
+            {
+            answer: "an",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+    ],
+    onetwenty: [
+        {
+            id: 1,
+quizQuestion: "The Earth has ___ moon.",
+answers: [
+{
+answer: "one",
+correct: true
+},
+{
+answer: "two",
+correct: false
+},
+{
+answer: "three",
+correct: false
+},
+{
+answer: "four",
+correct: false
+},
+{
+answer: "что такое the EARTH ?",
+correct: false
+},
+]
+},
+{
+id: 2,
+quizQuestion: " Mars has ___ moons",
+answers: [
+{
+answer: "two",
+correct: true
+},
+{
+answer: "three",
+correct: false
+},
+{
+answer: "four",
+correct: false
+},
+{
+answer: "five",
+correct: false
+},
+{
+answer: "мне больше нравится SNICKERS",
+correct: false
+},
+]
+},
+{
+id: 3,
+quizQuestion: " There are  ___ colors on simple traffic lights: green, yellow and red",
+answers: [
+{
+answer: "three",
+correct: true
+},
+{
+answer: "four",
+correct: false
+},
+{
+answer: "five",
+correct: false
+},
+{
+answer: "six",
+correct: false
+},
+{
+answer: "это типа светофор?",
+correct: false
+},
+]
+},
+{
+id: 4,
+quizQuestion: " A cat has ___ legs",
+answers: [
+{
+answer: "four",
+correct: true
+},
+{
+answer: "five",
+correct: false
+},
+{
+answer: "six",
+correct: false
+},
+{
+answer: "seven",
+correct: false
+},
+{
+answer: "а у DOGS разве не столько же?",
+correct: false
+},
+]
+},
+{
+id: 5,
+quizQuestion: " There are ___ circles on the Olympic flag",
+answers: [
+{
+answer: "five",
+correct: true
+},
+{
+answer: "six",
+correct: false
+},
+{
+answer: "seven",
+correct: false
+},
+{
+answer: "eight",
+correct: false
+},
+{
+answer: "мне вообще пофиг сколько",
+correct: false
+},
+]
+},
+{
+id: 6,
+quizQuestion: " Insects have ___ legs",
+answers: [
+{
+answer: "six",
+correct: true
+},
+{
+answer: "seven",
+correct: false
+},
+{
+answer: "eight",
+correct: false
+},
+{
+answer: "nine",
+correct: false
+},
+{
+answer: "мне не нравятся насекомые",
+correct: false
+},
+]
+},
+{
+id: 7,
+quizQuestion: " There are ___ days in a week",
+answers: [
+{
+answer: "seven",
+correct: true
+},
+{
+answer: "eight",
+correct: false
+},
+{
+answer: "nine",
+correct: false
+},
+{
+answer: "ten",
+correct: false
+},
+{
+answer: "вторник это TUESDAY - тьюсдэй",
+correct: false
+},
+]
+},
+{
+id: 8,
+quizQuestion: " A spider has ___ legs",
+answers: [
+{
+answer: "eight",
+correct: true
+},
+{
+answer: "nine",
+correct: false
+},
+{
+answer: "ten",
+correct: false
+},
+{
+answer: "eleven",
+correct: false
+},
+{
+answer: "Питер Паркер",
+correct: false
+},
+]
+},
+{
+id: 9,
+quizQuestion: " There are ___ players on a baseball team",
+answers: [
+{
+answer: "nine",
+correct: true
+},
+{
+answer: "ten",
+correct: false
+},
+{
+answer: "eleven",
+correct: false
+},
+{
+answer: "twelve",
+correct: false
+},
+
+
+
+
+]
+},
+{
+id: 10,
+quizQuestion: " There are ___ digits in the world",
+answers: [
+{
+answer: "ten",
+correct: true
+},
+{
+answer: "eleven",
+correct: false
+},
+{
+answer: "twelve",
+correct: false
+},
+{
+answer: "thirteen",
+correct: false
+},
+{
+answer: "дИджитс - это цифры, numbers - числа",
+correct: false
+},
+]
+},
+{
+id: 11,
+quizQuestion: "Vincent's mother's birthday is on the ___ of August",
+answers: [
+{
+answer: "eleven",
+correct: true
+},
+{
+answer: "twelve",
+correct: false
+},
+{
+answer: "thirteen",
+correct: false
+},
+{
+answer: "fourteen",
+correct: false
+},
+{
+answer: "ого! Подстава вопрос!",
+correct: false
+},
+]
+},
+{
+id: 12,
+quizQuestion: " There are ___ months in one year",
+answers: [
+{
+answer: "twelve",
+correct: true
+},
+{
+answer: "twenty",
+correct: false
+},
+
+
+
+
+
+
+
+
+
+
+
+
+]
+},
+{
+id: 13,
+quizQuestion: " A very scary date is Friday, the ___ .",
+answers: [
+{
+answer: "thirteen",
+correct: true
+},
+{
+answer: "Thursday",
+correct: false
+},
+{
+answer: "fifteen",
+correct: false
+},
+{
+answer: "Wednesday",
+correct: false
+},
+{
+answer: "Tuesday",
+correct: false
+},
+]
+},
+{
+id: 14,
+quizQuestion: " There are ___ days in two weeks",
+answers: [
+{
+answer: "fourteen",
+correct: true
+},
+{
+answer: "fifteen",
+correct: false
+},
+{
+answer: "sixteen",
+correct: false
+},
+{
+answer: "twenty",
+correct: false
+},
+
+
+
+
+]
+},
+{
+id: 15,
+quizQuestion: "___ minutes is one quarter of an hour",
+answers: [
+{
+answer: "fifteen",
+correct: true
+},
+{
+answer: "twenty",
+correct: false
+},
+{
+answer: "twenty five",
+correct: false
+},
+{
+answer: "AM - это утро",
+correct: false
+},
+{
+answer: "PM - это вечер",
+correct: false
+},
+]
+},
+{
+id: 16,
+quizQuestion: " The legal driving age in the state of Texas is ___",
+answers: [
+{
+answer: "sixteen",
+correct: true
+},
+{
+answer: "seventeen",
+correct: false
+},
+{
+answer: "eighteen",
+correct: false
+},
+{
+answer: "nineteen",
+correct: false
+},
+{
+answer: "twenty one",
+correct: false
+},
+]
+},
+{
+id: 17,
+quizQuestion: "___ is the answer to the question : What is twenty minus three?",
+answers: [
+{
+answer: "seventeen",
+correct: true
+},
+{
+answer: "eighteen",
+correct: false
+},
+{
+answer: "nineteen",
+correct: false
+},
+{
+answer: "sixteen",
+correct: false
+},
+
+
+
+
+]
+},
+{
+id: 18,
+quizQuestion: "You can buy alcohol after you are ___ in Russia.",
+answers: [
+{
+answer: "eighteen",
+correct: true
+},
+{
+answer: "nineteen",
+correct: false
+},
+{
+answer: "twenty",
+correct: false
+},
+{
+answer: "twenty one",
+correct: false
+},
+
+
+
+
+]
+},
+{
+id: 19,
+quizQuestion: " The age of ___ is the final year, when a person is still a teenager",
+answers: [
+{
+answer: "nineteen",
+correct: true
+},
+{
+answer: "eighteen",
+correct: false
+},
+{
+answer: "sixteen",
+correct: false
+},
+{
+answer: "twenty",
+correct: false
+},
+{
+answer: "twelve",
+correct: false
+},
+]
+},
+{
+id: 20,
+quizQuestion: "Usually people have ___ fingers",
+answers: [
+{
+answer: "twenty",
+correct: true
+},
+{
+answer: "twelve",
+correct: false
+},
+
+
+
+
+
+
+
+
+
+
+
+
+]
+},
+    ],
     testPart1: [
         {
             id: 1,

@@ -6880,12 +6880,12 @@ const allWordsForGameTypeOrWrite = {
             {
             id:139,
             eng:"JOKER",
-            ru:"Джей Оу Кей И А",
+            ru:"Джей Оу Кей И Ар",
             },
             {
             id:140,
             eng:"MINECRAFT",
-            ru:"Эм Ай Эн И Си А Эй Эф Ти",
+            ru:"Эм Ай Эн И Си Ар Эй Эф Ти",
             },
             {
             id:141,
@@ -6910,12 +6910,12 @@ const allWordsForGameTypeOrWrite = {
             {
             id:145,
             eng:"FATHER",
-            ru:"Эф Эй Ти Эйч И А",
+            ru:"Эф Эй Ти Эйч И Ар",
             },
             {
             id:146,
             eng:"MOTHER",
-            ru:"Эм Оу Ти Эйч И А",
+            ru:"Эм Оу Ти Эйч И Ар",
             },
             {
             id:147,
@@ -6940,7 +6940,7 @@ const allWordsForGameTypeOrWrite = {
             {
             id:151,
             eng:"COMPUTER",
-            ru:"Си Оу Эм Пи Ю Ти И А",
+            ru:"Си Оу Эм Пи Ю Ти И Ар",
             },
             {
             id:152,
@@ -6960,12 +6960,12 @@ const allWordsForGameTypeOrWrite = {
             {
             id:155,
             eng:"HAMBURGER",
-            ru:"Эйч Эй Эм Би Ю Ар Джи И А",
+            ru:"Эйч Эй Эм Би Ю Ар Джи И Ар",
             },
             {
             id:156,
             eng:"CHEESEBURGER",
-            ru:"Си Эйч И И Эс И Би Ю Ар джи И А",
+            ru:"Си Эйч И И Эс И Би Ю Ар джи И Ар",
             },
             {
             id:157,
