@@ -27,6 +27,434 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    birthdayquestions: [
+        {
+            id:1,
+            eng:"Are you planning to make a party for your next birthday?",
+            ru:"Ты планируешь устроить вечеринку на следующий день рождения?",
+            
+            },
+            {
+            id:2,
+            eng:"At what age do people stop having big birthday parties?",
+            ru:"В каком возрасте люди перестают устраивать большие вечеринки по случаю дня рождения?",
+            
+            },
+            {
+            id:3,
+            eng:"Can you blow out 50 candles at once?",
+            ru:"Ты можешь задувать 50 свечей одновременно?",
+            
+            },
+            {
+            id:4,
+            eng:"Can you spell the word HAPPINESS ?",
+            ru:"Ты можешь написать или произнести  слово 'счастье' по буквам?",
+            
+            },
+            {
+            id:5,
+            eng:"Did you celebrate anything last month? When are you gonna celebrate something next?",
+            ru:"Ты праздновал что-нибудь в прошлом месяце? Когда ты собираешься что-нибудь праздновать в следующий раз?",
+            
+            },
+            {
+            id:6,
+            eng:"Did you ever forget to send an invitation to someone important?",
+            ru:"Ты когда-нибудь забывал отправить приглашение кому-то важному?",
+            
+            },
+            {
+            id:7,
+            eng:"Did you get a paper invitation or a party? What party was it?",
+            ru:"Ты получил бумажное приглашение на вечеринку? Какая это была вечеринка?",
+            
+            },
+            {
+            id:8,
+            eng:"Did you have a ball at the last party you attended?",
+            ru:"Тебе было весело на последней вечеринке, на которой ты был?",
+            
+            },
+            {
+            id:9,
+            eng:"Did you have some wishes that came true? It means they became real.",
+            ru:"У тебя были желания, которые сбылись? Это значит, что они стали реальностью?",
+            
+            },
+            {
+            id:10,
+            eng:"Did you wish something not for yourself but for another person?",
+            ru:"Ты когда-нибудь загадывал желание не для себя, а для другого человека?",
+            
+            },
+            {
+            id:11,
+            eng:"Do you always eat cake on your birthday, or do you prefer something different?",
+            ru:"Ты всегда ешь торт на день рождения или предпочитаешь что-то другое?",
+            
+            },
+            {
+            id:12,
+            eng:"Do you always make a wish when you blow out birthday candles?",
+            ru:"Ты всегда загадываешь желание, когда задуваешь свечи на торте?",
+            
+            },
+            {
+            id:13,
+            eng:"Do you believe in miracles? Do you believe that wishes can come true?",
+            ru:"Ты веришь в чудеса? Ты веришь, что желания могут сбыться?",
+            
+            },
+            {
+            id:14,
+            eng:"Do you believe people become wiser when they grow older?",
+            ru:"Ты веришь, что люди становятся мудрее, когда стареют?",
+            
+            },
+            {
+            id:15,
+            eng:"Do you blow out candles on your cake, or do you have other traditions maybe?",
+            ru:"Ты задуваешь свечи на торте или у тебя есть другие традиции?",
+            
+            },
+            {
+            id:16,
+            eng:"Do you enjoy giving presents to people? What do you feel when you give somebody a present?",
+            ru:"Тебе нравится дарить подарки людям? Что ты чувствуешь, когда даришь кому-то подарок?",
+            
+            },
+            {
+            id:17,
+            eng:"Do you have a plan to have some fun next weekend?",
+            ru:"У тебя есть планы повеселиться на следующих выходных?",
+            
+            },
+            {
+            id:18,
+            eng:"Do you have a wish that hasn't come true yet?",
+            ru:"У тебя есть желание, которое еще не сбылось?",
+            
+            },
+            {
+            id:19,
+            eng:"Do you like to invite all your friends or just close family to your celebrations?",
+            ru:"Ты любишь приглашать всех своих друзей или только близких родственников на праздники?",
+            
+            },
+            {
+            id:20,
+            eng:"Do you like to invite people to a bar?",
+            ru:"Тебе нравится приглашать людей в бар?",
+            
+            },
+            {
+            id:21,
+            eng:"Do you like when people invite you to go somewhere?",
+            ru:"Тебе нравится, когда тебя приглашают куда-нибудь?",
+            
+            },
+            {
+            id:22,
+            eng:"Do you make wishes for yourself, or do you wish for things for other people?",
+            ru:"Ты загадываешь желания для себя или для других людей?",
+            
+            },
+            {
+            id:23,
+            eng:"Do you prefer to celebrate with a big party or do you prefer to celebrate without a big party?",
+            ru:"Ты предпочитаешь праздновать с большой вечеринкой или без нее?",
+            
+            },
+            {
+            id:24,
+            eng:"Do you prefer to congratulate someone in person face to face or by sending a message or by calling or by video calling?",
+            ru:"Ты предпочитаешь поздравлять кого-то лично или отправлять сообщение/звонить/видеозвонить?",
+            
+            },
+            {
+            id:25,
+            eng:"Do you prefer to spend time together with family or friends on your birthday?",
+            ru:"Ты предпочитаешь проводить время с семьей или с друзьями в свой день рождения?",
+            
+            },
+            {
+            id:26,
+            eng:"Do you remember any wise phrases? Can you tell me one or two?",
+            ru:"Ты помнишь какие-нибудь мудрые фразы? Можешь сказать одну-две?",
+            
+            },
+            {
+            id:27,
+            eng:"Do you still send paper invitations for parties, or do you use social media?",
+            ru:"Ты до сих пор отправляешь бумажные приглашения на вечеринки или используешь социальные сети?",
+            
+            },
+            {
+            id:28,
+            eng:"Do you think age affects how people celebrate birthdays?",
+            ru:"Ты думаешь, возраст влияет на то, как люди празднуют дни рождения?",
+            
+            },
+            {
+            id:29,
+            eng:"Do you think age is just a number, or does it affect how we live?",
+            ru:"Ты считаешь, что возраст — это просто число или это влияет на то, как мы живем?",
+            
+            },
+            {
+            id:30,
+            eng:"Do you think people change when they become older?",
+            ru:"Ты думаешь, люди меняются, когда становятся старше?",
+            
+            },
+            {
+            id:31,
+            eng:"How can we help young people become wiser?",
+            ru:"Как мы можем помочь молодым людям стать мудрее?",
+            
+            },
+            {
+            id:32,
+            eng:"How did you spend your last Saturday and Sunday? What did you do?",
+            ru:"Как ты провел прошлую субботу и воскресенье? Что ты делал?",
+            
+            },
+            {
+            id:33,
+            eng:"How do you choose what presents to give to someone?",
+            ru:"Как ты выбираешь подарки для кого-то?",
+            
+            },
+            {
+            id:34,
+            eng:"How do you feel about becoming older each year?",
+            ru:"Как ты относишься к тому, что с каждым годом становишься старше?",
+            
+            },
+            {
+            id:35,
+            eng:"How do you have fun? What do you do to have fun?",
+            ru:"Как ты развлекаешься? Что ты делаешь, чтобы повеселиться?",
+            
+            },
+            {
+            id:36,
+            eng:"How do you like to spend time together with your friends during holidays?",
+            ru:"Как тебе нравится проводить время с друзьями на праздниках?",
+            
+            },
+            {
+            id:37,
+            eng:"How do you usually congratulate somebody on their birthday?",
+            ru:"Как ты обычно поздравляешь кого-то с днём рождения?",
+            
+            },
+            {
+            id:38,
+            eng:"How many birthdays did you not celebrate? (some people really don't celebrate birthdays at all)",
+            ru:"Сколько дней рождений ты не праздновал? (некоторые люди совсем не отмечают дни рождения)",
+            
+            },
+            {
+            id:39,
+            eng:"How many candles did you blow out on your last birthday?",
+            ru:"Сколько свечей ты задул на свой последний день рождения?",
+            
+            },
+            {
+            id:40,
+            eng:"How many people do you usually invite to your birthday party?",
+            ru:"Сколько людей ты обычно приглашаешь на свой день рождения?",
+            
+            },
+            {
+            id:41,
+            eng:"How much cake can you eat before you feel full? Do you have a sweet tooth?",
+            ru:"Сколько торта ты можешь съесть, прежде чем почувствуешь сытость? Ты сладкоежка?",
+            
+            },
+            {
+            id:42,
+            eng:"How much time do you need to make a party that everyone will enjoy?",
+            ru:"Сколько времени тебе нужно, чтобы устроить вечеринку, которая понравится всем?",
+            
+            },
+            {
+            id:43,
+            eng:"How often do you have fun?",
+            ru:"Как часто ты веселишься?",
+            
+            },
+            {
+            id:44,
+            eng:"How old are you? Do you feel young or old?",
+            ru:"Сколько тебе лет? Ты чувствуешь себя молодым или старым?",
+            
+            },
+            {
+            id:45,
+            eng:"If Vincent invites you to have fun. Do you agree to go?",
+            ru:"Если Винсент пригласит тебя повеселиться, ты согласишься пойти?",
+            
+            },
+            {
+            id:46,
+            eng:"If Vincent's birthday party is on the 21st of February. When should he send invitations? How many days before?",
+            ru:"Если вечеринка Винсента будет 21 февраля, когда он должен отправить приглашения? За сколько дней?",
+            
+            },
+            {
+            id:47,
+            eng:"Let's create a creative wish together. Not only love, health and happiness",
+            ru:"Давай придумаем оригинальное пожелание вместе. Не только любовь, здоровье и счастье.",
+            
+            },
+            {
+            id:48,
+            eng:"My congratulations! I congratulate you! I am reading this sentence and you understand me. Do you understand my English? If YES - I congratulate you and myself ",
+            ru:"Мои поздравления! Я поздравляю тебя! Я читаю это предложение, и ты понимаешь меня. Ты понимаешь мой английский? Если да – поздравляю тебя и себя!",
+            
+            },
+            {
+            id:49,
+            eng:"Should children say about their birthday wishes to their parents?",
+            ru:"Должны ли дети рассказывать родителям о своих желаниях на день рождения?",
+            
+            },
+            {
+            id:50,
+            eng:"Should people tell about their wishes, or should they keep wishes in secret?",
+            ru:"Должны ли люди рассказывать о своих желаниях или держать их в секрете?",
+            
+            },
+            {
+            id:51,
+            eng:"Tell about a present that you didn’t like. Who gave it to you? When was it? What was it?",
+            ru:"Расскажи о подарке, который тебе не понравился. Кто его подарил? Когда это было? Что это было?",
+            
+            },
+            {
+            id:52,
+            eng:"Tell me about one of your wishes. Can you do it? ",
+            ru:"Расскажи о своем желании. Ты можешь это сделать?",
+            
+            },
+            {
+            id:53,
+            eng:"What do people usually wish you on your birthday?",
+            ru:"Что тебе обычно желают на день рождения?",
+            
+            },
+            {
+            id:54,
+            eng:"What do you like about becoming older?",
+            ru:"Что тебе нравится в том, что ты становишься старше?",
+            
+            },
+            {
+            id:55,
+            eng:"What do you usually wish somebody for their birthdays?",
+            ru:"Что ты обычно желаешь кому-то на день рождения?",
+            
+            },
+            {
+            id:56,
+            eng:"What is the best age? Your personal opinion.",
+            ru:"Какой возраст самый лучший, по твоему мнению?",
+            
+            },
+            {
+            id:57,
+            eng:"What is your favorite type of cake? Do you know the name of it? Ingridients?",
+            ru:"Какой твой любимый торт? Ты знаешь его название? Ингредиенты?",
+            
+            },
+            {
+            id:58,
+            eng:"What is your favorite way to spend time together with your loved ones?",
+            ru:"Какой твой любимый способ проводить время с близкими?",
+            
+            },
+            {
+            id:59,
+            eng:"What kind of events do you imagine when somebody says : I want to have a ball!",
+            ru:"О каких событиях ты думаешь, когда кто-то говорит: «Я хочу повеселиться!»?",
+            
+            },
+            {
+            id:60,
+            eng:"What kind of presents do you like to get on your birthday? Do you make a wish list?",
+            ru:"Какие подарки тебе нравится получать на день рождения? Ты составляешь список желаний?",
+            
+            },
+            {
+            id:61,
+            eng:"What life experiences have helped you become wiser?",
+            ru:"Какие жизненные события помогли тебе стать мудрее?",
+            
+            },
+            {
+            id:62,
+            eng:"What presents do you NOT want to get? (What don't you like to get as presents?)",
+            ru:"Какие подарки ты НЕ хочешь получать? (Какие подарки тебе не нравятся?)",
+            
+            },
+            {
+            id:63,
+            eng:"What’s the first thing you do when you decide to make a party?",
+            ru:"Что ты делаешь в первую очередь, когда решаешь устроить вечеринку?",
+            
+            },
+            {
+            id:64,
+            eng:"When did you invite somebody to go anywhere?",
+            ru:"Когда ты в последний раз кого-то приглашал куда-то пойти?",
+            
+            },
+            {
+            id:65,
+            eng:"When was the last time you gave a really special present to someone? Who was it? What was the present?",
+            ru:"Когда в последний раз ты дарил кому-то по-настоящему особенный подарок? Кому? Что это был за подарок?",
+            
+            },
+            {
+            id:66,
+            eng:"When was the last time you really had a ball with your friends?",
+            ru:"Когда в последний раз ты по-настоящему весело провел время с друзьями?",
+            
+            },
+            {
+            id:67,
+            eng:"Where can people see candles? Name 3 situations",
+            ru:"Где люди могут видеть свечи? Назови 3 ситуации.",
+            
+            },
+            {
+            id:68,
+            eng:"Where does Vincent like to have fun?",
+            ru:"Где Винсент любит веселиться?",
+            
+            },
+            {
+            id:69,
+            eng:"Who is or who was the wisest person that you know or knew?",
+            ru:"Кто самый мудрый человек, которого ты знаешь или знал?",
+            
+            },
+            {
+            id:70,
+            eng:"Who is the first person you always invite to your birthday?",
+            ru:"Кого ты всегда первым приглашаешь на свой день рождения?",
+            
+            },
+            {
+            id:71,
+            eng:"Why do we often wish happiness, health, and love for someone on their birthday?",
+            ru:"Почему мы часто желаем счастья, здоровья и любви кому-то на день рождения?",
+            
+            },
+    ],
    
     questions010: [
         {
