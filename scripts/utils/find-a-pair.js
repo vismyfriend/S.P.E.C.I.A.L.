@@ -2453,7 +2453,7 @@ const allCardsGameFindAPair = {
             ru:"/ ЗИ и ZЭД /"
             },
     ],
-    alphabetb2: [
+    alphabetc1: [
         {
             id:27,
             eng:"H and M",

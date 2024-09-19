@@ -27,6 +27,988 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    onehundredtwenty: [
+        {
+            id:101,
+            eng:" 0",
+            ru:"zero",
+            
+            },
+            {
+            id:102,
+            eng:"1",
+            ru:"one",
+            
+            },
+            {
+            id:103,
+            eng:"2",
+            ru:"two",
+            
+            },
+            {
+            id:104,
+            eng:"3",
+            ru:"three",
+            
+            },
+            {
+            id:105,
+            eng:"4",
+            ru:"four",
+            
+            },
+            {
+            id:106,
+            eng:"5",
+            ru:"five",
+            
+            },
+            {
+            id:107,
+            eng:"6",
+            ru:"six",
+            
+            },
+            {
+            id:108,
+            eng:"7",
+            ru:"seven",
+            
+            },
+            {
+            id:109,
+            eng:"8",
+            ru:"eight",
+            
+            },
+            {
+            id:110,
+            eng:"9",
+            ru:"nine",
+            
+            },
+            {
+            id:111,
+            eng:"10",
+            ru:"ten",
+            
+            },
+            {
+            id:112,
+            eng:"11",
+            ru:"eleven",
+            
+            },
+            {
+            id:113,
+            eng:"12",
+            ru:"twelve",
+            
+            },
+            {
+            id:114,
+            eng:"13",
+            ru:"thirteen",
+            
+            },
+            {
+            id:115,
+            eng:"14",
+            ru:"fourteen",
+            
+            },
+            {
+            id:116,
+            eng:"15",
+            ru:"fifteen",
+            
+            },
+            {
+            id:117,
+            eng:"16",
+            ru:"sixteen",
+            
+            },
+            {
+            id:118,
+            eng:"17",
+            ru:"seventeen",
+            
+            },
+            {
+            id:119,
+            eng:"18",
+            ru:"eighteen",
+            
+            },
+            {
+            id:120,
+            eng:"19",
+            ru:"nineteen",
+            
+            },
+            {
+            id:121,
+            eng:"20",
+            ru:"twenty",
+            
+            },
+            {
+            id:122,
+            eng:"21",
+            ru:"twenty-one",
+            
+            },
+            {
+            id:123,
+            eng:"22",
+            ru:"twenty-two",
+            
+            },
+            {
+            id:124,
+            eng:"23",
+            ru:"twenty-three",
+            
+            },
+            {
+            id:125,
+            eng:"24",
+            ru:"twenty-four",
+            
+            },
+            {
+            id:126,
+            eng:"25",
+            ru:"twenty-five",
+            
+            },
+            {
+            id:127,
+            eng:"26",
+            ru:"twenty-six",
+            
+            },
+            {
+            id:128,
+            eng:"27",
+            ru:"twenty-seven",
+            
+            },
+            {
+            id:129,
+            eng:"28",
+            ru:"twenty-eight",
+            
+            },
+            {
+            id:130,
+            eng:"29",
+            ru:"twenty-nine",
+            
+            },
+            {
+            id:131,
+            eng:"30",
+            ru:"thirty",
+            
+            },
+            {
+            id:132,
+            eng:"31",
+            ru:"thirty-one",
+            
+            },
+            {
+            id:133,
+            eng:"32",
+            ru:"thirty-two",
+            
+            },
+            {
+            id:134,
+            eng:"33",
+            ru:"thirty-three",
+            
+            },
+            {
+            id:135,
+            eng:"34",
+            ru:"thirty-four",
+            
+            },
+            {
+            id:136,
+            eng:"35",
+            ru:"thirty-five",
+            
+            },
+            {
+            id:137,
+            eng:"36",
+            ru:"thirty-six",
+            
+            },
+            {
+            id:138,
+            eng:"37",
+            ru:"thirty-seven",
+            
+            },
+            {
+            id:139,
+            eng:"38",
+            ru:"thirty-eight",
+            
+            },
+            {
+            id:140,
+            eng:"39",
+            ru:"thirty-nine",
+            
+            },
+            {
+            id:141,
+            eng:"40",
+            ru:"forty",
+            
+            },
+            {
+            id:142,
+            eng:"41",
+            ru:"forty-one",
+            
+            },
+            {
+            id:143,
+            eng:"42",
+            ru:"forty-two",
+            
+            },
+            {
+            id:144,
+            eng:"43",
+            ru:"forty-three",
+            
+            },
+            {
+            id:145,
+            eng:"44",
+            ru:"forty-four",
+            
+            },
+            {
+            id:146,
+            eng:"45",
+            ru:"forty-five",
+            
+            },
+            {
+            id:147,
+            eng:"46",
+            ru:"forty-six",
+            
+            },
+            {
+            id:148,
+            eng:"47",
+            ru:"forty-seven",
+            
+            },
+            {
+            id:149,
+            eng:"48",
+            ru:"forty-eight",
+            
+            },
+            {
+            id:150,
+            eng:"49",
+            ru:"forty-nine",
+            
+            },
+            {
+            id:151,
+            eng:"50",
+            ru:"fifty",
+            
+            },
+            {
+            id:152,
+            eng:"51",
+            ru:"fifty-one",
+            
+            },
+            {
+            id:153,
+            eng:"52",
+            ru:"fifty-two",
+            
+            },
+            {
+            id:154,
+            eng:"53",
+            ru:"fifty-three",
+            
+            },
+            {
+            id:155,
+            eng:"54",
+            ru:"fifty-four",
+            
+            },
+            {
+            id:156,
+            eng:"55",
+            ru:"fifty-five",
+            
+            },
+            {
+            id:157,
+            eng:"56",
+            ru:"fifty-six",
+            
+            },
+            {
+            id:158,
+            eng:"57",
+            ru:"fifty-seven",
+            
+            },
+            {
+            id:159,
+            eng:"58",
+            ru:"fifty-eight",
+            
+            },
+            {
+            id:160,
+            eng:"59",
+            ru:"fifty-nine",
+            
+            },
+            {
+            id:161,
+            eng:"60",
+            ru:"sixty",
+            
+            },
+            {
+            id:162,
+            eng:"61",
+            ru:"sixty-one",
+            
+            },
+            {
+            id:163,
+            eng:"62",
+            ru:"sixty-two",
+            
+            },
+            {
+            id:164,
+            eng:"63",
+            ru:"sixty-three",
+            
+            },
+            {
+            id:165,
+            eng:"64",
+            ru:"sixty-four",
+            
+            },
+            {
+            id:166,
+            eng:"65",
+            ru:"sixty-five",
+            
+            },
+            {
+            id:167,
+            eng:"66",
+            ru:"sixty-six",
+            
+            },
+            {
+            id:168,
+            eng:"67",
+            ru:"sixty-seven",
+            
+            },
+            {
+            id:169,
+            eng:"68",
+            ru:"sixty-eight",
+            
+            },
+            {
+            id:170,
+            eng:"69",
+            ru:"sixty-nine",
+            
+            },
+            {
+            id:171,
+            eng:"70",
+            ru:"seventy",
+            
+            },
+            {
+            id:172,
+            eng:"71",
+            ru:"seventy-one",
+            
+            },
+            {
+            id:173,
+            eng:"72",
+            ru:"seventy-two",
+            
+            },
+            {
+            id:174,
+            eng:"73",
+            ru:"seventy-three",
+            
+            },
+            {
+            id:175,
+            eng:"74",
+            ru:"seventy-four",
+            
+            },
+            {
+            id:176,
+            eng:"75",
+            ru:"seventy-five",
+            
+            },
+            {
+            id:177,
+            eng:"76",
+            ru:"seventy-six",
+            
+            },
+            {
+            id:178,
+            eng:"77",
+            ru:"seventy-seven",
+            
+            },
+            {
+            id:179,
+            eng:"78",
+            ru:"seventy-eight",
+            
+            },
+            {
+            id:180,
+            eng:"79",
+            ru:"seventy-nine",
+            
+            },
+            {
+            id:181,
+            eng:"80",
+            ru:"eighty",
+            
+            },
+            {
+            id:182,
+            eng:"81",
+            ru:"eighty-one",
+            
+            },
+            {
+            id:183,
+            eng:"82",
+            ru:"eighty-two",
+            
+            },
+            {
+            id:184,
+            eng:"83",
+            ru:"eighty-three",
+            
+            },
+            {
+            id:185,
+            eng:"84",
+            ru:"eighty-four",
+            
+            },
+            {
+            id:186,
+            eng:"85",
+            ru:"eighty-five",
+            
+            },
+            {
+            id:187,
+            eng:"86",
+            ru:"eighty-six",
+            
+            },
+            {
+            id:188,
+            eng:"87",
+            ru:"eighty-seven",
+            
+            },
+            {
+            id:189,
+            eng:"88",
+            ru:"eighty-eight",
+            
+            },
+            {
+            id:190,
+            eng:"89",
+            ru:"eighty-nine",
+            
+            },
+            {
+            id:191,
+            eng:"90",
+            ru:"ninety",
+            
+            },
+            {
+            id:192,
+            eng:"91",
+            ru:"ninety-one",
+            
+            },
+            {
+            id:193,
+            eng:"92",
+            ru:"ninety-two",
+            
+            },
+            {
+            id:194,
+            eng:"93",
+            ru:"ninety-three",
+            
+            },
+            {
+            id:195,
+            eng:"94",
+            ru:"ninety-four",
+            
+            },
+            {
+            id:196,
+            eng:"95",
+            ru:"ninety-five",
+            
+            },
+            {
+            id:197,
+            eng:"96",
+            ru:"ninety-six",
+            
+            },
+            {
+            id:198,
+            eng:"97",
+            ru:"ninety-seven",
+            
+            },
+            {
+            id:199,
+            eng:"98",
+            ru:"ninety-eight",
+            
+            },
+            {
+            id:200,
+            eng:"99",
+            ru:"ninety-nine",
+            
+            },
+            {
+            id:201,
+            eng:"100",
+            ru:" one hundred",
+            
+            },
+            {
+            id:202,
+            eng:"101",
+            ru:" one hundred one",
+            
+            },
+            {
+            id:203,
+            eng:"102",
+            ru:" one hundred two",
+            
+            },
+            {
+            id:204,
+            eng:"103",
+            ru:" one hundred three",
+            
+            },
+            {
+            id:205,
+            eng:"104",
+            ru:" one hundred four",
+            
+            },
+            {
+            id:206,
+            eng:"105",
+            ru:" one hundred five",
+            
+            },
+            {
+            id:207,
+            eng:"106",
+            ru:" one hundred six",
+            
+            },
+            {
+            id:208,
+            eng:"107",
+            ru:" one hundred seven",
+            
+            },
+            {
+            id:209,
+            eng:"108",
+            ru:" one hundred eight",
+            
+            },
+            {
+            id:210,
+            eng:"109",
+            ru:" one hundred nine",
+            
+            },
+            {
+            id:211,
+            eng:"110",
+            ru:" one hundred ten",
+            
+            },
+            {
+            id:212,
+            eng:"111",
+            ru:" one hundred eleven",
+            
+            },
+            {
+            id:213,
+            eng:"112",
+            ru:" one hundred twelve",
+            
+            },
+            {
+            id:214,
+            eng:"113",
+            ru:" one hundred thirteen",
+            
+            },
+            {
+            id:215,
+            eng:"114",
+            ru:" one hundred fourteen",
+            
+            },
+            {
+            id:216,
+            eng:"115",
+            ru:" one hundred fifteen",
+            
+            },
+            {
+            id:217,
+            eng:"116",
+            ru:" one hundred sixteen",
+            
+            },
+            {
+            id:218,
+            eng:"117",
+            ru:" one hundred seventeen",
+            
+            },
+            {
+            id:219,
+            eng:"118",
+            ru:" one hundred eighteen",
+            
+            },
+            {
+            id:220,
+            eng:"119",
+            ru:" one hundred nineteen",
+            
+            },
+            {
+            id:221,
+            eng:"120",
+            ru:" one hundred twenty",
+            
+            },
+            {
+            id:222,
+            eng:"121",
+            ru:" one hundred twenty",
+            
+            },
+            {
+            id:223,
+            eng:"122",
+            ru:" one hundred twenty",
+            
+            },
+    ],
+    yesno: [
+        {
+            id:1,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:2,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:3,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:4,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:5,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:6,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:7,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:8,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:9,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:10,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:11,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:12,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:13,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:14,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:15,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:16,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:17,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:18,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:19,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:20,
+            eng:"Скажи полный ответ : YES ,  …   …   …  .",
+            ru:"Yes , КТО + глагол + остальное",
+            
+            },
+            {
+            id:21,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:22,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:23,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:24,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:25,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:26,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:27,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:28,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:29,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:30,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:31,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:32,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:33,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:34,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:35,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:36,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:37,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:38,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:39,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+            {
+            id:40,
+            eng:"Скажи полный ответ : NO ,  …   …   …  .",
+            ru:"КТО + глагол + NOT + остальное",
+            
+            },
+    ],
     birthdayquestions: [
         {
             id:1,
@@ -16552,7 +17534,7 @@ const allQuestionsOneDeck = {
             ru: "минус",
         },
     ],
-    alphabetb2: [
+    alphabetc1: [
         {
             id: 1,
             eng: "Скажи 2 любых английских слова, в которых первая буква : ` / эй / `",

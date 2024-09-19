@@ -97,6 +97,268 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    read1: [
+        {
+            id: 1,
+            quizQuestion: "Как произносится READ ? Как читается глагол: ЧИТАТЬ?",
+            answers: [
+            {
+            answer: "РИД",
+            correct: true
+            },
+            {
+            answer: "РЕАД",
+            correct: false
+            },
+            {
+            answer: "РИИИД",
+            correct: false
+            },
+            {
+            answer: "РИТ",
+            correct: false
+            },
+            {
+            answer: "не знаю",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Как произносится COLLECT ? Как читается глагол СОБИРАТЬ, КОЛЛЕКЦИОНИРОВАТЬ?",
+            answers: [
+            {
+            answer: "КОЛЭКТ",
+            correct: true
+            },
+            {
+            answer: "КОЛЭКШЭН",
+            correct: false
+            },
+            {
+            answer: "КОЛЕКТ",
+            correct: false
+            },
+            {
+            answer: "КОЛИКТ",
+            correct: false
+            },
+            {
+            answer: "не знаю",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Как произносится MY ? Как читается мой, моя, моё, мои?",
+            answers: [
+            {
+            answer: "МАЙ",
+            correct: true
+            },
+            {
+            answer: "МИ",
+            correct: false
+            },
+            {
+            answer: "МУ",
+            correct: false
+            },
+            {
+            answer: "МО",
+            correct: false
+            },
+            {
+            answer: "не знаю",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Как произносится YOUR ? Как читается слово твой, ваш, твои, ваши, ваше, твоё?",
+            answers: [
+            {
+            answer: "ЁР",
+            correct: true
+            },
+            {
+            answer: "ЁУ",
+            correct: false
+            },
+            {
+            answer: "Ю",
+            correct: false
+            },
+            {
+            answer: "ЮР",
+            correct: false
+            },
+            {
+            answer: "ЙОООУР",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Как произносится ENGLISH ? Как это читается?",
+            answers: [
+            {
+            answer: "ИНГЛИШ",
+            correct: true
+            },
+            {
+            answer: "ЭНГЛИШ",
+            correct: false
+            },
+            {
+            answer: "ЕНГЛИШ",
+            correct: false
+            },
+            {
+            answer: "ИНГЛИИИИШ",
+            correct: false
+            },
+            {
+            answer: "ИНГЛИЭЙЧ",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Как произносится NAME ? Как читается слово ИМЯ?",
+            answers: [
+            {
+            answer: "НЭЙМ",
+            correct: true
+            },
+            {
+            answer: "НЕЙМ",
+            correct: false
+            },
+            {
+            answer: "НАМЕ",
+            correct: false
+            },
+            {
+            answer: "НАМИ",
+            correct: false
+            },
+            {
+            answer: "НАМЭ",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Как произносится LOVE ? Как читается слово ЛЮБОВЬ?",
+            answers: [
+            {
+            answer: "ЛАВ",
+            correct: true
+            },
+            {
+            answer: "ЛОВ",
+            correct: false
+            },
+            {
+            answer: "ЛОВЭ",
+            correct: false
+            },
+            {
+            answer: "ЛОВЕ",
+            correct: false
+            },
+            {
+            answer: "ЛАВЭ",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Как произносится MONEY ? Как читается слово ДЕНЬГИ?",
+            answers: [
+            {
+            answer: "МАНИ",
+            correct: true
+            },
+            {
+            answer: "МОНЕЙ",
+            correct: false
+            },
+            {
+            answer: "МЭНИ",
+            correct: false
+            },
+            {
+            answer: "МАНИЙ",
+            correct: false
+            },
+            {
+            answer: "МАНЭЙ",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Как произносится это слово HELLO ? Как читается слово ЗДРАВСТВУЙТЕ?",
+            answers: [
+            {
+            answer: "ХЭЛОУ",
+            correct: true
+            },
+            {
+            answer: "ХАЙ",
+            correct: false
+            },
+            {
+            answer: "ХЕЛОУ",
+            correct: false
+            },
+            {
+            answer: "ХЕЛО",
+            correct: false
+            },
+            {
+            answer: "ХАЛО",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "кудА стАвится ударЕние в Этом слОве? VINCENT",
+            answers: [
+            {
+            answer: "вИнсэнт",
+            correct: true
+            },
+            {
+            answer: "винсЭнт",
+            correct: false
+            },
+            {
+            answer: "вИнстон",
+            correct: false
+            },
+            {
+            answer: "винсАн",
+            correct: false
+            },
+            {
+            answer: "винсЕнт",
+            correct: false
+            },
+            ]
+            },
+    ],
     dontordoesnt: [
         {
             id: 1,
@@ -5386,7 +5648,7 @@ correct: false
     areamis0: [
         {
             id: 1,
-            quizQuestion: "You ___ agents.",
+            quizQuestion: "You ___ agents. /Эйджэнтс/",
             answers: [
             {
             answer: "are",
@@ -5400,6 +5662,14 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5418,6 +5688,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5436,6 +5714,14 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5454,6 +5740,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5472,6 +5766,14 @@ correct: false
             answer: "am",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5490,6 +5792,14 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5508,6 +5818,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5526,6 +5844,14 @@ correct: false
             answer: "am",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5544,6 +5870,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5562,6 +5896,14 @@ correct: false
             answer: "am",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5580,6 +5922,14 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5598,6 +5948,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5616,6 +5974,14 @@ correct: false
             answer: "am",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5634,6 +6000,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5652,6 +6026,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5670,6 +6052,14 @@ correct: false
             answer: "am",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5688,6 +6078,14 @@ correct: false
             answer: "am",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5706,6 +6104,14 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5724,6 +6130,14 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5768,6 +6182,14 @@ correct: false
             answer: "быть, буду, есть",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5786,6 +6208,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5804,6 +6234,14 @@ correct: false
             answer: "are",
             correct: false
             },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
             {
@@ -5826,6 +6264,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -5842,6 +6284,690 @@ correct: false
             },
             {
             answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "Dollars ___ green",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "Компьютер ___ черный",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "это расизм!",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "Принцесса ___ красивая",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "нет, она страшная!",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "Собаки ____ красивые",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Фиона и Шрек ___ из мультиков",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "cartoons /картУнз/",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "Это ___ онлайн",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Уроки ___ интересные",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "вИнсент ___ мой училка",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "ха-ха училка!",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "учителя ___ скучные",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "boring",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "мои тетради ___ аккуратные",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "neat /нит/ опрятный, аккуратный",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "они ___ мои лучшие друзья",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "best friends",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 37,
+            quizQuestion: "Ross and Phoebe ___ friends",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 38,
+            quizQuestion: "Баскетбол ___ хороший спорт",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 39,
+            quizQuestion: "Boxing ___ a very good sport",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 40,
+            quizQuestion: "Сальса ___ быстрый танец",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "salsa",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 41,
+            quizQuestion: "Bachata ___ not a fast dance",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 42,
+            quizQuestion: "Медведи ___ большие животные",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "БЭАРЗ - медведи",
+            correct: false
+            },
+            {
+            answer: "БИР - пиво",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 43,
+            quizQuestion: "Эти задания ___ легкие",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "easy / изи / лёгкий",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 44,
+            quizQuestion: "My homework ___ easy",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 45,
+            quizQuestion: "Where ___ you ?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "Где ты?  тут ничего не нужно",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 46,
+            quizQuestion: "Какое ___ ваше имя?",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "не знаю",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 47,
+            quizQuestion: "Какого цвета ___ ваши глаза?",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "глаза / АЙЗ / eyes",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 48,
+            quizQuestion: "Мои руки ___ сильные.",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "strong",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 49,
+            quizQuestion: "Её ноги ___ длинные.",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "her legs",
+            correct: false
+            },
+            {
+            answer: "long",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 50,
+            quizQuestion: "Я ___ не ленивый.",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "/ лЭйзи / ленивый",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 51,
+            quizQuestion: "Я ___ сообразительная",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "smart - сообразительный",
+            correct: false
+            },
+            {
+            answer: "clever - умный",
             correct: false
             },
             ]
@@ -5865,9 +6991,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -5887,9 +7017,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -5897,7 +7031,7 @@ correct: false
             quizQuestion: "I ___ collect money ( деньги )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -5912,18 +7046,22 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
             id: 4,
-            quizQuestion: "My collection of money ___ not very big yet",
+            quizQuestion: "I ___ fat /фэт/",
             answers: [
             {
-            answer: "is",
+            answer: "am",
             correct: true
             },
             {
-            answer: "am",
+            answer: "is",
             correct: false
             },
             {
@@ -5931,9 +7069,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -5941,7 +7083,7 @@ correct: false
             quizQuestion: "They ___ collect magnets ( магниты )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -5956,6 +7098,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -5975,9 +7121,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -5997,9 +7147,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6007,7 +7161,7 @@ correct: false
             quizQuestion: "I ___ like Vincent ( мне нравится Винсент )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -6022,6 +7176,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6041,9 +7199,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6051,7 +7213,7 @@ correct: false
             quizQuestion: "They ___ help you ( они помогают тебе )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -6066,6 +7228,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6085,9 +7251,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6107,9 +7277,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6117,7 +7291,7 @@ correct: false
             quizQuestion: "She ___ loves English ( она любит английский )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -6132,6 +7306,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6151,9 +7329,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6173,9 +7355,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6183,7 +7369,7 @@ correct: false
             quizQuestion: "He ___ plays games ( он играет в игры )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -6198,6 +7384,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6205,7 +7395,7 @@ correct: false
             quizQuestion: "We ___ speak Russian and English ( мы говорим на русском и на английском )",
             answers: [
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: true
             },
             {
@@ -6220,6 +7410,10 @@ correct: false
             answer: "is",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6239,9 +7433,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6261,9 +7459,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6335,9 +7537,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6357,9 +7563,13 @@ correct: false
             correct: false
             },
             {
-            answer: "nothing (ничего)",
+            answer: "nothing (ничего) есть глагол",
             correct: false
             },
+            
+            
+            
+            
             ]
             },
             {
@@ -6380,6 +7590,322 @@ correct: false
             },
             {
             answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 25,
+            quizQuestion: "You ___ study English",
+            answers: [
+            {
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "/ стади / учить",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 26,
+            quizQuestion: "You ___ a good friend",
+            answers: [
+            {
+            answer: "are",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего) есть глагол",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 27,
+            quizQuestion: "Your cat ___ ugly /агли /",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 28,
+            quizQuestion: "I ___ collect money ( деньги )",
+            answers: [
+            {
+            answer: "nothing (ничего)",
+            correct: true
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 29,
+            quizQuestion: "У нас кошка и собака",
+            answers: [
+            {
+            answer: "we have a cat and a dog",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "непонятно!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 30,
+            quizQuestion: "Мне нравится это задание",
+            answers: [
+            {
+            answer: "I like this task",
+            correct: true
+            },
+            {
+            answer: "а как будет задание?",
+            correct: false
+            },
+            {
+            answer: "нравится это глагол?",
+            correct: false
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 31,
+            quizQuestion: "Откуда ты?",
+            answers: [
+            {
+            answer: "Where are you from?",
+            correct: true
+            },
+            {
+            answer: "Where do you from?",
+            correct: false
+            },
+            {
+            answer: "Where is you from?",
+            correct: false
+            },
+            {
+            answer: "Where does you from?",
+            correct: false
+            },
+            {
+            answer: "не знаю, запутанно капец!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 32,
+            quizQuestion: "Я классный",
+            answers: [
+            {
+            answer: "am",
+            correct: true
+            },
+            {
+            answer: "is",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "nothing (ничего) есть глагол",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 33,
+            quizQuestion: "Мы классные",
+            answers: [
+            {
+            answer: "is",
+            correct: true
+            },
+            {
+            answer: "am",
+            correct: false
+            },
+            {
+            answer: "are",
+            correct: false
+            },
+            {
+            answer: "тут уже есть глагол и не надо ARE,AM,IS",
+            correct: false
+            },
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 34,
+            quizQuestion: "Она супер",
+            answers: [
+            {
+            answer: "She's super",
+            correct: true
+            },
+            {
+            answer: "Кто она?",
+            correct: false
+            },
+            {
+            answer: "Почему она супер?",
+            correct: false
+            },
+            {
+            answer: "О ком речь? Откуда информация?",
+            correct: false
+            },
+            {
+            answer: "She super",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 35,
+            quizQuestion: "Это хорошо",
+            answers: [
+            {
+            answer: "it is good",
+            correct: true
+            },
+            {
+            answer: "this's good",
+            correct: false
+            },
+            {
+            answer: "good",
+            correct: false
+            },
+            {
+            answer: "this good",
+            correct: false
+            },
+            {
+            answer: "this ok",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 36,
+            quizQuestion: "Это тупо!",
+            answers: [
+            {
+            answer: "it's silly",
+            correct: true
+            },
+            {
+            answer: "this's silly",
+            correct: false
+            },
+            {
+            answer: "this silly",
+            correct: false
+            },
+            {
+            answer: "you stupid",
+            correct: false
+            },
+            {
+            answer: "you are stupid",
             correct: false
             },
             ]
