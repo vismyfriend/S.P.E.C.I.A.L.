@@ -27,6 +27,254 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    ordinalnumbersq: [
+        {
+            id:21,
+            eng:"What is the last letter of your name?",
+            ru:"Какая последняя буква в твоем имени?",
+            
+            },
+            {
+            id:22,
+            eng:"The first Ninja turtle is Rafael, the second Ninja turtle is Donatello, the third is Leonardo, what is the name of the fourth ninja turtle?",
+            ru:"1ый Черепашка-ниндзя — Рафаэль, 2ой — Донателло, 3ий — Леонардо, как зовут 4го ?",
+            
+            },
+            {
+            id:23,
+            eng:"What day is today? And what date is today?",
+            ru:"Какой сегодня день? И какое сегодня число?",
+            
+            },
+            {
+            id:24,
+            eng:"What is the eighth / эйтth / letter in the word : THURSDAY / thёрздэй / ?",
+            ru:"Какая восьмая буква в слове 'THURSDAY'?",
+            
+            },
+            {
+            id:25,
+            eng:"What is the eighth / эйтth / letter of Russian alphabet?",
+            ru:"Какая восьмая буква русского алфавита?",
+            
+            },
+            {
+            id:26,
+            eng:"What is the fifth / фИфth / color of the rainbow?",
+            ru:"Какой пятый цвет радуги?",
+            
+            },
+            {
+            id:27,
+            eng:"What is the fifth / фИфth / day of the week?",
+            ru:"Какой пятый день недели?",
+            
+            },
+            {
+            id:28,
+            eng:"What is the fifth / фИфth / letter of your name?",
+            ru:"Какая пятая буква в твоем имени?",
+            
+            },
+            {
+            id:29,
+            eng:"What is the fifth / фИфth / planet from the Sun?",
+            ru:"Какая пятая планета от Солнца?",
+            
+            },
+            {
+            id:30,
+            eng:"What is the first day of the week?",
+            ru:"Какой первый день недели?",
+            
+            },
+            {
+            id:31,
+            eng:"What is the first letter of your name?",
+            ru:"Какая первая буква в твоем имени?",
+            
+            },
+            {
+            id:32,
+            eng:"What is the first month / манth / of the year?",
+            ru:"Какой первый месяц года?",
+            
+            },
+            {
+            id:33,
+            eng:"What is the first thing you do in the morning, after you open your eyes?",
+            ru:"Что ты делаешь первым утром, после того как открываешь глаза?",
+            
+            },
+            {
+            id:34,
+            eng:"What is the fourth / форth / day of the week?",
+            ru:"Какой четвертый день недели?",
+            
+            },
+            {
+            id:35,
+            eng:"What is the fourth / форth / letter of English alphabet?",
+            ru:"Какая четвертая буква английского алфавита?",
+            
+            },
+            {
+            id:36,
+            eng:"What is the last color of the rainbow?",
+            ru:"Какой последний цвет радуги?",
+            
+            },
+            {
+            id:37,
+            eng:"What is the last digit / дИджит / of your phone number?",
+            ru:"Какая последняя цифра твоего телефонного номера?",
+            
+            },
+            {
+            id:38,
+            eng:"What is the last month / манth / of the year?",
+            ru:"Какой последний месяц года?",
+            
+            },
+            {
+            id:39,
+            eng:"What is the second color in the rainbow?",
+            ru:"Какой второй цвет радуги?",
+            
+            },
+            {
+            id:40,
+            eng:"What is the second country you would like to visit?",
+            ru:"Какая вторая страна, которую ты бы хотел посетить?",
+            
+            },
+            {
+            id:41,
+            eng:"What is the second day of the week?",
+            ru:"Какой второй день недели?",
+            
+            },
+            {
+            id:42,
+            eng:"What is the second number in your phone number?",
+            ru:"Какая вторая цифра твоего телефонного номера?",
+            
+            },
+            {
+            id:43,
+            eng:"What is the second-largest city in your country?",
+            ru:"Какой второй по величине город в твоей стране?",
+            
+            },
+            {
+            id:44,
+            eng:"What is the seventh color of the rainbow?",
+            ru:"Какой седьмой цвет радуги?",
+            
+            },
+            {
+            id:45,
+            eng:"What is the sixth day of the week?",
+            ru:"Какой шестой день недели?",
+            
+            },
+            {
+            id:46,
+            eng:"What is the sixth month of the year?",
+            ru:"Какой шестой месяц года?",
+            
+            },
+            {
+            id:47,
+            eng:"What is the third / thёрд / color of the rainbow?",
+            ru:"Какой третий цвет радуги?",
+            
+            },
+            {
+            id:48,
+            eng:"What is the third / thёрд / day of the week?",
+            ru:"Какой третий день недели?",
+            
+            },
+            {
+            id:49,
+            eng:"What is the third / thёрд / planet from the Sun?",
+            ru:"Какая третья планета от Солнца?",
+            
+            },
+            {
+            id:50,
+            eng:"What is the third / thёрд / biggest country in the world?",
+            ru:"Какая третья по величине страна в мире?",
+            
+            },
+            {
+            id:51,
+            eng:"What is the third month / манth / of the year?",
+            ru:"Какой третий месяц года?",
+            
+            },
+            {
+            id:52,
+            eng:"What is the third / thёрд / object you see on your table?",
+            ru:"Какой третий предмет, который ты видишь на своём столе?",
+            
+            },
+            {
+            id:53,
+            eng:"What is your first and second favorite sport? What sports do you like.",
+            ru:"Какие твои первый и второй любимые виды спорта? Какие виды спорта ты любишь?",
+            
+            },
+            {
+            id:54,
+            eng:"What was your first pet?",
+            ru:"Какое у тебя было первое домашнее животное?",
+            
+            },
+            {
+            id:55,
+            eng:"Who is the first person you see in the morning?",
+            ru:"Кто первый человек, которого ты видишь утром?",
+            
+            },
+            {
+            id:56,
+            eng:"Who is the first person you usually meet at your work or school?",
+            ru:"Кто первый человек, которого ты обычно встречаешь на работе или в школе?",
+            
+            },
+            {
+            id:57,
+            eng:"Who was the second president of your country?",
+            ru:"Кто был вторым президентом твоей страны?",
+            
+            },
+            {
+            id:58,
+            eng:"Who was your first English teacher at school?",
+            ru:"Кто был твоим первым учителем английского языка в школе?",
+            
+            },
+            {
+            id:59,
+            eng:"What was you last pet?",
+            ru:"Какое было твоё последнее домашнее животное?",
+            
+            },
+            {
+            id:60,
+            eng:"When is your birthday?",
+            ru:"Когда у тебя день рождения?",
+            
+            },
+            {
+            id:61,
+            eng:"When is Vincent's birthday?",
+            ru:"Когда день рождения у Винсента?",
+            
+            },
+    ],
     onehundredtwenty: [
         {
             id:101,
@@ -767,6 +1015,548 @@ const allQuestionsOneDeck = {
             
             },
     ],
+    yesnoQuestions: [
+        {
+            id:101,
+            eng:"Is Vincent a funny teacher?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:102,
+            eng:"Are you good at using maps?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:103,
+            eng:"Are you happy when you find money in your old clothes?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:104,
+            eng:"Are you silly?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:105,
+            eng:"Can you eat a lemon and not cringe your face?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:106,
+            eng:"Can you juggle three objects?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:107,
+            eng:"Can you marry a person who is not your nationality?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:108,
+            eng:"Can you read my thoughts / thотс / мысли?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:109,
+            eng:"Can you ride a bicycle / бАсикл / велосипед?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:110,
+            eng:"Can you stand on hands and keep a balance for 1 minute?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:111,
+            eng:"Can you swim on your back?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:112,
+            eng:"Can you swim under water for 1 minute?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:113,
+            eng:"Can you swim?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:114,
+            eng:"Can you understand animals?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:115,
+            eng:"Can you whistle?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:116,
+            eng:"Do you always do English homework?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:117,
+            eng:"Do you always kiss on the first date?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:118,
+            eng:"Do you always kiss Vincent after lessons?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:119,
+            eng:"Do you always remember about friend's birthdays?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:120,
+            eng:"Do you believe in a  long-distance relationships?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:121,
+            eng:"Do you believe in God?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:122,
+            eng:"Do you believe in Hell?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:123,
+            eng:"Do you believe in love at first sight / сайт / взгляд?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:124,
+            eng:"Do you believe in soulmates / соулмэйтс / родственные души?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:125,
+            eng:"Do you believe in yourself ?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:126,
+            eng:"Do you brush your hair with a toothbrush?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:127,
+            eng:"Do you brush your teeth every day?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:128,
+            eng:"Do you check the fridge again and again, and hope that new food will magically appear?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:129,
+            eng:"Do you clean your room?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:130,
+            eng:"Do you cry at every wedding?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:131,
+            eng:"Do you cry at night?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:132,
+            eng:"Do you cry when you cut an onion / эн Анион / лук?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:133,
+            eng:"Do you dance on tables?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:134,
+            eng:"Do you dance when you clean your house?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:135,
+            eng:"Do you do a happy dance when you find money on the street?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:136,
+            eng:"Do you drink with Vicnent behind the garages?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:137,
+            eng:"Do you eat a cake with your hands?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:138,
+            eng:"Do you eat ice cream in winter?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:139,
+            eng:"Do you eat pizza for breakfast?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:140,
+            eng:"Do you enjoy slow dances?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:141,
+            eng:"Do you feel nervous before a romantic date?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:142,
+            eng:"Do you have a bottle of vodka in your fridge?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:143,
+            eng:"Do you have a monkey at home?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:144,
+            eng:"Do you have a tattoo with a name VINCENT on your chest?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:145,
+            eng:"Do you have big secrets?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:146,
+            eng:"DO you have flowers at home?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:147,
+            eng:"Do you laugh at your own jokes? ",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:148,
+            eng:"Do you like big parties?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:149,
+            eng:"Do you like ketchup?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:150,
+            eng:"Do you like selfies?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:151,
+            eng:"Do you like Vincent?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:152,
+            eng:"Do you love money?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:153,
+            eng:"Do you love to drink vodka?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:154,
+            eng:"Do you pee in your shower?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:155,
+            eng:"Do you practice your speech in front of a mirror?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:156,
+            eng:"Do you press the button 'CLOSE DOORS' in an elevator when other people run to you?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:157,
+            eng:"Do you put a lot of paper on a toilet when you are in a public toilet?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:158,
+            eng:"Do you ride a horse to school and to work?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:159,
+            eng:"Do you say hello to people in an elevator?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:160,
+            eng:"Do you send love letters and messages to somebody?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:161,
+            eng:"Do you sing hip-hop and rap?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:162,
+            eng:"Do you sing in the shower?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:163,
+            eng:"Do you sleep in a pyjama?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:164,
+            eng:"Do you sleep on a balcony?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:165,
+            eng:"Do you sleep with a toys?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:166,
+            eng:"Do you smoke?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:167,
+            eng:"Do you sometimes by chance send a text to the wrong person?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:168,
+            eng:"Do you sometimes forget to eat a snack that you prepared for yourself?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:169,
+            eng:"Do you sometimes forget to flush the toilet?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:170,
+            eng:"Do you sometimes forget to take your phone out of your pocket when you sit down and feel uncofortable?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:171,
+            eng:"Do you sometimes forget what you wanted to say to somebody when you speak?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:172,
+            eng:"Do you sometimes forget where you parked your car ?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:173,
+            eng:"Do you sometimes forget why you entered a room?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:174,
+            eng:"Do you sometimes try to find your phone and understand that you hold it in your hands?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:175,
+            eng:"Do you speak English?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:176,
+            eng:"Do you speak with objects that aren't alive?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:177,
+            eng:"Do you speak with spam calls?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:178,
+            eng:"Do you talk to your car when your car doesn't want to start?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:179,
+            eng:"Do you talk to yourself when you are driving a car?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:180,
+            eng:"Do you talk to yourself when you’re home alone?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:181,
+            eng:"Do you think children are stupid?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:182,
+            eng:"Do you think Shrek is very secy?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:183,
+            eng:"Do you think the best way to show love is to cook food?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:184,
+            eng:"Do you think your pet understands you when you speak with it?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:185,
+            eng:"Do you tlike coca-cola?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:186,
+            eng:"Do you trust the weather news?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:187,
+            eng:"Do you use dirty words?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:188,
+            eng:"Do you wear glasses?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:189,
+            eng:"Do you wear underwear? / ду ю вЭэ андэр-вЭэ /",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+            {
+            id:190,
+            eng:"When you lose your keys and you can't find them do you open a fridge to check maybe keys are there?",
+            ru:"пока нет перевода… догадываемся сами как-то",
+            
+            },
+    ],
     yesno: [
         {
             id:1,
@@ -1006,6 +1796,278 @@ const allQuestionsOneDeck = {
             id:40,
             eng:"Скажи полный ответ : NO ,  …   …   …  .",
             ru:"КТО + глагол + NOT + остальное",
+            
+            },
+    ],
+    yesno2: [
+        {
+            id:1,
+            eng:"Absolutely!  ---------- Absolyutno!",
+            ru:" Абсолютно! ",
+            
+            },
+            {
+            id:2,
+            eng:"Of course.  ---------- Konechno.",
+            ru:" Конечно. ",
+            
+            },
+            {
+            id:3,
+            eng:"Definitely.  ---------- Opredelyónno.",
+            ru:" Определённо. ",
+            
+            },
+            {
+            id:4,
+            eng:"Sure thing!  ---------- Tochno!",
+            ru:" Точно! ",
+            
+            },
+            {
+            id:5,
+            eng:"You bet.  ---------- Eshchyo bi! Konechno da!",
+            ru:" Ещё бы! ",
+            
+            },
+            {
+            id:6,
+            eng:"Yep.  ---------- Aga.",
+            ru:" Ага. ",
+            
+            },
+            {
+            id:7,
+            eng:"Yeah.  ---------- Dadada.",
+            ru:" Да. ",
+            
+            },
+            {
+            id:8,
+            eng:"Affirmative.  ---------- Podtverzhdayu.",
+            ru:" Подтверждаю. ",
+            
+            },
+            {
+            id:9,
+            eng:"For sure.  ---------- Bezuslovno.",
+            ru:" Безусловно. ",
+            
+            },
+            {
+            id:10,
+            eng:"Certainly.  ---------- Nesomnenno.",
+            ru:" Несомненно. ",
+            
+            },
+            {
+            id:11,
+            eng:"Without a doubt.  ---------- Bez somneniya.",
+            ru:" Без сомнения. ",
+            
+            },
+            {
+            id:12,
+            eng:"By all means.  ---------- Obyazatel'no.",
+            ru:" Обязательно. ",
+            
+            },
+            {
+            id:13,
+            eng:"Indeed.  ---------- V samom dele.",
+            ru:" В самом деле. ",
+            
+            },
+            {
+            id:14,
+            eng:"Naturally.  ---------- Yestestvenno.",
+            ru:" Естественно. ",
+            
+            },
+            {
+            id:15,
+            eng:"Sounds good.  ---------- Zvuchit otlichno.",
+            ru:" Звучит отлично. ",
+            
+            },
+            {
+            id:16,
+            eng:"Right on!  ---------- Tak tochno!",
+            ru:" Так точно! ",
+            
+            },
+            {
+            id:17,
+            eng:"Agreed.  ---------- Soglasen.",
+            ru:" Согласен. ",
+            
+            },
+            {
+            id:18,
+            eng:"I'm in!  ---------- Ya v dele!",
+            ru:" Я в деле! ",
+            
+            },
+            {
+            id:19,
+            eng:"That's right.  ---------- Verno.",
+            ru:" Верно. ",
+            
+            },
+            {
+            id:20,
+            eng:"Totally.  ---------- Polnost'yu.",
+            ru:" Полностью. ",
+            
+            },
+            {
+            id:21,
+            eng:"Roger that.  ---------- Prinyal.",
+            ru:" Принял. ",
+            
+            },
+            {
+            id:22,
+            eng:"Yes. ---------- Da.",
+            ru:"Да.",
+            
+            },
+            {
+            id:23,
+            eng:"Uh-huh.  ---------- Ugu.",
+            ru:" Угу. ",
+            
+            },
+            {
+            id:24,
+            eng:"100%!  ---------- Sto protsentov!",
+            ru:" Сто процентов! ",
+            
+            },
+            {
+            id:25,
+            eng:"No.  ---------- Net.",
+            ru:" Нет. ",
+            
+            },
+            {
+            id:26,
+            eng:"No way.  ---------- Ni za chto.",
+            ru:" Ни за что. ",
+            
+            },
+            {
+            id:27,
+            eng:"Not at all.  ---------- Sovsem net.",
+            ru:" Совсем нет. ",
+            
+            },
+            {
+            id:28,
+            eng:"Absolutely not!  ---------- Absolyutno net!",
+            ru:" Абсолютно нет! ",
+            
+            },
+            {
+            id:29,
+            eng:"I don’t think so.  ---------- Ya tak ne dumayu.",
+            ru:" Я так не думаю. ",
+            
+            },
+            {
+            id:30,
+            eng:"Never.  ---------- Nikogda.",
+            ru:" Никогда. ",
+            
+            },
+            {
+            id:31,
+            eng:"Nope.  ---------- Ni v koyem sluchaye.",
+            ru:" Ни в коем случае. ",
+            
+            },
+            {
+            id:32,
+            eng:"Not really.  ---------- Ne sovsem.",
+            ru:" Не совсем. ",
+            
+            },
+            {
+            id:33,
+            eng:"Sorry, but no.  ---------- Prosti, no net.",
+            ru:" Прости, но нет. ",
+            
+            },
+            {
+            id:34,
+            eng:"I disagree.  ---------- Ya ne soglasen.",
+            ru:" Я не согласен. ",
+            
+            },
+            {
+            id:35,
+            eng:"I can’t.  ---------- Ya ne mogu.",
+            ru:" Я не могу. ",
+            
+            },
+            {
+            id:36,
+            eng:"Absolutely not.  ---------- Kategoricheski net.",
+            ru:" Категорически нет. ",
+            
+            },
+            {
+            id:37,
+            eng:"No chance.  ---------- Bez shansov.",
+            ru:" Без шансов. ",
+            
+            },
+            {
+            id:38,
+            eng:"That’s not right.  ---------- Eto nepravil'no.",
+            ru:" Это неправильно. ",
+            
+            },
+            {
+            id:39,
+            eng:"Not possible.  ---------- Nevazmozhno.",
+            ru:" Невозможно. ",
+            
+            },
+            {
+            id:40,
+            eng:"Out of the question.  ---------- Isklyucheno.",
+            ru:" Исключено. ",
+            
+            },
+            {
+            id:41,
+            eng:"I don’t agree.  ---------- Ya ne soglasen.",
+            ru:" Я не согласен. ",
+            
+            },
+            {
+            id:42,
+            eng:"Negative.  ---------- Negativ.",
+            ru:" Негатив. ",
+            
+            },
+            {
+            id:43,
+            eng:"Sorry, no can do.  ---------- Izvini, ne poluchitsya.",
+            ru:" Извини, не получится. ",
+            
+            },
+            {
+            id:44,
+            eng:"No, no, no ---------- Netushki!",
+            ru:"Нет, нет, нет",
+            
+            },
+            {
+            id:45,
+            eng:"I’m afraid not.  ---------- Boyus', net.",
+            ru:" Боюсь, нет. ",
             
             },
     ],
