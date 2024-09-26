@@ -20,6 +20,38 @@ const allWordsForScrambledGame = {
             ru:"третий"
             },
     ],
+    digits1: [
+        {
+            id:1,
+            eng:"zero",
+            ru:"напиши 'ноль'"
+            },
+            {
+            id:2,
+            eng:"eight",
+            ru:" напиши 'восемь'"
+            },
+            {
+                id:3,
+                eng:"nine",
+                ru:"напиши 'девять'"
+                },
+                {
+                    id:4,
+                    eng:"ten",
+                    ru:"напиши 'десять'"
+                    },
+                    {
+                        id:5,
+                        eng:"five",
+                        ru:"напиши 'пять'"
+                        },
+                        {
+                            id:6,
+                            eng:"three",
+                            ru:"напиши 'три'"
+                            },
+    ],
        devmode0: [
         {
             id:1,

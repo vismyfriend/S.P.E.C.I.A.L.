@@ -20,6 +20,7 @@ const allWordsForGameTypeOrWrite = {
             ru:"третий"
             },
     ],
+    
     m001m: [
         {
             id:1,

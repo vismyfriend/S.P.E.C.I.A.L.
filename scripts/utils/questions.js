@@ -1802,271 +1802,271 @@ const allQuestionsOneDeck = {
     yesno2: [
         {
             id:1,
-            eng:"Absolutely!  ---------- Absolyutno!",
+            eng:"Absolutely!",
             ru:" Абсолютно! ",
             
             },
             {
             id:2,
-            eng:"Of course.  ---------- Konechno.",
+            eng:"Of course YES!",
             ru:" Конечно. ",
             
             },
             {
             id:3,
-            eng:"Definitely.  ---------- Opredelyónno.",
+            eng:"Definitely.",
             ru:" Определённо. ",
             
             },
             {
             id:4,
-            eng:"Sure thing!  ---------- Tochno!",
+            eng:"Sure thing!  ----------------------- Tochno!",
             ru:" Точно! ",
             
             },
             {
             id:5,
-            eng:"You bet.  ---------- Eshchyo bi! Konechno da!",
+            eng:"You bet.  ----------------------- Eshchyo bi! Konechno da!",
             ru:" Ещё бы! ",
             
             },
             {
             id:6,
-            eng:"Yep.  ---------- Aga.",
+            eng:"Yep.  ----------------------- Aga.",
             ru:" Ага. ",
             
             },
             {
             id:7,
-            eng:"Yeah.  ---------- Dadada.",
+            eng:"Yeah.  ----------------------- Dadada.",
             ru:" Да. ",
             
             },
             {
             id:8,
-            eng:"Affirmative.  ---------- Podtverzhdayu.",
+            eng:"Affirmative.  ----------------------- Podtverzhdayu.",
             ru:" Подтверждаю. ",
             
             },
             {
             id:9,
-            eng:"For sure.  ---------- Bezuslovno.",
+            eng:"For sure.  ----------------------- Bezuslovno.",
             ru:" Безусловно. ",
             
             },
             {
             id:10,
-            eng:"Certainly.  ---------- Nesomnenno.",
+            eng:"Certainly.  ----------------------- Nesomnenno.",
             ru:" Несомненно. ",
             
             },
             {
             id:11,
-            eng:"Without a doubt.  ---------- Bez somneniya.",
+            eng:"No doubt.  ----------------------- /  ноу дАут / Bez somneniya.",
             ru:" Без сомнения. ",
             
             },
             {
             id:12,
-            eng:"By all means.  ---------- Obyazatel'no.",
+            eng:"By all means.  ----------------------- Obyazatel'no.",
             ru:" Обязательно. ",
             
             },
             {
             id:13,
-            eng:"Indeed.  ---------- V samom dele.",
+            eng:"Indeed.  ----------------------- V samom dele.",
             ru:" В самом деле. ",
             
             },
             {
             id:14,
-            eng:"Naturally.  ---------- Yestestvenno.",
+            eng:"Naturally.  ----------------------- Yestestvenno.",
             ru:" Естественно. ",
             
             },
             {
             id:15,
-            eng:"Sounds good.  ---------- Zvuchit otlichno.",
+            eng:"Sounds good.  ----------------------- Zvuchit otlichno.",
             ru:" Звучит отлично. ",
             
             },
             {
             id:16,
-            eng:"Right on!  ---------- Tak tochno!",
+            eng:"Right on!  ----------------------- Tak tochno!",
             ru:" Так точно! ",
             
             },
             {
             id:17,
-            eng:"Agreed.  ---------- Soglasen.",
+            eng:"Agreed.  ----------------------- Soglasen.",
             ru:" Согласен. ",
             
             },
             {
             id:18,
-            eng:"I'm in!  ---------- Ya v dele!",
+            eng:"I'm in!  ----------------------- Ya v dele!",
             ru:" Я в деле! ",
             
             },
             {
             id:19,
-            eng:"That's right.  ---------- Verno.",
+            eng:"That's right.  ----------------------- Verno.",
             ru:" Верно. ",
             
             },
             {
             id:20,
-            eng:"Totally.  ---------- Polnost'yu.",
+            eng:"Totally.  ----------------------- Polnost'yu.",
             ru:" Полностью. ",
             
             },
             {
             id:21,
-            eng:"Roger that.  ---------- Prinyal.",
+            eng:"Roger that.  ----------------------- Prinyal.",
             ru:" Принял. ",
             
             },
             {
             id:22,
-            eng:"Yes. ---------- Da.",
+            eng:"Yes. ----------------------- Da.",
             ru:"Да.",
             
             },
             {
             id:23,
-            eng:"Uh-huh.  ---------- Ugu.",
+            eng:"Uh-huh.  ----------------------- Ugu.",
             ru:" Угу. ",
             
             },
             {
             id:24,
-            eng:"100%!  ---------- Sto protsentov!",
+            eng:"100%!  ----------------------- / пёрсЭнт / Sto protsentov!",
             ru:" Сто процентов! ",
             
             },
             {
             id:25,
-            eng:"No.  ---------- Net.",
+            eng:"No.",
             ru:" Нет. ",
             
             },
             {
             id:26,
-            eng:"No way.  ---------- Ni za chto.",
+            eng:"No way.  ----------------------- Ni za chto.",
             ru:" Ни за что. ",
             
             },
             {
             id:27,
-            eng:"Not at all.  ---------- Sovsem net.",
+            eng:"Not at all.  ----------------------- Sovsem voobshe net.",
             ru:" Совсем нет. ",
             
             },
             {
             id:28,
-            eng:"Absolutely not!  ---------- Absolyutno net!",
+            eng:"Absolutely not!  ----------------------- Absolyutno net!",
             ru:" Абсолютно нет! ",
             
             },
             {
             id:29,
-            eng:"I don’t think so.  ---------- Ya tak ne dumayu.",
+            eng:"I don’t think so.  ----------------------- Ya tak ne dumayu.",
             ru:" Я так не думаю. ",
             
             },
             {
             id:30,
-            eng:"Never.  ---------- Nikogda.",
+            eng:"Never",
             ru:" Никогда. ",
             
             },
             {
             id:31,
-            eng:"Nope.  ---------- Ni v koyem sluchaye.",
+            eng:"Nope.  ----------------------- Ni v koyem sluchaye.",
             ru:" Ни в коем случае. ",
             
             },
             {
             id:32,
-            eng:"Not really.  ---------- Ne sovsem.",
+            eng:"Not really.  ----------------------- Ne sovsem.",
             ru:" Не совсем. ",
             
             },
             {
             id:33,
-            eng:"Sorry, but no.  ---------- Prosti, no net.",
+            eng:"Sorry, but no.  ----------------------- Prosti no net.",
             ru:" Прости, но нет. ",
             
             },
             {
             id:34,
-            eng:"I disagree.  ---------- Ya ne soglasen.",
+            eng:"I disagree.  ----------------------- / дисэгрИ / Ya ne soglasen.",
             ru:" Я не согласен. ",
             
             },
             {
             id:35,
-            eng:"I can’t.  ---------- Ya ne mogu.",
+            eng:"I can’t  say yes.  ----------------------- Ya ne mogu soglasitsa.",
             ru:" Я не могу. ",
             
             },
             {
             id:36,
-            eng:"Absolutely not.  ---------- Kategoricheski net.",
+            eng:"Absolutely not.  ----------------------- Kategoricheski net.",
             ru:" Категорически нет. ",
             
             },
             {
             id:37,
-            eng:"No chance.  ---------- Bez shansov.",
+            eng:"No chance.  ----------------------- Bez shansov.",
             ru:" Без шансов. ",
             
             },
             {
             id:38,
-            eng:"That’s not right.  ---------- Eto nepravil'no.",
+            eng:"That’s not right.  ----------------------- Eto ne tak.",
             ru:" Это неправильно. ",
             
             },
             {
             id:39,
-            eng:"Not possible.  ---------- Nevazmozhno.",
+            eng:"Not possible.  ----------------------- Nevazmozhno.",
             ru:" Невозможно. ",
             
             },
             {
             id:40,
-            eng:"Out of the question.  ---------- Isklyucheno.",
+            eng:"Out of the question.  ----------------------- Isklyucheno.",
             ru:" Исключено. ",
             
             },
             {
             id:41,
-            eng:"I don’t agree.  ---------- Ya ne soglasen.",
+            eng:"I don’t agree.  ----------------------- Ya ne soglasen.",
             ru:" Я не согласен. ",
             
             },
             {
             id:42,
-            eng:"Negative.  ---------- Negativ.",
+            eng:"Negative.  ----------------------- Otritsatelno.",
             ru:" Негатив. ",
             
             },
             {
             id:43,
-            eng:"Sorry, no can do.  ---------- Izvini, ne poluchitsya.",
+            eng:"Sorry, no can do.  ----------------------- Izvini, ne poluchitsya.",
             ru:" Извини, не получится. ",
             
             },
             {
             id:44,
-            eng:"No, no, no ---------- Netushki!",
+            eng:"No, no, no",
             ru:"Нет, нет, нет",
             
             },
             {
             id:45,
-            eng:"I’m afraid not.  ---------- Boyus', net.",
+            eng:"I’m afraid not.  ----------------------- Boyus', net.",
             ru:" Боюсь, нет. ",
             
             },
@@ -2500,7 +2500,7 @@ const allQuestionsOneDeck = {
             },
     ],
    
-    questions010: [
+    q010: [
         {
             id:1,
             eng:"What is your name? / уот из Ё нЭйм /",
@@ -12462,7 +12462,7 @@ const allQuestionsOneDeck = {
             ru: "RECIPE / рЭсыпи /"
         },
     ],
-    questions001teams: [
+    q020training: [
         {
             id: 1,
             eng: "Как спросить : ` Какой твой номер телефона? `",
@@ -12684,7 +12684,7 @@ const allQuestionsOneDeck = {
             ru: "ЧЕМУ РАВНЯЕТСЯ 13 ПЛАС 14 ?"
         },
     ],
-    questions001: [
+    q020: [
         {
             id: 1,
             eng: "What is your phone number?  / уОт из ё фОун нАмбэ /",
@@ -12796,7 +12796,7 @@ const allQuestionsOneDeck = {
             ru: "Чему равняется 13 плас 14 ?"
         },
     ],
-    questions002: [
+    q021: [
         {
             id: 26,
             eng: "What is your phone number?  / уОт из ё фОун нАмбэ /",

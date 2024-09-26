@@ -97,6 +97,349 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    digits1: [
+        {
+            id: 1,
+            quizQuestion: "Нажми на 9",
+            answers: [
+            {
+            answer: "nine - найн",
+            correct: true
+            },
+            {
+            answer: "eight - эйт",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Нажми на 8",
+            answers: [
+            {
+            answer: "eight - эйт",
+            correct: true
+            },
+            {
+            answer: "nine - найн",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Нажми на цифру NINE",
+            answers: [
+            {
+            answer: "9",
+            correct: true
+            },
+            {
+            answer: "8",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Нажми на цифру EIGHT",
+            answers: [
+            {
+            answer: "8",
+            correct: true
+            },
+            {
+            answer: "9",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Как произносится THREE ?",
+            answers: [
+            {
+            answer: "кончик языка зажимаем между передних зубов",
+            correct: true
+            },
+            {
+            answer: "Сри",
+            correct: false
+            },
+            {
+            answer: "Фри",
+            correct: false
+            },
+            {
+            answer: "Это невозможно произнести",
+            correct: false
+            },
+            {
+            answer: "Три",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Как произносится 3 ?",
+            answers: [
+            {
+            answer: "three",
+            correct: true
+            },
+            {
+            answer: "free",
+            correct: false
+            },
+            {
+            answer: "sree",
+            correct: false
+            },
+            {
+            answer: "tree",
+            correct: false
+            },
+            {
+            answer: "сри, три, фри",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Как на английском произносится 5 ?",
+            answers: [
+            {
+            answer: "файв",
+            correct: true
+            },
+            {
+            answer: "файф",
+            correct: false
+            },
+            {
+            answer: "вай фай",
+            correct: false
+            },
+            {
+            answer: "кто бы знал…",
+            correct: false
+            },
+            {
+            answer: "пять",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Как произносится FIVE ?",
+            answers: [
+            {
+            answer: "файВ",
+            correct: true
+            },
+            {
+            answer: "файФ",
+            correct: false
+            },
+            {
+            answer: "фИве",
+            correct: false
+            },
+            {
+            answer: "фАй",
+            correct: false
+            },
+            {
+            answer: "файви",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Как на английском сказать слово ЦИФРЫ ?",
+            answers: [
+            {
+            answer: "диджитс - digits",
+            correct: true
+            },
+            {
+            answer: "намбэрз - numbers",
+            correct: false
+            },
+            {
+            answer: "tsifri",
+            correct: false
+            },
+            {
+            answer: "эйт найн тэн",
+            correct: false
+            },
+            {
+            answer: "я ХЗ вообще…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Сколько всего в мире цифр?",
+            answers: [
+            {
+            answer: "ten",
+            correct: true
+            },
+            {
+            answer: "невозможно посчитать",
+            correct: false
+            },
+            {
+            answer: "дофигалиард",
+            correct: false
+            },
+            {
+            answer: "billion",
+            correct: false
+            },
+            {
+            answer: "zero and one",
+            correct: false
+            },
+            ]
+            
+        },
+        {
+            id: 2,
+            quizQuestion: "Как на английском сказать: ты или вы",
+            answers: [
+                {
+                    answer: "you",
+                    correct: true
+                },
+                {
+                    answer: "ti",
+                    correct: false
+                },
+                {
+                    answer: "we",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 3,
+            quizQuestion: "Как на английском сказать: мы",
+            answers: [
+                {
+                    answer: "we",
+                    correct: true
+                },
+                {
+                    answer: "they",
+                    correct: false
+                },
+                {
+                    answer: "our",
+                    correct: false
+                },
+                {
+                    answer: "mi",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 4,
+            quizQuestion: "Как на английском сказать: они",
+            answers: [
+                {
+                    answer: "they",
+                    correct: true
+                },
+                {
+                    answer: "we",
+                    correct: false
+                },
+                {
+                    answer: "our",
+                    correct: false
+                },
+                {
+                    answer: "your",
+                    correct: false
+                },
+                {
+                    answer: "him",
+                    correct: false
+                },
+            ]
+        },
+        {
+            id: 5,
+            quizQuestion: "Как на английском сказать: он",
+            answers: [
+                {
+                    answer: "he",
+                    correct: true
+                },
+                {
+                    answer: "his",
+                    correct: false
+                },
+            ]
+        },
+    ],
     read1: [
         {
             id: 1,
@@ -11849,7 +12192,7 @@ correct: false
     ],
     articles0: [
         {
-            id: 167,
+            id: 1,
             quizQuestion: "She is ___ doctor .",
             answers: [
             {
@@ -11875,7 +12218,7 @@ correct: false
             ]
             },
             {
-            id: 168,
+            id: 2,
             quizQuestion: "He is ___ teacher .",
             answers: [
             {
@@ -11901,7 +12244,7 @@ correct: false
             ]
             },
             {
-            id: 169,
+            id: 3,
             quizQuestion: "Vincent is ___ good friend .",
             answers: [
             {
@@ -11927,7 +12270,7 @@ correct: false
             ]
             },
             {
-            id: 170,
+            id: 4,
             quizQuestion: "It is ___ dog .",
             answers: [
             {
@@ -11953,7 +12296,7 @@ correct: false
             ]
             },
             {
-            id: 171,
+            id: 5,
             quizQuestion: "You are ___ student .",
             answers: [
             {
@@ -11979,7 +12322,7 @@ correct: false
             ]
             },
             {
-            id: 172,
+            id: 6,
             quizQuestion: "They are ___ cats .",
             answers: [
             {
@@ -12005,7 +12348,7 @@ correct: false
             ]
             },
             {
-            id: 173,
+            id: 7,
             quizQuestion: "We are ___ friends .",
             answers: [
             {
@@ -12031,7 +12374,7 @@ correct: false
             ]
             },
             {
-            id: 174,
+            id: 8,
             quizQuestion: "My friend is ___ bad man .",
             answers: [
             {
@@ -12057,7 +12400,7 @@ correct: false
             ]
             },
             {
-            id: 175,
+            id: 9,
             quizQuestion: "She is not ___ bad girl .",
             answers: [
             {
@@ -12083,7 +12426,7 @@ correct: false
             ]
             },
             {
-            id: 176,
+            id: 10,
             quizQuestion: "It is ___ black phone .",
             answers: [
             {
@@ -12109,7 +12452,7 @@ correct: false
             ]
             },
             {
-            id: 177,
+            id: 11,
             quizQuestion: "It is ___ yellow car .",
             answers: [
             {
@@ -12121,7 +12464,7 @@ correct: false
             correct: false
             },
             {
-            answer: "тут наверное АN артикль",
+            answer: "AN может быть здесь? ",
             correct: false
             },
             {
@@ -12135,7 +12478,7 @@ correct: false
             ]
             },
             {
-            id: 178,
+            id: 12,
             quizQuestion: "It is ___ big collection of money .",
             answers: [
             {
@@ -12161,8 +12504,8 @@ correct: false
             ]
             },
             {
-            id: 179,
-            quizQuestion: "People ___ interesting .",
+            id: 13,
+            quizQuestion: "People are ___ interesting .",
             answers: [
             {
             answer: "не нужен никакой артикль, потому что множеств. число",
@@ -12187,7 +12530,7 @@ correct: false
             ]
             },
             {
-            id: 180,
+            id: 14,
             quizQuestion: "These are ___ children .",
             answers: [
             {
@@ -12213,8 +12556,8 @@ correct: false
             ]
             },
             {
-            id: 181,
-            quizQuestion: "Pensils ___ gray",
+            id: 15,
+            quizQuestion: "Pensils are ___ gray",
             answers: [
             {
             answer: "не нужен никакой артикль, потому что множеств. число",
@@ -12239,8 +12582,8 @@ correct: false
             ]
             },
             {
-            id: 182,
-            quizQuestion: "Fiona and Shrek ___ monsters",
+            id: 16,
+            quizQuestion: "Fiona and Shrek are ___ monsters",
             answers: [
             {
             answer: "не нужен никакой артикль, потому что множеств. число",
@@ -12262,6 +12605,110 @@ correct: false
             answer: "HELP ME VINCENT!",
             correct: false
             },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "___ pen",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            {
+            answer: "ручка",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "___ blue pen",
+            answers: [
+            {
+            answer: "a",
+            correct: true
+            },
+            {
+            answer: "-",
+            correct: false
+            },
+            {
+            answer: "синяя ручка",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "___ pens",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "ручки",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "___ pencils",
+            answers: [
+            {
+            answer: "-",
+            correct: true
+            },
+            {
+            answer: "a",
+            correct: false
+            },
+            {
+            answer: "карандаши",
+            correct: false
+            },
+            
+            
+            
+            
+            
+            
+            
+            
             ]
             },
     ],
