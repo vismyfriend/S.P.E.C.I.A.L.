@@ -27,6 +27,508 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    twilight: [
+        {
+            id:1,
+            eng:"What is your favorite food? Why?",
+            ru:"Какая твоя любимая еда? Почему?",
+            
+            },
+            {
+            id:2,
+            eng:"Do you like cats or dogs more? Why?",
+            ru:"Тебе больше нравятся кошки или собаки? Почему?",
+            
+            },
+            {
+            id:3,
+            eng:"Do you like cooking or eating more? Why?",
+            ru:"Тебе больше нравится готовить или есть? Почему?",
+            
+            },
+            {
+            id:4,
+            eng:"Do you like spicy food or sweet food more?",
+            ru:"Тебе больше нравятся острые или сладкие блюда?",
+            
+            },
+            {
+            id:5,
+            eng:"Do you like sweet or salty snacks more?",
+            ru:"Тебе больше нравятся сладкие или солёные перекусы?",
+            
+            },
+            {
+            id:6,
+            eng:"Do you like to get up early or sleep late? Why?",
+            ru:"Тебе нравится вставать рано или спать допоздна? Почему?",
+            
+            },
+            {
+            id:7,
+            eng:"Do you like to play video games? Which one is your favorite?",
+            ru:"Тебе нравится играть в видеоигры? Какая твоя любимая?",
+            
+            },
+            {
+            id:8,
+            eng:"Do you like to read? What is your favorite book?",
+            ru:"Тебе нравится читать? Какая твоя любимая книга?",
+            
+            },
+            {
+            id:9,
+            eng:"Do you like to sing or dance? Which one is your favorite?",
+            ru:"Тебе нравится петь или танцевать? Что тебе нравится больше?",
+            
+            },
+            {
+            id:10,
+            eng:"Do you like to wake up early or stay up late?",
+            ru:"Тебе нравится рано вставать или долго не ложиться?",
+            
+            },
+            {
+            id:11,
+            eng:"Do you like watching movies or reading books more? Why?",
+            ru:"Тебе больше нравится смотреть фильмы или читать книги? Почему?",
+            
+            },
+            {
+            id:12,
+            eng:"Do you prefer sunny days or rainy days? Why?",
+            ru:"Тебе больше нравятся солнечные или дождливые дни? Почему?",
+            
+            },
+            {
+            id:13,
+            eng:"Do you prefer the beach or the mountains? Why?",
+            ru:"Ты предпочитаешь пляж или горы? Почему?",
+            
+            },
+            {
+            id:14,
+            eng:"Do you prefer winter or summer? Why?",
+            ru:"Тебе больше нравится зима или лето? Почему?",
+            
+            },
+            {
+            id:15,
+            eng:"If you could be any animal, which one would you be and why?",
+            ru:"Если бы ты мог(ла) быть любым животным, кем бы ты был(а) и почему?",
+            
+            },
+            {
+            id:16,
+            eng:"If you could have a magical power, what would it be?",
+            ru:"Если бы у тебя была магическая сила, что бы это было?",
+            
+            },
+            {
+            id:17,
+            eng:"If you could have a personal robot, what would you want it to do?",
+            ru:"Если бы у тебя был личный робот, что бы ты хотел(а), чтобы он делал?",
+            
+            },
+            {
+            id:18,
+            eng:"If you could have any job in the world, what would it be?",
+            ru:"Если бы ты мог(ла) выбрать любую профессию, кем бы ты хотел(а) работать?",
+            
+            },
+            {
+            id:19,
+            eng:"If you could have any pet, real or imaginary, what would it be?",
+            ru:"Если бы у тебя могло быть любое животное, реальное или вымышленное, кто бы это был?",
+            
+            },
+            {
+            id:20,
+            eng:"If you could have any talent, what would it be?",
+            ru:"Если бы ты мог(ла) иметь любой талант, что бы это было?",
+            
+            },
+            {
+            id:21,
+            eng:"If you could have dinner with one fictional character, who would it be?",
+            ru:"Если бы ты мог(ла) поужинать с одним вымышленным персонажем, кто бы это был?",
+            
+            },
+            {
+            id:22,
+            eng:"If you could learn any language, which one would you choose?",
+            ru:"Если бы ты мог(ла) выучить любой язык, какой бы ты выбрал(а)?",
+            
+            },
+            {
+            id:23,
+            eng:"If you could live in any country, where would you live?",
+            ru:"Если бы ты мог(ла) жить в любой стране, где бы ты жил(а)?",
+            
+            },
+            {
+            id:24,
+            eng:"If you could meet any famous person, who would it be?",
+            ru:"Если бы ты мог(ла) встретить любого знаменитого человека, кто бы это был?",
+            
+            },
+            {
+            id:25,
+            eng:"If you could time travel, would you go to the past or the future? Why?",
+            ru:"Если бы ты мог(ла) путешествовать во времени, ты бы отправился(лась) в прошлое или будущее? Почему?",
+            
+            },
+            {
+            id:26,
+            eng:"If you could travel anywhere in the world, where would you go?",
+            ru:"Если бы ты мог(ла) поехать куда угодно, куда бы ты отправился(лась)?",
+            
+            },
+            {
+            id:27,
+            eng:"What is one thing you can’t live without?",
+            ru:"Без чего ты не можешь жить?",
+            
+            },
+            {
+            id:28,
+            eng:"What is the best advice you have ever received?",
+            ru:"Какой самый лучший совет ты когда-либо получал(а)?",
+            
+            },
+            {
+            id:29,
+            eng:"What is the best gift you have ever received?",
+            ru:"Какой самый лучший подарок ты когда-либо получал(а)?",
+            
+            },
+            {
+            id:30,
+            eng:"What is your dream vacation?",
+            ru:"Какой твой идеальный отпуск?",
+            
+            },
+            {
+            id:31,
+            eng:"What is your favorite childhood memory?",
+            ru:"Какое твое самое любимое воспоминание из детства?",
+            
+            },
+            {
+            id:32,
+            eng:"What is your favorite color and why?",
+            ru:"Какой твой любимый цвет и почему?",
+            
+            },
+            {
+            id:33,
+            eng:"What is your favorite dessert?",
+            ru:"Какой твой любимый десерт?",
+            
+            },
+            {
+            id:34,
+            eng:"What is your favorite hobby?",
+            ru:"Какое у тебя любимое хобби?",
+            
+            },
+            {
+            id:35,
+            eng:"What is your favorite holiday?",
+            ru:"Какой твой любимый праздник?",
+            
+            },
+            {
+            id:36,
+            eng:"What is your favorite ice cream flavor?",
+            ru:"Какой твой любимый вкус мороженого?",
+            
+            },
+            {
+            id:37,
+            eng:"What is your favorite movie?",
+            ru:"Какой твой любимый фильм?",
+            
+            },
+            {
+            id:38,
+            eng:"What is your favorite pizza topping?",
+            ru:"Какая твоя любимая начинка для пиццы?",
+            
+            },
+            {
+            id:39,
+            eng:"What is your favorite season and why?",
+            ru:"Какое твое любимое время года и почему?",
+            
+            },
+            {
+            id:40,
+            eng:"What is your favorite season of the year?",
+            ru:"Какое твое любимое время года?",
+            
+            },
+            {
+            id:41,
+            eng:"What is your favorite song or music band?",
+            ru:"Какая твоя любимая песня или музыкальная группа?",
+            
+            },
+            {
+            id:42,
+            eng:"What is your favorite sport to watch or play?",
+            ru:"Какой твой любимый вид спорта для просмотра или занятий?",
+            
+            },
+            {
+            id:43,
+            eng:"What is your favorite subject at school? Why?",
+            ru:"Какой твой любимый предмет в школе? Почему?",
+            
+            },
+            {
+            id:44,
+            eng:"What is your favorite thing to do on the weekend?",
+            ru:"Чем тебе больше всего нравится заниматься на выходных?",
+            
+            },
+            {
+            id:45,
+            eng:"What is your favorite thing to do when you’re alone?",
+            ru:"Что тебе нравится делать, когда ты один(одна)?",
+            
+            },
+            {
+            id:46,
+            eng:"What is your favorite thing to do with your friends?",
+            ru:"Чем тебе больше всего нравится заниматься с друзьями?",
+            
+            },
+            {
+            id:47,
+            eng:"What is your favorite TV show? Why?",
+            ru:"Какое твое любимое телешоу? Почему?",
+            
+            },
+            {
+            id:48,
+            eng:"What is your favorite type of movie: action, comedy, or drama?",
+            ru:"Какой твой любимый жанр фильма: боевик, комедия или драма?",
+            
+            },
+            {
+            id:49,
+            eng:"What is your favorite way to relax?",
+            ru:"Как тебе нравится расслабляться?",
+            
+            },
+            {
+            id:50,
+            eng:"What superpower would you like to have?",
+            ru:"Какую суперспособность ты бы хотел(а) иметь?",
+            
+            },
+            {
+            id:51,
+            eng:"Do you have brothers or sisters?",
+            ru:"У вас есть браться или сестры?",
+            
+            },
+            {
+            id:52,
+            eng:"How old are you?",
+            ru:"Сколько вам лет?",
+            
+            },
+            {
+            id:53,
+            eng:"What street do you live in?",
+            ru:"На какой улице ты живешь?",
+            
+            },
+            {
+            id:54,
+            eng:"What school or university did you finish or what school do you study in?",
+            ru:"В какой школе или университете ты учишься или учился?",
+            
+            },
+    ],
+    twilightsuperpowers: [
+        {
+            id:1,
+            eng:"How would you use your superpower in you real today's life?",
+            ru:"Как бы ты использовал(а) свою суперспособность в обычной повседневной жизни сейчас?",
+            
+            },
+            {
+            id:2,
+            eng:"Can your superpower be dangerous? How?",
+            ru:"Может ли твоя суперспособность быть опасной? Как?",
+            
+            },
+            {
+            id:3,
+            eng:"Do you think your superpower has any disadvantages? What are they?",
+            ru:"Думаешь ли ты, что у твоей суперспособности есть недостатки? Какие?",
+            
+            },
+            {
+            id:4,
+            eng:"How would you help people with your superpower?",
+            ru:"Как бы ты помогал(а) людям с помощью своей суперспособности?",
+            
+            },
+            {
+            id:5,
+            eng:"How would you use your superpower to have fun with your friends?",
+            ru:"Как бы ты использовал(а) свою суперспособность, чтобы весело провести время с друзьями?",
+            
+            },
+            {
+            id:6,
+            eng:"How would you use your superpower to make the world a better place?",
+            ru:"Как бы ты использовал(а) свою суперспособность, чтобы сделать мир лучше?",
+            
+            },
+            {
+            id:7,
+            eng:"Do you want to have this superpower in your real life today?",
+            ru:"Ты хочешь иметь такую суперспособность в своей настоящей жизни сейчас?",
+            
+            },
+            {
+            id:8,
+            eng:"How would your superpower help you solve problems?",
+            ru:"Как твоя суперспособность могла бы помочь тебе решать проблемы?",
+            
+            },
+            {
+            id:9,
+            eng:"If you could choose any other superpower, which one would you pick and why?",
+            ru:"Если бы ты мог(ла) выбрать любую другую суперспособность, какую бы ты выбрал(а) и почему?",
+            
+            },
+            {
+            id:10,
+            eng:"If you could only use your superpower once a day, how would you use it?",
+            ru:"Если бы ты мог(ла) использовать свою суперспособность только один раз в день, как бы ты её использовал(а)?",
+            
+            },
+            {
+            id:11,
+            eng:"If you could teach your superpower to someone, who would it be?",
+            ru:"Если бы ты мог(ла) научить кого-то своей суперспособности, кого бы ты выбрал(а)?",
+            
+            },
+            {
+            id:12,
+            eng:"If you had a sidekick (помощник), what superpower would they have?",
+            ru:"Если бы у тебя был помощник, какая бы у него была суперспособность?",
+            
+            },
+            {
+            id:13,
+            eng:"If you had to give up something to keep your superpower, what would it be?",
+            ru:"Если бы тебе пришлось отказаться от чего-то, чтобы сохранить свою суперспособность, от чего бы ты отказался(лась)?",
+            
+            },
+            {
+            id:14,
+            eng:"If you had to give your superpower to someone else, who would you choose and why?",
+            ru:"Если бы тебе пришлось отдать свою суперспособность другому человеку, кого бы ты выбрал(а) и почему?",
+            
+            },
+            {
+            id:15,
+            eng:"If your superpower had a color, what color would it be and why?",
+            ru:"Если бы у твоей суперспособности был цвет, каким бы он был и почему?",
+            
+            },
+            {
+            id:16,
+            eng:"If your superpower had a sound, what would it be like?",
+            ru:"Если бы у твоей суперспособности был звук, какой бы он был?",
+            
+            },
+            {
+            id:17,
+            eng:"If your superpower had a weakness, what would it be?",
+            ru:"Если бы у твоей суперспособности была слабость, что бы это было?",
+            
+            },
+            {
+            id:18,
+            eng:"What are the limits of your superpower?",
+            ru:"Каковы пределы твоей суперспособности?",
+            
+            },
+            {
+            id:19,
+            eng:"What is one thing your superpower cannot do?",
+            ru:"Назови что-то, что твоя суперспособность не может сделать.",
+            
+            },
+            {
+            id:20,
+            eng:"What is the first thing you would do with your superpower?",
+            ru:"Какое первое дело ты бы сделал(а) со своей суперспособностью?",
+            
+            },
+            {
+            id:21,
+            eng:"What is the most interesting or funny thing you could do with your superpower?",
+            ru:"Какую самую интересную или смешную вещь ты мог(ла) бы сделать с помощью своей суперспособности?",
+            
+            },
+            {
+            id:22,
+            eng:"What would be a funny or strange way to use your superpower?",
+            ru:"Какой забавный или странный способ использования твоей суперспособности ты можешь придумать?",
+            
+            },
+            {
+            id:23,
+            eng:"What would be a good superhero name for you with this superpower?",
+            ru:"Какое хорошее имя супергероя подошло бы тебе с этой суперспособностью?",
+            
+            },
+            {
+            id:24,
+            eng:"What would you do if you lost your superpower?",
+            ru:"Что бы ты сделал(а), если бы потерял(а) свою суперспособность?",
+            
+            },
+            {
+            id:25,
+            eng:"What would you do if you met someone with the same superpower?",
+            ru:"Что бы ты сделал(а), если бы встретил(а) кого-то с такой же суперспособностью?",
+            
+            },
+            {
+            id:26,
+            eng:"Would you keep your superpower a secret or tell others? Why?",
+            ru:"Будешь ли ты держать свою суперспособность в секрете или расскажешь другим? Почему?",
+            
+            },
+            {
+            id:27,
+            eng:"Would you use your superpower to play jokes on people? What kind?",
+            ru:"Использовал(а) бы ты свою суперспособность, чтобы подшутить над людьми? Как именно?",
+            
+            },
+            {
+            id:28,
+            eng:"Would you want to join a superhero team? Or maybe you would be a solo hero?",
+            ru:"Хотел(а) бы ты присоединиться к команде супергероев? Или предпочитаешь соло индивидуализм?",
+            
+            },
+            {
+            id:29,
+            eng:"Would your superpower work better in the day or night? Why?",
+            ru:"Твоя суперспособность лучше работает днем или ночью? Почему?",
+            
+            },
+    ],
     ordinalnumbersq: [
         {
             id:21,
