@@ -27,7 +27,189 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
-    twilight: [
+    twilightdiscussion: [
+        {
+            id:1,
+            eng:"Why do you think Bella is attracted to Edward?",
+            ru:"Почему, как ты думаешь, Белла привлекается к Эдварду?",
+            
+            },
+            {
+            id:2,
+            eng:"Do you think Bella made the right choice to become a vampire? Why or why not?",
+            ru:"Как думаешь, Белла правильно сделала, став вампиром? Почему или почему нет?",
+            
+            },
+            {
+            id:3,
+            eng:"Do you think Edward and Bella make a good couple? Why or why not?",
+            ru:"Думаешь, Эдвард и Белла — хорошая пара? Почему или почему нет?",
+            
+            },
+            {
+            id:4,
+            eng:"Do you think Edward and Jacob could ever be friends? Why or why not?",
+            ru:"Думаешь, Эдвард и Джейкоб когда-нибудь могли бы стать друзьями? Почему или почему нет?",
+            
+            },
+            {
+            id:5,
+            eng:"Do you think the Volturi are right to control the vampire world? Why or why not?",
+            ru:"Как ты думаешь, Вольтури правы, что контролируют мир вампиров? Почему или почему нет?",
+            
+            },
+            {
+            id:6,
+            eng:"Do you think vampires and humans can be friends? Why or why not?",
+            ru:"Думаешь, вампиры и люди могут быть друзьями? Почему или почему нет?",
+            
+            },
+            {
+            id:7,
+            eng:"How do you think the story would be different if Bella had chosen Jacob?",
+            ru:"Как, по-твоему, изменилась бы история, если бы Белла выбрала Джейкоба?",
+            
+            },
+            {
+            id:8,
+            eng:"How would you feel if you found out your friend is a vampire?",
+            ru:"Как бы ты себя чувствовал(а), если бы узнал(а), что твой друг — вампир?",
+            
+            },
+            {
+            id:9,
+            eng:"How would you feel if you had to choose between two people you love?",
+            ru:"Как бы ты себя чувствовал(а), если бы тебе пришлось выбирать между двумя людьми, которых ты любишь?",
+            
+            },
+            {
+            id:10,
+            eng:"If you could ask any character of the movie one question, what would you ask and whom?",
+            ru:"Если бы ты мог(ла) задать любому персонажу один вопрос, что бы ты спросил(а) и кого?",
+            
+            },
+            {
+            id:11,
+            eng:"If you could be a vampire or a werewolf, which would you choose and why?",
+            ru:"Если бы ты мог(ла) быть вампиром или оборотнем, кого бы ты выбрал(а) и почему?",
+            
+            },
+            {
+            id:12,
+            eng:"If you could change one thing in the movie, what would it be?",
+            ru:"Если бы ты мог(ла) изменить что-то в фильме, что бы это было?",
+            
+            },
+            {
+            id:13,
+            eng:"If you could rewrite the ending of the movie, what would you change?",
+            ru:"Если бы ты мог(ла) переписать конец фильма, что бы ты изменил(а)?",
+            
+            },
+            {
+            id:14,
+            eng:"Which family do you like more Cullen's or Voltury's",
+            ru:"Чья семья тебе больше нравится Калены или Вольтури?",
+            
+            },
+            {
+            id:15,
+            eng:"If you were a vampire, how would you spend your time?",
+            ru:"Если бы ты был(а) вампиром, как бы ты проводил(а) своё время?",
+            
+            },
+            {
+            id:16,
+            eng:"If you were in Bella’s shoes, would you move to Forks? Why or why not?",
+            ru:"Если бы ты был(а) на месте Беллы, переехал(а) бы ты в Форкс? Почему или почему нет?",
+            
+            },
+            {
+            id:17,
+            eng:"What advice would you give to Bella at the beginning of the movie?",
+            ru:"Какой совет ты бы дал(а) Белле в начале фильма?",
+            
+            },
+            {
+            id:18,
+            eng:"What do you like more: the human world or the vampire world in the movie? Why?",
+            ru:"Что тебе больше нравится: мир людей или мир вампиров в фильме? Почему?",
+            
+            },
+            {
+            id:19,
+            eng:"What do you think about the relationship between the Cullens and the werewolves?",
+            ru:"Что ты думаешь о взаимоотношениях между Калленами и оборотнями?",
+            
+            },
+            {
+            id:20,
+            eng:"What do you think is more important: love or friendship? Why?",
+            ru:"Как ты думаешь, что важнее: любовь или дружба? Почему?",
+            
+            },
+            {
+            id:21,
+            eng:"What do you think is the hardest part of being a vampire?",
+            ru:"Как ты думаешь, что самое трудное в том, чтобы быть вампиром?",
+            
+            },
+            {
+            id:22,
+            eng:"What do you think is the most difficult thing about being in a relationship with a vampire?",
+            ru:"Как ты думаешь, что самое трудное в отношениях с вампиром?",
+            
+            },
+            {
+            id:23,
+            eng:"What is the most surprising part of the movie for you?",
+            ru:"Какой момент фильма был для тебя самым удивительным?",
+            
+            },
+            {
+            id:24,
+            eng:"What would you do if you were in Bella’s situation with Edward and Jacob?",
+            ru:"Что бы ты сделал(а), если бы был(а) в ситуации Беллы с Эдвардом и Джейкобом?",
+            
+            },
+            {
+            id:25,
+            eng:"Who does Vincent remind you of from this movie?",
+            ru:"Кого из этого фильма тебе напоминает Винсент?",
+            
+            },
+            {
+            id:26,
+            eng:"Which location in the movie would you like to visit and why?",
+            ru:"Какое место из фильма ты бы хотел(а) посетить и почему?",
+            
+            },
+            {
+            id:27,
+            eng:"Which movie in the Twilight series is your favorite and why?",
+            ru:"Какой фильм из серии «Сумерки» твой любимый и почему?",
+            
+            },
+            {
+            id:28,
+            eng:"Why do you think Jacob was so upset when Bella chose Edward?",
+            ru:"Почему, как ты думаешь, Джейкоб так расстроился, когда Белла выбрала Эдварда?",
+            
+            },
+            {
+            id:29,
+            eng:"Would you keep your identity a secret if you were a vampire? Why?",
+            ru:"Сохранил(а) бы ты свою личность в секрете, если бы был(а) вампиром? Почему?",
+            
+            },
+            {
+            id:30,
+            eng:"Would you like to live forever like the Cullens? Why or why not?",
+            ru:"Хотел(а) бы ты жить вечно, как Каллены? Почему или почему нет?",
+            
+            },
+    ],
+    speeddating: [
         {
             id:1,
             eng:"What is your favorite food? Why?",
