@@ -27,6 +27,398 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    twilightquiz: [
+        {
+            id:1,
+            eng:"битва, сражение",
+            ru:"Battle /  ˈbætəl  /",
+            
+            },
+            {
+            id:2,
+            eng:"кровь",
+            ru:"Blood /  blʌd  /",
+            
+            },
+            {
+            id:3,
+            eng:"книга",
+            ru:"Book /  bʊk  /",
+            
+            },
+            {
+            id:4,
+            eng:"выбор",
+            ru:"Choice /  ʧɔɪs  /",
+            
+            },
+            {
+            id:5,
+            eng:"клан",
+            ru:"Clan /  klæn  /",
+            
+            },
+            {
+            id:6,
+            eng:"опасность",
+            ru:"Danger /  ˈdeɪnʤər  /",
+            
+            },
+            {
+            id:7,
+            eng:"семья",
+            ru:"Family /  ˈfæmɪli  /",
+            
+            },
+            {
+            id:8,
+            eng:"страх",
+            ru:"Fear /  fɪr  /",
+            
+            },
+            {
+            id:9,
+            eng:"лес",
+            ru:"Forest /  ˈfɔrɪst  /",
+            
+            },
+            {
+            id:10,
+            eng:"друг",
+            ru:"Friend /  frɛnd  /",
+            
+            },
+            {
+            id:11,
+            eng:"дружба",
+            ru:"Friendship /  ˈfrɛndʃɪp  /",
+            
+            },
+            {
+            id:12,
+            eng:"подарок, дар",
+            ru:"Gift /  gɪft  /",
+            
+            },
+            {
+            id:13,
+            eng:"дом",
+            ru:"Home, house /  hoʊm  /",
+            
+            },
+            {
+            id:14,
+            eng:"надежда",
+            ru:"Hope /  hoʊp  /",
+            
+            },
+            {
+            id:15,
+            eng:"человек",
+            ru:"Human /  ˈhjumən  /",
+            
+            },
+            {
+            id:16,
+            eng:"бессмертный",
+            ru:"Immortal /  ɪˈmɔrtəl  /",
+            
+            },
+            {
+            id:17,
+            eng:"любовь",
+            ru:"Love /  lʌv  /",
+            
+            },
+            {
+            id:18,
+            eng:"луна",
+            ru:"Moon /  mun  /",
+            
+            },
+            {
+            id:19,
+            eng:"фильм",
+            ru:"Movie /  ˈmuvi  /",
+            
+            },
+            {
+            id:20,
+            eng:"музыка",
+            ru:"Music /  ˈmjuzɪk  /",
+            
+            },
+            {
+            id:21,
+            eng:"сила",
+            ru:"Power /  ˈpaʊər  /",
+            
+            },
+            {
+            id:22,
+            eng:"обещание, обещать",
+            ru:"Promise /  ˈprɑməs  /",
+            
+            },
+            {
+            id:23,
+            eng:"дождь",
+            ru:"Rain /  reɪn  /",
+            
+            },
+            {
+            id:24,
+            eng:"школа",
+            ru:"School /  skuːl  /",
+            
+            },
+            {
+            id:25,
+            eng:"тайна",
+            ru:"Secret /  ˈsiːkrɪt  /",
+            
+            },
+            {
+            id:26,
+            eng:"щит",
+            ru:"Shield /  ʃild  /",
+            
+            },
+            {
+            id:27,
+            eng:"искра",
+            ru:"Spark /  spɑrk  /",
+            
+            },
+            {
+            id:28,
+            eng:"солнце",
+            ru:"Sun /  sʌn  /",
+            
+            },
+            {
+            id:29,
+            eng:"город",
+            ru:"Town, city /  taʊn  /",
+            
+            },
+            {
+            id:30,
+            eng:"правда",
+            ru:"Truth /  truθ  /",
+            
+            },
+            {
+            id:31,
+            eng:"вампир",
+            ru:"Vampire /  ˈvæmpaɪər  /",
+            
+            },
+            {
+            id:32,
+            eng:"яд",
+            ru:"Venom /  ˈvɛnəm  /",
+            
+            },
+            {
+            id:33,
+            eng:"оборотень",
+            ru:"Werewolf /  ˈwɛrˌwʊlf  /",
+            
+            },
+            {
+            id:34,
+            eng:"машина",
+            ru:"car /  kɑr  /",
+            
+            },
+            {
+            id:35,
+            eng:"бежать",
+            ru:"run /  rʌn  /",
+            
+            },
+            {
+            id:36,
+            eng:"прыгать",
+            ru:"jump /  ʤʌmp  /",
+            
+            },
+            {
+            id:37,
+            eng:"летать",
+            ru:"fly /  flaɪ  /",
+            
+            },
+            {
+            id:38,
+            eng:"плакать",
+            ru:"cry /  kraɪ  /",
+            
+            },
+            {
+            id:39,
+            eng:"танцевать",
+            ru:"dance /  dæns  /",
+            
+            },
+            {
+            id:40,
+            eng:"целовать",
+            ru:"kiss /  kɪs  /",
+            
+            },
+            {
+            id:41,
+            eng:"спать",
+            ru:"sleep /  slip  /",
+            
+            },
+            {
+            id:42,
+            eng:"холодно, замерз",
+            ru:"cold /  koʊld  /",
+            
+            },
+            {
+            id:43,
+            eng:"произнеси по буквам",
+            ru:"spell / спЭл /",
+            
+            },
+            {
+            id:44,
+            eng:"удар",
+            ru:"punch",
+            
+            },
+            {
+            id:45,
+            eng:"страшный, пугающий",
+            ru:"scary",
+            
+            },
+            {
+            id:46,
+            eng:"лезвие",
+            ru:"blade",
+            
+            },
+            {
+            id:47,
+            eng:"сознаться, признаться, раскаяться",
+            ru:"confess, admit",
+            
+            },
+            {
+            id:48,
+            eng:"храпеть",
+            ru:"snore",
+            
+            },
+            {
+            id:49,
+            eng:"медовый месяц",
+            ru:"honeymoon",
+            
+            },
+            {
+            id:50,
+            eng:"старая развалина",
+            ru:"an old piece of crap",
+            
+            },
+            {
+            id:51,
+            eng:"выпускной",
+            ru:"prom",
+            
+            },
+            {
+            id:52,
+            eng:"пельмени",
+            ru:"dumplings",
+            
+            },
+            {
+            id:53,
+            eng:"запах, аромат",
+            ru:"scent",
+            
+            },
+            {
+            id:54,
+            eng:"кость",
+            ru:"bone",
+            
+            },
+            {
+            id:55,
+            eng:"коленка",
+            ru:"knee",
+            
+            },
+            {
+            id:56,
+            eng:"локоть",
+            ru:"elbow",
+            
+            },
+            {
+            id:57,
+            eng:"ключица",
+            ru:"collarbone",
+            
+            },
+            {
+            id:58,
+            eng:"завидовать",
+            ru:"I am jelaous, you are jelaous, he is jelaous",
+            
+            },
+            {
+            id:59,
+            eng:"автор",
+            ru:"an author",
+            
+            },
+            {
+            id:60,
+            eng:"жертва",
+            ru:"a victim",
+            
+            },
+            {
+            id:61,
+            eng:"innocent",
+            ru:"innocent",
+            
+            },
+            {
+            id:62,
+            eng:"лев и ягнёнок(барашек)",
+            ru:"a lion and a lamb",
+            
+            },
+            {
+            id:63,
+            eng:"хищник и добыча",
+            ru:"a predator and a prey",
+            
+            },
+            {
+            id:64,
+            eng:"охотник и утка",
+            ru:"a hunter and a duck",
+            
+            },
+            {
+            id:65,
+            eng:"сумерки",
+            ru:"twilight /твайлайт/",
+            
+            },
+    ],
     twilightdiscussion: [
         {
             id:1,
