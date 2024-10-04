@@ -16,7 +16,9 @@
 .wallpaper {
     /* background-image: url(../images/springwallpaper.jpg); */
     /* background-image: url(../images/background\ agent.jpg); */
-    background-color: #ffffff;
+    background-size: cover;
+    /* background-color: #ffffff; */
+    background-position: right;
     opacity: 0.4;
     overflow: hidden;
     z-index: -100;
@@ -74,6 +76,29 @@ button {
     /* color: #000; */
     
 }
+
+.quoteMainScreen {
+    
+        font-family:"Helvetica", sans-serif;
+        font-size:30px;
+        background: #3e3e3e;
+        color: #ffffff;
+        width: 200px;
+        height: 40px;
+        margin: 0 auto;
+        position: relative;
+        top: 40px;
+        padding: 20px;
+        text-align: center;
+        border-top: 3px solid #ababab;
+        border-bottom: 3px solid #ababab;
+        border-radius: 20px;
+        -moz-border-radius: 20px;
+        -webkit-border-radius: 20px;
+        box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.53);
+        -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.53);
+        -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.53);
+      }
 
 
 .resetPage {
@@ -659,6 +684,7 @@ font-size: 20px;
     -webkit-box-shadow: 0 0 20px 3px #000000;
     box-shadow: 0 0 20px 3px #000000;
     background: #d9d9d900;
+    /* background: #ed7daa1c; */
     border-radius: 35px;
     color: #ffffff;
     position: relative;
@@ -1098,14 +1124,14 @@ font-size: 20px;
     z-index: -2;
     position: fixed;
     bottom: 1px;
-    left: calc(50% - 150px);
+    /* left: calc(50% - 150px); */
     height: 200px;
     margin: 0;
     padding: 0;
 }
 
 .fryinspace {
-    left: calc(58% - 50px);
+    /* left: calc(58% - 50px); */
 }
 
 .redCap {
@@ -1420,7 +1446,6 @@ font-size: 20px;
     user-select: none;
     /* padding-top:45%; */
 }
- 
 
 
 

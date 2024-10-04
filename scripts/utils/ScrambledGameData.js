@@ -20,6 +20,62 @@ const allWordsForScrambledGame = {
             ru:"третий"
             },
     ],
+    irregularVerbsV1LetterB: [
+        {
+            id:1,
+            eng:"break",
+            ru:"ломать, нарушать",
+            hint:"/ брЭйк /"
+            },
+            {
+            id:2,
+            eng:"beat",
+            ru:"побить, бить",
+            hint:"/ бит /"
+            },
+            {
+            id:3,
+            eng:"become",
+            ru:"становиться",
+            hint:"/ бекАм /"
+            },
+            {
+            id:4,
+            eng:"begin",
+            ru:"начинать",
+            hint:"/ бегИн /"
+            },
+            {
+            id:5,
+            eng:"blow",
+            ru:"дуть",
+            hint:"/ блОу /"
+            },
+            {
+            id:6,
+            eng:"build",
+            ru:"строить",
+            hint:"/ билд /"
+            },
+            {
+            id:7,
+            eng:"burn",
+            ru:"сжигать, гореть",
+            hint:"/ бЁрн /"
+            },
+            {
+            id:8,
+            eng:"buy",
+            ru:"покупать",
+            hint:"/ бАй /"
+            },
+            {
+            id:9,
+            eng:"bring",
+            ru:"приносить",
+            hint:"/ брин /"
+            },
+    ],
     digits1: [
         {
             id:1,
