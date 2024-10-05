@@ -120,6 +120,8 @@ function doWeHaveThisGame(set) {
     if (!allWordsForGameTypeOrWrite[set]) startGameTNTbutton.classList.remove("show")
     if (!allWordsForScrambledGame[set]) scrambledstartGameTNTbutton.classList.remove("show")
     if (!linksToHW[set]) linksToHWbutton.classList.remove("show")
+        // добавляем ссылку чтобы новый класс не создавать обратились к детям 
+    if (linksToHW[set]) linksToHWbutton.children[1].href = linksToHW[set]
     if (!slotMachineData[set]) slotMachine.classList.remove("show")
     if (!aNGPatternData[set]) aNGPattern.classList.remove("show")
 

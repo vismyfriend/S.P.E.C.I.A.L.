@@ -1,15 +1,6 @@
 const linksToHW = {
-    devmode0: [
-        
-        {
-            id:1,
-            eng:"www.youtube.com",
-            ru:"ссылка на домашку",
-            
-            },
-            
-    ],
-
+    devmode0: "https://www.youtube.com",
+    suchSo: "https://www.yahoo.com",
 }
-export default linksToHW
 
+export default linksToHW
