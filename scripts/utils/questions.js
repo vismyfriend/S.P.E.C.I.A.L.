@@ -27,6 +27,500 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    irregularVerbsB1: [
+        {
+            id:1,
+            eng:"break, broke, broken",
+            ru:"ломать, нарушать",
+            
+            },
+            {
+            id:2,
+            eng:"beat, beat, beaten",
+            ru:"побить, бить",
+            
+            },
+            {
+            id:3,
+            eng:"become, became, become",
+            ru:"становиться",
+            
+            },
+            {
+            id:4,
+            eng:"begin, began, begun",
+            ru:"начинать",
+            
+            },
+            {
+            id:5,
+            eng:"blow, blew, blown",
+            ru:"дуть",
+            
+            },
+            {
+            id:6,
+            eng:"build, built, built",
+            ru:"строить",
+            
+            },
+            {
+            id:7,
+            eng:"burn, burnt, burnt",
+            ru:"сжигать, гореть",
+            
+            },
+            {
+            id:8,
+            eng:"buy, bought, bought",
+            ru:"покупать",
+            
+            },
+            {
+            id:9,
+            eng:"bring, brought, brought",
+            ru:"приносить",
+            
+            },
+            {
+            id:10,
+            eng:"come, came, come",
+            ru:"приходить",
+            
+            },
+            {
+            id:11,
+            eng:"choose, chose, chosen",
+            ru:"выбирать",
+            
+            },
+            {
+            id:12,
+            eng:"catch, caught, caught",
+            ru:"ловить",
+            
+            },
+            {
+            id:13,
+            eng:"creep, crept, crept",
+            ru:"ползать",
+            
+            },
+            {
+            id:14,
+            eng:"cost, cost, cost",
+            ru:"стоить",
+            
+            },
+            {
+            id:15,
+            eng:"cut, cut, cut",
+            ru:"резать",
+            
+            },
+            {
+            id:16,
+            eng:"deal, dealt, dealt",
+            ru:"иметь дела",
+            
+            },
+            {
+            id:17,
+            eng:"dig, dug, dug",
+            ru:"копать",
+            
+            },
+            {
+            id:18,
+            eng:"do, did, done",
+            ru:"делать",
+            
+            },
+            {
+            id:19,
+            eng:"drive, drove, driven",
+            ru:"водить",
+            
+            },
+            {
+            id:20,
+            eng:"draw, drew, drawn",
+            ru:"рисовать",
+            
+            },
+            {
+            id:21,
+            eng:"drink, drank, drunk",
+            ru:"пить",
+            
+            },
+            {
+            id:22,
+            eng:"eat, ate, eaten",
+            ru:"кушать",
+            
+            },
+            {
+            id:23,
+            eng:"fall, fell, fallen",
+            ru:"падать",
+            
+            },
+            {
+            id:24,
+            eng:"feed, fed, fed",
+            ru:"кормить",
+            
+            },
+            {
+            id:25,
+            eng:"feel, felt, felt",
+            ru:"чувствовать",
+            
+            },
+            {
+            id:26,
+            eng:"fight, fought, fought",
+            ru:"сражаться",
+            
+            },
+            {
+            id:27,
+            eng:"find, found, found",
+            ru:"находить",
+            
+            },
+            {
+            id:28,
+            eng:"fly, flew, flown",
+            ru:"летать",
+            
+            },
+            {
+            id:29,
+            eng:"forbid, forbade, forbidden",
+            ru:"запрещать",
+            
+            },
+            {
+            id:30,
+            eng:"forget, forgot, forgotten",
+            ru:"забывать",
+            
+            },
+            {
+            id:31,
+            eng:"forgive, forgave, forgiven",
+            ru:"прощать",
+            
+            },
+            {
+            id:32,
+            eng:"freeze, froze, frozen",
+            ru:"замерзать",
+            
+            },
+            {
+            id:33,
+            eng:"grow, grew, grown",
+            ru:"расти",
+            
+            },
+            {
+            id:34,
+            eng:"get, got, got",
+            ru:"получать",
+            
+            },
+            {
+            id:35,
+            eng:"give, gave, given",
+            ru:"давать",
+            
+            },
+            {
+            id:36,
+            eng:"go, went, gone",
+            ru:"ходить",
+            
+            },
+            {
+            id:37,
+            eng:"have, had, had",
+            ru:"иметь",
+            
+            },
+            {
+            id:38,
+            eng:"hear, heard, heard",
+            ru:"слышать",
+            
+            },
+            {
+            id:39,
+            eng:"hide, hid, hidden",
+            ru:"прятать",
+            
+            },
+            {
+            id:40,
+            eng:"hit, hit, hit",
+            ru:"ударять",
+            
+            },
+            {
+            id:41,
+            eng:"hurt, hurt, hurt",
+            ru:"причинять боль",
+            
+            },
+            {
+            id:42,
+            eng:"hold, held, held",
+            ru:"держать",
+            
+            },
+            {
+            id:43,
+            eng:"keep, kept, kept",
+            ru:"хранить",
+            
+            },
+            {
+            id:44,
+            eng:"know, knew, known",
+            ru:"знать",
+            
+            },
+            {
+            id:45,
+            eng:"learn, learnt, learnt",
+            ru:"изучать",
+            
+            },
+            {
+            id:46,
+            eng:"leave, left, left",
+            ru:"покидать",
+            
+            },
+            {
+            id:47,
+            eng:"let, let, let",
+            ru:"позволять",
+            
+            },
+            {
+            id:48,
+            eng:"lose, lost, lost",
+            ru:"терять",
+            
+            },
+            {
+            id:49,
+            eng:"lie, lay, lain",
+            ru:"лежать",
+            
+            },
+            {
+            id:50,
+            eng:"make, made, made",
+            ru:"создавать",
+            
+            },
+            {
+            id:51,
+            eng:"mean, meant, meant",
+            ru:"иметь ввиду, означать",
+            
+            },
+            {
+            id:52,
+            eng:"meet, met, met",
+            ru:"встречать(ся)",
+            
+            },
+            {
+            id:53,
+            eng:"pay, paid, paid",
+            ru:"платить",
+            
+            },
+            {
+            id:54,
+            eng:"put, put, put",
+            ru:"класть",
+            
+            },
+            {
+            id:55,
+            eng:"read, read, read",
+            ru:"читать",
+            
+            },
+            {
+            id:56,
+            eng:"ride, rode, ridden",
+            ru:"ездить верхом",
+            
+            },
+            {
+            id:57,
+            eng:"run, ran, run",
+            ru:"бегать",
+            
+            },
+            {
+            id:58,
+            eng:"say, said, said",
+            ru:"сказать, произнести",
+            
+            },
+            {
+            id:59,
+            eng:"see, saw, seen",
+            ru:"увидеть",
+            
+            },
+            {
+            id:60,
+            eng:"sell, sold, sold",
+            ru:"продавать",
+            
+            },
+            {
+            id:61,
+            eng:"send, sent, sent",
+            ru:"отправлять",
+            
+            },
+            {
+            id:62,
+            eng:"shake, shook, shaken",
+            ru:"трясти",
+            
+            },
+            {
+            id:63,
+            eng:"shoot, shot, shot",
+            ru:"стрелять",
+            
+            },
+            {
+            id:64,
+            eng:"sing, sang, sung",
+            ru:"петь",
+            
+            },
+            {
+            id:65,
+            eng:"sit, sat, sat",
+            ru:"сидеть",
+            
+            },
+            {
+            id:66,
+            eng:"sleep, slept, slept",
+            ru:"спать",
+            
+            },
+            {
+            id:67,
+            eng:"speak, spoke, spoken",
+            ru:"разговаривать",
+            
+            },
+            {
+            id:68,
+            eng:"spend, spent, spent",
+            ru:"тратить",
+            
+            },
+            {
+            id:69,
+            eng:"stand, stood, stood",
+            ru:"встать, стоять",
+            
+            },
+            {
+            id:70,
+            eng:"steal, stole, stolen",
+            ru:"воровать",
+            
+            },
+            {
+            id:71,
+            eng:"sweep, swept, swept",
+            ru:"подметать",
+            
+            },
+            {
+            id:72,
+            eng:"swim, swam, swum",
+            ru:"плавать",
+            
+            },
+            {
+            id:73,
+            eng:"take, took, taken",
+            ru:"брать",
+            
+            },
+            {
+            id:74,
+            eng:"teach, taught, taught",
+            ru:"обучать, учить кого-то",
+            
+            },
+            {
+            id:75,
+            eng:"tell, told, told",
+            ru:"рассказывать",
+            
+            },
+            {
+            id:76,
+            eng:"think, thought, thought",
+            ru:"думать",
+            
+            },
+            {
+            id:77,
+            eng:"throw, threw, thrown",
+            ru:"бросать",
+            
+            },
+            {
+            id:78,
+            eng:"understand, understood, understood",
+            ru:"понимать",
+            
+            },
+            {
+            id:79,
+            eng:"wake up, woke up, woken up",
+            ru:"просыпаться",
+            
+            },
+            {
+            id:80,
+            eng:"wear, wore, worn",
+            ru:"носить одежду",
+            
+            },
+            {
+            id:81,
+            eng:"write, wrote, written",
+            ru:"писАть",
+            
+            },
+            {
+            id:82,
+            eng:"win, won, won",
+            ru:"выигрывать",
+            
+            },
+    ],
     twilightquiz: [
         {
             id:1,
