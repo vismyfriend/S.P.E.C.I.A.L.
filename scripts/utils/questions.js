@@ -27,6 +27,453 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    cookingverbs: [
+        {
+            id:1,
+            eng:"pour  / пО /",
+            ru:"наливать"
+            },
+            {
+            id:2,
+            eng:"sip ",
+            ru:"сделать маленький глоток"
+            },
+            {
+            id:3,
+            eng:"cover with a lid ",
+            ru:"накыть крышкой"
+            },
+            {
+            id:4,
+            eng:"spread butter ",
+            ru:"намазать масло"
+            },
+            {
+            id:5,
+            eng:"squeeze something ",
+            ru:"сжимать что-то, выжимать"
+            },
+            {
+            id:6,
+            eng:"let's drink to your health! ",
+            ru:"выпьем за ваше здоровье!"
+            },
+            {
+            id:7,
+            eng:"weigh  / уЭй /",
+            ru:"взвешивать"
+            },
+            {
+            id:8,
+            eng:"measure  / мЭжэ /",
+            ru:"мерить, измерять"
+            },
+            {
+            id:9,
+            eng:"mix ",
+            ru:"перемешать"
+            },
+            {
+            id:10,
+            eng:"put ",
+            ru:"поставить, положить, разместить"
+            },
+            {
+            id:11,
+            eng:"weigh on scales / уЭй он скэйлз /",
+            ru:"взвесить на весах"
+            },
+            {
+            id:12,
+            eng:"layer ",
+            ru:"слой, укладывать слоями"
+            },
+            {
+            id:13,
+            eng:"wash hands ",
+            ru:"мыть руки"
+            },
+            {
+            id:14,
+            eng:"peel / пил /",
+            ru:"чистить от кожуры"
+            },
+            {
+            id:15,
+            eng:"add seasoning ",
+            ru:"добавить приправу"
+            },
+            {
+            id:16,
+            eng:"dip in sauce / дип ин сОс /",
+            ru:"макнуть в соус"
+            },
+            {
+            id:17,
+            eng:"crush garlic / крАш гАлик /",
+            ru:"раздавить"
+            },
+            {
+            id:18,
+            eng:"prepare ",
+            ru:"Подготавливать, приготавливаться"
+            },
+            {
+            id:19,
+            eng:"sprinkle  ",
+            ru:"посыпать, побрызгать"
+            },
+            {
+            id:20,
+            eng:"decorate  ",
+            ru:"украшать"
+            },
+            {
+            id:21,
+            eng:"flip a pancake / пЭнкейк /",
+            ru:"переворачивать"
+            },
+            {
+            id:22,
+            eng:"microwave  / мАйкровэйв /",
+            ru:"греть в микроволновке"
+            },
+            {
+            id:23,
+            eng:"put in a fridge / пут ин э фрИдж /",
+            ru:"класть в холодильник"
+            },
+            {
+            id:24,
+            eng:"put in a freezer / пут ин э фрИзер /",
+            ru:"класть в морозильник"
+            },
+            {
+            id:25,
+            eng:"blend ",
+            ru:"измельчить, перемолоть"
+            },
+            {
+            id:26,
+            eng:"heat ",
+            ru:"Жар, огонь"
+            },
+            {
+            id:27,
+            eng:"roast a turkey / роуст э тёркей /",
+            ru:"запекать индейку"
+            },
+            {
+            id:28,
+            eng:"sharpen a knife / найф /",
+            ru:"наточить нож"
+            },
+            {
+            id:29,
+            eng:"serve ",
+            ru:"Сервировать, обслуживать, подавать"
+            },
+            {
+            id:30,
+            eng:"celebrate ",
+            ru:"Праздновать, отмечать"
+            },
+            {
+            id:31,
+            eng:"add ",
+            ru:"добавлять"
+            },
+            {
+            id:32,
+            eng:"sift ",
+            ru:"просеивать"
+            },
+            {
+            id:33,
+            eng:"roll ",
+            ru:"раскатывать, катить"
+            },
+            {
+            id:34,
+            eng:"toss ",
+            ru:"подкидывать"
+            },
+            {
+            id:35,
+            eng:"grate cheese / грэйт /",
+            ru:"натереть сыр на тёрке"
+            },
+            {
+            id:36,
+            eng:"put a cherry on top ",
+            ru:"положить вишенку сверху"
+            },
+            {
+            id:37,
+            eng:"bake pies ",
+            ru:"печь, выпекать пироги"
+            },
+            {
+            id:38,
+            eng:"cool down ",
+            ru:"остывать"
+            },
+            {
+            id:39,
+            eng:"carve / карв /",
+            ru:"вырезАть"
+            },
+            {
+            id:40,
+            eng:"mash  / мэш /",
+            ru:"толочь"
+            },
+            {
+            id:41,
+            eng:"tenderize  / тЭндэрайз /",
+            ru:"отбивать, делать мягким"
+            },
+            {
+            id:42,
+            eng:"BBQ  / бАрбекю /",
+            ru:"Делать Барбекю (шашлыки)"
+            },
+            {
+            id:43,
+            eng:"simmer ",
+            ru:"готовить на минимальной мощности"
+            },
+            {
+            id:44,
+            eng:"melt ",
+            ru:"растопить, таять"
+            },
+            {
+            id:45,
+            eng:"fry ",
+            ru:"жарить"
+            },
+            {
+            id:46,
+            eng:"sauté  / cАтэй /",
+            ru:"обжаривать слегка"
+            },
+            {
+            id:47,
+            eng:"boil water for dumplings ",
+            ru:"варить, кипятить воду для пельменей"
+            },
+            {
+            id:48,
+            eng:"A pot ",
+            ru:"Кастрлюля"
+            },
+            {
+            id:49,
+            eng:"stir ",
+            ru:"Помешивать"
+            },
+            {
+            id:50,
+            eng:"taste a dish / тЭйст /",
+            ru:"пробовать блюдо на вкус"
+            },
+            {
+            id:51,
+            eng:"light up, light on ",
+            ru:"включать, разжигать"
+            },
+            {
+            id:52,
+            eng:"cover with a lid ",
+            ru:"накрывать крышкой"
+            },
+            {
+            id:53,
+            eng:"remove ",
+            ru:"убирать"
+            },
+            {
+            id:54,
+            eng:"turn on / тёрн он /",
+            ru:"включать или выключать"
+            },
+            {
+            id:55,
+            eng:"steam / стим /",
+            ru:"пар / готовить на пару"
+            },
+            {
+            id:56,
+            eng:"whisk with a whisker ",
+            ru:"взбивать венчиком"
+            },
+            {
+            id:57,
+            eng:"A frying pan ",
+            ru:"сковорода"
+            },
+            {
+            id:58,
+            eng:"drain ",
+            ru:"слить воду"
+            },
+            {
+            id:59,
+            eng:"rinse ",
+            ru:"прополоскать, ополоснуть"
+            },
+            {
+            id:60,
+            eng:"uncork ",
+            ru:"открыть пробку"
+            },
+            {
+            id:61,
+            eng:"an oven ",
+            ru:"духовка"
+            },
+            {
+            id:62,
+            eng:"a stove ",
+            ru:"печь"
+            },
+            {
+            id:63,
+            eng:"a fork ",
+            ru:"вилка"
+            },
+            {
+            id:64,
+            eng:"a spoon ",
+            ru:"ложка"
+            },
+            {
+            id:65,
+            eng:"a cup and a mug ",
+            ru:"чашка и кружка"
+            },
+            {
+            id:66,
+            eng:"a knife  /  нАйф /",
+            ru:"нож и два ножа"
+            },
+            {
+            id:67,
+            eng:"a cutting board ",
+            ru:"разделоочная доска"
+            },
+            {
+            id:68,
+            eng:"foil ",
+            ru:"фольга"
+            },
+            {
+            id:69,
+            eng:"sausage  / сОсидж /",
+            ru:"Колбаса и сосиски"
+            },
+            {
+            id:70,
+            eng:"Delicious dinner / делИшэс  /",
+            ru:"Наивкуснейший ужин"
+            },
+            {
+            id:71,
+            eng:"chop cabbage ",
+            ru:"рубить капусту, шинковать"
+            },
+            {
+            id:72,
+            eng:"salt  /  солт /",
+            ru:"соль"
+            },
+            {
+            id:73,
+            eng:"cover ",
+            ru:"накрывать"
+            },
+            {
+            id:74,
+            eng:"lid ",
+            ru:"крышка"
+            },
+            {
+            id:75,
+            eng:"whisk ",
+            ru:"взбивать"
+            },
+            {
+            id:76,
+            eng:"cut in pieces ",
+            ru:"порезвать на кусочки"
+            },
+            {
+            id:77,
+            eng:"spices  / спАйсиз /",
+            ru:"специи"
+            },
+            {
+            id:78,
+            eng:"pepper  / пЭппэ /",
+            ru:"перец"
+            },
+            {
+            id:79,
+            eng:"baking paper  / пЭйпа /",
+            ru:"бумага для выпечки"
+            },
+            {
+            id:80,
+            eng:"spatula  / спЭчула /",
+            ru:"лопатка"
+            },
+            {
+            id:81,
+            eng:"a tablespoon  / тЭйблспун /",
+            ru:"столовая ложка"
+            },
+            {
+            id:82,
+            eng:"a teaspoon  / тИспун /",
+            ru:"чайная ложка"
+            },
+            {
+            id:83,
+            eng:"a wooden spoon ",
+            ru:"деревянная ложка"
+            },
+            {
+            id:84,
+            eng:"sugar  / щУга /",
+            ru:"сахар"
+            },
+            {
+            id:85,
+            eng:"honey  / хАни /",
+            ru:"мёд"
+            },
+            {
+            id:86,
+            eng:"pancakes  / пЭнкейкс /",
+            ru:"блины"
+            },
+            {
+            id:87,
+            eng:"a cook ",
+            ru:"повар"
+            },
+            {
+            id:88,
+            eng:"to cook ",
+            ru:"готовить"
+            },
+            {
+            id:89,
+            eng:"a chef  / шЭф /",
+            ru:"главный повар"
+            },
+    ],
     irregularVerbsB1: [
         {
             id:1,
@@ -518,6 +965,170 @@ const allQuestionsOneDeck = {
             id:82,
             eng:"win, won, won",
             ru:"выигрывать",
+            
+            },
+    ],
+    irregularVerbsB2: [
+        {
+            id:83,
+            eng:"stick, stuck, stuck",
+            ru:"приклеить, застрять ",
+            
+            },
+            {
+            id:84,
+            eng:"stink, stank, stunk",
+            ru:"вонять",
+            
+            },
+            {
+            id:85,
+            eng:"strike, struck, struck",
+            ru:"ударять",
+            
+            },
+            {
+            id:86,
+            eng:"swear, swore, sworn",
+            ru:"клясться, материться ",
+            
+            },
+            {
+            id:87,
+            eng:"swing, swung, swung",
+            ru:"качаться",
+            
+            },
+            {
+            id:88,
+            eng:"tear, tore, torn",
+            ru:"порвать",
+            
+            },
+            {
+            id:89,
+            eng:"lead, led, led",
+            ru:"вести, приводить",
+            
+            },
+            {
+            id:90,
+            eng:"lend, lent, lent",
+            ru:"давать в долг",
+            
+            },
+            {
+            id:91,
+            eng:"tell a lie, told a lie, told a lie",
+            ru:"говорить ложь",
+            
+            },
+            {
+            id:92,
+            eng:"ring, rang, rung",
+            ru:"звенеть, звонить",
+            
+            },
+            {
+            id:93,
+            eng:"rise, rose, risen",
+            ru:"подниматься",
+            
+            },
+            {
+            id:94,
+            eng:"shut, shut, shut",
+            ru:"захлопнуть",
+            
+            },
+            {
+            id:95,
+            eng:"sink, sank, sunk",
+            ru:"затонуть",
+            
+            },
+            {
+            id:96,
+            eng:"slide, slid, slid",
+            ru:"скользить",
+            
+            },
+            {
+            id:97,
+            eng:"spit, spat, spat",
+            ru:"плеваться",
+            
+            },
+            {
+            id:98,
+            eng:"weep, wept, wept",
+            ru:"хныкать",
+            
+            },
+            {
+            id:99,
+            eng:"misunderstand, misunderstood, misunderstood",
+            ru:"неправильно понять",
+            
+            },
+            {
+            id:100,
+            eng:"misspell, misspelt, misspelt",
+            ru:"неправильно написать",
+            
+            },
+            {
+            id:101,
+            eng:"mistake, mistook, mistaken",
+            ru:"ошибаться",
+            
+            },
+            {
+            id:102,
+            eng:"mishear, misheard, misheard",
+            ru:"неправильно услышать",
+            
+            },
+            {
+            id:103,
+            eng:"oversleep, overslept, overslept",
+            ru:"проспать",
+            
+            },
+            {
+            id:104,
+            eng:"overeat, overate, overeaten",
+            ru:"переесть ",
+            
+            },
+            {
+            id:105,
+            eng:"overpay, overpaid, overpaid",
+            ru:"переплатить",
+            
+            },
+            {
+            id:106,
+            eng:"arise, arose, arisen",
+            ru:"возникнуть",
+            
+            },
+            {
+            id:107,
+            eng:"awake, awoke, awoken",
+            ru:"пробудиться",
+            
+            },
+            {
+            id:108,
+            eng:"abide, abode, abidden",
+            ru:"соблюдать пребывать обитать",
+            
+            },
+            {
+            id:109,
+            eng:"withdraw, withdrew, withdrawn",
+            ru:"снимать со счёта в банке",
             
             },
     ],

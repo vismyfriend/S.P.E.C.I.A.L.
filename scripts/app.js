@@ -140,7 +140,7 @@ dataFromEachPopupMissionsAndSets.forEach((set) => {
         getArray(evt.target.dataset.set)
         //уточнить тут все - что такое evt.target
         // console.log("SET - это весь элемент из HTML =", set)
-        // console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet)
+        // console.log("currentSet - это часть элемента HTML (Data-Set) =", currentSet, currentSet.innerHTML)
         // console.log("вот",allQuestionsSecondDeck)
         chooseSong(evt.target.dataset.set)
     })
