@@ -46,7 +46,6 @@ function startGameLieToMe() {
 clickTest.addEventListener("click", startGameLieToMe)
 
 
-// уточнить у Эндрю про строку ниже - что это 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
 
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")

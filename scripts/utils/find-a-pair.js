@@ -2,6 +2,123 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
     // ^\s*$\n
+    diy: [
+        {
+            id:1,
+            eng:"a toolbox ",
+            ru:"ящик для инструмента"
+            },
+            {
+            id:2,
+            eng:"a cutter ",
+            ru:"резак, канцелярский нож"
+            },
+            {
+            id:3,
+            eng:"paintbrushes ",
+            ru:"кисточки"
+            },
+            {
+            id:4,
+            eng:"scissors /сизорз/ ",
+            ru:"ножницы"
+            },
+            {
+            id:5,
+            eng:"glue /глу/ ",
+            ru:"клей"
+            },
+            {
+            id:6,
+            eng:"a hot glue gun ",
+            ru:"клеевой пистолет"
+            },
+            {
+            id:7,
+            eng:"an eraser ",
+            ru:"стиралка, ластик"
+            },
+            {
+            id:8,
+            eng:"nails ",
+            ru:"гвозди"
+            },
+            {
+            id:9,
+            eng:"a nut /нат/ ",
+            ru:"гайка"
+            },
+            {
+            id:10,
+            eng:"a screwdriver /скрюдр./ ",
+            ru:"отвертка"
+            },
+            {
+            id:11,
+            eng:"a saw /со/ ",
+            ru:"пила"
+            },
+            {
+            id:12,
+            eng:"a spade (shovel) /спэйд/ ",
+            ru:"лопата"
+            },
+            {
+            id:13,
+            eng:"a pencil ",
+            ru:"карандаш"
+            },
+            {
+            id:14,
+            eng:"a puncher ",
+            ru:"дырокол"
+            },
+            {
+            id:15,
+            eng:"a needle /э нИдл/ ",
+            ru:"иголка"
+            },
+            {
+            id:16,
+            eng:"a ruler /э рУлэр/ ",
+            ru:"линейка"
+            },
+            {
+            id:17,
+            eng:"a hammer ",
+            ru:"молоток"
+            },
+            {
+            id:18,
+            eng:"a screw /э скрю/ ",
+            ru:"шуруп"
+            },
+            {
+            id:19,
+            eng:"a bolt ",
+            ru:"болт"
+            },
+            {
+            id:20,
+            eng:"a hammer drill ",
+            ru:"ударная дрель"
+            },
+            {
+            id:21,
+            eng:"a plastic bag ",
+            ru:"пластиковый пакет"
+            },
+            {
+            id:22,
+            eng:"it is made in China /чАйна/ ",
+            ru:"это сделано в Китае"
+            },
+            {
+            id:23,
+            eng:"it is made by my granny ",
+            ru:"это сделано моей бабулей"
+            },
+    ],
     irregularVerbsV1LtterALL: [
         {
             id:1,
@@ -783,6 +900,68 @@ const allCardsGameFindAPair = {
             },
     ],
     digits1: [
+        {
+            id:1,
+            eng:"zero /зИроу/",
+            ru:"O"
+            },
+            {
+            id:2,
+            eng:"one /уан/",
+            ru:"1"
+            },
+            {
+            id:3,
+            eng:"two /ту/",
+            ru:"2"
+            },
+            {
+            id:4,
+            eng:"three / межзубный звук /",
+            ru:"3"
+            },
+            {
+            id:5,
+            eng:"four /фо/",
+            ru:"4"
+            },
+            {
+            id:6,
+            eng:"five /фАйв/",
+            ru:"5"
+            },
+            {
+            id:7,
+            eng:"six /сыкс/",
+            ru:"6"
+            },
+            {
+            id:8,
+            eng:"seven /сэвн/",
+            ru:"7"
+            },
+            {
+            id:9,
+            eng:"eight /эйт/",
+            ru:"8"
+            },
+            {
+            id:10,
+            eng:"nine /найн/",
+            ru:"9"
+            },
+            {
+            id:11,
+            eng:"ten /тэн/",
+            ru:"10"
+            },
+            {
+            id:12,
+            eng:"digits /дИджитс/",
+            ru:"цифры"
+            },
+    ],
+    digits2: [
         {
             id:1,
             eng:"zero /зИроу/",
