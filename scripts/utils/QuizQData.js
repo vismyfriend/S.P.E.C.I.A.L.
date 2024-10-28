@@ -97,6 +97,632 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    howAreYou: [
+        {
+            id: 1,
+            quizQuestion: "Что значит : hi",
+            answers: [
+            {
+            answer: "привет",
+            correct: true
+            },
+            {
+            answer: "здарова",
+            correct: false
+            },
+            {
+            answer: "смех",
+            correct: false
+            },
+            {
+            answer: "хи хи хи",
+            correct: false
+            },
+            {
+            answer: "он",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Что значит : how are you?",
+            answers: [
+            {
+            answer: "как вы? как ты?",
+            correct: true
+            },
+            {
+            answer: "чё каво?",
+            correct: false
+            },
+            {
+            answer: "индейцы рядом?",
+            correct: false
+            },
+            {
+            answer: "я кушаю",
+            correct: false
+            },
+            {
+            answer: "что-то про харю",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Что значит : hello",
+            answers: [
+            {
+            answer: "здравствуйте",
+            correct: true
+            },
+            {
+            answer: "приветули",
+            correct: false
+            },
+            {
+            answer: "здарова",
+            correct: false
+            },
+            {
+            answer: "алло",
+            correct: false
+            },
+            {
+            answer: "хэллоу",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Что значит : hey!",
+            answers: [
+            {
+            answer: "здарова!",
+            correct: true
+            },
+            {
+            answer: "чтоб тебя!",
+            correct: false
+            },
+            {
+            answer: "чё!",
+            correct: false
+            },
+            {
+            answer: "ну!",
+            correct: false
+            },
+            {
+            answer: "вечер в хату",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Что значит : I am good",
+            answers: [
+            {
+            answer: "я хорошо",
+            correct: true
+            },
+            {
+            answer: "я бог",
+            correct: false
+            },
+            {
+            answer: "нормально",
+            correct: false
+            },
+            {
+            answer: "моё имя Робин Гуд",
+            correct: false
+            },
+            {
+            answer: "очень хорошо",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Что значит : I am great",
+            answers: [
+            {
+            answer: "я великолепно",
+            correct: true
+            },
+            {
+            answer: "не очень дела",
+            correct: false
+            },
+            {
+            answer: "грэйт",
+            correct: false
+            },
+            {
+            answer: "греат",
+            correct: false
+            },
+            {
+            answer: "Грачи прилетели",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Что значит : I am wonderful",
+            answers: [
+            {
+            answer: "я замечательно",
+            correct: true
+            },
+            {
+            answer: "хорошо",
+            correct: false
+            },
+            {
+            answer: "так себе",
+            correct: false
+            },
+            {
+            answer: "не очень",
+            correct: false
+            },
+            {
+            answer: "я такая голодная",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Что значит : I am tired",
+            answers: [
+            {
+            answer: "я уставший",
+            correct: true
+            },
+            {
+            answer: "я опоздал",
+            correct: false
+            },
+            {
+            answer: "я голоден",
+            correct: false
+            },
+            {
+            answer: "я из Тайланда",
+            correct: false
+            },
+            {
+            answer: "тАйд - это порошок",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Что значит : I am hungry",
+            answers: [
+            {
+            answer: "я голоден",
+            correct: true
+            },
+            {
+            answer: "я устал",
+            correct: false
+            },
+            {
+            answer: "я злой",
+            correct: false
+            },
+            {
+            answer: "я сердитый",
+            correct: false
+            },
+            {
+            answer: "я супер",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Что значит : I am not so good",
+            answers: [
+            {
+            answer: "я не так хорошо",
+            correct: true
+            },
+            {
+            answer: "обалденно всё",
+            correct: false
+            },
+            {
+            answer: "ой не начинай",
+            correct: false
+            },
+            {
+            answer: "нормально",
+            correct: false
+            },
+            {
+            answer: "хорошо всё",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 11,
+            quizQuestion: "Что значит : I am late",
+            answers: [
+            {
+            answer: "я опоздавший",
+            correct: true
+            },
+            {
+            answer: "я голодная",
+            correct: false
+            },
+            {
+            answer: "я сердитая",
+            correct: false
+            },
+            {
+            answer: "хочу кофе лате",
+            correct: false
+            },
+            {
+            answer: "ай эм лэйт",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 12,
+            quizQuestion: "Что значит : I am happy",
+            answers: [
+            {
+            answer: "я счастлив",
+            correct: true
+            },
+            {
+            answer: "я счастливый как никто",
+            correct: false
+            },
+            {
+            answer: "я устал",
+            correct: false
+            },
+            {
+            answer: "у меня день рождения",
+            correct: false
+            },
+            {
+            answer: "я хИппи",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 13,
+            quizQuestion: "Как произносится : hi",
+            answers: [
+            {
+            answer: "хай",
+            correct: true
+            },
+            {
+            answer: "хи",
+            correct: false
+            },
+            {
+            answer: "хэй",
+            correct: false
+            },
+            {
+            answer: "хий",
+            correct: false
+            },
+            {
+            answer: "хей",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 14,
+            quizQuestion: "Как произносится : how are you?",
+            answers: [
+            {
+            answer: "хау а ю",
+            correct: true
+            },
+            {
+            answer: "хау ар ю",
+            correct: false
+            },
+            {
+            answer: "хов а ю",
+            correct: false
+            },
+            {
+            answer: "хаваю",
+            correct: false
+            },
+            {
+            answer: "хоу а ю",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 15,
+            quizQuestion: "Как произносится : hello",
+            answers: [
+            {
+            answer: "хэллоу",
+            correct: true
+            },
+            {
+            answer: "хеллоу",
+            correct: false
+            },
+            {
+            answer: "халло",
+            correct: false
+            },
+            {
+            answer: "хэлло",
+            correct: false
+            },
+            {
+            answer: "хоп хэй лала лэй",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 16,
+            quizQuestion: "Как произносится : hey!",
+            answers: [
+            {
+            answer: "хэй",
+            correct: true
+            },
+            {
+            answer: "хей",
+            correct: false
+            },
+            {
+            answer: "хай",
+            correct: false
+            },
+            {
+            answer: "хэллоу",
+            correct: false
+            },
+            {
+            answer: "хэу",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 17,
+            quizQuestion: "Как произносится : I am good",
+            answers: [
+            {
+            answer: "ай эм гуд",
+            correct: true
+            },
+            {
+            answer: "ай ам гоод",
+            correct: false
+            },
+            {
+            answer: "и ам гуд",
+            correct: false
+            },
+            {
+            answer: "ай ам гуд",
+            correct: false
+            },
+            {
+            answer: "ай эм год",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 18,
+            quizQuestion: "Как произносится : I am great",
+            answers: [
+            {
+            answer: "ай эм грэйт",
+            correct: true
+            },
+            {
+            answer: "ай эм грет",
+            correct: false
+            },
+            {
+            answer: "ай эм грейт",
+            correct: false
+            },
+            {
+            answer: "ай эм греат",
+            correct: false
+            },
+            {
+            answer: "ай ам грэит",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 19,
+            quizQuestion: "Как произносится : I am wonderful",
+            answers: [
+            {
+            answer: "ай эм вандэрфул",
+            correct: true
+            },
+            {
+            answer: "ай ам вандерфул",
+            correct: false
+            },
+            {
+            answer: "ай эм вандэрвуман",
+            correct: false
+            },
+            {
+            answer: "ай ам вондерфул",
+            correct: false
+            },
+            {
+            answer: "ай эм вандэрфил",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 20,
+            quizQuestion: "Как произносится : I am tired",
+            answers: [
+            {
+            answer: "ай эм тайд",
+            correct: true
+            },
+            {
+            answer: "ай ам тиред",
+            correct: false
+            },
+            {
+            answer: "ай эм тиред",
+            correct: false
+            },
+            {
+            answer: "ай эм тайрэд",
+            correct: false
+            },
+            {
+            answer: "ай эм тайрд",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 21,
+            quizQuestion: "Как произносится : I am hungry",
+            answers: [
+            {
+            answer: "ай эм хангри",
+            correct: true
+            },
+            {
+            answer: "ай эм хэнгри",
+            correct: false
+            },
+            {
+            answer: "ай ам хангри",
+            correct: false
+            },
+            {
+            answer: "ай эм ханред",
+            correct: false
+            },
+            {
+            answer: "ай эм хагрид",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 22,
+            quizQuestion: "Как произносится : I am not so good",
+            answers: [
+            {
+            answer: "ай эм нот соу гуд",
+            correct: true
+            },
+            {
+            answer: "ай эм нот со гуд",
+            correct: false
+            },
+            {
+            answer: "ай ам нот со гуд",
+            correct: false
+            },
+            {
+            answer: "ай ам нот со гуд",
+            correct: false
+            },
+            {
+            answer: "хз вообще…",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 23,
+            quizQuestion: "Как произносится : I am late",
+            answers: [
+            {
+            answer: "ай эм лэйт",
+            correct: true
+            },
+            {
+            answer: "ай ам лате",
+            correct: false
+            },
+            {
+            answer: "ай эм лате",
+            correct: false
+            },
+            {
+            answer: "ай эм леит",
+            correct: false
+            },
+            {
+            answer: "ай эм лэйтэ",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 24,
+            quizQuestion: "Как произносится : I am happy",
+            answers: [
+            {
+            answer: "ай эм хэппи",
+            correct: true
+            },
+            {
+            answer: "ай эм хиппи",
+            correct: false
+            },
+            {
+            answer: "ай эм хаппи",
+            correct: false
+            },
+            {
+            answer: "ай ам хэппи",
+            correct: false
+            },
+            {
+            answer: "ай эм хаппу",
+            correct: false
+            },
+            ]
+            },
+        ],
     digits1: [
         {
             id: 1,

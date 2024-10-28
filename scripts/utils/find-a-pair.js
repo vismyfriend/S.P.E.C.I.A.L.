@@ -2,6 +2,105 @@
 // 0001 добавляем константу с данными - с массивом // Здесь слова для игры Find a pair
 const allCardsGameFindAPair = {
     // ^\s*$\n
+    howAreYou: [
+        {
+            id:1,
+            eng:"hi",
+            ru:"привет"
+            },
+            {
+            id:2,
+            eng:"how are you?",
+            ru:"как вы? как ты?"
+            },
+            {
+            id:3,
+            eng:"hello",
+            ru:"здравствуйте"
+            },
+            {
+            id:4,
+            eng:"hey!",
+            ru:"здарова!"
+            },
+            {
+            id:5,
+            eng:"I am good",
+            ru:"я хорошо"
+            },
+            {
+            id:6,
+            eng:"I am great",
+            ru:"я великолепно"
+            },
+            {
+            id:7,
+            eng:"I am wonderful",
+            ru:"я замечательно"
+            },
+            {
+            id:8,
+            eng:"I am tired",
+            ru:"я уставший"
+            },
+            {
+            id:9,
+            eng:"I am hungry",
+            ru:"я голоден"
+            },
+            {
+            id:10,
+            eng:"I am not so good",
+            ru:"я не так хорошо"
+            },
+            {
+            id:11,
+            eng:"I am late",
+            ru:"я опоздавший"
+            },
+            {
+            id:12,
+            eng:"I am happy",
+            ru:"я счастлив"
+            },
+    ],
+     devmode0: [
+        {
+            id: 1,
+            eng: "the first / фест /",
+            ru: "первый"
+        },
+        {
+            id: 2,
+            eng: "the second ",
+            ru: "второй"
+        },
+        {
+            id: 3,
+            eng: "the third ",
+            ru: "третий"
+        },
+        {
+            id: 4,
+            eng: "the fourth ",
+            ru: "четвертый"
+        },
+        {
+            id: 5,
+            eng: "the fifth / фифth /",
+            ru: "пятый"
+        },
+        {
+            id: 6,
+            eng: "the sixth ",
+            ru: "шестой"
+        },
+        {
+            id: 7,
+            eng: "the seventh ",
+            ru: "седьмой"
+        },
+    ],
     diy: [
         {
             id:1,
@@ -1461,43 +1560,7 @@ const allCardsGameFindAPair = {
             ru:"нога (целиком)",
             },
     ],
-    devmode0: [
-        {
-            id: 1,
-            eng: "the first / фест /",
-            ru: "первый"
-        },
-        {
-            id: 2,
-            eng: "the second ",
-            ru: "второй"
-        },
-        {
-            id: 3,
-            eng: "the third ",
-            ru: "третий"
-        },
-        {
-            id: 4,
-            eng: "the fourth ",
-            ru: "четвертый"
-        },
-        {
-            id: 5,
-            eng: "the fifth / фифth /",
-            ru: "пятый"
-        },
-        {
-            id: 6,
-            eng: "the sixth ",
-            ru: "шестой"
-        },
-        {
-            id: 7,
-            eng: "the seventh ",
-            ru: "седьмой"
-        },
-    ],
+   
     jobs01: [
         {
             id:1,
