@@ -1,5 +1,355 @@
 // Здесь вопросы для тренировки Speaking
 const allQuestionsOneDeck = {
+    apology: [
+        {
+            id:1,
+            eng:"I am sorry for missing your call.",
+            ru:"Мне жаль, что я пропустил твой звонок.",
+            hint:""
+            },
+            {
+            id:2,
+            eng:"I apologize for forgetting your birthday.",
+            ru:"Прошу прощения за то, что забыл о твоем дне рождения.",
+            hint:""
+            },
+            {
+            id:3,
+            eng:"Excuse me for not answering to your message earlier.",
+            ru:"Извини, что не ответил на твое сообщение пораньше.",
+            hint:""
+            },
+            {
+            id:4,
+            eng:"I regret not attending your party last week.",
+            ru:"Мне жаль, что я не пришел на твою вечеринку на прошлой неделе.",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"I’m sorry for being late to the meeting.",
+            ru:"Извини, что опоздал на встречу.",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"I apologize for taking your pen without asking.",
+            ru:"Прошу прощения за то, что взял твою ручку без спроса.",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"Excuse me for interrupting your conversation.",
+            ru:"Извини, что прервал твою беседу.",
+            hint:""
+            },
+            {
+            id:8,
+            eng:"I regret not finishing my project on time.",
+            ru:"Мне жаль, что я не закончил свой проект вовремя.",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"I’m sorry for spilling coffee on your computer.",
+            ru:"Извини, что пролил кофе на твой компьютер.",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"I apologize for not inviting you behind garages.",
+            ru:"Прошу прощения за то, что не пригласил тебя за гаражи.",
+            hint:""
+            },
+            {
+            id:11,
+            eng:"Excuse me for making a mistake.",
+            ru:"Извини за то что я совершила ошибку.",
+            hint:""
+            },
+            {
+            id:12,
+            eng:"I am sorry for not cleaning my room.",
+            ru:"Мне жаль, что я не убрал свою комнату.",
+            hint:""
+            },
+            {
+            id:13,
+            eng:"I apologize for eating your lunch by mistake.",
+            ru:"Прошу прощения за то, что поел твой обед по ошибке.",
+            hint:""
+            },
+            {
+            id:14,
+            eng:"Excuse me for forgetting to turn off the lights.",
+            ru:"Извини, что забыл выключить свет.",
+            hint:""
+            },
+            {
+            id:15,
+            eng:"I regret not helping you with your homework.",
+            ru:"Мне жаль, что я не помог тебе с домашним заданием.",
+            hint:""
+            },
+            {
+            id:16,
+            eng:"I’m sorry for losing your book.",
+            ru:"Извини, что потерял твою книгу.",
+            hint:""
+            },
+            {
+            id:17,
+            eng:"I apologize for not being more supportive.",
+            ru:"Прошу прощения за то, что не был более поддерживающим.",
+            hint:""
+            },
+            {
+            id:18,
+            eng:"Excuse me for talking too much during the movie.",
+            ru:"Извини, что слишком много говорил во время фильма.",
+            hint:""
+            },
+            {
+            id:19,
+            eng:"I am sorry for not paying you back sooner.",
+            ru:"Мне жаль, что я не вернул тебе деньги раньше.",
+            hint:""
+            },
+            {
+            id:20,
+            eng:"I apologize for being rude to your friend.",
+            ru:"Прошу прощения за то, что был груб с твоим другом.",
+            hint:""
+            },
+            {
+            id:21,
+            eng:"Excuse me for borrowing your car without asking.",
+            ru:"Извини, что взял твою машину без спроса.",
+            hint:""
+            },
+            {
+            id:22,
+            eng:"I regret not taking your advice.",
+            ru:"Мне жаль, что я не послушал твоего совета.",
+            hint:""
+            },
+            {
+            id:23,
+            eng:"I’m sorry for forgetting our meeting.",
+            ru:"Извини, что забыл о нашей встрече.",
+            hint:""
+            },
+            {
+            id:24,
+            eng:"I apologize for not being there when you needed me.",
+            ru:"Прошу прощения за то, что не был рядом, когда ты нуждался во мне.",
+            hint:""
+            },
+            {
+            id:25,
+            eng:"Excuse me for making you wait.",
+            ru:"Извини, что заставил тебя ждать.",
+            hint:""
+            },
+            {
+            id:26,
+            eng:"I am sorry for not sharing my notes with you.",
+            ru:"Мне жаль, что я не поделился с тобой своими записями.",
+            hint:""
+            },
+            {
+            id:27,
+            eng:"I apologize for being too loud in the library.",
+            ru:"Прошу прощения за то, что был слишком громким в библиотеке.",
+            hint:""
+            },
+            {
+            id:28,
+            eng:"Excuse me for not giving you an air kiss.",
+            ru:"Извини, что не послал тебе воздушный поцелуй.",
+            hint:""
+            },
+            {
+            id:29,
+            eng:"I regret not spending more time with you.",
+            ru:"Мне жаль, что я не провел с тобой больше времени.",
+            hint:""
+            },
+            {
+            id:30,
+            eng:"I’m sorry for misunderstanding.",
+            ru:"Извиняюсь за недопонимание",
+            hint:""
+            },
+            {
+            id:31,
+            eng:"I apologize for not returning your call.",
+            ru:"Прошу прощения за то, что не перезвонил тебе.",
+            hint:""
+            },
+            {
+            id:32,
+            eng:"Excuse me for leaving the door open.",
+            ru:"Извини, что оставил дверь открытой.",
+            hint:""
+            },
+            {
+            id:33,
+            eng:"I am sorry for not checking in on you.",
+            ru:"Мне жаль, что я не поинтересовался, как ты.",
+            hint:""
+            },
+            {
+            id:34,
+            eng:"I apologize for breaking your favorite mug.",
+            ru:"Прошу прощения за то, что разбил твою любимую кружку.",
+            hint:""
+            },
+            {
+            id:35,
+            eng:"Excuse me for not drinking with you.",
+            ru:"Извини, что не пью с тобой",
+            hint:""
+            },
+            {
+            id:36,
+            eng:"I regret not telling you the truth.",
+            ru:"Мне жаль, что я не сказал тебе правду.",
+            hint:""
+            },
+            {
+            id:37,
+            eng:"I’m sorry for forgetting everything",
+            ru:"Извини, что забываю про все на свете",
+            hint:""
+            },
+            {
+            id:38,
+            eng:"I apologize for not respecting you",
+            ru:"Прошу прощения за то, что не уважаю вас",
+            hint:""
+            },
+            {
+            id:39,
+            eng:"Excuse me for everything! Forgive me!",
+            ru:"Извини за всё! Прости меня!",
+            hint:""
+            },
+            {
+            id:40,
+            eng:"I am sorry for being an ashole.",
+            ru:"Мне жаль, что я такая редиска (плохое слово) засранец!",
+            hint:""
+            },
+            {
+            id:41,
+            eng:"I’m really sorry for being a jerk!",
+            ru:"Мне действительно жаль, что я веду себя как болван",
+            hint:""
+            },
+            {
+            id:42,
+            eng:"I apologize for using your toothbrush",
+            ru:"Прошу прощения за использование твоей зубной щетки",
+            hint:""
+            },
+            {
+            id:43,
+            eng:"Sorry for bringing a salad to your pizza party!",
+            ru:"Извини за то, что принес салат на твою пицца-вечеринку!",
+            hint:""
+            },
+            {
+            id:44,
+            eng:"I regret eating your dessert; it looked too good to resist!",
+            ru:"Мне жаль, что я съел твой десерт; он выглядел слишком вкусно, чтобы устоять!",
+            hint:""
+            },
+            {
+            id:45,
+            eng:"I apologize for mistaking you for somebody; I panicked!",
+            ru:"Прошу прощения за то, что перепутал тебя с кем-то; я запаниковал!",
+            hint:""
+            },
+            {
+            id:46,
+            eng:"Sorry for singing loudly in the shower; I thought I was alone!",
+            ru:"Извини за то, что громко пел в душе; я думал, что один!",
+            hint:""
+            },
+            {
+            id:47,
+            eng:"I regret spilling soda on your favorite shirt; it was an accident!",
+            ru:"Мне жаль, что я пролил газировку на твою любимую рубашку; это было случайно!",
+            hint:""
+            },
+            {
+            id:48,
+            eng:"I’m really sorry for borrowing your socks and never returning them!",
+            ru:"Прошу прощения за то, что взял твои носки и никогда не вернул!",
+            hint:""
+            },
+            {
+            id:49,
+            eng:"I apologize for trying to fix your computer and making it worse!",
+            ru:"Извини за то, что попытался починить твой компьютер и только ухудшил ситуацию!",
+            hint:""
+            },
+            {
+            id:50,
+            eng:"I regret accidentally sending that meme to your boss instead of you!",
+            ru:"Прошу прощения за то, что случайно отправил тот мем твоему боссу вместо тебя!",
+            hint:""
+            },
+            {
+            id:51,
+            eng:"I’m sorry for forgetting your name; I promise I’ll remember next time!",
+            ru:"Извини за то, что забыл твоё имя; я обещаю запомнить в следующий раз!",
+            hint:""
+            },
+            {
+            id:52,
+            eng:"I apologize for using your hairdryer to dry my shoes!",
+            ru:"Мне жаль, что использовал твой фен, чтобы высушить свои туфли!",
+            hint:""
+            },
+            {
+            id:53,
+            eng:"Sorry for laughing at you!",
+            ru:"Извини за то, что смеялся над тобой",
+            hint:""
+            },
+            {
+            id:54,
+            eng:"I regret stepping on your toe",
+            ru:"Мне жаль, что наступил тебе на палец",
+            hint:""
+            },
+            {
+            id:55,
+            eng:"I’m really sorry for thinking your plant was fake and giving it a hug!",
+            ru:"Мне действительно жаль, что я подумал, что твое растение искусственное, и обнял его!",
+            hint:""
+            },
+            {
+            id:56,
+            eng:"I apologize for showing off",
+            ru:"Прошу прощения за то, что выпендривался",
+            hint:""
+            },
+            {
+            id:57,
+            eng:"Sorry for bringing my drunk friends to your party",
+            ru:"Извини за то, что принес своих пьяных друзей на твою вечеринку",
+            hint:""
+            },
+            {
+            id:58,
+            eng:"I regret accidentally calling you by my pet’s name!",
+            ru:"Мне жаль, что случайно назвал тебя именем своего питомца!",
+            hint:""
+            },
+    ],
     devmode0: [
         {
             id: 1,
