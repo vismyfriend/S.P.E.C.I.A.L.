@@ -4,6 +4,7 @@ import allQuestionsOneDeck from "./utils/questions.js"
 import allWordsForGameTypeOrWrite from "./utils/TypeOrWrite.js"
 import allWordsForScrambledGame from "./utils/ScrambledGameData.js"
 import linksToHW from "./utils/linksToHW.js"
+import linkToZoom from "./utils/linkToZoom.js"
 import aNGPatternData from "./utils/aNGdata.js"
 import { aNGmechanic } from "./games/aNGmechanic.js"
 import slotMachineData from "./utils/slotMachineData.js"
@@ -18,6 +19,7 @@ import benderWordOrderSentences from "./utils/benderWordOrder.js"
 
 const aNGPattern = document.querySelector(".popupMissionsAndSets__aNGPattern")
 const linksToHWbutton = document.querySelector(".popupMissionsAndSets__linksToHWbutton")
+const linkToZoomButton = document.querySelector(".popupMissionsAndSets__linkToZoomButton")
 const body = document.querySelector(".body")
 const logoSpecial = document.querySelector(".logo-special")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
@@ -119,8 +121,10 @@ function doWeHaveThisGame(set) {
     if (!allWordsForGameTypeOrWrite[set]) startGameTNTbutton.classList.remove("show")
     if (!allWordsForScrambledGame[set]) scrambledstartGameTNTbutton.classList.remove("show")
     if (!linksToHW[set]) linksToHWbutton.classList.remove("show")
+    if (!linkToZoom[set]) linkToZoomButton.classList.remove("show")
         // добавляем ссылку чтобы новый класс не создавать обратились к детям 
     if (linksToHW[set]) linksToHWbutton.children[1].href = linksToHW[set]
+    if (linkToZoom[set]) linkToZoomButton.children[1].href = linkToZoom[set]
     if (!slotMachineData[set]) slotMachine.classList.remove("show")
     if (!aNGPatternData[set]) aNGPattern.classList.remove("show")
 
@@ -169,6 +173,7 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     popupMissionsAndSetsGameFindAPair.classList.add("show")
     startGameTNTbutton.classList.add("show")
     linksToHWbutton.classList.add("show")
+    linkToZoomButton.classList.add("show")
     slotMachine.classList.add("show")
     scrambledstartGameTNTbutton.classList.add("show")
     multipleChoiceQuiz.classList.add("show")
@@ -214,6 +219,7 @@ function backToTheVeryFirstScreen() {
     popupMissionsAndSetsTitle.classList.add("none")
     chosenSet.classList.remove("show")
     linksToHWbutton.classList.remove("show")
+    linkToZoomButton.classList.remove("show")
     slotMachine.classList.remove("show")
     popupMissionsAndSetsGameFindAPair.classList.remove("show")
     letsSpeak.classList.remove("show")
@@ -523,6 +529,7 @@ function finishGame() {
     BenderWordOrderGameButton.classList.remove("show")
     aNGPattern.classList.remove("show")
     linksToHWbutton.classList.remove("show")
+    linkToZoomButton.classList.remove("show")
     slotMachine.classList.remove("show")
     startGameTNTbutton.classList.remove("show")
     letsSpeak.classList.remove("show")
