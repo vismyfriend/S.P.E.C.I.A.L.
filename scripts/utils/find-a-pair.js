@@ -101,6 +101,111 @@ const allCardsGameFindAPair = {
             ru: "седьмой"
         },
     ],
+    damn1: [
+        {
+            id:1,
+            eng:"Get out",
+            ru:"Проваливай!",
+            hint:""
+            },
+            {
+            id:2,
+            eng:"You’re driving me crazy",
+            ru:"Задолбали!",
+            hint:""
+            },
+            {
+            id:3,
+            eng:"Oops",
+            ru:"Ой",
+            hint:""
+            },
+            {
+            id:4,
+            eng:"Ouch",
+            ru:"Ай!",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"Damn",
+            ru:"Бл%",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"where the heck?",
+            ru:"Да где нафиг!? ",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"Oh my God",
+            ru:"О мой Бог",
+            hint:""
+            },
+            {
+            id:8,
+            eng:"Oh my Gosh",
+            ru:"Черт подери",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"What do you mean ?!",
+            ru:"В смысле?! ",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"No way",
+            ru:"Да нет",
+            hint:""
+            },
+            {
+            id:11,
+            eng:"Forget it",
+            ru:"проехали, пофиг",
+            hint:""
+            },
+            {
+            id:12,
+            eng:"For what?",
+            ru:"Нафига?",
+            hint:""
+            },
+            {
+            id:13,
+            eng:"What the heck !",
+            ru:"Чё за х..?",
+            hint:""
+            },
+            {
+            id:14,
+            eng:"Bullshit !",
+            ru:"Чушь, чепуха",
+            hint:""
+            },
+            {
+            id:15,
+            eng:"Crap !  Shit !",
+            ru:"Г%внище! ",
+            hint:""
+            },
+            {
+            id:16,
+            eng:"And what?",
+            ru:"И чё?",
+            hint:""
+            },
+            {
+            id:17,
+            eng:"Come on…",
+            ru:"Ну ё моё…",
+            hint:""
+            },
+    ],
+ 
     halloween: [
         {
             id:1,

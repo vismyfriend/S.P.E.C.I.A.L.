@@ -377,6 +377,152 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    strongEnough: [
+        {
+            id:1,
+            eng:"sympathy",
+            ru:"сочувствие",
+            hint:"/ сИмпэthи /"
+            },
+            {
+            id:2,
+            eng:"nothing",
+            ru:"ничего",
+            hint:"/ наthын /"
+            },
+            {
+            id:3,
+            eng:"no one",
+            ru:"ни один = никто",
+            hint:"/ ноу  уан /"
+            },
+            {
+            id:4,
+            eng:"miracles",
+            ru:"чудеса",
+            hint:"/ мИрэклz /"
+            },
+            {
+            id:5,
+            eng:"change",
+            ru:"изменение, менять",
+            hint:"/ чендж /"
+            },
+            {
+            id:6,
+            eng:"reasons",
+            ru:"причины",
+            hint:"/ рИзонз /"
+            },
+            {
+            id:7,
+            eng:"last night",
+            ru:"прошлой ночью",
+            hint:"/ ласт нАйт /"
+            },
+            {
+            id:8,
+            eng:"it is worth it",
+            ru:"это того стоит",
+            hint:"/ итс уорth ит /"
+            },
+            {
+            id:9,
+            eng:"he ain’t worth it",
+            ru:"он того не стоит",
+            hint:"/ хи эйнт уорth /"
+            },
+            {
+            id:10,
+            eng:"'Cause",
+            ru:"потому что (because)",
+            hint:"/ коз = бекоз /"
+            },
+            {
+            id:11,
+            eng:"strong enough",
+            ru:"достаточно сильный",
+            hint:"/ строн инАф /"
+            },
+            {
+            id:12,
+            eng:"without",
+            ru:"без",
+            hint:"/ уизаут /"
+            },
+            {
+            id:13,
+            eng:"quit",
+            ru:"бросить, прекратить, уйти",
+            hint:"/ квит /"
+            },
+            {
+            id:14,
+            eng:"long enough",
+            ru:"достаточно долго",
+            hint:"/ лон инАф /"
+            },
+            {
+            id:15,
+            eng:"u gotta go",
+            ru:"те нужно уйти",
+            hint:"/ ю гата гоу /"
+            },
+            {
+            id:16,
+            eng:"breath",
+            ru:"дыхание",
+            hint:"/ брЭth /"
+            },
+            {
+            id:17,
+            eng:"away",
+            ru:"в даль, прочь",
+            hint:"/ эуэй /"
+            },
+            {
+            id:18,
+            eng:"no matter",
+            ru:"пофиг, не важно",
+            hint:"/ ноу мЭтэ /"
+            },
+            {
+            id:19,
+            eng:"though",
+            ru:"хотя",
+            hint:"/ Доу /"
+            },
+            {
+            id:20,
+            eng:"misunderstanding",
+            ru:"недоразумение, недопонимание",
+            hint:"/ мисандэрстэндинг /"
+            },
+            {
+            id:21,
+            eng:"could",
+            ru:"мог бы",
+            hint:"/ кУд /"
+            },
+            {
+            id:22,
+            eng:"lose",
+            ru:"потерять, проиграть",
+            hint:"/ лУз /"
+            },
+            {
+            id:23,
+            eng:"cheap",
+            ru:"дешевый",
+            hint:"/ чИп /"
+            },
+            {
+            id:24,
+            eng:"half  true",
+            ru:"наполовину правда",
+            hint:"/ хаф тру /"
+            },
+    ],
     diy: [
         {
             id:1,
