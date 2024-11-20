@@ -18,6 +18,7 @@ import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 
 const doTheMissionButton = document.querySelector(".doTheMission")
+const gotomainscreenbtn = document.querySelector(".gotomainscreen")
 const glassButtons = document.querySelector(".glass-buttons-container")
 const aNGPattern = document.querySelector(".popupMissionsAndSets__aNGPattern")
 const linksToHWbutton = document.querySelector(".popupMissionsAndSets__linksToHWbutton")
@@ -52,7 +53,7 @@ function doTheMission() {
     popupMissionsAndSetsSets.classList.remove("hide")
     userSearchesForMission.classList.remove("none")
     popupMissionsAndSetsDescription.textContent = "Вводи название миссии или листай: 👉"
-
+    gotomainscreenbtn.classList.remove("none")
 
   
 }
@@ -200,12 +201,23 @@ function chooseSet(textTheNameOfTheChosenSet, set) {
     chosenSet.classList.add("show")
     usedCheatsText.classList.remove("visible")
     starsEmoji.classList.remove("visible")
+    gotomainscreenbtn.classList.add("none")
+
     userSearchesForMissionSet()
     // проверка есть ли такая игра вконце всегда
     doWeHaveThisGame(set)
 
 
 }
+function gotomainscreen() {
+    gotomainscreenbtn.classList.add("none")
+    pageReloadRefresh()
+
+}
+gotomainscreenbtn.addEventListener("click", gotomainscreen)
+
+
+
 
 function backToTheVeryFirstScreen() {
     clearInterval(interval)
@@ -227,6 +239,7 @@ function backToTheVeryFirstScreen() {
     n = -1
 
 
+    gotomainscreenbtn.classList.remove("none")
 
     aNGPattern.classList.remove("show")
     popupMissionsAndSetsDescription.textContent = "👈 choose your mission to practise 👉 / чУз ё мишн ту прЭктис /"

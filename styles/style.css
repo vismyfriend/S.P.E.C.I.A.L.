@@ -127,11 +127,18 @@ button {
         -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.53);
       }
 
+.gotomainscreen {
+    width: 200px;
 
+    justify-content: center;
+    text-align: center;
+    margin: 5px 50px;
+}
 .resetPage {
     text-align: center;
     /* margin: 12px 0 0 1px; */
     width: 135px;
+    position: fixed;
 }
 
 .opacityZero {
@@ -778,7 +785,7 @@ font-size: 20px;
     height: 46px;
     left: 49.09px;
     top: 304px;
-    background: #fff27b00;
+    background: #fafafa14;
     border-radius: 20px;
     -webkit-box-shadow: 0 2px 6px 1px #000000;
     box-shadow: 0 2px 6px 1px #ffffff;
