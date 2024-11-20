@@ -17,6 +17,8 @@ import gameTwoDecksListData from "./utils/gameTwoDecksData.js"
 import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 
+const doTheMissionButton = document.querySelector(".doTheMission")
+const glassButtons = document.querySelector(".glass-buttons-container")
 const aNGPattern = document.querySelector(".popupMissionsAndSets__aNGPattern")
 const linksToHWbutton = document.querySelector(".popupMissionsAndSets__linksToHWbutton")
 const linkToZoomButton = document.querySelector(".popupMissionsAndSets__linkToZoomButton")
@@ -43,6 +45,20 @@ function startGameLieToMe() {
     gameLieToMe.classList.remove("none")
     clickTest.classList.add("none")
 }
+
+function doTheMission() {
+    doTheMissionButton.classList.add("none")
+    glassButtons.classList.add("none")
+    popupMissionsAndSetsSets.classList.remove("hide")
+    userSearchesForMission.classList.remove("none")
+    popupMissionsAndSetsDescription.textContent = "Вводи название миссии или листай: 👉"
+
+
+  
+}
+
+
+doTheMissionButton.addEventListener("click", doTheMission)
 
 
 clickTest.addEventListener("click", startGameLieToMe)
