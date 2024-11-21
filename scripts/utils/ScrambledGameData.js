@@ -76,6 +76,116 @@ const allWordsForScrambledGame = {
             hint:"/ брин /"
             },
     ],
+    dogBone: [
+        {
+            id:1,
+            eng:"bone",
+            ru:"кость",
+            hint:"/ боун /"
+            },
+            {
+            id:2,
+            eng:"trash can",
+            ru:"мусорный бак",
+            hint:"/ трЭш кэн /"
+            },
+            {
+            id:3,
+            eng:"lucky",
+            ru:"счастливый",
+            hint:"/ лАки /"
+            },
+            {
+            id:4,
+            eng:"grab",
+            ru:"хватать",
+            hint:"/ грэб /"
+            },
+            {
+            id:5,
+            eng:"past the station",
+            ru:"мимо станции",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"through the park",
+            ru:"через парк",
+            hint:"/ thру дэ парк /"
+            },
+            {
+            id:7,
+            eng:"bridge",
+            ru:"мост",
+            hint:"/ бридж /"
+            },
+            {
+            id:8,
+            eng:"deep",
+            ru:"глубоко",
+            hint:"/ дип /"
+            },
+            {
+            id:9,
+            eng:"another",
+            ru:"другой, другая",
+            hint:"/ энАдэ /"
+            },
+            {
+            id:10,
+            eng:"stare",
+            ru:"пялиться, глядеть",
+            hint:"/ стЭ-э /"
+            },
+            {
+            id:11,
+            eng:"greedy",
+            ru:"жадный",
+            hint:"/ грИди /"
+            },
+            {
+            id:12,
+            eng:"steal",
+            ru:"воровать, красть",
+            hint:"/ стил /"
+            },
+            {
+            id:13,
+            eng:"decide",
+            ru:"принять решение",
+            hint:"/ дисАйд /"
+            },
+            {
+            id:14,
+            eng:"bottom",
+            ru:"дно",
+            hint:""
+            },
+            {
+            id:15,
+            eng:"wet",
+            ru:"мокрая",
+            hint:"/ уЭт /"
+            },
+            {
+            id:16,
+            eng:"cold",
+            ru:"холодная",
+            hint:"/ кОУлд /"
+            },
+            {
+            id:17,
+            eng:"lose",
+            ru:"терять",
+            hint:"/ лУз /"
+            },
+            {
+            id:18,
+            eng:"everything",
+            ru:"всё",
+            hint:"/ эвриthын /"
+            },
+    ],
     digits1: [
         {
             id:1,

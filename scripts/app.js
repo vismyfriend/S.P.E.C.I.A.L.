@@ -38,6 +38,10 @@ const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMiss
 backToChoosingTheMissions.addEventListener("click", backToTheVeryFirstScreen)
 
 
+window.addEventListener('load', function() {
+    const preloader = document.getElementById('preloader');
+    preloader.style.display = 'none'; // Скрываем preloader
+});
 
 
 
