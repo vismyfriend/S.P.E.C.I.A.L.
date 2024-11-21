@@ -101,6 +101,80 @@ const allCardsGameFindAPair = {
             ru: "седьмой"
         },
     ],
+    prepositionsOfPlace: [
+        {
+            id:1,
+            eng:"behind",
+            ru:"позади, сзади",
+            hint:"/ бихАйнд /"
+            },
+            {
+            id:2,
+            eng:"through",
+            ru:"через, насквозь",
+            hint:"/ thру /"
+            },
+            {
+            id:3,
+            eng:"on",
+            ru:"на",
+            hint:"/ он /"
+            },
+            {
+            id:4,
+            eng:"in",
+            ru:"в",
+            hint:"/ ин /"
+            },
+            {
+            id:5,
+            eng:"under",
+            ru:"под",
+            hint:"/ Андэ /"
+            },
+            {
+            id:6,
+            eng:"above",
+            ru:"над",
+            hint:"/ эбАв /"
+            },
+            {
+            id:7,
+            eng:"between",
+            ru:"между",
+            hint:"/ битвИн /"
+            },
+            {
+            id:8,
+            eng:"near, by",
+            ru:"рядом, у, около",
+            hint:"/ нИэ, бай /"
+            },
+            {
+            id:9,
+            eng:"something",
+            ru:"что-то",
+            hint:"/ самthын /"
+            },
+            {
+            id:10,
+            eng:"somewhere",
+            ru:"где-то",
+            hint:"/ сАмвээ /"
+            },
+            {
+            id:11,
+            eng:"sometimes",
+            ru:"иногда",
+            hint:"/ сАмтаймз /"
+            },
+            {
+            id:12,
+            eng:"nothing",
+            ru:"ничего",
+            hint:"/ наthын /"
+            },
+    ],
     dogBone: [
         {
             id:1,
