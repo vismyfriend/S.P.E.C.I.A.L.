@@ -377,6 +377,212 @@ const allQuestionsOneDeck = {
             // ru:"картинка совы PNG, много весит, но прозрачная зато",
         },
     ],
+    haveItDone: [
+        {
+            id:1,
+            eng:"Can you unblock a sink if it is blocked or do you usually call the service?",
+            ru:"Можете ли вы размораживать раковину, если она заблокирована, или вы обычно вызываете службу?",
+            hint:""
+            },
+            {
+            id:2,
+            eng:"Do you open jars with jam or do you have it open by your husband?",
+            ru:"Вы открываете банки с вареньем или это делает ваш муж?",
+            hint:""
+            },
+            {
+            id:3,
+            eng:"Can you change a wheel on a car or you need somebody to have it changed?",
+            ru:"Можете ли вы поменять шину (или вам придется обратиться к кому-то другому)?",
+            hint:""
+            },
+            {
+            id:4,
+            eng:"Do you cut your pet’s nails or do you pay somebody to have nails cut?",
+            ru:"Можете ли вы подстричь ногти/когти питомца (или вы заплатите, чтобы это сделали)?",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"What do you have done? What do you never do yourself but ask somebody to do it for you?",
+            ru:"Что вы обычно не делаете сами, а просите кого-то сделать для вас?",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"Can you recommend me a place to have my car cleaned?",
+            ru:"Можете ли вы порекомендовать место, где можно помыть мою машину?",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"Can you refill water or oil in a car or do you pay to somebody to have it refilled?",
+            ru:"Можете ли вы долить масло и воду в машине (или вам придется обратиться к кому-то другому)?",
+            hint:""
+            },
+            {
+            id:8,
+            eng:"Could you catch and kill a mouse in your house? Or would you ask someone to have it killed?",
+            ru:"Можете ли вы поймать и убить вредителей, таких как мыши (или вам придется обратиться к профессионалу)?",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"Did you buy clothes or do you have clothes bought for you?",
+            ru:"Вы сами покупаете одежду или вам покупают?",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"Did you have your hair cut (or did you do it yourself)?",
+            ru:"Вам подстригли волосы (или вы сделали это сами)?",
+            hint:""
+            },
+            {
+            id:11,
+            eng:"Do you assemble furniture or do you have it assembled?",
+            ru:"Вы сами собираете мебель после покупки или вам ее собирают?",
+            hint:""
+            },
+            {
+            id:12,
+            eng:"Did you really get that many likes on Instagram (or did you pay to have it liked)?",
+            ru:"Вам действительно поставили так много лайков в Instagram (или вы заплатили, чтобы их поставили)?",
+            hint:""
+            },
+            {
+            id:13,
+            eng:"Do you have servants? What do you have them do for you?",
+            ru:"У вас есть слуги? Что они делают для вас?",
+            hint:""
+            },
+            {
+            id:14,
+            eng:"Do you have your body waxed?",
+            ru:"Вам делают восковую эпиляцию?",
+            hint:""
+            },
+            {
+            id:15,
+            eng:"Do you have your pets groomed (or do you do it yourself)?",
+            ru:"Вам ухаживают за питомцами (или вы делаете это сами)?",
+            hint:""
+            },
+            {
+            id:16,
+            eng:"Do you have your suits cleaned (or do you wash them yourself)?",
+            ru:"Вам чистят костюмы (или вы стираете их сами)?",
+            hint:""
+            },
+            {
+            id:17,
+            eng:"Do you know a good place to have my clothes washed?",
+            ru:"Знаете ли вы хорошее место для химчистки?",
+            hint:""
+            },
+            {
+            id:18,
+            eng:"Do you control your finance or do you have it controlled by your wife/husband?",
+            ru:"Вы сами контролируете финансы или их контролирует ваш супруг(а)",
+            hint:""
+            },
+            {
+            id:19,
+            eng:"Don’t you think it’s disgusting to have your nose hair trimmed for you?",
+            ru:"Разве вам не кажется отвратительным, что вам подстригают волосы в носу?",
+            hint:""
+            },
+            {
+            id:20,
+            eng:"Do you teach your child English or do you have your child taught?",
+            ru:"Вы сами обучаете ребенка английскому или кто-то его обучает для вас?",
+            hint:""
+            },
+            {
+            id:21,
+            eng:"Do you need your room cleaned? I can clean it for you!",
+            ru:"Вам нужно в комнате убраться? Я могу!",
+            hint:""
+            },
+            {
+            id:22,
+            eng:"Did you have your pet sterilised?",
+            ru:"У вас когда-нибудь стерилизовали питомца?",
+            hint:""
+            },
+            {
+            id:23,
+            eng:"Have you ever had something stolen?",
+            ru:"У вас когда-нибудь что-то крали?",
+            hint:""
+            },
+            {
+            id:24,
+            eng:"Have you ever had your heart broken?",
+            ru:"У вас когда-нибудь разбивали сердце?",
+            hint:""
+            },
+            {
+            id:25,
+            eng:"Have you ever had your home decorated or renovated? How much did it cost?",
+            ru:"У вас когда-нибудь делали ремонт или декорировали дом? Сколько это стоило?",
+            hint:""
+            },
+            {
+            id:26,
+            eng:"Did you ever have pedicure done?",
+            ru:"Вам когда-нибудь делали педикюр?",
+            hint:""
+            },
+            {
+            id:27,
+            eng:"How much would you pay to have your home cleaned?",
+            ru:"Сколько вы бы заплатили за уборку вашего дома?",
+            hint:""
+            },
+            {
+            id:28,
+            eng:"How often do you have your teeth cleaned?",
+            ru:"Как часто вам чистят зубы?",
+            hint:""
+            },
+            {
+            id:29,
+            eng:"How would you feel if you had your phone stolen?",
+            ru:"Как бы вы себя чувствовали, если бы у вас украли телефон?",
+            hint:""
+            },
+            {
+            id:30,
+            eng:"What jobs would you like to have done by a maid?",
+            ru:"Какие работы вы бы хотели, чтобы выполнял дворецкий или горничная?",
+            hint:""
+            },
+            {
+            id:31,
+            eng:"Why do some people have their future husband or wife chosen for them?",
+            ru:"Почему некоторые люди позволяют выбирать себе будущего мужа или жену?",
+            hint:""
+            },
+            {
+            id:32,
+            eng:"Do you go to buy pizza or do you have it delivered?",
+            ru:"Вы ходите за пиццей или платите за доставку?",
+            hint:""
+            },
+            {
+            id:33,
+            eng:"Do you cook food or do you have your food cooked?",
+            ru:"Вы готовите или для вас готовят еду?",
+            hint:""
+            },
+            {
+            id:34,
+            eng:"Do you iron clothes or do you have it ironed?",
+            ru:"Вы сами гладите одежду или вам ее гладят?",
+            hint:""
+            },
+    ],
     strongEnough: [
         {
             id:1,
