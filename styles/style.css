@@ -52,6 +52,194 @@ button {
     cursor: pointer;
 }
 
+
+.buttonG {
+    position: relative;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 16px;
+    text-decoration:none;
+
+    padding: 0.5em 1.5em;
+    margin: 0.5em;
+
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+  
+    outline: 0;
+}
+
+div.buttonG {
+  line-height: 20px;
+  text-align: center;
+  /* height: 25px; */
+  width: 200px;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+button:active {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important; 
+}
+
+
+
+.glass3 {
+    transition: all 0.1s ease-in-out;
+    border-color: rgba(255, 255, 255, 0.6);
+    border-image: none;
+    border-style: double;
+    border-width: 1px;
+  }
+  
+  .glass3ref {
+      position: relative;
+      top: -73px;
+      width: 200px;
+      height: 45px;
+      border-radius: 6px;
+      background: linear-gradient(
+       172deg,
+       rgba(255,255,255,0.8) 0%,
+       rgba(255,255,255,0.4) 20%,
+       rgba(255,255,255,0.1) 48%,
+       rgba(255,255,255,0.0) 49%,
+       rgba(255,255,255,0.0) 100%
+      );
+    z-index: 1;
+  }
+  
+  .glass3:before {
+    position: absolute;
+    content: "";
+    top: -2px;
+    left: 2%;
+    width: 96%;
+    height: 2px;
+    background: linear-gradient(
+      to right,
+      rgba(0,0,0,0) 0%,
+      rgba(0,0,0,0.75) 15%,
+      rgba(0,0,0,0.9) 50%,
+      rgba(0,0,0,0.75) 85%,
+      rgba(0,0,0,0) 100%
+    );
+    z-index: 1;
+  }
+  
+  .glass3:after {
+    position: absolute;
+    content: "";
+    top: 100%;
+    left: 2%;
+    width: 96%;
+    height: 2px;
+    background: linear-gradient(
+      to right,
+      rgba(0,0,0,0) 0%,
+      rgba(0,0,0,0.5) 5%,
+      rgba(0,0,0,0.9) 50%,
+      rgba(0,0,0,0.5) 95%,
+      rgba(0,0,0,0) 100%
+    );
+    z-index: 1;
+  }
+  
+  div.glass3hi:before {
+    position: absolute;
+    content: "";
+    top: -2px;
+    left: 10%;
+    width: 36px;
+    height: 3px;
+    background: linear-gradient(
+      to right,
+      rgba(255,255,255,0) 0%,
+      rgba(255,255,255,0.99) 50%,
+      rgba(255,255,255,0) 100%
+    );
+    z-index: 1;
+  }
+  
+  div.glass3hi:after {
+    position: absolute;
+    content: "";
+    top: -2px;
+    left: calc(10% + 16px);
+    width: 4px;
+    height: 2px;
+    background-color: #fff;
+    box-shadow: 0 0 8px 3px rgba(255,255,255,0.99);
+    z-index: 1;
+  }
+  
+  #hi2 {
+    transform: translate(120px, -10px);
+    z-index: 9;
+  }
+  
+  #hi3 {
+    transform: rotate(90deg) translate(-35px, -100px);
+    z-index: 9;
+  }
+  
+  /**
+   * Style A
+   */
+  
+  button:hover.clear-a {
+      color: rgba(255, 255, 255, 0.99);
+      text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.99), 0px 0px 4px rgba(255, 255, 255, 0.75);
+      border-color: rgba(255, 255, 255, 0.4);
+      box-shadow:
+        0 1px 0 0 rgba(255, 255, 255, 0.4) inset,
+        0 2px 6px rgba(0, 0, 0, 0.5),
+        0 10px rgba(0, 0, 0, 0.05) inset,
+        0 0 5px 2px rgba(255, 255, 255, 0.75),
+        0 0 10px 2px rgba(255, 255, 255, 0.75) inset;
+  }
+  
+  .glass3hover {
+    position: relative;
+    top: -30px;
+    left: -1px;
+    width: 198px;
+    height: 41px;
+    line-height: 40px;
+    border-radius: 6px;
+    color: #000;
+    background: radial-gradient(
+      ellipse at center,
+      rgba(255,255,255,1) 0%,
+      rgba(255,255,255,0) 100%
+    ); /* W3C */
+    opacity: 0.0;
+    transition: all 0.3s ease-in-out;
+    z-index: 2;
+    box-shadow: 0 0 6px 3px rgba(255,255,255,0.5);
+    border: 2px groove rgba(255,255,255,0.5);
+  }
+  
+  div:hover.glass3hover {
+    opacity: 1.0;
+  }
+
+
 .header {
     display: flex;
     cursor: pointer;

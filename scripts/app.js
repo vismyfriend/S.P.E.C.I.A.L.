@@ -8,7 +8,6 @@ import linkToZoom from "./utils/linkToZoom.js"
 import aNGPatternData from "./utils/aNGdata.js"
 import { aNGmechanic } from "./games/aNGmechanic.js"
 import slotMachineData from "./utils/slotMachineData.js"
-import allSetsArray from "./utils/allSetsArray.js"
 import playList from "./utils/music.js"
 import quizQuestionsList from "./utils/QuizQData.js"
 // там с опечаткой написано что экспортировать в файле снизу, но все равно работает) default export решает!

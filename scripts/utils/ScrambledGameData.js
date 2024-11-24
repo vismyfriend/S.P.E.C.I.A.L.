@@ -186,7 +186,7 @@ const allWordsForScrambledGame = {
             hint:"/ эвриthын /"
             },
     ],
-    digits1: [
+    digits0m007: [
         {
             id:1,
             eng:"zero",

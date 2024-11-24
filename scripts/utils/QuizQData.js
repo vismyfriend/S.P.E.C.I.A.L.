@@ -97,6 +97,268 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    up0: [
+        {
+            id: 1,
+            quizQuestion: "Какую нформацию пытается донести до вас иностранец когда говорит вам: ' ХАУ А Ю '",
+            answers: [
+            {
+            answer: "спрашивает как жизнь",
+            correct: true
+            },
+            {
+            answer: "спрашивает сколько лет",
+            correct: false
+            },
+            {
+            answer: "говорит про индейцев",
+            correct: false
+            },
+            {
+            answer: "занят он кушает сейчас",
+            correct: false
+            },
+            {
+            answer: "понятия не имею",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Какую нформацию пытается донести до вас иностранец когда говорит вам: ' СПЭЛ Ё НЭЙМ '",
+            answers: [
+            {
+            answer: "хочет по буквам чтобы мы имя свое произнесли",
+            correct: true
+            },
+            {
+            answer: "говорит спать хочет и имя отеля нужно",
+            correct: false
+            },
+            {
+            answer: "что-то про имя его говорит",
+            correct: false
+            },
+            {
+            answer: "да кто же его знает чего ему надо",
+            correct: false
+            },
+            {
+            answer: "говорит во сне видел мое имя",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Что нужно сказать учителю или иностранцу, если вы не расслышали или не поняли чего они наговорили вам...",
+            answers: [
+            {
+            answer: "/ Ай дидэнт гет ит / I didn't get it",
+            correct: true
+            },
+            {
+            answer: "po-russki davai ! govori na nashem!",
+            correct: false
+            },
+            {
+            answer: "чего бл%н?! no undestand you !",
+            correct: false
+            },
+            {
+            answer: "Моя твоя не понимай Вася",
+            correct: false
+            },
+            {
+            answer: "А?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Как по-английски поблагодарить и сказать спасибо?",
+            answers: [
+            {
+            answer: "Thank you",
+            correct: true
+            },
+            {
+            answer: "Good!",
+            correct: false
+            },
+            {
+            answer: "Сенк Ю",
+            correct: false
+            },
+            {
+            answer: "Фенк Ю",
+            correct: false
+            },
+            {
+            answer: "I am fine!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Как попросить собеседника говорить помедленнее?",
+            answers: [
+            {
+            answer: "Speak slowly plese",
+            correct: true
+            },
+            {
+            answer: "I am stupid",
+            correct: false
+            },
+            {
+            answer: "I don't understand",
+            correct: false
+            },
+            {
+            answer: "Help me",
+            correct: false
+            },
+            {
+            answer: "You are sexy",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Как попросить собеседника повторить?",
+            answers: [
+            {
+            answer: "/ рипИт плиз / repeat please",
+            correct: true
+            },
+            {
+            answer: "povtorite pozhaluysta mister.",
+            correct: false
+            },
+            {
+            answer: "/ вот ду ю сэй / What do you say?",
+            correct: false
+            },
+            {
+            answer: "/ май инглиш из бэд / My English is bad",
+            correct: false
+            },
+            {
+            answer: "Позвонить Винсенту и сказать чтобы перевел",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Если вам иностранец говорит THANK YOU ( спасибо ) что вы ему ответите ?",
+            answers: [
+            {
+            answer: "you are welcome",
+            correct: true
+            },
+            {
+            answer: "обращайся, дружище",
+            correct: false
+            },
+            {
+            answer: "no thank you - 2 dollars!",
+            correct: false
+            },
+            {
+            answer: "goodbye",
+            correct: false
+            },
+            {
+            answer: "а что надо что-то говорить?",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Вот представьте: иностранец говориткакое-то слово, а вам непонятно… Как попросить его по буквам произнести слово?",
+            answers: [
+            {
+            answer: "/ СПЭЛ  ИТ  ПЛИЗ / Spell it please",
+            correct: true
+            },
+            {
+            answer: "/ рипИт плиз / repeat please",
+            correct: false
+            },
+            {
+            answer: "/ Ай дидэнт гет ит / I didn't get it",
+            correct: false
+            },
+            {
+            answer: "/ вот ду ю сэй / What do you say?",
+            correct: false
+            },
+            {
+            answer: "/ ОУКЕЙ ГУГЛ / Okay Google !",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Как на английском сказать БУДЬ ЗДОРОВ ? ( если ваш друг чихнул )",
+            answers: [
+            {
+            answer: "Bless you / БЛЭС Ю /",
+            correct: true
+            },
+            {
+            answer: "Don't die / донт дай /",
+            correct: false
+            },
+            {
+            answer: "Holly Shit / хОли щит /",
+            correct: false
+            },
+            {
+            answer: "Be not sick / би нот сик /",
+            correct: false
+            },
+            {
+            answer: "А чего это он чихает на меня!? Go home!",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Как на английском сказать: Я ОПЗДЫВАЮ!!!",
+            answers: [
+            {
+            answer: "АЙ ЭМ ЛЭЙТ",
+            correct: true
+            },
+            {
+            answer: "АЙ ЭМ ЛЭЙТЭР",
+            correct: false
+            },
+            {
+            answer: "СИ Ю ЛЭЙТЭР",
+            correct: false
+            },
+            {
+            answer: "АЙ ЭМ ЛАТЭ",
+            correct: false
+            },
+            {
+            answer: "АЙ ЭМ БИГ БОСС Я не опаздываю, я задерживаюсь",
+            correct: false
+            },
+            ]
+            },
+    ],
     howAreYou: [
         {
             id: 1,
@@ -723,7 +985,7 @@ const quizQuesstionsList = {
             ]
             },
         ],
-    digits1: [
+        digits0m001: [
         {
             id: 1,
             quizQuestion: "Нажми на 9",

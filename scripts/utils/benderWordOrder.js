@@ -1328,6 +1328,38 @@ const benderWordOrderSentences = {
             hint:" / джАмпэрз /"
             },
     ],
+    digits0m003: [
+        {
+            id:1,
+            eng:"T h r e e",
+            ru:"цифра 'Три'"
+            },
+            {
+            id:2,
+            eng:"E i g h t",
+            ru:"цифра 'Восемь'"
+            },
+            {
+                id:3,
+                eng:"F o u r",
+                ru:"цифра 'Четыре'"
+                },
+                {
+                    id:4,
+                    eng:"N i n e",
+                    ru:"цифра 'Девять'"
+                    },
+                    {
+                        id:5,
+                        eng:"F i v e",
+                        ru:"цифра 'Пять'"
+                        },
+                        {
+                            id:6,
+                            eng:"S e v e n",
+                            ru:"цифра 'Семь'"
+                            },
+    ],
     digits1: [
         {
             id:1,
@@ -1359,6 +1391,12 @@ const benderWordOrderSentences = {
                             eng:"S e v e n",
                             ru:"цифра 'Семь'"
                             },
+                        {
+                            id:7,
+                            eng:"z e r o",
+                            ru:"цифра 'Ноль'"
+                            },
+                      
     ],
     m03: [
         {
