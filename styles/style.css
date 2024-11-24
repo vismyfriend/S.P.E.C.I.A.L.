@@ -14,6 +14,9 @@
     user-select: none;
 }
 
+.phoneViewVertical {
+  position: relative;
+}
 .space {
     position: fixed;
     width: 400vw;
@@ -40,22 +43,7 @@
    }
 }
 
-.wallpaper {
-    /* background-image: url(../images/springwallpaper.jpg); */
-    /* background-image: url(../images/background\ agent.jpg); */
-    background-size: cover;
-    /* background-color: #ffffff; */
-    background-position: right;
-    opacity: 0.4;
-    overflow: hidden;
-    z-index: -100;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
 
-    
-}
 /* для всех кнопок базовый дизайн (стили) устанавливаем, поэтому без точки здесь. Дополнительные стили уже у нужных кнопок отдельно пропишем*/
 
 button {
@@ -67,6 +55,7 @@ button {
 .header {
     display: flex;
     cursor: pointer;
+    /* background-color: white; */
 }
 
 .headerPageReoad {
@@ -1156,11 +1145,12 @@ font-size: 20px;
 }
 
 .logo-special {
+    left: 0;
     z-index: -2;
-    position: absolute;
+    position: fixed;
     object-fit: contain;
     width: 100%;
-    bottom: 1px;
+    bottom: 0;
     /* left: calc(50% - 150px); */
     height: 220px;
     margin: 0;
@@ -1472,19 +1462,46 @@ font-size: 20px;
 
 /* ниже фон на сайте */
 
-/* уточнить как его отцентрировать */
-.fullscreen-bg {
-    overflow: hidden;
-    z-index: -100;
-    position: absolute;
+
+.wallpaper {
+    position: fixed;
+    top: 0;
+    left: 0;
     height: 100%;
     width: 100%;
-    left: 0;
-    opacity: 0.7;
-    user-select: none;
-    /* padding-top:45%; */
+    overflow: hidden;
+    z-index: -100;
+    /* opacity: 0.4; */
 }
 
+.wallpaper img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; /* Обеспечивает обрезку изображения для заполнения контейнера */
+}
+.fullscreen-bg {
+    position: fixed; /* Используйте fixed, чтобы видео оставалось на месте при прокрутке */
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -100;
+    opacity: 0.7;
+    user-select: none;
+}
+
+.backgroundVideo {
+    min-width: 100%; /* Минимальная ширина 100% */
+    min-height: 100%; /* Минимальная высота 100% */
+    width: auto; /* Автоматическая ширина для сохранения пропорций */
+    height: auto; /* Автоматическая высота для сохранения пропорций */
+    position: absolute; /* Позиционирование для растягивания */
+    top: 50%; /* Центрирование по вертикали */
+    left: 50%; /* Центрирование по горизонтали */
+    transform: translate(-50%, -50%); /* Центрирование видео */
+    object-fit: cover; /* Обеспечивает обрезку видео для заполнения контейнера */
+}
 
 
 /* выше фон на сайте */
@@ -1503,7 +1520,7 @@ font-size: 20px;
     padding: 0;
 }
 
-.layers {
+.winterStyle {
     background: rgb(0,17,30);
     background: -moz-linear-gradient(top,  rgba(0,17,30,1) 0%, rgba(3,61,94,1) 100%);
     background: -webkit-linear-gradient(top,  rgba(0,17,30,1) 0%,rgba(3,61,94,1) 100%);
@@ -2129,4 +2146,120 @@ font-size: 20px;
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
+}
+
+
+.autumnStyle {
+    /* position: relative; */
+    position: fixed;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(#333,#000);
+    overflow: hidden;
+}
+
+.leavesSet {
+position: absolute;
+left: 0;
+top: 0;
+pointer-events: none;
+width: 100%;
+height: 100%;
+z-index: 1;
+}
+
+.autumnStyle .leavesSet div {
+position: absolute;
+display: block;
+}
+
+
+.autumnStyle .leavesSet div:nth-child(1) {
+    left: 20%;
+    animation: animate 15s linear infinite;
+    animation-delay: -7%;
+    }
+
+    .autumnStyle .leavesSet div:nth-child(2) {
+        left: 50%;
+        animation: animate 20s linear infinite;
+        animation-delay: -5%;
+        }
+        .autumnStyle .leavesSet div:nth-child(3) {
+            left: 70%;
+            animation: animate 20s linear infinite;
+            animation-delay: 0%;
+            }
+        .autumnStyle .leavesSet div:nth-child(4) {
+            left: 0%;
+            animation: animate 15s linear infinite;
+            animation-delay: -5%;
+            }
+        .autumnStyle .leavesSet div:nth-child(5) {
+            left: 85%;
+            animation: animate 18s linear infinite;
+            animation-delay: -10%;
+            }
+        .autumnStyle .leavesSet div:nth-child(6) {
+            left: 0%;
+            animation: animate 12s linear infinite;
+            }
+            .autumnStyle .leavesSet div:nth-child(7) {
+                left: 15%;
+                animation: animate 14s linear infinite;
+                }
+            .autumnStyle .leavesSet div:nth-child(8) {
+                left: 60%;
+                animation: animate 15s linear infinite;
+                }
+@keyframes animate {
+    0%
+    {
+        opacity: 0;
+        top: -10%;
+        transform:  translateX(20px) rotate(0deg);
+    }
+    10%
+    {
+        opacity: 1;
+    }
+    20%
+    {
+        transform:  translateX(-20px) rotate(45deg);
+    }
+    40%
+    {
+     
+        transform:  translateX(-20px) rotate(90deg);
+    }
+    60%
+    {
+      
+        transform:  translateX(20px) rotate(180deg);
+    }
+    80%
+    {
+      
+        transform:  translateX(-20px) rotate(180deg);
+    }
+    100%
+    
+        {
+            top: 110%;
+            transform:  translateX(-20px) rotate(225deg);
+        }
+    
+}
+
+.leavesSet2 {
+    transform: scale(2) rotateY(180deg);
+    filter: blur(2px);
+    z-index: 3;
+}
+
+.leavesSet3 {
+    transform: scale(0.8) rotateX(180deg);
+    filter: blur(4px);
+    z-index: 4;
 }
