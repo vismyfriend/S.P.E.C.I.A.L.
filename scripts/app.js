@@ -24,6 +24,7 @@ const linksToHWbutton = document.querySelector(".popupMissionsAndSets__linksToHW
 const linkToZoomButton = document.querySelector(".popupMissionsAndSets__linkToZoomButton")
 const body = document.querySelector(".body")
 const logoSpecial = document.querySelector(".logo-special")
+const preloaderClick = document.querySelector(".preloaderClick")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
@@ -66,9 +67,12 @@ doTheMissionButton.addEventListener("click", doTheMission)
 
 
 clickTest.addEventListener("click", startGameLieToMe)
-
+function hidePreloader() {
+    preloaderClick.classList.add("none")
+}
 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
+preloaderClick.addEventListener("click", hidePreloader)
 
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")
 const popupMissionsAndSetsSets = document.querySelector(".popupMissionsAndSets__sets")
