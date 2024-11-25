@@ -97,6 +97,268 @@ const quizQuesstionsList = {
             ]
         },
     ],
+    prepositionsOfPlace: [
+        {
+            id: 1,
+            quizQuestion: "Как на английском сказать что что - то находится МЕЖДУ",
+            answers: [
+            {
+            answer: "between",
+            correct: true
+            },
+            {
+            answer: "under",
+            correct: false
+            },
+            {
+            answer: "in",
+            correct: false
+            },
+            {
+            answer: "above",
+            correct: false
+            },
+            {
+            answer: "near",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 2,
+            quizQuestion: "Как на английском сказать что что - то находится ВНУТРИ, В",
+            answers: [
+            {
+            answer: "in, inside",
+            correct: true
+            },
+            {
+            answer: "under",
+            correct: false
+            },
+            {
+            answer: "on",
+            correct: false
+            },
+            {
+            answer: "above",
+            correct: false
+            },
+            {
+            answer: "near",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 3,
+            quizQuestion: "Как на английском сказать что что - то находится НА чём-то",
+            answers: [
+            {
+            answer: "on something",
+            correct: true
+            },
+            {
+            answer: "above something",
+            correct: false
+            },
+            {
+            answer: "under something",
+            correct: false
+            },
+            {
+            answer: "near something",
+            correct: false
+            },
+            {
+            answer: "in something",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 4,
+            quizQuestion: "Как на английском сказать что что - то находится МЕЖДУ глаз ;-)",
+            answers: [
+            {
+            answer: "between eyes",
+            correct: true
+            },
+            {
+            answer: "between ears",
+            correct: false
+            },
+            {
+            answer: "between glaza",
+            correct: false
+            },
+            {
+            answer: "a nose -  нос",
+            correct: false
+            },
+            {
+            answer: "between nose",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 5,
+            quizQuestion: "Как на английском сказать что что - то находится НАД",
+            answers: [
+            {
+            answer: "above",
+            correct: true
+            },
+            {
+            answer: "under",
+            correct: false
+            },
+            {
+            answer: "in",
+            correct: false
+            },
+            {
+            answer: "on",
+            correct: false
+            },
+            {
+            answer: "near",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 6,
+            quizQuestion: "Как на английском произносится слово ABOVE ?",
+            answers: [
+            {
+            answer: "/ эбАв /",
+            correct: true
+            },
+            {
+            answer: "/ эбОв /",
+            correct: false
+            },
+            {
+            answer: "/ абОве /",
+            correct: false
+            },
+            {
+            answer: "/ эбАвэ /",
+            correct: false
+            },
+            {
+            answer: "/ эбОвэ /",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 7,
+            quizQuestion: "Как на русский язык переводится предлог ABOVE",
+            answers: [
+            {
+            answer: "над",
+            correct: true
+            },
+            {
+            answer: "под",
+            correct: false
+            },
+            {
+            answer: "у",
+            correct: false
+            },
+            {
+            answer: "возле",
+            correct: false
+            },
+            {
+            answer: "рядом",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 8,
+            quizQuestion: "Как НЕ переводится предлог NEAR ?",
+            answers: [
+            {
+            answer: "в",
+            correct: true
+            },
+            {
+            answer: "рядом",
+            correct: false
+            },
+            {
+            answer: "около",
+            correct: false
+            },
+            {
+            answer: "возле",
+            correct: false
+            },
+            {
+            answer: "у",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 9,
+            quizQuestion: "Как НЕ переводится предлог BY?",
+            answers: [
+            {
+            answer: "на",
+            correct: true
+            },
+            {
+            answer: "рядом",
+            correct: false
+            },
+            {
+            answer: "около",
+            correct: false
+            },
+            {
+            answer: "возле",
+            correct: false
+            },
+            {
+            answer: "у",
+            correct: false
+            },
+            ]
+            },
+            {
+            id: 10,
+            quizQuestion: "Как на английском сказать что что - то находится РЯДОМ с чем-то или ВОЗЛЕ чего-то",
+            answers: [
+            {
+            answer: "near, by",
+            correct: true
+            },
+            {
+            answer: "in, on",
+            correct: false
+            },
+            {
+            answer: "above, under",
+            correct: false
+            },
+            {
+            answer: "between",
+            correct: false
+            },
+            {
+            answer: "я понятия не имею",
+            correct: false
+            },
+            ]
+            },
+    ],
     up0: [
         {
             id: 1,
