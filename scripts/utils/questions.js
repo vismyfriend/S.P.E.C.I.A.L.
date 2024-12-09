@@ -8352,6 +8352,80 @@ const allQuestionsOneDeck = {
         },
     ],
    
+    allIwantforXmas: [
+        {
+            id:1,
+            eng:"I don't want a lot for New Year",
+            ru:"Я не хочу многого на Рождество,",
+            hint:""
+            },
+            {
+            id:2,
+            eng:"There is just one thing I need",
+            ru:"Есть одна вещь, которая мне нужна",
+            hint:""
+            },
+            {
+            id:3,
+            eng:"I don't care about the presents",
+            ru:"Я не волнуюсь о подарках ( мне пофиг на подарки )",
+            hint:""
+            },
+            {
+            id:4,
+            eng:"Under the Christmas tree Under the New Year tree",
+            ru:"Под рождественской ёлкой Под новогодней ёлкой",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"I won't even wish for snow",
+            ru:"Я даже не пожелаю снега",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"I just want you for New Year and",
+            ru:"Я лишь хочу тебя для себя",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"More than you could know",
+            ru:"Больше чем ты мог бы знать",
+            hint:""
+            },
+            {
+            id:8,
+            eng:"Make my wish come true",
+            ru:"Сделай моё желание правдой ( исполни моё желание )",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"All I want for Christmas is you",
+            ru:"Всё чего я хочу на Рождество это Виииииинсеееееент !",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"What more can I do? What else can I do?",
+            ru:"Что еще я могу сделать?",
+            hint:""
+            },
+            {
+            id:11,
+            eng:"I don't need to hang my stocking on the fireplace",
+            ru:"Мне не нужно вешать свой носок на камин",
+            hint:""
+            },
+            {
+            id:12,
+            eng:"Santa Claus won't make me happy",
+            ru:"Санта не сделает меня счастливым",
+            hint:""
+            },
+    ],
     up1: [
         {
             id: 1,
