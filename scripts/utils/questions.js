@@ -350,6 +350,374 @@ const allQuestionsOneDeck = {
             hint:""
             },
     ],
+    questionsXmas: [
+        {
+            id:1,
+            eng:"Do you set a New Year’s tree in the beginning or in the middle of December? (set – устанавливать)",
+            ru:"Ты устанавливаешь новогоднюю елку в начале или в середине декабря? (set – устанавливать)",
+            hint:""
+            },
+            {
+            id:2,
+            eng:"Do you like many toys or not many toys on New Year trees?",
+            ru:"Тебе нравятся много игрушек или не очень много игрушек на новогодних елках?",
+            hint:""
+            },
+            {
+            id:3,
+            eng:"Do you like different color toys on a New Year’s tree or the same color toys?",
+            ru:"Тебе нравятся игрушки разных цветов на новогодней елке или игрушки одного цвета?",
+            hint:""
+            },
+            {
+            id:4,
+            eng:"Usually how many balls or toys do you have for your New Year’s tree, more or less than twenty?",
+            ru:"Обычно сколько шаров или игрушек у тебя на новогодней елке: больше или меньше двадцати?",
+            hint:""
+            },
+            {
+            id:5,
+            eng:"When do you usually set a New Year’s tree?",
+            ru:"Когда ты обычно ставишь новогоднюю елку?",
+            hint:""
+            },
+            {
+            id:6,
+            eng:"Do you know anybody who doesn’t like New Year holidays?",
+            ru:"Ты знаешь кого-нибудь, кто не любит новогодние праздники?",
+            hint:""
+            },
+            {
+            id:7,
+            eng:"What color balls do you like to see on Christmas trees?",
+            ru:"Какого цвета шары тебе нравится видеть на рождественских елках?",
+            hint:""
+            },
+            {
+            id:8,
+            eng:"Do you have a big Christmas tree or a small Christmas tree? How many centimeters?",
+            ru:"У тебя большая или маленькая рождественская елка? Сколько сантиметров?",
+            hint:""
+            },
+            {
+            id:9,
+            eng:"What color X-mas lights do you like to see on New Year’s trees in the streets?",
+            ru:"Какого цвета огоньки на новогодних елках тебе нравятся видеть на улицах?",
+            hint:""
+            },
+            {
+            id:10,
+            eng:"Do you have Christmas lights on your Christmas tree? Is it safe to have Christmas lights?",
+            ru:"У тебя есть рождественские огоньки на твоей рождественской елке? Безопасно ли иметь рождественские огоньки?",
+            hint:""
+            },
+            {
+            id:11,
+            eng:"Is it safe to go out from home and leave the Christmas lights ON? Do you switch them OFF?",
+            ru:"Безопасно ли выходить из дома и оставлять рождественские огоньки включенными? Ты их выключаешь?",
+            hint:""
+            },
+            {
+            id:12,
+            eng:"What color are the lights on your New Year’s tree?",
+            ru:"Какого цвета огоньки на твоей новогодней елке?",
+            hint:""
+            },
+            {
+            id:13,
+            eng:"Do you like tinsel? / тинзэл / мишура (дождик украшение)",
+            ru:"Тебе нравится мишура?",
+            hint:""
+            },
+            {
+            id:14,
+            eng:"Does your pet like to play with a New Year tree?",
+            ru:"Твой питомец любит играть с новогодней елкой?",
+            hint:""
+            },
+            {
+            id:15,
+            eng:"Do you like see fireworks? Aren’t you afraid of them?",
+            ru:"Тебе нравится смотреть фейерверки? Ты не боишься их?",
+            hint:""
+            },
+            {
+            id:16,
+            eng:"What name of the tree do you like more: New Year Tree or Christmas tree?",
+            ru:"Какое название елки тебе нравится больше: новогодняя елка или рождественская елка?",
+            hint:""
+            },
+            {
+            id:17,
+            eng:"How much money do you agree to spend on fireworks for a New Year ?",
+            ru:"Сколько денег ты согласен потратить на фейерверки на Новый год?",
+            hint:""
+            },
+            {
+            id:18,
+            eng:"Do you watch any special TV shows or programs on the 31st of December?",
+            ru:"Ты смотришь какие-нибудь специальные телепередачи или программы 31 декабря?",
+            hint:""
+            },
+            {
+            id:19,
+            eng:"What clothes do you usually wear on New Year? Do you like costumes?",
+            ru:"Какую одежду ты обычно носишь на Новый год? Тебе нравятся костюмы?",
+            hint:""
+            },
+            {
+            id:20,
+            eng:"Do you make a New Year’s resolutions (обещания самому себе)?",
+            ru:"Ты делаешь новогодние обещания (обещания самому себе)?",
+            hint:""
+            },
+            {
+            id:21,
+            eng:"What are the traditions for New Year celebrations? What do people usually do at the table?",
+            ru:"Какие традиции существуют для новогодних празднований? Что люди обычно делают за столом?",
+            hint:""
+            },
+            {
+            id:22,
+            eng:"Do you like to go to a New Year’s party or do you like to stay home?",
+            ru:"Тебе нравится ходить на новогодние вечеринки или ты предпочитаешь оставаться дома?",
+            hint:""
+            },
+            {
+            id:23,
+            eng:"Who do you usually spend New Year with? (at 00:00) midnight",
+            ru:"С кем ты обычно проводишь Новый год? (в полночь)",
+            hint:""
+            },
+            {
+            id:24,
+            eng:"Do you send New Year’s cards to your friends?",
+            ru:"Ты отправляешь новогодние открытки своим друзьям?",
+            hint:""
+            },
+            {
+            id:25,
+            eng:"Do you remember your last New Year? Where was it? How was it?",
+            ru:"Ты помнишь свой последний Новый год? Где это было? Как это было?",
+            hint:""
+            },
+            {
+            id:26,
+            eng:"Tell any story about New year.",
+            ru:"Расскажи любую историю о Новом годе.",
+            hint:""
+            },
+            {
+            id:27,
+            eng:"Do you like handmade presents?",
+            ru:"Тебе нравятся подарки, сделанные своими руками?",
+            hint:""
+            },
+            {
+            id:28,
+            eng:"Is a book a good present?",
+            ru:"Книга — это хороший подарок?",
+            hint:""
+            },
+            {
+            id:29,
+            eng:"What is your favorite New Year’s song?",
+            ru:"Какая твоя любимая новогодняя песня?",
+            hint:""
+            },
+            {
+            id:30,
+            eng:"Do you believe in Santa Claus?",
+            ru:"Ты веришь в Деда Мороза?",
+            hint:""
+            },
+            {
+            id:31,
+            eng:"At what age children usually stop believing in Santa?",
+            ru:"В каком возрасте дети обычно перестают верить в Деда Мороза?",
+            hint:""
+            },
+            {
+            id:32,
+            eng:"Do you have a special New Year’s drink?",
+            ru:"У тебя есть специальный новогодний напиток?",
+            hint:""
+            },
+            {
+            id:33,
+            eng:"Do you like to drink champagne?",
+            ru:"Тебе нравится пить шампанское?",
+            hint:""
+            },
+            {
+            id:34,
+            eng:"What do you usually eat on New Year’s Eve?",
+            ru:"Что ты обычно ешь в канун Нового года?",
+            hint:""
+            },
+            {
+            id:35,
+            eng:"Does your city have a New Year parade?",
+            ru:"В твоем городе есть новогодний парад?",
+            hint:""
+            },
+            {
+            id:36,
+            eng:"Do you have a picture of the main New Year tree in the center of your city?",
+            ru:"У тебя есть фотография главной новогодней елки в центре твоего города?",
+            hint:""
+            },
+            {
+            id:37,
+            eng:"Do you ever watch old photos of previous New Years parties on your phone?",
+            ru:"Ты когда-нибудь смотришь старые фотографии предыдущих новогодних вечеринок на своем телефоне?",
+            hint:""
+            },
+            {
+            id:38,
+            eng:"What is your favorite New Year’s movie?",
+            ru:"Какой твой любимый новогодний фильм?",
+            hint:""
+            },
+            {
+            id:39,
+            eng:"Do you make a New Year’s wish?",
+            ru:"Ты загадываешь новогоднее желание?",
+            hint:""
+            },
+            {
+            id:40,
+            eng:"Do you like to travel during the New Year’s holidays?",
+            ru:"Тебе нравится путешествовать во время новогодних праздников?",
+            hint:""
+            },
+            {
+            id:41,
+            eng:"Would you agree to spend a New Year without snow?",
+            ru:"Ты согласился бы провести Новый год без снега?",
+            hint:""
+            },
+            {
+            id:42,
+            eng:"Would you agree to decorate a palm instead of a traditional tree?",
+            ru:"Ты согласился бы украсить пальму вместо традиционной елки?",
+            hint:""
+            },
+            {
+            id:43,
+            eng:"Do you like New Year’s countdown 10-9-8-….?",
+            ru:"Тебе нравится обратный отсчет до Нового года 10-9-8...?",
+            hint:""
+            },
+            {
+            id:44,
+            eng:"Do you kiss anybody at 00:00 midnight on the 31st of December?",
+            ru:"Ты целуешь кого-нибудь в полночь 31 декабря?",
+            hint:""
+            },
+            {
+            id:45,
+            eng:"Describe ideas – how are you gonna celebrate your 60th New Year?",
+            ru:"Опиши идеи — как ты собираешься отмечать свой 60-й Новый год?",
+            hint:""
+            },
+            {
+            id:46,
+            eng:"Did you celebrate New Year not at your home? Maybe in the streets?",
+            ru:"Ты отмечал Новый год не дома? Может быть, на улице?",
+            hint:""
+            },
+            {
+            id:47,
+            eng:"What are some unique New Year’s traditions in your country?",
+            ru:"Какие уникальные новогодние традиции есть в твоей стране?",
+            hint:""
+            },
+            {
+            id:48,
+            eng:"How do you usually decorate your home for New Year’s?",
+            ru:"Как ты обычно украшаешь свой дом к Новому году?",
+            hint:""
+            },
+            {
+            id:49,
+            eng:"What is your favorite New Year’s dish?",
+            ru:"Какое твое любимое новогоднее блюдо?",
+            hint:""
+            },
+            {
+            id:50,
+            eng:"What is the best New Year’s gift you have ever received?",
+            ru:"Какой лучший новогодний подарок ты когда-либо получал?",
+            hint:""
+            },
+            {
+            id:51,
+            eng:"What is your favorite New Year’s movie or TV show, and why do you like it?",
+            ru:"Какой твой любимый новогодний фильм или телешоу, и почему тебе это нравится?",
+            hint:""
+            },
+            {
+            id:52,
+            eng:"How do you usually spend the first day of the new year?",
+            ru:"Как ты обычно проводишь первый день нового года?",
+            hint:""
+            },
+            {
+            id:53,
+            eng:"Do you have a favorite New Year’s song?",
+            ru:"У тебя есть любимая новогодняя песня?",
+            hint:""
+            },
+            {
+            id:54,
+            eng:"Many people don’t have New Year’s mood. What about you? Do you have it?",
+            ru:"Многие люди не чувствуют новогоднего настроения. А как насчет тебя? У тебя оно есть?",
+            hint:""
+            },
+            {
+            id:55,
+            eng:"Did your father help Santa to give presents to you?",
+            ru:"Твой отец помогал Деду Морозу дарить тебе подарки?",
+            hint:""
+            },
+            {
+            id:56,
+            eng:"What is the most unusual New Year’s decoration you can imagine?",
+            ru:"Какое самое необычное новогоднее украшение ты можешь представить?",
+            hint:""
+            },
+            {
+            id:57,
+            eng:"How do you usually spend the last day of the old year?",
+            ru:"Как ты обычно проводишь последний день старого года?",
+            hint:""
+            },
+            {
+            id:58,
+            eng:"What is the most unusual New Year’s costume for children?",
+            ru:"Какой самый необычный новогодний костюм для детей?",
+            hint:""
+            },
+            {
+            id:59,
+            eng:"What costume is the very usual for kids for New Year?",
+            ru:"Какой самый обычный костюм для детей на Новый год?",
+            hint:""
+            },
+            {
+            id:60,
+            eng:"How do you usually say goodbye to the old year and welcome the new one?",
+            ru:"Как ты обычно прощаешься со старым годом и встречаешь новый?",
+            hint:""
+            },
+            {
+            id:61,
+            eng:"Do you celebrate the Old New Year? When is it?",
+            ru:"Ты отмечаешь Старый Новый год? Когда он?",
+            hint:""
+            },
+    ],
     devmode0: [
         {
             id: 1,
