@@ -19,6 +19,7 @@ import benderWordOrderSentences from "./utils/benderWordOrder.js"
 const doTheMissionButton = document.querySelector(".doTheMission")
 const gotomainscreenbtn = document.querySelector(".gotomainscreen")
 const glassButtons = document.querySelector(".glass-buttons-container")
+const glassButtonsContainerOne = document.querySelector(".glass-buttons-container-one")
 const aNGPattern = document.querySelector(".popupMissionsAndSets__aNGPattern")
 const linksToHWbutton = document.querySelector(".popupMissionsAndSets__linksToHWbutton")
 const linkToZoomButton = document.querySelector(".popupMissionsAndSets__linkToZoomButton")
@@ -54,9 +55,10 @@ function startGameLieToMe() {
 function doTheMission() {
     doTheMissionButton.classList.add("none")
     glassButtons.classList.add("none")
+    glassButtonsContainerOne.classList.add("none")
     popupMissionsAndSetsSets.classList.remove("hide")
     userSearchesForMission.classList.remove("none")
-    popupMissionsAndSetsDescription.textContent = "Вводи название миссии или листай: 👉"
+    popupMissionsAndSetsDescription.textContent = "Вводи название миссии 👉"
     gotomainscreenbtn.classList.remove("none")
 
   

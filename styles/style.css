@@ -430,6 +430,7 @@ button:active {
     text-align: center;
     /* position: relative; */
     width: 230px;
+    height: 45px;
 
 }
 
@@ -942,6 +943,7 @@ font-size: 20px;
     height: 42px;
     display: flex;
     align-items: end;
+    align-items: center;
     /* align-items: stretch; */
     padding: 0 22px;
     text-align: center;
@@ -994,6 +996,31 @@ font-size: 20px;
     padding-bottom: 15px;
     max-width: 500px; */
     /* font-size: 25px; */
+}
+/* Стилизация полосы прокрутки для WebKit */
+.popupMissionsAndSets__sets::-webkit-scrollbar {
+    width: 12px; /* Ширина полосы прокрутки */
+    height: 12px; /* Высота полосы прокрутки */
+}
+
+.popupMissionsAndSets__sets::-webkit-scrollbar-track {
+    background: #d3d3d3; /* Цвет фона полосы прокрутки (светло-серый) */
+    border-radius: 10px; /* Закругление углов */
+}
+
+.popupMissionsAndSets__sets::-webkit-scrollbar-thumb {
+    background: #888; /* Цвет ползунка (серый) */
+    border-radius: 10px; /* Закругление углов ползунка */
+}
+
+.popupMissionsAndSets__sets::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Цвет ползунка при наведении (темно-серый) */
+}
+
+/* Стилизация полосы прокрутки для Firefox */
+.popupMissionsAndSets__sets {
+    scrollbar-width: thin; /* Установить тонкую полосу прокрутки */
+    scrollbar-color: #888 #d3d3d3; /* Цвет ползунка (серый) и трека (светло-серый) */
 }
 
 .popupMissionsAndSets__sets.hide {
@@ -2008,7 +2035,8 @@ font-size: 20px;
 
 
 /* новые кнопки */
-.glass-buttons-container.none {
+.glass-buttons-container.none, 
+.glass-buttons-container-one.none {
     display: none;
 }
 
@@ -2138,6 +2166,7 @@ font-size: 20px;
 }
 */
 
+.glass-buttons-container-one,
 .glass-buttons-container {
     margin-top: 20px;
     display: -webkit-box;
@@ -2185,6 +2214,7 @@ font-size: 20px;
         color: #fff; 
         z-index: 1;
         font-weight: 400; 
+        text-align: center;
         letter-spacing: 1px; 
         text-decoration: none; 
         overflow: hidden; 
