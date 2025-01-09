@@ -17,6 +17,7 @@ import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 
 const doTheMissionButton = document.querySelector(".doTheMission")
+const doTheMissionButtonD = document.querySelector(".doTheMissionD")
 const gotomainscreenbtn = document.querySelector(".gotomainscreen")
 const glassButtons = document.querySelector(".glass-buttons-container")
 const glassButtonsContainerOne = document.querySelector(".glass-buttons-container-one")
@@ -27,6 +28,7 @@ const body = document.querySelector(".body")
 const logoSpecial = document.querySelector(".logo-special")
 const preloaderClick = document.querySelector(".preloaderClick")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
+const dictionariesBtn = document.querySelector(".dictionaryBtn")
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
 headerPageReoad?.addEventListener("click", pageReloadRefresh)
@@ -37,6 +39,8 @@ const clickTest = document.querySelector(".clickTest")
 
 const backToChoosingTheMissions = document.querySelector(".backToChoosingTheMissions")
 backToChoosingTheMissions.addEventListener("click", backToTheVeryFirstScreen)
+
+
 
 
 window.addEventListener('load', function() {
@@ -52,6 +56,15 @@ function startGameLieToMe() {
     clickTest.classList.add("none")
 }
 
+dictionariesBtn.addEventListener('click', openDictionaries)
+
+function openDictionaries() {
+    glassButtons.classList.remove("none")
+    glassButtonsContainerOne.classList.add("none")
+    logoSpecial.classList.add("hidden")
+
+}
+
 function doTheMission() {
     doTheMissionButton.classList.add("none")
     glassButtons.classList.add("none")
@@ -60,12 +73,14 @@ function doTheMission() {
     userSearchesForMission.classList.remove("none")
     popupMissionsAndSetsDescription.textContent = "Вводи название миссии 👉"
     gotomainscreenbtn.classList.remove("none")
+    console.log("выполнить миссию")
 
   
 }
 
 
 doTheMissionButton.addEventListener("click", doTheMission)
+doTheMissionButtonD.addEventListener("click", doTheMission)
 
 
 clickTest.addEventListener("click", startGameLieToMe)
@@ -75,6 +90,8 @@ function hidePreloader() {
 
 const isTouch = () => 'ontouchstart' in window || window.DocumentTouch && document instanceof window.DocumentTouch || navigator.maxTouchPoints > 0 || window.navigator.msMaxTouchPoints > 0
 preloaderClick.addEventListener("click", hidePreloader)
+
+
 
 const dataFromEachPopupMissionsAndSets = document.querySelectorAll(".popupMissionsAndSets__set")
 const popupMissionsAndSetsSets = document.querySelector(".popupMissionsAndSets__sets")

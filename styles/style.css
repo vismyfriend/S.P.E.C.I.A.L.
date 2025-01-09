@@ -2339,6 +2339,10 @@ font-size: 20px;
     }
 }
 
+.glass-buttons-container {
+    margin-top: 50px;
+}
+
 
 #preloader {
     position: fixed;
