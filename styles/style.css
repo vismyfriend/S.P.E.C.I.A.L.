@@ -2495,10 +2495,17 @@ display: block;
     height: 100%;
     background-color: black;
     display: flex;
+    flex-direction: column; /* Устанавливаем вертикальное направление для фраз и полосы */
     justify-content: center;
     align-items: center;
     z-index: 9999;
-    
+}
+
+.loading-phrase {
+    color: white;
+    margin-bottom: 10px; /* Отступ между фразой и полосой загрузки */
+    font-size: 18px; /* Размер шрифта для лучшей читаемости */
+    text-align: center; /* Центрируем текст */
 }
 
 .loading-bar {
@@ -2516,7 +2523,8 @@ display: block;
     background-color: gray;
     transition: width 0.1s ease; /* Плавное заполнение */
     border-radius: 15px; /* Закругление краев заполненной части */
-
+    position: relative; /* Обеспечиваем относительное позиционирование для правильного отображения */
+    z-index: 1; /* Устанавливаем z-index для заполненной части */
 }
 
 #loading-text {
@@ -2526,4 +2534,5 @@ display: block;
     left: 50%;
     transform: translateX(-50%);
     line-height: 30px; /* Центрирование текста по вертикали */
+    z-index: 2; /* Устанавливаем z-index выше, чтобы текст был поверх заполненной части */
 }

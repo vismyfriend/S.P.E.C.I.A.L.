@@ -15,6 +15,8 @@ import { QuizQ } from "./games/QuizQ.js"
 import gameTwoDecksListData from "./utils/gameTwoDecksData.js"
 import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
+import preloaderPhrases from './utils/preloaderPhrases.js';
+
 
 const doTheMissionButton = document.querySelector(".doTheMission")
 const doTheMissionButtonD = document.querySelector(".doTheMissionD")
@@ -53,7 +55,19 @@ document.addEventListener('DOMContentLoaded', function() {
     const preloader = document.getElementById('preloaderbar');
     const filled = document.getElementById('filled');
     const loadingText = document.getElementById('loading-text');
+    const loadingPhrase = document.getElementById('loading-phrase');
 
+    const randomPhrase = preloaderPhrases[Math.floor(Math.random() * preloaderPhrases.length)];
+     
+  console.log(preloaderPhrases)
+  console.log(randomPhrase)
+  console.log(loadingPhrase)
+    // Устанавливаем текст фразы
+    if (loadingPhrase) {
+        loadingPhrase.textContent = randomPhrase;
+    } else {
+        console.error('Element with id "loading-phrase" not found');
+    }
     let progress = 0;
 
     // Функция для обновления прогресса
@@ -286,7 +300,7 @@ function backToTheVeryFirstScreen() {
 
     // уточнить таймер сброс таймера то есть ломает игру если мы еще не заходили в игру квиз
 
-    console.log(quizGameClass)
+    // console.log(quizGameClass)
     // егорчик помоги
     quizGameClass?.stopTimer()
     // поставил знак вопроса, чтобу пропускало ошибку
@@ -1902,6 +1916,21 @@ function backToChoosingTheTask() {
 }
 
 
+
+
+
+    // Функция для скрытия прелоадера
+    function hidePreloaderBar() {
+        const preloader = document.getElementById('preloaderbar');
+        if (preloader) {
+            console.log("проверка скрытия прелоадера")
+            preloader.style.display = 'none'; // Скрываем прелоадер
+        }
+    }
+    
+    // Устанавливаем таймер на 8 секунд
+    setTimeout(hidePreloaderBar, 8000);
+    
 
 
 
