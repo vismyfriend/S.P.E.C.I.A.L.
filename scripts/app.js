@@ -16,6 +16,7 @@ import gameTwoDecksListData from "./utils/gameTwoDecksData.js"
 import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 import preloaderPhrases from './utils/preloaderPhrases.js';
+import pages from "./utils/wordPagesData.js"
 
 
 const doTheMissionButton = document.querySelector(".doTheMission")
@@ -31,6 +32,36 @@ const logoSpecial = document.querySelector(".logo-special")
 const preloaderClick = document.querySelector(".preloaderClick")
 const fryFuturamaMainScreenIntro = document.querySelector(".fryFuturamaMainScreenIntro")
 const dictionariesBtn = document.querySelector(".dictionaryBtn")
+const wordPagesContainer = document.querySelector(".wordPagesContainer")
+const buttonWordPages = document.querySelector(".buttonWordPages")
+const buttonWordPages1 = document.querySelector(".wordPage1")
+
+
+buttonWordPages.addEventListener('click', openWordPages)
+
+function openWordPages() {
+    wordPagesContainer.classList.remove("none")
+    glassButtonsContainerOne.classList.add("none")
+    glassButtons.classList.add("none")
+    logoSpecial.classList.add("hidden")
+    popupMissionsAndSets.classList.add('none')
+}
+
+buttonWordPages1.addEventListener('click', loadPage)
+
+function loadPage(pageNumber) {
+    const contentDiv = document.getElementById('contentWordPages');
+    const page = pages[pageNumber];
+
+    if (page) {
+        contentDiv.innerHTML = `<h2>${page.title}</h2><p>${page.text}</p>
+        `;
+    } else {
+        contentDiv.innerHTML = '<p>Страница не найдена.</p>';
+    }
+}
+
+
 
 const headerPageReoad = document.querySelector(".headerPageReoad")
 headerPageReoad?.addEventListener("click", pageReloadRefresh)
@@ -59,9 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const randomPhrase = preloaderPhrases[Math.floor(Math.random() * preloaderPhrases.length)];
      
-  console.log(preloaderPhrases)
-  console.log(randomPhrase)
-  console.log(loadingPhrase)
     // Устанавливаем текст фразы
     if (loadingPhrase) {
         loadingPhrase.textContent = randomPhrase;
