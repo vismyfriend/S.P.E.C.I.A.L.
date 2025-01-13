@@ -2486,3 +2486,44 @@ display: block;
     filter: blur(4px);
     z-index: 4;
 }
+
+.preloaderbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    
+}
+
+.loading-bar {
+    width: 80%;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 15px; /* Закругление краев */
+    position: relative;
+    background-color: transparent;
+}
+
+.filled {
+    height: 100%;
+    width: 0;
+    background-color: gray;
+    transition: width 0.1s ease; /* Плавное заполнение */
+    border-radius: 15px; /* Закругление краев заполненной части */
+
+}
+
+#loading-text {
+    position: absolute;
+    color: white;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    line-height: 30px; /* Центрирование текста по вертикали */
+}

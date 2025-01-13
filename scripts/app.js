@@ -49,6 +49,41 @@ window.addEventListener('load', function() {
 });
 
 
+document.addEventListener('DOMContentLoaded', function() {
+    const preloader = document.getElementById('preloaderbar');
+    const filled = document.getElementById('filled');
+    const loadingText = document.getElementById('loading-text');
+
+    let progress = 0;
+
+    // Функция для обновления прогресса
+    function updateProgress() {
+        if (progress < 100) {
+            progress++;
+            filled.style.width = progress + '%';
+            loadingText.textContent = 'Loading ' + progress + '%';
+            requestAnimationFrame(updateProgress); // Плавная анимация
+        } else {
+            setTimeout(() => {
+                preloader.style.display = 'none'; // Скрываем прелоадер после завершения
+            }, 500); // Задержка перед скрытием
+        }
+    }
+
+    updateProgress(); // Запуск обновления прогресса
+
+    // Событие загрузки страницы
+    window.addEventListener('load', function() {
+        progress = 100; // Устанавливаем прогресс на 100%
+        filled.style.width = '100%';
+        loadingText.textContent = 'Loading 100%';
+        setTimeout(() => {
+            preloader.style.display = 'none'; // Скрываем прелоадер
+        }, 500); // Задержка перед скрытием
+    });
+});
+
+
 
 function startGameLieToMe() {
     popupMissionsAndSets.classList.add("none")
