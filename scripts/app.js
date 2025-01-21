@@ -17,6 +17,8 @@ import { gameTwoDecks } from "./games/gameTwoDecks.js"
 import benderWordOrderSentences from "./utils/benderWordOrder.js"
 import preloaderPhrases from './utils/preloaderPhrases.js';
 import pages from "./utils/wordPagesData.js"
+import disclaimerText from './utils/disclaimer.js';
+import termsAndConditionsText from './utils/termsAndConditions.js';
 
 
 const doTheMissionButton = document.querySelector(".doTheMission")
@@ -35,6 +37,59 @@ const dictionariesBtn = document.querySelector(".dictionaryBtn")
 const wordPagesContainer = document.querySelector(".wordPagesContainer")
 const buttonWordPages = document.querySelector(".buttonWordPages")
 const buttonWordPages1 = document.querySelector(".wordPage1")
+
+
+
+// disclaimer
+
+document.addEventListener('DOMContentLoaded', function () {
+    const startButton = document.getElementById('start-button');
+    const disclaimerWindow = document.querySelector('.disclaimer-window');
+    // const content = document.getElementById('content');
+    const modal = document.getElementById('modal');
+    const closeModal = document.getElementById('close-modal');
+    const modalTitle = document.getElementById('modal-title');
+    const modalText = document.getElementById('modal-text');
+
+    // Обработчик нажатия на кнопку "Start"
+    startButton.addEventListener('click', function () {
+        disclaimerWindow.style.display = 'none'; // Скрыть окно с дисклеймером
+        // content.style.display = 'block'; 
+        // Показать основной контент
+    });
+
+    // Обработчик нажатия на ссылку "disclaimer"
+    document.getElementById('disclaimer-link').addEventListener('click', function () {
+        modalTitle.textContent = 'Дисклеймер 18+';
+        modalText.textContent = 'Ваш текст дисклеймера здесь...'; // Добавьте текст дисклеймера
+        modalText.textContent = disclaimerText; // Добавьте текст дисклеймера
+        modal.style.display = 'block'; // Открыть модальное окно
+    });
+
+    // Обработчик нажатия на ссылку "terms & conditions"
+    document.getElementById('terms-link').addEventListener('click', function () {
+        modalTitle.textContent = 'Условия и положения';
+        modalText.textContent = 'Ваш текст условий и положений здесь...'; // Добавьте текст условий
+        modalText.textContent = termsAndConditionsText; // Добавьте текст условий
+        modal.style.display = 'block'; // Открыть модальное окно
+    });
+
+    // Обработчик закрытия модального окна
+    closeModal.addEventListener('click', function () {
+        modal.style.display = 'none'; // Закрыть модальное окно
+    });
+
+    // Закрытие модального окна при клике вне его
+    window.addEventListener('click', function (event) {
+        if (event.target === modal) {
+            modal.style.display = 'none'; // Закрыть модальное окно
+        }
+    });
+});
+
+
+// disclaimer
+
 
 
 buttonWordPages.addEventListener('click', openWordPages)

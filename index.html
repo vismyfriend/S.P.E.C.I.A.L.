@@ -13,6 +13,32 @@
 
 
 <body class="body">
+    
+    
+    <div class="disclaimer-window">
+        <div class="disclaimer-container">
+            <h1>Welcome</h1>
+            <button id="start-button" class="start-button">Start</button>
+            <p class="terms-text">
+                By clicking 'START' I confirm that I have read and agree to the 
+                <span class="link" id="disclaimer-link">disclaimer</span> and 
+                <span class="link" id="terms-link">terms & conditions</span>.
+            </p>
+           
+        </div>
+    </div>
+
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="close-modal">&times;</span>
+            <h2 id="modal-title"></h2>
+            <p id="modal-text" class="modal-text"></p>
+        </div>
+    </div>
+
+
+
 
     <div class="preloaders none">
         <div id="preloader" class="preloaderClick">
@@ -454,7 +480,6 @@
                         <li class="popupMissionsAndSets__set green" data-set="devmode2">devmode 2</li>
                         <li class="popupMissionsAndSets__set green" data-set="devmode3">devmode 3</li> -->
                         <!-- <li class="popupMissionsAndSets__set " data-set="myLinks">Join <br> подключиться </li> -->
-                        <li class="popupMissionsAndSets__set pink" data-set="questionsXmas">New Year's <br>questions</li>
                         <li class="popupMissionsAndSets__set green" data-set="digits0m001">mission 001 <br>ц и ф р ы</li>
                         <li class="popupMissionsAndSets__set green" data-set="digits0m002">mission 002 <br>d i g i t s</li>
                         <li class="popupMissionsAndSets__set green" data-set="digits0m003">mission 003 <br>r o b o t</li>
@@ -530,6 +555,7 @@
                         <li class="popupMissionsAndSets__set blue" data-set="first1lesson">проверь <br>память 1</li>
                         <li class="popupMissionsAndSets__set orange" data-set="first2lessons">проверь <br>память 2</li>
                         <li class="popupMissionsAndSets__set" data-set="m000">Intro<br> Введение</li>
+                        <li class="popupMissionsAndSets__set pink" data-set="questionsXmas">New Year's <br>questions</li>
                         <li class="popupMissionsAndSets__set blue" data-set="m001">Mission One</li>
                         <!-- <li class="popupMissionsAndSets__set" data-set="spellingbombs">закрыто на ремонт</li> -->
                         <li class="popupMissionsAndSets__set blue" data-set="m002">Mission Two</li>
@@ -899,11 +925,27 @@
 
                     <div class="btn doTheMissionD"><a>выполнить миссию</a></div>
                     
-                    <div class="btn buttonWordPages none">
+                    <div class="btn buttonWordPages none ">
 
                         <a>кнопка разработчика</a> 
                 
                     </div>
+                    <div class="btn silver none">
+
+                        <a>кнопка nothing</a> 
+                
+                    </div>
+                    <div class="btn rose none">
+
+                        <a>кнопка nothing</a> 
+                
+                    </div>
+                    <div class="btn dark none">
+
+                        <a>кнопка nothing</a> 
+                
+                    </div>
+                 
                     
                     
                   
@@ -1210,6 +1252,7 @@
     </div>
     <!-- <button class="backToChoosingTheMissions2">  🔎 вернуться к выбору миссий 🕵️‍♀️ </button> -->
     <script type="module" src="./scripts/app.js"></script>
+
 </body>
 
 </html>

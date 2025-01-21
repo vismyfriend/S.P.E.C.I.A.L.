@@ -1503,7 +1503,7 @@ const quizQuesstionsList = {
             correct: false
             },
             {
-            answer: "zero and one",
+            answer: "наверное 9 найн",
             correct: false
             },
             ]
