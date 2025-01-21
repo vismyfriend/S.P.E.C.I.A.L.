@@ -2389,6 +2389,10 @@ font-size: 20px;
     height: 100%;
     background-color: rgba(3, 3, 57, 0.9); /* Темно-синий фон */
     background-color: rgba(0, 0, 0, 0.85); /* Темно-синий фон */
+    background-image: url(../images/truth-concept-composition-detective-desk.jpg);
+    background-position: center; /* Центрирование фона */
+    background-repeat: no-repeat; /* Запрет повторения фона */
+    background-size: cover; /* Масштабирование фона для заполнения контейнера */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -2398,6 +2402,7 @@ font-size: 20px;
 .disclaimer-container {
     text-align: center;
     color: white;
+    color: black;
 }
 
 .start-button {
@@ -2419,6 +2424,7 @@ font-size: 20px;
 }
 .terms-text {
     margin-top: 20px;
+    max-width: 300px;
 
 }
 
@@ -2461,6 +2467,7 @@ font-size: 20px;
 
 .link {
     color: #FFD700; /* Золотистый цвет */
+    color: #181cf5; /* ссылки цвет */
     text-decoration: underline;
     cursor: pointer;
 }
