@@ -1724,9 +1724,7 @@ font-size: 20px;
 /* //создал класс none, чтобы некоторые элементы изначально были сразу скрыты */
 /* можно м наоборот просто у каждого элемента в стилях прописать display: none  */
 /* поставил его в самоый конец, а ты были проблемы какие-то и иногда что-то не скрывалось (userSearchesForMission) */
-.none {
-    display: none;
-}
+
 
 
 .contentWordPages {
@@ -2381,14 +2379,14 @@ font-size: 20px;
 
 
 
-.disclaimer-window {
+.disclaimer-window, 
+.aNewExerciseWindow {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(3, 3, 57, 0.9); /* Темно-синий фон */
-    background-color: rgba(0, 0, 0, 0.85); /* Темно-синий фон */
+    background-color: white;
     background-image: url(../images/truth-concept-composition-detective-desk.jpg);
     background-position: center; /* Центрирование фона */
     background-repeat: no-repeat; /* Запрет повторения фона */
@@ -2399,13 +2397,15 @@ font-size: 20px;
     z-index: 9999;
 }
 
-.disclaimer-container {
+.disclaimer-container,
+.aNewExerciseWindow-container {
     text-align: center;
     color: white;
     color: black;
 }
 
-.start-button {
+.start-button,
+.aNewExerciseWindow-start-button {
     background-color: #7a197d; /* кнопки цвет */
     border: none;
     color: white;
@@ -2421,12 +2421,17 @@ font-size: 20px;
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+    width: 120px;
+    height: 55px; 
 }
+.aNewExerciseWindowTerms-text,
 .terms-text {
     margin-top: 20px;
     max-width: 300px;
 
 }
+
+
 
 
 .start-button:hover {
@@ -2472,7 +2477,8 @@ font-size: 20px;
     cursor: pointer;
 }
 
-.modal {
+.modal,
+.aNewExerciseWindowmodal {
     display: none; /* Скрыто по умолчанию */
     position: fixed;
     z-index: 10000;
@@ -2484,7 +2490,8 @@ font-size: 20px;
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-.modal-content {
+.modal-content,
+.aNewExerciseWindowmodal-content {
     background-color: #fefefe;
     margin: 15% auto;
     padding: 20px;
@@ -2493,13 +2500,15 @@ font-size: 20px;
     color: black;
     border-radius: 4px;
 }
-.modal-text {
+.modal-text,
+.aNewExerciseWindowmodal-text {
     margin-top: 7px;
     font-size: 13px;
     text-align: justify; /* Выравнивание последнего абзаца по ширине */
 }
 
-.close {
+.close,
+.aNewExerciseWindowclose {
     color: #aaa;
     float: right;
     font-size: 28px;
@@ -2714,4 +2723,10 @@ display: block;
     transform: translateX(-50%);
     line-height: 30px; /* Центрирование текста по вертикали */
     z-index: 2; /* Устанавливаем z-index выше, чтобы текст был поверх заполненной части */
+}
+
+
+
+.none {
+    display: none;
 }

@@ -19,6 +19,8 @@ import preloaderPhrases from './utils/preloaderPhrases.js';
 import pages from "./utils/wordPagesData.js"
 import disclaimerText from './utils/disclaimer.js';
 import termsAndConditionsText from './utils/termsAndConditions.js';
+import aNewExerciseWindowText1 from './utils/aNewExerciseWindowText1.js';
+import aNewExerciseWindowText2 from './utils/aNewExerciseWindowText2.js';
 
 
 const doTheMissionButton = document.querySelector(".doTheMission")
@@ -89,6 +91,58 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 // disclaimer
+
+
+// anewExercise
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    const aNewExerciseWindowstartbutton = document.getElementById('aNewExerciseWindow-start-button');
+    const aNewExerciseWindowdisclaimerWindow = document.querySelector('.aNewExerciseWindow');
+    // const content = document.getElementById('content');
+    const aNewExerciseWindowmodal = document.getElementById('aNewExerciseWindowmodal');
+    const aNewExerciseWindowcloseModal = document.getElementById('aNewExerciseWindowclose-modal');
+    const aNewExerciseWindowmodalTitle = document.getElementById('aNewExerciseWindowmodal-title');
+    const aNewExerciseWindowmodalText = document.getElementById('aNewExerciseWindowmodal-text');
+
+    // Обработчик нажатия на кнопку "Start"
+    aNewExerciseWindowstartbutton.addEventListener('click', function () {
+        aNewExerciseWindowdisclaimerWindow.style.display = 'none'; // Скрыть окно с дисклеймером
+        // content.style.display = 'block'; 
+        // Показать основной контент
+    });
+
+    // Обработчик нажатия на ссылку "disclaimer"
+    document.getElementById('aNewExerciseWindow-disclaimer-link').addEventListener('click', function () {
+        aNewExerciseWindowmodalTitle.textContent = 'ex1';
+        aNewExerciseWindowmodalText.textContent = 'Ваш текст дисклеймера здесь...'; // Добавьте текст дисклеймера
+        aNewExerciseWindowmodalText.textContent = aNewExerciseWindowText1; // Добавьте текст дисклеймера
+        aNewExerciseWindowmodal.style.display = 'block'; // Открыть модальное окно
+    });
+
+    // Обработчик нажатия на ссылку "terms & conditions"
+    document.getElementById('aNewExerciseWindowTerms-link').addEventListener('click', function () {
+        aNewExerciseWindowmodalTitle.textContent = 'ex2';
+        aNewExerciseWindowmodalText.textContent = 'Ваш текст условий и положений здесь...'; // Добавьте текст условий
+        aNewExerciseWindowmodalText.textContent = aNewExerciseWindowText2; // Добавьте текст условий
+        aNewExerciseWindowmodal.style.display = 'block'; // Открыть модальное окно
+    });
+
+    // Обработчик закрытия модального окна
+    aNewExerciseWindowcloseModal.addEventListener('click', function () {
+        aNewExerciseWindowmodal.style.display = 'none'; // Закрыть модальное окно
+    });
+
+    // Закрытие модального окна при клике вне его
+    aNewExerciseWindowmodal.addEventListener('click', function (event) {
+        if (event.target === aNewExerciseWindowmodal) {
+            aNewExerciseWindowmodal.style.display = 'none'; // Закрыть модальное окно
+        }
+    });
+});
+// anewExercise
+
+
 
 
 
